@@ -147,7 +147,7 @@
         "Specters of the Rail 0.0",
         "SotR"
       ],
-      "parent": "19.1",
+      "parent": "18.15",
       "date": "2016-07-08"
     },
     "isPrime": false,
@@ -725,13 +725,38 @@
               "slash": 20.2,
               "puncture": 20.3
             },
-            "slide": "405",
-            "slam": {
-              "damage": "270.00",
-              "radial": {
-                "damage": "0.00",
-                "radius": 8
-              }
+            "slide": "405"
+          },
+          {
+            "name": "Slam Attack",
+            "speed": 1,
+            "crit_chance": 25,
+            "crit_mult": 2.3,
+            "status_chance": 10,
+            "shot_type": "AoE",
+            "falloff": {
+              "start": 0,
+              "end": 8,
+              "reduction": 0.5
+            },
+            "damage": {
+              "impact": 270
+            }
+          },
+          {
+            "name": "Heavy Slam Attack",
+            "speed": 1,
+            "crit_chance": 25,
+            "crit_mult": 2.3,
+            "status_chance": 10,
+            "shot_type": "AoE",
+            "falloff": {
+              "start": 0,
+              "end": 9,
+              "reduction": 0.3
+            },
+            "damage": {
+              "blast": 405
             }
           }
         ],

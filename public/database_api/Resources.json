@@ -276,6 +276,36 @@
   },
   {
     "category": "Resources",
+    "description": "A mark of identification carried by soldiers during The Old War so that their names might be remembered if they never returned home.\n\nLocation: Obtained from crates and enemies in Perita Rebellion missions (Dark Refractory).",
+    "drops": [
+      {
+        "chance": 0.03,
+        "location": "Dark Refractory, Deimos/Recall: Dactolyst (The Perita Rebellion), Rotation A",
+        "rarity": "Rare",
+        "type": "150X Agnovidisc"
+      },
+      {
+        "chance": 0.03,
+        "location": "Dark Refractory, Deimos/Recall: Hunhullus (The Perita Rebellion), Rotation A",
+        "rarity": "Rare",
+        "type": "150X Agnovidisc"
+      },
+      {
+        "chance": 0.03,
+        "location": "Dark Refractory, Deimos/Recall: Vanguard (The Perita Rebellion), Rotation A",
+        "rarity": "Rare",
+        "type": "150X Agnovidisc"
+      }
+    ],
+    "imageName": "agnovidisc-930a4da3bc.png",
+    "masterable": false,
+    "name": "Agnovidisc",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem"
+  },
+  {
+    "category": "Resources",
     "description": "A violet gem that forms from the crystallization of byproducts expelled from the Weeping Towers.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers",
     "imageName": "amarast-72f2d07387.png",
     "itemCount": 6,
@@ -319,6 +349,24 @@
     "tradable": false,
     "type": "Resource",
     "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagUncommon"
+  },
+  {
+    "category": "Resources",
+    "description": "Technology developed by Executor Ballas to allow remote piloting of a hijacked Warframe for short periods, forcing them to act against even their deepest instincts.\n\nObtained from Recall: Vanguard missions in The Perita Rebellion (The Dark Refractory).",
+    "drops": [
+      {
+        "chance": 1,
+        "location": "Dark Refractory, Deimos/Recall: Vanguard (The Perita Rebellion), Rotation B",
+        "rarity": "Common",
+        "type": "Ascaris Prime"
+      }
+    ],
+    "imageName": "ascaris-prime-eb6764f97f.png",
+    "masterable": false,
+    "name": "Ascaris Prime",
+    "tradable": true,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveBossResourcePrimesItem"
   },
   {
     "category": "Resources",
@@ -1594,20 +1642,20 @@
       }
     ],
     "imageName": "calda-toroid-652e0532d3.png",
-    "itemCount": 2,
+    "itemCount": 3,
     "masterable": false,
     "name": "Calda Toroid",
     "parents": [
       "Dissic Scaffold",
       "Exard Scaffold",
-      "Haztech Apparel (Operator)",
-      "Haztech Cuirass (Operator)",
+      "Haztech Apparel",
+      "Haztech Cuirass",
       "Kubrodon Ventkid Apparel",
       "Kubrodon Ventkid Cuirass",
       "Outrider Cuirass",
       "Propa Scaffold",
-      "Smelter Apparel (Operator)",
-      "Smelter Cuirass (Operator)",
+      "Smelter Apparel",
+      "Smelter Cuirass",
       "Urga Bracket",
       "Vent Pobber Ventkid Apparel",
       "Vent Pobber Ventkid Cuirass",
@@ -1703,7 +1751,7 @@
     "consumeOnBuild": false,
     "description": "Resilient components used to reinforce the plated sheets of metal strapped to Grineer Ships.\n\nLocation: Eximus units in the Grineer Shipyard Tileset, and Railjack missions in Earth, Saturn, and Veil Proximas",
     "imageName": "carbides-7a527a7e84.png",
-    "itemCount": 2000,
+    "itemCount": 800,
     "masterable": false,
     "name": "Carbides",
     "parents": [
@@ -2083,11 +2131,11 @@
       "Shraksun Scaffold",
       "Vargeet Jai Ii",
       "Vargeet Ruhang Ii",
-      "Zauba Apparel (Operator)",
-      "Zauba Cuirass (Operator)",
-      "Zauba Greaves (Operator)",
-      "Zauba Mask (Operator)",
-      "Zauba Pauldrons (Operator)"
+      "Zauba Apparel",
+      "Zauba Cuirass",
+      "Zauba Greaves",
+      "Zauba Mask",
+      "Zauba Pauldrons"
     ],
     "patchlogs": [
       {
@@ -2263,7 +2311,7 @@
       }
     ],
     "imageName": "condroc-wing-eb7ec93710.png",
-    "itemCount": 5,
+    "itemCount": 15,
     "masterable": false,
     "name": "Condroc Wing",
     "parents": [
@@ -3651,6 +3699,16 @@
   },
   {
     "category": "Resources",
+    "description": "Stolen golden seals emblematic of royal authority in Duviri. Return them to restore Dominus Thrax to the throne.\n\nObtained by completing Isleweaver missions in Duviri during Operation: Eight Claw",
+    "imageName": "dominus-aureus-d16ed0f6af.png",
+    "masterable": false,
+    "name": "Dominus Aureus",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemEvent"
+  },
+  {
+    "category": "Resources",
     "description": "Dracroot is a staple of the Wyrmling’s diet.\n\nLocation: Duviri",
     "drops": [
       {
@@ -3703,7 +3761,7 @@
   },
   {
     "category": "Resources",
-    "description": "This robust, carnivorous plant has adapted to conditions in polluted waters. \n\nLocation: Obtained by using a Codex Scanner on Dusklight Sarracenia plants growing in Grineer Shipyards found commonly on Ceres",
+    "description": "This robust, carnivorous plant has adapted to conditions in polluted waters. \n\nLocation: Obtained by gathering Dusklight Sarracenia plants growing in Grineer Shipyards found commonly on Ceres",
     "imageName": "dusklight-sarracenia-6a698a114a.png",
     "itemCount": 2,
     "masterable": false,
@@ -3860,6 +3918,20 @@
   {
     "category": "Resources",
     "description": "A token celebrating the successful solution of a Duviri Enigma.\n\nLocation: Earned by completing Enigmas in The Duviri Experience",
+    "drops": [
+      {
+        "chance": 0.0769,
+        "location": "Duviri Murmur Invasion Rewards (Steel Path), Rotation A",
+        "rarity": "Rare",
+        "type": "8X Enigma Gyrum"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Duviri Murmur Invasion Rewards, Rotation A",
+        "rarity": "Rare",
+        "type": "8X Enigma Gyrum"
+      }
+    ],
     "imageName": "enigma-gyrum-868dc87606.png",
     "masterable": false,
     "name": "Enigma Gyrum",
@@ -4040,7 +4112,7 @@
       }
     ],
     "imageName": "entrati-lanthorn-3ee4c5dafc.png",
-    "itemCount": 5,
+    "itemCount": 10,
     "masterable": false,
     "name": "Entrati Lanthorn",
     "parents": [
@@ -4114,7 +4186,8 @@
     "name": "Entrati Obols",
     "parents": [
       "Ekhein",
-      "Grimoire"
+      "Grimoire",
+      "Thalys"
     ],
     "tradable": false,
     "type": "Resource",
@@ -4881,7 +4954,7 @@
   },
   {
     "category": "Resources",
-    "description": "This resilient plant provides a natural food source in frigid areas of the Origin system. \n\nLocation: Obtained by using a Codex Scanner on Frostleaf plants that grow on Venus, Neptune, and Pluto",
+    "description": "This resilient plant provides a natural food source in frigid areas of the Origin system. \n\nLocation: Obtained by gathering Frostleaf plants that grow on Venus, Neptune, and Pluto",
     "imageName": "frostleaf-528659b4f2.png",
     "itemCount": 8,
     "masterable": false,
@@ -5134,10 +5207,16 @@
         "location": "Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation C",
         "rarity": "Uncommon",
         "type": "5X Gorgaricus Spore"
+      },
+      {
+        "chance": 0.3,
+        "location": "Nokko: Weed The Gardens Rewards, Rotation B",
+        "rarity": "Uncommon",
+        "type": "20X Gorgaricus Spore"
       }
     ],
     "imageName": "gorgaricus-spore-32dbb7ad0d.png",
-    "itemCount": 60,
+    "itemCount": 20,
     "masterable": false,
     "name": "Gorgaricus Spore",
     "parents": [
@@ -5386,7 +5465,6 @@
     "masterable": false,
     "name": "Grokdrul",
     "parents": [
-      "Archwing Launcher",
       "Fosfor Blau",
       "Kronsh",
       "Lanzo Fishing Spear",
@@ -5588,11 +5666,11 @@
       "Caliban Cranion Helmet",
       "Exceptional Sentient Core",
       "Phahd Scaffold",
-      "Vahd Apparel (Operator)",
-      "Vahd Cuirass (Operator)",
-      "Vahd Greaves (Operator)",
-      "Vahd Mask (Operator)",
-      "Vahd Pauldrons (Operator)"
+      "Vahd Apparel",
+      "Vahd Cuirass",
+      "Vahd Greaves",
+      "Vahd Mask",
+      "Vahd Pauldrons"
     ],
     "patchlogs": [
       {
@@ -5701,15 +5779,15 @@
     "consumeOnBuild": false,
     "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "imageName": "hespazym-alloy-ebcdeeba7a.png",
-    "itemCount": 50,
+    "itemCount": 30,
     "masterable": false,
     "name": "Hespazym Alloy",
     "parents": [
       "Dissic Scaffold",
       "Exard Scaffold",
       "Frak Stabilizer",
-      "Haztech Greaves (Operator)",
-      "Haztech Mask (Operator)",
+      "Haztech Greaves",
+      "Haztech Mask",
       "Highbrow",
       "Hothead",
       "Kubrodon Ventkid Greaves",
@@ -5720,8 +5798,8 @@
       "Outrider Mask",
       "Propa Scaffold",
       "Runway",
-      "Smelter Greaves (Operator)",
-      "Smelter Mask (Operator)",
+      "Smelter Greaves",
+      "Smelter Mask",
       "Stitch",
       "Styanax Gerousic Helmet",
       "Tatsu",
@@ -5816,6 +5894,16 @@
   },
   {
     "category": "Resources",
+    "description": "The passionate heat of flames fuels the path to redemption.\n\nLocation: Obtained from crates and bosses in the Descendia (Dark Refractory).",
+    "imageName": "ignia-1a22fe0e03.png",
+    "masterable": false,
+    "name": "Ignia",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/CoHResourceCommonItem"
+  },
+  {
+    "category": "Resources",
     "description": "An integral component of Sentient anatomy.  Rarely found undamaged, the specimen may prove useful.\n\nLocation: Drops from Vomvalysts on the Plains of Eidolon (Earth) at night, and from Sentients found on Lua and the Veil Proxima",
     "drops": [
       {
@@ -5839,6 +5927,12 @@
       {
         "chance": 0.1218,
         "location": "Mimic",
+        "rarity": "Common",
+        "type": "Intact Sentient Core"
+      },
+      {
+        "chance": 0.5,
+        "location": "Archimedean Itzam",
         "rarity": "Common",
         "type": "Intact Sentient Core"
       },
@@ -6037,7 +6131,6 @@
     "masterable": false,
     "name": "Iradite",
     "parents": [
-      "Archwing Launcher",
       "Cela Bracket",
       "Fosfor Rahd",
       "Korb",
@@ -6606,6 +6699,36 @@
   },
   {
     "category": "Resources",
+    "description": "Awarded to soldiers during the The Old War for distinction in battle.\n\nLocation: Obtained from crates and enemies in Perita Rebellion missions(Dark Refractory).",
+    "drops": [
+      {
+        "chance": 0.03,
+        "location": "Dark Refractory, Deimos/Recall: Dactolyst (The Perita Rebellion), Rotation A",
+        "rarity": "Rare",
+        "type": "60X Laudavi"
+      },
+      {
+        "chance": 0.03,
+        "location": "Dark Refractory, Deimos/Recall: Hunhullus (The Perita Rebellion), Rotation A",
+        "rarity": "Rare",
+        "type": "60X Laudavi"
+      },
+      {
+        "chance": 0.03,
+        "location": "Dark Refractory, Deimos/Recall: Vanguard (The Perita Rebellion), Rotation A",
+        "rarity": "Rare",
+        "type": "60X Laudavi"
+      }
+    ],
+    "imageName": "laudavi-00f69b076e.png",
+    "masterable": false,
+    "name": "Laudavi",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem"
+  },
+  {
+    "category": "Resources",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Lazulite Toroids by defeating the Exploiter Orb on the Orb Vallis (Venus).",
     "imageName": "lazulite-toroid-d69a6b9510.png",
     "masterable": false,
@@ -6749,9 +6872,9 @@
   },
   {
     "category": "Resources",
-    "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by using a Codex Scanner on Lunar Pitcher plants that grow on Lua",
+    "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
     "imageName": "lunar-pitcher-f17f7c3873.png",
-    "itemCount": 50,
+    "itemCount": 6,
     "masterable": false,
     "name": "Lunar Pitcher",
     "parents": [
@@ -6771,6 +6894,34 @@
     "tradable": false,
     "type": "Plant",
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenPitcherPlantItem"
+  },
+  {
+    "category": "Resources",
+    "description": "A delicate paraneural interface allowing a duly evolved Sentient pilot to command the colossal Hunhullus as if it were a second skin.\n\nObtained from Recall: Hunhullus missions in The Perita Rebellion (The Dark Refractory)",
+    "drops": [
+      {
+        "chance": 1,
+        "location": "Dark Refractory, Deimos/Recall: Hunhullus (The Perita Rebellion), Rotation B",
+        "rarity": "Common",
+        "type": "Lyroic Bridge"
+      }
+    ],
+    "imageName": "lyroic-bridge-05795fec0f.png",
+    "masterable": false,
+    "name": "Lyroic Bridge",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveBossResourceHunhullusItem"
+  },
+  {
+    "category": "Resources",
+    "description": "A core of rage, jealously guarded in a burnished shell.\n\nLocation: Obtained from crates and bosses in the Descendia (Dark Refractory).",
+    "imageName": "maphica-c3ee359bdc.png",
+    "masterable": false,
+    "name": "Maphica",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/CoHResourceRareItem"
   },
   {
     "category": "Resources",
@@ -6899,6 +7050,16 @@
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem"
   },
   {
+    "category": "Resources",
+    "description": "Awarded by Grand Carnus Roathe in recognition of valorous deeds past and present.\n\nObtained from Perita Rebellion (Dark Refractory) and Operation Alerts during Operation: Blood of Perita.\nExchange with Roathe after completing The Old Peace Quest.",
+    "imageName": "marks-of-valiance-ec298e3edb.png",
+    "masterable": false,
+    "name": "Marks Of Valiance",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCurrencyItem"
+  },
+  {
     "buildPrice": 2500,
     "buildQuantity": 10,
     "buildTime": 60,
@@ -6928,7 +7089,7 @@
     "consumeOnBuild": false,
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "imageName": "marquise-veridos-217877dacf.png",
-    "itemCount": 20,
+    "itemCount": 10,
     "masterable": false,
     "name": "Marquise Veridos",
     "parents": [
@@ -7074,7 +7235,7 @@
   },
   {
     "category": "Resources",
-    "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Dragonlily plants that grow on Earth",
+    "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
     "imageName": "moonlight-dragonlily-1d96fd8309.png",
     "itemCount": 6,
     "masterable": false,
@@ -7092,7 +7253,7 @@
   },
   {
     "category": "Resources",
-    "description": "This rare plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Jadeleaf plants that grow on Earth",
+    "description": "This rare plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Jadeleaf plants that grow on Earth",
     "imageName": "moonlight-jadeleaf-619d6ad934.png",
     "itemCount": 1,
     "masterable": false,
@@ -7109,7 +7270,7 @@
   },
   {
     "category": "Resources",
-    "description": "This common plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Threshcone plants that grow on Earth",
+    "description": "This common plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Threshcone plants that grow on Earth",
     "imageName": "moonlight-threshcone-4b4540893f.png",
     "itemCount": 15,
     "masterable": false,
@@ -7627,10 +7788,16 @@
         "location": "Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation A",
         "rarity": "Uncommon",
         "type": "5X Mytocardia Spore"
+      },
+      {
+        "chance": 0.3,
+        "location": "Nokko: Critter Liberation Rewards, Rotation B",
+        "rarity": "Uncommon",
+        "type": "20X Mytocardia Spore"
       }
     ],
     "imageName": "mytocardia-spore-a69a9e3d86.png",
-    "itemCount": 120,
+    "itemCount": 20,
     "masterable": false,
     "name": "Mytocardia Spore",
     "parents": [
@@ -8182,7 +8349,7 @@
       }
     ],
     "imageName": "nullstones-bcb7543ba8.png",
-    "itemCount": 2,
+    "itemCount": 1,
     "masterable": false,
     "name": "Nullstones",
     "parents": [
@@ -9266,11 +9433,11 @@
     "name": "Radian Sentirum",
     "parents": [
       "Anspatha Brace",
-      "Ceno Apparel (Operator)",
-      "Ceno Cuirass (Operator)",
-      "Ceno Greaves (Operator)",
-      "Ceno Helmet (Operator)",
-      "Ceno Pauldrons (Operator)",
+      "Ceno Apparel",
+      "Ceno Cuirass",
+      "Ceno Greaves",
+      "Ceno Helmet",
+      "Ceno Pauldrons",
       "Dorma Hound",
       "Eidolon Ephemera",
       "Exceptional Sentient Core"
@@ -9348,6 +9515,24 @@
     "tradable": false,
     "type": "Resource",
     "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseOneClanItem"
+  },
+  {
+    "category": "Resources",
+    "description": "The evolved core of a Dactolyst, bearing its true self-given name and identity. When deprived of Tau pollen, the core becomes susceptible to forcible reprogramming.\n\nObtained from Recall: Dactolyst missions in The Perita Rebellion (The Dark Refractory).",
+    "drops": [
+      {
+        "chance": 1,
+        "location": "Dark Refractory, Deimos/Recall: Dactolyst (The Perita Rebellion), Rotation B",
+        "rarity": "Common",
+        "type": "Ren Hypercore"
+      }
+    ],
+    "imageName": "ren-hypercore-dbfc764a4f.png",
+    "masterable": false,
+    "name": "Ren Hypercore",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveBossResourceDactolystItem"
   },
   {
     "category": "Resources",
@@ -9447,7 +9632,7 @@
   },
   {
     "category": "Resources",
-    "description": "This plant was introduced to arid regions across the Origin System, for its ability to collect moisture in harsh environments. \n\nLocation: Obtained by using a Codex Scanner on Ruk's Claw plants that grow on Mars",
+    "description": "This plant was introduced to arid regions across the Origin System, for its ability to collect moisture in harsh environments. \n\nLocation: Obtained by gathering Ruk's Claw plants that grow on Mars",
     "imageName": "ruk's-claw-e1bc050e85.png",
     "itemCount": 6,
     "masterable": false,
@@ -9486,7 +9671,8 @@
       "Edun",
       "Sampotes",
       "Sun & Moon",
-      "Syam"
+      "Syam",
+      "Thalys"
     ],
     "tradable": false,
     "type": "Resource",
@@ -9812,6 +9998,78 @@
   },
   {
     "category": "Resources",
+    "description": "A remnant of battle with Oraxia, the spider that once wore this skin is gone… though it is not easy to tell where.\n\nObtained by defeating Oraxia in Isleweaver missions (Duviri)",
+    "drops": [
+      {
+        "chance": 0.195,
+        "location": "Duviri Murmur Invasion Rewards (Steel Path), Rotation B",
+        "rarity": "Uncommon",
+        "type": "20X Scuttler Husk"
+      },
+      {
+        "chance": 0.195,
+        "location": "Duviri Murmur Invasion Rewards (Steel Path), Rotation B",
+        "rarity": "Uncommon",
+        "type": "21X Scuttler Husk"
+      },
+      {
+        "chance": 0.195,
+        "location": "Duviri Murmur Invasion Rewards (Steel Path), Rotation B",
+        "rarity": "Uncommon",
+        "type": "23X Scuttler Husk"
+      },
+      {
+        "chance": 0.195,
+        "location": "Duviri Murmur Invasion Rewards (Steel Path), Rotation B",
+        "rarity": "Uncommon",
+        "type": "24X Scuttler Husk"
+      },
+      {
+        "chance": 0.195,
+        "location": "Duviri Murmur Invasion Rewards, Rotation B",
+        "rarity": "Uncommon",
+        "type": "16X Scuttler Husk"
+      },
+      {
+        "chance": 0.195,
+        "location": "Duviri Murmur Invasion Rewards, Rotation B",
+        "rarity": "Uncommon",
+        "type": "17X Scuttler Husk"
+      },
+      {
+        "chance": 0.195,
+        "location": "Duviri Murmur Invasion Rewards, Rotation B",
+        "rarity": "Uncommon",
+        "type": "19X Scuttler Husk"
+      },
+      {
+        "chance": 0.195,
+        "location": "Duviri Murmur Invasion Rewards, Rotation B",
+        "rarity": "Uncommon",
+        "type": "20X Scuttler Husk"
+      },
+      {
+        "chance": 0.22,
+        "location": "Duviri Murmur Invasion Rewards (Steel Path), Rotation B",
+        "rarity": "Uncommon",
+        "type": "22X Scuttler Husk"
+      },
+      {
+        "chance": 0.22,
+        "location": "Duviri Murmur Invasion Rewards, Rotation B",
+        "rarity": "Uncommon",
+        "type": "18X Scuttler Husk"
+      }
+    ],
+    "imageName": "scuttler-husk-5227c288ac.png",
+    "masterable": false,
+    "name": "Scuttler Husk",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemB"
+  },
+  {
+    "category": "Resources",
     "description": "A rare Eidolon Gem, created from the fossilized blood of an ancient Sentient.\n\nLocation: Plains of Eidolon (Earth) from Blue Mining Veins and Thumper Bulls. This Rare Gem can only be mined by the Advanced Nosam Cutter or Sunpoint Plasma Drill.",
     "drops": [
       {
@@ -9889,6 +10147,36 @@
     "tradable": false,
     "type": "Resource",
     "uniqueName": "/Lotus/Types/Items/Deimos/SeriglassShard"
+  },
+  {
+    "category": "Resources",
+    "description": "Medals awarded to Orokin soldiers during The Old War for acts of distinguished service.\n\nLocation: Obtained from crates and enemies in Perita Rebellion missions(Dark Refractory).",
+    "drops": [
+      {
+        "chance": 0.03,
+        "location": "Dark Refractory, Deimos/Recall: Dactolyst (The Perita Rebellion), Rotation A",
+        "rarity": "Rare",
+        "type": "25X Servoris"
+      },
+      {
+        "chance": 0.03,
+        "location": "Dark Refractory, Deimos/Recall: Hunhullus (The Perita Rebellion), Rotation A",
+        "rarity": "Rare",
+        "type": "25X Servoris"
+      },
+      {
+        "chance": 0.03,
+        "location": "Dark Refractory, Deimos/Recall: Vanguard (The Perita Rebellion), Rotation A",
+        "rarity": "Rare",
+        "type": "25X Servoris"
+      }
+    ],
+    "imageName": "servoris-885462c307.png",
+    "masterable": false,
+    "name": "Servoris",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem"
   },
   {
     "category": "Resources",
@@ -10011,7 +10299,8 @@
     "parents": [
       "Argo & Vel",
       "Sampotes",
-      "Sun & Moon"
+      "Sun & Moon",
+      "Thalys"
     ],
     "tradable": false,
     "type": "Resource",
@@ -10063,17 +10352,17 @@
       }
     ],
     "imageName": "sola-toroid-54f209afd3.png",
-    "itemCount": 5,
+    "itemCount": 3,
     "masterable": false,
     "name": "Sola Toroid",
     "parents": [
       "Cela Bracket",
       "Certus Brace",
-      "Haztech Greaves (Operator)",
+      "Haztech Greaves",
       "Kubrodon Ventkid Greaves",
       "Outrider Greaves",
       "Plaga Brace",
-      "Smelter Greaves (Operator)",
+      "Smelter Greaves",
       "Suo Brace",
       "Vent Pobber Ventkid Greaves",
       "Vent Rat Greaves"
@@ -10534,7 +10823,7 @@
   },
   {
     "category": "Resources",
-    "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Dragonlily plants that grow on Earth",
+    "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
     "imageName": "sunlight-dragonlily-aaeb487cc1.png",
     "itemCount": 4,
     "masterable": false,
@@ -10551,7 +10840,7 @@
   },
   {
     "category": "Resources",
-    "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Jadeleaf plants that grow on Earth",
+    "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Jadeleaf plants that grow on Earth",
     "imageName": "sunlight-jadeleaf-db857bb828.png",
     "itemCount": 1,
     "masterable": false,
@@ -10568,7 +10857,7 @@
   },
   {
     "category": "Resources",
-    "description": "This common plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Threshcone plants that grow on Earth",
+    "description": "This common plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Threshcone plants that grow on Earth",
     "imageName": "sunlight-threshcone-b0e6273f84.png",
     "itemCount": 15,
     "masterable": false,
@@ -10874,6 +11163,34 @@
   },
   {
     "category": "Resources",
+    "description": "The dust of decayed universes, rich in entropy. Entrati's research postulates it as the animating agent of the nightmarish Murmur.\n\nObtained from Murmur in Isleweaver missions (Duviri)",
+    "drops": [
+      {
+        "chance": 0.0769,
+        "location": "Duviri Murmur Invasion Rewards (Steel Path), Rotation A",
+        "rarity": "Rare",
+        "type": "25X Temporal Dust"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Duviri Murmur Invasion Rewards, Rotation A",
+        "rarity": "Rare",
+        "type": "20X Temporal Dust"
+      }
+    ],
+    "imageName": "temporal-dust-61196e77bb.png",
+    "itemCount": 100,
+    "masterable": false,
+    "name": "Temporal Dust",
+    "parents": [
+      "Thalys"
+    ],
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemA"
+  },
+  {
+    "category": "Resources",
     "description": "The iridescent nodules on these plants glow brightly in cold environments.\n\nLocation: Orb Vallis on Venus",
     "drops": [
       {
@@ -11155,6 +11472,12 @@
         "type": "5X Thermal Sludge"
       },
       {
+        "chance": 0.3,
+        "location": "Nokko: Corporate Restructuring Rewards, Rotation B",
+        "rarity": "Uncommon",
+        "type": "20X Thermal Sludge"
+      },
+      {
         "chance": 1,
         "location": "Thermal Sludge Cannister",
         "rarity": "Common",
@@ -11162,7 +11485,7 @@
       }
     ],
     "imageName": "thermal-sludge-b861a393ca.png",
-    "itemCount": 75,
+    "itemCount": 20,
     "masterable": false,
     "name": "Thermal Sludge",
     "parents": [
@@ -11266,7 +11589,7 @@
       }
     ],
     "imageName": "thrax-plasm-acf664e015.png",
-    "itemCount": 300,
+    "itemCount": 600,
     "masterable": false,
     "name": "Thrax Plasm",
     "parents": [
@@ -12580,17 +12903,17 @@
       }
     ],
     "imageName": "vega-toroid-31d48d6576.png",
-    "itemCount": 5,
+    "itemCount": 3,
     "masterable": false,
     "name": "Vega Toroid",
     "parents": [
       "Cantic Prism",
-      "Haztech Pauldrons (Operator)",
+      "Haztech Pauldrons",
       "Klamora Prism",
       "Kubrodon Ventkid Pauldrons",
       "Lega Prism",
       "Outrider Pauldrons",
-      "Smelter Pauldrons (Operator)",
+      "Smelter Pauldrons",
       "Vent Pobber Ventkid Pauldrons",
       "Vent Rat Pauldrons",
       "Zubb Bracket"
@@ -12693,7 +13016,7 @@
     "consumeOnBuild": false,
     "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "imageName": "venerdo-alloy-0699ce0e35.png",
-    "itemCount": 40,
+    "itemCount": 30,
     "masterable": false,
     "name": "Venerdo Alloy",
     "parents": [
@@ -12703,9 +13026,9 @@
       "Flatbelly",
       "Gauth Bracket",
       "Gaze",
-      "Haztech Apparel (Operator)",
-      "Haztech Cuirass (Operator)",
-      "Haztech Pauldrons (Operator)",
+      "Haztech Apparel",
+      "Haztech Cuirass",
+      "Haztech Pauldrons",
       "Hona Bracket",
       "Krisys Core",
       "Kubrodon Ventkid Apparel",
@@ -12719,9 +13042,9 @@
       "Outrider Cuirass",
       "Outrider Pauldrons",
       "Rattleguts",
-      "Smelter Apparel (Operator)",
-      "Smelter Cuirass (Operator)",
-      "Smelter Pauldrons (Operator)",
+      "Smelter Apparel",
+      "Smelter Cuirass",
+      "Smelter Pauldrons",
       "Sparkfire",
       "Step Tens",
       "Thugs",
@@ -12871,7 +13194,7 @@
   },
   {
     "category": "Resources",
-    "description": "One of the few known plant species able to thrive on asteroids in deep space. \n\nLocation: Obtained by using a Codex Scanner on Vestan Moss plants that grow on Mercury, Saturn, and Sedna",
+    "description": "One of the few known plant species able to thrive on asteroids in deep space. \n\nLocation: Obtained by gathering Vestan Moss plants that grow on Mercury, Saturn, and Sedna",
     "imageName": "vestan-moss-5ab747944b.png",
     "itemCount": 12,
     "masterable": false,
@@ -12953,7 +13276,7 @@
       }
     ],
     "imageName": "voidgel-orb-479e1ce26c.png",
-    "itemCount": 45,
+    "itemCount": 30,
     "masterable": false,
     "name": "Voidgel Orb",
     "parents": [
@@ -13045,7 +13368,7 @@
     "category": "Resources",
     "description": "A Void Angel's living feather, ripped out in combat.\n\nLocation: Zariman",
     "imageName": "voidplume-pinion-ddb17aa071.png",
-    "itemCount": 5,
+    "itemCount": 10,
     "masterable": false,
     "name": "Voidplume Pinion",
     "parents": [

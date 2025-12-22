@@ -13,7 +13,7 @@
         "Specters of the Rail 0.0",
         "SotR"
       ],
-      "parent": "19.1",
+      "parent": "18.15",
       "date": "2016-07-08"
     },
     "masterable": true,
@@ -2299,7 +2299,7 @@
         "19.5.0",
         "19.5"
       ],
-      "parent": "19.8",
+      "parent": "19.5",
       "date": "2016-12-22"
     },
     "masterable": true,
@@ -4961,7 +4961,7 @@
         "Specters of the Rail 0.0",
         "SotR"
       ],
-      "parent": "19.1",
+      "parent": "18.15",
       "date": "2016-07-08"
     },
     "masterable": true,

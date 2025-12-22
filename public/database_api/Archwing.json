@@ -97,7 +97,7 @@
         "Specters of the Rail 0.0",
         "SotR"
       ],
-      "parent": "19.1",
+      "parent": "18.15",
       "date": "2016-07-08"
     },
     "isPrime": false,
@@ -1037,141 +1037,121 @@
             "chance": 0.11,
             "location": "Axi L4 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.11,
             "location": "Axi V8 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.11,
             "location": "Lith F1 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.11,
             "location": "Meso C2 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.11,
             "location": "Meso S1 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.13,
             "location": "Axi L4 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.13,
             "location": "Axi V8 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.13,
             "location": "Lith F1 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.13,
             "location": "Meso C2 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.13,
             "location": "Meso S1 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.17,
             "location": "Axi L4 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.17,
             "location": "Axi V8 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.17,
             "location": "Lith F1 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.17,
             "location": "Meso C2 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.17,
             "location": "Meso S1 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Axi L4 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Axi V8 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Lith F1 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Meso C2 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Meso S1 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Blueprint"
           }
         ]
       },
@@ -1188,169 +1168,145 @@
             "chance": 0.1667,
             "location": "Axi K1 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.1667,
             "location": "Axi T1 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.1667,
             "location": "Axi V4 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.1667,
             "location": "Lith K1 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.1667,
             "location": "Neo O1 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.1667,
             "location": "Neo V8 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Axi K1 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Axi T1 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Axi V4 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Lith K1 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Neo O1 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Neo V8 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2333,
             "location": "Axi K1 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2333,
             "location": "Axi T1 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2333,
             "location": "Axi V4 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2333,
             "location": "Lith K1 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2333,
             "location": "Neo O1 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2333,
             "location": "Neo V8 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2533,
             "location": "Axi K1 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2533,
             "location": "Axi T1 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2533,
             "location": "Axi V4 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2533,
             "location": "Lith K1 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2533,
             "location": "Neo O1 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           },
           {
             "chance": 0.2533,
             "location": "Neo V8 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Harness Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Harness Blueprint"
           }
         ],
         "masterable": false,
@@ -1380,141 +1336,121 @@
             "chance": 0.1667,
             "location": "Axi V1 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.1667,
             "location": "Axi V8 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.1667,
             "location": "Lith F2 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.1667,
             "location": "Meso O3 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.1667,
             "location": "Neo N3 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Axi V1 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Axi V8 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Lith F2 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Meso O3 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Neo N3 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.2333,
             "location": "Axi V1 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.2333,
             "location": "Axi V8 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.2333,
             "location": "Lith F2 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.2333,
             "location": "Meso O3 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.2333,
             "location": "Neo N3 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.2533,
             "location": "Axi V1 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.2533,
             "location": "Axi V8 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.2533,
             "location": "Lith F2 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.2533,
             "location": "Meso O3 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           },
           {
             "chance": 0.2533,
             "location": "Neo N3 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Systems Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Systems Blueprint"
           }
         ],
         "masterable": false,
@@ -1533,113 +1469,97 @@
             "chance": 0.02,
             "location": "Lith O2 Relic",
             "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Wings Blueprint"
           },
           {
             "chance": 0.02,
             "location": "Meso O3 Relic",
             "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Wings Blueprint"
           },
           {
             "chance": 0.02,
             "location": "Neo O1 Relic",
             "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Wings Blueprint"
           },
           {
             "chance": 0.04,
             "location": "Lith O2 Relic (Exceptional)",
             "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Wings Blueprint"
           },
           {
             "chance": 0.04,
             "location": "Meso O3 Relic (Exceptional)",
             "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Wings Blueprint"
           },
           {
             "chance": 0.04,
             "location": "Neo O1 Relic (Exceptional)",
             "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Wings Blueprint"
           },
           {
             "chance": 0.06,
             "location": "Lith O2 Relic (Flawless)",
             "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Wings Blueprint"
           },
           {
             "chance": 0.06,
             "location": "Meso O3 Relic (Flawless)",
             "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Wings Blueprint"
           },
           {
             "chance": 0.06,
             "location": "Neo O1 Relic (Flawless)",
             "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Wings Blueprint"
           },
           {
             "chance": 0.1,
             "location": "Lith O2 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Wings Blueprint"
           },
           {
             "chance": 0.1,
             "location": "Meso O3 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Wings Blueprint"
           },
           {
             "chance": 0.1,
             "location": "Neo O1 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Wings Blueprint"
           },
           {
             "chance": 0.11,
             "location": "Axi N1 Relic",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Wings Blueprint"
           },
           {
             "chance": 0.13,
             "location": "Axi N1 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Wings Blueprint"
           },
           {
             "chance": 0.17,
             "location": "Axi N1 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Wings Blueprint"
           },
           {
             "chance": 0.2,
             "location": "Axi N1 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": ""
+            "type": "Odonata Prime Wings Blueprint"
           }
         ],
         "masterable": false,

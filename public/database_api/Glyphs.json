@@ -33,12 +33,32 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
+    "imageName": "2020zero-glyph-ba65fd17eb.png",
+    "masterable": false,
+    "name": "2020zero Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImage2020ZerO"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
     "imageName": "6ixgatsu-glyph-fd8eb7ed1f.png",
     "masterable": false,
     "name": "6ixgatsu Glyph",
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSixixgatsu"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "imageName": "7heclown-glyph-9b16d38011.png",
+    "masterable": false,
+    "name": "7heclown Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageIm7heClown"
   },
   {
     "category": "Glyphs",
@@ -109,6 +129,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAeonKnight"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "imageName": "aesopyolian-glyph-d571f63c65.png",
+    "masterable": false,
+    "name": "Aesopyolian Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAesopYOLIAN"
   },
   {
     "category": "Glyphs",
@@ -556,6 +586,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph representing a feat of strength by community artist Kedemel.",
+    "imageName": "atlas-accolade-glyph-d68710017e.png",
+    "masterable": false,
+    "name": "Atlas Accolade Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageAtlasAccoladeGlyph"
+  },
+  {
+    "category": "Glyphs",
     "description": "A glyph depicting Atlas on a bright background.",
     "imageName": "atlas-glyph---bright-3412491d7c.png",
     "masterable": false,
@@ -694,6 +734,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAuroraStarr"
+  },
+  {
+    "category": "Glyphs",
+    "description": "An otherworldly sproutfolk of many words dons the mask of a man of few. Where, if e'er, their frames have crossed, none can guess. A glyph designed by community artist DasterCreations.",
+    "imageName": "ava-clem-community-glyph-e8b2906377.png",
+    "masterable": false,
+    "name": "Ava-Clem Community Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAvaClemCommunityGlyph"
   },
   {
     "category": "Glyphs",
@@ -1029,6 +1079,16 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
+    "imageName": "blacknato974-glyph-bd2e9c1794.png",
+    "masterable": false,
+    "name": "Blacknato974 Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBlackNato"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
     "imageName": "blackoni-glyph-00ff05453e.png",
     "masterable": false,
     "name": "Blackoni Glyph",
@@ -1147,6 +1207,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/Halloween2019GhostChibiWisp"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph of the infamous Bopp Bipp. Legend says the Lotus knew him by name. Created by Community artist Searyn.",
+    "imageName": "bopp-bipp-glyph-e8fd57d135.png",
+    "masterable": false,
+    "name": "Bopp Bipp Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBoppBippGlyph"
   },
   {
     "category": "Glyphs",
@@ -1374,6 +1444,26 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph depicting Caliban Prime on a bright background.",
+    "imageName": "caliban-prime-glyph---bright-2b7b70c530.png",
+    "masterable": false,
+    "name": "Caliban Prime Glyph - Bright",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageCalibanPrimeBright"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Caliban Prime on a dark background.",
+    "imageName": "caliban-prime-glyph---dark-460d313c7c.png",
+    "masterable": false,
+    "name": "Caliban Prime Glyph - Dark",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageCalibanPrimeDark"
+  },
+  {
+    "category": "Glyphs",
     "description": "A glyph depicting the Caliber Chicks 2 logo.",
     "imageName": "caliber-chicks-2-glyph-890216eee9.png",
     "masterable": false,
@@ -1597,6 +1687,17 @@
   },
   {
     "category": "Glyphs",
+    "description": "Cute from any angle!",
+    "excludeFromCodex": true,
+    "imageName": "cheeky-sprodling-glyph-0c9a187464.png",
+    "masterable": false,
+    "name": "Cheeky Sprodling Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/NokkoBabySecretGlyph"
+  },
+  {
+    "category": "Glyphs",
     "description": "A Glyph for your profile.",
     "excludeFromCodex": true,
     "imageName": "chelestra-glyph-a6ba910c78.png",
@@ -1615,6 +1716,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CherryTreeGlyph"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph representing a feat of strength by community artist Kedemel.",
+    "imageName": "chroma-accolade-glyph-939421369d.png",
+    "masterable": false,
+    "name": "Chroma Accolade Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageChromaAccoladeGlyph"
   },
   {
     "category": "Glyphs",
@@ -1718,6 +1829,26 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph representing a feat of strength by community artist Kedemel.",
+    "imageName": "citrine-accolade-glyph-821057a05e.png",
+    "masterable": false,
+    "name": "Citrine Accolade Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageCitrineAccoladeGlyph"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Citrine Aphrodita.",
+    "imageName": "citrine-aphrodita-glyph-f7df9a146d.png",
+    "masterable": false,
+    "name": "Citrine Aphrodita Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageCitrineDeluxe"
+  },
+  {
+    "category": "Glyphs",
     "description": "A glyph depicting Citrine on a bright background.",
     "imageName": "citrine-glyph---bright-2a20d35846.png",
     "masterable": false,
@@ -1775,17 +1906,6 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageClemKawaii"
-  },
-  {
-    "category": "Glyphs",
-    "description": "A Glyph for your profile.",
-    "excludeFromCodex": true,
-    "imageName": "cleo-naturin-partner-glyph-e975786972.png",
-    "masterable": false,
-    "name": "Cleo Naturin Partner Glyph",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageCleoNaturin"
   },
   {
     "category": "Glyphs",
@@ -1961,6 +2081,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A community glyph by ChickenDrawsDogs depicting Hydroid diving for the win.",
+    "imageName": "community-dog-days-hydroid-glyph-8717b02e4e.png",
+    "masterable": false,
+    "name": "Community Dog Days Hydroid Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysHydroidGlyph"
+  },
+  {
+    "category": "Glyphs",
     "description": "A community glyph by CheruuAx depicting Lavos with a refreshing drink.",
     "imageName": "community-dog-days-lavos-glyph-0ac4020d28.png",
     "masterable": false,
@@ -1978,6 +2108,36 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageDogDays2024LavosGlyph"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A community glyph by ChickenDrawsDogs depicting Loki enjoying a summer drink without distraction.",
+    "imageName": "community-dog-days-loki-glyph-3037884698.png",
+    "masterable": false,
+    "name": "Community Dog Days Loki Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysLokiGlyph"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A community glyph by ChickenDrawsDogs depicting Nova utilizing her abilities to win a Lob Blob fight.",
+    "imageName": "community-dog-days-nova-glyph-fd630b1de2.png",
+    "masterable": false,
+    "name": "Community Dog Days Nova Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysNovaGlyph"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A community glyph by ChickenDrawsDogs depicting Valkyr's inability to play with beach balls.",
+    "imageName": "community-dog-days-valkyr-glyph-a0f1996155.png",
+    "masterable": false,
+    "name": "Community Dog Days Valkyr Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysValkyrGlyph"
   },
   {
     "category": "Glyphs",
@@ -2061,6 +2221,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A community glyph depicting Hildryn in the style of community artist irisillych.",
+    "imageName": "community-hildryn-glyph-b1f2299431.png",
+    "masterable": false,
+    "name": "Community Hildryn Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityHildrynGlyph"
+  },
+  {
+    "category": "Glyphs",
     "description": "A community glyph depicting Infested On-lyne Logo in the style of community artist death_ma666ots.",
     "imageName": "community-infested-on-lyne-logo-glyph-ab935641e3.png",
     "masterable": false,
@@ -2071,6 +2241,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A community glyph depicting Jade in the style of community artist Dyana Smythe.",
+    "imageName": "community-jade-glyph-dcd4183f26.png",
+    "masterable": false,
+    "name": "Community Jade Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityJadeGlyph"
+  },
+  {
+    "category": "Glyphs",
     "description": "A community glyph depicting Kullervo in the style of community artist UpsideDownSmore.",
     "imageName": "community-kullervo-glyph-cb2a24c270.png",
     "masterable": false,
@@ -2078,6 +2258,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityKullervo"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A community glyph depicting Lavos in the style of community artist Disfusional.",
+    "imageName": "community-lavos-glyph-cda8e16239.png",
+    "masterable": false,
+    "name": "Community Lavos Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityLavosGlyph"
   },
   {
     "category": "Glyphs",
@@ -2098,6 +2288,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityMotherGraffiti"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A community glyph depicting Nokko in the style of community artist Pyrah. ",
+    "imageName": "community-nokko-glyph-6b5ea989d4.png",
+    "masterable": false,
+    "name": "Community Nokko Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityNokkoGlyph"
   },
   {
     "category": "Glyphs",
@@ -2261,6 +2461,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph depicting Adis as a festive creature, by EleanorGrootch.",
+    "imageName": "community-tennobaum-adis-on-a-shelf-glyph-2e23dfaafa.png",
+    "masterable": false,
+    "name": "Community Tennobaum Adis On A Shelf Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumAdisGlyph"
+  },
+  {
+    "category": "Glyphs",
     "description": "A Glyph depicting Aoi levitating snowballs, created by alcyonsa.",
     "imageName": "community-tennobaum-aoi-glyph-bd0b2b9b3c.png",
     "masterable": false,
@@ -2321,6 +2531,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph depicting Lyon in a festive outfit, by EleanorGrootch.",
+    "imageName": "community-tennobaum-lyon-glyph-9f6b19efd0.png",
+    "masterable": false,
+    "name": "Community Tennobaum Lyon Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumLyonGlyph"
+  },
+  {
+    "category": "Glyphs",
     "description": "A Glyph depicting a Gingerbread MITW cookie, created by alcyonsa.",
     "imageName": "community-tennobaum-man-in-the-cookie-glyph-ae884771c1.png",
     "masterable": false,
@@ -2331,6 +2551,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph depicting Marie in a festive dress, by EleanorGrootch.",
+    "imageName": "community-tennobaum-marie-glyph-33cb10c8f9.png",
+    "masterable": false,
+    "name": "Community Tennobaum Marie Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumMarieGlyph"
+  },
+  {
+    "category": "Glyphs",
     "description": "A Glyph depicting a festive relic, created by Cyanfacade.",
     "imageName": "community-tennobaum-relic-glyph-d5a23ab666.png",
     "masterable": false,
@@ -2338,6 +2568,36 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumRelic"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Roathe as a festive devil, by EleanorGrootch.",
+    "imageName": "community-tennobaum-roathe-glyph-50208f681c.png",
+    "masterable": false,
+    "name": "Community Tennobaum Roathe Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumRoatheGlyph"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting a Sprodling in the snow by FrostyNovaPrime.",
+    "imageName": "community-tennobaum-sprodling-glyph-7c3e57c87d.png",
+    "masterable": false,
+    "name": "Community Tennobaum Sprodling Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumSpodlingGlyph"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Teshin with a festive look by FrostyNovaPrime.",
+    "imageName": "community-tennobaum-teshin-glyph-0b65b0574e.png",
+    "masterable": false,
+    "name": "Community Tennobaum Teshin Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumTeshinGlyph"
   },
   {
     "category": "Glyphs",
@@ -2358,6 +2618,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumVulpaphyla"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting the World-Seeder on Perita, by EleanorGrootch.",
+    "imageName": "community-tennobaum-world-seeder-glyph-f4aa7defea.png",
+    "masterable": false,
+    "name": "Community Tennobaum World-Seeder Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumWorldSeederGlyph"
   },
   {
     "category": "Glyphs",
@@ -2472,6 +2742,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A symbol of support for the Quest to Conquer Cancer, created by HolisticHiatus.",
+    "imageName": "conquera-glyph-ix-8e3067fccb.png",
+    "masterable": false,
+    "name": "Conquera Glyph Ix",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageConqueraGlyphIX"
+  },
+  {
+    "category": "Glyphs",
     "description": "A symbol of support for the Quest to Conquer Cancer, created by RoyalPrat.",
     "imageName": "conquera-glyph-v-207ab19ea7.png",
     "masterable": false,
@@ -2499,6 +2779,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageConqueraGlyphVII"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A symbol of support for the Quest to Conquer Cancer, created by HolisticHiatus.",
+    "imageName": "conquera-glyph-viii-09050e8539.png",
+    "masterable": false,
+    "name": "Conquera Glyph Viii",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageConqueraGlyphVIII"
   },
   {
     "category": "Glyphs",
@@ -2838,16 +3128,6 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
-    "imageName": "d4nk3r-glyph-bf07ce81f4.png",
-    "masterable": false,
-    "name": "D4nk3r Glyph",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageD4NK3R"
-  },
-  {
-    "category": "Glyphs",
-    "description": "A Glyph for your profile.",
     "imageName": "dadefuye-glyph-85ea666fcd.png",
     "masterable": false,
     "name": "Dadefuye Glyph",
@@ -2956,6 +3236,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDanily"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "imageName": "danker-glyph-bf07ce81f4.png",
+    "masterable": false,
+    "name": "Danker Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageD4NK3R"
   },
   {
     "category": "Glyphs",
@@ -3344,6 +3634,16 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
+    "imageName": "deus-glyph-32e58af3a1.png",
+    "masterable": false,
+    "name": "Deus Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDEUS"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
     "imageName": "digital-extremes-glyph-4acdb92558.png",
     "masterable": false,
     "name": "Digital Extremes Glyph",
@@ -3574,6 +3874,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageGooperatives"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "imageName": "ebbtides-legendary-glyph-7227f94f4a.png",
+    "masterable": false,
+    "name": "Ebbtides Legendary Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphLegendaryQuasars"
   },
   {
     "category": "Glyphs",
@@ -3934,6 +4244,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph depicting the inimitable, one-of-a-kind Baro Ki’Teer.",
+    "imageName": "eskhatos-ki'teer-glyph-34a5c78077.png",
+    "masterable": false,
+    "name": "Eskhatos Ki'Teer Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBaroKiteerEvil"
+  },
+  {
+    "category": "Glyphs",
     "description": "A Glyph for your profile.",
     "imageName": "esp4him-glyph-651f264624.png",
     "masterable": false,
@@ -4202,6 +4522,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageEterion"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "imageName": "evecaptura-glyph-c6a932882b.png",
+    "masterable": false,
+    "name": "Evecaptura Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageEveCaptura"
   },
   {
     "category": "Glyphs",
@@ -5292,6 +5622,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "Celebrate GCX with this Glyph.",
+    "imageName": "gcx-2025-glyph-e5eac45abd.png",
+    "masterable": false,
+    "name": "Gcx 2025 Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImage2025GCX"
+  },
+  {
+    "category": "Glyphs",
     "description": "A Glyph for your profile.",
     "imageName": "gengzi-glyph-e610ca40e9.png",
     "masterable": false,
@@ -5755,6 +6095,26 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph depicting Gyre Prime on a bright background.",
+    "imageName": "gyre-prime-glyph---bright-83a0ab9d46.png",
+    "masterable": false,
+    "name": "Gyre Prime Glyph - Bright",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageGyrePrimeBright"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Gyre Prime on a dark background.",
+    "imageName": "gyre-prime-glyph---dark-3c03e0c864.png",
+    "masterable": false,
+    "name": "Gyre Prime Glyph - Dark",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageGyrePrimeDark"
+  },
+  {
+    "category": "Glyphs",
     "description": "A glyph depicting Gyre Vortengeist.",
     "imageName": "gyre-vortengeist-glyph-dcf88faeb2.png",
     "masterable": false,
@@ -5898,6 +6258,36 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph depicting the fearsome Hemocyte.",
+    "imageName": "hemocyte-glyph-0999588344.png",
+    "masterable": false,
+    "name": "Hemocyte Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Events/PlagueStarGlyph"
+  },
+  {
+    "category": "Glyphs",
+    "description": "Hench and Scrap - Official TennoCon Cosplayer Glyph",
+    "imageName": "hench-&-scrap-glyph-25c9c10f18.png",
+    "masterable": false,
+    "name": "Hench & Scrap Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageHenchAndScrapGlyph"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph representing a feat of strength by community artist Kedemel.",
+    "imageName": "hildryn-accolade-glyph-e1356b7f9b.png",
+    "masterable": false,
+    "name": "Hildryn Accolade Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageHildrynAccoladeGlyph"
+  },
+  {
+    "category": "Glyphs",
     "description": "A glyph depicting Hildryn Asuron on a bright background.",
     "imageName": "hildryn-asuron-glyph---bright-77598e3141.png",
     "masterable": false,
@@ -5979,7 +6369,7 @@
   },
   {
     "category": "Glyphs",
-    "description": "A Glyph for your profile.",
+    "description": "Hoku Props - Official TennoCon Cosplayer Glyph",
     "imageName": "hoku-props-glyph-478c9dc575.png",
     "masterable": false,
     "name": "Hoku Props Glyph",
@@ -6158,16 +6548,6 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageIkedo"
-  },
-  {
-    "category": "Glyphs",
-    "description": "A Glyph for your profile.",
-    "imageName": "im7heclown-glyph-9b16d38011.png",
-    "masterable": false,
-    "name": "Im7heclown Glyph",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageIm7heClown"
   },
   {
     "category": "Glyphs",
@@ -6859,17 +7239,6 @@
   },
   {
     "category": "Glyphs",
-    "description": "A Glyph for your profile.",
-    "excludeFromCodex": true,
-    "imageName": "kavat's-schroedinger-glyph-6be5f2d73d.png",
-    "masterable": false,
-    "name": "Kavat's Schroedinger Glyph",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKavatsSchroedinger"
-  },
-  {
-    "category": "Glyphs",
     "description": "Celebrate 1999's distinctive screen style with this glyph portraying Kaya, the Nova protoframe!",
     "imageName": "kaya-pixel-glyph-d28dc2ac27.png",
     "masterable": false,
@@ -6909,6 +7278,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKenshinWF"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph representing a feat of strength by community artist Kedemel.",
+    "imageName": "khora-accolade-glyph-1b8f9598f6.png",
+    "masterable": false,
+    "name": "Khora Accolade Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageKhoraAccoladeGlyph"
   },
   {
     "category": "Glyphs",
@@ -7094,6 +7473,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "Risk it all with this Koumei Dice Glyph.",
+    "imageName": "koumei-dice-glyph-68c50bb2f3.png",
+    "masterable": false,
+    "name": "Koumei Dice Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/KoumeiDiceGlyph"
+  },
+  {
+    "category": "Glyphs",
     "description": "A glyph depicting Koumei on a bright background.",
     "imageName": "koumei-glyph---bright-d8256374fc.png",
     "masterable": false,
@@ -7195,6 +7584,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph depicting Kullervo Apostate.",
+    "imageName": "kullervo-apostate-glyph-2c92e33c47.png",
+    "masterable": false,
+    "name": "Kullervo Apostate Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageKullervoDeluxe"
+  },
+  {
+    "category": "Glyphs",
     "description": "A glyph depicting Kullervo on a bright background.",
     "imageName": "kullervo-glyph---bright-6cc1a6e88d.png",
     "masterable": false,
@@ -7212,6 +7611,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImagePaxDuviricusDark"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "imageName": "kullervo-in-action-glyph-92e50cd5a8.png",
+    "masterable": false,
+    "name": "Kullervo In Action Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/KullervoActionGlyph"
   },
   {
     "category": "Glyphs",
@@ -7348,6 +7757,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "imageName": "laurieeelg-glyph-28c69d09e0.png",
+    "masterable": false,
+    "name": "Laurieeelg Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLaurieeeLG"
+  },
+  {
+    "category": "Glyphs",
     "description": "A glyph depicting Lavos Cordatus on a bright background.",
     "imageName": "lavos-cordatus-glyph---bright-3ff96bc1b5.png",
     "masterable": false,
@@ -7398,6 +7817,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph depicting Lavos Khymia.",
+    "imageName": "lavos-khymia-glyph-9a9bcf505c.png",
+    "masterable": false,
+    "name": "Lavos Khymia Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageLavosDeluxe"
+  },
+  {
+    "category": "Glyphs",
     "description": "A glyph depicting Lavos Prime on a bright background.",
     "imageName": "lavos-prime-glyph---bright-4b26cbb8c6.png",
     "masterable": false,
@@ -7435,6 +7864,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLeamxp"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "imageName": "legendary-arkonisaelir-glyph-eb950b05d2.png",
+    "masterable": false,
+    "name": "Legendary Arkonisaelir Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLegendaryArkonisAelir"
   },
   {
     "category": "Glyphs",
@@ -7499,12 +7938,12 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
-    "imageName": "legendary-quasars-glyph-7227f94f4a.png",
+    "imageName": "legendary-oculox-glyph-169752f1e4.png",
     "masterable": false,
-    "name": "Legendary Quasars Glyph",
+    "name": "Legendary Oculox Glyph",
     "tradable": false,
     "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphLegendaryQuasars"
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLegendaryOculox"
   },
   {
     "category": "Glyphs",
@@ -7616,6 +8055,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitLillian"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph representing a feat of strength by community artist Kedemel.",
+    "imageName": "limbo-accolade-glyph-291c412c9a.png",
+    "masterable": false,
+    "name": "Limbo Accolade Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLimboAccoladeGlyph"
   },
   {
     "category": "Glyphs",
@@ -8105,6 +8554,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph featuring Lyon Allard and a Mistletoe. Art by EleanorGrootch.",
+    "imageName": "lyon-allard-mistletoe-community-glyph-47fcf9a32e.png",
+    "masterable": false,
+    "name": "Lyon Allard Mistletoe Community Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLyonAllardMistletoeGlyph"
+  },
+  {
+    "category": "Glyphs",
     "description": "A Glyph for your profile.",
     "imageName": "m-c-i-k-glyph-caf907cb99.png",
     "masterable": false,
@@ -8293,6 +8752,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMaomix"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph featuring Marie Leroux and a Mistletoe. Art by EleanorGrootch.",
+    "imageName": "marie-leroux-mistletoe-community-glyph-2a829b8035.png",
+    "masterable": false,
+    "name": "Marie Leroux Mistletoe Community Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMarieLerouxMistletoeGlyph"
   },
   {
     "category": "Glyphs",
@@ -8876,6 +9345,26 @@
   },
   {
     "category": "Glyphs",
+    "description": "A Movember Glyph in full color, created by Community artist UpsideDownSmore.",
+    "imageName": "movember-baruuk-community-glyph---bright-805bad4279.png",
+    "masterable": false,
+    "name": "Movember Baruuk Community Glyph - Bright",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMovemberBaruukBright"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Movember Glyph in black and white, created by Community artist UpsideDownSmore.",
+    "imageName": "movember-baruuk-community-glyph---dark-d852bf4b96.png",
+    "masterable": false,
+    "name": "Movember Baruuk Community Glyph - Dark",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMovemberBaruukBW"
+  },
+  {
+    "category": "Glyphs",
     "description": "Movember Glyph by RetroAlchemist.",
     "imageName": "movember-glyph-02cb5d4e62.png",
     "masterable": false,
@@ -8954,6 +9443,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Factions/GlyphFactionMurmur"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "imageName": "mylah-glyph-93fb86d06e.png",
+    "masterable": false,
+    "name": "Mylah Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMylah"
   },
   {
     "category": "Glyphs",
@@ -9422,6 +9921,46 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph depicting Nokko on a bright background.",
+    "imageName": "nokko-glyph---bright-00786fca26.png",
+    "masterable": false,
+    "name": "Nokko Glyph - Bright",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageNokkoBright"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Nokko on a dark background.",
+    "imageName": "nokko-glyph---dark-fbbcbe78d5.png",
+    "masterable": false,
+    "name": "Nokko Glyph - Dark",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageNokkoDark"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Nokko Mycorrhiza on a bright background.",
+    "imageName": "nokko-mycorrhiza-glyph---bright-26cee5f4cf.png",
+    "masterable": false,
+    "name": "Nokko Mycorrhiza Glyph - Bright",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageNokkoAltBright"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Nokko Mycorrhiza on a dark background.",
+    "imageName": "nokko-mycorrhiza-glyph---dark-0f818fa1b8.png",
+    "masterable": false,
+    "name": "Nokko Mycorrhiza Glyph - Dark",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageNokkoAltDark"
+  },
+  {
+    "category": "Glyphs",
     "description": "A Glyph for your profile.",
     "imageName": "nononom12-glyph-001721e1f2.png",
     "masterable": false,
@@ -9429,6 +9968,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageNononom"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph of Nora Night wearing festive face paint.",
+    "imageName": "nora-night-catrina-glyph-ada6ef7177.png",
+    "masterable": false,
+    "name": "Nora Night Catrina Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/DOTD2025NoraGlyph"
   },
   {
     "category": "Glyphs",
@@ -10017,6 +10566,56 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph depicting Oraxia Chelicera on a bright background.",
+    "imageName": "oraxia-chelicera-glyph---bright-7c50417002.png",
+    "masterable": false,
+    "name": "Oraxia Chelicera Glyph - Bright",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageOraxiaAltBright"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Oraxia Chelicera on a dark background.",
+    "imageName": "oraxia-chelicera-glyph---dark-2c62f61031.png",
+    "masterable": false,
+    "name": "Oraxia Chelicera Glyph - Dark",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageOraxiaAltDark"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Oraxia on a bright background.",
+    "imageName": "oraxia-glyph---bright-158315d570.png",
+    "masterable": false,
+    "name": "Oraxia Glyph - Bright",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageOraxiaBright"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Oraxia on a dark background.",
+    "imageName": "oraxia-glyph---dark-ec8bb57cac.png",
+    "masterable": false,
+    "name": "Oraxia Glyph - Dark",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageOraxiaDark"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "imageName": "oraxia-in-action-glyph-197ba0b123.png",
+    "masterable": false,
+    "name": "Oraxia In Action Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/OraxiaActionGlyph"
+  },
+  {
+    "category": "Glyphs",
     "description": "A Glyph for your profile.",
     "imageName": "orbital-cathode-glyph-191cf6ba31.png",
     "masterable": false,
@@ -10243,7 +10842,7 @@
   },
   {
     "category": "Glyphs",
-    "description": "A Glyph for your profile.",
+    "description": "Plexi Cosplay - Official TennoCon Cosplayer Glyph",
     "imageName": "plexi-cosplay-glyph-20304d59f1.png",
     "masterable": false,
     "name": "Plexi Cosplay Glyph",
@@ -10350,6 +10949,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePride2025Glyph"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph releasing Soon (TM), created by Community artist Searyn.",
+    "imageName": "primed-soon-glyph-182a2dc668.png",
+    "masterable": false,
+    "name": "Primed Soon Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrimedSoonGlyph"
   },
   {
     "category": "Glyphs",
@@ -10809,6 +11418,16 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
+    "imageName": "rebecca-weress-glyph-8b40b812a2.png",
+    "masterable": false,
+    "name": "Rebecca Weress Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRebeccaWeress"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
     "imageName": "reclaimjoey-glyph-bcde2edd43.png",
     "masterable": false,
     "name": "Reclaimjoey Glyph",
@@ -10845,6 +11464,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRedX"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph to signify your status, created by Community artist Searyn.",
+    "imageName": "registered-loser-glyph-6b464ea2a6.png",
+    "masterable": false,
+    "name": "Registered Loser Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageRegisteredLoserGlyph"
   },
   {
     "category": "Glyphs",
@@ -11142,6 +11771,16 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
+    "imageName": "rickunprime-glyph-5afd70bee1.png",
+    "masterable": false,
+    "name": "Rickunprime Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRickunPrime"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
     "imageName": "ride-the-wave-glyph-6685c53a7d.png",
     "masterable": false,
     "name": "Ride The Wave Glyph",
@@ -11210,6 +11849,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRLCGaming"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph featuring Roathe and a Mistletoe. Art by EleanorGrootch.",
+    "imageName": "roathe-mistletoe-community-glyph-38d6659c14.png",
+    "masterable": false,
+    "name": "Roathe Mistletoe Community Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageRoatheMistletoeGlyph"
   },
   {
     "category": "Glyphs",
@@ -11464,6 +12113,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph of the Lotus. Ignore your original objective, Tenno. Created by Community artist Searyn.",
+    "imageName": "sassy-lotus-glyph-8527d2c32a.png",
+    "masterable": false,
+    "name": "Sassy Lotus Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSassyLotusGlyph"
+  },
+  {
+    "category": "Glyphs",
     "description": "A Glyph for your profile.",
     "imageName": "saturn-six-bar-discord-glyph-d482c3f13b.png",
     "masterable": false,
@@ -11652,6 +12311,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSearyn"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "imageName": "secriot_mcfly-glyph-f934469503.png",
+    "masterable": false,
+    "name": "Secriot_mcfly Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSecriotMcFly"
   },
   {
     "category": "Glyphs",
@@ -11869,6 +12538,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSherpaRage"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "imageName": "shinobifufu-glyph-47548029cd.png",
+    "masterable": false,
+    "name": "Shinobifufu Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageShinobiFufu"
   },
   {
     "category": "Glyphs",
@@ -12417,6 +13096,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "Celebrate the launch of Starfinder x Warframe: Operation Orias with this glyph.",
+    "imageName": "starfinder-society-glyph-1b16938559.png",
+    "masterable": false,
+    "name": "Starfinder Society Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarfinderSocietyGlyph"
+  },
+  {
+    "category": "Glyphs",
     "description": "A glyph of the Steel Meridian",
     "imageName": "steel-meridian-glyph-efb5304a77.png",
     "masterable": false,
@@ -12678,6 +13367,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCreatorTanchan"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph for your profile, emblematic of your dedication to uncovering the true history of Tau.",
+    "imageName": "tau-bloom-glyph-45ffa2a649.png",
+    "masterable": false,
+    "name": "Tau Bloom Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/OldPeaceTeaserGlyph"
   },
   {
     "category": "Glyphs",
@@ -12982,6 +13681,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024GlyphAlt"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph celebrating ten years of TennoGen artistry. ",
+    "imageName": "tennogen-decennial-glyph-c179a39093.png",
+    "masterable": false,
+    "name": "Tennogen Decennial Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageTennoGen10Year"
   },
   {
     "category": "Glyphs",
@@ -13508,6 +14217,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph of Tyl Regor sporting a new look. He finally got his jeans. Created by Community artist Searyn.",
+    "imageName": "tyl-regor-genes-glyph-699e248513.png",
+    "masterable": false,
+    "name": "Tyl Regor Genes Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTylRegorGenesGlyph"
+  },
+  {
+    "category": "Glyphs",
     "description": "A Glyph for your profile.",
     "imageName": "umbra-in-action-glyph-867587af76.png",
     "masterable": false,
@@ -13557,6 +14276,46 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageUreiFen"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Uriel Asmodion on a bright background.",
+    "imageName": "uriel-asmodion-glyph---bright-b9d56dd96e.png",
+    "masterable": false,
+    "name": "Uriel Asmodion Glyph - Bright",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageUrielAltBright"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Uriel Asmodion on a dark background.",
+    "imageName": "uriel-asmodion-glyph---dark-58e650d557.png",
+    "masterable": false,
+    "name": "Uriel Asmodion Glyph - Dark",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageUrielAltDark"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Uriel on a bright background.",
+    "imageName": "uriel-glyph---bright-dcf8ef80a4.png",
+    "masterable": false,
+    "name": "Uriel Glyph - Bright",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageUrielBright"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Uriel on a dark background.",
+    "imageName": "uriel-glyph---dark-4eeb05f267.png",
+    "masterable": false,
+    "name": "Uriel Glyph - Dark",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageUrielDark"
   },
   {
     "category": "Glyphs",
@@ -13638,6 +14397,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageValkyrDark"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph that celebrates Valkyr's legacy.",
+    "imageName": "valkyr-heirloom-glyph-caa3103612.png",
+    "masterable": false,
+    "name": "Valkyr Heirloom Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/HeirloomValkyrGlyph"
   },
   {
     "category": "Glyphs",
@@ -13884,6 +14653,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "imageName": "vector-glyph-5e5b9bd204.png",
+    "masterable": false,
+    "name": "Vector Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageVecToR"
+  },
+  {
+    "category": "Glyphs",
     "description": "Celebrate 1999's distinctive screen style with this glyph portraying Velimir, the Frost protoframe!",
     "imageName": "velimir-pixel-glyph-26efeaa014.png",
     "masterable": false,
@@ -13984,6 +14763,16 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
+    "imageName": "veroz73-glyph-f688ca5611.png",
+    "masterable": false,
+    "name": "Veroz73 Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageVeroz"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
     "excludeFromCodex": true,
     "imageName": "verv-loki-glyph-a1402fd410.png",
     "masterable": false,
@@ -14001,6 +14790,17 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Xmas2021NutcorpusGlyph"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "vikhayes-partner-glyph-e975786972.png",
+    "masterable": false,
+    "name": "Vikhayes Partner Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageCleoNaturin"
   },
   {
     "category": "Glyphs",
@@ -14347,6 +15147,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/VorunaActionGlyph"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Voruna Medeina.",
+    "imageName": "voruna-medeina-glyph-4f9391d63d.png",
+    "masterable": false,
+    "name": "Voruna Medeina Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageVorunaDeluxe"
   },
   {
     "category": "Glyphs",
@@ -14935,6 +15745,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph depicting Wukong Qitian.",
+    "imageName": "wukong-qitian-glyph-2a5998bfaa.png",
+    "masterable": false,
+    "name": "Wukong Qitian Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageWukongDeluxeB"
+  },
+  {
+    "category": "Glyphs",
     "description": "A glyph depicting Wukong Samadhi.",
     "excludeFromCodex": true,
     "imageName": "wukong-samadhi-glyph-cb75d688b5.png",
@@ -14974,6 +15794,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageWukongDeluxeVED"
+  },
+  {
+    "category": "Glyphs",
+    "description": "Born from stone, now immortalized by it in this profile glyph. ",
+    "imageName": "wukong-stone-monarch-glyph-1ab14d8c64.png",
+    "masterable": false,
+    "name": "Wukong Stone Monarch Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageWukongDeluxeBSupporter"
   },
   {
     "category": "Glyphs",
@@ -15078,6 +15908,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeDark"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph for your profile, showing the Xaku Raya Helmet.",
+    "imageName": "xaku-raya-glyph-a5e8746fd7.png",
+    "masterable": false,
+    "name": "Xaku Raya Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightaveCosmos"
   },
   {
     "category": "Glyphs",
@@ -15242,6 +16082,26 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageYareliAltDark"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Yareli Prime on a bright background.",
+    "imageName": "yareli-prime-glyph---bright-eaf5204032.png",
+    "masterable": false,
+    "name": "Yareli Prime Glyph - Bright",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageYareliPrimeBright"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Yareli Prime on a dark background.",
+    "imageName": "yareli-prime-glyph---dark-c321884946.png",
+    "masterable": false,
+    "name": "Yareli Prime Glyph - Dark",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageYareliPrimeDark"
   },
   {
     "category": "Glyphs",

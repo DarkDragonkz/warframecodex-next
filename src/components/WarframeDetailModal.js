@@ -1,191 +1,229 @@
 "use client";
-import React, { useEffect } from 'react';
-import { IMG_BASE_URL } from '@/utils/constants';
+import React, { useEffect, useState } from 'react';
+import { IMG_BASE_URL, API_BASE_URL } from '@/utils/constants';
 
-// Mappa di priorità per l'ordinamento (Logica "Other Author")
-// 1 = Rare (In alto o in basso a seconda della preferenza), qui mettiamo Common in alto (più probabile)
-const RARITY_PRIORITY = {
-    'Common': 10,
-    'Uncommon': 5,
-    'Rare': 1,
-    'Legendary': 0
-};
+const HIDDEN_RESOURCES = [
+    'Orokin Cell', 'Argon Crystal', 'Neural Sensors', 'Neurodes', 
+    'Plastids', 'Rubedo', 'Ferrite', 'Alloy Plate', 'Polymer Bundle', 
+    'Circuits', 'Salvage', 'Morphics', 'Control Module', 'Gallium', 
+    'Nitain Extract', 'Tellurium', 'Cryotic', 'Oxium'
+];
 
 export default function WarframeDetailModal({ item, onClose, ownedItems, onToggle }) {
+    const [smartMissions, setSmartMissions] = useState([]);
+    const [loadingStrategies, setLoadingStrategies] = useState(false);
+    const [statusMsg, setStatusMsg] = useState(""); 
+
     if (!item) return null;
 
     const isOwned = ownedItems.has(item.uniqueName);
-    
-    // Controllo Categoria flessibile (Relics, Relic, ecc.)
-    const isRelic = (item.category || "").includes('Relic') || (item.type || "").includes('Relic');
-    
-    // Logica Vaulted
-    const isVaulted = item.vaulted || (isRelic && (!item.drops || item.drops.length === 0));
-    
+    const isRelicItem = (item.category || "").includes('Relic') || (item.type || "").includes('Relic');
+    const mainDropsEmpty = !item.drops || item.drops.length === 0;
+    const isVaulted = item.vaulted || (isRelicItem && mainDropsEmpty);
     const wikiUrl = `https://warframe.fandom.com/wiki/${item.name.replace(/ /g, '_')}`;
 
     useEffect(() => {
         const handleEsc = (e) => { if (e.key === 'Escape') onClose(); };
         window.addEventListener('keydown', handleEsc);
+        if (!isRelicItem && (item.components || item.drops)) fetchFarmingData();
         return () => window.removeEventListener('keydown', handleEsc);
-    }, [onClose]);
+    }, [onClose, item]);
 
-    // --- LOGICA DATI ROBUSTA ---
+    function getStandardID(name) {
+        if (!name) return null;
+        const match = name.toUpperCase().match(/(LITH|MESO|NEO|AXI|REQUIEM)\s+([A-Z0-9]+)/);
+        if (match) return `${match[1]} ${match[2]}`;
+        return null;
+    }
 
-    // 1. REWARDS (Contenuto)
-    // Usa una logica di sort sicura: se manca 'chance', usa la 'rarity'
-    const sortedRewards = item.rewards ? [...item.rewards].sort((a, b) => {
-        // Se entrambi hanno la chance, usa quella (decrescente)
-        if (a.chance && b.chance) return b.chance - a.chance;
-        
-        // Altrimenti usa la priorità della rarità (Common prima di Rare)
-        const pA = RARITY_PRIORITY[a.rarity] || 5;
-        const pB = RARITY_PRIORITY[b.rarity] || 5;
-        return pA - pB; // Ordine decrescente di priorità (Common(10) -> Rare(1))
-    }) : [];
+    function getCleanPartName(fullComponentName) {
+        if (!fullComponentName || fullComponentName === "MAIN BP") return "MAIN BP";
+        const safeItemName = item.name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); 
+        const nameRegex = new RegExp(safeItemName, "gi");
+        let clean = fullComponentName.replace(nameRegex, "").replace(/Blueprint/gi, "").replace(/Relic/gi, "").trim();
+        if (fullComponentName.match(/Chassis/i)) return "CHASSIS";
+        if (fullComponentName.match(/Systems/i)) return "SYSTEMS";
+        if (fullComponentName.match(/Neuroptics/i)) return "NEURO";
+        if (fullComponentName.match(/Harness/i)) return "HARNESS";
+        if (fullComponentName.match(/Wings/i)) return "WINGS";
+        if (!clean || clean.length < 2) return "MAIN BP";
+        return clean.toUpperCase();
+    }
 
-    // 2. DROPS (Missioni)
-    const sortedDrops = item.drops ? [...item.drops].sort((a, b) => (b.chance || 0) - (a.chance || 0)) : [];
+    async function fetchFarmingData() {
+        setLoadingStrategies(true);
+        setStatusMsg("Analyzing...");
+        try {
+            const neededIDs = new Set();
+            const relicToPartMap = {}; 
+            const scan = (drops, partNameLabel) => {
+                (drops || []).forEach(d => {
+                    const id = getStandardID(d.location);
+                    if (id) { neededIDs.add(id); relicToPartMap[id] = getCleanPartName(partNameLabel); }
+                });
+            };
+            (item.components || []).forEach(c => { if(!HIDDEN_RESOURCES.includes(c.name)) scan(c.drops, c.name); });
+            scan(item.drops, "MAIN BP");
+
+            if (neededIDs.size === 0) { setLoadingStrategies(false); return; }
+
+            const res = await fetch(`${API_BASE_URL}/RelicLookup.json`);
+            if (!res.ok) throw new Error("Missing DB");
+            const lookupDB = await res.json();
+            const missionMap = new Map();
+
+            neededIDs.forEach(relicID => {
+                const missions = lookupDB[relicID]; 
+                const partName = relicToPartMap[relicID] || "PART";
+                if (missions) {
+                    missions.forEach(mission => {
+                        const key = mission.node;
+                        if (!missionMap.has(key)) missionMap.set(key, { missionName: key, totalScore: 0, relicsFound: [] });
+                        const entry = missionMap.get(key);
+                        let relicEntry = entry.relicsFound.find(r => r.id === relicID);
+                        if (!relicEntry) {
+                            relicEntry = { id: relicID, part: partName, drops: [], maxChance: 0 };
+                            entry.relicsFound.push(relicEntry);
+                        }
+                        const dropExists = relicEntry.drops.some(d => d.rot === mission.rot);
+                        if (!dropExists) {
+                            relicEntry.drops.push({ rot: mission.rot, chance: mission.chance });
+                            if (mission.chance > relicEntry.maxChance) relicEntry.maxChance = mission.chance;
+                            entry.totalScore += mission.chance;
+                        }
+                    });
+                }
+            });
+
+            const sorted = Array.from(missionMap.values()).sort((a, b) => {
+                const uniquePartsA = new Set(a.relicsFound.map(r => r.part)).size;
+                const uniquePartsB = new Set(b.relicsFound.map(r => r.part)).size;
+                if (uniquePartsB !== uniquePartsA) return uniquePartsB - uniquePartsA;
+                return b.totalScore - a.totalScore;
+            }).slice(0, 15);
+
+            setSmartMissions(sorted);
+        } catch (e) { console.error(e); setStatusMsg("N/A"); } finally { setLoadingStrategies(false); }
+    }
+
+    const sortedRewards = item.rewards ? [...item.rewards].sort((a, b) => (b.chance || 0) - (a.chance || 0)) : [];
+    const filteredComponents = (item.components || []).filter(comp => !HIDDEN_RESOURCES.includes(comp.name));
+    const hasComponents = filteredComponents.length > 0;
 
     return (
         <div className="modal-overlay" onClick={onClose}>
             <div className="modal-content-simple" onClick={(e) => e.stopPropagation()}>
-                
                 <button className="close-btn" onClick={onClose}>&times;</button>
 
+                <div className="modal-header-row">
+                    <div style={{display:'flex', alignItems:'center', gap:'15px'}}>
+                        <h2 className="modal-title">{item.name}</h2>
+                        <div className="type-pill">{item.type}</div>
+                    </div>
+                    {isVaulted ? <div className="vault-badge is-vaulted">VAULTED</div> : <div className="vault-badge is-available">AVAILABLE</div>}
+                </div>
+
                 <div className="modal-body">
-                    
-                    {/* HEADER */}
-                    <div style={{display:'flex', justifyContent:'space-between', alignItems:'center', marginBottom:'20px', paddingBottom:'15px', borderBottom:'1px solid #222'}}>
-                        <div style={{display:'flex', alignItems:'center', gap:'15px'}}>
-                            <h2 style={{ fontSize:'28px', fontWeight:'900', margin:0, color:'#fff', textTransform:'uppercase' }}>{item.name}</h2>
-                            <div className="type-pill" style={{fontSize:'11px', background:'#222', padding:'4px 10px', borderRadius:'10px', color:'#888'}}>{item.type}</div>
+                    {/* COL 1: INFO */}
+                    <div className="col-left">
+                        <div style={{width:'100%', display:'flex', justifyContent:'center', marginBottom:'20px'}}>
+                            <img src={`${IMG_BASE_URL}/${item.imageName}`} alt={item.name} style={{maxWidth:'100%', maxHeight:'250px'}} onError={(e)=>e.target.style.display='none'} />
                         </div>
-                        {isVaulted ? 
-                            <div className="vault-badge is-vaulted">VAULTED</div> : 
-                            <div className="vault-badge is-available">AVAILABLE</div>
-                        }
+                        <button onClick={() => onToggle(item.uniqueName)} className={`btn-toggle-large ${isOwned ? 'owned' : ''}`}>
+                            {isOwned ? '✔ POSSEDUTO' : '+ AGGIUNGI'}
+                        </button>
+                        <a href={wikiUrl} target="_blank" rel="noopener noreferrer" className="wiki-btn-block">WIKI PAGE</a>
                     </div>
 
-                    {/* LAYOUT A 3 COLONNE */}
-                    <div className="modal-grid-layout">
-                        
-                        {/* COLONNA 1: INFO */}
-                        <div style={{display:'flex', flexDirection:'column', alignItems:'center'}}>
-                            <div style={{marginBottom:'20px', width:'100%', display:'flex', justifyContent:'center', background:'radial-gradient(circle, #1a1a1e 0%, transparent 70%)', padding:'20px', borderRadius:'8px'}}>
-                                <img 
-                                    src={`${IMG_BASE_URL}/${item.imageName}`} 
-                                    alt={item.name} 
-                                    style={{maxHeight:'200px', maxWidth:'100%', filter: 'drop-shadow(0 0 25px rgba(0,0,0,0.6))'}}
-                                    onError={(e) => { e.target.style.display = 'none'; }}
-                                />
+                    {/* COL 2: COMPONENTI (NUOVO STILE "DATA CHIP") */}
+                    <div className="col-center">
+                        <h3 className="section-title">{isRelicItem ? "REWARDS" : "COMPONENTS"}</h3>
+                        {isRelicItem && (
+                            <div style={{display:'flex', flexDirection:'column', gap:'5px'}}>
+                                {sortedRewards.map((r, i) => (
+                                    <div key={i} style={{display:'flex', justifyContent:'space-between', padding:'8px', borderBottom:'1px solid #222', fontSize:'13px'}}>
+                                        <span style={{color: '#aaa'}}>{r.itemName || r.item?.name}</span>
+                                        <span style={{fontWeight:'bold', color:'var(--gold)'}}>{(r.chance*100).toFixed(0)}%</span>
+                                    </div>
+                                ))}
                             </div>
-                            <button onClick={() => onToggle(item.uniqueName)} className={`btn-toggle-large ${isOwned ? 'owned' : ''}`}>
-                                {isOwned ? '✔ POSSEDUTO' : '+ AGGIUNGI'}
-                            </button>
-                            <a href={wikiUrl} target="_blank" rel="noopener noreferrer" className="wiki-btn-block">WIKI PAGE</a>
-                        </div>
+                        )}
+                        {!isRelicItem && hasComponents && (
+                            <div style={{display:'flex', flexDirection:'column'}}>
+                                {filteredComponents.map((comp, idx) => (
+                                    <div key={idx} className="component-row">
+                                        <div className="component-header">
+                                            <div className="component-icon"><img src={`${IMG_BASE_URL}/${comp.imageName}`} alt=""/></div>
+                                            <div style={{flex:1}}>
+                                                <strong style={{color:'#eee', fontSize:'13px'}}>{getCleanPartName(comp.name)}</strong>
+                                            </div>
+                                            <span className="count-badge">x{comp.itemCount}</span>
+                                        </div>
+                                        <div className="relic-cards-grid">
+                                            {formatDrops(comp.drops).map((d, i) => (
+                                                <div key={i} className={`mini-relic-card ${!d.isRelic ? 'is-mission' : ''}`}>
+                                                    {/* SVG ICONA RELIQUIA (Forma di Cavolo/Reliquia) */}
+                                                    <svg className="relic-icon-svg" viewBox="0 0 24 24">
+                                                        {d.isRelic ? (
+                                                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z" />
+                                                        ) : (
+                                                            <path d="M12 2L2 12l10 10 10-10L12 2zm0 18l-8-8 8-8 8 8-8 8z"/>
+                                                        )}
+                                                    </svg>
+                                                    <div className="card-info">
+                                                        <span className="card-name">{d.loc}</span>
+                                                        <span className="card-pct">{d.pct}</span>
+                                                    </div>
+                                                </div>
+                                            ))}
+                                        </div>
+                                    </div>
+                                ))}
+                            </div>
+                        )}
+                    </div>
 
-                        {/* COLONNA 2: CONTENUTO (REWARDS) */}
-                        <div className="scroll-col" style={{background:'#0e0e10', borderRadius:'6px', padding:'15px', border:'1px solid #222'}}>
-                            <h3 className="section-title">RELIQUARY CONTENTS</h3>
-                            
-                            {sortedRewards.length > 0 ? (
-                                <table className="codex-table rewards-table">
-                                    <tbody>
-                                        {sortedRewards.map((reward, idx) => {
-                                            // LOGICA RECUPERO NOME (Extra sicura)
-                                            let itemName = reward.itemName || (reward.item && reward.item.name) || reward.text || "Unknown Item";
-                                            itemName = itemName.replace(" Blueprint", " BP");
-
-                                            // GESTIONE RARITÀ & CHANCE
-                                            const rarityStr = reward.rarity || "Unknown";
-                                            // Se chance esiste usala, altrimenti stima base (Common 25%, Unc 11%, Rare 2%)
-                                            let chanceVal = reward.chance;
-                                            if (!chanceVal) {
-                                                if(rarityStr === 'Common') chanceVal = 0.2533;
-                                                else if(rarityStr === 'Uncommon') chanceVal = 0.11;
-                                                else if(rarityStr === 'Rare') chanceVal = 0.02;
-                                                else chanceVal = 0;
-                                            }
-                                            
-                                            const chanceTxt = (chanceVal * 100).toFixed(0) + '%';
-                                            const rarityColor = getRarityColorByString(rarityStr); // Usa stringa se chance manca
-                                            
-                                            return (
-                                                <tr key={idx} style={{borderLeft: `3px solid ${rarityColor}`}}>
-                                                    <td style={{paddingLeft:'10px'}}>
-                                                        <div className="reward-name" style={{fontSize:'12px', color:'#eee'}}>{itemName}</div>
-                                                        <div className="reward-rarity" style={{color: rarityColor, fontSize:'9px'}}>
-                                                            {rarityStr.toUpperCase()}
-                                                        </div>
-                                                    </td>
-                                                    <td style={{textAlign:'right', fontWeight:'bold', color:'#666', fontSize:'12px', width:'40px'}}>
-                                                        {chanceTxt}
-                                                    </td>
+                    {/* COL 3: STRATEGIA */}
+                    <div className="col-right">
+                        <h3 className="section-title" style={{color:'var(--gold)'}}>
+                            {loadingStrategies ? statusMsg : "OPTIMAL FARMING LOCATIONS"}
+                        </h3>
+                        {!isRelicItem && smartMissions.length > 0 ? (
+                            <div className="strategy-container">
+                                {smartMissions.map((mission, idx) => (
+                                    <div key={idx} className="mission-block">
+                                        <div className="mission-block-header">
+                                            <div className="mission-name-large">{mission.missionName}</div>
+                                            <div style={{fontSize:'10px', color:'#666', fontWeight:'bold'}}>{(mission.totalScore*100).toFixed(0)}% TOT</div>
+                                        </div>
+                                        <table className="mission-relics-table">
+                                            <thead>
+                                                <tr>
+                                                    <th style={{width:'30%'}}>RELIC</th>
+                                                    <th style={{width:'20%', textAlign:'center'}}>PART</th>
+                                                    <th style={{width:'20%', textAlign:'center'}}>ROT</th>
+                                                    <th style={{width:'30%', textAlign:'right'}}>CHANCE</th>
                                                 </tr>
-                                            );
-                                        })}
-                                    </tbody>
-                                </table>
-                            ) : (
-                                <div style={{padding:'30px', textAlign:'center', color:'#555', fontSize:'12px', fontStyle:'italic'}}>
-                                    Nessun contenuto trovato.
-                                </div>
-                            )}
-                        </div>
-
-                        {/* COLONNA 3: MISSIONI (DROPS) */}
-                        <div className="scroll-col">
-                            <h3 className="section-title">DROP SOURCES {isVaulted && "(ARCHIVED)"}</h3>
-                            {sortedDrops.length > 0 ? (
-                                <table className="codex-table">
-                                    <thead>
-                                        <tr>
-                                            <th>LOCATION</th>
-                                            <th style={{textAlign:'center'}}>ROT</th>
-                                            <th style={{textAlign:'right'}}>%</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        {sortedDrops.map((drop, idx) => {
-                                            // PULIZIA NOME E ROTAZIONE
-                                            let locName = drop.location;
-                                            let rot = drop.rotation;
-                                            if (!rot) {
-                                                const rotMatch = locName.match(/(?:Rotation|Rot)\s*([A-C])/i);
-                                                if (rotMatch) {
-                                                    rot = rotMatch[1].toUpperCase();
-                                                    locName = locName.replace(/\s*\(?(?:Rotation|Rot)\s*[A-C]\)?/i, '').trim();
-                                                    locName = locName.replace(/\(\s*\)/, '').trim();
-                                                }
-                                            }
-
-                                            return (
-                                                <tr key={idx} className="drop-table-row">
-                                                    <td>
-                                                        <div className="drop-loc">{locName}</div>
-                                                        <div className="drop-type">{drop.type}</div>
-                                                    </td>
-                                                    <td style={{textAlign:'center', color:'var(--gold)', fontWeight:'bold', fontSize:'14px'}}>
-                                                        {rot ? rot : '-'}
-                                                    </td>
-                                                    <td style={{textAlign:'right'}}>
-                                                        <span className="drop-chance">{(drop.chance * 100).toFixed(2)}%</span>
-                                                    </td>
-                                                </tr>
-                                            );
-                                        })}
-                                    </tbody>
-                                </table>
-                            ) : (
-                                <div style={{padding:'20px', background: 'rgba(255,50,50,0.1)', border:'1px dashed #aa4444', borderRadius:'6px', color:'#ccc', fontSize:'12px'}}>
-                                    <strong style={{color:'#ff6666'}}>VAULTED / NON DISPONIBILE</strong>
-                                    <br/><br/>Questa reliquia non ha drop table attive.
-                                </div>
-                            )}
-                        </div>
-
+                                            </thead>
+                                            <tbody>
+                                                {mission.relicsFound.sort((a,b)=>b.maxChance - a.maxChance).map((r, i) => (
+                                                    <tr key={i}>
+                                                        <td style={{color:'#fff', fontWeight:'bold'}}>{r.id}</td>
+                                                        <td style={{textAlign:'center'}}><span className="part-badge">{r.part}</span></td>
+                                                        <td style={{textAlign:'center', color:'var(--gold)'}}>{(r.drops||[]).map(d=>d.rot).join(' | ')}</td>
+                                                        <td style={{textAlign:'right', color:'#aaa'}}>{(r.drops||[]).map(d=>(d.chance*100).toFixed(1)+'%').join(' | ')}</td>
+                                                    </tr>
+                                                ))}
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                ))}
+                            </div>
+                        ) : (
+                            <div style={{textAlign:'center', padding:'40px', color:'#555', fontStyle:'italic'}}>
+                                {!loadingStrategies && "No farming data available."}
+                            </div>
+                        )}
                     </div>
                 </div>
             </div>
@@ -193,12 +231,29 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
     );
 }
 
-// Helper aggiornato per usare la STRINGA di rarità se la chance manca
-function getRarityColorByString(rarity) {
-    if (!rarity) return '#888';
-    const r = rarity.toLowerCase();
-    if (r.includes('common') && !r.includes('uncommon')) return '#cd7f32'; // Bronze
-    if (r.includes('uncommon')) return '#c0c0c0'; // Silver
-    if (r.includes('rare')) return '#d4af37'; // Gold
-    return '#888';
+function getIntactChance(r) {
+    if(!r) return "-";
+    r = r.toLowerCase();
+    if(r.includes('rare')) return "2%";
+    if(r.includes('uncommon')) return "11%";
+    return "25%";
+}
+
+function formatDrops(drops) {
+    if(!drops || drops.length === 0) return [];
+    const unique = new Map();
+    drops.forEach(d => {
+        let locRaw = d.location || "";
+        let isRelic = locRaw.toUpperCase().match(/(LITH|MESO|NEO|AXI|REQUIEM)\s+[A-Z0-9]+/);
+        if (isRelic && locRaw.match(/(Radiant|Flawless|Exceptional)/i)) return;
+        let loc = locRaw.replace(' Relic', '').replace(' (Intact)', '').trim();
+        if(!unique.has(loc)) {
+            unique.set(loc, {
+                loc, isRelic,
+                pct: isRelic ? getIntactChance(d.rarity) : (d.chance ? `${(d.chance*100).toFixed(0)}%` : "-"),
+                chance: d.chance || 0
+            });
+        }
+    });
+    return Array.from(unique.values()).sort((a,b) => b.chance - a.chance);
 }

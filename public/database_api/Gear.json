@@ -271,7 +271,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonNightPlantItem",
         "name": "Moonlight Threshcone",
-        "description": "This common plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Threshcone plants that grow on Earth",
+        "description": "This common plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Threshcone plants that grow on Earth",
         "itemCount": 4,
         "imageName": "moonlight-threshcone-4b4540893f.png",
         "tradable": false,
@@ -502,64 +502,7 @@
     "uniqueName": "/Lotus/Types/Restoratives/HeavyWeaponSummon"
   },
   {
-    "buildPrice": 7500,
-    "buildQuantity": 1,
-    "buildTime": 1800,
     "category": "Gear",
-    "components": [
-      {
-        "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/OpenArchwingSummonBlueprint",
-        "name": "Blueprint",
-        "description": "Summons an Archwing for use during free roam missions.",
-        "itemCount": 1,
-        "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
-        "drops": []
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
-        "name": "Circuits",
-        "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
-        "itemCount": 600,
-        "imageName": "circuits-5e77d8b169.png",
-        "tradable": false,
-        "drops": [],
-        "masterable": false,
-        "type": "Resource"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
-        "name": "Fish Oil",
-        "description": "Used to create absolvents that purify gems.\n\nSource: Cut from all Plains of Eidolon Fish via Fisher Hai-Luk in Cetus (Earth).",
-        "itemCount": 30,
-        "imageName": "fish-oil-74fd9aeeac.png",
-        "tradable": false,
-        "masterable": false,
-        "drops": []
-      },
-      {
-        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
-        "name": "Grokdrul",
-        "description": "A noxious mix of polysaccharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.\n\nLocation: Plains of Eidolon on Earth",
-        "itemCount": 50,
-        "imageName": "grokdrul-1753a06746.png",
-        "tradable": false,
-        "drops": [],
-        "masterable": false
-      },
-      {
-        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem",
-        "name": "Iradite",
-        "description": "A mineral valuable to the Ostrons.\n\nLocation: Plains of Eidolon on Earth",
-        "itemCount": 50,
-        "imageName": "iradite-78612a184b.png",
-        "tradable": false,
-        "drops": [],
-        "masterable": false
-      }
-    ],
-    "consumeOnBuild": false,
     "description": "Summons an Archwing for use during free roam missions.",
     "imageName": "archwing-launcher-9f2237ab90.png",
     "masterable": false,
@@ -630,7 +573,6 @@
         "fixes": "Fixed the Archwing Launcher Segment not being Chat linkable."
       }
     ],
-    "skipBuildTimePrice": 10,
     "tradable": false,
     "type": "Gear",
     "uniqueName": "/Lotus/Types/Restoratives/OpenArchwingSummon"
@@ -710,7 +652,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem",
         "name": "Sunlight Threshcone",
-        "description": "This common plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Threshcone plants that grow on Earth",
+        "description": "This common plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Threshcone plants that grow on Earth",
         "itemCount": 4,
         "imageName": "sunlight-threshcone-b0e6273f84.png",
         "tradable": false,
@@ -1308,7 +1250,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
         "name": "Sunlight Dragonlily",
-        "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Dragonlily plants that grow on Earth",
+        "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
         "itemCount": 2,
         "imageName": "sunlight-dragonlily-aaeb487cc1.png",
         "tradable": false,
@@ -1318,7 +1260,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem",
         "name": "Sunlight Threshcone",
-        "description": "This common plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Threshcone plants that grow on Earth",
+        "description": "This common plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Threshcone plants that grow on Earth",
         "itemCount": 2,
         "imageName": "sunlight-threshcone-b0e6273f84.png",
         "tradable": false,
@@ -3009,8 +2951,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishAPartItem",
@@ -3019,7 +2960,56 @@
         "itemCount": 5,
         "imageName": "charc-electroplax-8f1992da29.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0316,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
+            "rarity": "Rare",
+            "type": "10X Charc Electroplax"
+          },
+          {
+            "chance": 0.0316,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "rarity": "Rare",
+            "type": "10X Charc Electroplax"
+          },
+          {
+            "chance": 0.1668,
+            "location": "Narmer Thumper",
+            "rarity": "Rare",
+            "type": "Charc Electroplax"
+          },
+          {
+            "chance": 0.1668,
+            "location": "Tusk Thumper",
+            "rarity": "Rare",
+            "type": "Charc Electroplax"
+          },
+          {
+            "chance": 0.2502,
+            "location": "Narmer Thumper Bull",
+            "rarity": "Rare",
+            "type": "Charc Electroplax"
+          },
+          {
+            "chance": 0.2502,
+            "location": "Tusk Thumper Bull",
+            "rarity": "Rare",
+            "type": "Charc Electroplax"
+          },
+          {
+            "chance": 0.3336,
+            "location": "Narmer Thumper Doma",
+            "rarity": "Rare",
+            "type": "Charc Electroplax"
+          },
+          {
+            "chance": 0.3336,
+            "location": "Tusk Thumper Doma",
+            "rarity": "Rare",
+            "type": "Charc Electroplax"
+          }
+        ],
         "masterable": false
       },
       {
@@ -3029,7 +3019,86 @@
         "itemCount": 5,
         "imageName": "iradite-78612a184b.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0316,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
+            "rarity": "Rare",
+            "type": "10X Iradite"
+          },
+          {
+            "chance": 0.0316,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "rarity": "Rare",
+            "type": "10X Iradite"
+          },
+          {
+            "chance": 0.1518,
+            "location": "Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "15X Iradite"
+          },
+          {
+            "chance": 0.1549,
+            "location": "Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "15X Iradite"
+          },
+          {
+            "chance": 0.1668,
+            "location": "Narmer Thumper",
+            "rarity": "Rare",
+            "type": "Iradite"
+          },
+          {
+            "chance": 0.1668,
+            "location": "Tusk Thumper",
+            "rarity": "Rare",
+            "type": "Iradite"
+          },
+          {
+            "chance": 0.2,
+            "location": "Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "15X Iradite"
+          },
+          {
+            "chance": 0.2502,
+            "location": "Narmer Thumper Bull",
+            "rarity": "Rare",
+            "type": "Iradite"
+          },
+          {
+            "chance": 0.2502,
+            "location": "Tusk Thumper Bull",
+            "rarity": "Rare",
+            "type": "Iradite"
+          },
+          {
+            "chance": 0.3336,
+            "location": "Narmer Thumper Doma",
+            "rarity": "Rare",
+            "type": "Iradite"
+          },
+          {
+            "chance": 0.3336,
+            "location": "Tusk Thumper Doma",
+            "rarity": "Rare",
+            "type": "Iradite"
+          },
+          {
+            "chance": 1,
+            "location": "Iradite Formation",
+            "rarity": "Common",
+            "type": "Iradite"
+          },
+          {
+            "chance": 1,
+            "location": "Ostron (Old Man Suumbaat), Surah",
+            "rarity": "Common",
+            "type": "Iradite Nugget"
+          }
+        ],
         "masterable": false
       },
       {
@@ -3039,7 +3108,80 @@
         "itemCount": 5,
         "imageName": "maprico-35a9f7f622.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0316,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
+            "rarity": "Rare",
+            "type": "10X Maprico"
+          },
+          {
+            "chance": 0.0316,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "rarity": "Rare",
+            "type": "10X Maprico"
+          },
+          {
+            "chance": 0.1668,
+            "location": "Narmer Thumper",
+            "rarity": "Rare",
+            "type": "Maprico"
+          },
+          {
+            "chance": 0.1668,
+            "location": "Tusk Thumper",
+            "rarity": "Rare",
+            "type": "Maprico"
+          },
+          {
+            "chance": 0.25,
+            "location": "Narmer Thumper Bull",
+            "rarity": "Uncommon",
+            "type": "Maprico"
+          },
+          {
+            "chance": 0.25,
+            "location": "Tusk Thumper Bull",
+            "rarity": "Uncommon",
+            "type": "Maprico"
+          },
+          {
+            "chance": 0.2502,
+            "location": "Narmer Thumper Bull",
+            "rarity": "Rare",
+            "type": "Maprico"
+          },
+          {
+            "chance": 0.2502,
+            "location": "Tusk Thumper Bull",
+            "rarity": "Rare",
+            "type": "Maprico"
+          },
+          {
+            "chance": 0.3336,
+            "location": "Narmer Thumper Doma",
+            "rarity": "Rare",
+            "type": "Maprico"
+          },
+          {
+            "chance": 0.3336,
+            "location": "Tusk Thumper Doma",
+            "rarity": "Rare",
+            "type": "Maprico"
+          },
+          {
+            "chance": 0.5,
+            "location": "Narmer Thumper Doma",
+            "rarity": "Uncommon",
+            "type": "Maprico"
+          },
+          {
+            "chance": 0.5,
+            "location": "Tusk Thumper Doma",
+            "rarity": "Uncommon",
+            "type": "Maprico"
+          }
+        ],
         "masterable": false
       },
       {
@@ -3049,7 +3191,44 @@
         "itemCount": 5,
         "imageName": "sharrac-teeth-00c5c5e9ae.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.1668,
+            "location": "Narmer Thumper",
+            "rarity": "Rare",
+            "type": "Sharrac Teeth"
+          },
+          {
+            "chance": 0.1668,
+            "location": "Tusk Thumper",
+            "rarity": "Rare",
+            "type": "Sharrac Teeth"
+          },
+          {
+            "chance": 0.2502,
+            "location": "Narmer Thumper Bull",
+            "rarity": "Rare",
+            "type": "Sharrac Teeth"
+          },
+          {
+            "chance": 0.2502,
+            "location": "Tusk Thumper Bull",
+            "rarity": "Rare",
+            "type": "Sharrac Teeth"
+          },
+          {
+            "chance": 0.3336,
+            "location": "Narmer Thumper Doma",
+            "rarity": "Rare",
+            "type": "Sharrac Teeth"
+          },
+          {
+            "chance": 0.3336,
+            "location": "Tusk Thumper Doma",
+            "rarity": "Rare",
+            "type": "Sharrac Teeth"
+          }
+        ],
         "masterable": false
       }
     ],
@@ -3263,7 +3442,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareNightPlantItem",
         "name": "Moonlight Jadeleaf",
-        "description": "This rare plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Jadeleaf plants that grow on Earth",
+        "description": "This rare plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Jadeleaf plants that grow on Earth",
         "itemCount": 1,
         "imageName": "moonlight-jadeleaf-619d6ad934.png",
         "tradable": false,
@@ -3273,7 +3452,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonNightPlantItem",
         "name": "Moonlight Threshcone",
-        "description": "This common plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Threshcone plants that grow on Earth",
+        "description": "This common plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Threshcone plants that grow on Earth",
         "itemCount": 15,
         "imageName": "moonlight-threshcone-4b4540893f.png",
         "tradable": false,
@@ -3283,7 +3462,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem",
         "name": "Sunlight Jadeleaf",
-        "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Jadeleaf plants that grow on Earth",
+        "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Jadeleaf plants that grow on Earth",
         "itemCount": 1,
         "imageName": "sunlight-jadeleaf-db857bb828.png",
         "tradable": false,
@@ -3293,7 +3472,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem",
         "name": "Sunlight Threshcone",
-        "description": "This common plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Threshcone plants that grow on Earth",
+        "description": "This common plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Threshcone plants that grow on Earth",
         "itemCount": 15,
         "imageName": "sunlight-threshcone-b0e6273f84.png",
         "tradable": false,
@@ -3748,7 +3927,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
         "name": "Moonlight Dragonlily",
-        "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Dragonlily plants that grow on Earth",
+        "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
         "itemCount": 1,
         "imageName": "moonlight-dragonlily-1d96fd8309.png",
         "tradable": false,
@@ -3758,7 +3937,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareNightPlantItem",
         "name": "Moonlight Jadeleaf",
-        "description": "This rare plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Jadeleaf plants that grow on Earth",
+        "description": "This rare plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Jadeleaf plants that grow on Earth",
         "itemCount": 1,
         "imageName": "moonlight-jadeleaf-619d6ad934.png",
         "tradable": false,
@@ -3768,7 +3947,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
         "name": "Sunlight Dragonlily",
-        "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Dragonlily plants that grow on Earth",
+        "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
         "itemCount": 1,
         "imageName": "sunlight-dragonlily-aaeb487cc1.png",
         "tradable": false,
@@ -3778,7 +3957,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem",
         "name": "Sunlight Jadeleaf",
-        "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Jadeleaf plants that grow on Earth",
+        "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Jadeleaf plants that grow on Earth",
         "itemCount": 1,
         "imageName": "sunlight-jadeleaf-db857bb828.png",
         "tradable": false,
@@ -4328,7 +4507,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenCobraLotusPlantItem",
         "name": "Dusklight Sarracenia",
-        "description": "This robust, carnivorous plant has adapted to conditions in polluted waters. \n\nLocation: Obtained by using a Codex Scanner on Dusklight Sarracenia plants growing in Grineer Shipyards found commonly on Ceres",
+        "description": "This robust, carnivorous plant has adapted to conditions in polluted waters. \n\nLocation: Obtained by gathering Dusklight Sarracenia plants growing in Grineer Shipyards found commonly on Ceres",
         "itemCount": 2,
         "imageName": "dusklight-sarracenia-6a698a114a.png",
         "tradable": false,
@@ -4338,7 +4517,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
         "name": "Moonlight Dragonlily",
-        "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Dragonlily plants that grow on Earth",
+        "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
         "itemCount": 6,
         "imageName": "moonlight-dragonlily-1d96fd8309.png",
         "tradable": false,
@@ -4359,7 +4538,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem",
         "name": "Sunlight Threshcone",
-        "description": "This common plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Threshcone plants that grow on Earth",
+        "description": "This common plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Threshcone plants that grow on Earth",
         "itemCount": 12,
         "imageName": "sunlight-threshcone-b0e6273f84.png",
         "tradable": false,
@@ -4697,6 +4876,12 @@
         "type": "Omni Forma Blueprint"
       },
       {
+        "chance": 0.025,
+        "location": "Void Surplus",
+        "rarity": "Rare",
+        "type": "Omni Forma"
+      },
+      {
         "chance": 0.0365,
         "location": "Temporal Archimedea Silver Rewards",
         "rarity": "Rare",
@@ -4716,7 +4901,7 @@
       },
       {
         "chance": 0.112,
-        "location": "Temporal Archimedea Arcane Rewards",
+        "location": "Temporal Archimedea Legendary Rewards",
         "rarity": "Uncommon",
         "type": "Omni Forma"
       }
@@ -7482,8 +7667,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
@@ -7492,7 +7676,116 @@
         "itemCount": 108000,
         "imageName": "nano-spores-8933019524.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.1265,
+            "location": "Neptune/Cephalon Capture (Conclave), Rotation B",
+            "rarity": "Uncommon",
+            "type": "500X Nano Spores"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Saturn/Annihilation (Conclave), Rotation B",
+            "rarity": "Uncommon",
+            "type": "500X Nano Spores"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
+            "rarity": "Uncommon",
+            "type": "500X Nano Spores"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Saturn/Lunaro (Conclave), Rotation B",
+            "rarity": "Uncommon",
+            "type": "500X Nano Spores"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
+            "rarity": "Uncommon",
+            "type": "500X Nano Spores"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
+            "rarity": "Uncommon",
+            "type": "500X Nano Spores"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
+            "rarity": "Uncommon",
+            "type": "500X Nano Spores"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "rarity": "Uncommon",
+            "type": "500X Nano Spores"
+          },
+          {
+            "chance": 0.1324,
+            "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "200X Nano Spores"
+          },
+          {
+            "chance": 0.1429,
+            "location": "Deimos/Formido (Caches), Rotation A",
+            "rarity": "Uncommon",
+            "type": "1000X Nano Spores"
+          },
+          {
+            "chance": 0.15,
+            "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "200X Nano Spores"
+          },
+          {
+            "chance": 0.1518,
+            "location": "Hallowed Flame Mission Caches, Rotation A",
+            "rarity": "Uncommon",
+            "type": "500X Nano Spores"
+          },
+          {
+            "chance": 0.1667,
+            "location": "Eris/Candiru (Caches), Rotation A",
+            "rarity": "Uncommon",
+            "type": "1000X Nano Spores"
+          },
+          {
+            "chance": 0.1667,
+            "location": "Eris/Lepis (Caches), Rotation A",
+            "rarity": "Uncommon",
+            "type": "1000X Nano Spores"
+          },
+          {
+            "chance": 0.1667,
+            "location": "Eris/Naeglar (Caches), Rotation A",
+            "rarity": "Uncommon",
+            "type": "1000X Nano Spores"
+          },
+          {
+            "chance": 0.1667,
+            "location": "Eris/Psoro (Caches), Rotation A",
+            "rarity": "Uncommon",
+            "type": "1000X Nano Spores"
+          },
+          {
+            "chance": 0.1667,
+            "location": "Eris/Viver (Caches), Rotation A",
+            "rarity": "Uncommon",
+            "type": "1000X Nano Spores"
+          },
+          {
+            "chance": 0.25,
+            "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "200X Nano Spores"
+          }
+        ],
         "masterable": false,
         "type": "Resource"
       },
@@ -7503,7 +7796,140 @@
         "itemCount": 1800,
         "imageName": "polymer-bundle-b8d240c368.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.1265,
+            "location": "Ceres/Ker (Caches), Rotation B",
+            "rarity": "Uncommon",
+            "type": "300X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Ceres/Thon (Caches), Rotation B",
+            "rarity": "Uncommon",
+            "type": "300X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Jupiter/Adrastea (Caches), Rotation B",
+            "rarity": "Uncommon",
+            "type": "300X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Jupiter/Carpo (Caches), Rotation B",
+            "rarity": "Uncommon",
+            "type": "300X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Mars/Gradivus (Caches), Rotation B",
+            "rarity": "Uncommon",
+            "type": "240X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Mercury/Neruda (Caches), Rotation B",
+            "rarity": "Uncommon",
+            "type": "240X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Mercury/Terminus (Caches), Rotation B",
+            "rarity": "Uncommon",
+            "type": "240X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Neptune/Cephalon Capture (Conclave), Rotation B",
+            "rarity": "Uncommon",
+            "type": "500X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Saturn/Annihilation (Conclave), Rotation B",
+            "rarity": "Uncommon",
+            "type": "500X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Saturn/Calypso (Caches), Rotation B",
+            "rarity": "Uncommon",
+            "type": "300X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
+            "rarity": "Uncommon",
+            "type": "500X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Saturn/Lunaro (Conclave), Rotation B",
+            "rarity": "Uncommon",
+            "type": "500X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Saturn/Pallene (Caches), Rotation B",
+            "rarity": "Uncommon",
+            "type": "300X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
+            "rarity": "Uncommon",
+            "type": "500X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
+            "rarity": "Uncommon",
+            "type": "500X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
+            "rarity": "Uncommon",
+            "type": "500X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "rarity": "Uncommon",
+            "type": "500X Polymer Bundle"
+          },
+          {
+            "chance": 0.1265,
+            "location": "Venus/Ishtar (Caches), Rotation B",
+            "rarity": "Uncommon",
+            "type": "240X Polymer Bundle"
+          },
+          {
+            "chance": 0.1291,
+            "location": "Lua/Plato (Caches), Rotation A",
+            "rarity": "Uncommon",
+            "type": "300X Polymer Bundle"
+          },
+          {
+            "chance": 0.2,
+            "location": "Uranus/Desdemona (Caches), Rotation A",
+            "rarity": "Uncommon",
+            "type": "300X Polymer Bundle"
+          },
+          {
+            "chance": 0.2,
+            "location": "Uranus/Prospero (Caches), Rotation A",
+            "rarity": "Uncommon",
+            "type": "300X Polymer Bundle"
+          },
+          {
+            "chance": 0.2,
+            "location": "Uranus/Setebos (Caches), Rotation A",
+            "rarity": "Uncommon",
+            "type": "300X Polymer Bundle"
+          }
+        ],
         "masterable": false,
         "type": "Resource"
       }
@@ -7958,7 +8384,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/WildGingerBPlantItem",
         "name": "Frostleaf",
-        "description": "This resilient plant provides a natural food source in frigid areas of the Origin system. \n\nLocation: Obtained by using a Codex Scanner on Frostleaf plants that grow on Venus, Neptune, and Pluto",
+        "description": "This resilient plant provides a natural food source in frigid areas of the Origin system. \n\nLocation: Obtained by gathering Frostleaf plants that grow on Venus, Neptune, and Pluto",
         "itemCount": 8,
         "imageName": "frostleaf-528659b4f2.png",
         "tradable": false,
@@ -7979,7 +8405,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem",
         "name": "Sunlight Jadeleaf",
-        "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Jadeleaf plants that grow on Earth",
+        "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Jadeleaf plants that grow on Earth",
         "itemCount": 2,
         "imageName": "sunlight-jadeleaf-db857bb828.png",
         "tradable": false,
@@ -7989,7 +8415,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/MossGroundCoverAPlantItem",
         "name": "Vestan Moss",
-        "description": "One of the few known plant species able to thrive on asteroids in deep space. \n\nLocation: Obtained by using a Codex Scanner on Vestan Moss plants that grow on Mercury, Saturn, and Sedna",
+        "description": "One of the few known plant species able to thrive on asteroids in deep space. \n\nLocation: Obtained by gathering Vestan Moss plants that grow on Mercury, Saturn, and Sedna",
         "itemCount": 12,
         "imageName": "vestan-moss-5ab747944b.png",
         "tradable": false,
@@ -8228,7 +8654,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
         "name": "Moonlight Dragonlily",
-        "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Dragonlily plants that grow on Earth",
+        "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
         "itemCount": 2,
         "imageName": "moonlight-dragonlily-1d96fd8309.png",
         "tradable": false,
@@ -8238,7 +8664,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonNightPlantItem",
         "name": "Moonlight Threshcone",
-        "description": "This common plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Threshcone plants that grow on Earth",
+        "description": "This common plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Threshcone plants that grow on Earth",
         "itemCount": 2,
         "imageName": "moonlight-threshcone-4b4540893f.png",
         "tradable": false,
@@ -8458,7 +8884,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenPitcherPlantItem",
         "name": "Lunar Pitcher",
-        "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by using a Codex Scanner on Lunar Pitcher plants that grow on Lua",
+        "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
         "itemCount": 6,
         "imageName": "lunar-pitcher-f17f7c3873.png",
         "tradable": false,
@@ -8468,7 +8894,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareNightPlantItem",
         "name": "Moonlight Jadeleaf",
-        "description": "This rare plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Jadeleaf plants that grow on Earth",
+        "description": "This rare plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Jadeleaf plants that grow on Earth",
         "itemCount": 2,
         "imageName": "moonlight-jadeleaf-619d6ad934.png",
         "tradable": false,
@@ -8489,7 +8915,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/GftPlantRuksClawMaturePlantItem",
         "name": "Ruk's Claw",
-        "description": "This plant was introduced to arid regions across the Origin System, for its ability to collect moisture in harsh environments. \n\nLocation: Obtained by using a Codex Scanner on Ruk's Claw plants that grow on Mars",
+        "description": "This plant was introduced to arid regions across the Origin System, for its ability to collect moisture in harsh environments. \n\nLocation: Obtained by gathering Ruk's Claw plants that grow on Mars",
         "itemCount": 6,
         "imageName": "ruk's-claw-e1bc050e85.png",
         "tradable": false,
@@ -8927,7 +9353,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
         "name": "Moonlight Dragonlily",
-        "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Dragonlily plants that grow on Earth",
+        "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
         "itemCount": 4,
         "imageName": "moonlight-dragonlily-1d96fd8309.png",
         "tradable": false,
@@ -8937,7 +9363,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareNightPlantItem",
         "name": "Moonlight Jadeleaf",
-        "description": "This rare plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Jadeleaf plants that grow on Earth",
+        "description": "This rare plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Jadeleaf plants that grow on Earth",
         "itemCount": 4,
         "imageName": "moonlight-jadeleaf-619d6ad934.png",
         "tradable": false,
@@ -8947,7 +9373,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
         "name": "Sunlight Dragonlily",
-        "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Dragonlily plants that grow on Earth",
+        "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
         "itemCount": 4,
         "imageName": "sunlight-dragonlily-aaeb487cc1.png",
         "tradable": false,
@@ -8957,7 +9383,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem",
         "name": "Sunlight Jadeleaf",
-        "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Jadeleaf plants that grow on Earth",
+        "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Jadeleaf plants that grow on Earth",
         "itemCount": 4,
         "imageName": "sunlight-jadeleaf-db857bb828.png",
         "tradable": false,

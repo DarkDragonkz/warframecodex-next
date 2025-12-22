@@ -1249,6 +1249,16 @@
   },
   {
     "category": "Sigils",
+    "description": "Commemorate the fight against Neci Rusalka for the throne of Duviri during Operation: Eight Claw with this sigil.",
+    "imageName": "eight-claw-sigil-0ba6ce550d.png",
+    "masterable": false,
+    "name": "Eight Claw Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilEightClaw"
+  },
+  {
+    "category": "Sigils",
     "description": "A sigil that celebrates Ember's legacy.",
     "imageName": "ember-heirloom-sigil-818247cc80.png",
     "masterable": false,
@@ -1402,6 +1412,16 @@
     "tradable": false,
     "type": "Sigil",
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/EntratiRankOne"
+  },
+  {
+    "category": "Sigils",
+    "description": "A sigil bearing a twisted yet familiar visage.",
+    "imageName": "eskhatos-necraloid-sigil-67d51a84f8.png",
+    "masterable": false,
+    "name": "Eskhatos Necraloid Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EvilBaroNecraloidSigil"
   },
   {
     "category": "Sigils",
@@ -1778,6 +1798,17 @@
   },
   {
     "category": "Sigils",
+    "description": "Commemorate the fight to defend the Ostron from the Infested during Operation: Plague Star with this sigil.",
+    "excludeFromCodex": true,
+    "imageName": "hemocyte-sigil-9b59c5eed4.png",
+    "masterable": false,
+    "name": "Hemocyte Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HemocyteSigil"
+  },
+  {
+    "category": "Sigils",
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
     "drops": [
       {
@@ -1973,12 +2004,6 @@
       {
         "chance": 1,
         "location": "Hyena Ng",
-        "rarity": "Common",
-        "type": "Hyena Sigil"
-      },
-      {
-        "chance": 1,
-        "location": "Hyena Pack",
         "rarity": "Common",
         "type": "Hyena Sigil"
       },
@@ -3477,6 +3502,16 @@
   },
   {
     "category": "Sigils",
+    "description": "Display the elegant lines of the cosmos with this Raya series sigil.",
+    "imageName": "raya-orbitus-sigil-52c3de5eaa.png",
+    "masterable": false,
+    "name": "Raya Orbitus Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/CosmosSigil"
+  },
+  {
+    "category": "Sigils",
     "description": "A sigil representing prestige gained with the Steel Meridian.",
     "drops": [
       {
@@ -3649,12 +3684,6 @@
     "drops": [
       {
         "chance": 1,
-        "location": "Commander",
-        "rarity": "Common",
-        "type": "Sargas Ruk Sigil"
-      },
-      {
-        "chance": 1,
         "location": "General Sargas Ruk",
         "rarity": "Common",
         "type": "Sargas Ruk Sigil"
@@ -3783,6 +3812,16 @@
     "tradable": false,
     "type": "Sigil",
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaC"
+  },
+  {
+    "category": "Sigils",
+    "description": "A morbidly festive sigil.",
+    "imageName": "shroud-of-dynar-sigil-d5ff4f0e06.png",
+    "masterable": false,
+    "name": "Shroud Of Dynar Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DotD2025Sigil"
   },
   {
     "category": "Sigils",
@@ -3973,6 +4012,16 @@
     "tradable": false,
     "type": "Sigil",
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DogDays2023ASigil"
+  },
+  {
+    "category": "Sigils",
+    "description": "Refresh yourself with this unique sigil.",
+    "imageName": "splashdown-sigil-3dafd05b4e.png",
+    "masterable": false,
+    "name": "Splashdown Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DogDays2025Sigil"
   },
   {
     "category": "Sigils",
@@ -4323,6 +4372,16 @@
   },
   {
     "category": "Sigils",
+    "description": "A sigil commemorating ten years of TennoGen artistry.",
+    "imageName": "tennogen-decennial-sigil-827cc9abc4.png",
+    "masterable": false,
+    "name": "Tennogen Decennial Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Tennogen10YearSigil"
+  },
+  {
+    "category": "Sigils",
     "description": "A special sigil worn only by a select few Tenno.",
     "imageName": "tennogen-sigil-6120e94444.png",
     "masterable": false,
@@ -4539,6 +4598,16 @@
   },
   {
     "category": "Sigils",
+    "description": "A sigil that celebrates Valkyr's legacy.",
+    "imageName": "valkyr-heirloom-sigil-81d15f436b.png",
+    "masterable": false,
+    "name": "Valkyr Heirloom Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomValkyrSigil"
+  },
+  {
+    "category": "Sigils",
     "description": "The show’s over. This sigil marks the end of a Technocyte Coda’s career of music and mayhem.",
     "imageName": "vanquished-coda-sigil-441419d26b.png",
     "masterable": false,
@@ -4546,6 +4615,16 @@
     "tradable": false,
     "type": "Sigil",
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/InfLichVanquishedSigil"
+  },
+  {
+    "category": "Sigils",
+    "description": "The touch of alchemy leaves its mark, permeating the entire body. Lavos Khymia’s signature sigil.",
+    "imageName": "vaporis-sigil-805d1da7d8.png",
+    "masterable": false,
+    "name": "Vaporis Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LavosDeluxeSigil"
   },
   {
     "category": "Sigils",
@@ -4780,6 +4859,12 @@
         "location": "Corrupted Vor",
         "rarity": "Common",
         "type": "Vor Sigil"
+      },
+      {
+        "chance": 1,
+        "location": "Janus Captain Vor",
+        "rarity": "Common",
+        "type": "Vor Sigil"
       }
     ],
     "imageName": "vor-sigil-a867a2e4c8.png",
@@ -4912,6 +4997,16 @@
     "tradable": false,
     "type": "Sigil",
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilXmas2014A"
+  },
+  {
+    "category": "Sigils",
+    "description": "Show due respect for Wukong Qitian’s power and cunning with this sigil.",
+    "imageName": "wukong-qitian-sigil-89e89eb1a2.png",
+    "masterable": false,
+    "name": "Wukong Qitian Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WukongDeluxeBSigil"
   },
   {
     "category": "Sigils",
