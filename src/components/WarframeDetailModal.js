@@ -94,7 +94,7 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                                 <table className="codex-table rewards-table">
                                     <tbody>
                                         {sortedRewards.map((reward, idx) => {
-                                            [cite_start]// LOGICA RECUPERO NOME (Extra sicura) [cite: 31664]
+                                            // LOGICA RECUPERO NOME (Extra sicura)
                                             let itemName = reward.itemName || (reward.item && reward.item.name) || reward.text || "Unknown Item";
                                             itemName = itemName.replace(" Blueprint", " BP");
 

@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     
     permissions:
-      # Fondamentale: diamo il permesso al bot di scrivere nel repo
+      # FONDAMENTALE: diamo il permesso al bot di scrivere nel repo
       contents: write
 
     steps:
@@ -24,8 +24,9 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Installa dipendenze
-        run: npm install warframe-items
+      - name: Installa dipendenze (Tarball Version)
+        # Usiamo il link diretto al Tarball per aggirare errori SSH e prendere l'ultima versione 'master'
+        run: npm install https://github.com/WFCD/warframe-items/tarball/master
 
       - name: Esegui script di aggiornamento
         run: node scripts/update-db.js
@@ -34,10 +35,13 @@ jobs:
         run: |
           git config --global user.name 'Ordis Bot'
           git config --global user.email 'ordis-bot@users.noreply.github.com'
+          
+          # Aggiunge tutti i file JSON generati
           git add public/database_api/*.json
+          
           # Controlla se ci sono modifiche prima di fare commit
           if git diff --staged --quiet; then
-            console.log("Nessun cambiamento nei dati oggi.")
+            echo "Nessun cambiamento nei dati oggi."
           else
             git commit -m "Auto-update: Warframe Database Daily Sync"
             git push
