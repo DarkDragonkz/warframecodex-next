@@ -1,8 +1,8 @@
 "use client";
-import { Suspense, useState, useEffect } from 'react';
+import { Suspense } from 'react';
 import CodexListPage from '@/components/CodexListPage';
 
-// ... (le costanti createEraCategory e RELIC_CATEGORIES rimangono uguali) ...
+// --- Definizione Categorie (Resta invariata) ---
 const createEraCategory = (id, label, eraName) => ({
     id: id,
     label: label,
@@ -25,36 +25,14 @@ const RELIC_CATEGORIES = [
 ];
 
 export default function Page() {
-    const [relicData, setRelicData] = useState(null);
-
-    useEffect(() => {
-        async function fetchLocalData() {
-            try {
-                // Chiamiamo la TUA nuova API locale
-                const res = await fetch('/api/get-all-files');
-                const json = await res.json();
-
-                if (json.status === "success" && json.data.Relics) {
-                    setRelicData(json.data.Relics);
-                } else {
-                    throw new Error("Dati reliquie non trovati nell'API locale");
-                }
-            } catch (e) {
-                console.error("Errore API Locale:", e);
-                setRelicData([]);
-            }
-        }
-        fetchLocalData();
-    }, []);
-
-    if (!relicData) return <div style={{color:'#fff', padding:'50px', textAlign:'center'}}>Generating Codex from Core...</div>;
-
     return (
-        <CodexListPage 
-            filesToLoad={[]} 
-            manualData={relicData} 
-            pageTitle="VOID RELICS" 
-            customCategories={RELIC_CATEGORIES}
-        />
+        <Suspense fallback={<div style={{color:'#fff', padding:'50px', textAlign:'center'}}>Loading Void Fissures...</div>}>
+            <CodexListPage 
+                // Dice al componente di caricare "Relics.json" dalla cartella base configurata
+                filesToLoad={['Relics.json']} 
+                pageTitle="VOID RELICS" 
+                customCategories={RELIC_CATEGORIES}
+            />
+        </Suspense>
     );
 }
