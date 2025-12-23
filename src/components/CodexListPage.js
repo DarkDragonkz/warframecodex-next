@@ -1,6 +1,7 @@
 "use client";
 import { useState, useEffect, useMemo, Suspense } from 'react';
 import { useRouter, usePathname, useSearchParams } from 'next/navigation';
+import Link from 'next/link'; // Importante per GitHub Pages
 import CodexCard from './CodexCard';
 import WarframeDetailModal from './WarframeDetailModal';
 import { useOwnedItems } from '@/hooks/useOwnedItems';
@@ -36,7 +37,6 @@ function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, ma
             setErrorMsg(null);
             
             if (manualData && manualData.length > 0) {
-                 // Gestione dati manuali (semplificata)
                  const processed = manualData
                     .filter(i => i && !i.uniqueName.includes("RANDOM") && i.imageName) 
                     .map(item => ({ ...item, maxRank: item.fusionLimit || item.maxLevel || 30 }));
@@ -50,27 +50,21 @@ function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, ma
             try {
                 if (filesToLoad.length === 0) { setLoading(false); return; }
 
-                // 1. SCARICA I DATI PRINCIPALI (Warframes.json ecc) E IL LOOKUP RELIQUIE IN PARALLELO
+                // Fetch sicura con API_BASE_URL (che ora include il nome del repo)
                 const [dataResults, lookupRes] = await Promise.all([
                     Promise.all(filesToLoad.map(f => fetch(`${API_BASE_URL}/${f}`).then(r => r.json()))),
                     fetch(`${API_BASE_URL}/RelicLookup.json`).then(r => r.ok ? r.json() : null)
                 ]);
 
-                // Creiamo un Set delle reliquie attive per fare controlli veloci
                 const activeRelicsSet = new Set(lookupRes ? Object.keys(lookupRes) : []);
-
                 const merged = dataResults.flat();
                 
-                // 2. PROCESSA E CORREGGI I DATI
                 const processed = merged
                     .filter(i => i && !i.uniqueName.includes("RANDOM") && i.imageName) 
                     .map(item => {
-                        // --- LOGICA SMART VAULTED ---
-                        let computedVaulted = !!item.vaulted; // Partiamo dal JSON
+                        let computedVaulted = !!item.vaulted; 
 
-                        // Se è un PRIME, verifichiamo se è VERAMENTE farmabile
                         if (item.name.includes('Prime') && lookupRes) {
-                            // Cerca le reliquie nei componenti
                             const relicNames = [];
                             if (item.components) {
                                 item.components.forEach(c => {
@@ -81,23 +75,16 @@ function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, ma
                                 });
                             }
                             
-                            // Se ha componenti Prime MA nessuna delle sue reliquie è nel file attivo -> È VAULTED
-                            // (Nota: se relicNames è vuoto, potrebbe essere un Prime Access esclusivo o buggato, nel dubbio ci fidiamo del JSON)
                             if (relicNames.length > 0) {
                                 const hasActiveRelic = relicNames.some(r => activeRelicsSet.has(r));
-                                if (!hasActiveRelic) {
-                                    computedVaulted = true; // Forza Vaulted se nessuna reliquia è attiva
-                                } else {
-                                    // Se ha reliquie attive, è Available (corregge eventuali errori del JSON)
-                                    computedVaulted = false; 
-                                }
+                                if (!hasActiveRelic) computedVaulted = true; 
+                                else computedVaulted = false; 
                             }
                         }
-                        // --- FINE LOGICA SMART ---
 
                         return {
                             ...item,
-                            vaulted: computedVaulted, // Sovrascriviamo con il dato calcolato
+                            vaulted: computedVaulted, 
                             maxRank: item.fusionLimit || item.maxLevel || 30,
                             baseDrain: item.baseDrain || 0,
                             polarityIcon: item.polarity ? `https://warframe.fandom.com/wiki/File:Polarity_${item.polarity.charAt(0).toUpperCase() + item.polarity.slice(1)}.png` : null 
@@ -149,7 +136,8 @@ function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, ma
             <div className="header-group">
                 <div className="nav-top-row">
                     <div className="nav-brand">
-                        <a href="/" className="nav-home-btn">⌂ HOME</a>
+                        {/* LINK CORRETTO PER GITHUB PAGES */}
+                        <Link href="/" className="nav-home-btn">⌂ HOME</Link>
                         <h1 className="page-title">{pageTitle}</h1>
                     </div>
                     <div className="stats-right">

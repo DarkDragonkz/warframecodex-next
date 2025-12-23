@@ -23,28 +23,26 @@ function ApiImageCard({ cat }) {
         let isMounted = true;
         async function fetchImage() {
             try {
+                // Fetch corretta usando API_BASE_URL aggiornato
                 const res = await fetch(`${API_BASE_URL}/${cat.jsonFile}`);
                 if (!res.ok) return;
                 const data = await res.json();
                 
-                // Logica per scegliere l'immagine di copertina migliore
                 let targetItem;
                 if (cat.id === 'relics') {
-                    // Per le reliquie cerchiamo una Intact carina
                     targetItem = data.find(item => item.imageName && item.name.includes('Intact'));
                 } else {
-                    // Per il resto, preferiamo i Prime
                     targetItem = data.find(item => item.name.includes("Prime") && item.imageName);
                 }
                 
-                // Fallback sul primo elemento valido se non trova Prime
                 const firstValid = targetItem || data.find(item => item.imageName && !item.imageName.includes("fanart"));
                 
                 if (firstValid && isMounted) {
+                    // Immagine corretta usando IMG_BASE_URL aggiornato
                     setImgUrl(`${IMG_BASE_URL}/${firstValid.imageName}`);
                 }
             } catch (e) { 
-                console.error(`Errore img ${cat.id}`, e); 
+                console.error(`Img error ${cat.id}`, e); 
             }
         }
         fetchImage();
@@ -55,7 +53,6 @@ function ApiImageCard({ cat }) {
         <Link href={cat.link} style={{textDecoration:'none'}}>
             <div 
                 className="menu-card"
-                // Passiamo i colori come variabili CSS per l'effetto hover
                 style={{ '--card-color': cat.color, '--card-glow': `${cat.color}66` }}
             >
                 <div className="card-visual-area">
@@ -79,7 +76,6 @@ export default function LandingPage() {
     return (
         <main className="landing-page">
             <div className="landing-content">
-                
                 <div className="landing-header">
                     <h1 className="landing-title">ORDIS CODEX</h1>
                     <div className="landing-subtitle">Tracker & Database System</div>
@@ -96,7 +92,6 @@ export default function LandingPage() {
                 <div className="landing-footer">
                     Operator Interface v2.0 // System Ready
                 </div>
-
             </div>
         </main>
     );

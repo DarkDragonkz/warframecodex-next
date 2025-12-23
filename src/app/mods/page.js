@@ -1,11 +1,10 @@
 "use client";
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { useRouter } from 'next/navigation';
-// Importiamo le costanti del progetto per coerenza (API e Immagini)
+// IMPORTANTE: Link per il routing corretto su GitHub
+import Link from 'next/link';
 import { API_BASE_URL, IMG_BASE_URL } from '@/utils/constants';
-// Importiamo lo stile globale del layout HUD
 import '@/app/hud-layout.css'; 
-// Importiamo lo stile specifico per le carte mod
 import './mods.css';
 
 const STORAGE_KEY = 'warframe_codex_mods_v1';
@@ -25,22 +24,19 @@ export default function ModsPage() {
     // Infinite Scroll
     const [visibleCount, setVisibleCount] = useState(60);
     
-    // --- 1. LOGICA DI CARICAMENTO (COERENTE CON IL RESTO DEL SITO) ---
+    // --- 1. CARICAMENTO DATI ---
     useEffect(() => {
         let isMounted = true;
         async function loadData() {
             setLoading(true);
             try {
-                // Fetch dai file JSON locali (API_BASE_URL) invece che da unpkg
                 const [modsRes, arcanesRes] = await Promise.all([
                     fetch(`${API_BASE_URL}/Mods.json`),
                     fetch(`${API_BASE_URL}/Arcanes.json`)
                 ]);
                 
                 if (!isMounted) return;
-
-                // Gestione errori se i file non esistono
-                if (!modsRes.ok || !arcanesRes.ok) throw new Error("Impossible to load Mods/Arcanes local DB");
+                if (!modsRes.ok || !arcanesRes.ok) throw new Error("API Error");
 
                 const modsData = await modsRes.json();
                 const arcanesData = await arcanesRes.json();
@@ -50,29 +46,23 @@ export default function ModsPage() {
                 const ids = new Set();
 
                 combined.forEach(item => {
-                    // Filtri di pulizia base
                     if (!item.imageName || item.name.includes("Riven") || (item.uniqueName && item.uniqueName.includes("/PVP"))) return;
                     if (item.uniqueName && item.uniqueName.toLowerCase().includes("setmod")) return; 
                     if (ids.has(item.name)) return; 
                     
                     ids.add(item.name);
                     
-                    // Pre-calcolo stringa ricerca
                     const dropLocs = item.drops ? item.drops.map(d => d.location).join(" ") : "";
                     item.searchString = `${item.name} ${item.type} ${item.category || ""} ${dropLocs}`.toLowerCase();
                     
-                    // Normalizziamo i dati per il componente ModCard
-                    // Calcolo Max Rank (fusionLimit)
-                    item.maxRank = item.fusionLimit || (item.levelStats ? item.levelStats.length - 1 : 5);
+                    item.maxRank = (typeof item.fusionLimit === 'number') ? item.fusionLimit : 5;
                     
                     processed.push(item);
                 });
 
-                // Ordinamento alfabetico iniziale
                 processed.sort((a, b) => a.name.localeCompare(b.name));
                 setRawApiData(processed);
                 
-                // Load LocalStorage
                 const saved = localStorage.getItem(STORAGE_KEY);
                 if (saved) {
                     try { setOwnedCards(new Set(JSON.parse(saved))); } catch (e) { console.error(e); }
@@ -85,14 +75,14 @@ export default function ModsPage() {
         return () => { isMounted = false; };
     }, []);
 
-    // 2. Salvataggio automatico
+    // 2. Salvataggio
     useEffect(() => {
         if (!loading && typeof window !== 'undefined') {
             localStorage.setItem(STORAGE_KEY, JSON.stringify([...ownedCards]));
         }
     }, [ownedCards, loading]);
 
-    // 3. Filtraggio (Logica originale mantenuta)
+    // 3. Filtri
     const filteredData = useMemo(() => {
         let data = rawApiData.filter(item => {
             if (searchTerm && !item.searchString.includes(searchTerm)) return false;
@@ -121,7 +111,6 @@ export default function ModsPage() {
             }
         });
 
-        // Ordinamento
         const rarityMap = { 'Common': 1, 'Uncommon': 2, 'Rare': 3, 'Legendary': 4 };
         data.sort((a, b) => {
             if (currentSort === 'name') return a.name.localeCompare(b.name);
@@ -154,10 +143,10 @@ export default function ModsPage() {
     return (
         <div className="codex-layout">
             <div className="header-group">
-                {/* TOP ROW: HOME, TITLE, STATS */}
                 <div className="nav-top-row">
                     <div className="nav-brand">
-                        <a href="/" className="nav-home-btn">⌂ HOME</a>
+                        {/* FIX: Link gestisce il basePath automaticamente */}
+                        <Link href="/" className="nav-home-btn">⌂ HOME</Link>
                         <h1 className="page-title">MODS & ARCANES</h1>
                     </div>
                     <div className="stats-right">
@@ -172,7 +161,6 @@ export default function ModsPage() {
                     </div>
                 </div>
 
-                {/* CONTROLS ROW */}
                 <div className="controls-row">
                     <div className="filters-left" style={{overflowX:'auto', maxWidth:'60%'}}>
                         <div className="category-tabs" style={{flexWrap:'nowrap'}}>
@@ -189,6 +177,12 @@ export default function ModsPage() {
                     </div>
                     
                     <div className="filters-right">
+                        <div className="legend-box">
+                            <div className="legend-item"><span className="dot-leg mission"></span>MISSION</div>
+                            <div className="legend-item"><span className="dot-leg enemy"></span>ENEMY</div>
+                            <div className="legend-item"><span className="dot-leg shop"></span>SHOP</div>
+                        </div>
+
                         <div className="search-wrapper">
                             <input 
                                 type="text" className="search-input" placeholder="SEARCH..." 
@@ -218,7 +212,6 @@ export default function ModsPage() {
                 <div className="progress-line-container"><div className="progress-line-fill" style={{width: `${pct}%`}}></div></div>
             </div>
 
-            {/* GALLERY SCROLL AREA */}
             <div 
                 className="gallery-scroll-area" 
                 onScroll={(e) => {
@@ -248,17 +241,14 @@ export default function ModsPage() {
 function ModCard({ item, isOwned, onToggle }) {
     const [flipped, setFlipped] = useState(false);
     const [rank, setRank] = useState(0);
-    const maxRank = item.maxRank || 5; 
+    const maxRank = item.maxRank || 0; 
 
-    // Helper per descrizione dinamica
     const getDescription = () => {
         let desc = item.description || "";
         if (item.levelStats && item.levelStats.length > 0) {
-            // Usa levelStats se disponibile
             const statIndex = Math.min(rank, item.levelStats.length - 1);
             return item.levelStats[statIndex].stats.join('<br>');
         }
-        // Fallback regex se levelStats manca
         return desc.replace(/(\d+(\.\d+)?)/g, (match) => {
             const maxVal = parseFloat(match);
             const baseVal = maxVal / (maxRank + 1);
@@ -268,8 +258,6 @@ function ModCard({ item, isOwned, onToggle }) {
     };
 
     const currentDrain = (item.baseDrain || 0) + rank;
-    
-    // ** MODIFICA CHIAVE: Uso IMG_BASE_URL locale invece del CDN esterno **
     const imgUrl = `${IMG_BASE_URL}/${item.imageName}`;
     
     const rarity = item.rarity || "Common";
@@ -278,18 +266,36 @@ function ModCard({ item, isOwned, onToggle }) {
     if (rarity === 'Legendary') nameColor = '#b0c9ec';
     if (item.category === 'Arcanes') nameColor = '#00ffcc';
 
-    // Helper Drops
+    const openWiki = (e) => {
+        e.stopPropagation();
+        const safeName = item.name.replace(/ /g, '_');
+        window.open(`https://warframe.fandom.com/wiki/${safeName}`, '_blank');
+    };
+
     const renderDrops = () => {
         if (!item.drops || item.drops.length === 0) return <div className="mod-no-drop">Source Unknown / Quest / Market</div>;
-        return item.drops.slice(0, 8).map((d, i) => (
-            <div key={i} className="mod-drop-row">
-                <div className="mod-drop-header">
-                    <span className="mod-drop-loc">{d.location}</span>
-                    <span className="mod-drop-pct">{(d.chance * 100).toFixed(2)}%</span>
+        
+        const getDropType = (d) => d.location.includes("Rot") || d.type?.includes("Mission") ? 'mission' : 'enemy';
+
+        return item.drops.slice(0, 8).map((d, i) => {
+            const type = getDropType(d);
+            const barColor = type === 'mission' ? 'var(--mission)' : 'var(--enemy)';
+            
+            return (
+                <div key={i} className="mod-drop-row">
+                    <div className="mod-drop-header">
+                        <span className="mod-drop-loc">
+                            <span className={`dot-leg ${type}`} style={{display:'inline-block', marginRight:'5px'}}></span>
+                            {d.location}
+                        </span>
+                        <span className="mod-drop-pct">{(d.chance * 100).toFixed(2)}%</span>
+                    </div>
+                    <div className="mod-drop-bar-bg">
+                        <div className="mod-drop-bar-fill" style={{width:`${Math.min(100, d.chance * 100 * 4)}%`, background: barColor}}></div>
+                    </div>
                 </div>
-                <div className="mod-drop-bar-bg"><div className="mod-drop-bar-fill" style={{width:`${Math.min(100, d.chance * 100 * 4)}%`}}></div></div>
-            </div>
-        ));
+            );
+        });
     };
 
     return (
@@ -314,7 +320,6 @@ function ModCard({ item, isOwned, onToggle }) {
                             className="mod-card-img" 
                             alt={item.name} 
                             loading="lazy" 
-                            // Fallback se l'immagine locale manca (opzionale)
                             onError={(e)=>{e.target.style.display='none';}} 
                         />
                     </div>
@@ -324,15 +329,17 @@ function ModCard({ item, isOwned, onToggle }) {
                         <div className="mod-name" style={{color: nameColor}}>{item.name}</div>
                         <div className="mod-desc" dangerouslySetInnerHTML={{__html: getDescription()}}></div>
 
-                        <div className="mod-rank-controls" onClick={(e) => e.stopPropagation()}>
-                            <button className="mod-rank-btn" onClick={() => setRank(Math.max(0, rank - 1))}>-</button>
-                            <div className="mod-ranks-dots">
-                                {Array.from({length: Math.min(10, maxRank + 1)}).map((_, i) => (
-                                    <div key={i} className={`mod-dot ${i <= (rank / maxRank * 10) ? 'active' : ''}`}></div>
-                                ))}
+                        {maxRank > 0 && (
+                            <div className="mod-rank-controls" onClick={(e) => e.stopPropagation()}>
+                                <button className="mod-rank-btn" onClick={() => setRank(Math.max(0, rank - 1))}>-</button>
+                                <div className="mod-ranks-dots">
+                                    {Array.from({length: maxRank + 1}).map((_, i) => (
+                                        <div key={i} className={`mod-dot ${i <= rank && i > 0 ? 'active' : ''}`}></div>
+                                    ))}
+                                </div>
+                                <button className="mod-rank-btn" onClick={() => setRank(Math.min(maxRank, rank + 1))}>+</button>
                             </div>
-                            <button className="mod-rank-btn" onClick={() => setRank(Math.min(maxRank, rank + 1))}>+</button>
-                        </div>
+                        )}
                     </div>
                 </div>
 
@@ -345,9 +352,9 @@ function ModCard({ item, isOwned, onToggle }) {
                     <div className="mod-source-content">
                         {renderDrops()}
                     </div>
-                    <a href={`https://warframe.fandom.com/wiki/${item.name.replace(/ /g, '_')}`} target="_blank" className="mod-wiki-btn" onClick={(e) => e.stopPropagation()}>
+                    <div className="mod-wiki-btn" onClick={openWiki}>
                         OPEN WIKI
-                    </a>
+                    </div>
                 </div>
             </div>
         </div>
