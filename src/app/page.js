@@ -2,6 +2,7 @@
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
 import { API_BASE_URL, IMG_BASE_URL } from '@/utils/constants';
+import './homepage.css';
 
 // Aggiunto "Relics" alla lista
 const CATEGORIES = [

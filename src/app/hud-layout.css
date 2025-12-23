@@ -1,0 +1,111 @@
+/* LAYOUT CODEX */
+.codex-layout { 
+  display: flex; flex-direction: column; height: 100vh; width: 100vw; 
+  overflow: hidden; background: radial-gradient(circle at top center, #15151a 0%, #000000 100%); 
+}
+
+/* HEADER HUD */
+.header-group {
+  flex-shrink: 0; background: var(--bg-header); backdrop-filter: blur(12px);
+  z-index: 50; border-bottom: 1px solid rgba(255,255,255,0.05);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5); display: flex; flex-direction: column;
+}
+.nav-top-row { display: flex; align-items: center; justify-content: space-between; padding: 0 40px; height: 70px; }
+.nav-home-btn { font-size: 11px; font-weight: bold; letter-spacing: 2px; color: var(--text-muted); text-decoration: none; text-transform: uppercase; padding: 8px 12px; border: 1px solid #333; border-radius: 4px; transition: all 0.3s; }
+.nav-home-btn:hover { border-color: var(--gold); color: var(--gold); box-shadow: 0 0 10px var(--gold-glow); }
+.page-title { font-size: 28px; font-weight: 900; color: #fff; text-transform: uppercase; letter-spacing: 2px; text-shadow: 0 0 20px rgba(255,255,255,0.1); border-left: 3px solid var(--gold); padding-left: 20px; line-height: 1; }
+
+.stats-right { display: flex; align-items: center; gap: 30px; }
+.stat-label { font-size: 9px; color: #666; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 2px; }
+.stat-value { font-size: 18px; color: #fff; font-weight: 300; font-family: monospace; }
+.stat-value span { color: var(--gold); font-weight: bold; }
+
+/* CONTROLLI E FILTRI */
+.controls-row { 
+  display: flex; align-items: center; justify-content: space-between; 
+  padding: 15px 40px; background: rgba(0,0,0,0.3); border-top: 1px solid rgba(255,255,255,0.03); 
+}
+
+/* STILE TAB (ALL / BASE / PRIME) */
+.category-tabs {
+  display: flex; background: #08080a; border: 1px solid #333; 
+  border-radius: 4px; padding: 3px; gap: 2px;
+}
+.tab-btn {
+  background: transparent; border: none; color: #666;
+  padding: 6px 16px; font-size: 11px; font-weight: 800; letter-spacing: 1px;
+  cursor: pointer; transition: all 0.3s; text-transform: uppercase; border-radius: 2px;
+}
+.tab-btn:hover { color: #fff; background: rgba(255,255,255,0.05); }
+.tab-btn.active { 
+  background: var(--gold); color: #000; 
+  box-shadow: 0 0 15px var(--gold-glow); 
+}
+
+/* FILTRI DESTRA */
+.filters-right { display: flex; align-items: center; gap: 20px; }
+
+.search-input { 
+  background: #08080a; border: 1px solid #333; color: #fff; 
+  padding: 8px 15px; width: 220px; border-radius: 4px; font-size: 12px; 
+  text-transform: uppercase; letter-spacing: 1px; transition: 0.3s; 
+}
+.search-input:focus { outline: none; border-color: var(--gold); box-shadow: 0 0 15px var(--gold-glow); background: #000; }
+
+.toggle-filter { 
+  display: flex; align-items: center; gap: 8px; cursor: pointer; 
+  color: #888; font-size: 10px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; transition: 0.3s; 
+}
+.toggle-filter:hover { color: #fff; }
+
+.checkbox-custom { 
+  width: 16px; height: 16px; border: 1px solid #444; background: #08080a; 
+  display: flex; align-items: center; justify-content: center; 
+  color: var(--gold); border-radius: 3px; transition: 0.2s; 
+}
+.toggle-filter input:checked + .checkbox-custom { 
+  border-color: var(--gold); box-shadow: 0 0 8px var(--gold-glow); background: rgba(212, 175, 55, 0.1); 
+}
+
+/* GRIGLIA E CARD */
+.gallery-scroll-area { flex-grow: 1; overflow-y: auto; padding: 40px; scrollbar-width: thin; }
+.card-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 25px; padding-bottom: 100px; }
+
+.card-wrapper {
+  background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 6px;
+  overflow: hidden; display: flex; flex-direction: column; position: relative;
+  transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.3); height: 400px !important;
+}
+.card-wrapper:hover { transform: translateY(-5px); border-color: #555; }
+.card-wrapper[data-rarity="Prime"] { border-top: 2px solid var(--gold); }
+
+.card-image-container { 
+  height: 180px; width: 100%; display: flex; align-items: center; justify-content: center; 
+  padding: 15px; border-bottom: 1px solid #1a1a1e; 
+  background: radial-gradient(circle, #1f1f25 0%, #121214 100%);
+}
+.card-image-img { max-width: 100%; max-height: 100%; object-fit: contain; transition: 0.3s; }
+
+.info-area { padding: 15px; flex-grow: 1; display: flex; flex-direction: column; align-items: center; text-align: center; background: #151518; }
+.mod-name { font-size: 15px; font-weight: 800; text-transform: uppercase; color: #fff; margin-bottom: 4px; letter-spacing: 0.5px; }
+.type-pill { font-size: 9px; color: #555; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; font-weight: bold; }
+.card-desc { font-size: 11px; color: #888; line-height: 1.4; margin-bottom: auto; width: 100%; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; }
+
+.owned-check { position: absolute; top: 10px; left: 10px; width: 24px; height: 24px; background: rgba(0,0,0,0.6); border: 1px solid rgba(255,255,255,0.2); display: flex; align-items: center; justify-content: center; color: #fff; z-index: 10; border-radius: 4px; cursor: pointer; transition: 0.2s; }
+.owned-check:hover { border-color: var(--gold); color: var(--gold); }
+.card-wrapper.owned .owned-check { background: var(--blue-energy); border-color: var(--blue-energy); box-shadow: 0 0 10px var(--blue-glow); }
+.card-wrapper.owned .card-image-img { filter: grayscale(100%) brightness(0.6); }
+
+.progress-line-container { width: 100%; height: 2px; background: #222; margin-top: auto; }
+.progress-line-fill { height: 100%; background: var(--gold); box-shadow: 0 0 10px var(--gold); transition: width 0.6s; }
+
+/* PULSANTE WIKI FIXED */
+.wiki-btn-block { 
+  display: block; width: 100%; margin-top: 15px; padding: 8px; 
+  background: transparent; text-align: center; font-size: 10px; font-weight: 800; letter-spacing: 2px;
+  color: #666; border: 1px solid #333; border-radius: 2px; text-transform: uppercase; 
+  transition: all 0.2s; text-decoration: none;
+}
+.wiki-btn-block:hover { 
+  color: #fff; border-color: #666; background: #1a1a1e; 
+}

@@ -1,5 +1,5 @@
 import { Roboto_Condensed } from "next/font/google";
-import "./globals.css"; // <--- QUESTA RIGA È CRUCIALE
+import './globals.css'; // Carica solo le basi per tutta l'app
 
 const robotoCondensed = Roboto_Condensed({ 
   subsets: ["latin"], 

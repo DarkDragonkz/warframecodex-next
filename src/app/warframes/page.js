@@ -2,11 +2,22 @@
 import { Suspense } from 'react';
 import CodexListPage from '@/components/CodexListPage';
 
+// CONFIGURAZIONE CATEGORIE (ALL, BASE, PRIME)
 const WARFRAME_CATEGORIES = [
     {
         id: 'all',
-        label: 'WARFRAMES',
+        label: 'ALL',
         filter: (item) => (item.type || "").toLowerCase() === 'warframe' && item.category === 'Warframes'
+    },
+    {
+        id: 'base',
+        label: 'BASE',
+        filter: (item) => (item.type || "").toLowerCase() === 'warframe' && item.category === 'Warframes' && !item.name.includes('Prime')
+    },
+    {
+        id: 'prime',
+        label: 'PRIME',
+        filter: (item) => (item.type || "").toLowerCase() === 'warframe' && item.category === 'Warframes' && item.name.includes('Prime')
     }
 ];
 
