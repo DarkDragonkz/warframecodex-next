@@ -1,14 +1,9 @@
-// Configurazione per GitHub Pages
-const REPO_NAME = '/warframecodex-next'; 
+// Recupera il percorso base definito in next.config.mjs
+// Se siamo in locale (npm run dev), questa variabile solitamente è vuota, il che va bene.
+const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || '';
 
-// Verifica se siamo in produzione (GitHub) o sviluppo (Localhost)
-const isProd = process.env.NODE_ENV === 'production';
-
-// Se siamo in produzione, usiamo il nome del repo come prefisso.
-export const BASE_PATH = isProd ? REPO_NAME : '';
-
-// Costruiamo gli URL completi
+// Costruiamo gli URL completi dinamici
 export const API_BASE_URL = `${BASE_PATH}/database_api`;
 export const IMG_BASE_URL = `${BASE_PATH}/images`; 
 
-export const APP_VERSION = "6.5 - GitHub Fix Final";
+export const APP_VERSION = "6.6 - Env Path Fix";
