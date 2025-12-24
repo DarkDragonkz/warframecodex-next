@@ -82,7 +82,7 @@
   background: rgba(212, 175, 55, 0.1); 
 }
 
-/* BOTTONE CICLICO (Missing/Owned/All) */
+/* BOTTONE CICLICO FILTRO (Missing/Owned/All) */
 .cycle-btn {
     background: transparent;
     border: 1px solid #444;
@@ -112,15 +112,14 @@
 .cycle-btn:hover { border-color: #fff; color: #fff; }
 
 
-/* GRIGLIA E CARD */
+/* AREA SCROLL E GRIGLIA */
 .gallery-scroll-area { 
   flex-grow: 1; overflow-y: auto; 
   padding: 30px 40px; 
   scrollbar-width: thin; 
 }
 
-/* FIX: FLEXBOX AL POSTO DI GRID */
-/* Questo permette alle carte di avere larghezza fissa e centrarsi */
+/* FLEXBOX CENTRATO (Fondamentale per il look verticale) */
 .card-gallery { 
   display: flex; 
   flex-wrap: wrap; 
@@ -137,7 +136,7 @@
   transition: all 0.3s;
   box-shadow: 0 4px 6px rgba(0,0,0,0.3); 
   
-  /* FIX: Larghezza e Altezza fisse per aspetto "Carta Verticale" */
+  /* DIMENSIONI FISSE VERTICALI */
   width: 240px; 
   height: 340px; 
   flex-shrink: 0;
@@ -146,6 +145,7 @@
 .card-wrapper:hover { transform: translateY(-5px); border-color: #555; }
 .card-wrapper[data-rarity="Prime"] { border-top: 2px solid var(--gold); }
 
+/* CONTENITORE IMMAGINE */
 .card-image-container { 
   height: 160px; /* Metà carta */
   width: 100%; display: flex; align-items: center; justify-content: center; 
@@ -155,16 +155,54 @@
 }
 .card-image-img { max-width: 100%; max-height: 100%; object-fit: contain; transition: 0.3s; }
 
-.owned-check { 
-  position: absolute; top: 10px; left: 10px; width: 24px; height: 24px; 
-  background: rgba(0,0,0,0.6); border: 1px solid rgba(255,255,255,0.2);
-  display: flex; align-items: center; justify-content: center; 
-  color: #fff; z-index: 10; border-radius: 4px; cursor: pointer; transition: 0.2s; 
-}
-.owned-check:hover { border-color: var(--gold); color: var(--gold); }
-.card-wrapper.owned .owned-check { background: var(--blue-energy); border-color: var(--blue-energy); box-shadow: 0 0 10px var(--blue-glow); }
-.card-wrapper.owned .card-image-img { filter: grayscale(100%) brightness(0.6); }
 
+/* --- NUOVO BADGE STATUS (Al posto della spunta) --- */
+.status-badge {
+  position: absolute; 
+  top: 10px; left: 10px; 
+  padding: 4px 8px;
+  border-radius: 3px;
+  font-size: 9px; font-weight: 900; letter-spacing: 1px;
+  text-transform: uppercase;
+  cursor: pointer;
+  z-index: 20;
+  transition: all 0.2s;
+  backdrop-filter: blur(4px);
+  border: 1px solid transparent;
+  display: flex; align-items: center; justify-content: center;
+}
+
+/* Stato MISSING (Grigio/Rosso leggero o Neutro) */
+.status-badge.missing {
+  background: rgba(0, 0, 0, 0.6);
+  border-color: #444;
+  color: #888;
+}
+.status-badge.missing:hover {
+  border-color: #666;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* Stato OWNED (Verde/Oro stile Warframe) */
+.status-badge.owned {
+  background: rgba(95, 255, 165, 0.15);
+  border-color: #5fffa5;
+  color: #5fffa5;
+  box-shadow: 0 0 10px rgba(95, 255, 165, 0.2);
+}
+.status-badge.owned:hover {
+  background: rgba(95, 255, 165, 0.25);
+  box-shadow: 0 0 15px rgba(95, 255, 165, 0.4);
+}
+
+/* Effetto grayscale se posseduto (Opzionale) */
+.card-wrapper.owned .card-image-img { 
+    filter: grayscale(100%) brightness(0.6); 
+    opacity: 0.8;
+}
+
+/* TAG VAULTED */
 .vaulted-tag-card {
   position: absolute; top: 10px; right: 10px;
   background: rgba(200, 0, 0, 0.2); backdrop-filter: blur(4px);
@@ -175,6 +213,7 @@
   box-shadow: 0 0 10px rgba(255, 0, 0, 0.2);
 }
 
+/* INFO AREA */
 .info-area { 
   padding: 15px; flex-grow: 1; display: flex; flex-direction: column;
   align-items: center; text-align: center; background: #151518;
@@ -235,7 +274,7 @@
 
   /* Adattamento Card Mobile: 2 per riga */
   .card-wrapper {
-    width: 46%; /* Percentuale per stare in 2 */
+    width: 46%; 
     max-width: 180px; 
     height: 320px;
   }

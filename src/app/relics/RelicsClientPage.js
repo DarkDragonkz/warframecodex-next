@@ -21,7 +21,6 @@ export default function RelicsClientPage({ initialData = [] }) {
     
     // FILTRO 3 STATI
     const [filterState, setFilterState] = useState('all');
-    
     const [showVaulted, setShowVaulted] = useState(false);
     const [selectedItem, setSelectedItem] = useState(null);
 
@@ -30,7 +29,6 @@ export default function RelicsClientPage({ initialData = [] }) {
         return () => clearTimeout(timer);
     }, [searchTerm]);
 
-    // Ciclo Stati
     const cycleFilterState = () => {
         if (filterState === 'all') setFilterState('missing');
         else if (filterState === 'missing') setFilterState('owned');
@@ -79,7 +77,6 @@ export default function RelicsClientPage({ initialData = [] }) {
         return rawApiData.filter(item => {
             if (debouncedSearch && !item.simpleName.toLowerCase().includes(debouncedSearch)) return false;
             
-            // LOGICA 3 STATI
             const isOwned = ownedCards.has(item.uniqueName);
             if (filterState === 'missing' && isOwned) return false;
             if (filterState === 'owned' && !isOwned) return false;
@@ -143,14 +140,12 @@ export default function RelicsClientPage({ initialData = [] }) {
                             />
                         </div>
                         
-                        {/* CHECKBOX SHOW VAULTED (Mantenuta) */}
                         <label className="toggle-filter">
                             <input type="checkbox" style={{display:'none'}} checked={showVaulted} onChange={(e) => setShowVaulted(e.target.checked)} />
                             <div className="checkbox-custom">{showVaulted && '✓'}</div>
                             SHOW VAULTED
                         </label>
 
-                        {/* BOTTONE CICLICO CON TESTO (Sostituisce la vecchia checkbox "Missing") */}
                         <button 
                             className={`cycle-btn state-${filterState}`} 
                             onClick={cycleFilterState}
@@ -207,9 +202,18 @@ function RelicCardAdvanced({ item, isOwned, onToggle }) {
             data-era={item.era}
         >
             <div className="relic-era-bar"></div>
-            <div className="relic-check" onClick={(e) => { e.stopPropagation(); onToggle(); }}>
-                {isOwned ? '✓' : ''}
+            
+            {/* NUOVO BOTTONE STATUS PER RELIQUIE */}
+            <div 
+                className={`status-badge ${isOwned ? 'owned' : 'missing'}`} 
+                onClick={(e) => { 
+                    e.stopPropagation(); 
+                    onToggle(); 
+                }}
+            >
+                {isOwned ? 'OWNED' : 'MISSING'}
             </div>
+
             <div className="relic-img-wrapper">
                 <Image src={`${IMG_BASE_URL}/${item.imageName}`} alt={item.name} fill className="relic-img" unoptimized />
             </div>
