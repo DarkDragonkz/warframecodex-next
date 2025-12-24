@@ -1,20 +1,21 @@
 /** @type {import('next').NextConfig} */
-const repoName = '/warframecodex-next'; // Il nome ESATTO del tuo repository
-
 const nextConfig = {
-    output: 'export', // Fondamentale per GitHub Pages
+    output: "export", // Necessario per GitHub Pages
+    reactStrictMode: true,
     
-    // Configurazione Percorsi Base
-    basePath: repoName,
-    assetPrefix: repoName, // Assicura che CSS/JS vengano caricati giusti
-    
-    // Passiamo questa variabile al codice (constants.js)
-    env: {
-        NEXT_PUBLIC_BASE_PATH: repoName,
-    },
+    // Configurazione BASE PATH per GitHub Pages
+    // Sostituisci 'warframecodex-next' se cambi nome alla repo
+    basePath: process.env.NODE_ENV === "production" ? "/warframecodex-next" : "",
     
     images: {
-        unoptimized: true, // Necessario per l'export statico
+        // GitHub Pages non supporta l'ottimizzazione immagini di default di Next.js
+        unoptimized: true,
+        remotePatterns: [
+            {
+                protocol: "https",
+                hostname: "cdn.warframestat.us",
+            },
+        ],
     },
 };
 
