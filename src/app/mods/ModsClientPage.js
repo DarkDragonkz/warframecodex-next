@@ -1,8 +1,6 @@
 "use client";
 import React, { useState, useEffect, useMemo } from 'react';
 import Link from 'next/link';
-import Image from 'next/image'; // Punto 5
-import { VirtuosoGrid } from 'react-virtuoso'; // Punto 1
 import { IMG_BASE_URL } from '@/utils/constants';
 import '@/app/hud-layout.css'; 
 import './mods.css';
@@ -14,13 +12,18 @@ export default function ModsClientPage({ initialData = [] }) {
     const [ownedCards, setOwnedCards] = useState(new Set());
     const [loading, setLoading] = useState(true);
 
+    // Filtri
     const [currentCategory, setCurrentCategory] = useState('all');
+    
+    // Ricerca con Debounce
     const [searchTerm, setSearchTerm] = useState('');
     const [debouncedSearch, setDebouncedSearch] = useState('');
+
     const [currentSort, setCurrentSort] = useState('name');
     const [showMissingOnly, setShowMissingOnly] = useState(false);
-    // visibleCount rimosso per Virtuoso
+    const [visibleCount, setVisibleCount] = useState(60);
 
+    // Debounce Effect
     useEffect(() => {
         const timer = setTimeout(() => {
             setDebouncedSearch(searchTerm);
@@ -28,41 +31,49 @@ export default function ModsClientPage({ initialData = [] }) {
         return () => clearTimeout(timer);
     }, [searchTerm]);
 
+    // 1. Inizializzazione Dati (da Props)
     useEffect(() => {
         if(initialData && initialData.length > 0) {
             const processed = [];
             const ids = new Set();
+
             initialData.forEach(item => {
                 if (!item.imageName || item.name.includes("Riven") || (item.uniqueName && item.uniqueName.includes("/PVP"))) return;
                 if (item.uniqueName && item.uniqueName.toLowerCase().includes("setmod")) return;
                 if (ids.has(item.name)) return; 
+                
                 ids.add(item.name);
+                
                 const dropLocs = item.drops ? item.drops.map(d => d.location).join(" ") : "";
+                // Pre-calcolo stringa ricerca
                 item.searchString = `${item.name} ${item.type} ${item.category || ""} ${dropLocs}`.toLowerCase();
                 item.maxRank = (typeof item.fusionLimit === 'number') ? item.fusionLimit : 5;
+                
                 processed.push(item);
             });
             processed.sort((a, b) => a.name.localeCompare(b.name));
             setRawApiData(processed);
             setLoading(false);
         }
+
+        // Carica salvataggi locali
         const saved = localStorage.getItem(STORAGE_KEY);
         if (saved) {
             try { setOwnedCards(new Set(JSON.parse(saved))); } catch (e) { console.error(e); }
         }
     }, [initialData]);
 
+    // 2. Salvataggio automatico
     useEffect(() => {
         if (!loading && typeof window !== 'undefined') {
-            const handler = setTimeout(() => { // Punto 4: Debounce salvataggio anche qui (locale alla pagina mods se non usa l'hook globale)
-                localStorage.setItem(STORAGE_KEY, JSON.stringify([...ownedCards]));
-            }, 1000);
-            return () => clearTimeout(handler);
+            localStorage.setItem(STORAGE_KEY, JSON.stringify([...ownedCards]));
         }
     }, [ownedCards, loading]);
 
+    // 3. Logica Filtri
     const filteredData = useMemo(() => {
         let data = rawApiData.filter(item => {
+            // Usa debouncedSearch
             if (debouncedSearch && !item.searchString.includes(debouncedSearch)) return false;
             if (showMissingOnly && ownedCards.has(item.uniqueName)) return false;
             
@@ -146,7 +157,7 @@ export default function ModsClientPage({ initialData = [] }) {
                                 <button 
                                     key={cat}
                                     className={`tab-btn ${currentCategory === cat ? 'active' : ''}`}
-                                    onClick={() => { setCurrentCategory(cat); }}
+                                    onClick={() => { setCurrentCategory(cat); setVisibleCount(60); }}
                                 >
                                     {cat.toUpperCase()}
                                 </button>
@@ -155,6 +166,12 @@ export default function ModsClientPage({ initialData = [] }) {
                     </div>
                     
                     <div className="filters-right">
+                        <div className="legend-box">
+                            <div className="legend-item"><span className="dot-leg mission"></span>MISSION</div>
+                            <div className="legend-item"><span className="dot-leg enemy"></span>ENEMY</div>
+                            <div className="legend-item"><span className="dot-leg shop"></span>SHOP</div>
+                        </div>
+
                         <div className="search-wrapper">
                             <input 
                                 type="text" className="search-input" placeholder="SEARCH..." 
@@ -184,34 +201,28 @@ export default function ModsClientPage({ initialData = [] }) {
                 <div className="progress-line-container"><div className="progress-line-fill" style={{width: `${pct}%`}}></div></div>
             </div>
 
-            {/* PUNTO 1: Virtuoso Grid */}
-            <div className="gallery-scroll-area">
-                <VirtuosoGrid
-                    style={{ height: '100%', width: '100%' }}
-                    totalCount={filteredData.length}
-                    overscan={200}
-                    components={{
-                        List: (props) => <div {...props} className="card-gallery" style={{...props.style, display: 'flex', flexWrap: 'wrap', justifyContent:'center', gap:'20px'}} />,
-                        Item: (props) => <div {...props} style={{...props.style, margin: 0}} />
-                    }}
-                    itemContent={(index) => {
-                        const item = filteredData[index];
-                        return (
-                            <ModCard 
-                                key={item.uniqueName} 
-                                item={item} 
-                                isOwned={ownedCards.has(item.uniqueName)} 
-                                onToggle={() => toggleOwned(item.uniqueName)}
-                            />
-                        );
-                    }}
-                />
+            <div 
+                className="gallery-scroll-area" 
+                onScroll={(e) => {
+                    if (e.target.scrollTop + e.target.clientHeight >= e.target.scrollHeight - 500) setVisibleCount(p => p + 60);
+                }}
+            >
+                <div className="card-gallery">
+                    {filteredData.slice(0, visibleCount).map(item => (
+                        <ModCard 
+                            key={item.uniqueName} 
+                            item={item} 
+                            isOwned={ownedCards.has(item.uniqueName)} 
+                            onToggle={() => toggleOwned(item.uniqueName)}
+                        />
+                    ))}
+                </div>
             </div>
         </div>
     );
 }
 
-// --- MOD CARD COMPONENT ---
+// --- MOD CARD COMPONENT (Stesso di prima) ---
 function ModCard({ item, isOwned, onToggle }) {
     const [flipped, setFlipped] = useState(false);
     const [rank, setRank] = useState(0);
@@ -252,6 +263,7 @@ function ModCard({ item, isOwned, onToggle }) {
         return item.drops.slice(0, 8).map((d, i) => {
             const type = getDropType(d);
             const barColor = type === 'mission' ? 'var(--mission)' : 'var(--enemy)';
+            
             return (
                 <div key={i} className="mod-drop-row">
                     <div className="mod-drop-header">
@@ -286,15 +298,12 @@ function ModCard({ item, isOwned, onToggle }) {
                     </div>
                     
                     <div className="mod-card-img-container">
-                        {/* OTTIMIZZAZIONE PUNTO 5 */}
-                        <Image 
+                        <img 
                             src={imgUrl} 
-                            alt={item.name} 
-                            fill
-                            sizes="220px"
                             className="mod-card-img" 
-                            style={{objectFit: 'cover', objectPosition: 'top'}}
-                            unoptimized
+                            alt={item.name} 
+                            loading="lazy" 
+                            onError={(e)=>{e.target.style.display='none';}} 
                         />
                     </div>
 
