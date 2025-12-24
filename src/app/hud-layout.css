@@ -86,25 +86,25 @@
 /* GRIGLIA E CARD */
 .gallery-scroll-area { 
   flex-grow: 1; overflow-y: auto; 
-  padding: 30px 40px; /* Spazio per non tagliare le card in alto */
+  padding: 30px 40px; 
   scrollbar-width: thin; 
 }
 .card-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 25px; padding-bottom: 100px; }
 
 /* --- CARD GENERICA (Warframe, Armi) --- */
-/* FIX: Altezza ridotta e bilanciata */
+/* FIX: Altezza ridotta a 340px e rimozione !important */
 .card-wrapper {
   background: var(--bg-card);
   border: 1px solid var(--border-color); border-radius: 6px;
   overflow: hidden; display: flex; flex-direction: column; position: relative;
   transition: all 0.3s;
   box-shadow: 0 4px 6px rgba(0,0,0,0.3); 
-  height: 340px; /* Altezza fissa corretta */
+  height: 340px; 
 }
 .card-wrapper:hover { transform: translateY(-5px); border-color: #555; }
 .card-wrapper[data-rarity="Prime"] { border-top: 2px solid var(--gold); }
 
-/* FIX: Immagine ridotta */
+/* FIX: Immagine ridotta a 160px per lasciare spazio al testo */
 .card-image-container { 
   height: 160px; 
   width: 100%; display: flex; align-items: center; justify-content: center; 
@@ -143,7 +143,7 @@
 .mod-name { 
   font-size: 14px; font-weight: 800; text-transform: uppercase; color: #fff; margin-bottom: 4px;
   letter-spacing: 0.5px; 
-  /* Limita il testo a 2 righe per non rompere il layout */
+  /* Limita il testo a 2 righe */
   display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
 }
 .type-pill { font-size: 9px; color: #555; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; font-weight: bold; }
