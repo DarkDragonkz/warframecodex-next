@@ -1,58 +1,106 @@
 // src/utils/categoryConfig.js
+import { fetchGameData } from '@/utils/serverData'; // Import necessario per le funzioni helper server-side
 
-const isArcane = (item) => item.category === 'Arcanes' || (item.type && item.type.toLowerCase().includes('arcane'));
-const isGalvanized = (item) => item.name.includes('Galvanized ') || item.name.includes('Primed ') || item.name.includes('Amalgam ');
-const isArchon = (item) => item.name.includes('Archon ');
-const isWeaponType = (item) => {
+// --- HELPER FILTERS ---
+const isNecramech = (item) => {
     const t = (item.type || "").toLowerCase();
-    return t.includes('primary') || t.includes('secondary') || t.includes('melee') || t.includes('gun');
+    const n = item.name.toLowerCase();
+    return t.includes('necramech') || n === 'voidrig' || n === 'bonewidow';
 };
 
-export const CATEGORY_CONFIGS = {
-    'warframes': [
-        { id: 'all', label: 'WARFRAMES', filter: (item) => (item.type || "").toLowerCase() === 'warframe' }
-    ],
-    'companions': [
-        {
-            id: 'robotic', label: 'SENTINELS', 
-            filter: (item) => {
-                const t = (item.type || "").toLowerCase();
-                return t.includes('sentinel') || t.includes('robotic') || t.includes('moa');
-            }
-        },
-        {
-            id: 'beast', label: 'BEASTS',
-            filter: (item) => {
-                const t = (item.type || "").toLowerCase();
-                return t.includes('kubrow') || t.includes('kavat') || t.includes('beast');
-            }
-        },
-        {
-            id: 'necramech', label: 'NECRAMECHS',
-            filter: (item) => (item.type || "").toLowerCase().includes('necramech')
-        }
-    ],
-    'mods': [
-        {
-            id: 'base', label: 'BASE MODS',
-            filter: (item) => {
-                const isSpecial = isGalvanized(item) || isArchon(item) || item.name.includes('Riven') || isArcane(item);
-                const isMod = item.category === 'Mods' || (item.type || "").toLowerCase().includes('aura');
-                return !isSpecial && isMod;
-            },
-            subFilters: [
-                { id: 'all', label: 'ALL', filter: () => true }, // Changed TUTTI -> ALL
-                { id: 'wf', label: 'WARFRAME', filter: (item) => (item.type || "").toLowerCase().includes('warframe') },
-                { id: 'wep', label: 'WEAPONS', filter: (item) => isWeaponType(item) }
-            ]
-        },
-        {
-            id: 'elite', label: 'PRIMED & GALVANIZED',
-            filter: (item) => isGalvanized(item)
-        },
-        {
-            id: 'arcanes', label: 'ARCANES',
-            filter: (item) => isArcane(item)
-        }
-    ]
+const isArchwing = (item) => (item.type || "").toLowerCase().includes('archwing') && !isNecramech(item);
+
+// --- CONFIGURAZIONE GERARCHICA ---
+export const HIERARCHY = [
+    {
+        id: 'arsenal',
+        title: 'ARSENAL',
+        subtitle: 'WEAPONS & GEAR',
+        color: '#ff6b6b',
+        coverItem: 'Braton Prime', 
+        jsonFile: 'Primary.json', 
+        items: [
+            { id: 'primary', title: 'Primary', json: 'Primary.json', filter: (i) => i.category === 'Primary' },
+            { id: 'secondary', title: 'Secondary', json: 'Secondary.json', filter: (i) => i.category === 'Secondary' },
+            { id: 'melee', title: 'Melee', json: 'Melee.json', filter: (i) => i.category === 'Melee' },
+            { id: 'arch-gun', title: 'Arch-Gun', json: 'Primary.json', filter: (i) => (i.type || "").includes('Arch-Gun') },
+            { id: 'arch-melee', title: 'Arch-Melee', json: 'Melee.json', filter: (i) => (i.type || "").includes('Arch-Melee') },
+        ]
+    },
+    {
+        id: 'entities',
+        title: 'ENTITIES',
+        subtitle: 'WARFRAMES & COMPANIONS',
+        color: '#d4af37',
+        coverItem: 'Excalibur Prime',
+        jsonFile: 'Warframes.json',
+        items: [
+            { id: 'warframes', title: 'Warframes', json: 'Warframes.json', filter: (i) => (i.type || "").includes('Warframe') && !isNecramech(i) },
+            { id: 'necramechs', title: 'Necramechs', json: 'Warframes.json', filter: (i) => isNecramech(i) },
+            { id: 'archwings', title: 'Archwings', json: 'Warframes.json', filter: (i) => isArchwing(i) },
+            { id: 'sentinels', title: 'Sentinels', json: 'Sentinels.json', filter: (i) => (i.type || "").includes('Sentinel') },
+            { id: 'pets', title: 'Pets', json: 'Sentinels.json', filter: (i) => ['Kubrow', 'Kavat', 'Predasite', 'Vulpaphyla'].some(k => (i.type || "").includes(k)) }
+        ]
+    },
+    {
+        id: 'upgrades',
+        title: 'UPGRADES',
+        subtitle: 'MODS & RELICS',
+        color: '#54a0ff',
+        coverItem: 'Blind Rage',
+        jsonFile: 'Mods.json',
+        items: [
+            { id: 'mods', title: 'Mods', json: 'Mods.json', specialPage: 'mods' },
+            { id: 'arcanes', title: 'Arcanes', json: 'Arcanes.json', specialPage: 'mods' },
+            { id: 'relics', title: 'Relics', json: 'Relics.json', specialPage: 'relics' }
+        ]
+    },
+    {
+        id: 'inventory',
+        title: 'INVENTORY',
+        subtitle: 'RESOURCES & GEAR',
+        color: '#1dd1a1',
+        coverItem: 'Orokin Cell',
+        jsonFile: 'Resources.json',
+        items: [
+            { id: 'resources', title: 'Resources', json: 'Resources.json', filter: (i) => !i.type?.includes('Key') },
+            { id: 'gear', title: 'Gear', json: 'Gear.json', filter: () => true },
+            { id: 'fish', title: 'Fish', json: 'Fish.json', filter: () => true }
+        ]
+    },
+    {
+        id: 'cosmetics',
+        title: 'COSMETICS',
+        subtitle: 'FASHION FRAME',
+        color: '#ff9f43',
+        coverItem: 'Repala Syandana',
+        jsonFile: 'Skins.json',
+        items: [
+            { id: 'skins', title: 'Skins', json: 'Skins.json', filter: () => true },
+            { id: 'sigils', title: 'Sigils', json: 'Sigils.json', filter: () => true },
+            { id: 'glyphs', title: 'Glyphs', json: 'Glyphs.json', filter: () => true }
+        ]
+    },
+    {
+        id: 'universe',
+        title: 'THE UNIVERSE',
+        subtitle: 'LORE & ENEMIES',
+        color: '#a29bfe',
+        coverItem: 'Natah',
+        jsonFile: 'Enemy.json',
+        items: [
+            { id: 'enemies', title: 'Enemies', json: 'Enemy.json', filter: () => true },
+            { id: 'quests', title: 'Quests', json: 'Quests.json', filter: () => true }
+        ]
+    }
+];
+
+// Helper per trovare configurazioni
+export const getMacroCategory = (id) => HIERARCHY.find(c => c.id === id);
+export const getMicroCategory = (microId) => {
+    for (const macro of HIERARCHY) {
+        const micro = macro.items.find(m => m.id === microId);
+        if (micro) return { ...micro, parentColor: macro.color };
+    }
+    return null;
 };
