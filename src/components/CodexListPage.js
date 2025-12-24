@@ -1,6 +1,7 @@
 "use client";
 import { useState, useEffect, useMemo, Suspense } from 'react';
 import { useRouter, usePathname, useSearchParams } from 'next/navigation';
+import Link from 'next/link'; // <--- QUESTO È FONDAMENTALE
 import CodexCard from './CodexCard';
 import dynamic from 'next/dynamic';
 import { useOwnedItems } from '@/hooks/useOwnedItems';
@@ -32,15 +33,16 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
     const [searchTerm, setSearchTerm] = useState("");
     const [debouncedSearch, setDebouncedSearch] = useState("");
 
-    // NUOVO STATO FILTRO: 'all' | 'missing' | 'owned'
+    // NUOVO FILTRO 3 STATI
     const [filterState, setFilterState] = useState('all');
-    
     const [showVaulted, setShowVaulted] = useState(false);
 
     const activeConfig = customCategories ? customCategories.find(c => c.id === subCategory) : null;
 
     useEffect(() => {
-        const timer = setTimeout(() => { setDebouncedSearch(searchTerm); }, 300);
+        const timer = setTimeout(() => {
+            setDebouncedSearch(searchTerm);
+        }, 300);
         return () => clearTimeout(timer);
     }, [searchTerm]);
 
@@ -59,6 +61,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
                 .filter(i => i && !i.uniqueName.includes("RANDOM") && i.imageName) 
                 .map(item => {
                     let computedVaulted = !!item.vaulted; 
+
                     if (item.name.includes('Prime') && lookupData) {
                         const relicNames = [];
                         if (item.components) {
@@ -69,12 +72,14 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
                                 });
                             });
                         }
+                        
                         if (relicNames.length > 0) {
                             const hasActiveRelic = relicNames.some(r => activeRelicsSet.has(r));
                             if (!hasActiveRelic) computedVaulted = true; 
                             else computedVaulted = false; 
                         }
                     }
+
                     return {
                         ...item,
                         vaulted: computedVaulted, 
@@ -86,6 +91,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
 
             const uniqueItems = Array.from(new Map(processed.map(item => [item.name, item])).values());
             uniqueItems.sort((a, b) => a.name.localeCompare(b.name));
+            
             setRawApiData(uniqueItems);
             setLoading(false);
         }
@@ -97,8 +103,8 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
             
             // LOGICA 3 STATI
             const isOwned = ownedCards.has(item.uniqueName);
-            if (filterState === 'missing' && isOwned) return false; // Mostra solo mancanti
-            if (filterState === 'owned' && !isOwned) return false;  // Mostra solo posseduti
+            if (filterState === 'missing' && isOwned) return false;
+            if (filterState === 'owned' && !isOwned) return false;
 
             if (!showVaulted && item.vaulted) return false;
             
@@ -175,7 +181,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
                             SHOW VAULTED
                         </label>
 
-                        {/* NUOVO BOTTONE CICLICO */}
+                        {/* BOTTONE CICLICO */}
                         <button 
                             className={`cycle-btn state-${filterState}`} 
                             onClick={cycleFilterState}
