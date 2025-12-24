@@ -1,5 +1,6 @@
 // src/utils/categoryConfig.js
-import { fetchGameData } from '@/utils/serverData'; // Import necessario per le funzioni helper server-side
+
+// --- RIMOSSO L'IMPORT DI serverData CHE CAUSAVA L'ERRORE ---
 
 // --- HELPER FILTERS ---
 const isNecramech = (item) => {
