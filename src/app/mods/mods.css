@@ -1,11 +1,14 @@
 /* src/app/mods/mods.css */
 
-/* --- VARIABILI GLOBALI --- */
+/* --- VARIABILI GLOBALI WARFRAME --- */
 .mod-card-wrapper {
     --blue-energy: #4ffff0;  /* Ciano Neon */
     --gold: #d4af37;         /* Oro Prime */
     --bg-card: #0a0a0c;      /* Sfondo base */
-    --overlay-grad: linear-gradient(to top, rgba(0,0,0,1) 0%, rgba(0,0,0,0.9) 30%, rgba(0,0,0,0.6) 60%, transparent 100%);
+    /* Sfumatura per rendere leggibile il testo sopra l'immagine */
+    --overlay-grad: linear-gradient(to top, rgba(0,0,0,1) 0%, rgba(0,0,0,0.95) 40%, rgba(0,0,0,0.4) 70%, transparent 100%);
+    --red-enemy: #ff5555;
+    --yellow-shop: #feca57;
 }
 
 /* --- STRUTTURA CARTA --- */
@@ -15,70 +18,98 @@
     perspective: 1000px;
     cursor: default;
     position: relative;
-    content-visibility: auto;
-    contain-intrinsic-size: 360px;
+    z-index: 1; 
+    transition: z-index 0s 0.3s; /* Ritardo nel tornare indietro */
     margin-bottom: 20px;
+}
+
+/* Z-INDEX ALTO ALL'HOVER (Per gestire l'ombra/glow) */
+.mod-card-wrapper:hover {
+    z-index: 100;
+    transition: z-index 0s;
 }
 
 .mod-card-inner {
     position: relative; width: 100%; height: 100%;
     text-align: center;
-    transition: transform 0.5s cubic-bezier(0.2, 0.8, 0.2, 1);
+    transition: transform 0.4s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.4s ease;
     transform-style: preserve-3d;
-    border-radius: 8px; /* Arrotondamento leggermente più morbido per full art */
-    box-shadow: 0 10px 25px rgba(0,0,0,0.7);
+    border-radius: 8px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.6);
+    background: #000;
 }
 
+/* HOVER: SOLO SOLLEVAMENTO (Nessuno Scale/Ingrandimento) */
 .mod-card-wrapper:hover .mod-card-inner {
-    transform: translateY(-8px);
-    box-shadow: 0 15px 40px rgba(0,0,0,0.9);
+    transform: translateY(-5px); /* Si alza solo di 5px */
+    box-shadow: 0 25px 50px rgba(0,0,0,0.9), 0 0 20px rgba(79, 255, 240, 0.1); /* Glow */
 }
 
 .mod-card-wrapper.flipped .mod-card-inner {
     transform: rotateY(180deg);
 }
 
-/* --- FRONTE E RETRO --- */
+/* --- FACCE (FRONTE E RETRO) --- */
 .mod-card-front, .mod-card-back {
     position: absolute; width: 100%; height: 100%;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     border-radius: 8px;
-    overflow: hidden;
+    overflow: hidden; /* FONDAMENTALE: Taglia l'immagine che sborda */
     background-color: var(--bg-card);
     border: 1px solid #333;
     display: flex; flex-direction: column;
     top: 0; left: 0;
 }
 
-/* Gestione Layer */
 .mod-card-front { z-index: 2; transform: rotateY(0deg); border: 1px solid #444; }
-.mod-card-back { z-index: 1; transform: rotateY(180deg); background: #0e0e10; }
+.mod-card-back { 
+    z-index: 1; transform: rotateY(180deg); 
+    background: radial-gradient(circle at center, #1a1a1e 0%, #050505 100%);
+}
 
-/* Bordi Rarità (Glow esterno invece che interno per Full Art) */
-.mod-card-wrapper[data-rarity="Rare"] .mod-card-front { border-color: var(--gold); box-shadow: 0 0 10px rgba(212, 175, 55, 0.2); }
-.mod-card-wrapper[data-rarity="Legendary"] .mod-card-front { border-color: #b0c9ec; box-shadow: 0 0 10px rgba(176, 201, 236, 0.25); }
-.mod-card-wrapper[data-rarity="Arcane"] .mod-card-front { border-color: #00ffcc; box-shadow: 0 0 10px rgba(0, 255, 204, 0.2); }
+/* Bordi Rarità (Glow esterno) */
+.mod-card-wrapper[data-rarity="Rare"] .mod-card-front { border-color: var(--gold); box-shadow: inset 0 0 10px rgba(212, 175, 55, 0.1); }
+.mod-card-wrapper[data-rarity="Legendary"] .mod-card-front { border-color: #b0c9ec; box-shadow: inset 0 0 10px rgba(176, 201, 236, 0.2); }
+.mod-card-wrapper[data-rarity="Arcane"] .mod-card-front { border-color: #00ffcc; box-shadow: inset 0 0 10px rgba(0, 255, 204, 0.1); }
 
-/* --- IMMAGINE FULL ART (Sfondo) --- */
+/* --- IMMAGINE FULL ART (Sfondo migliorato) --- */
 .mod-image-area {
     position: absolute; top: 0; left: 0; width: 100%; height: 100%;
-    z-index: 0; /* Dietro a tutto */
-    /* Gradiente per scurire leggermente l'immagine in alto e in basso per leggerezza testo */
-    background: #111;
+    z-index: 0;
+    background: #0a0a0c;
+    overflow: hidden;
+}
+
+/* Effetto Scanline (Nasconde bassa risoluzione) */
+.mod-image-area::before {
+    content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+    background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0, 0, 0, 0.2) 3px);
+    z-index: 2; pointer-events: none;
+}
+
+/* Vignetta Scura */
+.mod-image-area::after {
+    content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+    background: radial-gradient(circle at center, transparent 40%, rgba(0,0,0,0.6) 100%);
+    z-index: 3; pointer-events: none;
 }
 
 .mod-img {
     width: 100%; height: 100%;
-    object-fit: cover; /* RIEMPIE TUTTA LA CARTA */
-    /* object-position: center 20%;  Centra l'immagine focalizzandosi un po' in alto */
-    opacity: 0.85; /* Leggermente scura per far risaltare il testo */
-    transition: transform 0.4s ease, opacity 0.4s ease;
+    object-fit: cover;
+    /* Miglioramento Nitidezza */
+    image-rendering: -webkit-optimize-contrast;
+    filter: contrast(1.15) saturate(1.1) brightness(0.9);
+    transition: transform 0.5s ease, filter 0.5s ease;
+    opacity: 0.9;
 }
 
+/* HOVER IMMAGINE: SOLO ILLUMINAZIONE (Nessuno Zoom/Scale) */
 .mod-card-wrapper:hover .mod-img {
-    transform: scale(1.1); /* Zoom lento all'hover */
-    opacity: 1; /* Diventa vivida */
+    /* transform: scale(1.1);  <-- RIMOSSO */
+    filter: contrast(1.2) saturate(1.2) brightness(1.1);
+    opacity: 1;
 }
 
 /* --- HEADER SUPERIORE (Flottante) --- */
@@ -86,9 +117,7 @@
     position: relative; width: 100%; height: 40px;
     display: flex; justify-content: space-between; align-items: flex-start;
     z-index: 10;
-    /* Sfumatura nera in alto per leggere i numeri */
     background: linear-gradient(to bottom, rgba(0,0,0,0.9) 0%, transparent 100%);
-    padding: 0;
 }
 
 /* Status Btn */
@@ -98,7 +127,7 @@
     backdrop-filter: blur(4px);
     font-size: 14px; font-weight: 900;
     display: flex; align-items: center; justify-content: center;
-    border-right: 1px solid rgba(255,255,255,0.1); border-bottom: 1px solid rgba(255,255,255,0.1);
+    border-right: 1px solid rgba(255,255,255,0.15); border-bottom: 1px solid rgba(255,255,255,0.15);
     border-bottom-right-radius: 8px; cursor: pointer; transition: 0.2s;
 }
 .mod-status-btn:hover { color: #fff; background: rgba(0,0,0,0.9); }
@@ -110,7 +139,7 @@
     background: rgba(0,0,0,0.6); color: #fff;
     backdrop-filter: blur(4px);
     display: flex; align-items: center; gap: 8px;
-    border-left: 1px solid rgba(255,255,255,0.1); border-bottom: 1px solid rgba(255,255,255,0.1);
+    border-left: 1px solid rgba(255,255,255,0.15); border-bottom: 1px solid rgba(255,255,255,0.15);
     border-bottom-left-radius: 8px;
     font-family: monospace; font-size: 16px; font-weight: 700;
 }
@@ -118,27 +147,25 @@
 .mod-polarity-icon {
     width: 22px; height: 22px;
     object-fit: contain;
-    filter: drop-shadow(0 0 2px rgba(0,0,0,0.5));
+    filter: drop-shadow(0 0 2px rgba(0,0,0,0.5)); /* Nessun invert */
 }
 
 /* --- INFO BODY (Overlay in basso) --- */
 .mod-info-front {
     position: absolute; bottom: 0; left: 0; width: 100%;
-    /* Altezza variabile ma bloccata in basso */
     min-height: 45%; 
     z-index: 10;
     display: flex; flex-direction: column; align-items: center; justify-content: flex-end;
     padding: 15px 10px 10px 10px;
-    /* SFUMATURA NERA DAL BASSO VERSO L'ALTO */
     background: var(--overlay-grad);
-    text-shadow: 0 2px 4px rgba(0,0,0,0.8); /* Ombra testo per leggibilità */
+    text-shadow: 0 2px 4px rgba(0,0,0,0.8);
 }
 
 /* Badge Tipo */
 .mod-type-badge {
     font-size: 9px; font-weight: 800; letter-spacing: 1px;
     text-transform: uppercase; color: #aaa;
-    margin-bottom: 4px; opacity: 0.8;
+    margin-bottom: 4px; opacity: 0.9;
 }
 
 /* Nome */
@@ -149,20 +176,20 @@
     letter-spacing: 0.5px;
 }
 
-/* Descrizione */
+/* Descrizione (Fix Layout) */
 .mod-desc-text {
     font-size: 11px; color: #ddd; line-height: 1.35;
     text-align: center; width: 100%;
-    display: block; 
-    margin-bottom: 10px; /* Spazio prima dei rank */
+    display: block; /* Testo continuo */
+    margin-bottom: 10px;
 }
 .mod-desc-text b { color: var(--blue-energy); font-weight: 700; }
 
-/* --- CONTROLLI RANK (Compatti) --- */
+/* --- CONTROLLI RANK --- */
 .mod-rank-controls {
     width: 100%;
     display: flex; flex-direction: column; gap: 5px;
-    border-top: 1px solid rgba(255,255,255,0.1);
+    border-top: 1px solid rgba(255,255,255,0.15);
     padding-top: 8px;
 }
 
@@ -181,9 +208,9 @@
 }
 .rank-btn:hover { background: rgba(255,255,255,0.25); border-color: #fff; }
 
-.rank-label { font-size: 9px; color: #888; font-weight: 800; letter-spacing: 1px; }
+.rank-label { font-size: 9px; color: #aaa; font-weight: 800; letter-spacing: 1px; }
 
-/* Dots LED */
+/* Dots LED (Fix Orizzontale) */
 .mod-rank-dots-container {
     display: flex; flex-direction: row; justify-content: center; 
     align-items: center; gap: 4px; width: 100%; padding: 2px 0;
@@ -200,35 +227,71 @@
     box-shadow: 0 0 8px var(--blue-energy);
 }
 
-/* --- RETRO (Invariato ma pulito) --- */
+/* --- RETRO (MIGLIORATO) --- */
 .mod-back-header {
-    background: #08080a; padding: 12px;
-    border-bottom: 1px solid #333;
-    display: flex; justify-content: space-between; align-items: center;
+    background: rgba(0,0,0,0.8); 
+    padding: 10px; border-bottom: 1px solid #333;
+    display: flex; flex-direction: column; gap: 8px;
 }
-.back-title { font-size: 11px; font-weight: 800; color: #fff; letter-spacing: 1px; }
+
+.mod-back-top {
+    display: flex; justify-content: space-between; align-items: center; width: 100%;
+}
+.back-title { font-size: 12px; font-weight: 900; color: #fff; letter-spacing: 1px; }
 .flip-icon { color: #666; cursor: pointer; font-size: 16px; transition: 0.3s; }
 .flip-icon:hover { color: #fff; transform: rotate(-180deg); }
 
+/* LEGENDA */
+.mod-drop-legend {
+    display: flex; gap: 10px; justify-content: center; width: 100%;
+    padding-top: 5px; border-top: 1px solid #222;
+}
+.legend-item { font-size: 8px; font-weight: 700; color: #888; display: flex; align-items: center; gap: 4px; }
+.dot-leg { width: 6px; height: 6px; border-radius: 50%; display: inline-block; }
+.dot-leg.mission { background: var(--blue-energy); box-shadow: 0 0 4px var(--blue-energy); }
+.dot-leg.enemy { background: var(--red-enemy); box-shadow: 0 0 4px var(--red-enemy); }
+.dot-leg.other { background: var(--yellow-shop); box-shadow: 0 0 4px var(--yellow-shop); }
+
 .mod-drops-list {
     flex: 1; overflow-y: auto; padding: 0;
-    scrollbar-width: thin; scrollbar-color: #333 #111;
+    scrollbar-width: thin; scrollbar-color: #333 #0a0a0c;
 }
+.mod-drops-list::-webkit-scrollbar { width: 4px; }
+.mod-drops-list::-webkit-scrollbar-track { background: #0a0a0c; }
+.mod-drops-list::-webkit-scrollbar-thumb { background: #333; border-radius: 2px; }
 
 .drop-item {
-    padding: 8px 12px; border-bottom: 1px solid #1a1a1a;
-    display: flex; flex-direction: column; gap: 2px;
+    padding: 10px 12px; border-bottom: 1px solid rgba(255,255,255,0.05);
+    display: flex; flex-direction: column; gap: 3px; transition: 0.2s;
 }
-.drop-name { font-size: 10px; font-weight: 700; color: #ccc; display: flex; justify-content: space-between; }
-.drop-meta { font-size: 9px; color: #555; text-transform: uppercase; display: flex; justify-content: space-between; }
-.drop-chance { color: var(--blue-energy); font-family: monospace; }
+.drop-item:hover { background: rgba(255,255,255,0.03); }
+
+.drop-name { 
+    font-size: 10px; font-weight: 700; color: #ddd; 
+    display: flex; justify-content: space-between; align-items: center;
+}
+.drop-meta { 
+    font-size: 9px; color: #666; text-transform: uppercase; 
+    display: flex; justify-content: space-between; letter-spacing: 0.5px;
+}
+.drop-chance { 
+    color: var(--blue-energy); font-family: monospace; font-weight: 700; 
+    background: rgba(79, 255, 240, 0.1); padding: 1px 4px; border-radius: 3px;
+}
 
 .mod-wiki-link {
-    display: block; width: 100%; padding: 14px;
-    text-align: center; background: #151518;
-    border-top: 1px solid #333; color: #666;
-    font-size: 10px; font-weight: 800; letter-spacing: 1px;
+    display: flex; align-items: center; justify-content: center; gap: 8px;
+    width: 100%; padding: 14px;
+    background: linear-gradient(to top, #1a1a1e, #111);
+    border-top: 1px solid #333; color: #888;
+    font-size: 10px; font-weight: 900; letter-spacing: 2px;
     text-decoration: none; text-transform: uppercase;
-    transition: 0.2s;
+    transition: 0.2s; position: relative; overflow: hidden;
+}
+.mod-wiki-link::before {
+    content: ''; position: absolute; bottom: 0; left: 0; width: 100%; height: 2px;
+    background: var(--blue-energy); transform: scaleX(0); transform-origin: left;
+    transition: transform 0.3s ease;
 }
 .mod-wiki-link:hover { background: #222; color: #fff; }
+.mod-wiki-link:hover::before { transform: scaleX(1); }

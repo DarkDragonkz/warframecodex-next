@@ -257,19 +257,31 @@ function ModCard({ item, isOwned, onToggle }) {
     const decreaseRank = (e) => { e.stopPropagation(); setRank(Math.max(0, rank - 1)); };
 
     const renderDrops = () => {
-        if (!item.drops || item.drops.length === 0) return <div style={{padding:'20px', fontStyle:'italic', color:'#555', textAlign:'center'}}>Source Unknown / Quest / Market</div>;
-        return item.drops.slice(0, 8).map((d, i) => (
-            <div key={i} className="drop-item">
-                <div className="drop-name">
-                    <span>{d.location}</span>
-                    <span className="drop-chance">{(d.chance * 100).toFixed(2)}%</span>
+        if (!item.drops || item.drops.length === 0) return <div style={{padding:'20px', fontStyle:'italic', color:'#555', textAlign:'center', fontSize:'11px'}}>Source Unknown / Quest</div>;
+        
+        return item.drops.slice(0, 10).map((d, i) => {
+            // Logica Legenda Colori
+            let typeClass = 'enemy';
+            if(d.location.includes("Rot") || d.type?.includes("Mission") || d.type?.includes("Bounty")) typeClass = 'mission';
+            else if(d.location.includes("Syndicate") || d.type?.includes("Offering")) typeClass = 'other';
+
+            return (
+                <div key={i} className="drop-item">
+                    <div className="drop-name">
+                        <div style={{display:'flex', alignItems:'center', gap:'6px'}}>
+                            <span className={`dot-leg ${typeClass}`}></span>
+                            <span style={{maxWidth:'160px', overflow:'hidden', textOverflow:'ellipsis', whiteSpace:'nowrap'}}>{d.location}</span>
+                        </div>
+                        <span className="drop-chance">{(d.chance * 100).toFixed(2)}%</span>
+                    </div>
+                    <div className="drop-meta">
+                        {/* FIX: Mostra Rarity e Rotation, ma non il tipo se è ridondante */}
+                        <span>{d.rotation ? `Rot ${d.rotation}` : ''}</span>
+                        <span style={{color: getRarityColor(d.rarity)}}>{d.rarity}</span>
+                    </div>
                 </div>
-                <div className="drop-meta">
-                    <span>{d.type} {d.rotation ? `(Rot ${d.rotation})` : ''}</span>
-                    <span style={{color: getRarityColor(d.rarity)}}>{d.rarity}</span>
-                </div>
-            </div>
-        ));
+            );
+        });
     };
 
     return (
@@ -280,45 +292,24 @@ function ModCard({ item, isOwned, onToggle }) {
         >
             <div className="mod-card-inner">
                 
-                {/* FRONT (Full Art Layout) */}
+                {/* FRONT */}
                 <div className="mod-card-front">
-                    
-                    {/* 1. IMAGE BACKGROUND */}
                     <div className="mod-image-area">
-                        <Image 
-                            src={`${IMG_BASE_URL}/${item.imageName}`} 
-                            alt={item.name} 
-                            fill
-                            className="mod-img"
-                            unoptimized
-                        />
+                        <Image src={`${IMG_BASE_URL}/${item.imageName}`} alt={item.name} fill className="mod-img" unoptimized />
                     </div>
-
-                    {/* 2. TOP HEADER (Floating) */}
                     <div className="mod-top-bar">
                         <div className="mod-status-btn" onClick={(e) => { e.stopPropagation(); onToggle(); }}>
                             {isOwned ? '✔' : '+'}
                         </div>
                         <div className="mod-drain-box">
                             <span>{currentDrain}</span>
-                            {polIconUrl && (
-                                <img 
-                                    src={polIconUrl} 
-                                    alt={item.polarity} 
-                                    className="mod-polarity-icon" 
-                                    onError={(e) => e.target.style.display='none'} 
-                                />
-                            )}
+                            {polIconUrl && <img src={polIconUrl} alt={item.polarity} className="mod-polarity-icon" />}
                         </div>
                     </div>
-
-                    {/* 3. INFO OVERLAY (Bottom) */}
                     <div className="mod-info-front">
                         <div className="mod-type-badge">{item.type}</div>
                         <div className="mod-name" style={{color: getRarityColor(item.rarity)}}>{item.name}</div>
-                        
                         <div className="mod-desc-text" dangerouslySetInnerHTML={{__html: getDescription()}} />
-
                         {maxRank > 0 && (
                             <div className="mod-rank-controls" onClick={(e) => e.stopPropagation()}>
                                 <div className="rank-buttons-row">
@@ -336,22 +327,24 @@ function ModCard({ item, isOwned, onToggle }) {
                     </div>
                 </div>
 
-                {/* BACK (Standard) */}
+                {/* BACK */}
                 <div className="mod-card-back">
                     <div className="mod-back-header">
-                        <span className="back-title">DROP SOURCES</span>
-                        <span className="flip-icon" onClick={(e) => { e.stopPropagation(); setFlipped(false); }}>↺</span>
+                        <div className="mod-back-top">
+                            <span className="back-title">DROP SOURCES</span>
+                            <span className="flip-icon" onClick={(e) => { e.stopPropagation(); setFlipped(false); }}>↺</span>
+                        </div>
+                        {/* NUOVA LEGENDA */}
+                        <div className="mod-drop-legend">
+                            <span className="legend-item"><span className="dot-leg mission"></span> MISSION</span>
+                            <span className="legend-item"><span className="dot-leg enemy"></span> ENEMY</span>
+                            <span className="legend-item"><span className="dot-leg other"></span> OTHER</span>
+                        </div>
                     </div>
                     <div className="mod-drops-list">
                         {renderDrops()}
                     </div>
-                    <a 
-                        href={wikiUrl} 
-                        target="_blank" 
-                        rel="noopener noreferrer" 
-                        className="mod-wiki-link"
-                        onClick={(e) => e.stopPropagation()}
-                    >
+                    <a href={wikiUrl} target="_blank" rel="noopener noreferrer" className="mod-wiki-link" onClick={(e) => e.stopPropagation()}>
                         OPEN WIKI
                     </a>
                 </div>
