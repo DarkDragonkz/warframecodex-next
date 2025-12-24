@@ -1,4 +1,4 @@
-DATA DUMP: 2025-12-24T12:04:48.735Z
+DATA DUMP: 2025-12-24T02:29:24.818Z
 
 
 
@@ -304,45 +304,31 @@ FILE: src\app\homepage.css
 FILE: src\app\hud-layout.css
 ==================================================
 
-/* src/app/hud-layout.css */
-
 /* LAYOUT CODEX */
 .codex-layout { 
   display: flex; flex-direction: column; height: 100vh; width: 100vw; 
-  overflow: hidden;
-  background: radial-gradient(circle at top center, #15151a 0%, #000000 100%); 
+  overflow: hidden; background: radial-gradient(circle at top center, #15151a 0%, #000000 100%); 
 }
 
 /* HEADER HUD */
 .header-group {
-  flex-shrink: 0; 
-  /* Sfondo solido per coprire le card che scorrono sotto */
-  background: #0a0a0c; 
-  z-index: 50; 
-  border-bottom: 1px solid rgba(255,255,255,0.05);
-  box-shadow: 0 10px 30px rgba(0,0,0,0.8); 
-  display: flex; flex-direction: column;
+  flex-shrink: 0; background: var(--bg-header); backdrop-filter: blur(12px);
+  z-index: 50; border-bottom: 1px solid rgba(255,255,255,0.05);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5); display: flex; flex-direction: column;
 }
-
 .nav-top-row { display: flex; align-items: center; justify-content: space-between; padding: 0 40px; height: 70px; }
 
-/* Wrapper per Bottone Home e Titolo */
-.nav-brand { display: flex; align-items: center; gap: 25px; }
-
-.nav-home-btn { 
-  font-size: 11px; font-weight: bold; letter-spacing: 2px; color: var(--text-muted); 
-  text-decoration: none; text-transform: uppercase;
-  padding: 8px 12px; border: 1px solid #333; border-radius: 4px; transition: all 0.3s; 
+/* AGGIUNTO: Wrapper per Bottone Home e Titolo */
+.nav-brand {
+  display: flex; align-items: center; gap: 25px; /* Spazio prima della linea gialla */
 }
+
+.nav-home-btn { font-size: 11px; font-weight: bold; letter-spacing: 2px; color: var(--text-muted); text-decoration: none; text-transform: uppercase; padding: 8px 12px; border: 1px solid #333; border-radius: 4px; transition: all 0.3s; }
 .nav-home-btn:hover { border-color: var(--gold); color: var(--gold); box-shadow: 0 0 10px var(--gold-glow); }
 
-.page-title { 
-  font-size: 28px; font-weight: 900; color: #fff; text-transform: uppercase; letter-spacing: 2px;
-  text-shadow: 0 0 20px rgba(255,255,255,0.1); border-left: 3px solid var(--gold); padding-left: 20px; line-height: 1; 
-}
+.page-title { font-size: 28px; font-weight: 900; color: #fff; text-transform: uppercase; letter-spacing: 2px; text-shadow: 0 0 20px rgba(255,255,255,0.1); border-left: 3px solid var(--gold); padding-left: 20px; line-height: 1; }
 
 .stats-right { display: flex; align-items: center; gap: 30px; }
-.stat-box { display: flex; flex-direction: column; align-items: flex-end; }
 .stat-label { font-size: 9px; color: #666; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 2px; }
 .stat-value { font-size: 18px; color: #fff; font-weight: 300; font-family: monospace; }
 .stat-value span { color: var(--gold); font-weight: bold; }
@@ -350,93 +336,71 @@ FILE: src\app\hud-layout.css
 /* CONTROLLI E FILTRI */
 .controls-row { 
   display: flex; align-items: center; justify-content: space-between; 
-  padding: 15px 40px; background: #0e0e10; 
-  border-top: 1px solid rgba(255,255,255,0.03); 
+  padding: 15px 40px; background: rgba(0,0,0,0.3); border-top: 1px solid rgba(255,255,255,0.03); 
 }
 
-.category-tabs { display: flex; background: #08080a; border: 1px solid #333; border-radius: 4px; padding: 3px; gap: 2px; }
+.category-tabs {
+  display: flex; background: #08080a; border: 1px solid #333; 
+  border-radius: 4px; padding: 3px; gap: 2px;
+}
 .tab-btn {
   background: transparent; border: none; color: #666;
   padding: 6px 16px; font-size: 11px; font-weight: 800; letter-spacing: 1px;
   cursor: pointer; transition: all 0.3s; text-transform: uppercase; border-radius: 2px;
 }
 .tab-btn:hover { color: #fff; background: rgba(255,255,255,0.05); }
-.tab-btn.active { background: var(--gold); color: #000; box-shadow: 0 0 15px var(--gold-glow); }
+.tab-btn.active { 
+  background: var(--gold); color: #000; 
+  box-shadow: 0 0 15px var(--gold-glow); 
+}
 
 .filters-right { display: flex; align-items: center; gap: 20px; }
 
 .search-input { 
   background: #08080a; border: 1px solid #333; color: #fff; 
-  padding: 8px 15px; width: 220px;
-  border-radius: 4px; font-size: 12px; 
+  padding: 8px 15px; width: 220px; border-radius: 4px; font-size: 12px; 
   text-transform: uppercase; letter-spacing: 1px; transition: 0.3s; 
 }
 .search-input:focus { outline: none; border-color: var(--gold); box-shadow: 0 0 15px var(--gold-glow); background: #000; }
 
 .toggle-filter { 
-  display: flex; align-items: center; gap: 8px; cursor: pointer;
+  display: flex; align-items: center; gap: 8px; cursor: pointer; 
   color: #888; font-size: 10px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; transition: 0.3s; 
 }
 .toggle-filter:hover { color: #fff; }
 
 .checkbox-custom { 
   width: 16px; height: 16px; border: 1px solid #444; background: #08080a; 
-  display: flex; align-items: center; justify-content: center;
+  display: flex; align-items: center; justify-content: center; 
   color: var(--gold); border-radius: 3px; transition: 0.2s; 
 }
 .toggle-filter input:checked + .checkbox-custom { 
-  border-color: var(--gold); box-shadow: 0 0 8px var(--gold-glow);
-  background: rgba(212, 175, 55, 0.1); 
+  border-color: var(--gold); box-shadow: 0 0 8px var(--gold-glow); background: rgba(212, 175, 55, 0.1); 
 }
 
 /* GRIGLIA E CARD */
-.gallery-scroll-area { 
-  flex-grow: 1; overflow-y: auto; 
-  padding: 30px 40px; 
-  scrollbar-width: thin; 
-}
+.gallery-scroll-area { flex-grow: 1; overflow-y: auto; padding: 40px; scrollbar-width: thin; }
+.card-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 25px; padding-bottom: 100px; }
 
-/* GRIGLIA RESPONSIVA (min 220px per card) */
-.card-gallery { 
-  display: grid; 
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); 
-  gap: 25px; 
-  padding-bottom: 100px; 
-}
-
-/* --- CARD GENERICA (Warframe, Armi) --- */
 .card-wrapper {
-  background: var(--bg-card);
-  border: 1px solid var(--border-color); 
-  border-radius: 6px;
-  overflow: hidden; 
-  display: flex; 
-  flex-direction: column; 
-  position: relative;
-  transition: all 0.3s;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.3); 
-  
-  /* ALTEZZA FISSA: Questo le fa sembrare carte verticali */
-  height: 340px; 
+  background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 6px;
+  overflow: hidden; display: flex; flex-direction: column; position: relative;
+  transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.3); height: 400px !important;
 }
-
 .card-wrapper:hover { transform: translateY(-5px); border-color: #555; }
 .card-wrapper[data-rarity="Prime"] { border-top: 2px solid var(--gold); }
 
-/* CONTENITORE IMMAGINE */
 .card-image-container { 
-  height: 160px; /* Circa metà card per l'immagine */
-  width: 100%; display: flex; align-items: center; justify-content: center; 
-  padding: 10px; border-bottom: 1px solid #1a1a1e;
+  height: 180px; width: 100%; display: flex; align-items: center; justify-content: center; 
+  padding: 15px; border-bottom: 1px solid #1a1a1e; 
   background: radial-gradient(circle, #1f1f25 0%, #121214 100%);
   position: relative;
 }
 .card-image-img { max-width: 100%; max-height: 100%; object-fit: contain; transition: 0.3s; }
 
-/* CHECKBOX & TAGS */
 .owned-check { 
   position: absolute; top: 10px; left: 10px; width: 24px; height: 24px; 
-  background: rgba(0,0,0,0.6); border: 1px solid rgba(255,255,255,0.2);
+  background: rgba(0,0,0,0.6); border: 1px solid rgba(255,255,255,0.2); 
   display: flex; align-items: center; justify-content: center; 
   color: #fff; z-index: 10; border-radius: 4px; cursor: pointer; transition: 0.2s; 
 }
@@ -454,29 +418,25 @@ FILE: src\app\hud-layout.css
   box-shadow: 0 0 10px rgba(255, 0, 0, 0.2);
 }
 
-/* AREA INFORMAZIONI SOTTO */
 .info-area { 
-  padding: 15px; flex-grow: 1; display: flex; flex-direction: column;
+  padding: 15px; flex-grow: 1; display: flex; flex-direction: column; 
   align-items: center; text-align: center; background: #151518;
   justify-content: space-between;
 }
 
-.mod-name { 
-  font-size: 14px; font-weight: 800; text-transform: uppercase; color: #fff; margin-bottom: 4px;
-  letter-spacing: 0.5px; 
-  /* Evita che nomi lunghi spacchino la card */
-  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
-}
+.mod-name { font-size: 15px; font-weight: 800; text-transform: uppercase; color: #fff; margin-bottom: 4px; letter-spacing: 0.5px; }
 .type-pill { font-size: 9px; color: #555; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; font-weight: bold; }
-
 .card-desc { 
   font-size: 11px; color: #888; line-height: 1.4; 
-  margin-bottom: 10px; width: 100%; overflow: hidden; 
-  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; 
+  margin-bottom: auto; width: 100%; overflow: hidden; 
+  display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; 
 }
 
+.progress-line-container { width: 100%; height: 2px; background: #222; margin-top: auto; }
+.progress-line-fill { height: 100%; background: var(--gold); box-shadow: 0 0 10px var(--gold); transition: width 0.6s; }
+
 .wiki-btn-block { 
-  display: block; width: 100%; margin-top: auto; padding: 8px;
+  display: block; width: 100%; margin-top: 15px; padding: 8px; 
   background: transparent; text-align: center; 
   font-size: 10px; font-weight: 800; letter-spacing: 2px;
   color: #666; border: 1px solid #333; border-radius: 2px; 
@@ -486,34 +446,99 @@ FILE: src\app\hud-layout.css
 .wiki-btn-block:hover { 
   color: #fff; border-color: #666; background: #1a1a1e; 
 }
+.card-wrapper {
+  content-visibility: auto;
+  contain-intrinsic-size: 400px; /* Altezza stimata della card */
+}
+/* ... contenuto esistente ... */
 
-/* MEDIA QUERIES MOBILE */
+/* =========================================
+   MEDIA QUERIES PER MOBILE (HUD)
+   ========================================= */
+
 @media (max-width: 768px) {
-  .codex-layout { height: 100dvh; }
-  .nav-top-row { padding: 0 15px; height: 60px; }
-  .nav-brand { gap: 15px; }
-  .page-title { font-size: 20px; padding-left: 10px; }
-  .stats-right { gap: 10px; }
-  .stat-box { display: flex; flex-direction: column; align-items: flex-end; }
+  /* Rimuove overflow: hidden per permettere lo scroll della pagina intera se serve,
+     anche se qui manteniamo la logica dello scroll interno */
+  .codex-layout {
+    height: 100dvh; /* Usa dynamic viewport height per mobile browser moderni */
+  }
+
+  /* Header: Riduciamo altezza e padding */
+  .nav-top-row {
+    padding: 0 15px;
+    height: 60px;
+  }
+
+  .nav-brand {
+    gap: 15px;
+  }
+
+  .page-title {
+    font-size: 20px; /* Titolo più piccolo */
+    padding-left: 10px;
+  }
+  
+  /* Nascondiamo le statistiche complete su mobile se non c'è spazio, 
+     oppure le riduciamo */
+  .stats-right {
+    gap: 10px;
+  }
+  .stat-box {
+    display: flex; flex-direction: column; align-items: flex-end;
+  }
   .stat-label { font-size: 7px; }
   .stat-value { font-size: 14px; }
-  
-  .controls-row { 
-    flex-direction: column; align-items: stretch; 
-    gap: 15px; padding: 15px; height: auto; 
-  }
-  .filters-left { max-width: 100% !important; overflow-x: auto; padding-bottom: 5px; }
-  .filters-right { flex-direction: column; gap: 10px; width: 100%; }
-  .search-wrapper, .search-input { width: 100%; }
-  .legend-box { display: none; }
-  .toggle-filter { width: 100%; justify-content: flex-start; padding: 5px 0; }
-  
-  .gallery-scroll-area { padding: 15px; }
-  .card-gallery { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 15px; }
 
-  /* Adattamento Card Mobile */
+  /* Controlli (Filtri e Ricerca): Impilamento Verticale */
+  .controls-row {
+    flex-direction: column;
+    align-items: stretch; /* Allarga tutto a larghezza piena */
+    gap: 15px;
+    padding: 15px;
+    height: auto; /* Lascia che l'altezza si adatti */
+  }
+
+  /* I tab delle categorie devono essere scrollabili orizzontalmente */
+  .filters-left {
+    max-width: 100% !important;
+    overflow-x: auto;
+    padding-bottom: 5px; /* Spazio per scrollbar */
+  }
+  
+  .filters-right {
+    flex-direction: column; /* Impila input ricerca e checkbox */
+    gap: 10px;
+    width: 100%;
+  }
+
+  .search-wrapper, .search-input {
+    width: 100%; /* Barra di ricerca a larghezza piena */
+  }
+
+  .legend-box {
+    display: none; /* Nascondi la legenda su mobile per risparmiare spazio */
+  }
+
+  .toggle-filter {
+    width: 100%;
+    justify-content: flex-start; /* Allinea checkbox a sinistra */
+    padding: 5px 0;
+  }
+
+  /* Griglia Cards */
+  .gallery-scroll-area {
+    padding: 15px; /* Meno padding laterale */
+  }
+  
+  .card-gallery {
+    /* Riduciamo la dimensione minima delle card per farne stare 2 su schermi piccoli */
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 15px;
+  }
+
+  /* Adattamento Card */
   .card-wrapper {
-    height: 320px; 
+    height: 320px !important; /* Card leggermente più basse */
   }
   .card-image-container {
     height: 140px;
@@ -1583,392 +1608,17 @@ FILE: src\app\relics\page.js
 ==================================================
 
 import { fetchGameData } from '@/utils/serverData';
-import RelicsClientPage from './RelicsClientPage';
+import CodexListPage from '@/components/CodexListPage';
 
 export default async function Page() {
-    // Carichiamo i dati lato server
     const data = await fetchGameData('Relics.json');
 
     return (
-        <RelicsClientPage initialData={data} />
-    );
-}
-
-==================================================
-FILE: src\app\relics\relics.css
-==================================================
-
-/* src/app/relics/relics.css */
-
-/* CONTENITORE GRIGLIA */
-.relics-grid-container {
-    padding-bottom: 100px;
-    width: 100%;
-}
-
-/* --- CARD RELIQUIA AVANZATA --- */
-.relic-card-advanced {
-    width: 100%;
-    height: 260px;
-    background: linear-gradient(145deg, #151518 0%, #0a0a0c 100%);
-    border: 1px solid #333;
-    border-radius: 4px;
-    position: relative;
-    overflow: hidden;
-    cursor: pointer;
-    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-    display: flex;
-    flex-direction: column;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.5);
-}
-
-/* Colori Era */
-.relic-card-advanced[data-era="Lith"] { --era-color: #a89686; --era-glow: rgba(168, 150, 134, 0.3); }
-.relic-card-advanced[data-era="Meso"] { --era-color: #c0c0c0; --era-glow: rgba(192, 192, 192, 0.3); }
-.relic-card-advanced[data-era="Neo"] { --era-color: #d4af37; --era-glow: rgba(212, 175, 55, 0.3); }
-.relic-card-advanced[data-era="Axi"] { --era-color: #b0c9ec; --era-glow: rgba(176, 201, 236, 0.3); }
-.relic-card-advanced[data-era="Requiem"] { --era-color: #ff4444; --era-glow: rgba(255, 68, 68, 0.3); }
-
-/* Hover Effect */
-.relic-card-advanced:hover {
-    transform: translateY(-5px);
-    border-color: var(--era-color);
-    box-shadow: 0 0 20px var(--era-glow);
-}
-
-/* Barra Superiore */
-.relic-era-bar {
-    height: 3px;
-    width: 100%;
-    background: var(--era-color);
-    box-shadow: 0 0 10px var(--era-color);
-}
-
-/* Checkbox */
-.relic-check {
-    position: absolute;
-    top: 10px; right: 10px;
-    width: 24px; height: 24px;
-    border: 1px solid rgba(255,255,255,0.2);
-    border-radius: 50%;
-    display: flex; align-items: center; justify-content: center;
-    color: transparent;
-    z-index: 10;
-    transition: 0.2s;
-    background: rgba(0,0,0,0.6);
-}
-.relic-card-advanced.owned .relic-check {
-    background: var(--era-color);
-    border-color: var(--era-color);
-    color: #000;
-    font-weight: bold;
-    box-shadow: 0 0 10px var(--era-color);
-}
-
-/* Immagine */
-.relic-img-wrapper {
-    flex: 1;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-    padding: 10px;
-    background: radial-gradient(circle at center, rgba(255,255,255,0.03) 0%, transparent 70%);
-}
-.relic-img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-    filter: drop-shadow(0 5px 10px rgba(0,0,0,0.5));
-    transition: transform 0.3s;
-    transform: scale(0.9);
-}
-.relic-card-advanced:hover .relic-img { transform: scale(1.05); }
-
-/* Info Area */
-.relic-info {
-    padding: 15px; /* Più spazio dato che manca la scritta Available */
-    background: linear-gradient(to top, #000 0%, rgba(0,0,0,0.5) 100%);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    border-top: 1px solid rgba(255,255,255,0.05);
-    min-height: 80px; /* Altezza minima garantita */
-}
-
-.relic-era-label {
-    font-size: 10px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    color: var(--era-color);
-    font-weight: 800;
-    opacity: 0.9;
-}
-
-.relic-code {
-    font-size: 32px; /* Codice più grande per riempire lo spazio */
-    font-weight: 900;
-    color: #fff;
-    line-height: 1;
-    text-shadow: 0 2px 5px rgba(0,0,0,0.5);
-    margin-top: 5px;
-}
-
-/* SOLO PER VAULTED: Rosso e evidente */
-.relic-vaulted-label {
-    margin-top: 8px;
-    font-size: 10px;
-    padding: 3px 8px;
-    border-radius: 3px;
-    text-transform: uppercase;
-    font-weight: 900;
-    letter-spacing: 1px;
-    color: #ff4444; /* Testo Rosso */
-    border: 1px solid #ff4444; /* Bordo Rosso */
-    background: rgba(255, 68, 68, 0.15); /* Sfondo Rosso Trasparente */
-    box-shadow: 0 0 10px rgba(255, 0, 0, 0.2);
-}
-
-/* STILE CARD VAULTED (Grigio/Spento globale) */
-.relic-card-advanced.is-vaulted {
-    border-color: #3a1a1a;
-    background: linear-gradient(145deg, #120a0a 0%, #000 100%);
-}
-.relic-card-advanced.is-vaulted .relic-img {
-    filter: grayscale(100%) brightness(0.6) sepia(0.2);
-    opacity: 0.8;
-}
-.relic-card-advanced.is-vaulted .relic-era-bar { 
-    background: #552222; 
-    box-shadow: none; 
-}
-.relic-card-advanced.is-vaulted .relic-code { 
-    color: #885555; 
-}
-
-==================================================
-FILE: src\app\relics\RelicsClientPage.js
-==================================================
-
-"use client";
-import React, { useState, useEffect, useMemo } from 'react';
-import Link from 'next/link';
-import Image from 'next/image';
-import { VirtuosoGrid } from 'react-virtuoso';
-import { IMG_BASE_URL } from '@/utils/constants';
-import RelicDetailModal from '@/components/RelicDetailModal'; 
-import '@/app/hud-layout.css'; 
-import './relics.css'; 
-
-const STORAGE_KEY = 'warframe_codex_relics_v1';
-
-export default function RelicsClientPage({ initialData = [] }) {
-    const [rawApiData, setRawApiData] = useState([]);
-    const [ownedCards, setOwnedCards] = useState(new Set());
-    const [loading, setLoading] = useState(true);
-
-    const [currentEra, setCurrentEra] = useState('all'); 
-    const [searchTerm, setSearchTerm] = useState('');
-    const [debouncedSearch, setDebouncedSearch] = useState('');
-    const [showMissingOnly, setShowMissingOnly] = useState(false);
-    
-    // LOGICA SHOW VAULTED (Default: False = Nascondi Vaulted)
-    const [showVaulted, setShowVaulted] = useState(false);
-    
-    const [selectedItem, setSelectedItem] = useState(null);
-
-    useEffect(() => {
-        const timer = setTimeout(() => { setDebouncedSearch(searchTerm); }, 300);
-        return () => clearTimeout(timer);
-    }, [searchTerm]);
-
-    useEffect(() => {
-        if(initialData && initialData.length > 0) {
-            const processed = initialData.filter(item => 
-                item.name.includes('Intact') && 
-                item.category === 'Relics'
-            ).map(item => ({
-                ...item,
-                isVaulted: !item.drops || item.drops.length === 0,
-                era: item.name.split(' ')[0], 
-                code: item.name.split(' ')[1], 
-                simpleName: item.name.replace(' Intact', '').replace(' Relic', '').trim()
-            }));
-
-            const eraOrder = { 'Lith': 1, 'Meso': 2, 'Neo': 3, 'Axi': 4, 'Requiem': 5 };
-            processed.sort((a, b) => {
-                if (eraOrder[a.era] !== eraOrder[b.era]) return (eraOrder[a.era] || 9) - (eraOrder[b.era] || 9);
-                return a.name.localeCompare(b.name);
-            });
-
-            setRawApiData(processed);
-            setLoading(false);
-        }
-
-        const saved = localStorage.getItem(STORAGE_KEY);
-        if (saved) {
-            try { setOwnedCards(new Set(JSON.parse(saved))); } catch (e) { console.error(e); }
-        }
-    }, [initialData]);
-
-    useEffect(() => {
-        if (!loading && typeof window !== 'undefined') {
-            const handler = setTimeout(() => {
-                localStorage.setItem(STORAGE_KEY, JSON.stringify([...ownedCards]));
-            }, 1000);
-            return () => clearTimeout(handler);
-        }
-    }, [ownedCards, loading]);
-
-    const filteredData = useMemo(() => {
-        return rawApiData.filter(item => {
-            if (debouncedSearch && !item.simpleName.toLowerCase().includes(debouncedSearch)) return false;
-            if (showMissingOnly && ownedCards.has(item.uniqueName)) return false;
-            if (!showVaulted && item.isVaulted) return false;
-            if (currentEra !== 'all' && item.era !== currentEra) return false;
-            return true;
-        });
-    }, [rawApiData, currentEra, debouncedSearch, showMissingOnly, showVaulted, ownedCards]);
-
-    const toggleOwned = (id) => {
-        const newSet = new Set(ownedCards);
-        if (newSet.has(id)) newSet.delete(id); else newSet.add(id);
-        setOwnedCards(newSet);
-    };
-
-    const pct = rawApiData.length > 0 ? Math.round((ownedCards.size / rawApiData.length) * 100) : 0;
-
-    if (loading) return <div style={{color:'#fff', padding:'50px', textAlign:'center'}}>DECODING VOID SIGNALS...</div>;
-
-    return (
-        <div className="codex-layout">
-            <div className="header-group">
-                <div className="nav-top-row">
-                    <div className="nav-brand">
-                        <Link href="/" className="nav-home-btn">⌂ HOME</Link>
-                        <h1 className="page-title">VOID RELICS</h1>
-                    </div>
-                    <div className="stats-right">
-                        <div className="stat-box">
-                            <div className="stat-label">COLLECTED</div>
-                            <div className="stat-value"><span>{ownedCards.size}</span> / {rawApiData.length}</div>
-                        </div>
-                        <div className="stat-box">
-                            <div className="stat-label">COMPLETION</div>
-                            <div className="stat-value">{pct}%</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div className="controls-row">
-                    <div className="filters-left" style={{overflowX:'auto'}}>
-                        <div className="category-tabs">
-                            {['all', 'Lith', 'Meso', 'Neo', 'Axi', 'Requiem'].map(era => (
-                                <button 
-                                    key={era}
-                                    className={`tab-btn ${currentEra === era ? 'active' : ''}`}
-                                    onClick={() => setCurrentEra(era)}
-                                >
-                                    {era.toUpperCase()}
-                                </button>
-                            ))}
-                        </div>
-                    </div>
-                    
-                    <div className="filters-right">
-                        <div className="search-wrapper">
-                            <input 
-                                type="text" className="search-input" placeholder="SEARCH (Ex: G1)..." 
-                                value={searchTerm} onChange={(e) => setSearchTerm(e.target.value.toLowerCase())} 
-                            />
-                        </div>
-                        
-                        <label className="toggle-filter">
-                            <input type="checkbox" style={{display:'none'}} checked={showVaulted} onChange={(e) => setShowVaulted(e.target.checked)} />
-                            <div className="checkbox-custom">{showVaulted && '✓'}</div>
-                            SHOW VAULTED
-                        </label>
-
-                        <label className="toggle-filter">
-                            <input type="checkbox" style={{display:'none'}} checked={showMissingOnly} onChange={(e) => setShowMissingOnly(e.target.checked)} />
-                            <div className="checkbox-custom">{showMissingOnly && '✓'}</div>
-                            MISSING
-                        </label>
-                    </div>
-                </div>
-                <div className="progress-line-container"><div className="progress-line-fill" style={{width: `${pct}%`}}></div></div>
-            </div>
-
-            <div className="gallery-scroll-area">
-                <VirtuosoGrid
-                    style={{ height: '100%', width: '100%' }}
-                    totalCount={filteredData.length}
-                    overscan={200}
-                    components={{
-                        List: (props) => <div {...props} className="card-gallery" style={{...props.style, display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(180px, 1fr))', gap: '20px', paddingBottom:'100px'}} />,
-                        Item: (props) => <div {...props} style={{...props.style, margin: 0}} />
-                    }}
-                    itemContent={(index) => {
-                        const item = filteredData[index];
-                        return (
-                            <div onClick={() => setSelectedItem(item)} style={{height: '100%'}}>
-                                <RelicCardAdvanced 
-                                    item={item} 
-                                    isOwned={ownedCards.has(item.uniqueName)} 
-                                    onToggle={() => toggleOwned(item.uniqueName)} 
-                                />
-                            </div>
-                        );
-                    }}
-                />
-            </div>
-
-            {selectedItem && (
-                <RelicDetailModal 
-                    item={selectedItem} 
-                    onClose={() => setSelectedItem(null)} 
-                    ownedItems={ownedCards} 
-                    onToggle={toggleOwned} 
-                />
-            )}
-        </div>
-    );
-}
-
-// --- CARD AVANZATA (PULITA) ---
-function RelicCardAdvanced({ item, isOwned, onToggle }) {
-    return (
-        <div 
-            className={`relic-card-advanced ${item.isVaulted ? 'is-vaulted' : ''} ${isOwned ? 'owned' : ''}`}
-            data-era={item.era}
-        >
-            <div className="relic-era-bar"></div>
-            
-            <div className="relic-check" onClick={(e) => { e.stopPropagation(); onToggle(); }}>
-                {isOwned ? '✓' : ''}
-            </div>
-
-            <div className="relic-img-wrapper">
-                <Image 
-                    src={`${IMG_BASE_URL}/${item.imageName}`} 
-                    alt={item.name} 
-                    fill
-                    className="relic-img"
-                    unoptimized
-                />
-            </div>
-
-            <div className="relic-info">
-                <div className="relic-era-label">{item.era}</div>
-                <div className="relic-code">{item.code}</div>
-                
-                {/* MOSTRA SOLO SE VAULTED */}
-                {item.isVaulted && (
-                    <div className="relic-vaulted-label">VAULTED</div>
-                )}
-            </div>
-        </div>
+        <CodexListPage 
+            initialData={data} 
+            pageTitle="VOID RELICS" 
+            categoryMode="relics"
+        />
     );
 }
 
@@ -2135,8 +1785,7 @@ import Link from 'next/link';
 import CodexCard from './CodexCard';
 import dynamic from 'next/dynamic';
 import { useOwnedItems } from '@/hooks/useOwnedItems';
-import { CATEGORY_CONFIGS } from '@/utils/clientCategories';
-import { VirtuosoGrid } from 'react-virtuoso';
+import { CATEGORY_CONFIGS } from '@/utils/clientCategories'; // IMPORTA LE CATEGORIE QUI
 import '@/app/hud-layout.css'; 
 
 const WarframeDetailModal = dynamic(() => import('./WarframeDetailModal'), {
@@ -2145,6 +1794,9 @@ const WarframeDetailModal = dynamic(() => import('./WarframeDetailModal'), {
 });
 
 function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = null }) {
+    // categoryMode è una stringa (es: "warframes", "primary")
+    
+    // Recupera la configurazione corretta dal file client
     const customCategories = categoryMode ? CATEGORY_CONFIGS[categoryMode] : null;
 
     const [rawApiData, setRawApiData] = useState([]);
@@ -2164,9 +1816,8 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
     const [debouncedSearch, setDebouncedSearch] = useState("");
 
     const [showMissingOnly, setShowMissingOnly] = useState(false);
-    
-    // NUOVA LOGICA: showVaulted (False di default = Vaulted Nascosti)
-    const [showVaulted, setShowVaulted] = useState(false);
+    const [hideVaulted, setHideVaulted] = useState(false);
+    const [visibleCount, setVisibleCount] = useState(60);
 
     const activeConfig = customCategories ? customCategories.find(c => c.id === subCategory) : null;
 
@@ -2177,6 +1828,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
         return () => clearTimeout(timer);
     }, [searchTerm]);
 
+    // Processamento Iniziale Dati
     useEffect(() => {
         if (initialData) {
             const activeRelicsSet = new Set(lookupData ? Object.keys(lookupData) : []);
@@ -2225,9 +1877,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
         return rawApiData.filter(item => {
             if (debouncedSearch && !item.name.toLowerCase().includes(debouncedSearch)) return false;
             if (showMissingOnly && ownedCards.has(item.uniqueName)) return false;
-            
-            // LOGICA INVERTITA: Se NON voglio vedere i vaulted (default) E l'item è vaulted -> Nascondi
-            if (!showVaulted && item.vaulted) return false;
+            if (hideVaulted && item.vaulted) return false;
             
             if (activeConfig && activeConfig.filter && !activeConfig.filter(item)) return false;
             if (activeConfig && activeConfig.subFilters) {
@@ -2236,7 +1886,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
             }
             return true;
         });
-    }, [rawApiData, subCategory, activeSubFilter, debouncedSearch, showMissingOnly, showVaulted, ownedCards, activeConfig]);
+    }, [rawApiData, subCategory, activeSubFilter, debouncedSearch, showMissingOnly, hideVaulted, ownedCards, activeConfig]);
 
     const handleCategoryChange = (id) => {
         const p = new URLSearchParams(searchParams.toString());
@@ -2295,14 +1945,11 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
                          <div className="search-wrapper">
                             <input type="text" className="search-input" placeholder="SEARCH..." value={searchTerm} onChange={(e) => setSearchTerm(e.target.value.toLowerCase())} />
                         </div>
-                        
-                        {/* CHECKBOX SHOW VAULTED */}
                         <label className="toggle-filter">
-                            <input type="checkbox" style={{display:'none'}} checked={showVaulted} onChange={(e) => setShowVaulted(e.target.checked)} />
-                            <div className="checkbox-custom">{showVaulted && '✓'}</div>
-                            SHOW VAULTED
+                            <input type="checkbox" style={{display:'none'}} checked={hideVaulted} onChange={(e) => setHideVaulted(e.target.checked)} />
+                            <div className="checkbox-custom">{hideVaulted && '✓'}</div>
+                            HIDE VAULTED
                         </label>
-
                         <label className="toggle-filter">
                             <input type="checkbox" style={{display:'none'}} checked={showMissingOnly} onChange={(e) => setShowMissingOnly(e.target.checked)} />
                             <div className="checkbox-custom">{showMissingOnly && '✓'}</div>
@@ -2313,26 +1960,17 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
                 <div className="progress-line-container"><div className="progress-line-fill" style={{width: `${pct}%`}}></div></div>
             </div>
 
-            <div className="gallery-scroll-area">
-                <VirtuosoGrid
-                    style={{ height: '100%', width: '100%' }}
-                    totalCount={processedData.length}
-                    overscan={200}
-                    components={{
-                        List: (props) => <div {...props} className="card-gallery" style={{...props.style, display: 'flex', flexWrap: 'wrap', justifyContent:'center', gap:'25px', paddingBottom: '100px'}} />,
-                        Item: (props) => <div {...props} style={{...props.style, margin: 0}} />
-                    }}
-                    itemContent={(index) => {
-                        const item = processedData[index];
-                        return (
-                            <div onClick={() => setSelectedItem(item)} style={{cursor:'pointer'}}>
-                                <CodexCard item={item} isOwned={ownedCards.has(item.uniqueName)} onToggleOwned={toggleOwned} />
-                            </div>
-                        );
-                    }}
-                />
+             <div className="gallery-scroll-area" onScroll={(e) => {
+                if (e.target.scrollTop + e.target.clientHeight >= e.target.scrollHeight - 500) setVisibleCount(p => p + 60);
+            }}>
+                <div className="card-gallery">
+                    {processedData.slice(0, visibleCount).map(item => (
+                        <div key={item.uniqueName} onClick={() => setSelectedItem(item)} style={{cursor:'pointer'}}>
+                            <CodexCard item={item} isOwned={ownedCards.has(item.uniqueName)} onToggleOwned={toggleOwned} />
+                        </div>
+                    ))}
+                </div>
             </div>
-            
             {selectedItem && (
                 <WarframeDetailModal item={selectedItem} onClose={() => setSelectedItem(null)} ownedItems={ownedCards} onToggle={toggleOwned} />
             )}
@@ -2349,455 +1987,189 @@ export default function CodexListPage(props) {
 }
 
 ==================================================
-FILE: src\components\RelicDetailModal.js
-==================================================
-
-"use client";
-import React, { useEffect } from 'react';
-import Image from 'next/image';
-import { IMG_BASE_URL } from '@/utils/constants';
-import './WarframeDetailModal.css'; 
-
-export default function RelicDetailModal({ item, onClose, ownedItems, onToggle }) {
-    if (!item) return null;
-
-    const isOwned = ownedItems.has(item.uniqueName);
-    const isVaulted = !item.drops || item.drops.length === 0;
-
-    useEffect(() => {
-        const handleEsc = (e) => { if (e.key === 'Escape') onClose(); };
-        window.addEventListener('keydown', handleEsc);
-        return () => window.removeEventListener('keydown', handleEsc);
-    }, [onClose]);
-
-    const sortedRewards = item.rewards ? [...item.rewards].sort((a, b) => a.chance - b.chance) : [];
-
-    const getRarityConfig = (chance) => {
-        if (chance > 0.20) return { color: '#cd7f32', name: 'COMMON' }; 
-        if (chance > 0.10) return { color: '#c0c0c0', name: 'UNCOMMON' }; 
-        return { color: '#d4af37', name: 'RARE' }; 
-    };
-
-    // --- FUNZIONE DI PARSING ---
-    // Input: "Ceres/Hapke (Spy), Rotation B"
-    // Output: { planet: "Ceres", node: "Hapke", type: "Spy", rot: "B" }
-    const parseLocation = (locString) => {
-        try {
-            // Rimuove eventuali residui come "Lith G14 Relic"
-            let clean = locString.split(',')[0]; // Prendi tutto prima della virgola (Rotation è di solito dopo)
-            let rotation = locString.match(/Rotation\s+([A-C])/i)?.[1] || "-";
-            
-            // "Ceres/Hapke (Spy)" -> split "/"
-            let parts = clean.split('/');
-            let planet = parts[0].trim();
-            let rest = parts[1] || "";
-
-            // "Hapke (Spy)" -> extract node and type
-            let node = rest.split('(')[0].trim();
-            let typeMatch = rest.match(/\((.*?)\)/);
-            let type = typeMatch ? typeMatch[1] : "Mission";
-
-            return { planet, node, type, rotation };
-        } catch (e) {
-            return { planet: locString, node: "-", type: "-", rotation: "-" };
-        }
-    };
-
-    return (
-        <div className="modal-overlay" onClick={onClose}>
-            <div className="modal-content-simple" onClick={(e) => e.stopPropagation()} style={{maxWidth:'1200px', height:'85vh'}}>
-                <button className="close-btn" onClick={onClose}>&times;</button>
-
-                <div className="modal-body">
-                    {/* COLONNA SINISTRA */}
-                    <div className="col-left" style={{flex: '0 0 40%', borderRight:'1px solid #333', background:'#050505'}}>
-                        <div className="modal-info-header" style={{textAlign:'center'}}>
-                            <h2 className="modal-title" style={{fontSize:'42px', color: isVaulted ? '#ff5555' : '#fff'}}>
-                                {item.simpleName}
-                            </h2>
-                            <div style={{marginTop:'10px'}}>
-                                {isVaulted 
-                                    ? <div className="vault-badge is-vaulted">VAULTED RELIC</div> 
-                                    : <div className="vault-badge is-available">AVAILABLE IN MISSION</div>
-                                }
-                            </div>
-                        </div>
-
-                        <div className="det-img-box" style={{height:'200px', margin:'20px 0'}}>
-                            <Image 
-                                src={`${IMG_BASE_URL}/${item.imageName}`} 
-                                alt={item.name} 
-                                fill
-                                style={{objectFit:'contain'}}
-                                unoptimized
-                            />
-                        </div>
-
-                        <div className="col-header-sticky" style={{background:'transparent', padding:'0 0 10px 0', border: 'none'}}>
-                            <h3 className="section-title">POSSIBLE REWARDS</h3>
-                        </div>
-
-                        <div className="col-content-scroll" style={{padding:'0', flex:1}}>
-                            {sortedRewards.map((r, i) => {
-                                const conf = getRarityConfig(r.chance);
-                                return (
-                                    <div key={i} style={{
-                                        marginBottom:'8px', 
-                                        background:'linear-gradient(90deg, #18181b 0%, #121214 100%)', 
-                                        padding:'10px 15px', 
-                                        borderRadius:'4px', 
-                                        borderLeft:`4px solid ${conf.color}`,
-                                        borderBottom:'1px solid #222'
-                                    }}>
-                                        <div style={{display:'flex', justifyContent:'space-between', alignItems:'center', marginBottom:'6px'}}>
-                                            <span style={{color: conf.name === 'RARE' ? '#d4af37' : '#eee', fontWeight:'bold', fontSize:'13px'}}>
-                                                {r.itemName || "Unknown Item"}
-                                            </span>
-                                            <span style={{color: conf.color, fontSize:'12px', fontWeight:'900'}}>
-                                                {(r.chance * 100).toFixed(0)}%
-                                            </span>
-                                        </div>
-                                        {/* Barra Visiva */}
-                                        <div style={{width:'100%', height:'4px', background:'#222', borderRadius:'2px', overflow:'hidden'}}>
-                                            <div style={{
-                                                width: `${Math.min(100, r.chance * 100 * 2)}%`, 
-                                                height:'100%', 
-                                                background: conf.color,
-                                                boxShadow: `0 0 10px ${conf.color}`
-                                            }}></div>
-                                        </div>
-                                    </div>
-                                );
-                            })}
-                        </div>
-                        
-                        <div className="det-actions" style={{marginTop:'20px'}}>
-                            <button onClick={() => onToggle(item.uniqueName)} className={`btn-toggle-large ${isOwned ? 'owned' : ''}`}>
-                                {isOwned ? '✔ IN COLLECTION' : '+ ADD TO COLLECTION'}
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* COLONNA DESTRA: Drop Locations (Nuova Tabella) */}
-                    <div className="col-center" style={{flex: 1, background:'#0e0e10', padding:'0'}}>
-                        <div className="col-header-sticky" style={{background:'#1a1a1e', borderBottom:'1px solid #333', padding:'20px'}}>
-                            <h3 className="section-title">DROP LOCATIONS</h3>
-                        </div>
-                        
-                        <div className="col-content-scroll" style={{padding:'0'}}>
-                            {!isVaulted ? (
-                                <table style={{width:'100%', borderCollapse:'collapse'}}>
-                                    <thead style={{position:'sticky', top:0, background:'#0e0e10', zIndex:10}}>
-                                        <tr>
-                                            <th style={thStyle}>PLANET</th>
-                                            <th style={thStyle}>NODE</th>
-                                            <th style={thStyle}>TYPE</th>
-                                            <th style={{...thStyle, textAlign:'center'}}>ROT</th>
-                                            <th style={{...thStyle, textAlign:'right'}}>CHANCE</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        {item.drops.sort((a,b) => b.chance - a.chance).map((drop, idx) => {
-                                            const info = parseLocation(drop.location);
-                                            return (
-                                                <tr key={idx} style={{borderBottom:'1px solid #1a1a1e'}}>
-                                                    <td style={{...tdStyle, color:'#fff', fontWeight:'bold'}}>{info.planet}</td>
-                                                    <td style={{...tdStyle, color:'#ccc'}}>{info.node}</td>
-                                                    <td style={{...tdStyle, color:'#888', fontSize:'11px', textTransform:'uppercase'}}>{info.type}</td>
-                                                    <td style={{...tdStyle, textAlign:'center', color:'var(--gold)', fontWeight:'bold'}}>{info.rotation}</td>
-                                                    <td style={{...tdStyle, textAlign:'right', color:'#5fffa5', fontWeight:'bold'}}>
-                                                        {(drop.chance * 100).toFixed(2)}%
-                                                    </td>
-                                                </tr>
-                                            );
-                                        })}
-                                    </tbody>
-                                </table>
-                            ) : (
-                                <div style={{
-                                    height:'100%', display:'flex', flexDirection:'column', 
-                                    alignItems:'center', justifyContent:'center', color:'#666', textAlign:'center'
-                                }}>
-                                    <div style={{fontSize:'60px', marginBottom:'20px', opacity:0.3}}>🔒</div>
-                                    <h3 style={{color:'#ff5555', marginBottom:'10px'}}>PRIME VAULT SEALED</h3>
-                                    <p style={{maxWidth:'300px', lineHeight:'1.5', fontSize:'13px'}}>
-                                        This Relic has been retired from the drop tables.<br/>
-                                        It cannot be farmed currently.
-                                    </p>
-                                </div>
-                            )}
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    );
-}
-
-// Stili inline per tabella (per pulizia)
-const thStyle = {
-    padding: '12px 15px',
-    textAlign: 'left',
-    fontSize: '10px',
-    fontWeight: '800',
-    color: '#666',
-    textTransform: 'uppercase',
-    letterSpacing: '1px'
-};
-
-const tdStyle = {
-    padding: '12px 15px',
-    fontSize: '13px'
-};
-
-==================================================
 FILE: src\components\WarframeDetailModal.css
 ==================================================
 
 /* src/components/WarframeDetailModal.css */
 
-/* SFONDO E CONTENITORE PRINCIPALE */
-.modal-overlay {
-  position: fixed; inset: 0;
-  background: rgba(0, 0, 0, 0.95); backdrop-filter: blur(10px);
-  z-index: 2000; display: flex; align-items: center; justify-content: center;
+/* SFONDO MODALE */
+.modal-overlay { 
+  position: fixed; inset: 0; 
+  background: rgba(0, 0, 0, 0.95); backdrop-filter: blur(10px); 
+  z-index: 2000; /* Z-Index altissimo */
+  display: flex; align-items: center; justify-content: center; 
   padding: 20px;
 }
 
-.modal-content-simple {
-  width: 100%; max-width: 1600px; height: 90vh;
-  background: #09090b; /* Sfondo generale più scuro */
-  border: 1px solid #333; border-top: 3px solid var(--gold);
-  display: flex; flex-direction: row;
-  overflow: hidden; position: relative; box-shadow: 0 0 80px rgba(0,0,0,0.8);
-  border-radius: 4px;
+/* CONTENITORE PRINCIPALE */
+.modal-content-simple { 
+  width: 100%; max-width: 1600px; height: 90vh; 
+  background: #121214; border: 1px solid #333; border-top: 3px solid var(--gold);
+  display: flex; flex-direction: row; /* Desktop: Orizzontale */
+  overflow: hidden; position: relative; 
+  box-shadow: 0 0 50px #000; border-radius: 4px;
 }
 
-/* PULSANTE CHIUSURA - SPOSTATO A SINISTRA */
-.close-btn {
-  position: absolute; 
-  top: 15px; 
-  left: 15px; /* Posizionato a Sinistra */
-  right: auto; /* Reset del valore right */
-  
-  width: 40px; height: 40px;
-  border-radius: 50%; border: 1px solid #444;
-  background: rgba(0,0,0,0.6); color: #fff; font-size: 28px;
-  display: flex; align-items: center; justify-content: center;
-  cursor: pointer; z-index: 3000; transition: 0.2s;
-  padding-bottom: 4px;
+/* PULSANTE CHIUSURA - Posizione assoluta ma sicura */
+.close-btn { 
+  position: absolute; top: 10px; right: 15px; 
+  color: #fff; font-size: 32px; background: rgba(0,0,0,0.6); 
+  border: 1px solid #444; border-radius: 50%;
+  width: 40px; height: 40px; display: flex; align-items: center; justify-content: center;
+  cursor: pointer; z-index: 3000; /* Sopra a tutto */
+  padding-bottom: 4px; /* Centratura visiva */
 }
 .close-btn:hover { color: var(--gold); border-color: var(--gold); background: #000; }
 
+.modal-header-row { display: none; } /* Nascondiamo header legacy */
 .modal-body { display: flex; width: 100%; height: 100%; }
 
-/* --- COLONNA 1: INFO --- */
+/* --- STILI DESKTOP (3 COLONNE) --- */
 .col-left { 
-  flex: 0 0 320px; background: #050505;
-  border-right: 1px solid #222; 
-  display: flex; flex-direction: column; 
-  /* Padding aumentato in alto per far spazio al bottone a sinistra */
-  padding: 70px 30px 30px 30px; 
-  position: relative; z-index: 10;
+  flex: 0 0 320px; background: #0a0a0c; border-right: 1px solid #333; 
+  display: flex; flex-direction: column; padding: 30px; overflow-y: auto;
+}
+.col-center { 
+  flex: 0 0 35%; background: #121214; border-right: 1px solid #333; 
+  display: flex; flex-direction: column; overflow-y: auto;
+}
+.col-right { 
+  flex: 1; background: #0e0e10; display: flex; flex-direction: column; overflow-y: auto;
 }
 
-.modal-info-header { margin-bottom: 20px; }
-.modal-title { font-size: 36px; font-weight: 900; color: #fff; line-height: 0.9; text-transform: uppercase; letter-spacing: -1px; }
-.type-pill { display: inline-block; font-size: 10px; color: #666; font-weight: bold; border: 1px solid #333; padding: 2px 6px; border-radius: 3px; margin-top: 8px; text-transform: uppercase; }
+/* CONTENUTI */
+.det-title { font-size: 32px; font-weight: 900; color: #fff; margin: 0; text-transform: uppercase; line-height: 1; }
+.det-subtitle { color: var(--gold); font-size: 14px; font-weight: bold; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 1px; }
 
 .det-img-box { 
-    width: 100%; height: 350px; 
-    position: relative; margin-bottom: 20px;
+    width: 100%; height: 300px; 
+    display: flex; align-items: center; justify-content: center; 
+    margin-bottom: 20px; position: relative;
 }
-.det-img-box img { object-fit: contain; filter: drop-shadow(0 0 30px rgba(0,0,0,0.5)); }
-
-.det-desc-container { flex-grow: 1; overflow-y: auto; margin-bottom: 20px; padding-right: 5px; }
-.warframe-description { font-size: 13px; color: #888; line-height: 1.6; }
-
-.det-actions { margin-top: auto; }
-
-/* BADGES */
-.vault-badge { 
-    display: inline-block; font-size: 11px; padding: 6px 12px; border-radius: 2px; 
-    font-weight: 800; text-transform: uppercase; letter-spacing: 1px;
-}
-.vault-badge.is-vaulted { 
-    background: rgba(255, 68, 68, 0.1); color: #ff4444; 
-    border: 1px solid rgba(255, 68, 68, 0.4); 
-    box-shadow: 0 0 10px rgba(255, 0, 0, 0.1);
-}
-.vault-badge.is-available { 
-    background: rgba(95, 255, 165, 0.05); color: #5fffa5; 
-    border: 1px solid rgba(95, 255, 165, 0.2); 
+.det-img-box img { 
+    max-width: 100%; max-height: 100%; 
+    object-fit: contain; /* Fondamentale per non tagliare l'immagine */
+    filter: drop-shadow(0 0 20px rgba(0,0,0,0.5)); 
 }
 
-/* --- COLONNE CENTRALE E DESTRA --- */
-.col-center, .col-right {
-    display: flex; flex-direction: column;
-    overflow: hidden; /* Importante per scroll interno */
-    background: #0e0e10; 
-}
-.col-center { border-right: 1px solid #222; }
+.det-desc { font-size: 13px; color: #888; line-height: 1.5; margin-bottom: 20px; max-height: 200px; overflow-y: auto; }
 
-/* HEADER STICKY */
-.col-header-sticky {
-    padding: 20px 25px;
-    background: #0e0e10; /* Copre lo scroll */
-    border-bottom: 1px solid #222;
-    z-index: 10; flex-shrink: 0;
+/* HEADER COLONNE */
+.col-header { 
+  padding: 15px 20px; background: #1a1a1e; border-bottom: 1px solid #333; 
+  font-size: 14px; font-weight: 800; color: #fff; letter-spacing: 1px; text-transform: uppercase;
+  display: flex; justify-content: space-between; align-items: center; flex-shrink: 0;
 }
-.section-title { font-size: 14px; font-weight: 800; color: #fff; letter-spacing: 1px; text-transform: uppercase; margin: 0; }
+.col-scrollable { flex: 1; overflow-y: auto; padding: 20px; }
 
-/* SCROLL CONTENT */
-.col-content-scroll { 
-    flex: 1; overflow-y: auto; padding: 25px; 
-    scrollbar-width: thin;
-}
-
-/* --- COMPONENTI --- */
-.component-row { 
-    margin-bottom: 25px; 
-    background: #131316; /* Sfondo per raggruppare */
-    border: 1px solid #222;
-    border-radius: 6px;
-    padding: 10px;
-}
-
-.component-header { 
-    display: flex; align-items: center; gap: 10px; 
-    margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px solid #222;
-}
-.component-icon { position: relative; width: 24px; height: 24px; }
+/* COMPONENTI & CARDS */
+.component-row { margin-bottom: 20px; }
+.component-header { display: flex; align-items: center; gap: 10px; background: #18181b; padding: 8px; border: 1px solid #333; margin-bottom: 8px; border-radius: 4px; }
+.component-icon { width: 30px; height: 30px; position: relative; }
+.component-icon img { width: 100%; height: 100%; object-fit: contain; }
 .count-badge { font-size: 10px; background: #000; padding: 2px 6px; border-radius: 4px; border: 1px solid #333; color: #666; margin-left: auto; }
 
-/* GRIGLIA RELIQUIE */
-.relic-cards-grid { 
-    display: flex; flex-wrap: wrap; gap: 10px; 
-}
-
-/* CARD RELIQUIA */
+.relic-cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 10px; }
 .mini-relic-card { 
-  flex: 1 1 calc(50% - 10px); min-width: 140px; max-width: 180px;
-  background: #1a1a1d; border: 1px solid #333; 
-  border-radius: 4px; padding: 8px 10px; 
-  display: flex; align-items: center; gap: 10px; 
-  cursor: pointer; position: relative; transition: all 0.2s;
+  background: #1a1a1d; border: 1px solid #333; border-radius: 4px; padding: 8px; 
+  display: flex; flex-direction: row; align-items: center; gap: 10px; 
+  cursor: pointer; position: relative;
 }
-
-.mini-relic-card:hover { border-color: #666; background: #222; transform: translateY(-2px); }
+.mini-relic-card:hover { border-color: #666; background: #222; }
 .mini-relic-card.selected { border-color: var(--gold); background: rgba(212, 175, 55, 0.08); }
+.relic-card-img { width: 30px; height: 30px; object-fit: contain; }
+.card-info { display: flex; flex-direction: column; overflow: hidden; }
+.card-name { font-size: 11px; color: #fff; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.card-pct { font-size: 10px; font-weight: 600; }
+.pct-common { color: #cd7f32; }
+.pct-uncommon { color: #c0c0c0; }
+.pct-rare { color: var(--gold); text-shadow: 0 0 5px rgba(212,175,55,0.4); }
 
-/* --- FIX VAULTED RELIC --- */
-.mini-relic-card.is-vaulted {
-    border-color: #8a2be2; /* Bordo VIOLA/ROSSO per vaulted */
-    background: rgba(138, 43, 226, 0.05);
-    opacity: 0.9;
-}
-.mini-relic-card.is-vaulted:hover {
-    background: rgba(138, 43, 226, 0.15);
-    border-color: #a045f5;
-}
-
-.relic-card-img { width: 32px; height: 32px; object-fit: contain; }
-
-.card-info { display: flex; flex-direction: column; flex: 1; overflow: hidden; }
-.card-name { font-size: 12px; color: #eee; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-
-.card-rarity-row { display: flex; justify-content: space-between; align-items: center; margin-top: 3px; }
-
-/* RARITY DOTS */
-.card-pct { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
-.pct-common { background: #cd7f32; box-shadow: 0 0 5px #cd7f32; }
-.pct-uncommon { background: #c0c0c0; box-shadow: 0 0 5px #c0c0c0; }
-.pct-rare { background: var(--gold); box-shadow: 0 0 5px var(--gold); }
-
-/* TAG V ROSSA */
-.vaulted-mini-tag { 
-    font-size: 10px; color: #ff4444; font-weight: 900; 
-    border: 1px solid #ff4444; padding: 0 4px; border-radius: 2px;
-    background: rgba(0,0,0,0.5);
-}
-
-/* --- STRATEGIA --- */
-.mission-block { 
-    background: #151518; border: 1px solid #2a2a2e; 
-    border-radius: 6px; overflow: hidden; margin-bottom: 15px;
-}
-.mission-block-header { 
-    background: #1a1a1e; padding: 12px 15px; 
-    border-bottom: 1px solid #2a2a2e; 
-    display: flex; justify-content: space-between; align-items: center; 
-}
+.strategy-container { display: flex; flex-direction: column; gap: 15px; }
+.mission-block { background: #121215; border: 1px solid #2a2a2e; border-radius: 4px; overflow: hidden; }
+.mission-block-header { background: #18181b; padding: 10px 15px; border-bottom: 1px solid #222; display: flex; justify-content: space-between; align-items: center; }
 .mission-name-large { font-size: 13px; font-weight: bold; color: #fff; }
-
 .mission-relics-table { width: 100%; border-collapse: collapse; }
-.mission-relics-table th { 
-    font-size: 10px; color: #666; font-weight: bold; 
-    padding: 8px 0; border-bottom: 1px solid #222;
-}
-.mission-relics-table td { 
-    padding: 10px 0; border-bottom: 1px solid #222; 
-    font-size: 12px; color: #bbb; vertical-align: middle;
-}
-.mission-relics-table tr:last-child td { border-bottom: none; }
-
-.part-badge { 
-    display: inline-block; 
-    background: rgba(95, 255, 165, 0.05); 
-    border: 1px solid rgba(95, 255, 165, 0.15); 
-    color: #5fffa5; padding: 2px 6px; border-radius: 3px; 
-    font-size: 9px; font-weight: 700; text-transform: uppercase; 
-}
+.mission-relics-table td { padding: 10px 15px; border-bottom: 1px solid #1f1f22; font-size: 12px; color: #bbb; }
+.part-badge { display: inline-block; background: rgba(95, 255, 165, 0.08); border: 1px solid rgba(95, 255, 165, 0.2); color: #5fffa5; padding: 2px 6px; border-radius: 3px; font-size: 9px; font-weight: 700; text-transform: uppercase; }
 
 .btn-toggle-large {
   width: 100%; padding: 15px; margin-top: 20px;
-  background: var(--gold); color: #000;
-  font-weight: 800; letter-spacing: 1px;
+  background: var(--gold); color: #000; font-weight: 800; letter-spacing: 1px;
   border: none; border-radius: 2px; cursor: pointer; text-transform: uppercase;
 }
 .btn-toggle-large.owned { background: #222; color: #fff; border: 1px solid #444; }
 .wiki-btn-block { 
   display: block; width: 100%; margin-top: 15px; padding: 10px;
-  background: transparent; text-align: center;
-  font-size: 11px; font-weight: 800; 
+  background: transparent; text-align: center; font-size: 11px; font-weight: 800; 
   color: #666; border: 1px solid #333; text-transform: uppercase; text-decoration: none; 
 }
+.vault-badge { font-size: 10px; padding: 4px 10px; border-radius: 2px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; }
+.vault-badge.is-vaulted { background: rgba(255, 50, 50, 0.1); color: #ff5555; border: 1px solid rgba(255, 50, 50, 0.3); }
+.vault-badge.is-available { background: rgba(50, 255, 100, 0.05); color: #5fffa5; border: 1px solid rgba(50, 255, 100, 0.2); }
+.base-mission-table { width: 100%; border-collapse: collapse; }
+.base-mission-table td { padding: 8px 12px; border-bottom: 1px solid #1a1a1e; font-size: 11px; }
 
-/* --- MOBILE RESPONSIVE --- */
+/* =========================================
+   MEDIA QUERIES - MOBILE TRANSFORMATION
+   ========================================= */
+
 @media (max-width: 1024px) {
-  .modal-overlay { padding: 0; align-items: flex-start; overflow-y: auto; }
+  .modal-overlay {
+    padding: 0;
+    align-items: flex-start; /* Allinea in alto */
+    overflow-y: auto; /* Permette lo scroll dell'overlay */
+  }
+
   .modal-content-simple {
-    min-height: 100vh; height: auto; max-height: none;
-    border: none; border-radius: 0; flex-direction: column;
+    width: 100%;
+    min-height: 100vh; /* Occupa tutto lo schermo */
+    height: auto;
+    max-height: none;
+    border: none;
+    border-radius: 0;
+    flex-direction: column; /* COLONNA VERTICALE */
+    box-shadow: none;
+    overflow: visible; /* Lascia che il contenuto allunghi la pagina */
+  }
+  
+  .modal-body {
+    flex-direction: column;
+    height: auto;
     overflow: visible;
   }
-  .modal-body { flex-direction: column; }
-  
-  .col-left, .col-center, .col-right {
-    flex: none; width: 100%; height: auto;
-    border-right: none; border-bottom: 1px solid #222;
-    padding: 20px; overflow: visible;
-  }
-  
-  .col-left { 
-    order: 1; 
-    /* Spazio extra sopra su mobile per il bottone */
-    padding-top: 80px; 
-  }
-  .col-center { order: 2; }
-  .col-right { order: 3; padding-bottom: 100px; }
 
-  .close-btn { 
-    position: fixed; 
-    top: 15px; 
-    left: 15px; /* Fisso a sinistra anche su mobile */
-    right: auto;
-    border-color: var(--gold); color: var(--gold); background: #000; 
+  .close-btn {
+    top: 15px; right: 15px;
+    background: #000; border: 1px solid var(--gold);
+    color: var(--gold);
+    position: fixed; /* FISSO SULLO SCHERMO */
+  }
+
+  /* Reset delle colonne per Mobile */
+  .col-left, .col-center, .col-right {
+    flex: none; 
+    width: 100%;
+    height: auto;
+    border-right: none;
+    border-bottom: 1px solid #333;
+    padding: 20px;
+    overflow: visible;
   }
   
+  .col-left { order: 1; background: #050505; padding-top: 60px; /* Spazio per il bottone di chiusura */ }
+  .col-center { order: 2; background: #121214; }
+  .col-right { order: 3; background: #0e0e10; padding-bottom: 100px; }
+
+  /* Aggiustamenti Immagine Mobile */
+  .det-img-box {
+    height: 300px; /* Altezza fissa ma contenuta */
+    margin-top: 10px;
+  }
+  .det-title { font-size: 28px; }
+
+  /* Nascondi colonna destra se in base mode */
   .modal-content-simple.base-mode .col-right { display: none; }
-  .relic-cards-grid { display: grid; grid-template-columns: repeat(2, 1fr); }
-  .mini-relic-card { width: 100%; max-width: none; }
 }
 
 ==================================================
@@ -2806,41 +2178,28 @@ FILE: src\components\WarframeDetailModal.js
 
 "use client";
 import React, { useEffect, useState } from 'react';
-import Image from 'next/image';
 import { IMG_BASE_URL, API_BASE_URL } from '@/utils/constants';
 import './WarframeDetailModal.css';
 
-// LISTA ESTESA DI RISORSE DA NASCONDERE
 const HIDDEN_RESOURCES = [
-    // Risorse Comuni/Non Comuni/Rare
     'Orokin Cell', 'Argon Crystal', 'Neural Sensors', 'Neurodes', 
     'Plastids', 'Rubedo', 'Ferrite', 'Alloy Plate', 'Polymer Bundle', 
     'Circuits', 'Salvage', 'Morphics', 'Control Module', 'Gallium', 
-    'Nitain Extract', 'Tellurium', 'Cryotic', 'Oxium', 'Nano Spores',
-    'Detonite Ampule', 'Fieldron Sample', 'Mutagen Sample',
-    
-    // Clan Tech & Speciali
-    'Detonite Injector', 'Fieldron', 'Mutagen Mass', 'Forma', 'Kuva',
-    'Void Traces', 'Credits', 'Endo', 'Synthetic Eidolon Shard',
-    
-    // Open World (Piane/Vallis/Deimos)
-    'Iradite', 'Grokdrul', 'Maprico', 'Nistlepod', 'Condroc Wing', 
-    'Kuaka Spinal Claw', 'Breath of the Eidolon', 'Eidolon Shard', 'Cetus Wisp',
-    'Gorgaricus Spore', 'Mytocardia Spore', 'Thermal Sludge', 'Tepa Nodule',
-    'Hexenon', 'Carbides', 'Cubic Diodes', 'Pustrels', 'Copernics', 
-    'Isos', 'Aucrux Capacitors', 'Komms', 'Nullstones'
+    'Nitain Extract', 'Tellurium', 'Cryotic', 'Oxium'
 ];
 
 export default function WarframeDetailModal({ item, onClose, ownedItems, onToggle }) {
-    const [smartMissions, setSmartMissions] = useState([]);
+    const [smartMissions, setSmartMissions] = useState([]); 
     const [baseStrategies, setBaseStrategies] = useState([]); 
     const [lookupData, setLookupData] = useState(null); 
     const [savedPartMap, setSavedPartMap] = useState({});
+    
     const [selectedRelics, setSelectedRelics] = useState(new Set());
     const [loadingStrategies, setLoadingStrategies] = useState(false);
     const [statusMsg, setStatusMsg] = useState(""); 
 
     if (!item) return null;
+
     const isOwned = ownedItems.has(item.uniqueName);
     const isRelicItem = (item.category || "").includes('Relic') || (item.type || "").includes('Relic');
     const isPrime = item.name.includes("Prime");
@@ -2883,17 +2242,6 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
         if (fullComponentName.match(/Neuroptics/i)) return "NEURO";
         if (fullComponentName.match(/Harness/i)) return "HARNESS";
         if (fullComponentName.match(/Wings/i)) return "WINGS";
-        
-        // Per le armi, puliamo nomi comuni
-        if (fullComponentName.match(/Barrel/i)) return "BARREL";
-        if (fullComponentName.match(/Receiver/i)) return "RECEIVER";
-        if (fullComponentName.match(/Stock/i)) return "STOCK";
-        if (fullComponentName.match(/Handle/i)) return "HANDLE";
-        if (fullComponentName.match(/Blade/i)) return "BLADE";
-        if (fullComponentName.match(/Grip/i)) return "GRIP";
-        if (fullComponentName.match(/String/i)) return "STRING";
-        if (fullComponentName.match(/Limb/i)) return "LIMB";
-        
         if (!clean || clean.length < 2) return "MAIN BP";
         return clean.toUpperCase();
     }
@@ -2937,7 +2285,7 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
     }
 
     function calculateBaseStrategy(relicIdsSet) {
-        const componentMap = new Map();
+        const componentMap = new Map(); 
         relicIdsSet.forEach(relicID => {
             if (relicID.startsWith("DIRECT:")) {
                 const info = JSON.parse(relicID.substring(7)); 
@@ -2963,51 +2311,30 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
             const neededIDs = new Set();
             const relicToPartMap = {}; 
             
-            // Helper check risorsa
-            const isHiddenResource = (name) => {
-                const n = name.toLowerCase().trim();
-                return HIDDEN_RESOURCES.some(h => {
-                    const hLower = h.toLowerCase();
-                    return n === hLower || n === hLower + 's'; // Controlla anche plurale
-                });
-            };
-
             const scan = (drops, partNameLabel) => {
                 (drops || []).forEach(d => {
                     const id = getStandardID(d.location);
                     const cleanPart = getCleanPartName(partNameLabel);
-                    if (id) { 
-                        neededIDs.add(id); 
-                        relicToPartMap[id] = cleanPart; 
-                    } else {
+                    if (id) { neededIDs.add(id); relicToPartMap[id] = cleanPart; } 
+                    else {
                         const fakeID = `DIRECT:${JSON.stringify({ loc: d.location, part: cleanPart, chance: d.chance, rarity: d.rarity })}`;
                         neededIDs.add(fakeID);
                     }
                 });
             };
 
-            // SCAN COMPONENTI (Filtrando risorse)
-            (item.components || []).forEach(c => { 
-                if(!isHiddenResource(c.name)) {
-                    scan(c.drops, c.name);
-                }
-            });
+            (item.components || []).forEach(c => { if(!HIDDEN_RESOURCES.includes(c.name)) scan(c.drops, c.name); });
             scan(item.drops, "MAIN BP");
             setSavedPartMap(relicToPartMap);
 
-            if (neededIDs.size === 0) { 
-                setLoadingStrategies(false);
-                return; 
-            }
+            if (neededIDs.size === 0) { setLoadingStrategies(false); return; }
 
             const [lookupRes, relicsRes] = await Promise.all([
                 fetch(`${API_BASE_URL}/RelicLookup.json`),
                 fetch(`${API_BASE_URL}/Relics.json`)
             ]);
-            
-            let lookupDB = {}; 
-            if (lookupRes.ok) lookupDB = await lookupRes.json();
-            
+
+            let lookupDB = {}; if (lookupRes.ok) lookupDB = await lookupRes.json();
             let imageMap = {};
             if (relicsRes.ok) {
                 const relicsArr = await relicsRes.json();
@@ -3021,12 +2348,8 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
 
             setSmartMissions(calculateMissionsStrategy(neededIDs, lookupDB, relicToPartMap));
             setBaseStrategies(calculateBaseStrategy(neededIDs));
-        } catch (e) { 
-            console.error(e); 
-            setStatusMsg("N/A"); 
-        } finally { 
-            setLoadingStrategies(false);
-        }
+
+        } catch (e) { console.error(e); setStatusMsg("N/A"); } finally { setLoadingStrategies(false); }
     }
 
     // --- RENDER HELPERS ---
@@ -3061,34 +2384,36 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
         return Array.from(unique.values()).sort((a,b) => (a.isVaultedRelic === b.isVaultedRelic) ? 0 : a.isVaultedRelic ? 1 : -1);
     }
 
-    // --- COSTRUZIONE LISTA COMPONENTI ---
+    // --- COSTRUZIONE LISTA COMPONENTI (FIX PRIME MAIN BP) ---
     let fullComponentsList = [];
     if (!isRelicItem) {
+        // 1. Cerca se esiste un componente chiamato "Blueprint" nei dati
         const foundBpComponent = (item.components || []).find(c => c.name.toLowerCase().includes('blueprint'));
+        
+        // 2. Determina i drop corretti per il Main BP
+        // Se c'è un componente blueprint, usiamo i suoi drop. Altrimenti usiamo i drop generali dell'item.
         const mainBpDrops = foundBpComponent ? foundBpComponent.drops : (item.drops || []);
+
+        // 3. Aggiungi il blocco "MAIN BP" in cima alla lista
         fullComponentsList.push({
             uniqueName: item.uniqueName + "_BP",
             name: "MAIN BP",
             itemCount: 1,
             imageName: item.imageName,
-            drops: mainBpDrops 
+            drops: mainBpDrops // Ora contiene i drop corretti anche per i Prime!
         });
 
-        // FILTRO MIGLIORATO PER NASCONDERE RISORSE
-        const subs = (item.components || []).filter(comp => {
-            const nameLower = comp.name.toLowerCase().trim();
-            const isResource = HIDDEN_RESOURCES.some(h => {
-                const hLower = h.toLowerCase();
-                return nameLower === hLower || nameLower === hLower + 's';
-            });
-            const isBp = nameLower.includes('blueprint');
-            return !isResource && !isBp;
-        });
-        
+        // 4. Aggiungi gli altri componenti (Escludendo "Blueprint" perché l'abbiamo appena gestito manualmente)
+        const subs = (item.components || []).filter(comp => 
+            !HIDDEN_RESOURCES.includes(comp.name) && 
+            !comp.name.toLowerCase().includes('blueprint') 
+        );
         fullComponentsList = [...fullComponentsList, ...subs];
     }
     
+    const hasComponents = fullComponentsList.length > 0;
     const sortedRewards = item.rewards ? [...item.rewards].sort((a, b) => (b.chance || 0) - (a.chance || 0)) : [];
+
     function getRarityClass(r) {
         if(!r) return ""; r = r.toLowerCase();
         if(r.includes('rare')) return "pct-rare";
@@ -3101,170 +2426,136 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
             <div className={`modal-content-simple ${!isPrime && !isRelicItem ? 'base-mode' : ''}`} onClick={(e) => e.stopPropagation()}>
                 <button className="close-btn" onClick={onClose}>&times;</button>
 
+                <div className="modal-header-row">
+                    <div style={{display:'flex', alignItems:'center', gap:'15px'}}>
+                        <h2 className="modal-title">{item.name}</h2>
+                        <div className="type-pill">{item.type}</div>
+                    </div>
+                    {isVaulted ? <div className="vault-badge is-vaulted">VAULTED</div> : <div className="vault-badge is-available">AVAILABLE</div>}
+                </div>
+
                 <div className="modal-body">
                     {/* COLONNA 1: INFO */}
                     <div className="col-left">
-                        <div className="modal-info-header">
-                            <h2 className="modal-title">{item.name}</h2>
-                            <div className="type-pill">{item.type}</div>
-                            
-                            {/* BADGE AVAILABLE/VAULTED */}
-                            <div style={{marginTop:'10px'}}>
-                                {isVaulted 
-                                    ? <div className="vault-badge is-vaulted">VAULTED</div> 
-                                    : <div className="vault-badge is-available">AVAILABLE</div>
-                                }
-                            </div>
+                        <div style={{width:'100%', display:'flex', justifyContent:'center', marginBottom:'20px'}}>
+                            <img src={`${IMG_BASE_URL}/${item.imageName}`} alt={item.name} style={{maxWidth:'100%', maxHeight:'250px'}} onError={(e)=>e.target.style.display='none'} />
                         </div>
-
-                        <div className="det-img-box">
-                            <Image 
-                                src={`${IMG_BASE_URL}/${item.imageName}`} 
-                                alt={item.name} 
-                                fill
-                                style={{objectFit:'contain'}}
-                                unoptimized
-                            />
-                        </div>
-                        
-                        <div className="det-desc-container">
-                            {item.description && <p className="warframe-description">{item.description}</p>}
-                        </div>
-
-                        <div className="det-actions">
-                            <button onClick={() => onToggle(item.uniqueName)} className={`btn-toggle-large ${isOwned ? 'owned' : ''}`}>
-                                {isOwned ? '✔ OWNED' : '+ ADD TO COLLECTION'}
-                            </button>
-                            <a href={wikiUrl} target="_blank" rel="noopener noreferrer" className="wiki-btn-block">WIKI PAGE</a>
-                        </div>
+                        {item.description && <p className="warframe-description">{item.description}</p>}
+                        <button onClick={() => onToggle(item.uniqueName)} className={`btn-toggle-large ${isOwned ? 'owned' : ''}`}>
+                            {isOwned ? '✔ POSSEDUTO' : '+ AGGIUNGI'}
+                        </button>
+                        <a href={wikiUrl} target="_blank" rel="noopener noreferrer" className="wiki-btn-block">WIKI PAGE</a>
                     </div>
 
-                    {/* COLONNA 2: COMPONENTI */}
+                    {/* COLONNA 2: COMPONENTI (Si espande se è Base Warframe) */}
                     <div className="col-center" style={{flex: !isPrime && !isRelicItem ? 2 : 1}}>
-                        <div className="col-header-sticky">
-                            <h3 className="section-title">{isRelicItem ? "REWARDS" : "COMPONENTS & ACQUISITION"}</h3>
-                        </div>
+                        <h3 className="section-title">{isRelicItem ? "REWARDS" : "COMPONENTS & ACQUISITION"}</h3>
                         
-                        <div className="col-content-scroll">
-                            {isRelicItem && (
-                                <div style={{display:'flex', flexDirection:'column', gap:'5px'}}>
-                                    {sortedRewards.map((r, i) => (
-                                        <div key={i} style={{display:'flex', justifyContent:'space-between', padding:'10px', background:'#18181b', borderRadius:'4px', fontSize:'13px', border:'1px solid #333'}}>
-                                            <span style={{color: '#ddd'}}>{r.itemName || r.item?.name}</span>
-                                            <span style={{fontWeight:'bold', color:'var(--gold)'}}>{(r.chance*100).toFixed(0)}%</span>
-                                        </div>
-                                    ))}
-                                </div>
-                            )}
-
-                            {!isRelicItem && fullComponentsList.map((comp, idx) => {
-                                const cleanName = getCleanPartName(comp.name);
-                                const partMissions = baseStrategies[cleanName] || [];
-                                
-                                return (
-                                    <div key={idx} className="component-row">
-                                        <div className="component-header">
-                                            <div className="component-icon" style={{position:'relative', width:'24px', height:'24px'}}>
-                                                <Image 
-                                                    src={`${IMG_BASE_URL}/${comp.imageName}`} 
-                                                    alt="" 
-                                                    fill
-                                                    style={{objectFit:'contain', opacity: comp.name === "MAIN BP" ? 0.7 : 1}}
-                                                    unoptimized
-                                                />
-                                            </div>
-                                            <div style={{flex:1, marginLeft:'10px'}}>
-                                                <strong style={{color:'#eee', fontSize:'13px', letterSpacing:'0.5px'}}>{cleanName}</strong>
-                                            </div>
-                                            <span className="count-badge">x{comp.itemCount}</span>
-                                        </div>
-
-                                        {/* SE È PRIME: MOSTRA LE RELIQUIE */}
-                                        {isPrime && (
-                                            <div className="relic-cards-grid">
-                                                {formatDropsWithVaultCheck(comp.drops).map((d, i) => {
-                                                    const isSelected = d.relicID && selectedRelics.has(d.relicID);
-                                                    return (
-                                                        <div key={i} onClick={() => d.isRelic && handleRelicClick(d.relicID)}
-                                                            className={`mini-relic-card ${isSelected ? 'selected' : ''} ${d.isVaultedRelic ? 'is-vaulted' : ''}`}
-                                                        >
-                                                            {d.imagePath && <img src={d.imagePath} className="relic-card-img" onError={(e)=>{e.target.style.display='none'}} />}
-                                                            <div className="card-info">
-                                                                <span className="card-name">{d.loc}</span>
-                                                                <span className="card-rarity-row">
-                                                                     <span className={`card-pct ${d.rarityClass}`}></span>
-                                                                     {d.isVaultedRelic && <span className="vaulted-mini-tag">V</span>}
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                    );
-                                                })}
-                                            </div>
-                                        )}
-
-                                        {/* SE È BASE: MOSTRA TABELLA MISSIONI */}
-                                        {!isPrime && (
-                                            <div style={{marginTop:'5px', background:'#121215', border:'1px solid #333', borderRadius:'4px', overflow:'hidden'}}>
-                                                {partMissions.length > 0 ? (
-                                                    <table className="mission-relics-table">
-                                                        <tbody>
-                                                            {partMissions.map((m, i) => (
-                                                                <tr key={i}>
-                                                                    <td style={{color:'#fff', fontSize:'11px', padding:'6px 10px'}}>{m.loc}</td>
-                                                                    <td style={{textAlign:'center', color:'var(--gold)', fontSize:'11px', width:'50px'}}>{m.rot}</td>
-                                                                    <td style={{textAlign:'right', color:'#888', fontSize:'11px', width:'60px'}}>{(m.chance*100).toFixed(1)}%</td>
-                                                                </tr>
-                                                            ))}
-                                                        </tbody>
-                                                    </table>
-                                                ) : (
-                                                    <div style={{padding:'10px', fontSize:'11px', color:'#555', fontStyle:'italic', textAlign:'center'}}>
-                                                        Check Market / Dojo / Quest
-                                                    </div>
-                                                )}
-                                            </div>
-                                        )}
+                        {isRelicItem && (
+                            <div style={{display:'flex', flexDirection:'column', gap:'5px'}}>
+                                {sortedRewards.map((r, i) => (
+                                    <div key={i} style={{display:'flex', justifyContent:'space-between', padding:'8px', borderBottom:'1px solid #222', fontSize:'13px'}}>
+                                        <span style={{color: '#aaa'}}>{r.itemName || r.item?.name}</span>
+                                        <span style={{fontWeight:'bold', color:'var(--gold)'}}>{(r.chance*100).toFixed(0)}%</span>
                                     </div>
-                                );
-                            })}
-                        </div>
+                                ))}
+                            </div>
+                        )}
+
+                        {!isRelicItem && fullComponentsList.map((comp, idx) => {
+                            const cleanName = getCleanPartName(comp.name);
+                            const partMissions = baseStrategies[cleanName] || [];
+                            
+                            return (
+                                <div key={idx} className="component-row">
+                                    <div className="component-header">
+                                        <div className="component-icon"><img src={`${IMG_BASE_URL}/${comp.imageName}`} alt="" style={{opacity: comp.name === "MAIN BP" ? 0.7 : 1}}/></div>
+                                        <div style={{flex:1}}>
+                                            <strong style={{color:'#eee', fontSize:'13px'}}>{cleanName}</strong>
+                                        </div>
+                                        <span className="count-badge">x{comp.itemCount}</span>
+                                    </div>
+
+                                    {/* SE È PRIME: MOSTRA LE RELIQUIE (Grid) */}
+                                    {isPrime && (
+                                        <div className="relic-cards-grid">
+                                            {formatDropsWithVaultCheck(comp.drops).map((d, i) => {
+                                                const isSelected = d.relicID && selectedRelics.has(d.relicID);
+                                                return (
+                                                    <div key={i} onClick={() => d.isRelic && handleRelicClick(d.relicID)}
+                                                        className={`mini-relic-card ${isSelected ? 'selected' : ''} ${d.isVaultedRelic ? 'is-vaulted' : ''}`}
+                                                    >
+                                                        {d.imagePath && <img src={d.imagePath} className="relic-card-img" onError={(e)=>{e.target.style.display='none'}} />}
+                                                        <div className="card-info">
+                                                            <span className="card-name">{d.loc}</span>
+                                                            <span className={`card-pct ${d.rarityClass}`}>{d.isVaultedRelic && <span className="vaulted-mini-tag">V</span>}</span>
+                                                        </div>
+                                                    </div>
+                                                );
+                                            })}
+                                        </div>
+                                    )}
+
+                                    {/* SE È BASE: MOSTRA TABELLA MISSIONI DIRETTAMENTE QUI */}
+                                    {!isPrime && (
+                                        <div style={{marginTop:'5px', background:'#121215', border:'1px solid #333', borderRadius:'4px', overflow:'hidden'}}>
+                                            {partMissions.length > 0 ? (
+                                                <table className="mission-relics-table">
+                                                    <tbody>
+                                                        {partMissions.map((m, i) => (
+                                                            <tr key={i}>
+                                                                <td style={{color:'#fff', fontSize:'11px', padding:'6px 10px'}}>{m.loc}</td>
+                                                                <td style={{textAlign:'center', color:'var(--gold)', fontSize:'11px', width:'50px'}}>{m.rot}</td>
+                                                                <td style={{textAlign:'right', color:'#888', fontSize:'11px', width:'60px'}}>{(m.chance*100).toFixed(1)}%</td>
+                                                            </tr>
+                                                        ))}
+                                                    </tbody>
+                                                </table>
+                                            ) : (
+                                                <div style={{padding:'10px', fontSize:'11px', color:'#555', fontStyle:'italic', textAlign:'center'}}>
+                                                    Check Market / Dojo / Quest
+                                                </div>
+                                            )}
+                                        </div>
+                                    )}
+                                </div>
+                            );
+                        })}
                     </div>
 
-                    {/* COLONNA 3: STRATEGIA */}
+                    {/* COLONNA 3: STRATEGIA (SOLO PER PRIME) */}
                     {isPrime && !isRelicItem && (
                         <div className="col-right">
-                             <div className="col-header-sticky">
-                                <div style={{display:'flex', justifyContent:'space-between', alignItems:'baseline'}}>
-                                    <h3 className="section-title" style={{color:'var(--gold)', margin:0}}>
-                                        {loadingStrategies ? statusMsg : (selectedRelics.size > 0 ? `FILTERED FARMING` : "OPTIMAL LOCATIONS")}
-                                    </h3>
-                                    {selectedRelics.size > 0 && <span style={{fontSize:'10px', color:'#666', cursor:'pointer', textDecoration:'underline'}} onClick={()=>setSelectedRelics(new Set())}>CLEAR FILTER</span>}
-                                </div>
-                             </div>
+                            <div style={{display:'flex', justifyContent:'space-between', alignItems:'baseline', marginBottom:'10px'}}>
+                                <h3 className="section-title" style={{color:'var(--gold)', margin:0}}>
+                                    {loadingStrategies ? statusMsg : (selectedRelics.size > 0 ? `FILTERED FARMING` : "OPTIMAL LOCATIONS")}
+                                </h3>
+                                {selectedRelics.size > 0 && <span style={{fontSize:'10px', color:'#666', cursor:'pointer'}} onClick={()=>setSelectedRelics(new Set())}>(CLEAR)</span>}
+                            </div>
                             
-                            <div className="col-content-scroll strategy-container">
+                            <div className="strategy-container">
                                 {smartMissions.length > 0 ? smartMissions.map((mission, idx) => (
                                     <div key={idx} className="mission-block">
                                         <div className="mission-block-header">
                                             <div className="mission-name-large">{mission.missionName}</div>
-                                            {!selectedRelics.size && <div style={{fontSize:'11px', color:'#fff', fontWeight:'bold', background:'rgba(255,255,255,0.1)', padding:'2px 6px', borderRadius:'3px'}}>{(mission.totalScore*100).toFixed(0)}%</div>}
+                                            {!selectedRelics.size && <div style={{fontSize:'10px', color:'#666', fontWeight:'bold'}}>{(mission.totalScore*100).toFixed(0)}% TOT</div>}
                                         </div>
                                         <table className="mission-relics-table">
                                             <thead>
                                                 <tr>
-                                                    <th style={{width:'35%', textAlign:'left', paddingLeft:'10px'}}>RELIC</th>
-                                                    <th style={{width:'25%', textAlign:'center'}}>PART</th>
-                                                    <th style={{width:'15%', textAlign:'center'}}>ROT</th>
-                                                    <th style={{width:'25%', textAlign:'right', paddingRight:'10px'}}>%</th>
+                                                    <th style={{width:'30%'}}>RELIC</th>
+                                                    <th style={{width:'20%', textAlign:'center'}}>PART</th>
+                                                    <th style={{width:'20%', textAlign:'center'}}>ROT</th>
+                                                    <th style={{width:'30%', textAlign:'right'}}>%</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
                                                 {mission.relicsFound.sort((a,b)=>b.maxChance - a.maxChance).map((r, i) => (
                                                     <tr key={i}>
-                                                        <td style={{color:'#ddd', fontWeight:'bold', paddingLeft:'10px'}}>{r.id}</td>
+                                                        <td style={{color:'#fff', fontWeight:'bold'}}>{r.id}</td>
                                                         <td style={{textAlign:'center'}}><span className="part-badge">{r.part}</span></td>
                                                         <td style={{textAlign:'center', color:'var(--gold)'}}>{(r.drops||[]).map(d=>d.rot).join('|')}</td>
-                                                        <td style={{textAlign:'right', color:'#aaa', paddingRight:'10px'}}>{(r.drops||[]).map(d=>(d.chance*100).toFixed(0)).join('|')}%</td>
+                                                        <td style={{textAlign:'right', color:'#aaa'}}>{(r.drops||[]).map(d=>(d.chance*100).toFixed(0)).join('|')}%</td>
                                                     </tr>
                                                 ))}
                                             </tbody>
