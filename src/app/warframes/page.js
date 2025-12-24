@@ -1,13 +1,10 @@
-"use client";
-import { Suspense } from 'react';
+import { fetchGameData } from '@/utils/serverData';
 import CodexListPage from '@/components/CodexListPage';
 
-// CONFIGURAZIONE CATEGORIE (ALL, BASE, PRIME)
 const WARFRAME_CATEGORIES = [
     {
         id: 'all',
         label: 'ALL',
-        // RIMUOVE I NECRAMECH
         filter: (item) => 
             (item.type || "").toLowerCase().includes('warframe') && 
             item.category === 'Warframes' &&
@@ -34,14 +31,19 @@ const WARFRAME_CATEGORIES = [
     }
 ];
 
-export default function Page() {
+export default async function Page() {
+    // Carichiamo anche RelicLookup per il calcolo Vaulted Server-Side/Hybrid
+    const [data, lookup] = await Promise.all([
+        fetchGameData('Warframes.json'),
+        fetchGameData('RelicLookup.json')
+    ]);
+
     return (
-        <Suspense fallback={<div style={{color:'#fff', padding:'50px', textAlign:'center'}}>Loading Interface...</div>}>
-            <CodexListPage 
-                filesToLoad={['Warframes.json']} 
-                pageTitle="WARFRAMES" 
-                customCategories={WARFRAME_CATEGORIES}
-            />
-        </Suspense>
+        <CodexListPage 
+            initialData={data} 
+            lookupData={lookup}
+            pageTitle="WARFRAMES" 
+            customCategories={WARFRAME_CATEGORIES}
+        />
     );
 }

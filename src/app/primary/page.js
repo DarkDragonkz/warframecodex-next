@@ -1,5 +1,4 @@
-"use client";
-import { Suspense } from 'react';
+import { fetchGameData } from '@/utils/serverData';
 import CodexListPage from '@/components/CodexListPage';
 
 const PRIMARY_CATEGORIES = [
@@ -20,14 +19,19 @@ const PRIMARY_CATEGORIES = [
     }
 ];
 
-export default function Page() {
+export default async function Page() {
+    // Anche qui passiamo il lookup se serve per calcolare se un'arma prime è vaulted
+    const [data, lookup] = await Promise.all([
+        fetchGameData('Primary.json'),
+        fetchGameData('RelicLookup.json')
+    ]);
+
     return (
-        <Suspense fallback={<div style={{color:'#fff', padding:'50px', textAlign:'center'}}>Loading Arsenal...</div>}>
-            <CodexListPage 
-                filesToLoad={['Primary.json']} 
-                pageTitle="PRIMARY WEAPONS" 
-                customCategories={PRIMARY_CATEGORIES}
-            />
-        </Suspense>
+        <CodexListPage 
+            initialData={data} 
+            lookupData={lookup}
+            pageTitle="PRIMARY WEAPONS" 
+            customCategories={PRIMARY_CATEGORIES}
+        />
     );
 }

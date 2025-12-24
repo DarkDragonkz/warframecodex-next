@@ -1,12 +1,11 @@
-"use client";
-import { Suspense } from 'react';
+import { fetchGameData } from '@/utils/serverData';
 import CodexListPage from '@/components/CodexListPage';
 
 const COMPANION_CATEGORIES = [
     {
         id: 'all',
         label: 'ALL',
-        filter: (item) => item.category === 'Sentinels' // O 'Pets' se il file li include
+        filter: (item) => item.category === 'Sentinels'
     },
     {
         id: 'base',
@@ -20,14 +19,18 @@ const COMPANION_CATEGORIES = [
     }
 ];
 
-export default function Page() {
+export default async function Page() {
+    const [data, lookup] = await Promise.all([
+        fetchGameData('Sentinels.json'),
+        fetchGameData('RelicLookup.json')
+    ]);
+
     return (
-        <Suspense fallback={<div style={{color:'#fff', padding:'50px', textAlign:'center'}}>Loading Sentinels...</div>}>
-            <CodexListPage 
-                filesToLoad={['Sentinels.json']} 
-                pageTitle="COMPANIONS" 
-                customCategories={COMPANION_CATEGORIES}
-            />
-        </Suspense>
+        <CodexListPage 
+            initialData={data} 
+            lookupData={lookup}
+            pageTitle="COMPANIONS" 
+            customCategories={COMPANION_CATEGORIES}
+        />
     );
 }

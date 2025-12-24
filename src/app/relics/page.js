@@ -1,8 +1,6 @@
-"use client";
-import { Suspense } from 'react';
+import { fetchGameData } from '@/utils/serverData';
 import CodexListPage from '@/components/CodexListPage';
 
-// --- Definizione Categorie (Resta invariata) ---
 const createEraCategory = (id, label, eraName) => ({
     id: id,
     label: label,
@@ -24,15 +22,14 @@ const RELIC_CATEGORIES = [
     createEraCategory('requiem', 'REQUIEM', 'Requiem'),
 ];
 
-export default function Page() {
+export default async function Page() {
+    const data = await fetchGameData('Relics.json');
+
     return (
-        <Suspense fallback={<div style={{color:'#fff', padding:'50px', textAlign:'center'}}>Loading Void Fissures...</div>}>
-            <CodexListPage 
-                // Dice al componente di caricare "Relics.json" dalla cartella base configurata
-                filesToLoad={['Relics.json']} 
-                pageTitle="VOID RELICS" 
-                customCategories={RELIC_CATEGORIES}
-            />
-        </Suspense>
+        <CodexListPage 
+            initialData={data} 
+            pageTitle="VOID RELICS" 
+            customCategories={RELIC_CATEGORIES}
+        />
     );
 }

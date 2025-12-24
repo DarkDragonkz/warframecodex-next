@@ -1,5 +1,4 @@
-"use client";
-import { Suspense } from 'react';
+import { fetchGameData } from '@/utils/serverData';
 import CodexListPage from '@/components/CodexListPage';
 
 const SECONDARY_CATEGORIES = [
@@ -20,14 +19,18 @@ const SECONDARY_CATEGORIES = [
     }
 ];
 
-export default function Page() {
+export default async function Page() {
+    const [data, lookup] = await Promise.all([
+        fetchGameData('Secondary.json'),
+        fetchGameData('RelicLookup.json')
+    ]);
+
     return (
-        <Suspense fallback={<div style={{color:'#fff', padding:'50px', textAlign:'center'}}>Loading Sidearms...</div>}>
-            <CodexListPage 
-                filesToLoad={['Secondary.json']} 
-                pageTitle="SECONDARY WEAPONS" 
-                customCategories={SECONDARY_CATEGORIES}
-            />
-        </Suspense>
+        <CodexListPage 
+            initialData={data} 
+            lookupData={lookup}
+            pageTitle="SECONDARY WEAPONS" 
+            customCategories={SECONDARY_CATEGORIES}
+        />
     );
 }

@@ -1,18 +1,23 @@
 "use client";
 import { useState, useEffect, useMemo, Suspense } from 'react';
 import { useRouter, usePathname, useSearchParams } from 'next/navigation';
-// IMPORTANTE: Link gestisce automaticamente il percorso /warframecodex-next/
-import Link from 'next/link'; 
+import Link from 'next/link';
 import CodexCard from './CodexCard';
-import WarframeDetailModal from './WarframeDetailModal';
+// Import Dinamico per il Modale (Code Splitting)
+import dynamic from 'next/dynamic';
 import { useOwnedItems } from '@/hooks/useOwnedItems';
-import { API_BASE_URL } from '@/utils/constants';
 import '@/app/hud-layout.css'; 
 
-function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, manualData = null }) {
+// Carica il modale solo quando richiesto dal browser
+const WarframeDetailModal = dynamic(() => import('./WarframeDetailModal'), {
+    loading: () => <div style={{position:'fixed', inset:0, zIndex:2000, display:'flex', alignItems:'center', justifyContent:'center', background:'rgba(0,0,0,0.8)', color:'white'}}>Loading Interface...</div>,
+    ssr: false // Il modale non serve lato server
+});
+
+function CodexContent({ pageTitle, customCategories = null, initialData = [], lookupData = null }) {
+    // initialData viene ora passato dal Server Component
     const [rawApiData, setRawApiData] = useState([]);
     const [loading, setLoading] = useState(true);
-    const [errorMsg, setErrorMsg] = useState(null);
     
     const searchParams = useSearchParams();
     const router = useRouter();
@@ -23,90 +28,76 @@ function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, ma
     const defaultCat = customCategories ? customCategories[0].id : 'all';
     const subCategory = searchParams.get('sub') || defaultCat;
     const [activeSubFilter, setActiveSubFilter] = useState('all');
-    const [searchTerm, setSearchTerm] = useState("");
     
+    // Gestione Ricerca con Debounce
+    const [searchTerm, setSearchTerm] = useState("");
+    const [debouncedSearch, setDebouncedSearch] = useState("");
+
     const [showMissingOnly, setShowMissingOnly] = useState(false);
     const [hideVaulted, setHideVaulted] = useState(false);
     const [visibleCount, setVisibleCount] = useState(60);
 
     const activeConfig = customCategories ? customCategories.find(c => c.id === subCategory) : null;
 
+    // Effetto Debounce per la ricerca
     useEffect(() => {
-        async function load() {
-            setLoading(true);
-            setErrorMsg(null);
+        const timer = setTimeout(() => {
+            setDebouncedSearch(searchTerm);
+        }, 300); // Ritardo di 300ms
+        return () => clearTimeout(timer);
+    }, [searchTerm]);
+
+    // Processamento Iniziale Dati (Eseguito una sola volta all'avvio)
+    useEffect(() => {
+        if (initialData && initialData.length > 0) {
+            const activeRelicsSet = new Set(lookupData ? Object.keys(lookupData) : []);
             
-            if (manualData && manualData.length > 0) {
-                 const processed = manualData
-                    .filter(i => i && !i.uniqueName.includes("RANDOM") && i.imageName) 
-                    .map(item => ({ ...item, maxRank: item.fusionLimit || item.maxLevel || 30 }));
-                const uniqueItems = Array.from(new Map(processed.map(item => [item.name, item])).values());
-                uniqueItems.sort((a, b) => a.name.localeCompare(b.name));
-                setRawApiData(uniqueItems);
-                setLoading(false);
-                return;
-            }
+            const processed = initialData
+                .filter(i => i && !i.uniqueName.includes("RANDOM") && i.imageName) 
+                .map(item => {
+                    let computedVaulted = !!item.vaulted; 
 
-            try {
-                if (filesToLoad.length === 0) { setLoading(false); return; }
-
-                // Carica i dati JSON dal tuo repo
-                const [dataResults, lookupRes] = await Promise.all([
-                    Promise.all(filesToLoad.map(f => fetch(`${API_BASE_URL}/${f}`).then(r => r.json()))),
-                    fetch(`${API_BASE_URL}/RelicLookup.json`).then(r => r.ok ? r.json() : null)
-                ]);
-
-                const activeRelicsSet = new Set(lookupRes ? Object.keys(lookupRes) : []);
-                const merged = dataResults.flat();
-                
-                const processed = merged
-                    .filter(i => i && !i.uniqueName.includes("RANDOM") && i.imageName) 
-                    .map(item => {
-                        let computedVaulted = !!item.vaulted; 
-
-                        if (item.name.includes('Prime') && lookupRes) {
-                            const relicNames = [];
-                            if (item.components) {
-                                item.components.forEach(c => {
-                                    if(c.drops) c.drops.forEach(d => {
-                                        const match = d.location.toUpperCase().match(/(LITH|MESO|NEO|AXI|REQUIEM)\s+([A-Z0-9]+)/);
-                                        if (match) relicNames.push(`${match[1]} ${match[2]}`);
-                                    });
+                    // Logica calcolo Vaulted per i Prime basata sul Lookup passato dal server
+                    if (item.name.includes('Prime') && lookupData) {
+                        const relicNames = [];
+                        if (item.components) {
+                            item.components.forEach(c => {
+                                if(c.drops) c.drops.forEach(d => {
+                                    const match = d.location.toUpperCase().match(/(LITH|MESO|NEO|AXI|REQUIEM)\s+([A-Z0-9]+)/);
+                                    if (match) relicNames.push(`${match[1]} ${match[2]}`);
                                 });
-                            }
-                            
-                            if (relicNames.length > 0) {
-                                const hasActiveRelic = relicNames.some(r => activeRelicsSet.has(r));
-                                if (!hasActiveRelic) computedVaulted = true; 
-                                else computedVaulted = false; 
-                            }
+                            });
                         }
+                        
+                        if (relicNames.length > 0) {
+                            const hasActiveRelic = relicNames.some(r => activeRelicsSet.has(r));
+                            if (!hasActiveRelic) computedVaulted = true; 
+                            else computedVaulted = false; 
+                        }
+                    }
 
-                        return {
-                            ...item,
-                            vaulted: computedVaulted, 
-                            maxRank: item.fusionLimit || item.maxLevel || 30,
-                            baseDrain: item.baseDrain || 0,
-                            polarityIcon: item.polarity ? `https://warframe.fandom.com/wiki/File:Polarity_${item.polarity.charAt(0).toUpperCase() + item.polarity.slice(1)}.png` : null 
-                        };
-                    });
+                    return {
+                        ...item,
+                        vaulted: computedVaulted, 
+                        maxRank: item.fusionLimit || item.maxLevel || 30,
+                        baseDrain: item.baseDrain || 0,
+                        polarityIcon: item.polarity ? `https://warframe.fandom.com/wiki/File:Polarity_${item.polarity.charAt(0).toUpperCase() + item.polarity.slice(1)}.png` : null 
+                    };
+                });
 
-                const uniqueItems = Array.from(new Map(processed.map(item => [item.name, item])).values());
-                uniqueItems.sort((a, b) => a.name.localeCompare(b.name));
-                
-                setRawApiData(uniqueItems);
-            } catch (e) { 
-                console.error("Load error:", e);
-                setErrorMsg(e.message);
-            }
-            finally { setLoading(false); }
+            // Rimuovi duplicati e ordina
+            const uniqueItems = Array.from(new Map(processed.map(item => [item.name, item])).values());
+            uniqueItems.sort((a, b) => a.name.localeCompare(b.name));
+            
+            setRawApiData(uniqueItems);
+            setLoading(false);
         }
-        load();
-    }, [filesToLoad.join(','), manualData]);
+    }, [initialData, lookupData]);
 
     const processedData = useMemo(() => {
         return rawApiData.filter(item => {
-            if (searchTerm && !item.name.toLowerCase().includes(searchTerm)) return false;
+            // Usa debouncedSearch invece di searchTerm diretto
+            if (debouncedSearch && !item.name.toLowerCase().includes(debouncedSearch)) return false;
             if (showMissingOnly && ownedCards.has(item.uniqueName)) return false;
             if (hideVaulted && item.vaulted) return false;
             
@@ -117,7 +108,7 @@ function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, ma
             }
             return true;
         });
-    }, [rawApiData, subCategory, activeSubFilter, searchTerm, showMissingOnly, hideVaulted, ownedCards, activeConfig]);
+    }, [rawApiData, subCategory, activeSubFilter, debouncedSearch, showMissingOnly, hideVaulted, ownedCards, activeConfig]);
 
     const handleCategoryChange = (id) => {
         const p = new URLSearchParams(searchParams.toString());
@@ -127,7 +118,6 @@ function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, ma
     };
 
     if (loading) return <div style={{padding:'50px', color:'#fff', textAlign:'center'}}>INITIALIZING ORDIS DATABASE...</div>;
-    if (errorMsg) return <div style={{padding:'50px', color:'red', textAlign:'center'}}>{errorMsg}</div>;
 
     const pct = rawApiData.length > 0 ? Math.round((ownedCards.size / rawApiData.length) * 100) : 0;
 
@@ -136,7 +126,6 @@ function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, ma
             <div className="header-group">
                 <div className="nav-top-row">
                     <div className="nav-brand">
-                        {/* FIX: Usando Link invece di <a> il percorso GitHub viene rispettato */}
                         <Link href="/" className="nav-home-btn">⌂ HOME</Link>
                         <h1 className="page-title">{pageTitle}</h1>
                     </div>
@@ -176,7 +165,13 @@ function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, ma
                     
                     <div className="filters-right">
                          <div className="search-wrapper">
-                            <input type="text" className="search-input" placeholder="SEARCH..." value={searchTerm} onChange={(e) => setSearchTerm(e.target.value.toLowerCase())} />
+                            <input 
+                                type="text" 
+                                className="search-input" 
+                                placeholder="SEARCH..." 
+                                value={searchTerm} 
+                                onChange={(e) => setSearchTerm(e.target.value.toLowerCase())} 
+                            />
                         </div>
                         <label className="toggle-filter">
                             <input type="checkbox" style={{display:'none'}} checked={hideVaulted} onChange={(e) => setHideVaulted(e.target.checked)} />
@@ -204,6 +199,7 @@ function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, ma
                     ))}
                 </div>
             </div>
+            
             {selectedItem && (
                 <WarframeDetailModal item={selectedItem} onClose={() => setSelectedItem(null)} ownedItems={ownedCards} onToggle={toggleOwned} />
             )}

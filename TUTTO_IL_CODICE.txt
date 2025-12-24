@@ -1,4 +1,4 @@
-DATA DUMP: 2025-12-23T13:12:21.931Z
+DATA DUMP: 2025-12-24T01:22:17.330Z
 
 
 
@@ -953,11 +953,10 @@ FILE: src\app\mods\page.js
 "use client";
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { useRouter } from 'next/navigation';
-// Importiamo le costanti del progetto per coerenza (API e Immagini)
+// IMPORTANTE: Link per il routing corretto su GitHub
+import Link from 'next/link';
 import { API_BASE_URL, IMG_BASE_URL } from '@/utils/constants';
-// Importiamo lo stile globale del layout HUD
 import '@/app/hud-layout.css'; 
-// Importiamo lo stile specifico per le carte mod
 import './mods.css';
 
 const STORAGE_KEY = 'warframe_codex_mods_v1';
@@ -977,22 +976,19 @@ export default function ModsPage() {
     // Infinite Scroll
     const [visibleCount, setVisibleCount] = useState(60);
     
-    // --- 1. LOGICA DI CARICAMENTO (COERENTE CON IL RESTO DEL SITO) ---
+    // --- 1. CARICAMENTO DATI ---
     useEffect(() => {
         let isMounted = true;
         async function loadData() {
             setLoading(true);
             try {
-                // Fetch dai file JSON locali (API_BASE_URL) invece che da unpkg
                 const [modsRes, arcanesRes] = await Promise.all([
                     fetch(`${API_BASE_URL}/Mods.json`),
                     fetch(`${API_BASE_URL}/Arcanes.json`)
                 ]);
                 
                 if (!isMounted) return;
-
-                // Gestione errori se i file non esistono
-                if (!modsRes.ok || !arcanesRes.ok) throw new Error("Impossible to load Mods/Arcanes local DB");
+                if (!modsRes.ok || !arcanesRes.ok) throw new Error("API Error");
 
                 const modsData = await modsRes.json();
                 const arcanesData = await arcanesRes.json();
@@ -1002,29 +998,23 @@ export default function ModsPage() {
                 const ids = new Set();
 
                 combined.forEach(item => {
-                    // Filtri di pulizia base
                     if (!item.imageName || item.name.includes("Riven") || (item.uniqueName && item.uniqueName.includes("/PVP"))) return;
                     if (item.uniqueName && item.uniqueName.toLowerCase().includes("setmod")) return; 
                     if (ids.has(item.name)) return; 
                     
                     ids.add(item.name);
                     
-                    // Pre-calcolo stringa ricerca
                     const dropLocs = item.drops ? item.drops.map(d => d.location).join(" ") : "";
                     item.searchString = `${item.name} ${item.type} ${item.category || ""} ${dropLocs}`.toLowerCase();
                     
-                    // Normalizziamo i dati per il componente ModCard
-                    // Calcolo Max Rank (fusionLimit)
-                    item.maxRank = item.fusionLimit || (item.levelStats ? item.levelStats.length - 1 : 5);
+                    item.maxRank = (typeof item.fusionLimit === 'number') ? item.fusionLimit : 5;
                     
                     processed.push(item);
                 });
 
-                // Ordinamento alfabetico iniziale
                 processed.sort((a, b) => a.name.localeCompare(b.name));
                 setRawApiData(processed);
                 
-                // Load LocalStorage
                 const saved = localStorage.getItem(STORAGE_KEY);
                 if (saved) {
                     try { setOwnedCards(new Set(JSON.parse(saved))); } catch (e) { console.error(e); }
@@ -1037,14 +1027,14 @@ export default function ModsPage() {
         return () => { isMounted = false; };
     }, []);
 
-    // 2. Salvataggio automatico
+    // 2. Salvataggio
     useEffect(() => {
         if (!loading && typeof window !== 'undefined') {
             localStorage.setItem(STORAGE_KEY, JSON.stringify([...ownedCards]));
         }
     }, [ownedCards, loading]);
 
-    // 3. Filtraggio (Logica originale mantenuta)
+    // 3. Filtri
     const filteredData = useMemo(() => {
         let data = rawApiData.filter(item => {
             if (searchTerm && !item.searchString.includes(searchTerm)) return false;
@@ -1073,7 +1063,6 @@ export default function ModsPage() {
             }
         });
 
-        // Ordinamento
         const rarityMap = { 'Common': 1, 'Uncommon': 2, 'Rare': 3, 'Legendary': 4 };
         data.sort((a, b) => {
             if (currentSort === 'name') return a.name.localeCompare(b.name);
@@ -1106,10 +1095,10 @@ export default function ModsPage() {
     return (
         <div className="codex-layout">
             <div className="header-group">
-                {/* TOP ROW: HOME, TITLE, STATS */}
                 <div className="nav-top-row">
                     <div className="nav-brand">
-                        <a href="/" className="nav-home-btn">⌂ HOME</a>
+                        {/* FIX: Link gestisce il basePath automaticamente */}
+                        <Link href="/" className="nav-home-btn">⌂ HOME</Link>
                         <h1 className="page-title">MODS & ARCANES</h1>
                     </div>
                     <div className="stats-right">
@@ -1124,7 +1113,6 @@ export default function ModsPage() {
                     </div>
                 </div>
 
-                {/* CONTROLS ROW */}
                 <div className="controls-row">
                     <div className="filters-left" style={{overflowX:'auto', maxWidth:'60%'}}>
                         <div className="category-tabs" style={{flexWrap:'nowrap'}}>
@@ -1141,6 +1129,12 @@ export default function ModsPage() {
                     </div>
                     
                     <div className="filters-right">
+                        <div className="legend-box">
+                            <div className="legend-item"><span className="dot-leg mission"></span>MISSION</div>
+                            <div className="legend-item"><span className="dot-leg enemy"></span>ENEMY</div>
+                            <div className="legend-item"><span className="dot-leg shop"></span>SHOP</div>
+                        </div>
+
                         <div className="search-wrapper">
                             <input 
                                 type="text" className="search-input" placeholder="SEARCH..." 
@@ -1170,7 +1164,6 @@ export default function ModsPage() {
                 <div className="progress-line-container"><div className="progress-line-fill" style={{width: `${pct}%`}}></div></div>
             </div>
 
-            {/* GALLERY SCROLL AREA */}
             <div 
                 className="gallery-scroll-area" 
                 onScroll={(e) => {
@@ -1200,17 +1193,14 @@ export default function ModsPage() {
 function ModCard({ item, isOwned, onToggle }) {
     const [flipped, setFlipped] = useState(false);
     const [rank, setRank] = useState(0);
-    const maxRank = item.maxRank || 5; 
+    const maxRank = item.maxRank || 0; 
 
-    // Helper per descrizione dinamica
     const getDescription = () => {
         let desc = item.description || "";
         if (item.levelStats && item.levelStats.length > 0) {
-            // Usa levelStats se disponibile
             const statIndex = Math.min(rank, item.levelStats.length - 1);
             return item.levelStats[statIndex].stats.join('<br>');
         }
-        // Fallback regex se levelStats manca
         return desc.replace(/(\d+(\.\d+)?)/g, (match) => {
             const maxVal = parseFloat(match);
             const baseVal = maxVal / (maxRank + 1);
@@ -1220,8 +1210,6 @@ function ModCard({ item, isOwned, onToggle }) {
     };
 
     const currentDrain = (item.baseDrain || 0) + rank;
-    
-    // ** MODIFICA CHIAVE: Uso IMG_BASE_URL locale invece del CDN esterno **
     const imgUrl = `${IMG_BASE_URL}/${item.imageName}`;
     
     const rarity = item.rarity || "Common";
@@ -1230,18 +1218,36 @@ function ModCard({ item, isOwned, onToggle }) {
     if (rarity === 'Legendary') nameColor = '#b0c9ec';
     if (item.category === 'Arcanes') nameColor = '#00ffcc';
 
-    // Helper Drops
+    const openWiki = (e) => {
+        e.stopPropagation();
+        const safeName = item.name.replace(/ /g, '_');
+        window.open(`https://warframe.fandom.com/wiki/${safeName}`, '_blank');
+    };
+
     const renderDrops = () => {
         if (!item.drops || item.drops.length === 0) return <div className="mod-no-drop">Source Unknown / Quest / Market</div>;
-        return item.drops.slice(0, 8).map((d, i) => (
-            <div key={i} className="mod-drop-row">
-                <div className="mod-drop-header">
-                    <span className="mod-drop-loc">{d.location}</span>
-                    <span className="mod-drop-pct">{(d.chance * 100).toFixed(2)}%</span>
+        
+        const getDropType = (d) => d.location.includes("Rot") || d.type?.includes("Mission") ? 'mission' : 'enemy';
+
+        return item.drops.slice(0, 8).map((d, i) => {
+            const type = getDropType(d);
+            const barColor = type === 'mission' ? 'var(--mission)' : 'var(--enemy)';
+            
+            return (
+                <div key={i} className="mod-drop-row">
+                    <div className="mod-drop-header">
+                        <span className="mod-drop-loc">
+                            <span className={`dot-leg ${type}`} style={{display:'inline-block', marginRight:'5px'}}></span>
+                            {d.location}
+                        </span>
+                        <span className="mod-drop-pct">{(d.chance * 100).toFixed(2)}%</span>
+                    </div>
+                    <div className="mod-drop-bar-bg">
+                        <div className="mod-drop-bar-fill" style={{width:`${Math.min(100, d.chance * 100 * 4)}%`, background: barColor}}></div>
+                    </div>
                 </div>
-                <div className="mod-drop-bar-bg"><div className="mod-drop-bar-fill" style={{width:`${Math.min(100, d.chance * 100 * 4)}%`}}></div></div>
-            </div>
-        ));
+            );
+        });
     };
 
     return (
@@ -1266,7 +1272,6 @@ function ModCard({ item, isOwned, onToggle }) {
                             className="mod-card-img" 
                             alt={item.name} 
                             loading="lazy" 
-                            // Fallback se l'immagine locale manca (opzionale)
                             onError={(e)=>{e.target.style.display='none';}} 
                         />
                     </div>
@@ -1276,15 +1281,17 @@ function ModCard({ item, isOwned, onToggle }) {
                         <div className="mod-name" style={{color: nameColor}}>{item.name}</div>
                         <div className="mod-desc" dangerouslySetInnerHTML={{__html: getDescription()}}></div>
 
-                        <div className="mod-rank-controls" onClick={(e) => e.stopPropagation()}>
-                            <button className="mod-rank-btn" onClick={() => setRank(Math.max(0, rank - 1))}>-</button>
-                            <div className="mod-ranks-dots">
-                                {Array.from({length: Math.min(10, maxRank + 1)}).map((_, i) => (
-                                    <div key={i} className={`mod-dot ${i <= (rank / maxRank * 10) ? 'active' : ''}`}></div>
-                                ))}
+                        {maxRank > 0 && (
+                            <div className="mod-rank-controls" onClick={(e) => e.stopPropagation()}>
+                                <button className="mod-rank-btn" onClick={() => setRank(Math.max(0, rank - 1))}>-</button>
+                                <div className="mod-ranks-dots">
+                                    {Array.from({length: maxRank + 1}).map((_, i) => (
+                                        <div key={i} className={`mod-dot ${i <= rank && i > 0 ? 'active' : ''}`}></div>
+                                    ))}
+                                </div>
+                                <button className="mod-rank-btn" onClick={() => setRank(Math.min(maxRank, rank + 1))}>+</button>
                             </div>
-                            <button className="mod-rank-btn" onClick={() => setRank(Math.min(maxRank, rank + 1))}>+</button>
-                        </div>
+                        )}
                     </div>
                 </div>
 
@@ -1297,9 +1304,9 @@ function ModCard({ item, isOwned, onToggle }) {
                     <div className="mod-source-content">
                         {renderDrops()}
                     </div>
-                    <a href={`https://warframe.fandom.com/wiki/${item.name.replace(/ /g, '_')}`} target="_blank" className="mod-wiki-btn" onClick={(e) => e.stopPropagation()}>
+                    <div className="mod-wiki-btn" onClick={openWiki}>
                         OPEN WIKI
-                    </a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -1374,28 +1381,26 @@ function ApiImageCard({ cat }) {
         let isMounted = true;
         async function fetchImage() {
             try {
+                // Fetch corretta usando API_BASE_URL aggiornato
                 const res = await fetch(`${API_BASE_URL}/${cat.jsonFile}`);
                 if (!res.ok) return;
                 const data = await res.json();
                 
-                // Logica per scegliere l'immagine di copertina migliore
                 let targetItem;
                 if (cat.id === 'relics') {
-                    // Per le reliquie cerchiamo una Intact carina
                     targetItem = data.find(item => item.imageName && item.name.includes('Intact'));
                 } else {
-                    // Per il resto, preferiamo i Prime
                     targetItem = data.find(item => item.name.includes("Prime") && item.imageName);
                 }
                 
-                // Fallback sul primo elemento valido se non trova Prime
                 const firstValid = targetItem || data.find(item => item.imageName && !item.imageName.includes("fanart"));
                 
                 if (firstValid && isMounted) {
+                    // Immagine corretta usando IMG_BASE_URL aggiornato
                     setImgUrl(`${IMG_BASE_URL}/${firstValid.imageName}`);
                 }
             } catch (e) { 
-                console.error(`Errore img ${cat.id}`, e); 
+                console.error(`Img error ${cat.id}`, e); 
             }
         }
         fetchImage();
@@ -1406,7 +1411,6 @@ function ApiImageCard({ cat }) {
         <Link href={cat.link} style={{textDecoration:'none'}}>
             <div 
                 className="menu-card"
-                // Passiamo i colori come variabili CSS per l'effetto hover
                 style={{ '--card-color': cat.color, '--card-glow': `${cat.color}66` }}
             >
                 <div className="card-visual-area">
@@ -1430,7 +1434,6 @@ export default function LandingPage() {
     return (
         <main className="landing-page">
             <div className="landing-content">
-                
                 <div className="landing-header">
                     <h1 className="landing-title">ORDIS CODEX</h1>
                     <div className="landing-subtitle">Tracker & Database System</div>
@@ -1447,7 +1450,6 @@ export default function LandingPage() {
                 <div className="landing-footer">
                     Operator Interface v2.0 // System Ready
                 </div>
-
             </div>
         </main>
     );
@@ -1737,6 +1739,8 @@ FILE: src\components\CodexListPage.js
 "use client";
 import { useState, useEffect, useMemo, Suspense } from 'react';
 import { useRouter, usePathname, useSearchParams } from 'next/navigation';
+// IMPORTANTE: Link gestisce automaticamente il percorso /warframecodex-next/
+import Link from 'next/link'; 
 import CodexCard from './CodexCard';
 import WarframeDetailModal from './WarframeDetailModal';
 import { useOwnedItems } from '@/hooks/useOwnedItems';
@@ -1764,7 +1768,6 @@ function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, ma
     const [visibleCount, setVisibleCount] = useState(60);
 
     const activeConfig = customCategories ? customCategories.find(c => c.id === subCategory) : null;
-    const filesHash = filesToLoad.join(',');
 
     useEffect(() => {
         async function load() {
@@ -1772,7 +1775,6 @@ function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, ma
             setErrorMsg(null);
             
             if (manualData && manualData.length > 0) {
-                 // Gestione dati manuali (semplificata)
                  const processed = manualData
                     .filter(i => i && !i.uniqueName.includes("RANDOM") && i.imageName) 
                     .map(item => ({ ...item, maxRank: item.fusionLimit || item.maxLevel || 30 }));
@@ -1786,27 +1788,21 @@ function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, ma
             try {
                 if (filesToLoad.length === 0) { setLoading(false); return; }
 
-                // 1. SCARICA I DATI PRINCIPALI (Warframes.json ecc) E IL LOOKUP RELIQUIE IN PARALLELO
+                // Carica i dati JSON dal tuo repo
                 const [dataResults, lookupRes] = await Promise.all([
                     Promise.all(filesToLoad.map(f => fetch(`${API_BASE_URL}/${f}`).then(r => r.json()))),
                     fetch(`${API_BASE_URL}/RelicLookup.json`).then(r => r.ok ? r.json() : null)
                 ]);
 
-                // Creiamo un Set delle reliquie attive per fare controlli veloci
                 const activeRelicsSet = new Set(lookupRes ? Object.keys(lookupRes) : []);
-
                 const merged = dataResults.flat();
                 
-                // 2. PROCESSA E CORREGGI I DATI
                 const processed = merged
                     .filter(i => i && !i.uniqueName.includes("RANDOM") && i.imageName) 
                     .map(item => {
-                        // --- LOGICA SMART VAULTED ---
-                        let computedVaulted = !!item.vaulted; // Partiamo dal JSON
+                        let computedVaulted = !!item.vaulted; 
 
-                        // Se è un PRIME, verifichiamo se è VERAMENTE farmabile
                         if (item.name.includes('Prime') && lookupRes) {
-                            // Cerca le reliquie nei componenti
                             const relicNames = [];
                             if (item.components) {
                                 item.components.forEach(c => {
@@ -1817,23 +1813,16 @@ function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, ma
                                 });
                             }
                             
-                            // Se ha componenti Prime MA nessuna delle sue reliquie è nel file attivo -> È VAULTED
-                            // (Nota: se relicNames è vuoto, potrebbe essere un Prime Access esclusivo o buggato, nel dubbio ci fidiamo del JSON)
                             if (relicNames.length > 0) {
                                 const hasActiveRelic = relicNames.some(r => activeRelicsSet.has(r));
-                                if (!hasActiveRelic) {
-                                    computedVaulted = true; // Forza Vaulted se nessuna reliquia è attiva
-                                } else {
-                                    // Se ha reliquie attive, è Available (corregge eventuali errori del JSON)
-                                    computedVaulted = false; 
-                                }
+                                if (!hasActiveRelic) computedVaulted = true; 
+                                else computedVaulted = false; 
                             }
                         }
-                        // --- FINE LOGICA SMART ---
 
                         return {
                             ...item,
-                            vaulted: computedVaulted, // Sovrascriviamo con il dato calcolato
+                            vaulted: computedVaulted, 
                             maxRank: item.fusionLimit || item.maxLevel || 30,
                             baseDrain: item.baseDrain || 0,
                             polarityIcon: item.polarity ? `https://warframe.fandom.com/wiki/File:Polarity_${item.polarity.charAt(0).toUpperCase() + item.polarity.slice(1)}.png` : null 
@@ -1851,7 +1840,7 @@ function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, ma
             finally { setLoading(false); }
         }
         load();
-    }, [filesHash, manualData]);
+    }, [filesToLoad.join(','), manualData]);
 
     const processedData = useMemo(() => {
         return rawApiData.filter(item => {
@@ -1885,7 +1874,8 @@ function CodexContent({ filesToLoad = [], pageTitle, customCategories = null, ma
             <div className="header-group">
                 <div className="nav-top-row">
                     <div className="nav-brand">
-                        <a href="/" className="nav-home-btn">⌂ HOME</a>
+                        {/* FIX: Usando Link invece di <a> il percorso GitHub viene rispettato */}
+                        <Link href="/" className="nav-home-btn">⌂ HOME</Link>
                         <h1 className="page-title">{pageTitle}</h1>
                     </div>
                     <div className="stats-right">
@@ -2748,15 +2738,22 @@ export const CATEGORY_CONFIGS = {
 FILE: src\utils\constants.js
 ==================================================
 
-// src/utils/constants.js
+// Configurazione per GitHub Pages
+const REPO_NAME = '/warframecodex-next'; 
 
-// URL Base: Punta alla cartella statica generata dallo script
-export const API_BASE_URL = "/database_api";
+// Verifica se siamo in produzione (GitHub) o sviluppo (Localhost)
+const isProd = process.env.NODE_ENV === 'production';
 
-export const IMG_BASE_URL = "https://cdn.warframestat.us/img";
+// Se siamo in produzione, usiamo il nome del repo come prefisso per i dati
+export const BASE_PATH = isProd ? REPO_NAME : '';
 
-export const REPO_NAME = 'warframecodex-next';
-export const BASE_PATH = process.env.NODE_ENV === 'production' ? `/${REPO_NAME}` : '';
+// 1. I dati JSON rimangono nel tuo repository (perché li hai personalizzati/scaricati)
+export const API_BASE_URL = `${BASE_PATH}/database_api`;
+
+// 2. LE IMMAGINI invece le prendiamo dalla CDN ufficiale (Niente scaricamento locale!)
+export const IMG_BASE_URL = 'https://cdn.warframestat.us/img'; 
+
+export const APP_VERSION = "6.8 - CDN Images";
 
 ==================================================
 FILE: src\utils\relicUtils.js
