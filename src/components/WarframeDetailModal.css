@@ -1,118 +1,104 @@
 /* src/components/WarframeDetailModal.css */
 
-/* SFONDO E CONTENITORE PRINCIPALE */
-.modal-overlay {
-  position: fixed; inset: 0;
-  background: rgba(0, 0, 0, 0.95); backdrop-filter: blur(10px);
-  z-index: 1000; display: flex; align-items: center; justify-content: center;
-  padding: 20px; /* Padding esterno per non toccare i bordi */
+/* SFONDO MODALE */
+.modal-overlay { 
+  position: fixed; inset: 0; 
+  background: rgba(0, 0, 0, 0.95); backdrop-filter: blur(10px); 
+  z-index: 2000; /* Z-Index altissimo */
+  display: flex; align-items: center; justify-content: center; 
+  padding: 20px;
 }
 
-.modal-content-simple {
-  width: 100%; max-width: 1600px;
-  height: 90vh; 
+/* CONTENITORE PRINCIPALE */
+.modal-content-simple { 
+  width: 100%; max-width: 1600px; height: 90vh; 
   background: #121214; border: 1px solid #333; border-top: 3px solid var(--gold);
-  display: flex; flex-direction: row; /* Default Desktop: Orizzontale */
-  overflow: hidden; position: relative; box-shadow: 0 0 50px #000;
-  border-radius: 4px;
+  display: flex; flex-direction: row; /* Desktop: Orizzontale */
+  overflow: hidden; position: relative; 
+  box-shadow: 0 0 50px #000; border-radius: 4px;
 }
 
-.close-btn {
-  position: absolute; top: 15px; right: 20px; font-size: 30px;
-  color: #fff; background: none; border: none; cursor: pointer; z-index: 100;
-  text-shadow: 0 0 10px #000;
+/* PULSANTE CHIUSURA - Posizione assoluta ma sicura */
+.close-btn { 
+  position: absolute; top: 10px; right: 15px; 
+  color: #fff; font-size: 32px; background: rgba(0,0,0,0.6); 
+  border: 1px solid #444; border-radius: 50%;
+  width: 40px; height: 40px; display: flex; align-items: center; justify-content: center;
+  cursor: pointer; z-index: 3000; /* Sopra a tutto */
+  padding-bottom: 4px; /* Centratura visiva */
 }
-.close-btn:hover { color: var(--gold); }
+.close-btn:hover { color: var(--gold); border-color: var(--gold); background: #000; }
 
-.modal-header-row {
-    display: none; /* Nascondiamo l'header duplicato se usiamo la struttura a colonne */
-}
+.modal-header-row { display: none; } /* Nascondiamo header legacy */
+.modal-body { display: flex; width: 100%; height: 100%; }
 
-.modal-body {
-    display: flex; width: 100%; height: 100%;
-}
-
-/* DEFINIZIONE COLONNE (DESKTOP) */
+/* --- STILI DESKTOP (3 COLONNE) --- */
 .col-left { 
-  flex: 0 0 320px; /* Larghezza fissa */
-  background: #0a0a0c;
-  border-right: 1px solid #333; 
-  display: flex; flex-direction: column; padding: 30px;
-  overflow-y: auto;
+  flex: 0 0 320px; background: #0a0a0c; border-right: 1px solid #333; 
+  display: flex; flex-direction: column; padding: 30px; overflow-y: auto;
 }
-
 .col-center { 
-  flex: 0 0 35%; /* Percentuale */
-  background: #121214; border-right: 1px solid #333; 
-  display: flex; flex-direction: column;
-  overflow-y: auto;
+  flex: 0 0 35%; background: #121214; border-right: 1px solid #333; 
+  display: flex; flex-direction: column; overflow-y: auto;
 }
-
 .col-right { 
-  flex: 1; /* Restante */
-  background: #0e0e10; 
-  display: flex; flex-direction: column;
-  overflow-y: auto;
+  flex: 1; background: #0e0e10; display: flex; flex-direction: column; overflow-y: auto;
 }
 
-/* STILI INTERNI */
+/* CONTENUTI */
 .det-title { font-size: 32px; font-weight: 900; color: #fff; margin: 0; text-transform: uppercase; line-height: 1; }
 .det-subtitle { color: var(--gold); font-size: 14px; font-weight: bold; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 1px; }
 
-.det-img-box { flex-shrink: 0; display: flex; align-items: center; justify-content: center; margin-bottom: 20px; width: 100%; height: 250px; position: relative; }
-.det-img-box img { width: 100%; height: 100%; object-fit: contain; filter: drop-shadow(0 0 20px rgba(0,0,0,0.5)); }
+.det-img-box { 
+    width: 100%; height: 300px; 
+    display: flex; align-items: center; justify-content: center; 
+    margin-bottom: 20px; position: relative;
+}
+.det-img-box img { 
+    max-width: 100%; max-height: 100%; 
+    object-fit: contain; /* Fondamentale per non tagliare l'immagine */
+    filter: drop-shadow(0 0 20px rgba(0,0,0,0.5)); 
+}
 
-.det-desc { font-size: 13px; color: #888; line-height: 1.5; margin-bottom: 20px; }
+.det-desc { font-size: 13px; color: #888; line-height: 1.5; margin-bottom: 20px; max-height: 200px; overflow-y: auto; }
 
-/* HEADER E SCROLL AREA */
+/* HEADER COLONNE */
 .col-header { 
-  padding: 15px 20px;
-  background: #1a1a1e; border-bottom: 1px solid #333; 
+  padding: 15px 20px; background: #1a1a1e; border-bottom: 1px solid #333; 
   font-size: 14px; font-weight: 800; color: #fff; letter-spacing: 1px; text-transform: uppercase;
-  display: flex; justify-content: space-between; align-items: center;
-  flex-shrink: 0;
+  display: flex; justify-content: space-between; align-items: center; flex-shrink: 0;
 }
 .col-scrollable { flex: 1; overflow-y: auto; padding: 20px; }
 
-/* COMPONENTI */
+/* COMPONENTI & CARDS */
 .component-row { margin-bottom: 20px; }
 .component-header { display: flex; align-items: center; gap: 10px; background: #18181b; padding: 8px; border: 1px solid #333; margin-bottom: 8px; border-radius: 4px; }
 .component-icon { width: 30px; height: 30px; position: relative; }
 .component-icon img { width: 100%; height: 100%; object-fit: contain; }
 .count-badge { font-size: 10px; background: #000; padding: 2px 6px; border-radius: 4px; border: 1px solid #333; color: #666; margin-left: auto; }
 
-/* MINI CARDS RELIQUIE */
 .relic-cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 10px; }
 .mini-relic-card { 
   background: #1a1a1d; border: 1px solid #333; border-radius: 4px; padding: 8px; 
   display: flex; flex-direction: row; align-items: center; gap: 10px; 
-  transition: 0.2s; cursor: pointer; overflow: hidden; position: relative;
+  cursor: pointer; position: relative;
 }
 .mini-relic-card:hover { border-color: #666; background: #222; }
 .mini-relic-card.selected { border-color: var(--gold); background: rgba(212, 175, 55, 0.08); }
-.mini-relic-card.is-vaulted { opacity: 0.6; border-color: #3a2a2a; background: #141010; }
-
 .relic-card-img { width: 30px; height: 30px; object-fit: contain; }
 .card-info { display: flex; flex-direction: column; overflow: hidden; }
 .card-name { font-size: 11px; color: #fff; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .card-pct { font-size: 10px; font-weight: 600; }
-.vaulted-mini-tag { font-size: 8px; color: #ff5555; font-weight: 900; margin-left: 5px; }
-
-/* RARITY COLORS */
 .pct-common { color: #cd7f32; }
 .pct-uncommon { color: #c0c0c0; }
 .pct-rare { color: var(--gold); text-shadow: 0 0 5px rgba(212,175,55,0.4); }
 
-/* STRATEGIA */
 .strategy-container { display: flex; flex-direction: column; gap: 15px; }
 .mission-block { background: #121215; border: 1px solid #2a2a2e; border-radius: 4px; overflow: hidden; }
 .mission-block-header { background: #18181b; padding: 10px 15px; border-bottom: 1px solid #222; display: flex; justify-content: space-between; align-items: center; }
 .mission-name-large { font-size: 13px; font-weight: bold; color: #fff; }
-
 .mission-relics-table { width: 100%; border-collapse: collapse; }
-.mission-relics-table th { text-align: left; font-size: 9px; color: #555; padding: 8px 15px; background: #0e0e10; font-weight: bold; }
 .mission-relics-table td { padding: 10px 15px; border-bottom: 1px solid #1f1f22; font-size: 12px; color: #bbb; }
-
 .part-badge { display: inline-block; background: rgba(95, 255, 165, 0.08); border: 1px solid rgba(95, 255, 165, 0.2); color: #5fffa5; padding: 2px 6px; border-radius: 3px; font-size: 9px; font-weight: 700; text-transform: uppercase; }
 
 .btn-toggle-large {
@@ -121,19 +107,14 @@
   border: none; border-radius: 2px; cursor: pointer; text-transform: uppercase;
 }
 .btn-toggle-large.owned { background: #222; color: #fff; border: 1px solid #444; }
-
 .wiki-btn-block { 
   display: block; width: 100%; margin-top: 15px; padding: 10px;
   background: transparent; text-align: center; font-size: 11px; font-weight: 800; 
   color: #666; border: 1px solid #333; text-transform: uppercase; text-decoration: none; 
 }
-
-/* BADGES */
 .vault-badge { font-size: 10px; padding: 4px 10px; border-radius: 2px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; }
 .vault-badge.is-vaulted { background: rgba(255, 50, 50, 0.1); color: #ff5555; border: 1px solid rgba(255, 50, 50, 0.3); }
 .vault-badge.is-available { background: rgba(50, 255, 100, 0.05); color: #5fffa5; border: 1px solid rgba(50, 255, 100, 0.2); }
-
-/* TABELLA MISSIONI BASE */
 .base-mission-table { width: 100%; border-collapse: collapse; }
 .base-mission-table td { padding: 8px 12px; border-bottom: 1px solid #1a1a1e; font-size: 11px; }
 
@@ -144,68 +125,57 @@
 @media (max-width: 1024px) {
   .modal-overlay {
     padding: 0;
-    align-items: flex-end; /* Su mobile spesso i modali salgono dal basso o occupano tutto */
+    align-items: flex-start; /* Allinea in alto */
+    overflow-y: auto; /* Permette lo scroll dell'overlay */
   }
 
   .modal-content-simple {
-    width: 100vw;
-    height: 100vh; /* Schermo intero su mobile */
+    width: 100%;
+    min-height: 100vh; /* Occupa tutto lo schermo */
+    height: auto;
     max-height: none;
     border: none;
     border-radius: 0;
-    flex-direction: column; /* IMPILA LE COLONNE VERTICALMENTE */
-    overflow-y: auto; /* Permette lo scroll dell'intero modale */
+    flex-direction: column; /* COLONNA VERTICALE */
+    box-shadow: none;
+    overflow: visible; /* Lascia che il contenuto allunghi la pagina */
   }
   
   .modal-body {
     flex-direction: column;
-    height: auto; /* L'altezza dipende dal contenuto ora */
+    height: auto;
     overflow: visible;
   }
 
-  /* Reset delle colonne per farle stare una sopra l'altra */
+  .close-btn {
+    top: 15px; right: 15px;
+    background: #000; border: 1px solid var(--gold);
+    color: var(--gold);
+    position: fixed; /* FISSO SULLO SCHERMO */
+  }
+
+  /* Reset delle colonne per Mobile */
   .col-left, .col-center, .col-right {
-    flex: none; /* Disabilita flex grow/shrink */
-    width: 100%; /* Larghezza piena */
-    height: auto; /* Altezza automatica */
+    flex: none; 
+    width: 100%;
+    height: auto;
     border-right: none;
     border-bottom: 1px solid #333;
     padding: 20px;
-    overflow: visible; /* Niente scroll interno, usa quello del body */
+    overflow: visible;
   }
   
-  .col-left {
-    /* Ordine visivo: Info in alto */
-    order: 1;
-    background: #050505;
-  }
-  
-  .col-center {
-    order: 2;
-    background: #121214;
-    padding: 10px 15px; /* Meno padding laterale */
-  }
-  
-  .col-right {
-    order: 3;
-    background: #0e0e10;
-    padding-bottom: 80px; /* Spazio extra in fondo per scrollare comodamente */
-  }
+  .col-left { order: 1; background: #050505; padding-top: 60px; /* Spazio per il bottone di chiusura */ }
+  .col-center { order: 2; background: #121214; }
+  .col-right { order: 3; background: #0e0e10; padding-bottom: 100px; }
 
-  /* Aggiustamenti UI Mobile */
+  /* Aggiustamenti Immagine Mobile */
   .det-img-box {
-    height: 200px; /* Immagine più piccola */
+    height: 300px; /* Altezza fissa ma contenuta */
+    margin-top: 10px;
   }
-  .det-title { font-size: 24px; }
-  
-  .close-btn {
-    top: 10px; right: 10px;
-    background: rgba(0,0,0,0.5); /* Sfondo semitrasparente per vederla sopra l'img */
-    border-radius: 50%; width: 40px; height: 40px;
-  }
+  .det-title { font-size: 28px; }
 
-  /* Nascondi colonna destra se in base mode (gestito via CSS inline js, ma per sicurezza) */
-  .modal-content-simple.base-mode .col-right {
-    display: none;
-  }
+  /* Nascondi colonna destra se in base mode */
+  .modal-content-simple.base-mode .col-right { display: none; }
 }
