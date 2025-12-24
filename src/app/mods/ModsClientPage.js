@@ -251,20 +251,20 @@ function ModCard({ item, isOwned, onToggle }) {
         
         // Mappa i nomi. NOTA: Assicurati che le estensioni siano corrette (SVG vs PNG)
         const map = {
-            'madurai': 'madurai.svg',
-            'naramon': 'naramon.svg',
-            'vazarin': 'vazarin.svg',
-            'zenurik': 'zenurik.svg',
-            'unairu': 'unairu.svg',
-            'penjaga': 'penjaga.svg',
-            'universal': 'any.svg',
-            'umbra': 'umbra.svg'
+            'madurai': 'madurai.png',
+            'naramon': 'naramon.png',
+            'vazarin': 'vazarin.png',
+            'zenurik': 'zenurik.png',
+            'unairu': 'unairu.png',
+            'penjaga': 'penjaga.png',
+            'universal': 'any.png',
+            'umbra': 'umbra.png'
         };
 
-        const fileName = map[p] || (p.charAt(0).toUpperCase() + p.slice(1) + '.svg');
+        const fileName = map[p] || (p.charAt(0).toUpperCase() + p.slice(1) + '.png');
         
         // MODIFICA CRITICA: Usa getBasePath per risolvere l'URL su GitHub Pages
-        return getBasePath(`public/polarities/${fileName}`);
+        return getBasePath(`/polarities/${fileName}`);
     };
 
     const polIconUrl = getPolarityIcon();
