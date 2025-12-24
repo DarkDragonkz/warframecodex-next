@@ -102,5 +102,13 @@ export const CATEGORY_CONFIGS = {
     ],
     'necramechs': [
          { id: 'all', label: 'NECRAMECHS', filter: (item) => (item.type || "").toLowerCase().includes('necramech') }
+    ],
+    // NUOVA CATEGORIA AGGIUNTA
+    'amps': [
+        {
+            id: 'all',
+            label: 'ALL',
+            filter: (item) => item.category === 'Amps' || (item.type && item.type.includes('Amp'))
+        }
     ]
 };
