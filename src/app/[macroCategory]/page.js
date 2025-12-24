@@ -1,65 +1,81 @@
+import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getMicroCategory, HIERARCHY } from '@/utils/categoryConfig'; // Importa HIERARCHY
+import { getMacroCategory, HIERARCHY } from '@/utils/categoryConfig'; 
 import { fetchGameData } from '@/utils/serverData';
+import { IMG_BASE_URL } from '@/utils/constants';
+import '@/app/homepage.css'; 
 
-// Importiamo i componenti Client
-import CodexListPage from '@/components/CodexListPage';
-import ModsClientPage from '@/app/mods/ModsClientPage';
-import RelicsClientPage from '@/app/relics/RelicsClientPage';
-
-// QUESTA FUNZIONE DICE A NEXT.JS QUALI PAGINE COSTRUIRE
+// --- FIX: QUESTA FUNZIONE È OBBLIGATORIA PER L'EXPORT STATICO ---
 export async function generateStaticParams() {
-    const params = [];
-    // Cicla tutte le macro categorie
-    HIERARCHY.forEach(macro => {
-        // Cicla tutte le micro categorie dentro ogni macro
-        macro.items.forEach(micro => {
-            params.push({ microCategory: micro.id });
-        });
-    });
-    return params;
+    // Genera una pagina per ogni ID nella HIERARCHY (es: /arsenal, /entities, etc.)
+    return HIERARCHY.map(macro => ({
+        macroCategory: macro.id
+    }));
 }
 
-export default async function DynamicListPage({ params }) {
+export default async function MacroCategoryPage({ params }) {
     const resolvedParams = await params;
-    const microCat = getMicroCategory(resolvedParams.microCategory);
+    const category = getMacroCategory(resolvedParams.macroCategory);
 
-    if (!microCat) return notFound();
-
-    // 1. Carica i dati
-    let data = await fetchGameData(microCat.json);
-    
-    // 2. Filtra i dati lato server se necessario
-    if (microCat.filter) {
-        data = data.filter(microCat.filter);
-    }
-
-    // 3. Gestione Casi Speciali (Mods, Relics)
-    if (microCat.specialPage === 'mods') {
-        return <ModsClientPage initialData={data} />;
-    }
-
-    if (microCat.specialPage === 'relics') {
-        return <RelicsClientPage initialData={data} />;
-    }
-
-    // 4. Default: Pagina Lista Standard
-    let lookup = null;
-    if (['warframes', 'primary', 'secondary', 'melee', 'companions'].includes(microCat.id)) {
-        lookup = await fetchGameData('RelicLookup.json');
-    }
-
-    // Determina se attivare i TAB Base/Prime
-    const categoryMode = ['warframes', 'primary', 'secondary', 'melee', 'companions'].includes(microCat.id) 
-        ? microCat.id 
-        : null;
+    if (!category) return notFound();
 
     return (
-        <CodexListPage 
-            initialData={data} 
-            lookupData={lookup}
-            pageTitle={microCat.title} 
-            categoryMode={categoryMode} 
-        />
+        <main className="landing-page">
+            <div className="landing-content">
+                <div className="landing-header">
+                    <Link href="/" style={{textDecoration:'none', color:'#666', fontSize:'12px', marginBottom:'10px', display:'block'}}>
+                        &larr; BACK TO HUB
+                    </Link>
+                    <h1 className="landing-title" style={{color: category.color}}>
+                        {category.title}
+                    </h1>
+                    <div className="landing-subtitle">{category.subtitle}</div>
+                </div>
+
+                <div className="cards-scroll-container">
+                    <div className="cards-row">
+                        {category.items.map((micro) => (
+                            <MicroCard key={micro.id} micro={micro} color={category.color} />
+                        ))}
+                    </div>
+                </div>
+            </div>
+        </main>
+    );
+}
+
+// Componente Card per le Micro Categorie
+async function MicroCard({ micro, color }) {
+    const data = await fetchGameData(micro.json);
+    
+    // Trova immagine rappresentativa
+    const targetItem = data.find(i => 
+        (micro.filter ? micro.filter(i) : true) && 
+        i.imageName && 
+        !i.imageName.includes("fanart")
+    );
+    
+    const imgUrl = targetItem ? `${IMG_BASE_URL}/${targetItem.imageName}` : null;
+
+    return (
+        <Link href={`/list/${micro.id}`} style={{textDecoration:'none'}}>
+            <div 
+                className="menu-card"
+                style={{ '--card-color': color, '--card-glow': `${color}66`, width: '180px', height: '260px' }}
+            >
+                <div className="card-visual-area">
+                    {imgUrl ? (
+                        <img src={imgUrl} alt={micro.title} className="card-img-element" />
+                    ) : (
+                        <div style={{background:'#222', width:'100%', height:'100%'}}></div>
+                    )}
+                </div>
+                
+                <div className="card-content">
+                    <h2 className="card-title" style={{fontSize:'18px'}}>{micro.title}</h2>
+                    <p className="card-sub">BROWSE COLLECTION</p>
+                </div>
+            </div>
+        </Link>
     );
 }
