@@ -4,12 +4,29 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { VirtuosoGrid } from 'react-virtuoso';
 import { IMG_BASE_URL } from '@/utils/constants';
-// Assicurati di aver creato questo file come indicato nel PASSO 1
 import { getBasePath } from '@/utils/basePath'; 
 import '@/app/hud-layout.css'; 
 import './mods.css';
 
 const STORAGE_KEY = 'warframe_codex_mods_v1';
+
+// --- CONFIGURAZIONE CATEGORIE (TYPE-BASED) ---
+const TABS = [
+    { id: 'all', label: 'ALL' },
+    { id: 'warframe', label: 'WARFRAME' },
+    { id: 'primary', label: 'PRIMARY' },
+    { id: 'shotgun', label: 'SHOTGUN' },
+    { id: 'secondary', label: 'SECONDARY' },
+    { id: 'melee', label: 'MELEE' },
+    { id: 'companion', label: 'COMPANION' },
+    { id: 'archwing', label: 'ARCHWING' },
+    { id: 'arch-gun', label: 'ARCH-GUN' },
+    { id: 'arch-melee', label: 'ARCH-MELEE' },
+    { id: 'k-drive', label: 'K-DRIVE' },
+    { id: 'railjack', label: 'RAILJACK' },
+    { id: 'necramech', label: 'NECRAMECH' },
+    { id: 'parazon', label: 'PARAZON' }
+];
 
 export default function ModsClientPage({ initialData = [] }) {
     const [rawApiData, setRawApiData] = useState([]);
@@ -27,91 +44,86 @@ export default function ModsClientPage({ initialData = [] }) {
         return () => clearTimeout(timer);
     }, [searchTerm]);
 
-    // INIZIALIZZAZIONE DATI
+    // --- CARICAMENTO DATI ---
     useEffect(() => {
         if(initialData && initialData.length > 0) {
             const uniqueMap = new Map();
+            
             initialData.forEach(item => {
-                if(!item.imageName || item.name.includes("Riven") || (item.uniqueName && item.uniqueName.includes("/PVP"))) return;
-                
-                let cleanDesc = "";
-                if (item.description) {
-                    cleanDesc = Array.isArray(item.description) ? item.description.join(" ") : item.description;
-                }
-                
-                if ((!cleanDesc || cleanDesc === "") && item.levelStats && item.levelStats.length > 0) {
-                    const lastStat = item.levelStats[item.levelStats.length - 1];
-                    if (lastStat && lastStat.stats) {
-                        cleanDesc = lastStat.stats.join(" ");
-                    }
+                // Filtri Pulizia
+                if(item.name.includes("Riven Mod")) return;
+                if(item.uniqueName && item.uniqueName.includes("/PVP")) return;
+                if(item.type === "Fusion Core") return;
+                if(item.type === "Mod Set Mod") return;
+                if(item.type === "Focus Way") return;
+
+                // MAPPING CATEGORIE (Basato su Type)
+                let mappedCategory = 'other';
+                const t = (item.type || "").toLowerCase();
+
+                // Specifici prima
+                if (t.includes('arch-melee')) mappedCategory = 'arch-melee';
+                else if (t.includes('arch-gun')) mappedCategory = 'arch-gun';
+                else if (t.includes('shotgun')) mappedCategory = 'shotgun';
+                else if (t.includes('k-drive')) mappedCategory = 'k-drive';
+                else if (t.includes('necramech')) mappedCategory = 'necramech';
+                else if (t.includes('railjack') || t.includes('plexus')) mappedCategory = 'railjack';
+                else if (t.includes('parazon')) mappedCategory = 'parazon';
+                else if (t === 'archwing mod') mappedCategory = 'archwing';
+                // Generici dopo
+                else if (t.includes('warframe') || t.includes('aura')) mappedCategory = 'warframe';
+                else if (t.includes('primary') || t.includes('rifle') || t.includes('bow') || t.includes('sniper') || t.includes('launcher')) mappedCategory = 'primary';
+                else if (t.includes('secondary') || t.includes('pistol')) mappedCategory = 'secondary';
+                else if (t.includes('melee') || t.includes('stance')) mappedCategory = 'melee';
+                else if (t.includes('companion') || t.includes('sentinel') || t.includes('beast')) mappedCategory = 'companion';
+
+                let cleanDesc = item.description || "";
+                if (Array.isArray(item.description)) cleanDesc = item.description.join(" ");
+                if (!cleanDesc && item.levelStats?.length > 0) {
+                    cleanDesc = item.levelStats[item.levelStats.length - 1].stats.join(" ");
                 }
 
                 if(!uniqueMap.has(item.name)) {
                     uniqueMap.set(item.name, {
                         ...item,
+                        myCategory: mappedCategory,
                         description: cleanDesc,
-                        maxRank: (typeof item.fusionLimit === 'number') ? item.fusionLimit : 5,
+                        maxRank: item.fusionLimit || 5,
                         baseDrain: item.baseDrain || 2,
-                        searchStr: `${item.name} ${item.type} ${item.category}`.toLowerCase()
+                        searchStr: `${item.name} ${item.type} ${mappedCategory}`.toLowerCase()
                     });
                 }
             });
+
             const processed = Array.from(uniqueMap.values()).sort((a,b) => a.name.localeCompare(b.name));
             setRawApiData(processed);
             setLoading(false);
         }
 
         const saved = localStorage.getItem(STORAGE_KEY);
-        if (saved) {
-            try { setOwnedCards(new Set(JSON.parse(saved))); } catch (e) {}
-        }
+        if (saved) { try { setOwnedCards(new Set(JSON.parse(saved))); } catch (e) {} }
     }, [initialData]);
 
     useEffect(() => {
-        if (!loading && typeof window !== 'undefined') {
-            localStorage.setItem(STORAGE_KEY, JSON.stringify([...ownedCards]));
-        }
+        if (!loading) localStorage.setItem(STORAGE_KEY, JSON.stringify([...ownedCards]));
     }, [ownedCards, loading]);
 
+    // --- FILTRAGGIO ---
     const filteredData = useMemo(() => {
-        let data = rawApiData.filter(item => {
+        return rawApiData.filter(item => {
             if (debouncedSearch && !item.searchStr.includes(debouncedSearch)) return false;
             if (showMissingOnly && ownedCards.has(item.uniqueName)) return false;
-
-            const t = (item.type || "").toLowerCase();
-            const cat = (item.category || "").toLowerCase();
-            const slot = (item.slot || "").toLowerCase();
-            const isAugment = item.isAugment || item.name.includes("Augment");
-            const isArcane = cat.includes("arcane") || t.includes("arcane");
-
-            switch (currentCategory) {
-                case 'all': return true;
-                case 'warframe': return t.includes("warframe") && !isAugment && !isArcane;
-                case 'aura': return t.includes("aura") || slot === "aura";
-                case 'augment': return isAugment;
-                case 'arcane': return isArcane;
-                case 'primary': return (t.includes("rifle") || t.includes("bow") || t.includes("shotgun") || t.includes("sniper")) && !isAugment;
-                case 'secondary': return (t.includes("pistol") || t.includes("secondary")) && !isAugment;
-                case 'melee': return t.includes("melee") && !isAugment;
-                case 'companion': return t.includes("companion") || t.includes("sentinel") || t.includes("beast");
-                case 'archwing': return t.includes("archwing") || t.includes("arch-gun");
-                default: return true;
-            }
-        });
-
-        const rarityMap = { 'Common': 1, 'Uncommon': 2, 'Rare': 3, 'Legendary': 4, 'Arcane': 5 };
-        data.sort((a, b) => {
+            if (currentCategory !== 'all' && item.myCategory !== currentCategory) return false;
+            return true;
+        }).sort((a, b) => {
             if (currentSort === 'name') return a.name.localeCompare(b.name);
             if (currentSort === 'drain') return (b.baseDrain || 0) - (a.baseDrain || 0);
             if (currentSort === 'rarity') {
-                const rA = rarityMap[a.rarity] || 0;
-                const rB = rarityMap[b.rarity] || 0;
-                if (rA !== rB) return rB - rA;
-                return a.name.localeCompare(b.name);
+                const map = { 'Common': 1, 'Uncommon': 2, 'Rare': 3, 'Legendary': 4, 'Arcane': 5 };
+                return (map[b.rarity] || 0) - (map[a.rarity] || 0) || a.name.localeCompare(b.name);
             }
             return 0;
         });
-        return data;
     }, [rawApiData, debouncedSearch, currentCategory, currentSort, showMissingOnly, ownedCards]);
 
     const toggleOwned = (id) => {
@@ -126,11 +138,12 @@ export default function ModsClientPage({ initialData = [] }) {
 
     return (
         <div className="codex-layout">
+            {/* Header Group: Stessa struttura delle altre pagine */}
             <div className="header-group">
                 <div className="nav-top-row">
                     <div className="nav-brand">
                         <Link href="/" className="nav-home-btn">⌂ HOME</Link>
-                        <h1 className="page-title">MODS & ARCANES</h1>
+                        <h1 className="page-title">MODS DATABASE</h1>
                     </div>
                     <div className="stats-right">
                         <div className="stat-box">
@@ -145,15 +158,16 @@ export default function ModsClientPage({ initialData = [] }) {
                 </div>
 
                 <div className="controls-row">
-                    <div className="filters-left" style={{overflowX:'auto'}}>
-                        <div className="category-tabs">
-                            {['all','warframe','aura','augment','arcane','primary','secondary','melee','companion','archwing'].map(cat => (
+                    {/* TABS SCROLLABILI: Usiamo le tue classi originali 'category-tabs' e 'tab-btn' */}
+                    <div className="filters-left" style={{overflowX:'auto', whiteSpace:'nowrap', paddingBottom:'5px'}}>
+                        <div className="category-tabs" style={{display:'inline-flex', gap:'5px'}}>
+                            {TABS.map(tab => (
                                 <button 
-                                    key={cat}
-                                    className={`tab-btn ${currentCategory === cat ? 'active' : ''}`}
-                                    onClick={() => setCurrentCategory(cat)}
+                                    key={tab.id}
+                                    className={`tab-btn ${currentCategory === tab.id ? 'active' : ''}`}
+                                    onClick={() => setCurrentCategory(tab.id)}
                                 >
-                                    {cat.toUpperCase()}
+                                    {tab.label}
                                 </button>
                             ))}
                         </div>
@@ -181,7 +195,7 @@ export default function ModsClientPage({ initialData = [] }) {
                         <label className="toggle-filter" style={{display:'flex', alignItems:'center', gap:'5px', color:'#ccc', fontSize:'10px', fontWeight:'bold', cursor:'pointer', border:'1px solid #444', padding:'5px 10px', borderRadius:'4px', background: showMissingOnly ? 'rgba(255,255,255,0.1)' : 'transparent'}}>
                             <input type="checkbox" style={{display:'none'}} checked={showMissingOnly} onChange={(e) => setShowMissingOnly(e.target.checked)} />
                             <span style={{color: showMissingOnly ? '#5fffa5' : '#666'}}>
-                                {showMissingOnly ? '✓ MISSING ONLY' : 'SHOW MISSING'}
+                                {showMissingOnly ? '✓ MISSING' : 'SHOW ALL'}
                             </span>
                         </label>
                     </div>
@@ -216,22 +230,17 @@ export default function ModsClientPage({ initialData = [] }) {
     );
 }
 
-// --- MOD CARD COMPONENT ---
+// --- CARD COMPONENT ---
 function ModCard({ item, isOwned, onToggle }) {
     const [flipped, setFlipped] = useState(false);
     const maxRank = item.maxRank || 0;
     const [rank, setRank] = useState(0); 
 
+    const increaseRank = (e) => { e.stopPropagation(); setRank(Math.min(maxRank, rank + 1)); };
+    const decreaseRank = (e) => { e.stopPropagation(); setRank(Math.max(0, rank - 1)); };
+
     const getDescription = () => {
-        if (item.levelStats && item.levelStats.length > 0) {
-            const statIndex = Math.min(rank, item.levelStats.length - 1);
-            if(item.levelStats[statIndex] && item.levelStats[statIndex].stats) {
-                return item.levelStats[statIndex].stats.join(" ")
-                    .replace(/(\d+(\.\d+)?%?)/g, "<b>$1</b>")
-                    .replace(/\r\n|\n/g, "<br>");
-            }
-        }
-        if(!item.description) return "Description unavailable.";
+        if(!item.description) return "No description.";
         return item.description.replace(/(\d+(\.\d+)?)/g, (match) => {
             const val = parseFloat(match);
             if(isNaN(val) || val > 1000) return match; 
@@ -242,62 +251,29 @@ function ModCard({ item, isOwned, onToggle }) {
         }).replace(/\r\n|\n/g, "<br>");
     };
 
-    const wikiUrl = `https://warframe.fandom.com/wiki/${item.name.replace(/ /g, '_')}`;
-    
-    // --- MAPPA POLARITÀ CORRETTA ---
     const getPolarityIcon = () => {
         if (!item.polarity) return null;
         const p = item.polarity.toLowerCase().trim();
-        
-        // Mappa i nomi. NOTA: Assicurati che le estensioni siano corrette (SVG vs PNG)
         const map = {
-            'madurai': 'madurai.png',
-            'naramon': 'naramon.png',
-            'vazarin': 'vazarin.png',
-            'zenurik': 'zenurik.png',
-            'unairu': 'unairu.png',
-            'penjaga': 'penjaga.png',
-            'universal': 'any.png',
-            'umbra': 'umbra.png'
+            'madurai': 'madurai.png', 'naramon': 'naramon.png', 'vazarin': 'vazarin.png',
+            'zenurik': 'zenurik.png', 'unairu': 'unairu.png', 'penjaga': 'penjaga.png',
+            'universal': 'any.png', 'umbra': 'umbra.png'
         };
-
         const fileName = map[p] || (p.charAt(0).toUpperCase() + p.slice(1) + '.png');
-        
-        // MODIFICA CRITICA: Usa getBasePath per risolvere l'URL su GitHub Pages
-        return getBasePath(`/polarities/${fileName}`);
+        return getBasePath(`polarities/${fileName}`);
     };
-
     const polIconUrl = getPolarityIcon();
-    const currentDrain = (item.baseDrain || 0) + rank;
-
-    const increaseRank = (e) => { e.stopPropagation(); setRank(Math.min(maxRank, rank + 1)); };
-    const decreaseRank = (e) => { e.stopPropagation(); setRank(Math.max(0, rank - 1)); };
-
-    const renderDrops = () => {
-        if (!item.drops || item.drops.length === 0) return <div style={{padding:'20px', fontStyle:'italic', color:'#555', textAlign:'center', fontSize:'11px'}}>Source Unknown / Quest</div>;
-        
-        return item.drops.slice(0, 10).map((d, i) => {
-            let typeClass = 'enemy';
-            if(d.location.includes("Rot") || d.type?.includes("Mission") || d.type?.includes("Bounty")) typeClass = 'mission';
-            else if(d.location.includes("Syndicate") || d.type?.includes("Offering")) typeClass = 'other';
-
-            return (
-                <div key={i} className="drop-item">
-                    <div className="drop-name">
-                        <div style={{display:'flex', alignItems:'center', gap:'6px'}}>
-                            <span className={`dot-leg ${typeClass}`}></span>
-                            <span style={{maxWidth:'160px', overflow:'hidden', textOverflow:'ellipsis', whiteSpace:'nowrap'}}>{d.location}</span>
-                        </div>
-                        <span className="drop-chance">{(d.chance * 100).toFixed(2)}%</span>
-                    </div>
-                    <div className="drop-meta">
-                        <span>{d.rotation ? `Rot ${d.rotation}` : ''}</span>
-                        <span style={{color: getRarityColor(d.rarity)}}>{d.rarity}</span>
-                    </div>
-                </div>
-            );
-        });
+    
+    // Badge Label
+    const getBadgeLabel = () => {
+        if (item.name.includes("Peculiar")) return "PECULIAR";
+        if (item.type) return item.type.replace(" Mod", "").toUpperCase();
+        return "MOD";
     };
+
+    const imageUrl = item.imageName ? `${IMG_BASE_URL}/${item.imageName}` : null;
+    const currentDrain = (item.baseDrain || 0) + rank;
+    const wikiUrl = `https://warframe.fandom.com/wiki/${item.name.replace(/ /g, '_')}`;
 
     return (
         <div 
@@ -306,11 +282,14 @@ function ModCard({ item, isOwned, onToggle }) {
             onClick={() => setFlipped(!flipped)}
         >
             <div className="mod-card-inner">
-                
                 {/* FRONT */}
                 <div className="mod-card-front">
                     <div className="mod-image-area">
-                        <Image src={`${IMG_BASE_URL}/${item.imageName}`} alt={item.name} fill className="mod-img" unoptimized />
+                        {imageUrl ? (
+                             <Image src={imageUrl} alt={item.name} fill className="mod-img" unoptimized />
+                        ) : (
+                            <div className="no-image-placeholder" style={{width:'100%', height:'100%', display:'flex', alignItems:'center', justifyContent:'center', color:'#444', fontSize:'12px'}}>NO IMAGE</div>
+                        )}
                     </div>
                     <div className="mod-top-bar">
                         <div className={`mod-status-btn ${isOwned ? 'owned' : ''}`} onClick={(e) => { e.stopPropagation(); onToggle(); }}>
@@ -319,21 +298,15 @@ function ModCard({ item, isOwned, onToggle }) {
                         <div className="mod-drain-box">
                             <span>{currentDrain}</span>
                             {polIconUrl && (
-                                <img 
-                                    src={polIconUrl} 
-                                    alt={item.polarity} 
-                                    className="mod-polarity-icon" 
-                                    // MODIFICA CRITICA: Invert(1) rende bianche le icone nere
-                                    style={{ filter: 'invert(1)', width: '16px', height: '16px' }}
-                                    onError={(e) => e.target.style.display='none'} 
-                                />
+                                <img src={polIconUrl} alt={item.polarity} className="mod-polarity-icon" style={{ filter: 'invert(1)', width: '16px', height: '16px' }} onError={(e) => e.target.style.display='none'} />
                             )}
                         </div>
                     </div>
                     <div className="mod-info-front">
-                        <div className="mod-type-badge">{item.type}</div>
+                        <div className="mod-type-badge">{getBadgeLabel()}</div>
                         <div className="mod-name" style={{color: getRarityColor(item.rarity)}}>{item.name}</div>
                         <div className="mod-desc-text" dangerouslySetInnerHTML={{__html: getDescription()}} />
+                        
                         {maxRank > 0 && (
                             <div className="mod-rank-controls" onClick={(e) => e.stopPropagation()}>
                                 <div className="rank-buttons-row">
@@ -358,20 +331,26 @@ function ModCard({ item, isOwned, onToggle }) {
                             <span className="back-title">DROP SOURCES</span>
                             <span className="flip-icon" onClick={(e) => { e.stopPropagation(); setFlipped(false); }}>↺</span>
                         </div>
-                        <div className="mod-drop-legend">
-                            <span className="legend-item"><span className="dot-leg mission"></span> MISSION</span>
-                            <span className="legend-item"><span className="dot-leg enemy"></span> ENEMY</span>
-                            <span className="legend-item"><span className="dot-leg other"></span> OTHER</span>
-                        </div>
                     </div>
                     <div className="mod-drops-list">
-                        {renderDrops()}
+                        {(!item.drops || item.drops.length === 0) ? (
+                            <div style={{padding:'20px', fontStyle:'italic', color:'#555', textAlign:'center', fontSize:'11px'}}>Source Unknown / Quest</div>
+                        ) : (
+                            item.drops.slice(0, 10).map((d, i) => (
+                                <div key={i} className="drop-item">
+                                    <div className="drop-name">
+                                        <span style={{color:'#ccc'}}>{d.location}</span>
+                                    </div>
+                                    <div className="drop-meta">
+                                        <span>{d.rotation ? `Rot ${d.rotation}` : ''}</span>
+                                        <span style={{color: getRarityColor(d.rarity)}}>{(d.chance * 100).toFixed(2)}%</span>
+                                    </div>
+                                </div>
+                            ))
+                        )}
                     </div>
-                    <a href={wikiUrl} target="_blank" rel="noopener noreferrer" className="mod-wiki-link" onClick={(e) => e.stopPropagation()}>
-                        OPEN WIKI
-                    </a>
+                    <a href={wikiUrl} target="_blank" rel="noopener noreferrer" className="mod-wiki-link" onClick={(e) => e.stopPropagation()}>OPEN WIKI</a>
                 </div>
-
             </div>
         </div>
     );
