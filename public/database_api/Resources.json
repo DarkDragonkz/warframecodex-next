@@ -110,7 +110,8 @@
     "masterable": false,
     "name": "Adramalium",
     "parents": [
-      "Adramal Alloy"
+      "Adramal Alloy",
+      "Xaku Kintsu Helmet"
     ],
     "patchlogs": [
       {
@@ -1257,8 +1258,12 @@
     "consumeOnBuild": true,
     "description": "Capsule component for the Bonewidow Necramech.",
     "imageName": "bonewidow-capsule.png",
+    "itemCount": 1,
     "masterable": false,
     "name": "Bonewidow Capsule",
+    "parents": [
+      "Bonewidow"
+    ],
     "skipBuildTimePrice": 25,
     "tradable": false,
     "type": "Resource",
@@ -1331,8 +1336,12 @@
     "consumeOnBuild": true,
     "description": "Casing component for the Bonewidow Necramech.",
     "imageName": "bonewidow-casing.png",
+    "itemCount": 1,
     "masterable": false,
     "name": "Bonewidow Casing",
+    "parents": [
+      "Bonewidow"
+    ],
     "skipBuildTimePrice": 25,
     "tradable": false,
     "type": "Resource",
@@ -1405,8 +1414,12 @@
     "consumeOnBuild": true,
     "description": "Engine component for the Bonewidow Necramech.",
     "imageName": "bonewidow-engine.png",
+    "itemCount": 1,
     "masterable": false,
     "name": "Bonewidow Engine",
+    "parents": [
+      "Bonewidow"
+    ],
     "skipBuildTimePrice": 25,
     "tradable": false,
     "type": "Resource",
@@ -1479,8 +1492,12 @@
     "consumeOnBuild": true,
     "description": "Weapon Pod component for the Bonewidow Necramech.",
     "imageName": "bonewidow-weapon-pod.png",
+    "itemCount": 1,
     "masterable": false,
     "name": "Bonewidow Weapon Pod",
+    "parents": [
+      "Bonewidow"
+    ],
     "skipBuildTimePrice": 25,
     "tradable": false,
     "type": "Resource",
@@ -1592,8 +1609,21 @@
       }
     ],
     "imageName": "calda-toroid-652e0532d3.png",
+    "itemCount": 2,
     "masterable": false,
     "name": "Calda Toroid",
+    "parents": [
+      "Haztech Apparel",
+      "Haztech Cuirass",
+      "Kubrodon Ventkid Apparel",
+      "Kubrodon Ventkid Cuirass",
+      "Outrider Cuirass",
+      "Smelter Apparel",
+      "Smelter Cuirass",
+      "Vent Pobber Ventkid Apparel",
+      "Vent Pobber Ventkid Cuirass",
+      "Vent Rat Cuirass"
+    ],
     "patchlogs": [
       {
         "name": "Update 31: The New War",
@@ -1684,8 +1714,12 @@
     "consumeOnBuild": false,
     "description": "Resilient components used to reinforce the plated sheets of metal strapped to Grineer Ships.\n\nLocation: Eximus units in the Grineer Shipyard Tileset, and Railjack missions in Earth, Saturn, and Veil Proximas",
     "imageName": "carbides-7a527a7e84.png",
+    "itemCount": 2000,
     "masterable": false,
     "name": "Carbides",
+    "parents": [
+      "Protea Telema Helmet"
+    ],
     "patchlogs": [
       {
         "name": "Update 29.10.0: Corpus Proxima & The New Railjack",
@@ -2043,8 +2077,16 @@
       }
     ],
     "imageName": "cetus-wisp-0681ca5991.png",
+    "itemCount": 5,
     "masterable": false,
     "name": "Cetus Wisp",
+    "parents": [
+      "Zauba Apparel",
+      "Zauba Cuirass",
+      "Zauba Greaves",
+      "Zauba Mask",
+      "Zauba Pauldrons"
+    ],
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -2219,8 +2261,12 @@
       }
     ],
     "imageName": "condroc-wing-eb7ec93710.png",
+    "itemCount": 5,
     "masterable": false,
     "name": "Condroc Wing",
+    "parents": [
+      "Naberus Ephemera"
+    ],
     "tradable": false,
     "type": "Resource",
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem"
@@ -2985,8 +3031,15 @@
       }
     ],
     "imageName": "damaged-necramech-pod.png",
+    "itemCount": 1,
     "masterable": false,
     "name": "Damaged Necramech Pod",
+    "parents": [
+      "Loid Sentinel Mask",
+      "Loid Sentinel Skin",
+      "Loid Sentinel Tail",
+      "Loid Sentinel Wing"
+    ],
     "tradable": true,
     "type": "Resource",
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem"
@@ -3626,8 +3679,12 @@
       }
     ],
     "imageName": "echo-voca-32f69b9f58.png",
+    "itemCount": 1,
     "masterable": false,
     "name": "Echo Voca",
+    "parents": [
+      "Qorvex"
+    ],
     "tradable": false,
     "type": "Resource",
     "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagRare"
@@ -3939,8 +3996,13 @@
       }
     ],
     "imageName": "entrati-lanthorn-3ee4c5dafc.png",
+    "itemCount": 5,
     "masterable": false,
     "name": "Entrati Lanthorn",
+    "parents": [
+      "Raptwing Ephemera",
+      "Seraphayre Ephemera"
+    ],
     "patchlogs": [
       {
         "name": "Update 31.5: Angels of the Zariman",
@@ -4511,7 +4573,7 @@
     "consumeOnBuild": true,
     "description": "ClanTech weaponized containment field to contain superheated substances.\n\nLocation: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards",
     "imageName": "fieldron-db068da41e.png",
-    "itemCount": 10,
+    "itemCount": 2,
     "masterable": false,
     "name": "Fieldron",
     "parents": [
@@ -4971,8 +5033,12 @@
       }
     ],
     "imageName": "gorgaricus-spore-32dbb7ad0d.png",
+    "itemCount": 60,
     "masterable": false,
     "name": "Gorgaricus Spore",
+    "parents": [
+      "Puppeteer"
+    ],
     "patchlogs": [
       {
         "name": "Empyrean: Prime Vault 27.1.1",
@@ -5387,7 +5453,13 @@
     "masterable": false,
     "name": "Heart Nyth",
     "parents": [
-      "Exceptional Sentient Core"
+      "Caliban Cranion Helmet",
+      "Exceptional Sentient Core",
+      "Vahd Apparel",
+      "Vahd Cuirass",
+      "Vahd Greaves",
+      "Vahd Mask",
+      "Vahd Pauldrons"
     ],
     "patchlogs": [
       {
@@ -5496,8 +5568,24 @@
     "consumeOnBuild": false,
     "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "imageName": "hespazym-alloy-ebcdeeba7a.png",
+    "itemCount": 50,
     "masterable": false,
     "name": "Hespazym Alloy",
+    "parents": [
+      "Haztech Greaves",
+      "Haztech Mask",
+      "Kubrodon Ventkid Greaves",
+      "Kubrodon Ventkid Mask",
+      "Outrider Greaves",
+      "Outrider Mask",
+      "Smelter Greaves",
+      "Smelter Mask",
+      "Styanax Gerousic Helmet",
+      "Vent Pobber Ventkid Greaves",
+      "Vent Pobber Ventkid Mask",
+      "Vent Rat Greaves",
+      "Vent Rat Mask"
+    ],
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -6112,8 +6200,12 @@
     "consumeOnBuild": false,
     "description": "A component used in secure Grineer communication networks.\n\nLocation: Railjack missions in Earth, Saturn, and Veil Proximas",
     "imageName": "komms-4c39bebf94.png",
+    "itemCount": 4,
     "masterable": false,
     "name": "Komms",
+    "parents": [
+      "Protea Telema Helmet"
+    ],
     "patchlogs": [
       {
         "name": "Update 29.10.0: Corpus Proxima & The New Railjack",
@@ -6428,8 +6520,12 @@
       }
     ],
     "imageName": "lua-thrax-plasm-588b2993b7.png",
+    "itemCount": 50,
     "masterable": false,
     "name": "Lua Thrax Plasm",
+    "parents": [
+      "Voruna"
+    ],
     "patchlogs": [
       {
         "name": "Lua’s Prey: Hotfix 32.2.4",
@@ -6510,6 +6606,7 @@
     "masterable": false,
     "name": "Lunar Pitcher",
     "parents": [
+      "Seeding Step Ephemera",
       "Twilight Apothic"
     ],
     "patchlogs": [
@@ -6719,6 +6816,10 @@
     "name": "Marquise Veridos",
     "parents": [
       "Advanced Nosam Cutter",
+      "Loid Sentinel Mask",
+      "Loid Sentinel Skin",
+      "Loid Sentinel Tail",
+      "Loid Sentinel Wing",
       "Sunpoint Plasma Drill"
     ],
     "patchlogs": [
@@ -6850,7 +6951,7 @@
     "category": "Resources",
     "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
     "imageName": "moonlight-dragonlily-1d96fd8309.png",
-    "itemCount": 10,
+    "itemCount": 6,
     "masterable": false,
     "name": "Moonlight Dragonlily",
     "parents": [
@@ -7379,8 +7480,12 @@
       }
     ],
     "imageName": "mytocardia-spore-a69a9e3d86.png",
+    "itemCount": 120,
     "masterable": false,
     "name": "Mytocardia Spore",
+    "parents": [
+      "Hang Tenno"
+    ],
     "patchlogs": [
       {
         "name": "Fortuna: The Profit-Taker - Update 24.2",
@@ -7902,7 +8007,8 @@
     "masterable": false,
     "name": "Nullstones",
     "parents": [
-      "Nautilus"
+      "Nautilus",
+      "Protea Mavv Helmet"
     ],
     "patchlogs": [
       {
@@ -8670,8 +8776,12 @@
     "category": "Resources",
     "description": "The manifestation of Thrax's malevolence that shapes the Orowyrms' outbursts.\n\nLocation: Rewarded upon defeating the Orowyrm in Duviri ",
     "imageName": "pathos-clamp-9b4e5eca68.png",
+    "itemCount": 10,
     "masterable": false,
     "name": "Pathos Clamp",
+    "parents": [
+      "Kullervo"
+    ],
     "tradable": false,
     "type": "Resource",
     "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriDragonDropItem"
@@ -8958,6 +9068,12 @@
     "masterable": false,
     "name": "Radian Sentirum",
     "parents": [
+      "Ceno Apparel",
+      "Ceno Cuirass",
+      "Ceno Greaves",
+      "Ceno Helmet",
+      "Ceno Pauldrons",
+      "Eidolon Ephemera",
       "Exceptional Sentient Core"
     ],
     "patchlogs": [
@@ -9387,7 +9503,11 @@
     "masterable": false,
     "name": "Scintillant",
     "parents": [
-      "Bonewidow Capsule"
+      "Bonewidow Capsule",
+      "Loid Sentinel Mask",
+      "Loid Sentinel Skin",
+      "Loid Sentinel Tail",
+      "Loid Sentinel Wing"
     ],
     "patchlogs": [
       {
@@ -9825,8 +9945,17 @@
       }
     ],
     "imageName": "sola-toroid-54f209afd3.png",
+    "itemCount": 5,
     "masterable": false,
     "name": "Sola Toroid",
+    "parents": [
+      "Haztech Greaves",
+      "Kubrodon Ventkid Greaves",
+      "Outrider Greaves",
+      "Smelter Greaves",
+      "Vent Pobber Ventkid Greaves",
+      "Vent Rat Greaves"
+    ],
     "patchlogs": [
       {
         "name": "Update 31: The New War",
@@ -9935,7 +10064,8 @@
     "masterable": false,
     "name": "Star Crimzian",
     "parents": [
-      "Bonewidow Capsule"
+      "Bonewidow Capsule",
+      "Styanax Agogean Helmet"
     ],
     "patchlogs": [
       {
@@ -10281,7 +10411,7 @@
     "category": "Resources",
     "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
     "imageName": "sunlight-dragonlily-aaeb487cc1.png",
-    "itemCount": 10,
+    "itemCount": 4,
     "masterable": false,
     "name": "Sunlight Dragonlily",
     "parents": [
@@ -10899,8 +11029,13 @@
       }
     ],
     "imageName": "thermal-sludge-b861a393ca.png",
+    "itemCount": 75,
     "masterable": false,
     "name": "Thermal Sludge",
+    "parents": [
+      "Greedy Milk",
+      "Puppeteer"
+    ],
     "patchlogs": [
       {
         "name": "Echoes of War: Banshee & Mirage Prime Vault: Hotfix 31.1.3",
@@ -10985,8 +11120,15 @@
       }
     ],
     "imageName": "thrax-plasm-acf664e015.png",
+    "itemCount": 300,
     "masterable": false,
     "name": "Thrax Plasm",
+    "parents": [
+      "Gyre Automaton Helmet",
+      "Raptwing Ephemera",
+      "Seraphayre Ephemera",
+      "Styanax Gerousic Helmet"
+    ],
     "patchlogs": [
       {
         "name": "Lua’s Prey: Hotfix 32.2.4",
@@ -11876,7 +12018,8 @@
     "masterable": false,
     "name": "Titanium",
     "parents": [
-      "Bonewidow Engine"
+      "Bonewidow Engine",
+      "Protea Mavv Helmet"
     ],
     "patchlogs": [
       {
@@ -12269,8 +12412,17 @@
       }
     ],
     "imageName": "vega-toroid-31d48d6576.png",
+    "itemCount": 5,
     "masterable": false,
     "name": "Vega Toroid",
+    "parents": [
+      "Haztech Pauldrons",
+      "Kubrodon Ventkid Pauldrons",
+      "Outrider Pauldrons",
+      "Smelter Pauldrons",
+      "Vent Pobber Ventkid Pauldrons",
+      "Vent Rat Pauldrons"
+    ],
     "patchlogs": [
       {
         "name": "Update 31: The New War",
@@ -12369,8 +12521,27 @@
     "consumeOnBuild": false,
     "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "imageName": "venerdo-alloy-0699ce0e35.png",
+    "itemCount": 40,
     "masterable": false,
     "name": "Venerdo Alloy",
+    "parents": [
+      "Haztech Apparel",
+      "Haztech Cuirass",
+      "Haztech Pauldrons",
+      "Kubrodon Ventkid Apparel",
+      "Kubrodon Ventkid Cuirass",
+      "Kubrodon Ventkid Pauldrons",
+      "Outrider Cuirass",
+      "Outrider Pauldrons",
+      "Smelter Apparel",
+      "Smelter Cuirass",
+      "Smelter Pauldrons",
+      "Vent Pobber Ventkid Apparel",
+      "Vent Pobber Ventkid Cuirass",
+      "Vent Pobber Ventkid Pauldrons",
+      "Vent Rat Cuirass",
+      "Vent Rat Pauldrons"
+    ],
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -12593,8 +12764,14 @@
       }
     ],
     "imageName": "voidgel-orb-479e1ce26c.png",
+    "itemCount": 45,
     "masterable": false,
     "name": "Voidgel Orb",
+    "parents": [
+      "Gyre Automaton Helmet",
+      "Raptwing Ephemera",
+      "Seraphayre Ephemera"
+    ],
     "patchlogs": [
       {
         "name": "Update 31.5: Angels of the Zariman",
@@ -12677,8 +12854,13 @@
     "category": "Resources",
     "description": "A Void Angel's living feather, ripped out in combat.\n\nLocation: Zariman",
     "imageName": "voidplume-pinion-ddb17aa071.png",
+    "itemCount": 5,
     "masterable": false,
     "name": "Voidplume Pinion",
+    "parents": [
+      "Raptwing Ephemera",
+      "Seraphayre Ephemera"
+    ],
     "patchlogs": [
       {
         "name": "Angels of the Zariman: Hotfix 31.5.4",
@@ -12825,8 +13007,12 @@
     "consumeOnBuild": true,
     "description": "Capsule component for the Voidrig Necramech.",
     "imageName": "voidrig-capsule.png",
+    "itemCount": 1,
     "masterable": false,
     "name": "Voidrig Capsule",
+    "parents": [
+      "Voidrig"
+    ],
     "patchlogs": [
       {
         "name": "Update 31.5: Angels of the Zariman",
@@ -12917,8 +13103,12 @@
     "consumeOnBuild": true,
     "description": "Casing component for the Voidrig Necramech.",
     "imageName": "voidrig-casing.png",
+    "itemCount": 1,
     "masterable": false,
     "name": "Voidrig Casing",
+    "parents": [
+      "Voidrig"
+    ],
     "patchlogs": [
       {
         "name": "Update 31.5: Angels of the Zariman",
@@ -13010,8 +13200,12 @@
     "consumeOnBuild": true,
     "description": "Engine component for the Voidrig Necramech.",
     "imageName": "voidrig-engine.png",
+    "itemCount": 1,
     "masterable": false,
     "name": "Voidrig Engine",
+    "parents": [
+      "Voidrig"
+    ],
     "patchlogs": [
       {
         "name": "Update 31.5: Angels of the Zariman",
@@ -13102,8 +13296,12 @@
     "consumeOnBuild": true,
     "description": "Weapon Pod component for the Voidrig Necramech.",
     "imageName": "voidrig-weapon-pod.png",
+    "itemCount": 1,
     "masterable": false,
     "name": "Voidrig Weapon Pod",
+    "parents": [
+      "Voidrig"
+    ],
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
