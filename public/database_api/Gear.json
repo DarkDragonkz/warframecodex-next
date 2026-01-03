@@ -2477,8 +2477,19 @@
       }
     ],
     "imageName": "fass-residue-b9d66017f7.png",
+    "itemCount": 6,
     "masterable": false,
     "name": "Fass Residue",
+    "parents": [
+      "Desus Antigen",
+      "Elasmun Antigen",
+      "Ibexan Antigen",
+      "Iranon Antigen",
+      "Plagen Antigen",
+      "Poxi Antigen",
+      "Tethron Antigen",
+      "Virox Antigen"
+    ],
     "patchlogs": [
       {
         "name": "Nora's Mix Volume 1: Update 31.2.0 + 31.2.0.1",
@@ -9467,8 +9478,19 @@
       }
     ],
     "imageName": "vome-residue-5a9cb65b4d.png",
+    "itemCount": 6,
     "masterable": false,
     "name": "Vome Residue",
+    "parents": [
+      "Adra Mutagen",
+      "Arioli Mutagen",
+      "Chiten Mutagen",
+      "Elsa Mutagen",
+      "Leptosam Mutagen",
+      "Monachod Mutagen",
+      "Phijar Mutagen",
+      "Zarim Mutagen"
+    ],
     "patchlogs": [
       {
         "name": "Nightwave: Nora’s Choice: Update 30.6.0",
@@ -9956,7 +9978,7 @@
         "url": "https://forums.warframe.com/topic/263213-update-14-the-mad-cephalon/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Vauban’s Vortex effect not appearing in same position as Vortex Ball."
+        "fixes": "Fixed Vauban��s Vortex effect not appearing in same position as Vortex Ball."
       },
       {
         "name": "Update 13.3.0: Pack Hunters",
