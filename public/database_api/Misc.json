@@ -2817,7 +2817,7 @@
         "url": "https://forums.warframe.com/topic/1224002-heart-of-deimos-hotfix-2908-29081/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed the Arquebex having an unintended 9th Mod Slot. "
+        "fixes": "Fixed the Arquebex having an unintended 9th Mod Slot.��"
       },
       {
         "name": "Heart of Deimos: Hotfix 29.0.7",
@@ -39165,7 +39165,7 @@
         "date": "2022-06-09T14:49:52Z",
         "url": "https://forums.warframe.com/topic/1313506-echoes-of-the-zariman-update-316/",
         "additions": "",
-        "changes": "Updated the Anti-Warframe field (Exolizers in Void Cascade and Kuva Trokarian��s Anti-Warframe Grenades) to no longer nullify Warframe abilities on forced Transference. As mentioned in the Hotfix 31.5.10 notes.\nFixed script error when using Transference while being Switch Teleported by a Kuva Lich.\nKuva Trokarian enemies are receiving some changes to make them feel like more of a threat when they appear in-mission. \nAdded Overguard to the Kuva Trokarian (but at a lesser value than the Eximus Overguard)\nIncreased Affinity earned from killing a Kuva Trokarian from 500 to 750. \nAdded a fade-in FX for current Requiem Mod combination and history in the Kuva Lich/Sister of Parvos screen in the Codex. ",
+        "changes": "Updated the Anti-Warframe field (Exolizers in Void Cascade and Kuva Trokarian’s Anti-Warframe Grenades) to no longer nullify Warframe abilities on forced Transference. As mentioned in the Hotfix 31.5.10 notes.\nFixed script error when using Transference while being Switch Teleported by a Kuva Lich.\nKuva Trokarian enemies are receiving some changes to make them feel like more of a threat when they appear in-mission. \nAdded Overguard to the Kuva Trokarian (but at a lesser value than the Eximus Overguard)\nIncreased Affinity earned from killing a Kuva Trokarian from 500 to 750. \nAdded a fade-in FX for current Requiem Mod combination and history in the Kuva Lich/Sister of Parvos screen in the Codex. ",
         "fixes": "Fixed the Aeolak, Kuva Hek, and Euphona Prime not playing the proper reload animation when the last shot in the magazine is from its alt fire. \nFixed text overlapping in the weapon description Arsenal UI for Kuva and Tenet weapons. "
       },
       {
