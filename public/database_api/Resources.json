@@ -6874,7 +6874,7 @@
     "category": "Resources",
     "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
     "imageName": "lunar-pitcher-f17f7c3873.png",
-    "itemCount": 6,
+    "itemCount": 50,
     "masterable": false,
     "name": "Lunar Pitcher",
     "parents": [
@@ -7237,7 +7237,7 @@
     "category": "Resources",
     "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
     "imageName": "moonlight-dragonlily-1d96fd8309.png",
-    "itemCount": 6,
+    "itemCount": 10,
     "masterable": false,
     "name": "Moonlight Dragonlily",
     "parents": [
@@ -10825,7 +10825,7 @@
     "category": "Resources",
     "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
     "imageName": "sunlight-dragonlily-aaeb487cc1.png",
-    "itemCount": 4,
+    "itemCount": 10,
     "masterable": false,
     "name": "Sunlight Dragonlily",
     "parents": [

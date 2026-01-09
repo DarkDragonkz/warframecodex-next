@@ -2817,7 +2817,7 @@
         "url": "https://forums.warframe.com/topic/1224002-heart-of-deimos-hotfix-2908-29081/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed the Arquebex having an unintended 9th Mod Slot.��"
+        "fixes": "Fixed the Arquebex having an unintended 9th Mod Slot. "
       },
       {
         "name": "Heart of Deimos: Hotfix 29.0.7",
@@ -35418,7 +35418,7 @@
       }
     ],
     "imageName": "karkina-antenna-98c141fdea.png",
-    "itemCount": 3,
+    "itemCount": 20,
     "masterable": false,
     "name": "Karkina Antenna",
     "parents": [
@@ -58379,7 +58379,7 @@
         "date": "2020-01-10T21:04:20Z",
         "url": "https://forums.warframe.com/topic/1160887-empyrean-ivara-prime-27010/",
         "additions": "",
-        "changes": "We bring you another Hotfix before the weekend arrives. The first Hotfix of 2020, 27.0.9, brought a slew of Railjack tailored Additions, Changes, and Fixes (among general ones as well), of which we have been reading your initial feedback. Railjack Resource balancing continues to be a hot topic of discussion in regards to the overall Railjack experience. More to come!\nPlayers will now have ~3 seconds of invulnerability when exiting the Railjack or a Point of Interest! \nRepairing a minor Railjack Breach/Fire/Electrical when a Catastrophic Failure breach is active will no longer give Health back to the Railjack.\nThis addresses numerous cases of Railjack invulnerability abuse by manipulating the Catastrophic Failure breach timer. We’re looking at other ways to allow Health on minor Breach repairs/fires/electrical during a Catastrophic Failure without opening the door to this misuse. \nDistance values on Railjack enemies will now be displayed once their name is visible.\nUpgraded art quality for certain Grineer Installations in Railjack missions.\nMade some micro-optimizations to the Railjack HUD.\nFixed being placed outside of the Railjack level when loading into a Railjack mission from your Orbiter as the Operator.\nFixed control settings such as mouse sensitivity being set to non-Railjack settings when a Crewship is destroyed. \nThis was most noticeable when Piloting the Railjack during the Crewship explosion, as sensitivity would abruptly change until the Pilot seat was dismounted.\nFixed cases of Armament Wreckage unique stats not showing. This was due to the physical Armament not being equipped on the side of the Railjack, which then considered it not equipped.\nFixed the Munition Ammo count UI in the Railjack displaying 1 more capacity than you actually have (ie 30/31).\nFixed Railjack Forge not applying yield multipliers (Engineer Intrinsic bonus) to displayed craft amounts.\nFixes towards Ram Sleds occurring during a transition to the Dojo after completing a Railjack mission.\nFixed hazard markers (Fire, Electricity, Fast Travel) inside the Railjack appearing in the wrong locations when viewed in the Tactical Menu while on the Pilot seat or side Turrets.\nFixed missing Railjack enemy UI after exiting/returning/exiting the Railjack.\nFixed incorrect minimap overlay when failing a Railjack mission and returning to the Dojo.\nFixed Railjack enemies displaying a Rank of 00.\nFixed a crash while transitioning levels in the Railjack.\nFixed unlocalized Railjack recall text.",
+        "changes": "We bring you another Hotfix before the weekend arrives. The first Hotfix of 2020, 27.0.9, brought a slew of Railjack tailored Additions, Changes, and Fixes (among general ones as well), of which we have been reading your initial feedback. Railjack Resource balancing continues to be a hot topic of discussion in regards to the overall Railjack experience. More to come!\nPlayers will now have ~3 seconds of invulnerability when exiting the Railjack or a Point of Interest!��\nRepairing a minor Railjack Breach/Fire/Electrical when a Catastrophic Failure breach is active will no longer give Health back to the Railjack.\nThis addresses numerous cases of Railjack invulnerability abuse by manipulating the Catastrophic Failure breach timer. We’re looking at other ways to allow Health on minor Breach repairs/fires/electrical during a Catastrophic Failure without opening the door to this misuse. \nDistance values on Railjack enemies will now be displayed once their name is visible.\nUpgraded art quality for certain Grineer Installations in Railjack missions.\nMade some micro-optimizations to the Railjack HUD.\nFixed being placed outside of the Railjack level when loading into a Railjack mission from your Orbiter as the Operator.\nFixed control settings such as mouse sensitivity being set to non-Railjack settings when a Crewship is destroyed. \nThis was most noticeable when Piloting the Railjack during the Crewship explosion, as sensitivity would abruptly change until the Pilot seat was dismounted.\nFixed cases of Armament Wreckage unique stats not showing. This was due to the physical Armament not being equipped on the side of the Railjack, which then considered it not equipped.\nFixed the Munition Ammo count UI in the Railjack displaying 1 more capacity than you actually have (ie 30/31).\nFixed Railjack Forge not applying yield multipliers (Engineer Intrinsic bonus) to displayed craft amounts.\nFixes towards Ram Sleds occurring during a transition to the Dojo after completing a Railjack mission.\nFixed hazard markers (Fire, Electricity, Fast Travel) inside the Railjack appearing in the wrong locations when viewed in the Tactical Menu while on the Pilot seat or side Turrets.\nFixed missing Railjack enemy UI after exiting/returning/exiting the Railjack.\nFixed incorrect minimap overlay when failing a Railjack mission and returning to the Dojo.\nFixed Railjack enemies displaying a Rank of 00.\nFixed a crash while transitioning levels in the Railjack.\nFixed unlocalized Railjack recall text.",
         "fixes": ""
       },
       {
@@ -64383,7 +64383,7 @@
       }
     ],
     "imageName": "sharrac-teeth-00c5c5e9ae.png",
-    "itemCount": 5,
+    "itemCount": 20,
     "masterable": false,
     "name": "Sharrac Teeth",
     "parents": [
@@ -64710,7 +64710,7 @@
         "speed": 1.33,
         "crit_chance": 20,
         "crit_mult": 2,
-        "status_chance": 20,
+        "status_chance": 30,
         "shot_type": "AoE",
         "falloff": {
           "start": 0,
