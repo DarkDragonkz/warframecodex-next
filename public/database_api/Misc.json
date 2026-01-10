@@ -274,9 +274,9 @@
   {
     "category": "Misc",
     "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
-    "imageName": "albrecht’s-archive-scene-8fa63a6659.png",
+    "imageName": "albrecht's-archive-scene-8fa63a6659.png",
     "masterable": false,
-    "name": "Albrecht’S Archive Scene",
+    "name": "Albrecht's Archive Scene",
     "tradable": true,
     "type": "Captura",
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/Entrati/PhotoboothTileArchives"
@@ -284,9 +284,9 @@
   {
     "category": "Misc",
     "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
-    "imageName": "albrecht’s-bureau-scene-6a34a1087d.png",
+    "imageName": "albrecht's-bureau-scene-6a34a1087d.png",
     "masterable": false,
-    "name": "Albrecht’S Bureau Scene",
+    "name": "Albrecht's Bureau Scene",
     "tradable": true,
     "type": "Captura",
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/Entrati/PhotoboothTileCapRoomNarrow"
@@ -449,7 +449,7 @@
       }
     ],
     "imageName": "alloy-plate-af5adc4919.png",
-    "itemCount": 1700,
+    "itemCount": 1600,
     "masterable": false,
     "name": "Alloy Plate",
     "parents": [
@@ -7253,9 +7253,9 @@
   {
     "category": "Misc",
     "description": "Claim an item from your Foundry.",
-    "imageName": "builder’s-touch-a170d7e04d.png",
+    "imageName": "builder's-touch-a170d7e04d.png",
     "masterable": false,
-    "name": "Builder’S Touch",
+    "name": "Builder's Touch",
     "required": 1,
     "standing": 1000,
     "tradable": false,
@@ -11137,9 +11137,9 @@
     "category": "Misc",
     "description": "The spines on this mushroom appear to be extremely sharp. Take it to Nightcap in the airlock for further information.\n\nLocation: Deepmines Bounties on Venus",
     "excludeFromCodex": true,
-    "imageName": "devil’s-cap-e45ee0aee3.png",
+    "imageName": "devil's-cap-e45ee0aee3.png",
     "masterable": false,
-    "name": "Devil’S Cap",
+    "name": "Devil's Cap",
     "tradable": false,
     "type": "Misc",
     "uniqueName": "/Lotus/Types/Items/MushroomJournal/SlashMushroomJournalItem"
@@ -16139,7 +16139,7 @@
     "category": "Misc",
     "description": "Retrieved from the shores of a sacred fate dream.\n\nLocation: Saya's Visions on Earth",
     "imageName": "fate-pearl-63a5539a2d.png",
-    "itemCount": 5,
+    "itemCount": 30,
     "masterable": false,
     "name": "Fate Pearl",
     "parents": [
@@ -33512,7 +33512,7 @@
     "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
     "imageName": "höllvania-central-mall-subway-74e4a3b54a.png",
     "masterable": false,
-    "name": "HöLlvania Central Mall Subway",
+    "name": "Höllvania Central Mall Subway",
     "tradable": true,
     "type": "Captura",
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConMallStargla"
@@ -33523,7 +33523,7 @@
     "excludeFromCodex": true,
     "imageName": "höllvanian-collapsed-underground-scene-e187940a54.png",
     "masterable": false,
-    "name": "HöLlvanian Collapsed Underground Scene",
+    "name": "Höllvanian Collapsed Underground Scene",
     "tradable": true,
     "type": "Captura",
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConMallEftwel"
@@ -33534,7 +33534,7 @@
     "excludeFromCodex": true,
     "imageName": "höllvanian-courtyard-simulacrum-c4a76b7a90.png",
     "masterable": false,
-    "name": "HöLlvanian Courtyard Simulacrum",
+    "name": "Höllvanian Courtyard Simulacrum",
     "tradable": false,
     "type": "Simulacrum",
     "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile1999StreetCourtyard"
@@ -33544,7 +33544,7 @@
     "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
     "imageName": "höllvanian-historic-quarter-in-spring-scene-931cab23f1.png",
     "masterable": false,
-    "name": "HöLlvanian Historic Quarter In Spring Scene",
+    "name": "Höllvanian Historic Quarter In Spring Scene",
     "tradable": true,
     "type": "Captura",
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetOgres"
@@ -33554,7 +33554,7 @@
     "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
     "imageName": "höllvanian-intersection-in-winter-scene-3c34e8c960.png",
     "masterable": false,
-    "name": "HöLlvanian Intersection In Winter Scene",
+    "name": "Höllvanian Intersection In Winter Scene",
     "tradable": true,
     "type": "Captura",
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetJekabpils"
@@ -33564,7 +33564,7 @@
     "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
     "imageName": "höllvanian-old-town-in-fall-scene-b0d875e8dd.png",
     "masterable": false,
-    "name": "HöLlvanian Old Town In Fall Scene",
+    "name": "Höllvanian Old Town In Fall Scene",
     "tradable": true,
     "type": "Captura",
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetStrencu"
@@ -33575,7 +33575,7 @@
     "excludeFromCodex": true,
     "imageName": "höllvanian-subway-junction-scene-4a2a0a5898.png",
     "masterable": false,
-    "name": "HöLlvanian Subway Junction Scene",
+    "name": "Höllvanian Subway Junction Scene",
     "tradable": true,
     "type": "Captura",
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaIntTracksCatwalks"
@@ -33585,7 +33585,7 @@
     "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
     "imageName": "höllvanian-tenements-in-summer-scene-cd83259f3c.png",
     "masterable": false,
-    "name": "HöLlvanian Tenements In Summer Scene",
+    "name": "Höllvanian Tenements In Summer Scene",
     "tradable": true,
     "type": "Captura",
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetMatisa"
@@ -33595,7 +33595,7 @@
     "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
     "imageName": "höllvanian-terrace-in-summer-scene-1999fd46be.png",
     "masterable": false,
-    "name": "HöLlvanian Terrace In Summer Scene",
+    "name": "Höllvanian Terrace In Summer Scene",
     "tradable": true,
     "type": "Captura",
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConAlleyValguma"
@@ -51437,7 +51437,7 @@
       }
     ],
     "imageName": "nitain-extract-ba7ea3b2cf.png",
-    "itemCount": 3,
+    "itemCount": 5,
     "masterable": false,
     "name": "Nitain Extract",
     "parents": [
@@ -58379,7 +58379,7 @@
         "date": "2020-01-10T21:04:20Z",
         "url": "https://forums.warframe.com/topic/1160887-empyrean-ivara-prime-27010/",
         "additions": "",
-        "changes": "We bring you another Hotfix before the weekend arrives. The first Hotfix of 2020, 27.0.9, brought a slew of Railjack tailored Additions, Changes, and Fixes (among general ones as well), of which we have been reading your initial feedback. Railjack Resource balancing continues to be a hot topic of discussion in regards to the overall Railjack experience. More to come!\nPlayers will now have ~3 seconds of invulnerability when exiting the Railjack or a Point of Interest!��\nRepairing a minor Railjack Breach/Fire/Electrical when a Catastrophic Failure breach is active will no longer give Health back to the Railjack.\nThis addresses numerous cases of Railjack invulnerability abuse by manipulating the Catastrophic Failure breach timer. We’re looking at other ways to allow Health on minor Breach repairs/fires/electrical during a Catastrophic Failure without opening the door to this misuse. \nDistance values on Railjack enemies will now be displayed once their name is visible.\nUpgraded art quality for certain Grineer Installations in Railjack missions.\nMade some micro-optimizations to the Railjack HUD.\nFixed being placed outside of the Railjack level when loading into a Railjack mission from your Orbiter as the Operator.\nFixed control settings such as mouse sensitivity being set to non-Railjack settings when a Crewship is destroyed. \nThis was most noticeable when Piloting the Railjack during the Crewship explosion, as sensitivity would abruptly change until the Pilot seat was dismounted.\nFixed cases of Armament Wreckage unique stats not showing. This was due to the physical Armament not being equipped on the side of the Railjack, which then considered it not equipped.\nFixed the Munition Ammo count UI in the Railjack displaying 1 more capacity than you actually have (ie 30/31).\nFixed Railjack Forge not applying yield multipliers (Engineer Intrinsic bonus) to displayed craft amounts.\nFixes towards Ram Sleds occurring during a transition to the Dojo after completing a Railjack mission.\nFixed hazard markers (Fire, Electricity, Fast Travel) inside the Railjack appearing in the wrong locations when viewed in the Tactical Menu while on the Pilot seat or side Turrets.\nFixed missing Railjack enemy UI after exiting/returning/exiting the Railjack.\nFixed incorrect minimap overlay when failing a Railjack mission and returning to the Dojo.\nFixed Railjack enemies displaying a Rank of 00.\nFixed a crash while transitioning levels in the Railjack.\nFixed unlocalized Railjack recall text.",
+        "changes": "We bring you another Hotfix before the weekend arrives. The first Hotfix of 2020, 27.0.9, brought a slew of Railjack tailored Additions, Changes, and Fixes (among general ones as well), of which we have been reading your initial feedback. Railjack Resource balancing continues to be a hot topic of discussion in regards to the overall Railjack experience. More to come!\nPlayers will now have ~3 seconds of invulnerability when exiting the Railjack or a Point of Interest! \nRepairing a minor Railjack Breach/Fire/Electrical when a Catastrophic Failure breach is active will no longer give Health back to the Railjack.\nThis addresses numerous cases of Railjack invulnerability abuse by manipulating the Catastrophic Failure breach timer. We’re looking at other ways to allow Health on minor Breach repairs/fires/electrical during a Catastrophic Failure without opening the door to this misuse. \nDistance values on Railjack enemies will now be displayed once their name is visible.\nUpgraded art quality for certain Grineer Installations in Railjack missions.\nMade some micro-optimizations to the Railjack HUD.\nFixed being placed outside of the Railjack level when loading into a Railjack mission from your Orbiter as the Operator.\nFixed control settings such as mouse sensitivity being set to non-Railjack settings when a Crewship is destroyed. \nThis was most noticeable when Piloting the Railjack during the Crewship explosion, as sensitivity would abruptly change until the Pilot seat was dismounted.\nFixed cases of Armament Wreckage unique stats not showing. This was due to the physical Armament not being equipped on the side of the Railjack, which then considered it not equipped.\nFixed the Munition Ammo count UI in the Railjack displaying 1 more capacity than you actually have (ie 30/31).\nFixed Railjack Forge not applying yield multipliers (Engineer Intrinsic bonus) to displayed craft amounts.\nFixes towards Ram Sleds occurring during a transition to the Dojo after completing a Railjack mission.\nFixed hazard markers (Fire, Electricity, Fast Travel) inside the Railjack appearing in the wrong locations when viewed in the Tactical Menu while on the Pilot seat or side Turrets.\nFixed missing Railjack enemy UI after exiting/returning/exiting the Railjack.\nFixed incorrect minimap overlay when failing a Railjack mission and returning to the Dojo.\nFixed Railjack enemies displaying a Rank of 00.\nFixed a crash while transitioning levels in the Railjack.\nFixed unlocalized Railjack recall text.",
         "fixes": ""
       },
       {
@@ -77683,9 +77683,9 @@
     "category": "Misc",
     "description": "This multi-capped mushroom should probably not be ingested. Take it to Nightcap in the airlock for further information.\n\nLocation: Deepmines Bounties on Venus",
     "excludeFromCodex": true,
-    "imageName": "violet’s-bane-facc715442.png",
+    "imageName": "violet's-bane-facc715442.png",
     "masterable": false,
-    "name": "Violet’S Bane",
+    "name": "Violet's Bane",
     "tradable": false,
     "type": "Misc",
     "uniqueName": "/Lotus/Types/Items/MushroomJournal/ViralMushroomJournalItem"

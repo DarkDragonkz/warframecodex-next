@@ -932,11 +932,11 @@
       },
       {
         "uniqueName": "/Lotus/Types/Items/MushroomJournal/ViralMushroomJournalItem",
-        "name": "Violet’S Bane",
+        "name": "Violet's Bane",
         "description": "This multi-capped mushroom should probably not be ingested. Take it to Nightcap in the airlock for further information.\n\nLocation: Deepmines Bounties on Venus",
         "excludeFromCodex": true,
         "itemCount": 10,
-        "imageName": "violet’s-bane-facc715442.png",
+        "imageName": "violet's-bane-facc715442.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -2349,9 +2349,9 @@
     "category": "Skins",
     "description": "For that 'couldn't sleep, too wired' look.",
     "excludeFromCodex": true,
-    "imageName": "amir’s-hairstyle-ccae80857e.png",
+    "imageName": "amir's-hairstyle-ccae80857e.png",
     "masterable": false,
-    "name": "Amir’S Hairstyle",
+    "name": "Amir's Hairstyle",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Volt"
@@ -3235,9 +3235,9 @@
     "category": "Skins",
     "description": "Aoi's daring, angular cut, the apex of street style.",
     "excludeFromCodex": true,
-    "imageName": "aoi’s-hairstyle-974e2bd494.png",
+    "imageName": "aoi's-hairstyle-974e2bd494.png",
     "masterable": false,
-    "name": "Aoi’S Hairstyle",
+    "name": "Aoi's Hairstyle",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Mag"
@@ -6146,9 +6146,9 @@
     "category": "Skins",
     "description": "Floppy locks, for a classic 90s Emo look.",
     "excludeFromCodex": true,
-    "imageName": "arthur’s-hairstyle-91d725de90.png",
+    "imageName": "arthur's-hairstyle-91d725de90.png",
     "masterable": false,
-    "name": "Arthur’S Hairstyle",
+    "name": "Arthur's Hairstyle",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Excalibur"
@@ -11044,11 +11044,11 @@
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusBootItem",
-        "name": "Crewman’S Boot",
+        "name": "Crewman's Boot",
         "description": "While the Vallis coolant has kept this finely engineered Corpus tactical boot remarkably well preserved, it is, nonetheless, entirely worthless.",
         "excludeFromCodex": true,
         "itemCount": 1,
-        "imageName": "crewman’s-boot-4a98ae6dce.png",
+        "imageName": "crewman's-boot-4a98ae6dce.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -33641,9 +33641,9 @@
   {
     "category": "Skins",
     "description": "An elegant portrait of Dynar, the shadowed.",
-    "imageName": "dynar’s-leverian-mural-765ecd02a0.png",
+    "imageName": "dynar's-leverian-mural-765ecd02a0.png",
     "masterable": false,
-    "name": "Dynar’S Leverian Mural",
+    "name": "Dynar's Leverian Mural",
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Leverian/LisetPropMuralMezzik"
@@ -34626,9 +34626,9 @@
     "category": "Skins",
     "description": "Eleanor's signature flowing locks, tightly bound up.",
     "excludeFromCodex": true,
-    "imageName": "eleanor’s-hairstyle-b61ee195d4.png",
+    "imageName": "eleanor's-hairstyle-b61ee195d4.png",
     "masterable": false,
-    "name": "Eleanor’S Hairstyle",
+    "name": "Eleanor's Hairstyle",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Nyx"
@@ -59854,7 +59854,7 @@
     "description": "An unbreakable pile of Pitchweave.",
     "imageName": "höllvanian-pitchweave-tarps-decoration-f7e0b109c0.png",
     "masterable": false,
-    "name": "HöLlvanian Pitchweave Tarps Decoration",
+    "name": "Höllvanian Pitchweave Tarps Decoration",
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/LisetPropLASxPitchweaveFragmentCluster"
@@ -70631,9 +70631,9 @@
     "category": "Skins",
     "description": "Become the very picture of regard with this Ki'Teer original armor.",
     "excludeFromCodex": true,
-    "imageName": "ki’teer-greth-chest-plate-c291ab97f5.png",
+    "imageName": "ki'teer-greth-chest-plate-c291ab97f5.png",
     "masterable": false,
-    "name": "Ki’Teer Greth Chest Plate",
+    "name": "Ki'Teer Greth Chest Plate",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeC"
@@ -70642,9 +70642,9 @@
     "category": "Skins",
     "description": "Become the very picture of regard with this Ki'Teer original armor.",
     "excludeFromCodex": true,
-    "imageName": "ki’teer-greth-leg-plates-0634c02c31.png",
+    "imageName": "ki'teer-greth-leg-plates-0634c02c31.png",
     "masterable": false,
-    "name": "Ki’Teer Greth Leg Plates",
+    "name": "Ki'Teer Greth Leg Plates",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeL"
@@ -70653,9 +70653,9 @@
     "category": "Skins",
     "description": "Become the very picture of regard with this Ki'Teer original armor.",
     "excludeFromCodex": true,
-    "imageName": "ki’teer-greth-shoulder-plates-168b5c1ac6.png",
+    "imageName": "ki'teer-greth-shoulder-plates-168b5c1ac6.png",
     "masterable": false,
-    "name": "Ki’Teer Greth Shoulder Plates",
+    "name": "Ki'Teer Greth Shoulder Plates",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeA"
@@ -76496,9 +76496,9 @@
     "category": "Skins",
     "description": "Lettie's classic vintage pompadour.",
     "excludeFromCodex": true,
-    "imageName": "lettie’s-hairstyle-3286e121d9.png",
+    "imageName": "lettie's-hairstyle-3286e121d9.png",
     "masterable": false,
-    "name": "Lettie’S Hairstyle",
+    "name": "Lettie's Hairstyle",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Trinity"
@@ -78083,9 +78083,9 @@
     "category": "Skins",
     "description": "The elegant, well-maintained tresses of a gentleman's gentleman.",
     "excludeFromCodex": true,
-    "imageName": "loid’s-hairstyle-b1a5bc2890.png",
+    "imageName": "loid's-hairstyle-b1a5bc2890.png",
     "masterable": false,
-    "name": "Loid’S Hairstyle",
+    "name": "Loid's Hairstyle",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Loid"
@@ -83075,9 +83075,9 @@
   {
     "category": "Skins",
     "description": "An elegant portrait of Lycath, the stalwart brother.",
-    "imageName": "lycath’s-leverian-mural-b5fd96acfb.png",
+    "imageName": "lycath's-leverian-mural-b5fd96acfb.png",
     "masterable": false,
-    "name": "Lycath’S Leverian Mural",
+    "name": "Lycath's Leverian Mural",
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Leverian/LisetPropMuralVonnel"
@@ -84686,9 +84686,9 @@
     "category": "Skins",
     "description": "Neci Rusalka’s distinctive Scaldra hat, received as part of a mysterious communication.",
     "excludeFromCodex": true,
-    "imageName": "major-rusalka’s-hat-memento-1b6db4e043.png",
+    "imageName": "major-rusalka's-hat-memento-1b6db4e043.png",
     "masterable": false,
-    "name": "Major Rusalka’S Hat Memento",
+    "name": "Major Rusalka's Hat Memento",
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Duviri/Mitw/RusalkaHat"
@@ -84697,9 +84697,9 @@
     "category": "Skins",
     "description": "Medals for valor awarded to Neci Rusalka, received as part of a mysterious communication.",
     "excludeFromCodex": true,
-    "imageName": "major-rusalka’s-medals-memento-3127202fd1.png",
+    "imageName": "major-rusalka's-medals-memento-3127202fd1.png",
     "masterable": false,
-    "name": "Major Rusalka’S Medals Memento",
+    "name": "Major Rusalka's Medals Memento",
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Duviri/Mitw/RusalkaMedals"
@@ -99068,9 +99068,9 @@
   {
     "category": "Skins",
     "description": "Just try to be as cool as Ollie with this signature Atomicycle livery.",
-    "imageName": "ollie’s-rocket-livery-66c4a4be09.png",
+    "imageName": "ollie's-rocket-livery-66c4a4be09.png",
     "masterable": false,
-    "name": "Ollie’S Rocket Livery",
+    "name": "Ollie's Rocket Livery",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleOllieSkin"
@@ -110912,9 +110912,9 @@
     "category": "Skins",
     "description": "Braids and beads embody the marksman's pride.",
     "excludeFromCodex": true,
-    "imageName": "quincy’s-hairstyle-79b765bdaa.png",
+    "imageName": "quincy's-hairstyle-79b765bdaa.png",
     "masterable": false,
-    "name": "Quincy’S Hairstyle",
+    "name": "Quincy's Hairstyle",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Quincy"
@@ -111102,9 +111102,9 @@
   {
     "category": "Skins",
     "description": "An elegant portrait of Raksh, the defender.",
-    "imageName": "raksh’s-leverian-mural-37f33463da.png",
+    "imageName": "raksh's-leverian-mural-37f33463da.png",
     "masterable": false,
-    "name": "Raksh’S Leverian Mural",
+    "name": "Raksh's Leverian Mural",
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Leverian/LisetPropMuralShyur"
@@ -114843,9 +114843,9 @@
   {
     "category": "Skins",
     "description": "Scrawl art designed by the Ventkids to customize your K-Drive.",
-    "imageName": "roots-n’-fruits-c4a6ef076a.png",
+    "imageName": "roots-n'-fruits-c4a6ef076a.png",
     "masterable": false,
-    "name": "Roots N’ Fruits",
+    "name": "Roots N' Fruits",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Hoverboard/HoverboardStickerNokkoA"
@@ -115762,9 +115762,9 @@
     "category": "Skins",
     "description": "Major Rusalka's splendid hair, carefully plaited to keep it from entangling in her mechanical arm.",
     "excludeFromCodex": true,
-    "imageName": "rusalka’s-hairstyle-cd105013a0.png",
+    "imageName": "rusalka's-hairstyle-cd105013a0.png",
     "masterable": false,
-    "name": "Rusalka’S Hairstyle",
+    "name": "Rusalka's Hairstyle",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Rusalka"
@@ -133499,11 +133499,11 @@
       },
       {
         "uniqueName": "/Lotus/Types/Items/MushroomJournal/SlashMushroomJournalItem",
-        "name": "Devil’S Cap",
+        "name": "Devil's Cap",
         "description": "The spines on this mushroom appear to be extremely sharp. Take it to Nightcap in the airlock for further information.\n\nLocation: Deepmines Bounties on Venus",
         "excludeFromCodex": true,
         "itemCount": 10,
-        "imageName": "devil’s-cap-e45ee0aee3.png",
+        "imageName": "devil's-cap-e45ee0aee3.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -138184,9 +138184,9 @@
   {
     "category": "Skins",
     "description": "An elegant portrait of Ulfrun, the fierce.",
-    "imageName": "ulfrun’s-leverian-mural-59d852de56.png",
+    "imageName": "ulfrun's-leverian-mural-59d852de56.png",
     "masterable": false,
-    "name": "Ulfrun’S Leverian Mural",
+    "name": "Ulfrun's Leverian Mural",
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Leverian/LisetPropMuralFenrus"
@@ -138831,11 +138831,11 @@
       },
       {
         "uniqueName": "/Lotus/Types/Items/MushroomJournal/ViralMushroomJournalItem",
-        "name": "Violet’S Bane",
+        "name": "Violet's Bane",
         "description": "This multi-capped mushroom should probably not be ingested. Take it to Nightcap in the airlock for further information.\n\nLocation: Deepmines Bounties on Venus",
         "excludeFromCodex": true,
         "itemCount": 10,
-        "imageName": "violet’s-bane-facc715442.png",
+        "imageName": "violet's-bane-facc715442.png",
         "tradable": false,
         "masterable": false,
         "drops": []

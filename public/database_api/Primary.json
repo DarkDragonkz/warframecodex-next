@@ -4752,7 +4752,7 @@
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB",
-        "name": "HöLlvanian Pitchweave Fragment",
+        "name": "Höllvanian Pitchweave Fragment",
         "description": "An Efervon-resistant material used to craft Scaldra uniforms.\n\nLocation: 1999 (Höllvania)",
         "itemCount": 60,
         "imageName": "höllvanian-pitchweave-fragment-4ba496b3bd.png",
@@ -62760,7 +62760,7 @@
         "speed": 0.667,
         "crit_chance": 40,
         "crit_mult": 3,
-        "status_chance": 50,
+        "status_chance": 32,
         "charge_time": 1.6,
         "shot_type": "Projectile",
         "shot_speed": 300,

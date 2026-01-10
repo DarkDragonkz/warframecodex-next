@@ -3785,7 +3785,7 @@
       }
     ],
     "imageName": "echo-voca-32f69b9f58.png",
-    "itemCount": 2,
+    "itemCount": 1,
     "masterable": false,
     "name": "Echo Voca",
     "parents": [
@@ -5884,7 +5884,7 @@
     "imageName": "höllvanian-pitchweave-fragment-4ba496b3bd.png",
     "itemCount": 60,
     "masterable": false,
-    "name": "HöLlvanian Pitchweave Fragment",
+    "name": "Höllvanian Pitchweave Fragment",
     "parents": [
       "Ax-52"
     ],

@@ -102103,7 +102103,7 @@
     "category": "Mods",
     "excludeFromCodex": true,
     "fusionLimit": 3,
-    "imageName": "killer’s-rush-9dda3e6877.jpg",
+    "imageName": "killer's-rush-9dda3e6877.jpg",
     "isPrime": false,
     "levelStats": [
       {
@@ -102128,7 +102128,7 @@
       }
     ],
     "masterable": false,
-    "name": "Killer’S Rush",
+    "name": "Killer's Rush",
     "polarity": "naramon",
     "rarity": "Rare",
     "tradable": false,
@@ -264985,7 +264985,7 @@
         "url": "https://forums.warframe.com/topic/280774-hotfix-1413/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed an issue with Split Chamber and the Quanta resulting in a face explosion when fired, projectiles from the same ��shot’ will no longer collide with each other."
+        "fixes": "Fixed an issue with Split Chamber and the Quanta resulting in a face explosion when fired, projectiles from the same ‘shot’ will no longer collide with each other."
       }
     ],
     "polarity": "madurai",
@@ -277301,22 +277301,8 @@
     "baseDrain": -2,
     "category": "Mods",
     "compatName": "AURA",
-    "drops": [
-      {
-        "chance": 0.0016,
-        "location": "Scaldra Barbican",
-        "rarity": "Rare",
-        "type": "Summoner’S Wrath"
-      },
-      {
-        "chance": 0.0091,
-        "location": "Scaldra Eradicator",
-        "rarity": "Common",
-        "type": "Summoner’S Wrath"
-      }
-    ],
     "fusionLimit": 5,
-    "imageName": "summoner’s-wrath-e3b6c21d70.jpg",
+    "imageName": "summoner's-wrath-e3b6c21d70.jpg",
     "introduced": {
       "name": "Update 38.0",
       "url": "https://wiki.warframe.com/w/Update_38%23Update_38.0",
@@ -277363,7 +277349,7 @@
       }
     ],
     "masterable": false,
-    "name": "Summoner’S Wrath",
+    "name": "Summoner's Wrath",
     "polarity": "madurai",
     "rarity": "Uncommon",
     "releaseDate": "2024-12-13",
