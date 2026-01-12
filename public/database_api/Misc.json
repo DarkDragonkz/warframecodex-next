@@ -449,7 +449,7 @@
       }
     ],
     "imageName": "alloy-plate-af5adc4919.png",
-    "itemCount": 1700,
+    "itemCount": 1600,
     "masterable": false,
     "name": "Alloy Plate",
     "parents": [
@@ -895,7 +895,7 @@
     "category": "Misc",
     "description": "A shard ripped from a Sentient Anomaly in the Veil Proxima. Little Duck is known to trade these for other exotic goods somewhere in Fortuna on Venus.\n\nLocation: Murex ships found in Veil Proxima nodes marked with a special flashing icon (Railjack)",
     "imageName": "anomaly-shard-a81377047a.png",
-    "itemCount": 5,
+    "itemCount": 2,
     "masterable": false,
     "name": "Anomaly Shard",
     "parents": [
@@ -3671,7 +3671,7 @@
     "consumeOnBuild": false,
     "description": "Auron that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "imageName": "auroxium-alloy-ecd44e332e.png",
-    "itemCount": 40,
+    "itemCount": 50,
     "masterable": false,
     "name": "Auroxium Alloy",
     "parents": [
@@ -7099,7 +7099,7 @@
       }
     ],
     "imageName": "breath-of-the-eidolon-fd2fb5d31b.png",
-    "itemCount": 3,
+    "itemCount": 10,
     "masterable": false,
     "name": "Breath Of The Eidolon",
     "parents": [
@@ -8043,7 +8043,7 @@
       }
     ],
     "imageName": "charamote-sagan-module-028d7f633e.png",
-    "itemCount": 5,
+    "itemCount": 6,
     "masterable": false,
     "name": "Charamote Sagan Module",
     "parents": [
@@ -9206,7 +9206,7 @@
     "consumeOnBuild": false,
     "description": "Coprun that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "imageName": "coprite-alloy-dabeb91d39.png",
-    "itemCount": 40,
+    "itemCount": 100,
     "masterable": false,
     "name": "Coprite Alloy",
     "parents": [
@@ -10042,7 +10042,7 @@
       }
     ],
     "imageName": "cuthol-tendrils-f364f835f8.png",
-    "itemCount": 2,
+    "itemCount": 5,
     "masterable": false,
     "name": "Cuthol Tendrils",
     "parents": [
@@ -16139,7 +16139,7 @@
     "category": "Misc",
     "description": "Retrieved from the shores of a sacred fate dream.\n\nLocation: Saya's Visions on Earth",
     "imageName": "fate-pearl-63a5539a2d.png",
-    "itemCount": 5,
+    "itemCount": 30,
     "masterable": false,
     "name": "Fate Pearl",
     "parents": [
@@ -17075,7 +17075,7 @@
     "category": "Misc",
     "description": "Used to create absolvents that purify gems.\n\nSource: Cut from all Plains of Eidolon Fish via Fisher Hai-Luk in Cetus (Earth).",
     "imageName": "fish-oil-74fd9aeeac.png",
-    "itemCount": 20,
+    "itemCount": 10,
     "masterable": false,
     "name": "Fish Oil",
     "parents": [
@@ -17148,7 +17148,7 @@
       }
     ],
     "imageName": "fish-scales-2e05965e5a.png",
-    "itemCount": 15,
+    "itemCount": 20,
     "masterable": false,
     "name": "Fish Scales",
     "parents": [
@@ -32681,7 +32681,7 @@
     "consumeOnBuild": false,
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "imageName": "heart-noctrul-1d8f552486.png",
-    "itemCount": 5,
+    "itemCount": 8,
     "masterable": false,
     "name": "Heart Noctrul",
     "parents": [
@@ -40561,7 +40561,7 @@
     "excludeFromCodex": true,
     "imageName": "la-cathédrale-scene-bc9151e83c.png",
     "masterable": false,
-    "name": "La CathéDrale Scene",
+    "name": "La Cathédrale Scene",
     "tradable": true,
     "type": "Captura",
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceCathedral1799ProtoframeRoom"
@@ -42481,7 +42481,7 @@
       }
     ],
     "imageName": "longwinder-lathe-coagulant-6e430abe78.png",
-    "itemCount": 5,
+    "itemCount": 15,
     "masterable": false,
     "name": "Longwinder Lathe Coagulant",
     "parents": [
@@ -48564,7 +48564,7 @@
       }
     ],
     "imageName": "murkray-liver-0db3ce260d.png",
-    "itemCount": 2,
+    "itemCount": 5,
     "masterable": false,
     "name": "Murkray Liver",
     "parents": [
@@ -49465,7 +49465,7 @@
       }
     ],
     "imageName": "narmer-isoplast-aba6f7786a.png",
-    "itemCount": 10,
+    "itemCount": 5,
     "masterable": false,
     "name": "Narmer Isoplast",
     "parents": [
@@ -51437,7 +51437,7 @@
       }
     ],
     "imageName": "nitain-extract-ba7ea3b2cf.png",
-    "itemCount": 3,
+    "itemCount": 5,
     "masterable": false,
     "name": "Nitain Extract",
     "parents": [
@@ -51953,7 +51953,7 @@
       }
     ],
     "imageName": "norg-brain-c797ecef41.png",
-    "itemCount": 2,
+    "itemCount": 3,
     "masterable": false,
     "name": "Norg Brain",
     "parents": [
@@ -57125,7 +57125,7 @@
     "consumeOnBuild": false,
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "imageName": "radiant-zodian-0b4daa36b7.png",
-    "itemCount": 3,
+    "itemCount": 10,
     "masterable": false,
     "name": "Radiant Zodian",
     "parents": [
@@ -73268,7 +73268,7 @@
       }
     ],
     "imageName": "synathid-ecosynth-analyzer-7d16a973c9.png",
-    "itemCount": 5,
+    "itemCount": 15,
     "masterable": false,
     "name": "Synathid Ecosynth Analyzer",
     "parents": [
@@ -75639,7 +75639,7 @@
       }
     ],
     "imageName": "tromyzon-entroplasma-c324b3c3bd.png",
-    "itemCount": 5,
+    "itemCount": 15,
     "masterable": false,
     "name": "Tromyzon Entroplasma",
     "parents": [
