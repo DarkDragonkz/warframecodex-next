@@ -95340,7 +95340,7 @@
         "date": "2020-03-24T17:03:07Z",
         "url": "https://forums.warframe.com/topic/1178095-operation-scarlet-spear-2730/",
         "additions": "",
-        "changes": "Further performance improvements towards Titania’s Lantern when cast on a large group of enemies. This particularly affected systems set to Low Particle Quality.\nGrendel’s Nourish now mimic’s Titania’s Tribute buff selector.\nIf you’re unfamiliar with Titania’s Tribute buff selector, this means that Nourish is a tap to cycle/select buff and hold to cast. This is a reverse of how it functioned prior to this Update.\nTitania has a new Passive: Titania generates Health for herself and nearby Allies every time she casts an Ability (4hp/second for 20 seconds)! The personal Titania Parkour Boost is staying, just the communal Trampoline isn't.\nTitania can now use Blink while in her Razorwing ability!\nFixed casting Titania’s Razorwing right as you fall into a teleport volume in the Simulacrum resulting in an infinite white screen.",
+        "changes": "Further performance improvements towards Titania’s Lantern when cast on a large group of enemies. This particularly affected systems set to Low Particle Quality.\nGrendel���s Nourish now mimic’s Titania’s Tribute buff selector.\nIf you’re unfamiliar with Titania’s Tribute buff selector, this means that Nourish is a tap to cycle/select buff and hold to cast. This is a reverse of how it functioned prior to this Update.\nTitania has a new Passive: Titania generates Health for herself and nearby Allies every time she casts an Ability (4hp/second for 20 seconds)! The personal Titania Parkour Boost is staying, just the communal Trampoline isn't.\nTitania can now use Blink while in her Razorwing ability!\nFixed casting Titania’s Razorwing right as you fall into a teleport volume in the Simulacrum resulting in an infinite white screen.",
         "fixes": ""
       },
       {
@@ -108881,7 +108881,7 @@
         "url": "https://forums.warframe.com/topic/445957-update-164/",
         "additions": "",
         "changes": "Volt’s Electric Shield is now more visible when used with dark/black energy.",
-        "fixes": "Fixed error that would allow Punch Through Mods to create unlimited multishot when a weapon is fired through Volt’s Electric Shield."
+        "fixes": "Fixed error that would allow Punch Through Mods to create unlimited multishot when a weapon is fired through Volt���s Electric Shield."
       },
       {
         "name": "Update 16.2",

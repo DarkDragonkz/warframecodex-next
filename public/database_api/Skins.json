@@ -42269,7 +42269,7 @@
         "date": "2020-11-19T23:39:27Z",
         "url": "https://forums.warframe.com/topic/1236257-update-295-deimos-arcana/",
         "additions": "",
-        "changes": "Secondary: Fires spore-sacs that rupture into three smaller toxic projectiles on impact. Semi-automatic trigger.\nIn Round 1, we made the distinction between Grasp of Lohk’s ‘Grab Range’ and ‘Target Range’. We then increased its ‘Grab Range’ and left ‘Target Range’ untouched due to “firing range experiments being a bit too wild for Round 1”. As we’ve continued testing, this has held true. In any instance where we’ve increased it, even slightly, we neared a state that we had already established was undesirable due to its encouragement of an ‘inactive’ way of playing (Ember’s “World on Fire” comes to mind before it was changed to “Inferno”). As a result, ‘Target Range’ will continue to remain untouched for this round.",
+        "changes": "Secondary: Fires spore-sacs that rupture into three smaller toxic projectiles on impact. Semi-automatic trigger.\nIn Round 1, we made the distinction between Grasp of Lohk’s ‘Grab Range’ and ‘Target Range’. We then increased its ‘Grab Range’ and left ‘Target Range’ untouched due to “firing range experiments being a bit too wild for Round 1”. As we’ve continued testing, this has held true. In any instance where we’ve increased it, even slightly, we neared a state that we had already established was undesirable due to its encouragement of an ‘inactive’ way of playing (Ember’s “World on Fire” comes to mind before it was changed to “Inferno”). As a result, ���Target Range’ will continue to remain untouched for this round.",
         "fixes": ""
       },
       {
@@ -42494,7 +42494,7 @@
         "url": "https://forums.warframe.com/topic/1142475-the-old-blood-hotfix-2607/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed a script error that could occur with Ember��s Fireball. "
+        "fixes": "Fixed a script error that could occur with Ember’s Fireball. "
       },
       {
         "name": "The Old Blood: Hotfix 26.0.2",
