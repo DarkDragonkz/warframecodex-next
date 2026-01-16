@@ -5225,6 +5225,7 @@
       "Hextra Gyro",
       "Lambeo Moa",
       "Nychus Moa",
+      "Pax Bolt",
       "Phazor Gyro",
       "Puppeteer",
       "Rattleguts",
@@ -5884,7 +5885,7 @@
     "imageName": "höllvanian-pitchweave-fragment-4ba496b3bd.png",
     "itemCount": 60,
     "masterable": false,
-    "name": "HöLlvanian Pitchweave Fragment",
+    "name": "Höllvanian Pitchweave Fragment",
     "parents": [
       "Ax-52"
     ],
@@ -5895,6 +5896,14 @@
   {
     "category": "Resources",
     "description": "The passionate heat of flames fuels the path to redemption.\n\nLocation: Obtained from crates and bosses in the Descendia (Dark Refractory).",
+    "drops": [
+      {
+        "chance": 0.5,
+        "location": "The Descendia: Common Rewards (Steel Path)",
+        "rarity": "Common",
+        "type": "75X Ignia"
+      }
+    ],
     "imageName": "ignia-1a22fe0e03.png",
     "masterable": false,
     "name": "Ignia",
@@ -6916,6 +6925,14 @@
   {
     "category": "Resources",
     "description": "A core of rage, jealously guarded in a burnished shell.\n\nLocation: Obtained from crates and bosses in the Descendia (Dark Refractory).",
+    "drops": [
+      {
+        "chance": 0.5,
+        "location": "The Descendia: Common Rewards (Steel Path)",
+        "rarity": "Common",
+        "type": "15X Maphica"
+      }
+    ],
     "imageName": "maphica-c3ee359bdc.png",
     "masterable": false,
     "name": "Maphica",
@@ -7811,6 +7828,7 @@
       "Kreska",
       "Munit Gyro",
       "Para Moa",
+      "Pax Charge",
       "Step Tens",
       "Thugs",
       "Twin Kavats"
@@ -10558,6 +10576,12 @@
       },
       {
         "chance": 1,
+        "location": "The Descendia: Steel Essence Rewards (Steel Path)",
+        "rarity": "Common",
+        "type": "25X Steel Essence"
+      },
+      {
+        "chance": 1,
         "location": "Torment",
         "rarity": "Common",
         "type": "Steel Essence"
@@ -10701,6 +10725,12 @@
         "location": "Sister Of Parvos (Ascension Hard Mode)",
         "rarity": "Common",
         "type": "Steel Essence"
+      },
+      {
+        "chance": 1,
+        "location": "The Descendia: Steel Essence Rewards (Steel Path)",
+        "rarity": "Common",
+        "type": "25X Steel Essence"
       },
       {
         "chance": 1,
@@ -11262,6 +11292,7 @@
       "Highbrow",
       "Hothead",
       "Jonsin Bracket",
+      "Pax Soar",
       "Tian Bracket",
       "Zip"
     ],

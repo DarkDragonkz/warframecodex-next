@@ -5522,7 +5522,7 @@
           },
           {
             "chance": 0.1667,
-            "location": "Lith L6 Relic (Radiant)",
+            "location": "Lith L7 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver"
           },
@@ -6092,7 +6092,7 @@
           },
           {
             "chance": 0.2,
-            "location": "Lith L6 Relic (Flawless)",
+            "location": "Lith L7 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver"
           },
@@ -6578,7 +6578,7 @@
           },
           {
             "chance": 0.2333,
-            "location": "Lith L6 Relic (Exceptional)",
+            "location": "Lith L7 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver"
           },
@@ -7004,7 +7004,7 @@
           },
           {
             "chance": 0.2533,
-            "location": "Lith L6 Relic",
+            "location": "Lith L7 Relic",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver"
           },
@@ -7764,7 +7764,7 @@
           },
           {
             "chance": 0.1667,
-            "location": "Lith L6 Relic (Radiant)",
+            "location": "Lith L7 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver"
           },
@@ -8334,7 +8334,7 @@
           },
           {
             "chance": 0.2,
-            "location": "Lith L6 Relic (Flawless)",
+            "location": "Lith L7 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver"
           },
@@ -8820,7 +8820,7 @@
           },
           {
             "chance": 0.2333,
-            "location": "Lith L6 Relic (Exceptional)",
+            "location": "Lith L7 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver"
           },
@@ -9246,7 +9246,7 @@
           },
           {
             "chance": 0.2533,
-            "location": "Lith L6 Relic",
+            "location": "Lith L7 Relic",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver"
           },
@@ -30461,7 +30461,7 @@
           },
           {
             "chance": 0.1667,
-            "location": "Lith L6 Relic (Radiant)",
+            "location": "Lith L7 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver"
           },
@@ -30677,7 +30677,7 @@
           },
           {
             "chance": 0.2,
-            "location": "Lith L6 Relic (Flawless)",
+            "location": "Lith L7 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver"
           },
@@ -30893,7 +30893,7 @@
           },
           {
             "chance": 0.2333,
-            "location": "Lith L6 Relic (Exceptional)",
+            "location": "Lith L7 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver"
           },
@@ -31109,7 +31109,7 @@
           },
           {
             "chance": 0.2533,
-            "location": "Lith L6 Relic",
+            "location": "Lith L7 Relic",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver"
           },
@@ -38263,7 +38263,7 @@
     "totalDamage": 25,
     "tradable": false,
     "trigger": "Auto",
-    "type": "Rifle",
+    "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Tenno/Grimoire/TnDoppelgangerGrimoire"
   },
   {
@@ -38621,7 +38621,7 @@
     "totalDamage": 150,
     "tradable": false,
     "trigger": "Auto",
-    "type": "Rifle",
+    "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Tenno/Grimoire/TnGrimoire",
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Grimoire.png?e8ce6",
@@ -43781,7 +43781,7 @@
     "totalDamage": 15,
     "tradable": false,
     "trigger": "Semi",
-    "type": "Rifle",
+    "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Brakk/KuvaBrakk",
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/KuvaBrakk.png?1c1e5",
@@ -43918,7 +43918,7 @@
     "totalDamage": 43,
     "tradable": false,
     "trigger": "Burst",
-    "type": "Rifle",
+    "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Kraken/KuvaKraken",
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/KuvaKraken.png?6fa90",
@@ -44081,7 +44081,7 @@
     "totalDamage": 21,
     "tradable": false,
     "trigger": "Held",
-    "type": "Rifle",
+    "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Nukor/KuvaNukor",
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/KuvaNukor.png?73f99",
@@ -44257,7 +44257,7 @@
     "totalDamage": 200,
     "tradable": false,
     "trigger": "Semi",
-    "type": "Rifle",
+    "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Seer/KuvaSeer",
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/KuvaSeer.png?be10c",
@@ -44384,7 +44384,7 @@
     "totalDamage": 27,
     "tradable": false,
     "trigger": "Auto",
-    "type": "Rifle",
+    "type": "Dual Pistols",
     "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Stubba/KuvaStubba",
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/KuvaTwinStubbas.png?93b2f",
@@ -50039,7 +50039,7 @@
     "totalDamage": 40,
     "tradable": false,
     "trigger": "Semi",
-    "type": "Rifle",
+    "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/VoidTrader/VTDetron",
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/MaraDetron.png?ee5b8",
@@ -50444,7 +50444,7 @@
     "totalDamage": 12.999999,
     "tradable": false,
     "trigger": "Auto",
-    "type": "Rifle",
+    "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/MK1Series/MK1Furis",
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Furis.png?a1a15",
@@ -50570,7 +50570,7 @@
     "totalDamage": 40,
     "tradable": false,
     "trigger": "Auto",
-    "type": "Rifle",
+    "type": "Throwing",
     "uniqueName": "/Lotus/Weapons/MK1Series/MK1Kunai",
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Kunai.png?0d29e",
@@ -51298,7 +51298,7 @@
     "totalDamage": 220,
     "tradable": false,
     "trigger": "Auto",
-    "type": "Rifle",
+    "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Thanotech/EntratiWristGun/EntratiWristGunWeapon",
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Onos.png?2a4ee",
@@ -54895,19 +54895,19 @@
         "tradable": true,
         "drops": [
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Dactolyst (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Sagek Prime Barrel Blueprint"
           },
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Hunhullus (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Sagek Prime Barrel Blueprint"
           },
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Vanguard (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Sagek Prime Barrel Blueprint"
@@ -54925,19 +54925,19 @@
         "masterable": false,
         "drops": [
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Dactolyst (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Sagek Prime Blueprint"
           },
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Hunhullus (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Sagek Prime Blueprint"
           },
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Vanguard (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Sagek Prime Blueprint"
@@ -54964,19 +54964,19 @@
         "tradable": true,
         "drops": [
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Dactolyst (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Sagek Prime Receiver Blueprint"
           },
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Hunhullus (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Sagek Prime Receiver Blueprint"
           },
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Vanguard (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Sagek Prime Receiver Blueprint"
@@ -62355,7 +62355,7 @@
     "totalDamage": 10,
     "tradable": false,
     "trigger": "Auto",
-    "type": "Rifle",
+    "type": "Dual Pistols",
     "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerAssaultRifle/TwinGrakatas",
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TwinGrakatas.png?60e22",

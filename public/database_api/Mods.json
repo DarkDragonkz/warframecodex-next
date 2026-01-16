@@ -68620,6 +68620,12 @@
         "type": "Arcane Fury"
       },
       {
+        "chance": 0.037,
+        "location": "The Descendia: Infernum 20 Triple Arcane Rewards",
+        "rarity": "Rare",
+        "type": "3X Arcane Fury"
+      },
+      {
         "chance": 0.04,
         "location": "Duviri/Endless: Tier 9 (Normal)",
         "rarity": "Rare",
@@ -69908,6 +69914,12 @@
         "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.037,
+        "location": "The Descendia: Infernum 20 Triple Arcane Rewards",
+        "rarity": "Rare",
+        "type": "3X Arcane Fury"
       },
       {
         "chance": 0.04,
@@ -75145,6 +75157,12 @@
         "location": "Duviri/Endless: Tier 4 (Normal)",
         "rarity": "Rare",
         "type": "Guardian Derision"
+      },
+      {
+        "chance": 0.037,
+        "location": "The Descendia: Infernum 20 Triple Arcane Rewards",
+        "rarity": "Rare",
+        "type": "3X Arcane Guardian"
       },
       {
         "chance": 0.0563,
@@ -102103,7 +102121,7 @@
     "category": "Mods",
     "excludeFromCodex": true,
     "fusionLimit": 3,
-    "imageName": "killer’s-rush-9dda3e6877.jpg",
+    "imageName": "killer's-rush-9dda3e6877.jpg",
     "isPrime": false,
     "levelStats": [
       {
@@ -102128,7 +102146,7 @@
       }
     ],
     "masterable": false,
-    "name": "Killer’S Rush",
+    "name": "Killer's Rush",
     "polarity": "naramon",
     "rarity": "Rare",
     "tradable": false,
@@ -112740,6 +112758,12 @@
         "location": "Enter Nihil's Oubliette, Rotation C",
         "rarity": "Rare",
         "type": "Kitgun Riven Mod"
+      },
+      {
+        "chance": 0.0714,
+        "location": "The Descendia: Uncommon Rewards (Steel Path)",
+        "rarity": "Rare",
+        "type": "Kitgun Riven Mod"
       }
     ],
     "fusionLimit": 0,
@@ -113085,6 +113109,12 @@
       {
         "chance": 0.035,
         "location": "Enter Nihil's Oubliette, Rotation C",
+        "rarity": "Rare",
+        "type": "Kitgun Riven Mod"
+      },
+      {
+        "chance": 0.0714,
+        "location": "The Descendia: Uncommon Rewards (Steel Path)",
         "rarity": "Rare",
         "type": "Kitgun Riven Mod"
       }
@@ -136867,6 +136897,12 @@
         "type": "Melee Riven Mod"
       },
       {
+        "chance": 0.0714,
+        "location": "The Descendia: Uncommon Rewards (Steel Path)",
+        "rarity": "Rare",
+        "type": "Melee Riven Mod"
+      },
+      {
         "chance": 0.098,
         "location": "Sorties",
         "rarity": "Rare",
@@ -137229,6 +137265,12 @@
         "chance": 0.0095,
         "location": "Duviri/Endless: Repeated Rewards (Hard)",
         "rarity": "Legendary",
+        "type": "Melee Riven Mod"
+      },
+      {
+        "chance": 0.0714,
+        "location": "The Descendia: Uncommon Rewards (Steel Path)",
+        "rarity": "Rare",
         "type": "Melee Riven Mod"
       },
       {
@@ -148637,22 +148679,22 @@
     "levelStats": [
       {
         "stats": [
-          "Summon forth Nidri from the Void and plant the noble staff into the ground, creating a titanic splash of water that becomes a lingering vortex for 30s. 20% of damage dealt to enemies caught in the vortex is also inflicted upon all other enemies within it."
+          "Summon forth Nidri from the Void and plant the noble staff into the ground, creating a titanic splash of water that becomes a lingering vortex for 20s. 20% of damage dealt to enemies caught in the vortex is also inflicted upon all other enemies within it."
         ]
       },
       {
         "stats": [
-          "Summon forth Nidri from the Void and plant the noble staff into the ground, creating a titanic splash of water that becomes a lingering vortex for 30s. 30% of damage dealt to enemies caught in the vortex is also inflicted upon all other enemies within it."
+          "Summon forth Nidri from the Void and plant the noble staff into the ground, creating a titanic splash of water that becomes a lingering vortex for 20s. 30% of damage dealt to enemies caught in the vortex is also inflicted upon all other enemies within it."
         ]
       },
       {
         "stats": [
-          "Summon forth Nidri from the Void and plant the noble staff into the ground, creating a titanic splash of water that becomes a lingering vortex for 30s. 40% of damage dealt to enemies caught in the vortex is also inflicted upon all other enemies within it."
+          "Summon forth Nidri from the Void and plant the noble staff into the ground, creating a titanic splash of water that becomes a lingering vortex for 20s. 40% of damage dealt to enemies caught in the vortex is also inflicted upon all other enemies within it."
         ]
       },
       {
         "stats": [
-          "Summon forth Nidri from the Void and plant the noble staff into the ground, creating a titanic splash of water that becomes a lingering vortex for 30s. 50% of damage dealt to enemies caught in the vortex is also inflicted upon all other enemies within it."
+          "Summon forth Nidri from the Void and plant the noble staff into the ground, creating a titanic splash of water that becomes a lingering vortex for 20s. 50% of damage dealt to enemies caught in the vortex is also inflicted upon all other enemies within it."
         ]
       }
     ],
@@ -175093,6 +175135,12 @@
         "type": "Pistol Riven Mod"
       },
       {
+        "chance": 0.0714,
+        "location": "The Descendia: Uncommon Rewards (Steel Path)",
+        "rarity": "Rare",
+        "type": "Pistol Riven Mod"
+      },
+      {
         "chance": 0.085,
         "location": "Duviri/Endless: Tier 6 (Hard)",
         "rarity": "Rare",
@@ -175427,6 +175475,12 @@
       {
         "chance": 0.07,
         "location": "Sorties",
+        "rarity": "Rare",
+        "type": "Pistol Riven Mod"
+      },
+      {
+        "chance": 0.0714,
+        "location": "The Descendia: Uncommon Rewards (Steel Path)",
         "rarity": "Rare",
         "type": "Pistol Riven Mod"
       },
@@ -185600,6 +185654,15 @@
     "compatName": "Pistol",
     "fusionLimit": 10,
     "imageName": "primed-convulsion-56cf5ef556.jpg",
+    "introduced": {
+      "name": "Hotfix 35.0.6",
+      "url": "https://wiki.warframe.com/w/Update_35%23Hotfix_35.0.6",
+      "aliases": [
+        "35.0.6"
+      ],
+      "parent": "35.0",
+      "date": "2023-12-22"
+    },
     "isPrime": true,
     "levelStats": [
       {
@@ -185662,9 +185725,14 @@
     "name": "Primed Convulsion",
     "polarity": "naramon",
     "rarity": "Legendary",
+    "releaseDate": "2023-12-22",
     "tradable": true,
+    "transmutable": false,
     "type": "Secondary Mod",
-    "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/PrimedWeaponElectricityDamageMod"
+    "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/PrimedWeaponElectricityDamageMod",
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/PrimedConvulsionMod.png?72f2e",
+    "wikiaUrl": "https://wiki.warframe.com/w/Primed_Convulsion"
   },
   {
     "baseDrain": 2,
@@ -187125,13 +187193,14 @@
     "fusionLimit": 10,
     "imageName": "primed-heated-charge-f5a8047558.jpg",
     "introduced": {
-      "name": "Hotfix 35.0.6",
-      "url": "https://wiki.warframe.com/w/Update_35%23Hotfix_35.0.6",
+      "name": "Update 15.11",
+      "url": "https://wiki.warframe.com/w/Update_15%23Update_15.11",
       "aliases": [
-        "35.0.6"
+        "15.11.0",
+        "15.11"
       ],
-      "parent": "35.0",
-      "date": "2023-12-22"
+      "parent": "15.11",
+      "date": "2015-01-21"
     },
     "isPrime": true,
     "levelStats": [
@@ -187195,14 +187264,14 @@
     "name": "Primed Heated Charge",
     "polarity": "naramon",
     "rarity": "Legendary",
-    "releaseDate": "2023-12-22",
+    "releaseDate": "2015-01-21",
     "tradable": true,
     "transmutable": false,
     "type": "Secondary Mod",
     "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponFireDamageModExpert",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/PrimedConvulsionMod.png?72f2e",
-    "wikiaUrl": "https://wiki.warframe.com/w/Primed_Convulsion"
+    "wikiaThumbnail": "https://wiki.warframe.com/images/PrimedHeatedChargeMod.png?ca023",
+    "wikiaUrl": "https://wiki.warframe.com/w/Primed_Heated_Charge"
   },
   {
     "baseDrain": 2,
@@ -189933,6 +190002,15 @@
     "excludeFromCodex": true,
     "fusionLimit": 10,
     "imageName": "primed-venomous-clip-78443a745d.jpg",
+    "introduced": {
+      "name": "Hotfix 41.0.5",
+      "url": "https://wiki.warframe.com/w/Update_41%23Hotfix_41.0.5",
+      "aliases": [
+        "41.0.5"
+      ],
+      "parent": "41.0",
+      "date": "2025-12-18"
+    },
     "isPrime": true,
     "levelStats": [
       {
@@ -189995,9 +190073,14 @@
     "name": "Primed Venomous Clip",
     "polarity": "vazarin",
     "rarity": "Legendary",
+    "releaseDate": "2025-12-18",
     "tradable": true,
+    "transmutable": false,
     "type": "Arch-Gun Mod",
-    "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingWeaponToxinDamageModExpert"
+    "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingWeaponToxinDamageModExpert",
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/PrimedVenomousClipMod.png?366e6",
+    "wikiaUrl": "https://wiki.warframe.com/w/Primed_Venomous_Clip"
   },
   {
     "baseDrain": 6,
@@ -194966,6 +195049,12 @@
         "type": "Arcane Rage"
       },
       {
+        "chance": 0.037,
+        "location": "The Descendia: Infernum 20 Triple Arcane Rewards",
+        "rarity": "Rare",
+        "type": "3X Arcane Rage"
+      },
+      {
         "chance": 0.04,
         "location": "Duviri/Endless: Tier 9 (Normal)",
         "rarity": "Rare",
@@ -195375,6 +195464,12 @@
         "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.037,
+        "location": "The Descendia: Infernum 20 Triple Arcane Rewards",
+        "rarity": "Rare",
+        "type": "3X Arcane Rage"
       },
       {
         "chance": 0.04,
@@ -195806,6 +195901,12 @@
         "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.037,
+        "location": "The Descendia: Infernum 20 Triple Arcane Rewards",
+        "rarity": "Rare",
+        "type": "3X Arcane Rage"
       },
       {
         "chance": 0.04,
@@ -200376,6 +200477,7 @@
     "type": "Warframe Mod",
     "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerMeleeStartingComboAuraMod",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ReadySteelMod.png?ddd9c",
     "wikiaUrl": "https://wiki.warframe.com/w/Ready_Steel"
   },
   {
@@ -222960,6 +223062,12 @@
         "type": "Rifle Riven Mod"
       },
       {
+        "chance": 0.0714,
+        "location": "The Descendia: Uncommon Rewards (Steel Path)",
+        "rarity": "Rare",
+        "type": "Rifle Riven Mod"
+      },
+      {
         "chance": 0.085,
         "location": "Duviri/Endless: Tier 6 (Hard)",
         "rarity": "Rare",
@@ -223305,6 +223413,12 @@
       {
         "chance": 0.07,
         "location": "Sorties",
+        "rarity": "Rare",
+        "type": "Rifle Riven Mod"
+      },
+      {
+        "chance": 0.0714,
+        "location": "The Descendia: Uncommon Rewards (Steel Path)",
         "rarity": "Rare",
         "type": "Rifle Riven Mod"
       },
@@ -254802,6 +254916,12 @@
         "type": "Shotgun Riven Mod"
       },
       {
+        "chance": 0.0714,
+        "location": "The Descendia: Uncommon Rewards (Steel Path)",
+        "rarity": "Rare",
+        "type": "Shotgun Riven Mod"
+      },
+      {
         "chance": 0.08,
         "location": "Enter Nihil's Oubliette, Rotation C",
         "rarity": "Rare",
@@ -255136,6 +255256,12 @@
       {
         "chance": 0.027,
         "location": "Duviri/Endless: Tier 7 (Hard)",
+        "rarity": "Rare",
+        "type": "Shotgun Riven Mod"
+      },
+      {
+        "chance": 0.0714,
+        "location": "The Descendia: Uncommon Rewards (Steel Path)",
         "rarity": "Rare",
         "type": "Shotgun Riven Mod"
       },
@@ -277271,22 +277397,8 @@
     "baseDrain": -2,
     "category": "Mods",
     "compatName": "AURA",
-    "drops": [
-      {
-        "chance": 0.0016,
-        "location": "Scaldra Barbican",
-        "rarity": "Rare",
-        "type": "Summoner’S Wrath"
-      },
-      {
-        "chance": 0.0091,
-        "location": "Scaldra Eradicator",
-        "rarity": "Common",
-        "type": "Summoner’S Wrath"
-      }
-    ],
     "fusionLimit": 5,
-    "imageName": "summoner’s-wrath-e3b6c21d70.jpg",
+    "imageName": "summoner's-wrath-e3b6c21d70.jpg",
     "introduced": {
       "name": "Update 38.0",
       "url": "https://wiki.warframe.com/w/Update_38%23Update_38.0",
@@ -277333,7 +277445,7 @@
       }
     ],
     "masterable": false,
-    "name": "Summoner’S Wrath",
+    "name": "Summoner's Wrath",
     "polarity": "madurai",
     "rarity": "Uncommon",
     "releaseDate": "2024-12-13",
@@ -320187,6 +320299,12 @@
         "location": "Enter Nihil's Oubliette, Rotation C",
         "rarity": "Rare",
         "type": "Zaw Riven Mod"
+      },
+      {
+        "chance": 0.0714,
+        "location": "The Descendia: Uncommon Rewards (Steel Path)",
+        "rarity": "Rare",
+        "type": "Zaw Riven Mod"
       }
     ],
     "fusionLimit": 0,
@@ -320533,6 +320651,12 @@
       {
         "chance": 0.035,
         "location": "Enter Nihil's Oubliette, Rotation C",
+        "rarity": "Rare",
+        "type": "Zaw Riven Mod"
+      },
+      {
+        "chance": 0.0714,
+        "location": "The Descendia: Uncommon Rewards (Steel Path)",
         "rarity": "Rare",
         "type": "Zaw Riven Mod"
       }

@@ -29913,19 +29913,19 @@
         "tradable": true,
         "drops": [
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Dactolyst (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Galariak Prime Blade Blueprint"
           },
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Hunhullus (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Galariak Prime Blade Blueprint"
           },
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Vanguard (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Galariak Prime Blade Blueprint"
@@ -29943,19 +29943,19 @@
         "masterable": false,
         "drops": [
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Dactolyst (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Galariak Prime Blueprint"
           },
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Hunhullus (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Galariak Prime Blueprint"
           },
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Vanguard (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Galariak Prime Blueprint"
@@ -29971,19 +29971,19 @@
         "tradable": true,
         "drops": [
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Dactolyst (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Galariak Prime Handle Blueprint"
           },
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Hunhullus (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Galariak Prime Handle Blueprint"
           },
           {
-            "chance": 0.049,
+            "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Vanguard (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Galariak Prime Handle Blueprint"
@@ -36344,6 +36344,12 @@
           },
           {
             "chance": 0.1667,
+            "location": "Lith L6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Gunsen Prime Blueprint"
+          },
+          {
+            "chance": 0.1667,
             "location": "Lith N16 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Gunsen Prime Blueprint"
@@ -36381,6 +36387,12 @@
           {
             "chance": 0.2,
             "location": "Lith C11 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Gunsen Prime Blueprint"
+          },
+          {
+            "chance": 0.2,
+            "location": "Lith L6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Gunsen Prime Blueprint"
           },
@@ -36428,6 +36440,12 @@
           },
           {
             "chance": 0.2333,
+            "location": "Lith L6 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Gunsen Prime Blueprint"
+          },
+          {
+            "chance": 0.2333,
             "location": "Lith N16 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Gunsen Prime Blueprint"
@@ -36465,6 +36483,12 @@
           {
             "chance": 0.2533,
             "location": "Lith C11 Relic",
+            "rarity": "Uncommon",
+            "type": "Gunsen Prime Blueprint"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Lith L6 Relic",
             "rarity": "Uncommon",
             "type": "Gunsen Prime Blueprint"
           },
@@ -56734,7 +56758,7 @@
           },
           {
             "chance": 0.1667,
-            "location": "Lith L6 Relic (Radiant)",
+            "location": "Lith L7 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Okina Prime Blade"
           },
@@ -56776,7 +56800,7 @@
           },
           {
             "chance": 0.2,
-            "location": "Lith L6 Relic (Flawless)",
+            "location": "Lith L7 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Okina Prime Blade"
           },
@@ -56818,7 +56842,7 @@
           },
           {
             "chance": 0.2333,
-            "location": "Lith L6 Relic (Exceptional)",
+            "location": "Lith L7 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Okina Prime Blade"
           },
@@ -56860,7 +56884,7 @@
           },
           {
             "chance": 0.2533,
-            "location": "Lith L6 Relic",
+            "location": "Lith L7 Relic",
             "rarity": "Uncommon",
             "type": "Okina Prime Blade"
           },
@@ -76228,6 +76252,7 @@
       },
       {
         "name": "Slam Attack",
+        "speed": 1.36,
         "crit_chance": 16,
         "crit_mult": 2.4,
         "status_chance": 10,
@@ -76238,6 +76263,7 @@
       },
       {
         "name": "Heavy Slam Attack",
+        "speed": 1.36,
         "crit_chance": 16,
         "crit_mult": 2.4,
         "status_chance": 10,

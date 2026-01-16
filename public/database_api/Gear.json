@@ -4904,6 +4904,12 @@
         "location": "Temporal Archimedea Legendary Rewards",
         "rarity": "Uncommon",
         "type": "Omni Forma"
+      },
+      {
+        "chance": 0.1936,
+        "location": "The Descendia: Rare Rewards (Steel Path)",
+        "rarity": "Uncommon",
+        "type": "Omni Forma Blueprint"
       }
     ],
     "imageName": "omni-4d9f91bb65.png",

@@ -4261,17 +4261,6 @@
   },
   {
     "category": "Sigils",
-    "description": "A sigil for VIP Tenno",
-    "excludeFromCodex": true,
-    "imageName": "tenno-vip-east-sigil-f55e6ab594.png",
-    "masterable": false,
-    "name": "Tenno Vip East Sigil",
-    "tradable": false,
-    "type": "Sigil",
-    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoVIP2024Sigil"
-  },
-  {
-    "category": "Sigils",
     "description": "Bestowed upon those who joined together in celebration at TennoCon 2016.",
     "imageName": "tennocon-2016-sigil-bd31b6a048.png",
     "masterable": false,
@@ -4400,6 +4389,17 @@
     "tradable": false,
     "type": "Sigil",
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoVIP2025Sigil"
+  },
+  {
+    "category": "Sigils",
+    "description": "A sigil for VIP Tenno",
+    "excludeFromCodex": true,
+    "imageName": "tennovip-east-sigil-f55e6ab594.png",
+    "masterable": false,
+    "name": "Tennovip East Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoVIP2024Sigil"
   },
   {
     "category": "Sigils",

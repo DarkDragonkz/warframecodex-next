@@ -943,9 +943,9 @@
     "category": "Fish",
     "description": "While the Vallis coolant has kept this finely engineered Corpus tactical boot remarkably well preserved, it is, nonetheless, entirely worthless.",
     "excludeFromCodex": true,
-    "imageName": "crewman’s-boot-fd15bdb752.png",
+    "imageName": "crewman's-boot-fd15bdb752.png",
     "masterable": false,
-    "name": "Crewman’S Boot",
+    "name": "Crewman's Boot",
     "tradable": true,
     "type": "Fish",
     "uniqueName": "/Lotus/Types/Items/Fish/Deimos/OrokinBootItem"
@@ -954,9 +954,9 @@
     "category": "Fish",
     "description": "While the Vallis coolant has kept this finely engineered Corpus tactical boot remarkably well preserved, it is, nonetheless, entirely worthless.",
     "excludeFromCodex": true,
-    "imageName": "crewman’s-boot-4a98ae6dce.png",
+    "imageName": "crewman's-boot-4a98ae6dce.png",
     "masterable": false,
-    "name": "Crewman’S Boot",
+    "name": "Crewman's Boot",
     "tradable": true,
     "type": "Fish",
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusBootItem"

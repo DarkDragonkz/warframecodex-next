@@ -14070,9 +14070,9 @@
       },
       {
         "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DagathHorseAbility",
-        "name": "Rakhali’S Cavalry",
+        "name": "Rakhali's Cavalry",
         "description": "Phantom Kaithes charge forth, inflicting <DT_VIRAL_COLOR>Viral Damage upon all in their path. Their attack strips the defenses of Doomed enemies.",
-        "imageName": "rakhali’s-cavalry-0981161fe5.png"
+        "imageName": "rakhali's-cavalry-0981161fe5.png"
       }
     ],
     "armor": 125,
@@ -19764,7 +19764,7 @@
         "url": "https://forums.warframe.com/topic/1189247-warframe-revised-railjack-revisited-part-1-update-274/",
         "additions": "",
         "changes": "Banshee, Excalibur Umbra, Frost, Nekros, Nova, Nyx, Saryn, Valkyr, and Zephyr Ability videos have been added to their respective Arsenals! \nMinor tweaks to Excalibur’s Radial Javelin cast effect and gave it some ground interaction (ice chunks when cast over ice, etc).",
-        "fixes": "Fixes towards clipping issues from upper leg armor pieces on Excalibur. \nFixed Excalibur’s Ion Helmet appearing as his default in the Conclave Arsenal after being equipped in the co-op Arsenal. This also fixed being unable to equip the Ion helmet while in the Conclave Arsenal.\nFixed a script error that could occur if you were swinging Excalibur’s Exalted Blade at the same time as you activated a context action.\nFixed script error that could occur when jumping down into the darkness in the Apostasy Prologue as Excalibur Umbra."
+        "fixes": "Fixes towards clipping issues from upper leg armor pieces on Excalibur.��\nFixed Excalibur’s Ion Helmet appearing as his default in the Conclave Arsenal after being equipped in the co-op Arsenal. This also fixed being unable to equip the Ion helmet while in the Conclave Arsenal.\nFixed a script error that could occur if you were swinging Excalibur’s Exalted Blade at the same time as you activated a context action.\nFixed script error that could occur when jumping down into the darkness in the Apostasy Prologue as Excalibur Umbra."
       },
       {
         "name": "Warframe Revised: Update 27.2.0",
@@ -47419,7 +47419,7 @@
           },
           {
             "chance": 0.02,
-            "location": "Lith L6 Relic",
+            "location": "Lith L7 Relic",
             "rarity": "Rare",
             "type": "Lavos Prime Systems Blueprint"
           },
@@ -47437,7 +47437,7 @@
           },
           {
             "chance": 0.04,
-            "location": "Lith L6 Relic (Exceptional)",
+            "location": "Lith L7 Relic (Exceptional)",
             "rarity": "Rare",
             "type": "Lavos Prime Systems Blueprint"
           },
@@ -47455,7 +47455,7 @@
           },
           {
             "chance": 0.06,
-            "location": "Lith L6 Relic (Flawless)",
+            "location": "Lith L7 Relic (Flawless)",
             "rarity": "Rare",
             "type": "Lavos Prime Systems Blueprint"
           },
@@ -47473,7 +47473,7 @@
           },
           {
             "chance": 0.1,
-            "location": "Lith L6 Relic (Radiant)",
+            "location": "Lith L7 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Lavos Prime Systems Blueprint"
           },
@@ -93744,7 +93744,7 @@
           },
           {
             "chance": 0.11,
-            "location": "Lith L6 Relic",
+            "location": "Lith L7 Relic",
             "rarity": "Uncommon",
             "type": "Sevagoth Prime Blueprint"
           },
@@ -93774,7 +93774,7 @@
           },
           {
             "chance": 0.13,
-            "location": "Lith L6 Relic (Exceptional)",
+            "location": "Lith L7 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Sevagoth Prime Blueprint"
           },
@@ -93804,7 +93804,7 @@
           },
           {
             "chance": 0.17,
-            "location": "Lith L6 Relic (Flawless)",
+            "location": "Lith L7 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Sevagoth Prime Blueprint"
           },
@@ -93834,7 +93834,7 @@
           },
           {
             "chance": 0.2,
-            "location": "Lith L6 Relic (Radiant)",
+            "location": "Lith L7 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Sevagoth Prime Blueprint"
           },
@@ -100531,8 +100531,15 @@
         "itemCount": 1,
         "imageName": "chassis.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "chance": 0.125,
+            "location": "Roathe",
+            "rarity": "Uncommon",
+            "type": "Uriel Chassis Blueprint"
+          }
+        ],
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/UrielHelmetComponent",
@@ -100541,8 +100548,15 @@
         "itemCount": 1,
         "imageName": "neuroptics.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "chance": 0.125,
+            "location": "Roathe",
+            "rarity": "Uncommon",
+            "type": "Uriel Neuroptics Blueprint"
+          }
+        ],
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -100562,8 +100576,15 @@
         "itemCount": 1,
         "imageName": "systems.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "chance": 0.125,
+            "location": "Roathe",
+            "rarity": "Uncommon",
+            "type": "Uriel Systems Blueprint"
+          }
+        ],
+        "masterable": false
       }
     ],
     "conclave": false,
@@ -110533,6 +110554,12 @@
           },
           {
             "chance": 0.11,
+            "location": "Lith L6 Relic",
+            "rarity": "Uncommon",
+            "type": "Wisp Prime Neuroptics Blueprint"
+          },
+          {
+            "chance": 0.11,
             "location": "Meso K6 Relic",
             "rarity": "Uncommon",
             "type": "Wisp Prime Neuroptics Blueprint"
@@ -110564,6 +110591,12 @@
           {
             "chance": 0.13,
             "location": "Lith G13 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Wisp Prime Neuroptics Blueprint"
+          },
+          {
+            "chance": 0.13,
+            "location": "Lith L6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Wisp Prime Neuroptics Blueprint"
           },
@@ -110605,6 +110638,12 @@
           },
           {
             "chance": 0.17,
+            "location": "Lith L6 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Wisp Prime Neuroptics Blueprint"
+          },
+          {
+            "chance": 0.17,
             "location": "Meso K6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Wisp Prime Neuroptics Blueprint"
@@ -110636,6 +110675,12 @@
           {
             "chance": 0.2,
             "location": "Lith G13 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Wisp Prime Neuroptics Blueprint"
+          },
+          {
+            "chance": 0.2,
+            "location": "Lith L6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Wisp Prime Neuroptics Blueprint"
           },
