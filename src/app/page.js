@@ -22,7 +22,7 @@ function MacroCard({ cat }) {
     return (
         <Link href={`/${cat.id}`} style={{textDecoration:'none'}}>
             <div 
-                className="menu-card"
+                className={`menu-card ${cat.id}`}
                 style={{ '--card-color': cat.color, '--card-glow': `${cat.color}66` }}
             >
                 <div className="card-visual-area">
