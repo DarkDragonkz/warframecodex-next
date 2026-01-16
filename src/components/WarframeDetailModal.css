@@ -721,8 +721,13 @@
   flex-wrap: nowrap;
   gap: 8px;
   overflow-x: auto;
+  overflow-y: visible;
   padding-bottom: 4px;
   scrollbar-width: thin;
+}
+
+.relic-cards-scroll .mini-relic-card:hover {
+  transform: none;
 }
 
 .relic-cards-scroll .mini-relic-card {
