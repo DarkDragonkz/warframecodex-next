@@ -1011,7 +1011,7 @@
     "consumeOnBuild": false,
     "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "imageName": "axidrol-alloy-1c1aae73ee.png",
-    "itemCount": 45,
+    "itemCount": 30,
     "masterable": false,
     "name": "Axidrol Alloy",
     "parents": [
@@ -1642,7 +1642,7 @@
       }
     ],
     "imageName": "calda-toroid-652e0532d3.png",
-    "itemCount": 2,
+    "itemCount": 3,
     "masterable": false,
     "name": "Calda Toroid",
     "parents": [
@@ -1751,7 +1751,7 @@
     "consumeOnBuild": false,
     "description": "Resilient components used to reinforce the plated sheets of metal strapped to Grineer Ships.\n\nLocation: Eximus units in the Grineer Shipyard Tileset, and Railjack missions in Earth, Saturn, and Veil Proximas",
     "imageName": "carbides-7a527a7e84.png",
-    "itemCount": 2000,
+    "itemCount": 800,
     "masterable": false,
     "name": "Carbides",
     "parents": [
@@ -2311,7 +2311,7 @@
       }
     ],
     "imageName": "condroc-wing-eb7ec93710.png",
-    "itemCount": 5,
+    "itemCount": 15,
     "masterable": false,
     "name": "Condroc Wing",
     "parents": [
@@ -3785,7 +3785,7 @@
       }
     ],
     "imageName": "echo-voca-32f69b9f58.png",
-    "itemCount": 1,
+    "itemCount": 2,
     "masterable": false,
     "name": "Echo Voca",
     "parents": [
@@ -4112,7 +4112,7 @@
       }
     ],
     "imageName": "entrati-lanthorn-3ee4c5dafc.png",
-    "itemCount": 5,
+    "itemCount": 10,
     "masterable": false,
     "name": "Entrati Lanthorn",
     "parents": [
@@ -4244,7 +4244,7 @@
     "consumeOnBuild": false,
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "imageName": "esher-devar-7ea467cba3.png",
-    "itemCount": 1,
+    "itemCount": 10,
     "masterable": false,
     "name": "Esher Devar",
     "parents": [
@@ -4715,7 +4715,7 @@
     "consumeOnBuild": true,
     "description": "ClanTech weaponized containment field to contain superheated substances.\n\nLocation: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards",
     "imageName": "fieldron-db068da41e.png",
-    "itemCount": 2,
+    "itemCount": 7,
     "masterable": false,
     "name": "Fieldron",
     "parents": [
@@ -5216,7 +5216,7 @@
       }
     ],
     "imageName": "gorgaricus-spore-32dbb7ad0d.png",
-    "itemCount": 60,
+    "itemCount": 20,
     "masterable": false,
     "name": "Gorgaricus Spore",
     "parents": [
@@ -5225,6 +5225,7 @@
       "Hextra Gyro",
       "Lambeo Moa",
       "Nychus Moa",
+      "Pax Bolt",
       "Phazor Gyro",
       "Puppeteer",
       "Rattleguts",
@@ -5461,7 +5462,7 @@
       }
     ],
     "imageName": "grokdrul-1753a06746.png",
-    "itemCount": 55,
+    "itemCount": 40,
     "masterable": false,
     "name": "Grokdrul",
     "parents": [
@@ -5779,7 +5780,7 @@
     "consumeOnBuild": false,
     "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "imageName": "hespazym-alloy-ebcdeeba7a.png",
-    "itemCount": 50,
+    "itemCount": 30,
     "masterable": false,
     "name": "Hespazym Alloy",
     "parents": [
@@ -5895,6 +5896,14 @@
   {
     "category": "Resources",
     "description": "The passionate heat of flames fuels the path to redemption.\n\nLocation: Obtained from crates and bosses in the Descendia (Dark Refractory).",
+    "drops": [
+      {
+        "chance": 0.5,
+        "location": "The Descendia: Common Rewards (Steel Path)",
+        "rarity": "Common",
+        "type": "75X Ignia"
+      }
+    ],
     "imageName": "ignia-1a22fe0e03.png",
     "masterable": false,
     "name": "Ignia",
@@ -6127,7 +6136,7 @@
       }
     ],
     "imageName": "iradite-78612a184b.png",
-    "itemCount": 5,
+    "itemCount": 50,
     "masterable": false,
     "name": "Iradite",
     "parents": [
@@ -6916,6 +6925,14 @@
   {
     "category": "Resources",
     "description": "A core of rage, jealously guarded in a burnished shell.\n\nLocation: Obtained from crates and bosses in the Descendia (Dark Refractory).",
+    "drops": [
+      {
+        "chance": 0.5,
+        "location": "The Descendia: Common Rewards (Steel Path)",
+        "rarity": "Common",
+        "type": "15X Maphica"
+      }
+    ],
     "imageName": "maphica-c3ee359bdc.png",
     "masterable": false,
     "name": "Maphica",
@@ -7001,7 +7018,7 @@
       }
     ],
     "imageName": "maprico-35a9f7f622.png",
-    "itemCount": 15,
+    "itemCount": 2,
     "masterable": false,
     "name": "Maprico",
     "parents": [
@@ -7089,7 +7106,7 @@
     "consumeOnBuild": false,
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "imageName": "marquise-veridos-217877dacf.png",
-    "itemCount": 2,
+    "itemCount": 10,
     "masterable": false,
     "name": "Marquise Veridos",
     "parents": [
@@ -7637,7 +7654,7 @@
     "consumeOnBuild": true,
     "description": "This living mass can produce weaponized toxins for weaponry.\n\nLocation: Clan Research (Bio Lab in the Dojo) and Infested Outbreak Invasion Rewards",
     "imageName": "mutagen-mass-17e29a3c73.png",
-    "itemCount": 6,
+    "itemCount": 5,
     "masterable": false,
     "name": "Mutagen Mass",
     "parents": [
@@ -7797,7 +7814,7 @@
       }
     ],
     "imageName": "mytocardia-spore-a69a9e3d86.png",
-    "itemCount": 120,
+    "itemCount": 20,
     "masterable": false,
     "name": "Mytocardia Spore",
     "parents": [
@@ -7811,6 +7828,7 @@
       "Kreska",
       "Munit Gyro",
       "Para Moa",
+      "Pax Charge",
       "Step Tens",
       "Thugs",
       "Twin Kavats"
@@ -8027,7 +8045,7 @@
       }
     ],
     "imageName": "nistlepod-d533e543eb.png",
-    "itemCount": 15,
+    "itemCount": 25,
     "masterable": false,
     "name": "Nistlepod",
     "parents": [
@@ -8349,7 +8367,7 @@
       }
     ],
     "imageName": "nullstones-bcb7543ba8.png",
-    "itemCount": 2,
+    "itemCount": 1,
     "masterable": false,
     "name": "Nullstones",
     "parents": [
@@ -10352,7 +10370,7 @@
       }
     ],
     "imageName": "sola-toroid-54f209afd3.png",
-    "itemCount": 5,
+    "itemCount": 3,
     "masterable": false,
     "name": "Sola Toroid",
     "parents": [
@@ -10558,6 +10576,12 @@
       },
       {
         "chance": 1,
+        "location": "The Descendia: Steel Essence Rewards (Steel Path)",
+        "rarity": "Common",
+        "type": "25X Steel Essence"
+      },
+      {
+        "chance": 1,
         "location": "Torment",
         "rarity": "Common",
         "type": "Steel Essence"
@@ -10701,6 +10725,12 @@
         "location": "Sister Of Parvos (Ascension Hard Mode)",
         "rarity": "Common",
         "type": "Steel Essence"
+      },
+      {
+        "chance": 1,
+        "location": "The Descendia: Steel Essence Rewards (Steel Path)",
+        "rarity": "Common",
+        "type": "25X Steel Essence"
       },
       {
         "chance": 1,
@@ -10927,7 +10957,7 @@
     "consumeOnBuild": false,
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "imageName": "tear-azurite-397c0a4ebc.png",
-    "itemCount": 1,
+    "itemCount": 10,
     "masterable": false,
     "name": "Tear Azurite",
     "parents": [
@@ -11262,6 +11292,7 @@
       "Highbrow",
       "Hothead",
       "Jonsin Bracket",
+      "Pax Soar",
       "Tian Bracket",
       "Zip"
     ],
@@ -11485,7 +11516,7 @@
       }
     ],
     "imageName": "thermal-sludge-b861a393ca.png",
-    "itemCount": 75,
+    "itemCount": 20,
     "masterable": false,
     "name": "Thermal Sludge",
     "parents": [
@@ -11589,7 +11620,7 @@
       }
     ],
     "imageName": "thrax-plasm-acf664e015.png",
-    "itemCount": 300,
+    "itemCount": 600,
     "masterable": false,
     "name": "Thrax Plasm",
     "parents": [
@@ -12903,7 +12934,7 @@
       }
     ],
     "imageName": "vega-toroid-31d48d6576.png",
-    "itemCount": 5,
+    "itemCount": 3,
     "masterable": false,
     "name": "Vega Toroid",
     "parents": [
@@ -13016,7 +13047,7 @@
     "consumeOnBuild": false,
     "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "imageName": "venerdo-alloy-0699ce0e35.png",
-    "itemCount": 40,
+    "itemCount": 30,
     "masterable": false,
     "name": "Venerdo Alloy",
     "parents": [
@@ -13276,7 +13307,7 @@
       }
     ],
     "imageName": "voidgel-orb-479e1ce26c.png",
-    "itemCount": 45,
+    "itemCount": 30,
     "masterable": false,
     "name": "Voidgel Orb",
     "parents": [
@@ -13368,7 +13399,7 @@
     "category": "Resources",
     "description": "A Void Angel's living feather, ripped out in combat.\n\nLocation: Zariman",
     "imageName": "voidplume-pinion-ddb17aa071.png",
-    "itemCount": 5,
+    "itemCount": 10,
     "masterable": false,
     "name": "Voidplume Pinion",
     "parents": [

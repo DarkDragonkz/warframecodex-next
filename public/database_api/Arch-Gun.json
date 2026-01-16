@@ -4365,6 +4365,12 @@
           },
           {
             "chance": 0.02,
+            "location": "Lith L6 Relic",
+            "rarity": "Rare",
+            "type": "Larkspur Prime Barrel"
+          },
+          {
+            "chance": 0.02,
             "location": "Neo L2 Relic",
             "rarity": "Rare",
             "type": "Larkspur Prime Barrel"
@@ -4384,6 +4390,12 @@
           {
             "chance": 0.04,
             "location": "Axi L6 Relic (Exceptional)",
+            "rarity": "Rare",
+            "type": "Larkspur Prime Barrel"
+          },
+          {
+            "chance": 0.04,
+            "location": "Lith L6 Relic (Exceptional)",
             "rarity": "Rare",
             "type": "Larkspur Prime Barrel"
           },
@@ -4413,6 +4425,12 @@
           },
           {
             "chance": 0.06,
+            "location": "Lith L6 Relic (Flawless)",
+            "rarity": "Rare",
+            "type": "Larkspur Prime Barrel"
+          },
+          {
+            "chance": 0.06,
             "location": "Neo L2 Relic (Flawless)",
             "rarity": "Rare",
             "type": "Larkspur Prime Barrel"
@@ -4432,6 +4450,12 @@
           {
             "chance": 0.1,
             "location": "Axi L6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Larkspur Prime Barrel"
+          },
+          {
+            "chance": 0.1,
+            "location": "Lith L6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Larkspur Prime Barrel"
           },

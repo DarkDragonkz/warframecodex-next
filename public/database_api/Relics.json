@@ -39497,650 +39497,6 @@
   {
     "category": "Relics",
     "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-    "drops": [
-      {
-        "chance": 0.0042,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
-        "rarity": "Legendary",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0067,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
-        "rarity": "Legendary",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Another Betrayer, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Family Reunion, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Hot Mess, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Phobos/Opik (Rush), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Recover The Orokin Archive, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Sunkiller, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Table For Two, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "The Aftermath, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Time's Up, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0244,
-        "location": "Venus/Beacon Shield Ring (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0244,
-        "location": "Venus/Bifrost Echo (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.025,
-        "location": "Void Storm (Earth)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic (Radiant)"
-      },
-      {
-        "chance": 0.025,
-        "location": "Void Storm (Venus)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic (Radiant)"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Bendar Cluster (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Iota Temple (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Korm's Belt (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Ogal Cluster (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Sover Strait (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Beacon Shield Ring (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Bifrost Echo (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Falling Glory (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Luckless Expanse (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Orvin-Haarc (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Vesper Strait (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0455,
-        "location": "Venus/Vesper Strait (Skirmish), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Bendar Cluster (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Iota Temple (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Korm's Belt (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Ogal Cluster (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Sover Strait (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0526,
-        "location": "Venus/Falling Glory (Skirmish), Rotation C",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0625,
-        "location": "Venus/Luckless Expanse (Skirmish), Rotation C",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0625,
-        "location": "Void/Taranis (Defense), Rotation C",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0667,
-        "location": "Void/Hepit (Capture)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0667,
-        "location": "Void/Taranis (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0667,
-        "location": "Void/Teshub (Exterminate)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Ceres/Seimeni (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Earth/Coba (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Eris/Akkad (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Europa/Larzac (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Jupiter/Sinai (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Mars/Kadesh (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Pluto/Sechura (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Sedna/Sangeru (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Venus/Romula (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Ceres/Gabii (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Duviri/The Circuit (The Circuit), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Earth/Everest (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Earth/Tikal (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Mars/Arcadia (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Mars/Augustus (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Mercury/Apollodorus (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Phobos/Flimnap (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Phobos/Stickney (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Phobos/Wendell (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Venus/Kiliken (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Venus/Malva (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Venus/V Prime (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Ceres/Casta (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Ceres/Egeria (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Ceres/Varro (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Earth/Lith (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Mars/Spear (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Mercury/Lares (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Phobos/Drunlo (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Phobos/Gulliver (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Venus/Tessera (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0917,
-        "location": "Sanctuary Onslaught, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0948,
-        "location": "Elite Sanctuary Onslaught, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic (Radiant)"
-      },
-      {
-        "chance": 0.0968,
-        "location": "Phobos/Kepler (Rush), Rotation C",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Ceres/Cinxia (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Earth/Gaia (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Mars/Alator (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Mercury/Odin (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Phobos/Memphis (Defection), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Phobos/Memphis (Defection), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Venus/Cytherean (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Venus/Orvin-Haarc (Skirmish), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Ceres/Gabii (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Duviri/The Circuit (The Circuit), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Earth/Everest (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Earth/Tikal (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Mars/Arcadia (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Mars/Augustus (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Mercury/Apollodorus (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Phobos/Flimnap (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Phobos/Stickney (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Phobos/Wendell (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Venus/Kiliken (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Venus/Malva (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Venus/V Prime (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Void/Ani (Survival), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Void/Taranis (Defense), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1111,
-        "location": "Deimos/Hyf (Defense), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1111,
-        "location": "Deimos/Terrorem (Survival), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Ceres/Hapke (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Earth/Cambria (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Mars/Arval (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Mars/Olympus (Disruption), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Mars/Olympus (Disruption), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Mercury/Suisei (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Phobos/Grildrig (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Phobos/Shklovsky (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Venus/Unda (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Venus/Vesper (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      }
-    ],
     "imageName": "lith-exceptional.png",
     "locations": [],
     "masterable": false,
@@ -40153,650 +39509,6 @@
   {
     "category": "Relics",
     "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-    "drops": [
-      {
-        "chance": 0.0042,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
-        "rarity": "Legendary",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0067,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
-        "rarity": "Legendary",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Another Betrayer, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Family Reunion, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Hot Mess, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Phobos/Opik (Rush), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Recover The Orokin Archive, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Sunkiller, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Table For Two, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "The Aftermath, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Time's Up, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0244,
-        "location": "Venus/Beacon Shield Ring (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0244,
-        "location": "Venus/Bifrost Echo (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.025,
-        "location": "Void Storm (Earth)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic (Radiant)"
-      },
-      {
-        "chance": 0.025,
-        "location": "Void Storm (Venus)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic (Radiant)"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Bendar Cluster (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Iota Temple (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Korm's Belt (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Ogal Cluster (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Sover Strait (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Beacon Shield Ring (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Bifrost Echo (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Falling Glory (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Luckless Expanse (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Orvin-Haarc (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Vesper Strait (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0455,
-        "location": "Venus/Vesper Strait (Skirmish), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Bendar Cluster (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Iota Temple (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Korm's Belt (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Ogal Cluster (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Sover Strait (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0526,
-        "location": "Venus/Falling Glory (Skirmish), Rotation C",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0625,
-        "location": "Venus/Luckless Expanse (Skirmish), Rotation C",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0625,
-        "location": "Void/Taranis (Defense), Rotation C",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0667,
-        "location": "Void/Hepit (Capture)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0667,
-        "location": "Void/Taranis (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0667,
-        "location": "Void/Teshub (Exterminate)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Ceres/Seimeni (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Earth/Coba (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Eris/Akkad (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Europa/Larzac (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Jupiter/Sinai (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Mars/Kadesh (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Pluto/Sechura (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Sedna/Sangeru (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Venus/Romula (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Ceres/Gabii (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Duviri/The Circuit (The Circuit), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Earth/Everest (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Earth/Tikal (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Mars/Arcadia (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Mars/Augustus (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Mercury/Apollodorus (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Phobos/Flimnap (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Phobos/Stickney (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Phobos/Wendell (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Venus/Kiliken (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Venus/Malva (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Venus/V Prime (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Ceres/Casta (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Ceres/Egeria (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Ceres/Varro (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Earth/Lith (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Mars/Spear (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Mercury/Lares (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Phobos/Drunlo (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Phobos/Gulliver (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Venus/Tessera (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0917,
-        "location": "Sanctuary Onslaught, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0948,
-        "location": "Elite Sanctuary Onslaught, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic (Radiant)"
-      },
-      {
-        "chance": 0.0968,
-        "location": "Phobos/Kepler (Rush), Rotation C",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Ceres/Cinxia (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Earth/Gaia (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Mars/Alator (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Mercury/Odin (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Phobos/Memphis (Defection), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Phobos/Memphis (Defection), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Venus/Cytherean (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Venus/Orvin-Haarc (Skirmish), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Ceres/Gabii (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Duviri/The Circuit (The Circuit), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Earth/Everest (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Earth/Tikal (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Mars/Arcadia (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Mars/Augustus (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Mercury/Apollodorus (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Phobos/Flimnap (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Phobos/Stickney (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Phobos/Wendell (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Venus/Kiliken (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Venus/Malva (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Venus/V Prime (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Void/Ani (Survival), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Void/Taranis (Defense), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1111,
-        "location": "Deimos/Hyf (Defense), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1111,
-        "location": "Deimos/Terrorem (Survival), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Ceres/Hapke (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Earth/Cambria (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Mars/Arval (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Mars/Olympus (Disruption), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Mars/Olympus (Disruption), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Mercury/Suisei (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Phobos/Grildrig (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Phobos/Shklovsky (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Venus/Unda (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Venus/Vesper (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      }
-    ],
     "imageName": "lith-flawless.png",
     "locations": [],
     "masterable": false,
@@ -40809,650 +39521,6 @@
   {
     "category": "Relics",
     "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-    "drops": [
-      {
-        "chance": 0.0042,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
-        "rarity": "Legendary",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0067,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
-        "rarity": "Legendary",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Another Betrayer, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Family Reunion, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Hot Mess, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Phobos/Opik (Rush), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Recover The Orokin Archive, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Sunkiller, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Table For Two, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "The Aftermath, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Time's Up, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0244,
-        "location": "Venus/Beacon Shield Ring (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0244,
-        "location": "Venus/Bifrost Echo (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.025,
-        "location": "Void Storm (Earth)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic (Radiant)"
-      },
-      {
-        "chance": 0.025,
-        "location": "Void Storm (Venus)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic (Radiant)"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Bendar Cluster (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Iota Temple (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Korm's Belt (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Ogal Cluster (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Sover Strait (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Beacon Shield Ring (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Bifrost Echo (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Falling Glory (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Luckless Expanse (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Orvin-Haarc (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Vesper Strait (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0455,
-        "location": "Venus/Vesper Strait (Skirmish), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Bendar Cluster (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Iota Temple (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Korm's Belt (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Ogal Cluster (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Sover Strait (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0526,
-        "location": "Venus/Falling Glory (Skirmish), Rotation C",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0625,
-        "location": "Venus/Luckless Expanse (Skirmish), Rotation C",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0625,
-        "location": "Void/Taranis (Defense), Rotation C",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0667,
-        "location": "Void/Hepit (Capture)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0667,
-        "location": "Void/Taranis (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0667,
-        "location": "Void/Teshub (Exterminate)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Ceres/Seimeni (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Earth/Coba (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Eris/Akkad (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Europa/Larzac (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Jupiter/Sinai (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Mars/Kadesh (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Pluto/Sechura (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Sedna/Sangeru (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Venus/Romula (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Ceres/Gabii (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Duviri/The Circuit (The Circuit), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Earth/Everest (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Earth/Tikal (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Mars/Arcadia (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Mars/Augustus (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Mercury/Apollodorus (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Phobos/Flimnap (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Phobos/Stickney (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Phobos/Wendell (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Venus/Kiliken (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Venus/Malva (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Venus/V Prime (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Ceres/Casta (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Ceres/Egeria (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Ceres/Varro (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Earth/Lith (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Mars/Spear (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Mercury/Lares (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Phobos/Drunlo (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Phobos/Gulliver (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Venus/Tessera (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0917,
-        "location": "Sanctuary Onslaught, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0948,
-        "location": "Elite Sanctuary Onslaught, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic (Radiant)"
-      },
-      {
-        "chance": 0.0968,
-        "location": "Phobos/Kepler (Rush), Rotation C",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Ceres/Cinxia (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Earth/Gaia (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Mars/Alator (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Mercury/Odin (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Phobos/Memphis (Defection), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Phobos/Memphis (Defection), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Venus/Cytherean (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Venus/Orvin-Haarc (Skirmish), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Ceres/Gabii (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Duviri/The Circuit (The Circuit), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Earth/Everest (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Earth/Tikal (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Mars/Arcadia (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Mars/Augustus (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Mercury/Apollodorus (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Phobos/Flimnap (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Phobos/Stickney (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Phobos/Wendell (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Venus/Kiliken (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Venus/Malva (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Venus/V Prime (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Void/Ani (Survival), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Void/Taranis (Defense), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1111,
-        "location": "Deimos/Hyf (Defense), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1111,
-        "location": "Deimos/Terrorem (Survival), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Ceres/Hapke (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Earth/Cambria (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Mars/Arval (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Mars/Olympus (Disruption), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Mars/Olympus (Disruption), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Mercury/Suisei (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Phobos/Grildrig (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Phobos/Shklovsky (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Venus/Unda (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Venus/Vesper (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      }
-    ],
     "imageName": "lith-intact.png",
     "locations": [],
     "masterable": false,
@@ -41465,650 +39533,6 @@
   {
     "category": "Relics",
     "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-    "drops": [
-      {
-        "chance": 0.0042,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
-        "rarity": "Legendary",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0067,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
-        "rarity": "Legendary",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Another Betrayer, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Family Reunion, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Hot Mess, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Phobos/Opik (Rush), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Recover The Orokin Archive, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Sunkiller, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Table For Two, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "The Aftermath, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0221,
-        "location": "Time's Up, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0244,
-        "location": "Venus/Beacon Shield Ring (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0244,
-        "location": "Venus/Bifrost Echo (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.025,
-        "location": "Void Storm (Earth)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic (Radiant)"
-      },
-      {
-        "chance": 0.025,
-        "location": "Void Storm (Venus)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic (Radiant)"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Bendar Cluster (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Iota Temple (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Korm's Belt (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Ogal Cluster (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.03,
-        "location": "Earth/Sover Strait (Skirmish)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Beacon Shield Ring (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Bifrost Echo (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Falling Glory (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Luckless Expanse (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Orvin-Haarc (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0435,
-        "location": "Venus/Vesper Strait (Caches), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0455,
-        "location": "Venus/Vesper Strait (Skirmish), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Bendar Cluster (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Iota Temple (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Korm's Belt (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Ogal Cluster (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.05,
-        "location": "Earth/Sover Strait (Caches)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0526,
-        "location": "Venus/Falling Glory (Skirmish), Rotation C",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0625,
-        "location": "Venus/Luckless Expanse (Skirmish), Rotation C",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0625,
-        "location": "Void/Taranis (Defense), Rotation C",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0667,
-        "location": "Void/Hepit (Capture)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0667,
-        "location": "Void/Taranis (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0667,
-        "location": "Void/Teshub (Exterminate)",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Ceres/Seimeni (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Earth/Coba (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Eris/Akkad (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Europa/Larzac (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Jupiter/Sinai (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Mars/Kadesh (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Pluto/Sechura (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Sedna/Sangeru (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.069,
-        "location": "Venus/Romula (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Ceres/Gabii (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Duviri/The Circuit (The Circuit), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Earth/Everest (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Earth/Tikal (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Mars/Arcadia (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Mars/Augustus (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Mercury/Apollodorus (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Phobos/Flimnap (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Phobos/Stickney (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Phobos/Wendell (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Venus/Kiliken (Excavation), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Venus/Malva (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0769,
-        "location": "Venus/V Prime (Survival), Rotation B",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Ceres/Casta (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Ceres/Egeria (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Ceres/Varro (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Earth/Lith (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Mars/Spear (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Mercury/Lares (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Phobos/Drunlo (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Phobos/Gulliver (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0909,
-        "location": "Venus/Tessera (Defense), Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0917,
-        "location": "Sanctuary Onslaught, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.0948,
-        "location": "Elite Sanctuary Onslaught, Rotation A",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic (Radiant)"
-      },
-      {
-        "chance": 0.0968,
-        "location": "Phobos/Kepler (Rush), Rotation C",
-        "rarity": "Rare",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Ceres/Cinxia (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Earth/Gaia (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Mars/Alator (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Mercury/Odin (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Phobos/Memphis (Defection), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Phobos/Memphis (Defection), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Venus/Cytherean (Interception), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1,
-        "location": "Venus/Orvin-Haarc (Skirmish), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Ceres/Gabii (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Duviri/The Circuit (The Circuit), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Earth/Everest (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Earth/Tikal (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Mars/Arcadia (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Mars/Augustus (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Mercury/Apollodorus (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Phobos/Flimnap (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Phobos/Stickney (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Phobos/Wendell (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Venus/Kiliken (Excavation), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Venus/Malva (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Venus/V Prime (Survival), Rotation C",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Void/Ani (Survival), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1106,
-        "location": "Void/Taranis (Defense), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1111,
-        "location": "Deimos/Hyf (Defense), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1111,
-        "location": "Deimos/Terrorem (Survival), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Ceres/Hapke (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Earth/Cambria (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Mars/Arval (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Mars/Olympus (Disruption), Rotation A",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Mars/Olympus (Disruption), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Mercury/Suisei (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Phobos/Grildrig (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Phobos/Shklovsky (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Venus/Unda (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      },
-      {
-        "chance": 0.1429,
-        "location": "Venus/Vesper (Spy), Rotation B",
-        "rarity": "Uncommon",
-        "type": "Lith L6 Relic"
-      }
-    ],
     "imageName": "lith-radiant.png",
     "locations": [],
     "masterable": false,
@@ -42121,6 +39545,650 @@
   {
     "category": "Relics",
     "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+    "drops": [
+      {
+        "chance": 0.0042,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+        "rarity": "Legendary",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+        "rarity": "Legendary",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Another Betrayer, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Family Reunion, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Hot Mess, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Phobos/Opik (Rush), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Recover The Orokin Archive, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Sunkiller, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Table For Two, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "The Aftermath, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Time's Up, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0244,
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0244,
+        "location": "Venus/Bifrost Echo (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.025,
+        "location": "Void Storm (Earth)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic (Radiant)"
+      },
+      {
+        "chance": 0.025,
+        "location": "Void Storm (Venus)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic (Radiant)"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Bendar Cluster (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Iota Temple (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Korm's Belt (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Ogal Cluster (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Sover Strait (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Beacon Shield Ring (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Bifrost Echo (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Falling Glory (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Luckless Expanse (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Orvin-Haarc (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Vesper Strait (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0455,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Bendar Cluster (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Iota Temple (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Korm's Belt (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Ogal Cluster (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Sover Strait (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0526,
+        "location": "Venus/Falling Glory (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0625,
+        "location": "Venus/Luckless Expanse (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0625,
+        "location": "Void/Taranis (Defense), Rotation C",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Void/Hepit (Capture)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Void/Taranis (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Void/Teshub (Exterminate)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Ceres/Seimeni (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Earth/Coba (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Eris/Akkad (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Europa/Larzac (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Jupiter/Sinai (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Mars/Kadesh (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Pluto/Sechura (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Sedna/Sangeru (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Venus/Romula (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Ceres/Gabii (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Duviri/The Circuit (The Circuit), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Earth/Everest (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Earth/Tikal (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Mars/Arcadia (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Mars/Augustus (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Mercury/Apollodorus (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Phobos/Flimnap (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Phobos/Stickney (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Phobos/Wendell (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Venus/Kiliken (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Venus/Malva (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Venus/V Prime (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Ceres/Casta (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Ceres/Egeria (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Ceres/Varro (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Earth/Lith (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Mars/Spear (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Mercury/Lares (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Phobos/Drunlo (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Phobos/Gulliver (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Venus/Tessera (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0917,
+        "location": "Sanctuary Onslaught, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0948,
+        "location": "Elite Sanctuary Onslaught, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic (Radiant)"
+      },
+      {
+        "chance": 0.0968,
+        "location": "Phobos/Kepler (Rush), Rotation C",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Ceres/Cinxia (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Earth/Gaia (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Mars/Alator (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Mercury/Odin (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Phobos/Memphis (Defection), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Phobos/Memphis (Defection), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Venus/Cytherean (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Venus/Orvin-Haarc (Skirmish), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Ceres/Gabii (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Duviri/The Circuit (The Circuit), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Earth/Everest (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Earth/Tikal (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Mars/Arcadia (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Mars/Augustus (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Mercury/Apollodorus (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Phobos/Flimnap (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Phobos/Stickney (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Phobos/Wendell (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Venus/Kiliken (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Venus/Malva (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Venus/V Prime (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Void/Ani (Survival), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Void/Taranis (Defense), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1111,
+        "location": "Deimos/Hyf (Defense), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1111,
+        "location": "Deimos/Terrorem (Survival), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Ceres/Hapke (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Earth/Cambria (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Mars/Arval (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Mars/Olympus (Disruption), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Mars/Olympus (Disruption), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Mercury/Suisei (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Phobos/Grildrig (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Phobos/Shklovsky (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Venus/Unda (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Venus/Vesper (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      }
+    ],
     "imageName": "lith-exceptional.png",
     "locations": [],
     "masterable": false,
@@ -42133,6 +40201,650 @@
   {
     "category": "Relics",
     "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+    "drops": [
+      {
+        "chance": 0.0042,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+        "rarity": "Legendary",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+        "rarity": "Legendary",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Another Betrayer, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Family Reunion, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Hot Mess, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Phobos/Opik (Rush), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Recover The Orokin Archive, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Sunkiller, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Table For Two, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "The Aftermath, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Time's Up, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0244,
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0244,
+        "location": "Venus/Bifrost Echo (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.025,
+        "location": "Void Storm (Earth)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic (Radiant)"
+      },
+      {
+        "chance": 0.025,
+        "location": "Void Storm (Venus)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic (Radiant)"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Bendar Cluster (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Iota Temple (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Korm's Belt (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Ogal Cluster (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Sover Strait (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Beacon Shield Ring (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Bifrost Echo (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Falling Glory (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Luckless Expanse (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Orvin-Haarc (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Vesper Strait (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0455,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Bendar Cluster (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Iota Temple (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Korm's Belt (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Ogal Cluster (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Sover Strait (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0526,
+        "location": "Venus/Falling Glory (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0625,
+        "location": "Venus/Luckless Expanse (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0625,
+        "location": "Void/Taranis (Defense), Rotation C",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Void/Hepit (Capture)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Void/Taranis (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Void/Teshub (Exterminate)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Ceres/Seimeni (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Earth/Coba (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Eris/Akkad (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Europa/Larzac (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Jupiter/Sinai (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Mars/Kadesh (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Pluto/Sechura (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Sedna/Sangeru (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Venus/Romula (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Ceres/Gabii (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Duviri/The Circuit (The Circuit), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Earth/Everest (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Earth/Tikal (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Mars/Arcadia (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Mars/Augustus (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Mercury/Apollodorus (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Phobos/Flimnap (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Phobos/Stickney (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Phobos/Wendell (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Venus/Kiliken (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Venus/Malva (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Venus/V Prime (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Ceres/Casta (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Ceres/Egeria (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Ceres/Varro (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Earth/Lith (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Mars/Spear (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Mercury/Lares (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Phobos/Drunlo (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Phobos/Gulliver (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Venus/Tessera (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0917,
+        "location": "Sanctuary Onslaught, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0948,
+        "location": "Elite Sanctuary Onslaught, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic (Radiant)"
+      },
+      {
+        "chance": 0.0968,
+        "location": "Phobos/Kepler (Rush), Rotation C",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Ceres/Cinxia (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Earth/Gaia (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Mars/Alator (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Mercury/Odin (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Phobos/Memphis (Defection), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Phobos/Memphis (Defection), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Venus/Cytherean (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Venus/Orvin-Haarc (Skirmish), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Ceres/Gabii (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Duviri/The Circuit (The Circuit), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Earth/Everest (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Earth/Tikal (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Mars/Arcadia (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Mars/Augustus (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Mercury/Apollodorus (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Phobos/Flimnap (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Phobos/Stickney (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Phobos/Wendell (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Venus/Kiliken (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Venus/Malva (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Venus/V Prime (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Void/Ani (Survival), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Void/Taranis (Defense), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1111,
+        "location": "Deimos/Hyf (Defense), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1111,
+        "location": "Deimos/Terrorem (Survival), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Ceres/Hapke (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Earth/Cambria (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Mars/Arval (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Mars/Olympus (Disruption), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Mars/Olympus (Disruption), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Mercury/Suisei (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Phobos/Grildrig (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Phobos/Shklovsky (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Venus/Unda (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Venus/Vesper (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      }
+    ],
     "imageName": "lith-flawless.png",
     "locations": [],
     "masterable": false,
@@ -42145,6 +40857,650 @@
   {
     "category": "Relics",
     "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+    "drops": [
+      {
+        "chance": 0.0042,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+        "rarity": "Legendary",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+        "rarity": "Legendary",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Another Betrayer, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Family Reunion, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Hot Mess, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Phobos/Opik (Rush), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Recover The Orokin Archive, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Sunkiller, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Table For Two, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "The Aftermath, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Time's Up, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0244,
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0244,
+        "location": "Venus/Bifrost Echo (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.025,
+        "location": "Void Storm (Earth)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic (Radiant)"
+      },
+      {
+        "chance": 0.025,
+        "location": "Void Storm (Venus)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic (Radiant)"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Bendar Cluster (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Iota Temple (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Korm's Belt (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Ogal Cluster (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Sover Strait (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Beacon Shield Ring (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Bifrost Echo (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Falling Glory (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Luckless Expanse (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Orvin-Haarc (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Vesper Strait (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0455,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Bendar Cluster (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Iota Temple (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Korm's Belt (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Ogal Cluster (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Sover Strait (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0526,
+        "location": "Venus/Falling Glory (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0625,
+        "location": "Venus/Luckless Expanse (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0625,
+        "location": "Void/Taranis (Defense), Rotation C",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Void/Hepit (Capture)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Void/Taranis (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Void/Teshub (Exterminate)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Ceres/Seimeni (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Earth/Coba (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Eris/Akkad (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Europa/Larzac (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Jupiter/Sinai (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Mars/Kadesh (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Pluto/Sechura (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Sedna/Sangeru (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Venus/Romula (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Ceres/Gabii (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Duviri/The Circuit (The Circuit), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Earth/Everest (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Earth/Tikal (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Mars/Arcadia (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Mars/Augustus (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Mercury/Apollodorus (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Phobos/Flimnap (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Phobos/Stickney (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Phobos/Wendell (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Venus/Kiliken (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Venus/Malva (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Venus/V Prime (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Ceres/Casta (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Ceres/Egeria (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Ceres/Varro (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Earth/Lith (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Mars/Spear (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Mercury/Lares (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Phobos/Drunlo (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Phobos/Gulliver (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Venus/Tessera (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0917,
+        "location": "Sanctuary Onslaught, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0948,
+        "location": "Elite Sanctuary Onslaught, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic (Radiant)"
+      },
+      {
+        "chance": 0.0968,
+        "location": "Phobos/Kepler (Rush), Rotation C",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Ceres/Cinxia (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Earth/Gaia (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Mars/Alator (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Mercury/Odin (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Phobos/Memphis (Defection), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Phobos/Memphis (Defection), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Venus/Cytherean (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Venus/Orvin-Haarc (Skirmish), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Ceres/Gabii (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Duviri/The Circuit (The Circuit), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Earth/Everest (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Earth/Tikal (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Mars/Arcadia (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Mars/Augustus (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Mercury/Apollodorus (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Phobos/Flimnap (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Phobos/Stickney (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Phobos/Wendell (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Venus/Kiliken (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Venus/Malva (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Venus/V Prime (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Void/Ani (Survival), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Void/Taranis (Defense), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1111,
+        "location": "Deimos/Hyf (Defense), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1111,
+        "location": "Deimos/Terrorem (Survival), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Ceres/Hapke (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Earth/Cambria (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Mars/Arval (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Mars/Olympus (Disruption), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Mars/Olympus (Disruption), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Mercury/Suisei (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Phobos/Grildrig (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Phobos/Shklovsky (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Venus/Unda (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Venus/Vesper (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      }
+    ],
     "imageName": "lith-intact.png",
     "locations": [],
     "masterable": false,
@@ -42157,6 +41513,650 @@
   {
     "category": "Relics",
     "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+    "drops": [
+      {
+        "chance": 0.0042,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+        "rarity": "Legendary",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+        "rarity": "Legendary",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Another Betrayer, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Family Reunion, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Hot Mess, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Phobos/Opik (Rush), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Recover The Orokin Archive, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Sunkiller, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Table For Two, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "The Aftermath, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0221,
+        "location": "Time's Up, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0244,
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0244,
+        "location": "Venus/Bifrost Echo (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.025,
+        "location": "Void Storm (Earth)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic (Radiant)"
+      },
+      {
+        "chance": 0.025,
+        "location": "Void Storm (Venus)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic (Radiant)"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Bendar Cluster (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Iota Temple (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Korm's Belt (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Ogal Cluster (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.03,
+        "location": "Earth/Sover Strait (Skirmish)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Beacon Shield Ring (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Bifrost Echo (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Falling Glory (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Luckless Expanse (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Orvin-Haarc (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0435,
+        "location": "Venus/Vesper Strait (Caches), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0455,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Bendar Cluster (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Iota Temple (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Korm's Belt (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Ogal Cluster (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.05,
+        "location": "Earth/Sover Strait (Caches)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0526,
+        "location": "Venus/Falling Glory (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0625,
+        "location": "Venus/Luckless Expanse (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0625,
+        "location": "Void/Taranis (Defense), Rotation C",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Void/Hepit (Capture)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Void/Taranis (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Void/Teshub (Exterminate)",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Ceres/Seimeni (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Earth/Coba (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Eris/Akkad (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Europa/Larzac (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Jupiter/Sinai (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Mars/Kadesh (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Pluto/Sechura (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Sedna/Sangeru (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.069,
+        "location": "Venus/Romula (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Ceres/Gabii (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Duviri/The Circuit (The Circuit), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Earth/Everest (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Earth/Tikal (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Mars/Arcadia (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Mars/Augustus (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Mercury/Apollodorus (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Phobos/Flimnap (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Phobos/Stickney (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Phobos/Wendell (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Venus/Kiliken (Excavation), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Venus/Malva (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0769,
+        "location": "Venus/V Prime (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Ceres/Casta (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Ceres/Egeria (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Ceres/Varro (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Earth/Lith (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Mars/Spear (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Mercury/Lares (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Phobos/Drunlo (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Phobos/Gulliver (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Venus/Tessera (Defense), Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0917,
+        "location": "Sanctuary Onslaught, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.0948,
+        "location": "Elite Sanctuary Onslaught, Rotation A",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic (Radiant)"
+      },
+      {
+        "chance": 0.0968,
+        "location": "Phobos/Kepler (Rush), Rotation C",
+        "rarity": "Rare",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Ceres/Cinxia (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Earth/Gaia (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Mars/Alator (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Mercury/Odin (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Phobos/Memphis (Defection), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Phobos/Memphis (Defection), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Venus/Cytherean (Interception), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1,
+        "location": "Venus/Orvin-Haarc (Skirmish), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Ceres/Gabii (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Duviri/The Circuit (The Circuit), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Earth/Everest (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Earth/Tikal (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Mars/Arcadia (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Mars/Augustus (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Mercury/Apollodorus (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Phobos/Flimnap (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Phobos/Stickney (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Phobos/Wendell (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Venus/Kiliken (Excavation), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Venus/Malva (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Venus/V Prime (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Void/Ani (Survival), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1106,
+        "location": "Void/Taranis (Defense), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1111,
+        "location": "Deimos/Hyf (Defense), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1111,
+        "location": "Deimos/Terrorem (Survival), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Ceres/Hapke (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Earth/Cambria (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Mars/Arval (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Mars/Olympus (Disruption), Rotation A",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Mars/Olympus (Disruption), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Mercury/Suisei (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Phobos/Grildrig (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Phobos/Shklovsky (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Venus/Unda (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      },
+      {
+        "chance": 0.1429,
+        "location": "Venus/Vesper (Spy), Rotation B",
+        "rarity": "Uncommon",
+        "type": "Lith L7 Relic"
+      }
+    ],
     "imageName": "lith-radiant.png",
     "locations": [],
     "masterable": false,

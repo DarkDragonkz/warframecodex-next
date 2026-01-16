@@ -61222,6 +61222,12 @@
         "type": "Ice Spring"
       },
       {
+        "chance": 0.037,
+        "location": "The Descendia: Infernum 20 Triple Arcane Rewards",
+        "rarity": "Rare",
+        "type": "3X Arcane Ice"
+      },
+      {
         "chance": 0.04,
         "location": "Duviri/Endless: Tier 9 (Normal)",
         "rarity": "Rare",
@@ -63617,6 +63623,12 @@
         "chance": 0.0375,
         "location": "Demolisher Boiler",
         "rarity": "Uncommon",
+        "type": "Cleanse Infested"
+      },
+      {
+        "chance": 0.0375,
+        "location": "Demolisher Boiler",
+        "rarity": "Uncommon",
         "type": "Expel Infested"
       },
       {
@@ -63633,7 +63645,7 @@
       },
       {
         "chance": 0.0375,
-        "location": "Demolisher Boiler",
+        "location": "Demolisher Charger",
         "rarity": "Uncommon",
         "type": "Cleanse Infested"
       },
@@ -63657,7 +63669,7 @@
       },
       {
         "chance": 0.0375,
-        "location": "Demolisher Charger",
+        "location": "Demolisher Juggernaut",
         "rarity": "Uncommon",
         "type": "Cleanse Infested"
       },
@@ -63681,7 +63693,7 @@
       },
       {
         "chance": 0.0375,
-        "location": "Demolisher Juggernaut",
+        "location": "Demolisher Thrasher",
         "rarity": "Uncommon",
         "type": "Cleanse Infested"
       },
@@ -63702,12 +63714,6 @@
         "location": "Demolisher Thrasher",
         "rarity": "Uncommon",
         "type": "Bane Of Infested"
-      },
-      {
-        "chance": 0.0375,
-        "location": "Demolisher Thrasher",
-        "rarity": "Uncommon",
-        "type": "Cleanse Infested"
       },
       {
         "chance": 0.0376,
@@ -101112,6 +101118,18 @@
         "type": "Orokin Cell"
       },
       {
+        "chance": 0.1936,
+        "location": "The Descendia: Rare Rewards (Steel Path)",
+        "rarity": "Uncommon",
+        "type": "Orokin Catalyst Blueprint"
+      },
+      {
+        "chance": 0.1936,
+        "location": "The Descendia: Rare Rewards (Steel Path)",
+        "rarity": "Uncommon",
+        "type": "Orokin Reactor Blueprint"
+      },
+      {
         "chance": 0.2,
         "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A",
         "rarity": "Uncommon",
@@ -124070,6 +124088,36 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleDefaultSkin"
+  },
+  {
+    "category": "Skins",
+    "description": "A display created for Star Days by Community Artist DarikaArt.",
+    "imageName": "star-days-circle-frame-display-49e2e23902.png",
+    "masterable": false,
+    "name": "Star Days Circle Frame Display",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/StarDays2026CirclePictureFrame"
+  },
+  {
+    "category": "Skins",
+    "description": "A display created for Star Days by Community Artist DarikaArt.",
+    "imageName": "star-days-heart-frame-display-f0c0ed0bc3.png",
+    "masterable": false,
+    "name": "Star Days Heart Frame Display",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/StarDays2026HeartPictureFrame"
+  },
+  {
+    "category": "Skins",
+    "description": "A display created for Star Days by Community Artist DarikaArt.",
+    "imageName": "star-days-square-frame-display-1a61b0c474.png",
+    "masterable": false,
+    "name": "Star Days Square Frame Display",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/StarDays2026SquarePictureFrame"
   },
   {
     "category": "Skins",

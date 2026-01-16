@@ -16460,6 +16460,12 @@
           },
           {
             "chance": 0.1667,
+            "location": "Lith L6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Burston Prime Receiver"
+          },
+          {
+            "chance": 0.1667,
             "location": "Lith N3 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Burston Prime Receiver"
@@ -16683,6 +16689,12 @@
           {
             "chance": 0.2,
             "location": "Lith H6 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Burston Prime Receiver"
+          },
+          {
+            "chance": 0.2,
+            "location": "Lith L6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Burston Prime Receiver"
           },
@@ -16916,6 +16928,12 @@
           },
           {
             "chance": 0.2333,
+            "location": "Lith L6 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Burston Prime Receiver"
+          },
+          {
+            "chance": 0.2333,
             "location": "Lith N3 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Burston Prime Receiver"
@@ -17139,6 +17157,12 @@
           {
             "chance": 0.2533,
             "location": "Lith H6 Relic",
+            "rarity": "Uncommon",
+            "type": "Burston Prime Receiver"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Lith L6 Relic",
             "rarity": "Uncommon",
             "type": "Burston Prime Receiver"
           },
@@ -62760,7 +62784,7 @@
         "speed": 0.667,
         "crit_chance": 40,
         "crit_mult": 3,
-        "status_chance": 50,
+        "status_chance": 32,
         "charge_time": 1.6,
         "shot_type": "Projectile",
         "shot_speed": 300,
@@ -74921,7 +74945,7 @@
         "drops": [
           {
             "chance": 0.11,
-            "location": "Lith L6 Relic",
+            "location": "Lith L7 Relic",
             "rarity": "Uncommon",
             "type": "Vadarya Prime Barrel"
           },
@@ -74933,7 +74957,7 @@
           },
           {
             "chance": 0.13,
-            "location": "Lith L6 Relic (Exceptional)",
+            "location": "Lith L7 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Vadarya Prime Barrel"
           },
@@ -74945,7 +74969,7 @@
           },
           {
             "chance": 0.17,
-            "location": "Lith L6 Relic (Flawless)",
+            "location": "Lith L7 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Vadarya Prime Barrel"
           },
@@ -74957,7 +74981,7 @@
           },
           {
             "chance": 0.2,
-            "location": "Lith L6 Relic (Radiant)",
+            "location": "Lith L7 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Vadarya Prime Barrel"
           },
@@ -76749,8 +76773,15 @@
         "itemCount": 1,
         "imageName": "barrel.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "chance": 0.125,
+            "location": "Roathe",
+            "rarity": "Uncommon",
+            "type": "Vinquibus Barrel Blueprint"
+          }
+        ],
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VinquibusBlade",
@@ -76759,8 +76790,15 @@
         "itemCount": 1,
         "imageName": "blade.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "chance": 0.125,
+            "location": "Roathe",
+            "rarity": "Uncommon",
+            "type": "Vinquibus Blade Blueprint"
+          }
+        ],
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Weapons/Tenno/Bayonet/TnBayonetRifleBlueprint",
@@ -76770,7 +76808,14 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "chance": 0.125,
+            "location": "Roathe",
+            "rarity": "Uncommon",
+            "type": "Vinquibus Blueprint"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VinquibusReceiver",
@@ -76779,8 +76824,15 @@
         "itemCount": 1,
         "imageName": "receiver.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "chance": 0.125,
+            "location": "Roathe",
+            "rarity": "Uncommon",
+            "type": "Vinquibus Receiver Blueprint"
+          }
+        ],
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VinquibusStock",
@@ -76789,8 +76841,15 @@
         "itemCount": 1,
         "imageName": "stock.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "chance": 0.125,
+            "location": "Roathe",
+            "rarity": "Uncommon",
+            "type": "Vinquibus Stock Blueprint"
+          }
+        ],
+        "masterable": false
       }
     ],
     "consumeOnBuild": true,
