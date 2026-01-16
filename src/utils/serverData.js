@@ -1,6 +1,5 @@
 import fs from 'fs/promises';
 import path from 'path';
-import { API_BASE_URL } from './constants';
 
 // Determina la cartella del database in modo sicuro
 // process.cwd() è la root del progetto durante la build
@@ -11,12 +10,12 @@ const DB_FOLDER = path.join(process.cwd(), 'public', 'database_api');
 // const DB_FOLDER = path.join(process.cwd(), 'database_api');
 
 // Cache globale per evitare riletture durante la build
-global.dataCache = global.dataCache || {};
+globalThis.dataCache = globalThis.dataCache || {};
 
 export async function fetchGameData(filename) {
     // 1. Controlla Cache RAM
-    if (global.dataCache[filename]) {
-        return global.dataCache[filename];
+    if (globalThis.dataCache[filename]) {
+        return globalThis.dataCache[filename];
     }
 
     // 2. Tenta lettura da File System (Obbligatorio per la Build)
@@ -30,7 +29,7 @@ export async function fetchGameData(filename) {
         try {
             const fileContent = await fs.readFile(filePath, 'utf-8');
             const json = JSON.parse(fileContent);
-            global.dataCache[filename] = json;
+            globalThis.dataCache[filename] = json;
             return json;
         } catch (e) {
             // Continua al prossimo path

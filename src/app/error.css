@@ -1,0 +1,26 @@
+.error-container {
+  padding: 50px;
+  color: #fff;
+  text-align: center;
+}
+
+.error-title {
+  color: #ff6b6b;
+}
+
+.error-message {
+  background: #222;
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
+  text-align: left;
+}
+
+.error-reset-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #d4af37;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+}

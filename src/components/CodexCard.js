@@ -7,7 +7,8 @@ import { IMG_BASE_URL } from '@/utils/constants';
 export default function CodexCard({ item, isOwned, onToggleOwned }) {
     if (!item) return null;
 
-    const wikiUrl = `https://warframe.fandom.com/wiki/${item.name.replace(/ /g, '_')}`;
+    const wikiSlug = encodeURIComponent(item.name.replace(/ /g, '_'));
+    const wikiUrl = `https://warframe.fandom.com/wiki/${wikiSlug}`;
     const isPrime = item.name.includes('Prime');
 
     return (

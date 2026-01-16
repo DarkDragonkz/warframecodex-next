@@ -243,3 +243,851 @@
   .relic-cards-grid { display: grid; grid-template-columns: repeat(2, 1fr); }
   .mini-relic-card { width: 100%; max-width: none; }
 }
+
+/* --- RELIC DETAIL MODAL (SPECIFICHE) --- */
+.relic-modal-content {
+  max-width: 1200px;
+  height: 85vh;
+}
+
+.relic-col-left {
+  flex: 0 0 40%;
+  border-right: 1px solid #333;
+  background: #050505;
+}
+
+.relic-modal-info-header {
+  text-align: center;
+}
+
+.modal-status {
+  margin-top: 10px;
+}
+
+.relic-modal-title {
+  font-size: 42px;
+  color: #fff;
+}
+
+.relic-modal-title.vaulted {
+  color: #ff5555;
+}
+
+.relic-det-img {
+  height: 200px;
+  margin: 20px 0;
+}
+
+.relic-header-plain {
+  background: transparent;
+  padding: 0 0 10px 0;
+  border: none;
+}
+
+.relic-col-content {
+  padding: 0;
+  flex: 1;
+}
+
+.relic-reward-card {
+  margin-bottom: 8px;
+  background: linear-gradient(90deg, #18181b 0%, #121214 100%);
+  padding: 10px 15px;
+  border-radius: 4px;
+  border-bottom: 1px solid #222;
+  border-left: 4px solid var(--relic-color, #cd7f32);
+}
+
+.relic-reward-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+.relic-reward-name {
+  color: #eee;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.relic-reward-name-rare {
+  color: #d4af37;
+}
+
+.relic-reward-chance {
+  color: var(--relic-color, #cd7f32);
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.relic-reward-bar {
+  width: 100%;
+  height: 4px;
+  background: #222;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.relic-reward-bar-fill {
+  height: 100%;
+  width: var(--relic-width, 0%);
+  background: var(--relic-color, #cd7f32);
+  box-shadow: 0 0 10px var(--relic-color, #cd7f32);
+}
+
+.relic-actions {
+  margin-top: 20px;
+}
+
+.relic-col-center {
+  flex: 1;
+  background: #0e0e10;
+  padding: 0;
+}
+
+.relic-header-sticky {
+  background: #1a1a1e;
+  border-bottom: 1px solid #333;
+  padding: 20px;
+}
+
+.relic-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.relic-table-head {
+  position: sticky;
+  top: 0;
+  background: #0e0e10;
+  z-index: 10;
+}
+
+.relic-th {
+  padding: 12px 15px;
+  text-align: left;
+  font-size: 10px;
+  font-weight: 800;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.relic-th-center {
+  text-align: center;
+}
+
+.relic-th-right {
+  text-align: right;
+}
+
+.relic-table-row {
+  border-bottom: 1px solid #1a1a1e;
+}
+
+.relic-td {
+  padding: 12px 15px;
+  font-size: 13px;
+}
+
+.relic-td-planet {
+  color: #fff;
+  font-weight: bold;
+}
+
+.relic-td-node {
+  color: #ccc;
+}
+
+.relic-td-type {
+  color: #888;
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+.relic-td-rot {
+  text-align: center;
+  color: var(--gold);
+  font-weight: bold;
+}
+
+.relic-td-chance {
+  text-align: right;
+  color: #5fffa5;
+  font-weight: bold;
+}
+
+.relic-empty {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+  text-align: center;
+}
+
+.relic-empty-icon {
+  font-size: 60px;
+  margin-bottom: 20px;
+  opacity: 0.3;
+}
+
+.relic-empty-title {
+  color: #ff5555;
+  margin-bottom: 10px;
+}
+
+.relic-empty-text {
+  max-width: 300px;
+  line-height: 1.5;
+  font-size: 13px;
+}
+
+/* --- HUD STYLE OVERRIDES (clarity for components & locations) --- */
+.modal-content-simple {
+  background: linear-gradient(180deg, #0a0b12 0%, #09090b 100%);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 8px;
+}
+
+.col-left {
+  background: linear-gradient(180deg, #050505 0%, #0b0c12 100%);
+  border-right-color: rgba(255,255,255,0.06);
+}
+
+.modal-title {
+  letter-spacing: 0.5px;
+  line-height: 0.95;
+}
+
+.type-pill {
+  color: rgba(255,255,255,0.6);
+  border-color: rgba(255,255,255,0.15);
+  border-radius: 6px;
+  padding: 3px 8px;
+}
+
+.warframe-description {
+  color: rgba(255,255,255,0.65);
+}
+
+.col-center, .col-right {
+  background: linear-gradient(180deg, #0e0f14 0%, #0b0c12 100%);
+}
+
+.col-center {
+  border-right-color: rgba(255,255,255,0.06);
+}
+
+.col-header-sticky {
+  background: rgba(8, 10, 16, 0.92);
+  border-bottom-color: rgba(255,255,255,0.08);
+  padding: 18px 22px;
+}
+
+.section-title {
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+.col-content-scroll {
+  padding: 20px 22px 26px;
+}
+
+.component-row {
+  margin-bottom: 18px;
+  background: linear-gradient(180deg, rgba(18, 20, 28, 0.92) 0%, rgba(12, 14, 20, 0.9) 100%);
+  border-color: rgba(255,255,255,0.08);
+  border-radius: 10px;
+  padding: 12px 12px 10px;
+}
+
+.component-header {
+  border-bottom-color: rgba(255,255,255,0.08);
+}
+
+.count-badge {
+  background: rgba(0,0,0,0.6);
+  border-color: rgba(255,255,255,0.15);
+  color: rgba(255,255,255,0.6);
+  border-radius: 6px;
+  padding: 2px 8px;
+}
+
+.mini-relic-card {
+  max-width: 190px;
+  background: rgba(12, 14, 20, 0.9);
+  border-color: rgba(255,255,255,0.12);
+  border-radius: 8px;
+}
+
+.mini-relic-card:hover {
+  border-color: rgba(255,255,255,0.25);
+  background: rgba(20, 22, 30, 0.95);
+}
+
+.mini-relic-card.selected {
+  background: rgba(212, 175, 55, 0.1);
+  box-shadow: 0 0 12px rgba(212, 175, 55, 0.2);
+}
+
+.mission-block {
+  background: rgba(14, 16, 22, 0.9);
+  border-color: rgba(255,255,255,0.1);
+  border-radius: 10px;
+}
+
+.mission-block-header {
+  background: rgba(18, 20, 28, 0.95);
+  border-bottom-color: rgba(255,255,255,0.1);
+  padding: 10px 14px;
+}
+
+.mission-relics-table th {
+  color: rgba(255,255,255,0.5);
+  border-bottom-color: rgba(255,255,255,0.08);
+}
+
+.mission-relics-table td {
+  color: rgba(255,255,255,0.75);
+  border-bottom-color: rgba(255,255,255,0.06);
+}
+
+.part-badge {
+  background: rgba(95, 255, 165, 0.08);
+  border-color: rgba(95, 255, 165, 0.25);
+  border-radius: 6px;
+  padding: 3px 8px;
+}
+
+.btn-toggle-large {
+  border-radius: 8px;
+}
+
+.wiki-btn-block {
+  border-color: rgba(255,255,255,0.18);
+  border-radius: 8px;
+  color: rgba(255,255,255,0.55);
+}
+
+/* --- COMPACT LAYOUT + RELIC CARD TUNING --- */
+.col-left {
+  flex: 0 0 280px;
+}
+
+.col-right {
+  flex: 0 1 360px;
+  min-width: 300px;
+  max-width: 420px;
+}
+
+.col-content-scroll {
+  padding: 12px 16px 16px;
+}
+
+.component-row {
+  margin-bottom: 10px;
+  padding: 10px 10px 8px;
+  background: linear-gradient(180deg, rgba(18, 21, 30, 0.95) 0%, rgba(12, 14, 22, 0.92) 100%);
+  border: 1px solid rgba(255,255,255,0.1);
+  box-shadow: inset 0 0 18px rgba(255,255,255,0.02);
+}
+
+.component-header {
+  margin-bottom: 8px;
+  padding-bottom: 6px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 11px;
+  color: rgba(255,255,255,0.8);
+}
+
+.component-header::after {
+  content: "";
+  height: 1px;
+  flex: 1;
+  background: linear-gradient(90deg, rgba(255,255,255,0.08), transparent);
+}
+
+.component-icon {
+  opacity: 0.75;
+}
+
+.count-badge {
+  background: rgba(0,0,0,0.55);
+  border-color: rgba(255,255,255,0.2);
+  color: rgba(255,255,255,0.7);
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.relic-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(84px, 1fr));
+  gap: 6px;
+}
+
+.mini-relic-card {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  align-content: start;
+  gap: 4px;
+  padding: 6px;
+  aspect-ratio: 1 / 1;
+  border-radius: 10px;
+}
+
+.relic-card-img {
+  width: 34px;
+  height: 34px;
+  display: block;
+  justify-self: center;
+  align-self: center;
+  margin-top: 1px;
+  opacity: 0.9;
+  filter: drop-shadow(0 0 6px rgba(0,0,0,0.35));
+}
+
+.card-info { gap: 4px; }
+.card-info .card-name { text-align: center; }
+.card-info .card-name { font-size: 11px; }
+
+.col-right {
+  flex: 1 1 40%;
+  min-width: 320px;
+  max-width: 520px;
+}
+
+.relic-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
+  gap: 8px;
+}
+
+.mini-relic-card {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  align-content: start;
+  gap: 6px;
+  padding: 8px;
+  aspect-ratio: 1 / 1;
+  border-radius: 10px;
+}
+
+.mini-relic-card.pct-common { border-color: rgba(205, 127, 50, 0.7); }
+.mini-relic-card.pct-uncommon { border-color: rgba(192, 192, 192, 0.7); }
+.mini-relic-card.pct-rare { border-color: rgba(212, 175, 55, 0.7); }
+
+.relic-card-img {
+  width: 42px;
+  height: 42px;
+  display: block;
+  justify-self: start;
+  filter: drop-shadow(0 0 6px rgba(0,0,0,0.35));
+}
+
+.card-info { gap: 4px; }
+
+.card-rarity-row { margin-top: auto; }
+
+.card-pct { display: none !important; }
+
+.vault-toggle {
+  background: rgba(8, 10, 18, 0.7);
+  border: 1px solid rgba(255,255,255,0.18);
+  color: rgba(255,255,255,0.7);
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  padding: 6px 10px;
+  border-radius: 10px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.vault-toggle.active {
+  border-color: #4cc3ff;
+  color: #4cc3ff;
+  box-shadow: 0 0 10px rgba(76, 195, 255, 0.25);
+}
+
+.relic-cards-scroll {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 4px;
+  scrollbar-width: thin;
+}
+
+.relic-cards-scroll .mini-relic-card {
+  flex: 0 0 140px;
+}
+
+.integrated-strategy {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.integrated-strategy .col-header-sticky {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+}
+
+.integrated-strategy .strategy-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.components-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 14px;
+  align-content: start;
+}
+
+.components-grid .component-row {
+  margin-bottom: 0;
+}
+
+.components-grid .integrated-strategy {
+  grid-column: 1 / -1;
+}
+
+.modal-content-simple.base-mode .components-grid {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 14px;
+}
+
+.base-component-card .base-component-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.base-component-card .base-component-image {
+  width: 160px;
+  height: 160px;
+  display: grid;
+  place-items: center;
+  border-radius: 10px;
+  background: rgba(8, 10, 16, 0.9);
+  border: 1px solid rgba(255,255,255,0.08);
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.04);
+}
+
+.base-component-card .base-component-image img {
+  width: 92%;
+  height: 92%;
+  object-fit: contain;
+  filter: drop-shadow(0 10px 14px rgba(0,0,0,0.6));
+}
+
+.base-component-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  justify-content: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 800;
+  color: #fff;
+  font-size: 12px;
+}
+
+.base-component-name {
+  color: #fff;
+}
+
+.base-component-count {
+  color: rgba(255,255,255,0.6);
+  font-size: 11px;
+}
+
+.modal-content-simple.base-mode .mission-list {
+  width: 100%;
+}
+
+.modal-content-simple.base-mode .components-grid {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 14px;
+}
+
+.base-component-card .base-component-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.base-component-card .base-component-image {
+  width: 160px;
+  height: 160px;
+  display: grid;
+  place-items: center;
+  border-radius: 10px;
+  background: rgba(8, 10, 16, 0.9);
+  border: 1px solid rgba(255,255,255,0.08);
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.04);
+}
+
+.base-component-card .base-component-image img {
+  width: 92%;
+  height: 92%;
+  object-fit: contain;
+  filter: drop-shadow(0 10px 14px rgba(0,0,0,0.6));
+}
+
+.base-component-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  justify-content: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 800;
+  color: #fff;
+  font-size: 12px;
+}
+
+.base-component-name {
+  color: #fff;
+}
+
+.base-component-count {
+  color: rgba(255,255,255,0.6);
+  font-size: 11px;
+}
+
+.modal-content-simple.base-mode .mission-list {
+  width: 100%;
+}
+
+/* --- BASE MODE (NON-PRIME) CLARITY --- */
+.modal-content-simple.base-mode {
+  max-width: 1200px;
+}
+
+.modal-content-simple.base-mode .col-center {
+  flex: 1 1 auto;
+}
+
+.modal-content-simple.base-mode .col-content-scroll {
+  padding: 8px 12px 12px;
+}
+
+.modal-content-simple.base-mode .component-row {
+  padding: 8px 10px 6px;
+}
+
+.modal-content-simple.base-mode .mission-relics-table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+.modal-content-simple.base-mode .mission-relics-table td {
+  padding: 7px 10px;
+  font-size: 11px;
+  color: rgba(255,255,255,0.8);
+}
+
+.modal-content-simple.base-mode .mission-relics-table tr {
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+
+.modal-content-simple.base-mode .mission-relics-table tr:last-child {
+  border-bottom: none;
+}
+
+.modal-content-simple.base-mode .mission-relics-table td:nth-child(1) {
+  color: rgba(255,255,255,0.9);
+}
+
+.modal-content-simple.base-mode .mission-relics-table td:nth-child(2) {
+  color: var(--gold);
+}
+
+.modal-content-simple.base-mode .mission-relics-table td:nth-child(3) {
+  color: rgba(255,255,255,0.6);
+}
+
+.modal-content-simple.base-mode .mission-list {
+  margin-top: 6px;
+  display: grid;
+  gap: 8px;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  overflow: visible;
+}
+
+.modal-content-simple.base-mode .mission-row {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  padding: 10px 12px;
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 8px;
+  background: rgba(10, 12, 18, 0.6);
+  font-size: 12px;
+}
+
+.modal-content-simple.base-mode .mission-loc {
+  color: rgba(255,255,255,0.9);
+  font-weight: 700;
+}
+
+.modal-content-simple.base-mode .mission-rot {
+  color: var(--gold);
+  font-weight: 800;
+  letter-spacing: 0.6px;
+  font-size: 11px;
+}
+
+.modal-content-simple.base-mode .mission-chance {
+  color: rgba(255,255,255,0.7);
+  font-weight: 700;
+  font-size: 11px;
+}
+
+.modal-content-simple.base-mode .mission-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+}
+
+.modal-content-simple.base-mode .mission-rot,
+.modal-content-simple.base-mode .mission-chance {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.modal-content-simple.base-mode .mission-rot::before {
+  content: "ROT";
+  font-size: 9px;
+  letter-spacing: 1px;
+  color: rgba(255,255,255,0.45);
+}
+
+.modal-content-simple.base-mode .mission-chance::before {
+  content: "CHANCE";
+  font-size: 9px;
+  letter-spacing: 1px;
+  color: rgba(255,255,255,0.45);
+}
+
+.modal-content-simple.base-mode .mission-empty {
+  padding: 10px 12px;
+  font-size: 11px;
+  color: rgba(255,255,255,0.5);
+  font-style: italic;
+  text-align: center;
+}
+
+.mini-relic-card.selected {
+  border-color: #4cc3ff;
+  background: rgba(76, 195, 255, 0.1);
+  box-shadow: 0 0 12px rgba(76, 195, 255, 0.25);
+}
+
+.mission-relics-table th {
+  font-size: 9px;
+  letter-spacing: 1.2px;
+}
+
+.mission-relics-table td {
+  padding: 8px 0;
+}
+
+/* --- FINAL COMPACT OVERRIDES --- */
+.col-center .col-content-scroll { overflow-y: hidden; }
+.col-right .col-content-scroll { overflow-y: auto; }
+.col-header-sticky {
+  padding: 10px 14px;
+}
+
+.col-right {
+  flex: 0 1 360px;
+  min-width: 300px;
+  max-width: 420px;
+}
+
+.col-content-scroll {
+  padding: 6px 10px 10px;
+}
+
+.component-row {
+  margin-bottom: 6px;
+  padding: 6px 6px 5px;
+}
+
+.component-header {
+  margin-bottom: 5px;
+  padding-bottom: 3px;
+  font-size: 9px;
+}
+
+.relic-cards-grid {
+  grid-template-columns: repeat(auto-fill, minmax(70px, 1fr));
+  gap: 4px;
+}
+
+.mini-relic-card {
+  grid-template-rows: 1fr auto;
+  gap: 4px;
+  padding: 6px 6px 8px;
+  background: rgba(10, 12, 18, 0.95);
+  align-content: stretch;
+  justify-items: center;
+  border-radius: 8px;
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.05);
+}
+
+.relic-card-img {
+  width: 68px;
+  height: 68px;
+  justify-self: center;
+  align-self: center;
+  margin-top: 0;
+  opacity: 0.95;
+  filter: drop-shadow(0 6px 10px rgba(0,0,0,0.6));
+}
+
+.card-info {
+  gap: 2px;
+  align-items: center;
+  text-align: center;
+  padding-bottom: 2px;
+}
+
+.card-era {
+  font-size: 9px;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.55);
+  font-weight: 700;
+}
+
+.card-code {
+  font-size: 16px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 900;
+}
+
+.card-pct { display: none !important; }

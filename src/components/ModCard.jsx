@@ -4,9 +4,11 @@ import { getBasePath } from "@/utils/basePath"; // Assicurati di aver creato il 
 
 export default function ModCard({ item }) {
     // URL immagine mod (gestisce fallback se manca l'immagine)
-    const imageUrl = item.wikiaThumbnail || item.imageName 
-        ? `https://cdn.warframestat.us/img/${item.imageName}` 
-        : null;
+    const imageUrl = item.wikiaThumbnail
+        ? item.wikiaThumbnail
+        : item.imageName
+            ? `https://cdn.warframestat.us/img/${item.imageName}`
+            : null;
 
     // Gestione Polarità:
     // 1. Convertiamo in minuscolo per combaciare coi file (es. "Madurai" -> "madurai")

@@ -239,16 +239,49 @@ function ModCard({ item, isOwned, onToggle }) {
     const increaseRank = (e) => { e.stopPropagation(); setRank(Math.min(maxRank, rank + 1)); };
     const decreaseRank = (e) => { e.stopPropagation(); setRank(Math.max(0, rank - 1)); };
 
-    const getDescription = () => {
-        if(!item.description) return "No description.";
-        return item.description.replace(/(\d+(\.\d+)?)/g, (match) => {
-            const val = parseFloat(match);
-            if(isNaN(val) || val > 1000) return match; 
-            const scaled = (val / (maxRank + 1)) * (rank + 1);
-            if(!isFinite(scaled)) return match;
-            const fmt = Number.isInteger(scaled) ? scaled : scaled.toFixed(1).replace(/\.0$/, '');
-            return `<b>${fmt}</b>`;
-        }).replace(/\r\n|\n/g, "<br>");
+    const renderDescription = () => {
+        if (!item.description) return "No description.";
+
+        const numberRegex = /(\d+(\.\d+)?)/g;
+        const lines = item.description.split(/\r\n|\n/);
+
+        return lines.map((line, lineIndex) => {
+            const parts = [];
+            let lastIndex = 0;
+            let match;
+
+            while ((match = numberRegex.exec(line)) !== null) {
+                const raw = match[0];
+                const start = match.index;
+                const end = start + raw.length;
+
+                if (start > lastIndex) {
+                    parts.push(line.slice(lastIndex, start));
+                }
+
+                const val = parseFloat(raw);
+                let next = raw;
+                if (!isNaN(val) && val <= 1000 && maxRank >= 0) {
+                    const scaled = (val / (maxRank + 1)) * (rank + 1);
+                    if (isFinite(scaled)) {
+                        next = Number.isInteger(scaled) ? String(scaled) : scaled.toFixed(1).replace(/\.0$/, '');
+                    }
+                }
+                parts.push(<strong key={`num-${lineIndex}-${start}`}>{next}</strong>);
+                lastIndex = end;
+            }
+
+            if (lastIndex < line.length) {
+                parts.push(line.slice(lastIndex));
+            }
+
+            return (
+                <React.Fragment key={`line-${lineIndex}`}>
+                    {parts}
+                    {lineIndex < lines.length - 1 && <br />}
+                </React.Fragment>
+            );
+        });
     };
 
     const getPolarityIcon = () => {
@@ -305,7 +338,7 @@ function ModCard({ item, isOwned, onToggle }) {
                     <div className="mod-info-front">
                         <div className="mod-type-badge">{getBadgeLabel()}</div>
                         <div className="mod-name" style={{color: getRarityColor(item.rarity)}}>{item.name}</div>
-                        <div className="mod-desc-text" dangerouslySetInnerHTML={{__html: getDescription()}} />
+                        <div className="mod-desc-text">{renderDescription()}</div>
                         
                         {maxRank > 0 && (
                             <div className="mod-rank-controls" onClick={(e) => e.stopPropagation()}>

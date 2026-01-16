@@ -1,18 +1,24 @@
 // src/app/error.js
 "use client";
+import './error.css';
 
 export default function Error({ error, reset }) {
+  const message =
+    process.env.NODE_ENV === 'production'
+      ? 'An unexpected error occurred.'
+      : error.message;
+
   return (
-    <div style={{padding: '50px', color: 'white', textAlign: 'center'}}>
-      <h2 style={{color: '#ff6b6b'}}>SYSTEM FAILURE</h2>
+    <div className="error-container">
+      <h2 className="error-title">SYSTEM FAILURE</h2>
       <p>Ordis has encountered an error:</p>
-      <pre style={{background: '#222', padding: '20px', borderRadius: '5px', display:'inline-block', textAlign:'left'}}>
-        {error.message}
+      <pre className="error-message">
+        {message}
       </pre>
       <br />
       <button 
         onClick={() => reset()} 
-        style={{marginTop: '20px', padding: '10px 20px', background: '#d4af37', border: 'none', cursor: 'pointer', fontWeight:'bold'}}
+        className="error-reset-button"
       >
         REBOOT SYSTEM
       </button>

@@ -30,9 +30,12 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
     const [baseStrategies, setBaseStrategies] = useState([]); 
     const [lookupData, setLookupData] = useState(null); 
     const [savedPartMap, setSavedPartMap] = useState({});
+    const [relicIds, setRelicIds] = useState(new Set());
+    const [relicPartMap, setRelicPartMap] = useState({});
     const [selectedRelics, setSelectedRelics] = useState(new Set());
     const [loadingStrategies, setLoadingStrategies] = useState(false);
     const [statusMsg, setStatusMsg] = useState(""); 
+    const [showVaultedRelics, setShowVaultedRelics] = useState(false);
 
     if (!item) return null;
     const isOwned = ownedItems.has(item.uniqueName);
@@ -58,6 +61,12 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
         }
         return () => window.removeEventListener('keydown', handleEsc);
     }, [onClose, item]);
+
+    useEffect(() => {
+        if (!lookupData || relicIds.size === 0) return;
+        const idsToUse = selectedRelics.size > 0 ? selectedRelics : relicIds;
+        setSmartMissions(calculateMissionsStrategy(idsToUse, lookupData, relicPartMap));
+    }, [selectedRelics, lookupData, relicIds, relicPartMap]);
 
     // --- UTILS ---
     function getStandardID(name) {
@@ -188,6 +197,7 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
             });
             scan(item.drops, "MAIN BP");
             setSavedPartMap(relicToPartMap);
+            setRelicPartMap(relicToPartMap);
 
             if (neededIDs.size === 0) { 
                 setLoadingStrategies(false);
@@ -213,6 +223,7 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
             lookupDB._images = imageMap;
             setLookupData(lookupDB); 
 
+            setRelicIds(new Set(neededIDs));
             setSmartMissions(calculateMissionsStrategy(neededIDs, lookupDB, relicToPartMap));
             setBaseStrategies(calculateBaseStrategy(neededIDs));
         } catch (e) { 
@@ -336,10 +347,17 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                     {/* COLONNA 2: COMPONENTI */}
                     <div className="col-center" style={{flex: !isPrime && !isRelicItem ? 2 : 1}}>
                         <div className="col-header-sticky">
-                            <h3 className="section-title">{isRelicItem ? "REWARDS" : "COMPONENTS & ACQUISITION"}</h3>
+                            <div style={{display:'flex', justifyContent:'space-between', alignItems:'center'}}>
+                                <h3 className="section-title">{isRelicItem ? "REWARDS" : "COMPONENTS & ACQUISITION"}</h3>
+                                {isPrime && !isRelicItem && (
+                                    <button className={`vault-toggle ${showVaultedRelics ? 'active' : ''}`} onClick={() => setShowVaultedRelics(!showVaultedRelics)}>
+                                        {showVaultedRelics ? 'HIDE VAULTED' : 'SHOW VAULTED'}
+                                    </button>
+                                )}
+                            </div>
                         </div>
                         
-                        <div className="col-content-scroll">
+                        <div className={`col-content-scroll ${(!isRelicItem && !isPrime) ? 'components-grid' : ''}`}>
                             {isRelicItem && (
                                 <div style={{display:'flex', flexDirection:'column', gap:'5px'}}>
                                     {sortedRewards.map((r, i) => (
@@ -354,37 +372,44 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                             {!isRelicItem && fullComponentsList.map((comp, idx) => {
                                 const cleanName = getCleanPartName(comp.name);
                                 const partMissions = baseStrategies[cleanName] || [];
+                                const compImage = comp.imageName || item.imageName;
+                                const fallbackDrops = comp.drops || [];
                                 
                                 return (
-                                    <div key={idx} className="component-row">
-                                        <div className="component-header">
-                                            <div className="component-icon" style={{position:'relative', width:'24px', height:'24px'}}>
-                                                <Image 
-                                                    src={`${IMG_BASE_URL}/${comp.imageName}`} 
-                                                    alt="" 
-                                                    fill
-                                                    style={{objectFit:'contain', opacity: comp.name === "MAIN BP" ? 0.7 : 1}}
-                                                    unoptimized
-                                                />
+                                    <div key={idx} className={`component-row ${!isPrime ? 'base-component-card' : ''}`}>
+                                        {isPrime && (
+                                            <div className="component-header">
+                                                <div className="component-icon" style={{position:'relative', width:'24px', height:'24px'}}>
+                                                    <Image 
+                                                        src={`${IMG_BASE_URL}/${comp.imageName}`} 
+                                                        alt="" 
+                                                        fill
+                                                        style={{objectFit:'contain', opacity: comp.name === "MAIN BP" ? 0.7 : 1}}
+                                                        unoptimized
+                                                    />
+                                                </div>
+                                                <div style={{flex:1, marginLeft:'10px'}}>
+                                                    <strong style={{color:'#eee', fontSize:'13px', letterSpacing:'0.5px'}}>{cleanName}</strong>
+                                                </div>
+                                                <span className="count-badge">x{comp.itemCount}</span>
                                             </div>
-                                            <div style={{flex:1, marginLeft:'10px'}}>
-                                                <strong style={{color:'#eee', fontSize:'13px', letterSpacing:'0.5px'}}>{cleanName}</strong>
-                                            </div>
-                                            <span className="count-badge">x{comp.itemCount}</span>
-                                        </div>
+                                        )}
 
                                         {/* SE È PRIME: MOSTRA LE RELIQUIE */}
                                         {isPrime && (
-                                            <div className="relic-cards-grid">
-                                                {formatDropsWithVaultCheck(comp.drops).map((d, i) => {
+                                            <div className="relic-cards-grid relic-cards-scroll">
+                                                {formatDropsWithVaultCheck(comp.drops)
+                                                    .filter(d => showVaultedRelics || !d.isVaultedRelic)
+                                                    .map((d, i) => {
                                                     const isSelected = d.relicID && selectedRelics.has(d.relicID);
                                                     return (
                                                         <div key={i} onClick={() => d.isRelic && handleRelicClick(d.relicID)}
-                                                            className={`mini-relic-card ${isSelected ? 'selected' : ''} ${d.isVaultedRelic ? 'is-vaulted' : ''}`}
+                                                            className={`mini-relic-card ${d.rarityClass} ${isSelected ? 'selected' : ''} ${d.isVaultedRelic ? 'is-vaulted' : ''}`}
                                                         >
                                                             {d.imagePath && <img src={d.imagePath} className="relic-card-img" onError={(e)=>{e.target.style.display='none'}} />}
                                                             <div className="card-info">
-                                                                <span className="card-name">{d.loc}</span>
+                                                                <span className="card-era">{d.loc.split(' ')[0]}</span>
+                                                                <span className="card-code">{d.loc.split(' ').slice(1).join(' ')}</span>
                                                                 <span className="card-rarity-row">
                                                                      <span className={`card-pct ${d.rarityClass}`}></span>
                                                                      {d.isVaultedRelic && <span className="vaulted-mini-tag">V</span>}
@@ -398,24 +423,41 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
 
                                         {/* SE È BASE: MOSTRA TABELLA MISSIONI */}
                                         {!isPrime && (
-                                            <div style={{marginTop:'5px', background:'#121215', border:'1px solid #333', borderRadius:'4px', overflow:'hidden'}}>
-                                                {partMissions.length > 0 ? (
-                                                    <table className="mission-relics-table">
-                                                        <tbody>
-                                                            {partMissions.map((m, i) => (
-                                                                <tr key={i}>
-                                                                    <td style={{color:'#fff', fontSize:'11px', padding:'6px 10px'}}>{m.loc}</td>
-                                                                    <td style={{textAlign:'center', color:'var(--gold)', fontSize:'11px', width:'50px'}}>{m.rot}</td>
-                                                                    <td style={{textAlign:'right', color:'#888', fontSize:'11px', width:'60px'}}>{(m.chance*100).toFixed(1)}%</td>
-                                                                </tr>
-                                                            ))}
-                                                        </tbody>
-                                                    </table>
-                                                ) : (
-                                                    <div style={{padding:'10px', fontSize:'11px', color:'#555', fontStyle:'italic', textAlign:'center'}}>
-                                                        Check Market / Dojo / Quest
+                                            <div className="base-component-body">
+                                                {compImage && (
+                                                    <div className="base-component-image">
+                                                        <img src={`${IMG_BASE_URL}/${compImage}`} alt={cleanName} />
                                                     </div>
                                                 )}
+                                                <div className="base-component-title">
+                                                    <span className="base-component-name">{cleanName}</span>
+                                                    <span className="base-component-count">x{comp.itemCount}</span>
+                                                </div>
+                                                <div className="mission-list">
+                                                    {partMissions.length > 0 ? (
+                                                        partMissions.map((m, i) => (
+                                                            <div key={i} className="mission-row">
+                                                                <span className="mission-loc">{m.loc}</span>
+                                                                <div className="mission-meta">
+                                                                    <span className="mission-rot">ROT {m.rot || '-'}</span>
+                                                                    <span className="mission-chance">{(m.chance * 100).toFixed(1)}%</span>
+                                                                </div>
+                                                            </div>
+                                                        ))
+                                                    ) : fallbackDrops.length > 0 ? (
+                                                        fallbackDrops.map((d, i) => (
+                                                            <div key={i} className="mission-row">
+                                                                <span className="mission-loc">{d.location || 'Unknown location'}</span>
+                                                                <div className="mission-meta">
+                                                                    <span className="mission-rot">{(d.rotation || d.rarity || '-').toString()}</span>
+                                                                    <span className="mission-chance">{typeof d.chance === 'number' ? `${(d.chance * 100).toFixed(1)}%` : '-'}</span>
+                                                                </div>
+                                                            </div>
+                                                        ))
+                                                    ) : (
+                                                        <div className="mission-empty">Check Market / Dojo / Quest</div>
+                                                    )}
+                                                </div>
                                             </div>
                                         )}
                                     </div>
@@ -424,7 +466,7 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                         </div>
                     </div>
 
-                    {/* COLONNA 3: STRATEGIA */}
+                    {/* COLONNA 3: STRATEGIA (solo Prime) */}
                     {isPrime && !isRelicItem && (
                         <div className="col-right">
                              <div className="col-header-sticky">
@@ -432,7 +474,11 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                                     <h3 className="section-title" style={{color:'var(--gold)', margin:0}}>
                                         {loadingStrategies ? statusMsg : (selectedRelics.size > 0 ? `FILTERED FARMING` : "OPTIMAL LOCATIONS")}
                                     </h3>
-                                    {selectedRelics.size > 0 && <span style={{fontSize:'10px', color:'#666', cursor:'pointer', textDecoration:'underline'}} onClick={()=>setSelectedRelics(new Set())}>CLEAR FILTER</span>}
+                                    {selectedRelics.size > 0 && (
+                                        <span style={{fontSize:'10px', color:'#666', cursor:'pointer', textDecoration:'underline'}} onClick={()=>setSelectedRelics(new Set())}>
+                                            CLEAR FILTER
+                                        </span>
+                                    )}
                                 </div>
                              </div>
                             
@@ -441,7 +487,11 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                                     <div key={idx} className="mission-block">
                                         <div className="mission-block-header">
                                             <div className="mission-name-large">{mission.missionName}</div>
-                                            {!selectedRelics.size && <div style={{fontSize:'11px', color:'#fff', fontWeight:'bold', background:'rgba(255,255,255,0.1)', padding:'2px 6px', borderRadius:'3px'}}>{(mission.totalScore*100).toFixed(0)}%</div>}
+                                            {!selectedRelics.size && (
+                                                <div style={{fontSize:'11px', color:'#fff', fontWeight:'bold', background:'rgba(255,255,255,0.1)', padding:'2px 6px', borderRadius:'3px'}}>
+                                                    {(mission.totalScore*100).toFixed(0)}%
+                                                </div>
+                                            )}
                                         </div>
                                         <table className="mission-relics-table">
                                             <thead>
@@ -464,7 +514,11 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                                             </tbody>
                                         </table>
                                     </div>
-                                )) : <div style={{textAlign:'center', padding:'40px', color:'#555', fontStyle:'italic'}}>No farming data available (Vaulted).</div>}
+                                )) : (
+                                    <div style={{textAlign:'center', padding:'40px', color:'#555', fontStyle:'italic'}}>
+                                        No farming data available (Vaulted).
+                                    </div>
+                                )}
                             </div>
                         </div>
                     )}

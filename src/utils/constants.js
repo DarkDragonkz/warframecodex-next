@@ -1,5 +1,5 @@
 // Configurazione per GitHub Pages
-const REPO_NAME = '/warframecodex-next'; 
+const REPO_NAME = process.env.NEXT_PUBLIC_BASE_PATH || '/warframecodex-next';
 
 // Verifica se siamo in produzione (GitHub) o sviluppo (Localhost)
 const isProd = process.env.NODE_ENV === 'production';

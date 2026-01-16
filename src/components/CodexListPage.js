@@ -89,7 +89,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
                     };
                 });
 
-            const uniqueItems = Array.from(new Map(processed.map(item => [item.name, item])).values());
+            const uniqueItems = Array.from(new Map(processed.map(item => [item.uniqueName, item])).values());
             uniqueItems.sort((a, b) => a.name.localeCompare(b.name));
             
             setRawApiData(uniqueItems);
@@ -124,9 +124,15 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
         setActiveSubFilter('all'); 
     };
 
-    if (loading) return <div style={{padding:'50px', color:'#fff', textAlign:'center'}}>INITIALIZING ORDIS DATABASE...</div>;
+    const ownedCount = useMemo(() => {
+        return rawApiData.reduce((count, item) => {
+            return count + (ownedCards.has(item.uniqueName) ? 1 : 0);
+        }, 0);
+    }, [rawApiData, ownedCards]);
 
-    const pct = rawApiData.length > 0 ? Math.round((ownedCards.size / rawApiData.length) * 100) : 0;
+    const pct = rawApiData.length > 0 ? Math.round((ownedCount / rawApiData.length) * 100) : 0;
+    
+    if (loading) return <div style={{padding:'50px', color:'#fff', textAlign:'center'}}>INITIALIZING ORDIS DATABASE...</div>;
 
     return (
         <div className="codex-layout">
@@ -139,7 +145,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
                     <div className="stats-right">
                         <div className="stat-box">
                             <div className="stat-label">COLLECTED</div>
-                            <div className="stat-value"><span>{ownedCards.size}</span> / {rawApiData.length}</div>
+                            <div className="stat-value"><span>{ownedCount}</span> / {rawApiData.length}</div>
                         </div>
                         <div className="stat-box">
                             <div className="stat-label">COMPLETION</div>

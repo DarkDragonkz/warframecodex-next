@@ -56,44 +56,7 @@ export const HIERARCHY = [
             { id: 'relics', title: 'Relics', json: 'Relics.json', specialPage: 'relics' }
         ]
     },
-    {
-        id: 'inventory',
-        title: 'INVENTORY',
-        subtitle: 'RESOURCES & GEAR',
-        color: '#1dd1a1',
-        coverItem: 'Orokin Cell',
-        jsonFile: 'Resources.json',
-        items: [
-            { id: 'resources', title: 'Resources', json: 'Resources.json', filter: (i) => !i.type?.includes('Key') },
-            { id: 'gear', title: 'Gear', json: 'Gear.json', filter: () => true },
-            { id: 'fish', title: 'Fish', json: 'Fish.json', filter: () => true }
-        ]
-    },
-    {
-        id: 'cosmetics',
-        title: 'COSMETICS',
-        subtitle: 'FASHION FRAME',
-        color: '#ff9f43',
-        coverItem: 'Repala Syandana',
-        jsonFile: 'Skins.json',
-        items: [
-            { id: 'skins', title: 'Skins', json: 'Skins.json', filter: () => true },
-            { id: 'sigils', title: 'Sigils', json: 'Sigils.json', filter: () => true },
-            { id: 'glyphs', title: 'Glyphs', json: 'Glyphs.json', filter: () => true }
-        ]
-    },
-    {
-        id: 'universe',
-        title: 'THE UNIVERSE',
-        subtitle: 'LORE & ENEMIES',
-        color: '#a29bfe',
-        coverItem: 'Natah',
-        jsonFile: 'Enemy.json',
-        items: [
-            { id: 'enemies', title: 'Enemies', json: 'Enemy.json', filter: () => true },
-            { id: 'quests', title: 'Quests', json: 'Quests.json', filter: () => true }
-        ]
-    }
+    
 ];
 
 // Helper per trovare configurazioni

@@ -36,15 +36,15 @@ export default function RelicsClientPage({ initialData = [] }) {
     };
 
     useEffect(() => {
-        if(initialData && initialData.length > 0) {
-            const processed = initialData.filter(item => 
-                item.name.includes('Intact') && 
+        if (initialData) {
+            const processed = initialData.filter(item =>
+                item.name.includes('Intact') &&
                 item.category === 'Relics'
             ).map(item => ({
                 ...item,
                 isVaulted: !item.drops || item.drops.length === 0,
-                era: item.name.split(' ')[0], 
-                code: item.name.split(' ')[1], 
+                era: item.name.split(' ')[0],
+                code: item.name.split(' ')[1],
                 simpleName: item.name.replace(' Intact', '').replace(' Relic', '').trim()
             }));
 
@@ -159,7 +159,7 @@ export default function RelicsClientPage({ initialData = [] }) {
                 <div className="progress-line-container"><div className="progress-line-fill" style={{width: `${pct}%`}}></div></div>
             </div>
 
-            <div className="gallery-scroll-area">
+            <div className="gallery-scroll-area relics-gallery-scroll">
                 <VirtuosoGrid
                     style={{ height: '100%', width: '100%' }}
                     totalCount={filteredData.length}

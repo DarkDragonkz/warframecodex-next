@@ -5,7 +5,10 @@ const nextConfig = {
     
     // Configurazione BASE PATH per GitHub Pages
     // Sostituisci 'warframecodex-next' se cambi nome alla repo
-    basePath: process.env.NODE_ENV === "production" ? "/warframecodex-next" : "",
+    basePath:
+        process.env.NODE_ENV === "production"
+            ? process.env.NEXT_PUBLIC_BASE_PATH || "/warframecodex-next"
+            : "",
     
     images: {
         // GitHub Pages non supporta l'ottimizzazione immagini di default di Next.js

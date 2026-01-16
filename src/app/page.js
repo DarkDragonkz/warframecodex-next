@@ -1,37 +1,24 @@
-"use client";
 import Link from 'next/link';
-import { useState, useEffect } from 'react';
-import { API_BASE_URL, IMG_BASE_URL } from '@/utils/constants';
-import { HIERARCHY } from '@/utils/categoryConfig'; // Usiamo la nuova config
+import { IMG_BASE_URL } from '@/utils/constants';
+import { HIERARCHY } from '@/utils/categoryConfig';
+import { fetchGameData } from '@/utils/serverData';
 import './homepage.css';
 
+async function getCategoryCovers() {
+    const dataSets = await Promise.all(
+        HIERARCHY.map(cat => fetchGameData(cat.jsonFile))
+    );
+
+    return HIERARCHY.map((cat, index) => {
+        const data = dataSets[index] || [];
+        const targetItem = data.find(item => item?.name?.includes(cat.coverItem)) || 
+                           data.find(item => item?.imageName);
+        const imgUrl = targetItem?.imageName ? `${IMG_BASE_URL}/${targetItem.imageName}` : null;
+        return { ...cat, imgUrl };
+    });
+}
+
 function MacroCard({ cat }) {
-    const [imgUrl, setImgUrl] = useState(null);
-
-    useEffect(() => {
-        let isMounted = true;
-        async function fetchImage() {
-            try {
-                // Fetch del file JSON principale della macro categoria per trovare l'immagine di copertina
-                const res = await fetch(`${API_BASE_URL}/${cat.jsonFile}`);
-                if (!res.ok) return;
-                const data = await res.json();
-                
-                // Cerca l'item di copertina specificato nella config o il primo valido
-                const targetItem = data.find(item => item.name.includes(cat.coverItem)) || 
-                                   data.find(item => item.imageName);
-                
-                if (targetItem && isMounted && targetItem.imageName) {
-                    setImgUrl(`${IMG_BASE_URL}/${targetItem.imageName}`);
-                }
-            } catch (e) { 
-                console.error(`Img error ${cat.id}`, e);
-            }
-        }
-        fetchImage();
-        return () => { isMounted = false; };
-    }, [cat]);
-
     return (
         <Link href={`/${cat.id}`} style={{textDecoration:'none'}}>
             <div 
@@ -39,8 +26,8 @@ function MacroCard({ cat }) {
                 style={{ '--card-color': cat.color, '--card-glow': `${cat.color}66` }}
             >
                 <div className="card-visual-area">
-                    {imgUrl ? (
-                        <img src={imgUrl} alt={cat.title} className="card-img-element" />
+                    {cat.imgUrl ? (
+                        <img src={cat.imgUrl} alt={cat.title} className="card-img-element" />
                     ) : (
                         <div style={{background:'#151518', width:'100%', height:'100%'}}></div>
                     )}
@@ -55,7 +42,9 @@ function MacroCard({ cat }) {
     );
 }
 
-export default function LandingPage() {
+export default async function LandingPage() {
+    const categories = await getCategoryCovers();
+
     return (
         <main className="landing-page">
             <div className="landing-content">
@@ -66,7 +55,7 @@ export default function LandingPage() {
 
                 <div className="cards-scroll-container">
                     <div className="cards-row">
-                        {HIERARCHY.map((cat) => (
+                        {categories.map((cat) => (
                             <MacroCard key={cat.id} cat={cat} />
                         ))}
                     </div>
