@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { VirtuosoGrid } from 'react-virtuoso';
@@ -8,6 +8,8 @@ import { getBasePath } from '@/utils/basePath';
 import '@/app/hud-layout.css'; 
 import './mods.css';
 import MobileBottomNav from '@/components/MobileBottomNav';
+import useDebouncedValue from '@/hooks/useDebouncedValue';
+import { UI_TEXT } from '@/utils/uiText';
 
 const STORAGE_KEY = 'warframe_codex_mods_v1';
 
@@ -37,14 +39,9 @@ export default function ModsClientPage({ initialData = [] }) {
 
     const [currentCategory, setCurrentCategory] = useState('all');
     const [searchTerm, setSearchTerm] = useState('');
-    const [debouncedSearch, setDebouncedSearch] = useState('');
+    const debouncedSearch = useDebouncedValue(searchTerm, 300);
     const [currentSort, setCurrentSort] = useState('name');
     const [showMissingOnly, setShowMissingOnly] = useState(false);
-
-    useEffect(() => {
-        const timer = setTimeout(() => { setDebouncedSearch(searchTerm); }, 300);
-        return () => clearTimeout(timer);
-    }, [searchTerm]);
 
     useEffect(() => {
         const media = window.matchMedia('(max-width: 900px)');
@@ -150,17 +147,20 @@ export default function ModsClientPage({ initialData = [] }) {
         });
     }, [rawApiData, debouncedSearch, currentCategory, currentSort, showMissingOnly, ownedCards]);
 
-    const toggleOwned = (id) => {
-        const newSet = new Set(ownedCards);
-        if (newSet.has(id)) newSet.delete(id); else newSet.add(id);
-        setOwnedCards(newSet);
-    };
+    const toggleOwned = useCallback((id) => {
+        setOwnedCards(prev => {
+            const newSet = new Set(prev);
+            if (newSet.has(id)) newSet.delete(id); else newSet.add(id);
+            return newSet;
+        });
+    }, []);
 
     const pct = rawApiData.length > 0 ? Math.round((ownedCards.size / rawApiData.length) * 100) : 0;
 
-    if (loading) return <div className="loading-screen">LOADING MOD MODULES...</div>;
+    if (loading) return <div className="loading-screen">{UI_TEXT.loadingMods}</div>;
 
     const gridStyle = isMobile ? { width: '100%' } : { height: '100%', width: '100%' };
+    const overscan = isMobile ? 120 : 300;
 
     return (
         <div className={`codex-layout ${isMobile ? 'mobile-scroll' : ''}`}>
@@ -231,7 +231,7 @@ export default function ModsClientPage({ initialData = [] }) {
                 <VirtuosoGrid
                     style={gridStyle}
                     totalCount={filteredData.length}
-                    overscan={200}
+                    overscan={overscan}
                     useWindowScroll={isMobile}
                     components={{
                         List: (props) => <div {...props} className="card-gallery" />,
@@ -244,7 +244,7 @@ export default function ModsClientPage({ initialData = [] }) {
                                 <ModCard 
                                     item={item} 
                                     isOwned={ownedCards.has(item.uniqueName)} 
-                                    onToggle={() => toggleOwned(item.uniqueName)} 
+                                    onToggleOwned={toggleOwned}
                                 />
                             </div>
                         );
@@ -258,10 +258,14 @@ export default function ModsClientPage({ initialData = [] }) {
 }
 
 // --- CARD COMPONENT ---
-function ModCard({ item, isOwned, onToggle }) {
+const ModCard = React.memo(function ModCard({ item, isOwned, onToggleOwned }) {
     const [flipped, setFlipped] = useState(false);
     const maxRank = item.maxRank || 0;
     const [rank, setRank] = useState(0); 
+    const handleToggle = useCallback((e) => {
+        e.stopPropagation();
+        onToggleOwned(item.uniqueName);
+    }, [item.uniqueName, onToggleOwned]);
 
     const increaseRank = (e) => { e.stopPropagation(); setRank(Math.min(maxRank, rank + 1)); };
     const decreaseRank = (e) => { e.stopPropagation(); setRank(Math.max(0, rank - 1)); };
@@ -352,7 +356,7 @@ function ModCard({ item, isOwned, onToggle }) {
                         )}
                     </div>
                     <div className="mod-top-bar">
-                        <div className={`mod-status-btn ${isOwned ? 'owned' : ''}`} onClick={(e) => { e.stopPropagation(); onToggle(); }}>
+                        <div className={`mod-status-btn ${isOwned ? 'owned' : ''}`} onClick={handleToggle}>
                             {isOwned ? 'OWNED' : 'MISSING'}
                         </div>
                         <div className="mod-drain-box">
@@ -414,7 +418,7 @@ function ModCard({ item, isOwned, onToggle }) {
             </div>
         </div>
     );
-}
+});
 
 function getRarityColor(rarity) {
     switch(rarity) {

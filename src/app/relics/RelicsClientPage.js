@@ -8,6 +8,8 @@ import RelicDetailModal from '@/components/RelicDetailModal';
 import '@/app/hud-layout.css'; 
 import './relics.css'; 
 import MobileBottomNav from '@/components/MobileBottomNav';
+import useDebouncedValue from '@/hooks/useDebouncedValue';
+import { UI_TEXT } from '@/utils/uiText';
 
 const STORAGE_KEY = 'warframe_codex_relics_v1';
 
@@ -19,17 +21,12 @@ export default function RelicsClientPage({ initialData = [] }) {
 
     const [currentEra, setCurrentEra] = useState('all'); 
     const [searchTerm, setSearchTerm] = useState('');
-    const [debouncedSearch, setDebouncedSearch] = useState('');
+    const debouncedSearch = useDebouncedValue(searchTerm, 300);
     
     // FILTRO 3 STATI
     const [filterState, setFilterState] = useState('all');
     const [showVaulted, setShowVaulted] = useState(false);
     const [selectedItem, setSelectedItem] = useState(null);
-
-    useEffect(() => {
-        const timer = setTimeout(() => { setDebouncedSearch(searchTerm); }, 300);
-        return () => clearTimeout(timer);
-    }, [searchTerm]);
 
     useEffect(() => {
         const media = window.matchMedia('(max-width: 900px)');
@@ -119,9 +116,10 @@ export default function RelicsClientPage({ initialData = [] }) {
 
     const pct = rawApiData.length > 0 ? Math.round((ownedCards.size / rawApiData.length) * 100) : 0;
 
-    if (loading) return <div className="loading-screen">DECODING VOID SIGNALS...</div>;
+    if (loading) return <div className="loading-screen">{UI_TEXT.loadingRelics}</div>;
 
     const gridStyle = isMobile ? { width: '100%' } : { height: '100%', width: '100%' };
+    const overscan = isMobile ? 120 : 300;
 
     return (
         <div className={`codex-layout ${isMobile ? 'mobile-scroll' : ''}`}>
@@ -189,7 +187,7 @@ export default function RelicsClientPage({ initialData = [] }) {
                 <VirtuosoGrid
                     style={gridStyle}
                     totalCount={filteredData.length}
-                    overscan={200}
+                    overscan={overscan}
                     useWindowScroll={isMobile}
                     components={{
                         List: (props) => <div {...props} className="card-gallery relic-card-gallery" />,

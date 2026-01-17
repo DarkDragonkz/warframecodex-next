@@ -1,15 +1,19 @@
 "use client";
-import React from 'react';
+import React, { memo, useCallback } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { IMG_BASE_URL } from '@/utils/constants';
 
-export default function CodexCard({ item, isOwned, onToggleOwned }) {
+function CodexCard({ item, isOwned, onToggleOwned }) {
     if (!item) return null;
 
     const wikiSlug = encodeURIComponent(item.name.replace(/ /g, '_'));
     const wikiUrl = `https://warframe.fandom.com/wiki/${wikiSlug}`;
     const isPrime = item.name.includes('Prime');
+    const handleToggle = useCallback((e) => {
+        e.stopPropagation();
+        onToggleOwned(item.uniqueName);
+    }, [item.uniqueName, onToggleOwned]);
 
     return (
         <div className={`card-wrapper ${isOwned ? 'owned' : ''}`} data-rarity={isPrime ? 'Prime' : 'Base'}>
@@ -18,10 +22,7 @@ export default function CodexCard({ item, isOwned, onToggleOwned }) {
                 {/* NUOVO BOTTONE STATUS */}
                 <div 
                     className={`status-badge ${isOwned ? 'owned' : 'missing'}`} 
-                    onClick={(e) => { 
-                        e.stopPropagation(); 
-                        onToggleOwned(item.uniqueName); 
-                    }}
+                    onClick={handleToggle}
                 >
                     {isOwned ? 'OWNED' : 'MISSING'}
                 </div>
@@ -52,3 +53,5 @@ export default function CodexCard({ item, isOwned, onToggleOwned }) {
         </div>
     );
 }
+
+export default memo(CodexCard);

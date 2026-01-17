@@ -582,7 +582,7 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                                                         <div key={i} onClick={() => d.isRelic && handleRelicClick(d.relicID)}
                                                             className={`mini-relic-card ${d.rarityClass} ${isSelected ? 'selected' : ''} ${d.isVaultedRelic ? 'is-vaulted' : ''}`}
                                                         >
-                                                            {d.imagePath && <img src={d.imagePath} className="relic-card-img" onError={(e)=>{e.target.style.display='none'}} />}
+                                                            {d.imagePath && <img src={d.imagePath} className="relic-card-img" loading="lazy" onError={(e)=>{e.target.style.display='none'}} />}
                                                             <div className="card-info">
                                                                 <span className="card-era">{d.loc.split(' ')[0]}</span>
                                                                 <span className="card-code">{d.loc.split(' ').slice(1).join(' ')}</span>
@@ -602,7 +602,7 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                                             <div className="base-component-body">
                                                 {compImage && (
                                                     <div className="base-component-image">
-                                                        <img src={`${IMG_BASE_URL}/${compImage}`} alt={cleanName} />
+                                                        <img src={`${IMG_BASE_URL}/${compImage}`} alt={cleanName} loading="lazy" />
                                                     </div>
                                                 )}
                                                 <div className="base-component-title">

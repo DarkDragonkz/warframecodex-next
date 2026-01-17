@@ -9,9 +9,11 @@ import { CATEGORY_CONFIGS } from '@/utils/clientCategories';
 import { VirtuosoGrid } from 'react-virtuoso';
 import '@/app/hud-layout.css'; 
 import MobileBottomNav from '@/components/MobileBottomNav';
+import useDebouncedValue from '@/hooks/useDebouncedValue';
+import { UI_TEXT } from '@/utils/uiText';
 
 const WarframeDetailModal = dynamic(() => import('./WarframeDetailModal'), {
-    loading: () => <div className="loading-overlay">Loading Interface...</div>,
+    loading: () => <div className="loading-overlay">{UI_TEXT.loadingInterface}</div>,
     ssr: false
 });
 
@@ -32,20 +34,13 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
     const [activeSubFilter, setActiveSubFilter] = useState('all');
     
     const [searchTerm, setSearchTerm] = useState("");
-    const [debouncedSearch, setDebouncedSearch] = useState("");
+    const debouncedSearch = useDebouncedValue(searchTerm, 300);
 
     // FILTRO 3 STATI (ALL -> MISSING -> OWNED)
     const [filterState, setFilterState] = useState('all');
     const [showVaulted, setShowVaulted] = useState(false);
 
     const activeConfig = customCategories ? customCategories.find(c => c.id === subCategory) : null;
-
-    useEffect(() => {
-        const timer = setTimeout(() => {
-            setDebouncedSearch(searchTerm);
-        }, 300);
-        return () => clearTimeout(timer);
-    }, [searchTerm]);
 
     // Ciclo Stati Filtro
     const cycleFilterState = () => {
@@ -157,9 +152,10 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
         };
     }, [isMobile]);
 
-    if (loading) return <div className="loading-screen">INITIALIZING ORDIS DATABASE...</div>;
+    if (loading) return <div className="loading-screen">{UI_TEXT.loadingOrdis}</div>;
 
     const gridStyle = isMobile ? { width: '100%' } : { height: '100%', width: '100%' };
+    const overscan = isMobile ? 120 : 300;
 
     return (
         <div className={`codex-layout ${isMobile ? 'mobile-scroll' : ''}`}>
@@ -233,7 +229,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
                 <VirtuosoGrid
                     style={gridStyle}
                     totalCount={processedData.length}
-                    overscan={200}
+                    overscan={overscan}
                     useWindowScroll={isMobile}
                     components={{
                         List: (props) => <div {...props} className="card-gallery" />,
@@ -261,7 +257,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
 
 export default function CodexListPage(props) {
     return (
-        <Suspense fallback={<div className="loading-screen">Loading Interface...</div>}>
+        <Suspense fallback={<div className="loading-screen">{UI_TEXT.loadingInterface}</div>}>
             <CodexContent {...props} />
         </Suspense>
     );
