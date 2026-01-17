@@ -108,24 +108,24 @@
 }
 
 .prime-components-grid {
-  display: grid;
-  grid-auto-rows: minmax(0, 1fr);
+  display: flex;
+  flex-direction: column;
   gap: 8px;
   flex: 1;
   min-height: 0;
-  overflow: hidden;
 }
 
 .prime-components-grid .component-row {
   margin-bottom: 0;
   padding: 6px 8px;
+  flex: 1;
   min-height: 0;
   display: flex;
   flex-direction: column;
 }
 
 .prime-components-grid .component-header {
-  margin-bottom: 4px;
+  margin-bottom: 6px;
   padding-bottom: 4px;
   font-size: 10px;
 }
@@ -149,9 +149,9 @@
 
 /* GRIGLIA RELIQUIE (PRIME MODE) */
 .modal-content-simple.prime-mode .relic-cards-grid { 
-    display: grid; 
-    grid-template-columns: repeat(auto-fill, minmax(var(--relic-card-min), 1fr)); 
-    gap: var(--relic-card-gap); 
+    display: flex; 
+    flex-wrap: nowrap;
+    gap: 8px;
 }
 
 /* CARD RELIQUIA */
@@ -206,12 +206,12 @@
   flex-direction: column; 
   align-items: center; 
   text-align: center; 
-  gap: 2px; 
-  overflow: hidden; 
+  gap: 3px; 
+  overflow: visible; 
   width: 100%;
   margin-top: auto;
-  padding: 8px 0 10px;
-  min-height: 44px;
+  padding: 8px 0 14px;
+  min-height: 58px;
   background: linear-gradient(to top, rgba(6, 8, 14, 0.98) 0%, rgba(6, 8, 14, 0.7) 70%, transparent 100%);
   border-top: 1px solid rgba(255,255,255,0.08);
   border-radius: 0 0 14px 14px;
@@ -257,7 +257,7 @@
 .modal-content-simple.prime-mode .mini-relic-card[data-era="Axi"] { --era-color: #b0c9ec; }
 .modal-content-simple.prime-mode .mini-relic-card[data-era="Requiem"] { --era-color: #ff4444; }
 
-.modal-content-simple.prime-mode .card-rarity-row { display: flex; justify-content: space-between; align-items: center; margin-top: 3px; }
+.modal-content-simple.prime-mode .card-rarity-row { display: flex; justify-content: center; align-items: center; margin-top: 2px; }
 
 /* RARITY DOTS */
 .modal-content-simple.prime-mode .card-pct { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
@@ -274,9 +274,62 @@
 
 /* TAG V ROSSA */
 .modal-content-simple.prime-mode .vaulted-mini-tag { 
-    font-size: 10px; color: #ff4444; font-weight: 900; 
-    border: 1px solid rgba(255, 68, 68, 0.7); padding: 0 4px; border-radius: 3px;
-    background: rgba(8, 10, 18, 0.7);
+    font-size: 11px;
+    color: #ff6868;
+    font-weight: 900;
+    border: 1px solid rgba(255, 68, 68, 0.8);
+    padding: 2px 7px;
+    border-radius: 4px;
+    background: rgba(10, 12, 18, 0.9);
+    letter-spacing: 0.6px;
+    text-shadow: 0 0 6px rgba(255, 68, 68, 0.35);
+    display: inline-flex;
+    align-items: center;
+    line-height: 1;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    z-index: 2;
+    pointer-events: none;
+}
+
+/* --- SCROLLBAR STYLING (MATCH UI) --- */
+.relic-cards-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(140, 160, 255, 0.55) rgba(8, 10, 18, 0.6);
+}
+.relic-cards-scroll::-webkit-scrollbar {
+  height: 6px;
+}
+.relic-cards-scroll::-webkit-scrollbar-track {
+  background: rgba(8, 10, 18, 0.6);
+  border-radius: 6px;
+}
+.relic-cards-scroll::-webkit-scrollbar-thumb {
+  background: linear-gradient(90deg, rgba(120, 140, 255, 0.55), rgba(120, 200, 255, 0.35));
+  border-radius: 6px;
+  border: 1px solid rgba(255,255,255,0.12);
+}
+
+.col-right .col-content-scroll,
+.modal-content-simple.base-mode .mission-list.scrollable {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(140, 160, 255, 0.5) rgba(8, 10, 18, 0.6);
+}
+.col-right .col-content-scroll::-webkit-scrollbar,
+.modal-content-simple.base-mode .mission-list.scrollable::-webkit-scrollbar {
+  width: 6px;
+}
+.col-right .col-content-scroll::-webkit-scrollbar-track,
+.modal-content-simple.base-mode .mission-list.scrollable::-webkit-scrollbar-track {
+  background: rgba(8, 10, 18, 0.6);
+  border-radius: 6px;
+}
+.col-right .col-content-scroll::-webkit-scrollbar-thumb,
+.modal-content-simple.base-mode .mission-list.scrollable::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, rgba(120, 140, 255, 0.55), rgba(120, 200, 255, 0.35));
+  border-radius: 6px;
+  border: 1px solid rgba(255,255,255,0.12);
 }
 
 /* --- STRATEGIA --- */
@@ -822,6 +875,9 @@
   flex-direction: column;
   align-items: center;
   gap: 10px;
+  flex: 1;
+  min-height: 0;
+  width: 100%;
 }
 
 .base-component-card .base-component-image {
@@ -972,6 +1028,7 @@
   overflow-x: auto;
   overflow-y: hidden;
   scrollbar-width: thin;
+  scrollbar-color: rgba(140, 160, 255, 0.55) rgba(8, 10, 18, 0.6);
 }
 
 .modal-content-simple.prime-mode .col-content-scroll {
@@ -990,12 +1047,14 @@
 }
 
 .modal-content-simple.base-mode .col-content-scroll::-webkit-scrollbar-thumb {
-  background: rgba(255,255,255,0.2);
+  background: linear-gradient(90deg, rgba(120, 140, 255, 0.55), rgba(120, 200, 255, 0.35));
   border-radius: 6px;
+  border: 1px solid rgba(255,255,255,0.12);
 }
 
 .modal-content-simple.base-mode .col-content-scroll::-webkit-scrollbar-track {
-  background: rgba(8, 10, 18, 0.5);
+  background: rgba(8, 10, 18, 0.6);
+  border-radius: 6px;
 }
 
 .modal-content-simple.base-mode .component-row {
@@ -1049,6 +1108,7 @@
   border-radius: 0;
   overflow: visible;
   flex: 1 1 auto;
+  min-height: 0;
 }
 
 .modal-content-simple.base-mode .col-content-scroll {
@@ -1060,19 +1120,22 @@
   max-height: none;
   overflow-y: auto;
   padding-right: 6px;
+  flex: 1 1 auto;
 }
 
 .modal-content-simple.base-mode .mission-list.scrollable::-webkit-scrollbar {
-  width: 4px;
+  width: 6px;
 }
 
 .modal-content-simple.base-mode .mission-list.scrollable::-webkit-scrollbar-thumb {
-  background: rgba(255,255,255,0.2);
-  border-radius: 3px;
+  background: linear-gradient(180deg, rgba(120, 140, 255, 0.55), rgba(120, 200, 255, 0.35));
+  border-radius: 6px;
+  border: 1px solid rgba(255,255,255,0.12);
 }
 
 .modal-content-simple.base-mode .mission-list.scrollable::-webkit-scrollbar-track {
-  background: rgba(8, 10, 18, 0.5);
+  background: rgba(8, 10, 18, 0.6);
+  border-radius: 6px;
 }
 
 
@@ -1177,4 +1240,47 @@
   margin-bottom: 5px;
   padding-bottom: 3px;
   font-size: 9px;
+}
+
+/* --- PRIME MODE WIDTH ADAPT --- */
+.modal-content-simple.prime-layout {
+  --prime-mini-relic-width: 140px;
+  --prime-mini-relic-gap: 8px;
+  --prime-center-extra: 120px;
+  --prime-left-width: 240px;
+  --prime-right-width: 360px;
+  width: fit-content;
+  max-width: calc(100vw - 40px);
+}
+
+.modal-content-simple.prime-layout .col-left {
+  flex: 0 0 var(--prime-left-width);
+}
+
+.modal-content-simple.prime-layout .col-right {
+  flex: 0 0 var(--prime-right-width);
+  min-width: var(--prime-right-width);
+  max-width: var(--prime-right-width);
+}
+
+.modal-content-simple.prime-layout .col-center {
+  flex: 0 1 auto !important;
+  width: max(320px, calc(var(--prime-center-extra) + (var(--prime-relic-count, 1) * (var(--prime-mini-relic-width) + var(--prime-mini-relic-gap)))));
+  max-width: calc(100vw - 40px - var(--prime-left-width) - var(--prime-right-width));
+}
+
+@media (max-width: 1024px) {
+  .modal-content-simple.prime-layout {
+    width: 100%;
+    max-width: none;
+  }
+
+  .modal-content-simple.prime-layout .col-left,
+  .modal-content-simple.prime-layout .col-center,
+  .modal-content-simple.prime-layout .col-right {
+    flex: none;
+    width: 100%;
+    min-width: 0;
+    max-width: none;
+  }
 }

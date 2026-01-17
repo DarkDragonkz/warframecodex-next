@@ -428,6 +428,18 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
         
         fullComponentsList = [...fullComponentsList, ...subs];
     }
+
+    let primeRelicMax = 1;
+    if (isPrime && !isRelicItem) {
+        primeRelicMax = Math.max(
+            1,
+            ...fullComponentsList.map(comp => {
+                const relics = formatDropsWithVaultCheck(comp.drops)
+                    .filter(d => showVaultedRelics || !d.isVaultedRelic);
+                return relics.length || 1;
+            })
+        );
+    }
     
     const sortedRewards = item.rewards ? [...item.rewards].sort((a, b) => (b.chance || 0) - (a.chance || 0)) : [];
     function getRarityClass(r) {
@@ -437,9 +449,19 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
         return "pct-common";
     }
 
+    const primeRelicStyle = (isPrime && !isRelicItem)
+        ? { '--prime-relic-count': primeRelicMax }
+        : undefined;
+
+    const modalClassName = `modal-content-simple ${!isPrime && !isRelicItem ? 'base-mode' : 'prime-mode'}${(isPrime && !isRelicItem) ? ' prime-layout' : ''}`;
+
     return (
         <div className="modal-overlay" onClick={onClose}>
-            <div className={`modal-content-simple ${!isPrime && !isRelicItem ? 'base-mode' : 'prime-mode'}`} onClick={(e) => e.stopPropagation()}>
+            <div
+                className={modalClassName}
+                style={primeRelicStyle}
+                onClick={(e) => e.stopPropagation()}
+            >
                 <button className="close-btn" onClick={onClose}>&times;</button>
 
                 <div className="modal-body">
@@ -551,7 +573,7 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                                         chance: 'FARM'
                                     }]
                                     : [];
-                                const maxEntries = 1;
+                                const maxEntries = isPrime ? 1 : 7;
                                 const visibleEntries = missionEntries.slice(0, maxEntries);
                                 
                                 return (
