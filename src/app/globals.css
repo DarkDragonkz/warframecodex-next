@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 :root {
+  color-scheme: dark;
   --ink: #0b0d13;
   --panel: rgba(15, 18, 28, 0.78);
   --panel-border: rgba(139, 154, 255, 0.25);
@@ -37,13 +38,25 @@
   --relic-era-size: 7px;
   --relic-code-size: 13px;
   --font-roboto: "Roboto Condensed", sans-serif;
+  --scrollbar-size: 6px;
+  --scrollbar-track: rgba(8, 10, 18, 0.85);
+  --scrollbar-thumb: rgba(123, 140, 255, 0.35);
+  --scrollbar-thumb-glow: rgba(123, 140, 255, 0.18);
+  --scrollbar-thumb-hover: rgba(123, 140, 255, 0.6);
 }
 
-* { box-sizing: border-box; padding: 0; margin: 0; }
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scrollbar-width: thin;
+  scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-track);
+}
 
 html, body {
   height: 100%; width: 100%; background-color: var(--bg-deep); 
   color: var(--text-main); font-family: var(--font-roboto); overflow: hidden;
+  color-scheme: dark;
 }
 
 html.mobile-scroll-enabled,
@@ -52,10 +65,14 @@ body.mobile-scroll-enabled {
 }
 
 /* Scrollbars Universali */
-div::-webkit-scrollbar { width: 6px; }
-div::-webkit-scrollbar-track { background: #050505; }
-div::-webkit-scrollbar-thumb { background: #333; border-radius: 3px; }
-div::-webkit-scrollbar-thumb:hover { background: #555; }
+*::-webkit-scrollbar { width: var(--scrollbar-size); height: var(--scrollbar-size); }
+*::-webkit-scrollbar-track { background: var(--scrollbar-track); border-radius: 6px; }
+*::-webkit-scrollbar-thumb { 
+  background: linear-gradient(180deg, var(--scrollbar-thumb), var(--scrollbar-thumb-glow));
+  border-radius: 6px;
+  border: 1px solid rgba(255,255,255,0.12);
+}
+*::-webkit-scrollbar-thumb:hover { background: var(--scrollbar-thumb-hover); }
 
 .mobile-bottom-nav {
   position: fixed;
