@@ -48,6 +48,16 @@ export const CATEGORY_CONFIGS = {
         { id: 'base', label: 'BASE', filter: (item) => item.category === 'Melee' && !item.name.includes('Prime') && !item.name.includes('Vandal') && !item.name.includes('Wraith') },
         { id: 'prime', label: 'PRIME', filter: (item) => item.category === 'Melee' && item.name.includes('Prime') }
     ],
+    'arch-gun': [
+        { id: 'all', label: 'ALL', filter: (item) => item.category === 'Arch-Gun' || (item.type || '').toLowerCase().includes('arch-gun') },
+        { id: 'base', label: 'BASE', filter: (item) => (item.category === 'Arch-Gun' || (item.type || '').toLowerCase().includes('arch-gun')) && !item.name.includes('Prime') && !item.name.includes('Vandal') && !item.name.includes('Wraith') },
+        { id: 'prime', label: 'PRIME', filter: (item) => (item.category === 'Arch-Gun' || (item.type || '').toLowerCase().includes('arch-gun')) && item.name.includes('Prime') }
+    ],
+    'arch-melee': [
+        { id: 'all', label: 'ALL', filter: (item) => item.category === 'Arch-Melee' || (item.type || '').toLowerCase().includes('arch-melee') },
+        { id: 'base', label: 'BASE', filter: (item) => (item.category === 'Arch-Melee' || (item.type || '').toLowerCase().includes('arch-melee')) && !item.name.includes('Prime') && !item.name.includes('Vandal') && !item.name.includes('Wraith') },
+        { id: 'prime', label: 'PRIME', filter: (item) => (item.category === 'Arch-Melee' || (item.type || '').toLowerCase().includes('arch-melee')) && item.name.includes('Prime') }
+    ],
     'companions': [
         { id: 'all', label: 'ALL', filter: (item) => item.category === 'Sentinels' },
         { id: 'base', label: 'BASE', filter: (item) => item.category === 'Sentinels' && !item.name.includes('Prime') },

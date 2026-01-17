@@ -1,5 +1,5 @@
 "use client";
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import Image from 'next/image';
 import { IMG_BASE_URL, API_BASE_URL } from '@/utils/constants';
 import './WarframeDetailModal.css';
@@ -51,16 +51,28 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
     const [statusMsg, setStatusMsg] = useState(""); 
     const [showVaultedRelics, setShowVaultedRelics] = useState(false);
     const [dropSearchMap, setDropSearchMap] = useState({});
+    const autoShowVaultedRef = useRef(false);
 
     if (!item) return null;
     const isOwned = ownedItems.has(item.uniqueName);
     const isRelicItem = (item.category || "").includes('Relic') || (item.type || "").includes('Relic');
     const isPrime = item.name.includes("Prime");
+    const relicIdList = Array.from(relicIds).filter(id => !id.startsWith("DIRECT:"));
+    const hasRelicIds = relicIdList.length > 0;
+    const allRelicVaulted = isPrime
+        && lookupData
+        && hasRelicIds
+        && relicIdList.every(id => {
+            if (lookupData._vaulted && Object.prototype.hasOwnProperty.call(lookupData._vaulted, id)) {
+                return lookupData._vaulted[id];
+            }
+            return !lookupData[id];
+        });
     
     // Logica Vaulted
     const jsonVaulted = !!item.vaulted;
     const computedVaulted = !isRelicItem && !loadingStrategies && smartMissions.length === 0 && baseStrategies.length === 0;
-    const isVaulted = jsonVaulted || (isPrime && computedVaulted); 
+    const isVaulted = jsonVaulted || (isPrime && (allRelicVaulted || computedVaulted)); 
 
     const wikiUrl = `https://warframe.fandom.com/wiki/${item.name.replace(/ /g, '_')}`;
 
@@ -68,6 +80,8 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
         const handleEsc = (e) => { if (e.key === 'Escape') onClose(); };
         window.addEventListener('keydown', handleEsc);
         setSelectedRelics(new Set()); 
+        setShowVaultedRelics(false);
+        autoShowVaultedRef.current = false;
         
         if (!isRelicItem && (item.components || item.drops)) {
             fetchFarmingData();
@@ -76,6 +90,13 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
         }
         return () => window.removeEventListener('keydown', handleEsc);
     }, [onClose, item]);
+
+    useEffect(() => {
+        if (allRelicVaulted && !autoShowVaultedRef.current) {
+            setShowVaultedRelics(true);
+            autoShowVaultedRef.current = true;
+        }
+    }, [allRelicVaulted]);
 
     useEffect(() => {
         if (isPrime || isRelicItem) return;
@@ -318,14 +339,17 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
             if (lookupRes.ok) lookupDB = await lookupRes.json();
             
             let imageMap = {};
+            let vaultedMap = {};
             if (relicsRes.ok) {
                 const relicsArr = await relicsRes.json();
                 relicsArr.forEach(r => {
                     const stdName = getStandardID(r.name);
                     if (stdName && r.imageName) imageMap[stdName] = r.imageName;
+                    if (stdName) vaultedMap[stdName] = !r.drops || r.drops.length === 0;
                 });
             }
             lookupDB._images = imageMap;
+            lookupDB._vaulted = vaultedMap;
             setLookupData(lookupDB); 
 
             setRelicIds(new Set(neededIDs));
@@ -358,7 +382,13 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                 } else {
                     imagePath = `${IMG_BASE_URL}/${cleanLoc.toLowerCase().replace(/ /g, '-')}-relic.png`;
                 }
-                if (lookupData && relicID && !lookupData[relicID]) isVaultedRelic = true;
+                if (lookupData && relicID) {
+                    if (lookupData._vaulted && Object.prototype.hasOwnProperty.call(lookupData._vaulted, relicID)) {
+                        isVaultedRelic = lookupData._vaulted[relicID];
+                    } else if (!lookupData[relicID]) {
+                        isVaultedRelic = true;
+                    }
+                }
 
                 if(!unique.has(cleanLoc)) {
                     unique.set(cleanLoc, {

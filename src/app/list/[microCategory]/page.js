@@ -45,12 +45,12 @@ export default async function DynamicListPage({ params }) {
 
     // 4. Default: Pagina Lista Standard
     let lookup = null;
-    if (['warframes', 'primary', 'secondary', 'melee', 'companions'].includes(microCat.id)) {
+    if (['warframes', 'primary', 'secondary', 'melee', 'companions', 'arch-gun', 'arch-melee'].includes(microCat.id)) {
         lookup = await fetchGameData('RelicLookup.json');
     }
 
     // Determina se attivare i TAB Base/Prime
-    const categoryMode = ['warframes', 'primary', 'secondary', 'melee', 'companions'].includes(microCat.id) 
+    const categoryMode = ['warframes', 'primary', 'secondary', 'melee', 'companions', 'arch-gun', 'arch-melee'].includes(microCat.id) 
         ? microCat.id 
         : null;
 
