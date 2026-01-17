@@ -10,7 +10,7 @@ import { VirtuosoGrid } from 'react-virtuoso';
 import '@/app/hud-layout.css'; 
 
 const WarframeDetailModal = dynamic(() => import('./WarframeDetailModal'), {
-    loading: () => <div style={{position:'fixed', inset:0, zIndex:2000, display:'flex', alignItems:'center', justifyContent:'center', background:'rgba(0,0,0,0.8)', color:'white'}}>Loading Interface...</div>,
+    loading: () => <div className="loading-overlay">Loading Interface...</div>,
     ssr: false
 });
 
@@ -132,7 +132,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
 
     const pct = rawApiData.length > 0 ? Math.round((ownedCount / rawApiData.length) * 100) : 0;
     
-    if (loading) return <div style={{padding:'50px', color:'#fff', textAlign:'center'}}>INITIALIZING ORDIS DATABASE...</div>;
+    if (loading) return <div className="loading-screen">INITIALIZING ORDIS DATABASE...</div>;
 
     return (
         <div className="codex-layout">
@@ -208,8 +208,8 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
                     totalCount={processedData.length}
                     overscan={200}
                     components={{
-                        List: (props) => <div {...props} className="card-gallery" style={{...props.style, overflow: 'visible'}} />,
-                        Item: (props) => <div {...props} style={{...props.style, margin: 0, overflow: 'visible'}} />
+                        List: (props) => <div {...props} className="card-gallery" />,
+                        Item: (props) => <div {...props} className="card-item" />
                     }}
                     itemContent={(index) => {
                         const item = processedData[index];
@@ -231,7 +231,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
 
 export default function CodexListPage(props) {
     return (
-        <Suspense fallback={<div style={{color:'#fff', padding:'50px', textAlign:'center'}}>Loading Interface...</div>}>
+        <Suspense fallback={<div className="loading-screen">Loading Interface...</div>}>
             <CodexContent {...props} />
         </Suspense>
     );

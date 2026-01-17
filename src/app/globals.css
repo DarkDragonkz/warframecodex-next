@@ -26,6 +26,16 @@
   --blue-glow: rgba(59, 130, 246, 0.4);
   --green-tech: #5fffa5;
   --red-vault: #ff5555;
+  --panel-pad-outer: 24px;
+  --panel-pad-inner: 16px;
+  --panel-pad-compact: 10px;
+  --panel-gap: 14px;
+  --relic-card-min: 60px;
+  --relic-card-gap: 4px;
+  --relic-card-padding: 4px 4px 5px;
+  --relic-card-icon: 56px;
+  --relic-era-size: 7px;
+  --relic-code-size: 13px;
   --font-roboto: "Roboto Condensed", sans-serif;
 }
 

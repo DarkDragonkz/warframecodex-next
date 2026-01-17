@@ -134,7 +134,7 @@ export default function ModsClientPage({ initialData = [] }) {
 
     const pct = rawApiData.length > 0 ? Math.round((ownedCards.size / rawApiData.length) * 100) : 0;
 
-    if (loading) return <div style={{color:'#fff', padding:'50px', textAlign:'center'}}>LOADING MOD MODULES...</div>;
+    if (loading) return <div className="loading-screen">LOADING MOD MODULES...</div>;
 
     return (
         <div className="codex-layout">
@@ -207,8 +207,8 @@ export default function ModsClientPage({ initialData = [] }) {
                     totalCount={filteredData.length}
                     overscan={200}
                     components={{
-                        List: (props) => <div {...props} className="card-gallery" style={{...props.style, overflow: 'visible'}} />,
-                        Item: (props) => <div {...props} style={{...props.style, margin: 0, overflow: 'visible'}} />
+                        List: (props) => <div {...props} className="card-gallery" />,
+                        Item: (props) => <div {...props} className="card-item" />
                     }}
                     itemContent={(index) => {
                         const item = filteredData[index];
@@ -319,7 +319,7 @@ function ModCard({ item, isOwned, onToggle }) {
                         {imageUrl ? (
                              <Image src={imageUrl} alt={item.name} fill className="mod-img" unoptimized />
                         ) : (
-                            <div className="no-image-placeholder" style={{width:'100%', height:'100%', display:'flex', alignItems:'center', justifyContent:'center', color:'#444', fontSize:'12px'}}>NO IMAGE</div>
+                            <div className="no-image-placeholder">NO IMAGE</div>
                         )}
                     </div>
                     <div className="mod-top-bar">

@@ -95,7 +95,7 @@ export default function RelicsClientPage({ initialData = [] }) {
 
     const pct = rawApiData.length > 0 ? Math.round((ownedCards.size / rawApiData.length) * 100) : 0;
 
-    if (loading) return <div style={{color:'#fff', padding:'50px', textAlign:'center'}}>DECODING VOID SIGNALS...</div>;
+    if (loading) return <div className="loading-screen">DECODING VOID SIGNALS...</div>;
 
     return (
         <div className="codex-layout">
@@ -165,8 +165,8 @@ export default function RelicsClientPage({ initialData = [] }) {
                     totalCount={filteredData.length}
                     overscan={200}
                     components={{
-                        List: (props) => <div {...props} className="card-gallery relic-card-gallery" style={{...props.style, overflow: 'visible'}} />,
-                        Item: (props) => <div {...props} style={{...props.style, margin: 0, overflow: 'visible'}} />
+                        List: (props) => <div {...props} className="card-gallery relic-card-gallery" />,
+                        Item: (props) => <div {...props} className="card-item" />
                     }}
                     itemContent={(index) => {
                         const item = filteredData[index];

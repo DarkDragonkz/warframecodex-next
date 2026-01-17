@@ -134,11 +134,11 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 8px 32px 10px;
+  padding: var(--panel-pad-compact) var(--panel-pad-outer);
   background: rgba(10, 12, 18, 0.85);
   border-top: 1px solid rgba(255,255,255,0.08);
   backdrop-filter: blur(16px);
-  gap: 18px;
+  gap: var(--panel-gap);
 }
 
 .category-tabs {
@@ -232,7 +232,7 @@
 /* AREA SCROLL E GRIGLIA */
 .gallery-scroll-area { 
   flex-grow: 1; overflow-y: auto; 
-  padding: 16px 24px 20px;
+  padding: var(--panel-pad-inner) var(--panel-pad-outer) calc(var(--panel-pad-inner) + 4px);
   scrollbar-width: thin; 
   position: relative;
   z-index: 1;
@@ -243,12 +243,11 @@
   display: flex; 
   flex-wrap: wrap; 
   justify-content: center; 
-  gap: 14px; 
-  padding-bottom: 32px; 
+  gap: var(--panel-gap); 
+  padding-bottom: calc(var(--panel-pad-inner) + 16px); 
   padding-top: 2px;
-  overflow: visible;
 }
-.card-gallery > div { overflow: visible; }
+.card-item { overflow: visible; margin: 0; }
 
 /* --- CARD GENERICA (Warframe, Armi) --- */
 .card-wrapper {
@@ -369,7 +368,7 @@
 /* INFO AREA */
 .info-area { 
   flex: 1;
-  padding: 10px; 
+  padding: var(--panel-pad-compact); 
   display: flex; 
   flex-direction: column;
   align-items: center; 
@@ -409,6 +408,30 @@
 }
 .wiki-btn-block:hover { 
   color: #fff; border-color: rgba(255,255,255,0.3); background: rgba(255,255,255,0.05); 
+}
+
+.loading-screen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--panel-pad-outer);
+  color: var(--text);
+  text-align: center;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+
+.loading-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0,0,0,0.8);
+  color: #fff;
+  font-weight: 800;
+  letter-spacing: 1px;
 }
 
 /* MEDIA QUERIES MOBILE */
