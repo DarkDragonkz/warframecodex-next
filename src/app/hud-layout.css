@@ -248,6 +248,7 @@
   padding-top: 2px;
 }
 .card-item { overflow: visible; margin: 0; }
+.card-item-click { cursor: pointer; }
 
 /* --- CARD GENERICA (Warframe, Armi) --- */
 .card-wrapper {
@@ -486,4 +487,17 @@
 @keyframes grid-shift {
   from { background-position: 0 0, 0 0, 0 0; }
   to { background-position: 80px 80px, -80px -80px, 120px 120px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .codex-layout::before {
+    animation: none;
+  }
+  .card-wrapper,
+  .card-wrapper::after,
+  .nav-home-btn,
+  .tab-btn,
+  .cycle-btn {
+    transition: none;
+  }
 }

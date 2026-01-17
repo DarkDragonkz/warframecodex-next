@@ -21,7 +21,7 @@ async function getCategoryCovers() {
 
 function MacroCard({ cat }) {
     return (
-        <Link href={`/${cat.id}`} style={{textDecoration:'none'}}>
+        <Link href={`/${cat.id}`} style={{textDecoration:'none'}} prefetch={false}>
             <div 
                 className={`menu-card ${cat.id}`}
                 style={{ '--card-color': cat.color, '--card-glow': `${cat.color}66` }}
@@ -30,7 +30,7 @@ function MacroCard({ cat }) {
                     {cat.imgUrl ? (
                         <img src={cat.imgUrl} alt={cat.title} className="card-img-element" />
                     ) : (
-                        <div style={{background:'#151518', width:'100%', height:'100%'}}></div>
+                        <div className="image-placeholder-block"></div>
                     )}
                 </div>
                 

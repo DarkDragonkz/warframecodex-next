@@ -10,6 +10,8 @@ import './mods.css';
 import MobileBottomNav from '@/components/MobileBottomNav';
 import useDebouncedValue from '@/hooks/useDebouncedValue';
 import { UI_TEXT } from '@/utils/uiText';
+import { BLUR_DATA_URL } from '@/utils/imagePlaceholders';
+import useThrottledValue from '@/hooks/useThrottledValue';
 
 const STORAGE_KEY = 'warframe_codex_mods_v1';
 
@@ -40,6 +42,9 @@ export default function ModsClientPage({ initialData = [] }) {
     const [currentCategory, setCurrentCategory] = useState('all');
     const [searchTerm, setSearchTerm] = useState('');
     const debouncedSearch = useDebouncedValue(searchTerm, 300);
+    const throttledSearch = useThrottledValue(searchTerm, 200);
+    const useThrottle = rawApiData.length > 4000;
+    const searchValue = useThrottle ? throttledSearch : debouncedSearch;
     const [currentSort, setCurrentSort] = useState('name');
     const [showMissingOnly, setShowMissingOnly] = useState(false);
 
@@ -132,7 +137,7 @@ export default function ModsClientPage({ initialData = [] }) {
     // --- FILTRAGGIO ---
     const filteredData = useMemo(() => {
         return rawApiData.filter(item => {
-            if (debouncedSearch && !item.searchStr.includes(debouncedSearch)) return false;
+            if (searchValue && !item.searchStr.includes(searchValue)) return false;
             if (showMissingOnly && ownedCards.has(item.uniqueName)) return false;
             if (currentCategory !== 'all' && item.myCategory !== currentCategory) return false;
             return true;
@@ -145,7 +150,7 @@ export default function ModsClientPage({ initialData = [] }) {
             }
             return 0;
         });
-    }, [rawApiData, debouncedSearch, currentCategory, currentSort, showMissingOnly, ownedCards]);
+    }, [rawApiData, searchValue, currentCategory, currentSort, showMissingOnly, ownedCards]);
 
     const toggleOwned = useCallback((id) => {
         setOwnedCards(prev => {
@@ -240,7 +245,7 @@ export default function ModsClientPage({ initialData = [] }) {
                     itemContent={(index) => {
                         const item = filteredData[index];
                         return (
-                            <div style={{padding:'0'}}>
+                            <div className="mod-card-item">
                                 <ModCard 
                                     item={item} 
                                     isOwned={ownedCards.has(item.uniqueName)} 
@@ -350,7 +355,16 @@ const ModCard = React.memo(function ModCard({ item, isOwned, onToggleOwned }) {
                 <div className="mod-card-front">
                     <div className="mod-image-area">
                         {imageUrl ? (
-                             <Image src={imageUrl} alt={item.name} fill className="mod-img" unoptimized />
+                             <Image
+                                 src={imageUrl}
+                                 alt={item.name}
+                                 fill
+                                 className="mod-img"
+                                 loading="lazy"
+                                 placeholder="blur"
+                                 blurDataURL={BLUR_DATA_URL}
+                                 unoptimized
+                             />
                         ) : (
                             <div className="no-image-placeholder">NO IMAGE</div>
                         )}

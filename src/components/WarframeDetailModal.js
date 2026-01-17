@@ -2,6 +2,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import Image from 'next/image';
 import { IMG_BASE_URL, API_BASE_URL } from '@/utils/constants';
+import { BLUR_DATA_URL } from '@/utils/imagePlaceholders';
 import './WarframeDetailModal.css';
 
 // LISTA ESTESA DI RISORSE DA NASCONDERE
@@ -463,6 +464,8 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                                 alt={item.name} 
                                 fill
                                 style={{objectFit:'contain'}}
+                                placeholder="blur"
+                                blurDataURL={BLUR_DATA_URL}
                                 unoptimized
                             />
                         </div>
@@ -492,7 +495,7 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                             </div>
                         </div>
                         
-                        <div className={`col-content-scroll ${(!isRelicItem && !isPrime) ? 'components-grid' : ''}`}>
+                        <div className={`col-content-scroll ${(!isRelicItem && !isPrime) ? 'components-grid' : ''} ${(isPrime && !isRelicItem) ? 'prime-components-grid' : ''}`}>
                             {isRelicItem && (
                                 <div style={{display:'flex', flexDirection:'column', gap:'5px'}}>
                                     {sortedRewards.map((r, i) => (
@@ -561,6 +564,8 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                                                         alt="" 
                                                         fill
                                                         style={{objectFit:'contain', opacity: comp.name === "MAIN BP" ? 0.7 : 1}}
+                                                        placeholder="blur"
+                                                        blurDataURL={BLUR_DATA_URL}
                                                         unoptimized
                                                     />
                                                 </div>
@@ -579,8 +584,11 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                                                     .map((d, i) => {
                                                     const isSelected = d.relicID && selectedRelics.has(d.relicID);
                                                     return (
-                                                        <div key={i} onClick={() => d.isRelic && handleRelicClick(d.relicID)}
+                                                        <div
+                                                            key={i}
+                                                            onClick={() => d.isRelic && handleRelicClick(d.relicID)}
                                                             className={`mini-relic-card ${d.rarityClass} ${isSelected ? 'selected' : ''} ${d.isVaultedRelic ? 'is-vaulted' : ''}`}
+                                                            data-era={d.loc.split(' ')[0]}
                                                         >
                                                             {d.imagePath && <img src={d.imagePath} className="relic-card-img" loading="lazy" onError={(e)=>{e.target.style.display='none'}} />}
                                                             <div className="card-info">

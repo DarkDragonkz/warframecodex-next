@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { VirtuosoGrid } from 'react-virtuoso';
@@ -10,6 +10,8 @@ import './relics.css';
 import MobileBottomNav from '@/components/MobileBottomNav';
 import useDebouncedValue from '@/hooks/useDebouncedValue';
 import { UI_TEXT } from '@/utils/uiText';
+import { BLUR_DATA_URL } from '@/utils/imagePlaceholders';
+import useThrottledValue from '@/hooks/useThrottledValue';
 
 const STORAGE_KEY = 'warframe_codex_relics_v1';
 
@@ -22,6 +24,9 @@ export default function RelicsClientPage({ initialData = [] }) {
     const [currentEra, setCurrentEra] = useState('all'); 
     const [searchTerm, setSearchTerm] = useState('');
     const debouncedSearch = useDebouncedValue(searchTerm, 300);
+    const throttledSearch = useThrottledValue(searchTerm, 200);
+    const useThrottle = rawApiData.length > 4000;
+    const searchValue = useThrottle ? throttledSearch : debouncedSearch;
     
     // FILTRO 3 STATI
     const [filterState, setFilterState] = useState('all');
@@ -96,7 +101,7 @@ export default function RelicsClientPage({ initialData = [] }) {
 
     const filteredData = useMemo(() => {
         return rawApiData.filter(item => {
-            if (debouncedSearch && !item.simpleName.toLowerCase().includes(debouncedSearch)) return false;
+            if (searchValue && !item.simpleName.toLowerCase().includes(searchValue)) return false;
             
             const isOwned = ownedCards.has(item.uniqueName);
             if (filterState === 'missing' && isOwned) return false;
@@ -106,13 +111,15 @@ export default function RelicsClientPage({ initialData = [] }) {
             if (currentEra !== 'all' && item.era !== currentEra) return false;
             return true;
         });
-    }, [rawApiData, currentEra, debouncedSearch, filterState, showVaulted, ownedCards]);
+    }, [rawApiData, currentEra, searchValue, filterState, showVaulted, ownedCards]);
 
-    const toggleOwned = (id) => {
-        const newSet = new Set(ownedCards);
-        if (newSet.has(id)) newSet.delete(id); else newSet.add(id);
-        setOwnedCards(newSet);
-    };
+    const toggleOwned = useCallback((id) => {
+        setOwnedCards(prev => {
+            const newSet = new Set(prev);
+            if (newSet.has(id)) newSet.delete(id); else newSet.add(id);
+            return newSet;
+        });
+    }, []);
 
     const pct = rawApiData.length > 0 ? Math.round((ownedCards.size / rawApiData.length) * 100) : 0;
 
@@ -196,11 +203,11 @@ export default function RelicsClientPage({ initialData = [] }) {
                     itemContent={(index) => {
                         const item = filteredData[index];
                         return (
-                            <div onClick={() => setSelectedItem(item)} style={{height: '100%'}}>
+                            <div onClick={() => setSelectedItem(item)} className="relic-card-item">
                                 <RelicCardAdvanced 
                                     item={item} 
                                     isOwned={ownedCards.has(item.uniqueName)} 
-                                    onToggle={() => toggleOwned(item.uniqueName)} 
+                                    onToggleOwned={toggleOwned}
                                 />
                             </div>
                         );
@@ -222,7 +229,12 @@ export default function RelicsClientPage({ initialData = [] }) {
     );
 }
 
-function RelicCardAdvanced({ item, isOwned, onToggle }) {
+const RelicCardAdvanced = React.memo(function RelicCardAdvanced({ item, isOwned, onToggleOwned }) {
+    const handleToggle = useCallback((e) => {
+        e.stopPropagation();
+        onToggleOwned(item.uniqueName);
+    }, [item.uniqueName, onToggleOwned]);
+
     return (
         <div 
             className={`relic-card-advanced ${item.isVaulted ? 'is-vaulted' : ''} ${isOwned ? 'owned' : ''}`}
@@ -233,16 +245,22 @@ function RelicCardAdvanced({ item, isOwned, onToggle }) {
             {/* NUOVO BOTTONE STATUS PER RELIQUIE */}
             <div 
                 className={`status-badge ${isOwned ? 'owned' : 'missing'}`} 
-                onClick={(e) => { 
-                    e.stopPropagation(); 
-                    onToggle(); 
-                }}
+                onClick={handleToggle}
             >
                 {isOwned ? 'OWNED' : 'MISSING'}
             </div>
 
             <div className="relic-img-wrapper">
-                <Image src={`${IMG_BASE_URL}/${item.imageName}`} alt={item.name} fill className="relic-img" unoptimized />
+                <Image
+                    src={`${IMG_BASE_URL}/${item.imageName}`}
+                    alt={item.name}
+                    fill
+                    className="relic-img"
+                    loading="lazy"
+                    placeholder="blur"
+                    blurDataURL={BLUR_DATA_URL}
+                    unoptimized
+                />
             </div>
             <div className="relic-info">
                 <div className="relic-era-label">{item.era}</div>
@@ -251,4 +269,4 @@ function RelicCardAdvanced({ item, isOwned, onToggle }) {
             </div>
         </div>
     );
-}
+});

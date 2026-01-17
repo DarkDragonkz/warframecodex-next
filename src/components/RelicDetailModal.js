@@ -2,6 +2,7 @@
 import React, { useEffect } from 'react';
 import Image from 'next/image';
 import { IMG_BASE_URL } from '@/utils/constants';
+import { BLUR_DATA_URL } from '@/utils/imagePlaceholders';
 import './WarframeDetailModal.css'; 
 
 export default function RelicDetailModal({ item, onClose, ownedItems, onToggle }) {
@@ -75,6 +76,8 @@ export default function RelicDetailModal({ item, onClose, ownedItems, onToggle }
                                 alt={item.name} 
                                 fill
                                 style={{objectFit:'contain'}}
+                                placeholder="blur"
+                                blurDataURL={BLUR_DATA_URL}
                                 unoptimized
                             />
                         </div>

@@ -61,7 +61,7 @@ async function MicroCard({ micro, color }) {
     const imgUrl = targetItem ? `${IMG_BASE_URL}/${targetItem.imageName}` : null;
 
     return (
-        <Link href={`/list/${micro.id}`} style={{textDecoration:'none'}}>
+        <Link href={`/list/${micro.id}`} style={{textDecoration:'none'}} prefetch={false}>
             <div 
                 className="menu-card"
                 style={{ '--card-color': color, '--card-glow': `${color}66`, width: '180px', height: '260px' }}
@@ -70,7 +70,7 @@ async function MicroCard({ micro, color }) {
                     {imgUrl ? (
                         <img src={imgUrl} alt={micro.title} className="card-img-element" />
                     ) : (
-                        <div style={{background:'#222', width:'100%', height:'100%'}}></div>
+                        <div className="image-placeholder-block"></div>
                     )}
                 </div>
                 

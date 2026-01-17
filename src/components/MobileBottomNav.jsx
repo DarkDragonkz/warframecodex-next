@@ -43,6 +43,7 @@ export default function MobileBottomNav() {
         <Link
           key={item.key}
           href={item.href}
+          prefetch={false}
           className={`mobile-bottom-link ${activeKey === item.key ? "active" : ""}`}
         >
           {item.label}

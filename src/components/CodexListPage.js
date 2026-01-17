@@ -10,6 +10,7 @@ import { VirtuosoGrid } from 'react-virtuoso';
 import '@/app/hud-layout.css'; 
 import MobileBottomNav from '@/components/MobileBottomNav';
 import useDebouncedValue from '@/hooks/useDebouncedValue';
+import useThrottledValue from '@/hooks/useThrottledValue';
 import { UI_TEXT } from '@/utils/uiText';
 
 const WarframeDetailModal = dynamic(() => import('./WarframeDetailModal'), {
@@ -35,6 +36,9 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
     
     const [searchTerm, setSearchTerm] = useState("");
     const debouncedSearch = useDebouncedValue(searchTerm, 300);
+    const throttledSearch = useThrottledValue(searchTerm, 200);
+    const useThrottle = rawApiData.length > 4000;
+    const searchValue = useThrottle ? throttledSearch : debouncedSearch;
 
     // FILTRO 3 STATI (ALL -> MISSING -> OWNED)
     const [filterState, setFilterState] = useState('all');
@@ -95,7 +99,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
 
     const processedData = useMemo(() => {
         return rawApiData.filter(item => {
-            if (debouncedSearch && !item.name.toLowerCase().includes(debouncedSearch)) return false;
+            if (searchValue && !item.name.toLowerCase().includes(searchValue)) return false;
             
             // LOGICA 3 STATI
             const isOwned = ownedCards.has(item.uniqueName);
@@ -111,7 +115,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
             }
             return true;
         });
-    }, [rawApiData, subCategory, activeSubFilter, debouncedSearch, filterState, showVaulted, ownedCards, activeConfig]);
+    }, [rawApiData, subCategory, activeSubFilter, searchValue, filterState, showVaulted, ownedCards, activeConfig]);
 
     const handleCategoryChange = (id) => {
         const p = new URLSearchParams(searchParams.toString());
@@ -238,7 +242,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
                     itemContent={(index) => {
                         const item = processedData[index];
                         return (
-                            <div onClick={() => setSelectedItem(item)} style={{cursor:'pointer'}}>
+                            <div onClick={() => setSelectedItem(item)} className="card-item-click">
                                 <CodexCard item={item} isOwned={ownedCards.has(item.uniqueName)} onToggleOwned={toggleOwned} />
                             </div>
                         );

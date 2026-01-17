@@ -3,6 +3,7 @@ import React, { memo, useCallback } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { IMG_BASE_URL } from '@/utils/constants';
+import { BLUR_DATA_URL } from '@/utils/imagePlaceholders';
 
 function CodexCard({ item, isOwned, onToggleOwned }) {
     if (!item) return null;
@@ -34,6 +35,9 @@ function CodexCard({ item, isOwned, onToggleOwned }) {
                     alt={item.name} 
                     fill
                     className="card-image-img"
+                    loading="lazy"
+                    placeholder="blur"
+                    blurDataURL={BLUR_DATA_URL}
                     unoptimized
                 />
             </div>
