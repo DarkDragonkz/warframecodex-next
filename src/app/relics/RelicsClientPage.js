@@ -20,6 +20,7 @@ export default function RelicsClientPage({ initialData = [] }) {
     const [ownedCards, setOwnedCards] = useState(new Set());
     const [loading, setLoading] = useState(true);
     const [isMobile, setIsMobile] = useState(false);
+    const [scrollParent, setScrollParent] = useState(null);
 
     const [currentEra, setCurrentEra] = useState('all'); 
     const [searchTerm, setSearchTerm] = useState('');
@@ -45,15 +46,9 @@ export default function RelicsClientPage({ initialData = [] }) {
         };
     }, []);
 
-    useEffect(() => {
-        const method = isMobile ? 'add' : 'remove';
-        document.body.classList[method]('mobile-scroll-enabled');
-        document.documentElement.classList[method]('mobile-scroll-enabled');
-        return () => {
-            document.body.classList.remove('mobile-scroll-enabled');
-            document.documentElement.classList.remove('mobile-scroll-enabled');
-        };
-    }, [isMobile]);
+    const scrollParentRef = useCallback((node) => {
+        setScrollParent(node);
+    }, []);
 
     const cycleFilterState = () => {
         if (filterState === 'all') setFilterState('missing');
@@ -129,7 +124,8 @@ export default function RelicsClientPage({ initialData = [] }) {
     const overscan = isMobile ? 120 : 300;
 
     return (
-        <div className={`codex-layout ${isMobile ? 'mobile-scroll' : ''}`}>
+        <div className={`codex-layout ${isMobile ? 'mobile-mode' : ''}`}>
+            <div className="codex-scroll" ref={scrollParentRef}>
             <div className="header-group">
                 <div className="nav-top-row">
                     <div className="nav-brand">
@@ -195,7 +191,7 @@ export default function RelicsClientPage({ initialData = [] }) {
                     style={gridStyle}
                     totalCount={filteredData.length}
                     overscan={overscan}
-                    useWindowScroll={isMobile}
+                    customScrollParent={isMobile ? (scrollParent || undefined) : undefined}
                     components={{
                         List: (props) => <div {...props} className="card-gallery relic-card-gallery" />,
                         Item: (props) => <div {...props} className="card-item" />
@@ -213,6 +209,7 @@ export default function RelicsClientPage({ initialData = [] }) {
                         );
                     }}
                 />
+            </div>
             </div>
 
             <MobileBottomNav />

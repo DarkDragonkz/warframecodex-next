@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect, useMemo, Suspense } from 'react';
+import { useState, useEffect, useMemo, useCallback, Suspense } from 'react';
 import { useRouter, usePathname, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import CodexCard from './CodexCard';
@@ -146,15 +146,10 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
         };
     }, []);
 
-    useEffect(() => {
-        const method = isMobile ? 'add' : 'remove';
-        document.body.classList[method]('mobile-scroll-enabled');
-        document.documentElement.classList[method]('mobile-scroll-enabled');
-        return () => {
-            document.body.classList.remove('mobile-scroll-enabled');
-            document.documentElement.classList.remove('mobile-scroll-enabled');
-        };
-    }, [isMobile]);
+    const [scrollParent, setScrollParent] = useState(null);
+    const scrollParentRef = useCallback((node) => {
+        setScrollParent(node);
+    }, []);
 
     if (loading) return <div className="loading-screen">{UI_TEXT.loadingOrdis}</div>;
 
@@ -162,7 +157,8 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
     const overscan = isMobile ? 120 : 300;
 
     return (
-        <div className={`codex-layout ${isMobile ? 'mobile-scroll' : ''}`}>
+        <div className={`codex-layout ${isMobile ? 'mobile-mode' : ''}`}>
+            <div className="codex-scroll" ref={scrollParentRef}>
             <div className="header-group">
                 <div className="nav-top-row">
                     <div className="nav-brand">
@@ -234,7 +230,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
                     style={gridStyle}
                     totalCount={processedData.length}
                     overscan={overscan}
-                    useWindowScroll={isMobile}
+                    customScrollParent={isMobile ? (scrollParent || undefined) : undefined}
                     components={{
                         List: (props) => <div {...props} className="card-gallery" />,
                         Item: (props) => <div {...props} className="card-item" />
@@ -248,6 +244,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
                         );
                     }}
                 />
+            </div>
             </div>
 
             <MobileBottomNav />

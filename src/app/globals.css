@@ -59,11 +59,6 @@ html, body {
   color-scheme: dark;
 }
 
-html.mobile-scroll-enabled,
-body.mobile-scroll-enabled {
-  overflow: auto;
-}
-
 /* Scrollbars Universali */
 *::-webkit-scrollbar { width: var(--scrollbar-size); height: var(--scrollbar-size); }
 *::-webkit-scrollbar-track { background: var(--scrollbar-track); border-radius: 6px; }
