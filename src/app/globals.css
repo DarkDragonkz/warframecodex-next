@@ -51,3 +51,40 @@ div::-webkit-scrollbar { width: 6px; }
 div::-webkit-scrollbar-track { background: #050505; }
 div::-webkit-scrollbar-thumb { background: #333; border-radius: 3px; }
 div::-webkit-scrollbar-thumb:hover { background: #555; }
+
+.mobile-bottom-nav {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1200;
+  display: none;
+  align-items: center;
+  justify-content: space-around;
+  gap: 6px;
+  padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
+  background: rgba(7, 9, 14, 0.9);
+  border-top: 1px solid rgba(255,255,255,0.08);
+  backdrop-filter: blur(16px);
+}
+
+.mobile-bottom-link {
+  color: rgba(238, 241, 255, 0.7);
+  text-decoration: none;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 6px 8px;
+  border-radius: 10px;
+}
+
+.mobile-bottom-link.active {
+  color: var(--text);
+  background: rgba(123, 140, 255, 0.15);
+  box-shadow: 0 0 10px var(--glow);
+}
+
+@media (max-width: 900px) {
+  .mobile-bottom-nav { display: flex; }
+}

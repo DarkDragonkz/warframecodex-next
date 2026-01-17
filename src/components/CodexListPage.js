@@ -221,6 +221,13 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
                     }}
                 />
             </div>
+
+            <nav className="mobile-bottom-nav">
+                <Link href="/" className="mobile-bottom-link">Home</Link>
+                <Link href="/arsenal" className="mobile-bottom-link">Arsenal</Link>
+                <Link href="/entities" className="mobile-bottom-link">Entities</Link>
+                <Link href="/upgrades" className="mobile-bottom-link">Upgrades</Link>
+            </nav>
             
             {selectedItem && (
                 <WarframeDetailModal item={selectedItem} onClose={() => setSelectedItem(null)} ownedItems={ownedCards} onToggle={toggleOwned} />

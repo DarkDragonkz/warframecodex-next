@@ -435,38 +435,45 @@
 }
 
 /* MEDIA QUERIES MOBILE */
-@media (max-width: 768px) {
-  .codex-layout { height: 100dvh; }
-  .nav-top-row { padding: 0 15px; height: 60px; }
-  .nav-brand { gap: 15px; }
-  .page-title { font-size: 20px; padding-left: 10px; }
-  .stats-right { gap: 10px; }
+@media (max-width: 900px) {
+  .codex-layout { height: 100dvh; overflow: hidden; }
+  .header-group { position: static; box-shadow: none; background: rgba(8, 10, 16, 0.94); }
+  .nav-top-row { padding: 10px 14px 8px; height: auto; flex-direction: column; align-items: flex-start; gap: 6px; }
+  .nav-brand { gap: 10px; }
+  .page-title { font-size: 20px; padding-left: 8px; letter-spacing: 3px; }
+  .stats-right { gap: 12px; width: 100%; justify-content: flex-end; }
   .stat-box { display: flex; flex-direction: column; align-items: flex-end; }
   .stat-label { font-size: 7px; }
   .stat-value { font-size: 14px; }
   
   .controls-row { 
     flex-direction: column; align-items: stretch; 
-    gap: 15px; padding: 15px; height: auto; 
+    gap: 8px; padding: 10px 14px 12px; height: auto; 
   }
+  .category-tabs { width: 100%; justify-content: flex-start; }
+  .tab-btn { padding: 5px 10px; }
   .filters-left { max-width: 100% !important; overflow-x: visible; padding-bottom: 0; }
-  .filters-right { flex-direction: column; gap: 10px; width: 100%; }
+  .filters-right { flex-direction: column; gap: 8px; width: 100%; }
   .search-wrapper, .search-input { width: 100%; }
   .legend-box { display: none; }
   .toggle-filter { width: 100%; justify-content: flex-start; padding: 5px 0; }
   
-  .gallery-scroll-area { padding: 20px; padding-top: 24px; }
-  .card-gallery { gap: 15px; }
+  .gallery-scroll-area { flex: 1; min-height: 0; overflow-y: auto; padding: 10px 12px calc(88px + env(safe-area-inset-bottom)); }
+  .card-gallery { width: 100%; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; padding-bottom: 16px; }
 
   /* Adattamento Card Mobile: 2 per riga */
   .card-wrapper {
-    width: 46%; 
-    max-width: 180px; 
-    height: 320px;
+    width: 100%; 
+    max-width: none; 
+    height: 250px;
   }
   .card-image-container {
-    height: 140px;
+    height: 120px;
   }
+  .info-area { padding: 8px; }
+  .mod-name { font-size: 11px; }
+  .card-desc { font-size: 9px; line-height: 1.3; -webkit-line-clamp: 2; }
+  .wiki-btn-block { padding: 6px; font-size: 9px; }
 }
 
 @keyframes grid-shift {

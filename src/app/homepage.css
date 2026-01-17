@@ -68,6 +68,16 @@
   gap: 42px;
 }
 
+@media (max-width: 900px) {
+  .landing-content { padding: 24px 16px 96px; gap: 24px; }
+  .landing-header { gap: 12px; }
+  .landing-title { font-size: 28px; letter-spacing: 4px; }
+  .landing-subtitle { font-size: 11px; letter-spacing: 3px; }
+  .cards-scroll-container { padding-bottom: 12px; }
+  .menu-card { width: 150px !important; height: 220px !important; }
+  .card-title { font-size: 16px !important; }
+}
+
 /* HEADER */
 .landing-header {
   text-align: center;
