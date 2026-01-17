@@ -23,7 +23,7 @@ export default async function MacroCategoryPage({ params }) {
         <main className="landing-page">
             <div className="landing-content">
                 <div className="landing-header">
-                    <Link href="/" style={{textDecoration:'none', color:'#666', fontSize:'12px', marginBottom:'10px', display:'block'}}>
+                    <Link href="/" className="back-to-hub">
                         &larr; BACK TO HUB
                     </Link>
                     <h1 className="landing-title" style={{color: category.color}}>

@@ -25,6 +25,20 @@ const HIDDEN_RESOURCES = [
     'Isos', 'Aucrux Capacitors', 'Komms', 'Nullstones'
 ];
 
+const dropSearchCache = new Map();
+
+function getDropSearchName(componentName, itemName) {
+    if (!componentName) return null;
+    let name = componentName;
+    if (itemName) {
+        name = name.replace(itemName, '');
+    }
+    name = name.replace(/Blueprint/gi, '').replace(/\s+/g, ' ').trim();
+    if (!name || name.length < 3) return null;
+    if (/^main$/i.test(name) || /main bp/i.test(name)) return null;
+    return name;
+}
+
 export default function WarframeDetailModal({ item, onClose, ownedItems, onToggle }) {
     const [smartMissions, setSmartMissions] = useState([]);
     const [baseStrategies, setBaseStrategies] = useState([]); 
@@ -36,6 +50,7 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
     const [loadingStrategies, setLoadingStrategies] = useState(false);
     const [statusMsg, setStatusMsg] = useState(""); 
     const [showVaultedRelics, setShowVaultedRelics] = useState(false);
+    const [dropSearchMap, setDropSearchMap] = useState({});
 
     if (!item) return null;
     const isOwned = ownedItems.has(item.uniqueName);
@@ -63,12 +78,102 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
     }, [onClose, item]);
 
     useEffect(() => {
+        if (isPrime || isRelicItem) return;
+        if (!item || !item.components) return;
+        let cancelled = false;
+
+        const names = item.components
+            .map(c => getDropSearchName(c.name, item.name))
+            .filter(Boolean);
+        const unique = Array.from(new Set(names));
+
+        if (unique.length === 0) return;
+
+        (async () => {
+            const results = {};
+            for (const name of unique) {
+                const key = name.toLowerCase();
+                if (dropSearchCache.has(key)) {
+                    results[key] = dropSearchCache.get(key);
+                    continue;
+                }
+                try {
+                    const res = await fetch(`https://api.warframestat.us/drops/search/${encodeURIComponent(name)}`);
+                    if (!res.ok) continue;
+                    const data = await res.json();
+                    dropSearchCache.set(key, data);
+                    results[key] = data;
+                } catch (e) {
+                    // Ignore network errors for optional drop lookup
+                }
+            }
+            if (!cancelled && Object.keys(results).length > 0) {
+                setDropSearchMap(prev => ({ ...prev, ...results }));
+            }
+        })();
+
+        return () => { cancelled = true; };
+    }, [item, isPrime, isRelicItem]);
+
+    useEffect(() => {
         if (!lookupData || relicIds.size === 0) return;
         const idsToUse = selectedRelics.size > 0 ? selectedRelics : relicIds;
         setSmartMissions(calculateMissionsStrategy(idsToUse, lookupData, relicPartMap));
     }, [selectedRelics, lookupData, relicIds, relicPartMap]);
 
     // --- UTILS ---
+    function formatCredits(value) {
+        if (typeof value !== 'number' || Number.isNaN(value)) return null;
+        return value.toLocaleString('en-US');
+    }
+
+    function formatDuration(totalSeconds) {
+        if (typeof totalSeconds !== 'number' || totalSeconds <= 0) return null;
+        let seconds = totalSeconds;
+        const days = Math.floor(seconds / 86400);
+        seconds -= days * 86400;
+        const hours = Math.floor(seconds / 3600);
+        seconds -= hours * 3600;
+        const minutes = Math.floor(seconds / 60);
+        const parts = [];
+        if (days) parts.push(`${days}d`);
+        if (hours) parts.push(`${hours}h`);
+        if (!days && minutes) parts.push(`${minutes}m`);
+        return parts.join(' ');
+    }
+
+    function getBlueprintSourceInfo(currentItem) {
+        if (!currentItem) return null;
+        if (currentItem.bpCost) {
+            return `Market (Blueprint ${formatCredits(currentItem.bpCost)} credits)`;
+        }
+        if (currentItem.marketCost) {
+            return `Market (Built ${formatCredits(currentItem.marketCost)} platinum)`;
+        }
+        return null;
+    }
+
+    function getBuildInfo(currentItem) {
+        if (!currentItem) return [];
+        const parts = [];
+        if (currentItem.buildPrice) {
+            parts.push(`Cost ${formatCredits(currentItem.buildPrice)} credits`);
+        }
+        if (currentItem.buildTime) {
+            const duration = formatDuration(currentItem.buildTime);
+            if (duration) parts.push(`Time ${duration}`);
+        }
+        if (currentItem.skipBuildTimePrice) {
+            parts.push(`Rush ${currentItem.skipBuildTimePrice} platinum`);
+        }
+        return parts;
+    }
+
+    function extractResourceLocation(text) {
+        if (!text) return null;
+        const match = text.match(/Location:\s*([^\n]+)/i);
+        return match ? match[1].trim() : null;
+    }
     function getStandardID(name) {
         if (!name) return null;
         const match = name.toUpperCase().match(/(LITH|MESO|NEO|AXI|REQUIEM)\s+([A-Z0-9]+)/);
@@ -374,6 +479,47 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                                 const partMissions = baseStrategies[cleanName] || [];
                                 const compImage = comp.imageName || item.imageName;
                                 const fallbackDrops = comp.drops || [];
+                                const dropSearchName = getDropSearchName(comp.name, item.name);
+                                const dropSearchKey = dropSearchName ? dropSearchName.toLowerCase() : null;
+                                const dropSearch = dropSearchKey ? (dropSearchMap[dropSearchKey] || []) : [];
+                                const isMainBlueprint = cleanName === "MAIN BP";
+                                const blueprintSource = isMainBlueprint ? getBlueprintSourceInfo(item) : null;
+                                const buildInfo = isMainBlueprint ? getBuildInfo(item) : [];
+                                const resourceLocation = extractResourceLocation(comp.description);
+                                const missionEntries = partMissions.length > 0
+                                    ? partMissions.map(m => ({
+                                        loc: m.loc,
+                                        rot: `ROT ${m.rot || '-'}`,
+                                        chance: `${(m.chance * 100).toFixed(1)}%`
+                                    }))
+                                    : fallbackDrops.length > 0
+                                    ? fallbackDrops.map(d => ({
+                                        loc: d.location || 'Unknown location',
+                                        rot: (d.rotation || d.rarity || '-').toString(),
+                                        chance: typeof d.chance === 'number' ? `${(d.chance * 100).toFixed(1)}%` : '-'
+                                    }))
+                                    : dropSearch.length > 0
+                                    ? dropSearch.map(d => {
+                                        const match = (d.place || '').match(/Rot\s+([A-C])/i);
+                                        const rot = match ? match[1] : '-';
+                                        const chance = typeof d.chance === 'number'
+                                            ? (d.chance > 1 ? d.chance : d.chance * 100)
+                                            : null;
+                                        return {
+                                            loc: `${d.place || 'Unknown'}${d.item ? ` - ${d.item}` : ''}`,
+                                            rot: `ROT ${rot}`,
+                                            chance: chance !== null ? `${chance.toFixed(1)}%` : '-'
+                                        };
+                                    })
+                                    : resourceLocation
+                                    ? [{
+                                        loc: resourceLocation,
+                                        rot: 'RESOURCE',
+                                        chance: 'FARM'
+                                    }]
+                                    : [];
+                                const maxEntries = 1;
+                                const visibleEntries = missionEntries.slice(0, maxEntries);
                                 
                                 return (
                                     <div key={idx} className={`component-row ${!isPrime ? 'base-component-card' : ''}`}>
@@ -433,29 +579,35 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                                                     <span className="base-component-name">{cleanName}</span>
                                                     <span className="base-component-count">x{comp.itemCount}</span>
                                                 </div>
-                                                <div className="mission-list">
-                                                    {partMissions.length > 0 ? (
-                                                        partMissions.map((m, i) => (
-                                                            <div key={i} className="mission-row">
-                                                                <span className="mission-loc">{m.loc}</span>
-                                                                <div className="mission-meta">
-                                                                    <span className="mission-rot">ROT {m.rot || '-'}</span>
-                                                                    <span className="mission-chance">{(m.chance * 100).toFixed(1)}%</span>
-                                                                </div>
+                                                {isMainBlueprint && (blueprintSource || buildInfo.length > 0) && (
+                                                    <div className="bp-info-block">
+                                                        {blueprintSource && (
+                                                            <div className="bp-info-row">
+                                                                <span className="bp-info-label">BLUEPRINT</span>
+                                                                <span className="bp-info-value">{blueprintSource}</span>
                                                             </div>
-                                                        ))
-                                                    ) : fallbackDrops.length > 0 ? (
-                                                        fallbackDrops.map((d, i) => (
+                                                        )}
+                                                        {buildInfo.map((entry, infoIdx) => (
+                                                            <div key={infoIdx} className="bp-info-row">
+                                                                <span className="bp-info-label">BUILD</span>
+                                                                <span className="bp-info-value">{entry}</span>
+                                                            </div>
+                                                        ))}
+                                                    </div>
+                                                )}
+                                                <div className={`mission-list ${missionEntries.length > maxEntries ? 'scrollable' : ''}`}>
+                                                    {missionEntries.length > 0 ? (
+                                                        missionEntries.map((entry, i) => (
                                                             <div key={i} className="mission-row">
-                                                                <span className="mission-loc">{d.location || 'Unknown location'}</span>
+                                                                <span className="mission-loc">{entry.loc}</span>
                                                                 <div className="mission-meta">
-                                                                    <span className="mission-rot">{(d.rotation || d.rarity || '-').toString()}</span>
-                                                                    <span className="mission-chance">{typeof d.chance === 'number' ? `${(d.chance * 100).toFixed(1)}%` : '-'}</span>
+                                                                    <span className="mission-rot">{entry.rot}</span>
+                                                                    <span className="mission-chance">{entry.chance}</span>
                                                                 </div>
                                                             </div>
                                                         ))
                                                     ) : (
-                                                        <div className="mission-empty">Check Market / Dojo / Quest</div>
+                                                        <div className="mission-empty">No location data available.</div>
                                                     )}
                                                 </div>
                                             </div>

@@ -208,8 +208,8 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
                     totalCount={processedData.length}
                     overscan={200}
                     components={{
-                        List: (props) => <div {...props} className="card-gallery" style={{...props.style, display: 'flex', flexWrap: 'wrap', justifyContent:'center', gap:'25px', paddingBottom: '100px'}} />,
-                        Item: (props) => <div {...props} style={{...props.style, margin: 0}} />
+                        List: (props) => <div {...props} className="card-gallery" style={{...props.style, overflow: 'visible'}} />,
+                        Item: (props) => <div {...props} style={{...props.style, margin: 0, overflow: 'visible'}} />
                     }}
                     itemContent={(index) => {
                         const item = processedData[index];

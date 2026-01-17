@@ -10,18 +10,19 @@ export default function Error({ error, reset }) {
 
   return (
     <div className="error-container">
-      <h2 className="error-title">SYSTEM FAILURE</h2>
-      <p>Ordis has encountered an error:</p>
-      <pre className="error-message">
-        {message}
-      </pre>
-      <br />
-      <button 
-        onClick={() => reset()} 
-        className="error-reset-button"
-      >
-        REBOOT SYSTEM
-      </button>
+      <div className="error-panel">
+        <h2 className="error-title">SYSTEM FAILURE</h2>
+        <p>Ordis has encountered an error:</p>
+        <pre className="error-message">
+          {message}
+        </pre>
+        <button 
+          onClick={() => reset()} 
+          className="error-reset-button"
+        >
+          REBOOT SYSTEM
+        </button>
+      </div>
     </div>
   );
 }

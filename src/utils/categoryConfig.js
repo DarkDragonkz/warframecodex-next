@@ -24,8 +24,8 @@ export const HIERARCHY = [
             { id: 'primary', title: 'Primary', json: 'Primary.json', filter: (i) => i.category === 'Primary' },
             { id: 'secondary', title: 'Secondary', json: 'Secondary.json', filter: (i) => i.category === 'Secondary' },
             { id: 'melee', title: 'Melee', json: 'Melee.json', filter: (i) => i.category === 'Melee' },
-            { id: 'arch-gun', title: 'Arch-Gun', json: 'Primary.json', filter: (i) => (i.type || "").includes('Arch-Gun') },
-            { id: 'arch-melee', title: 'Arch-Melee', json: 'Melee.json', filter: (i) => (i.type || "").includes('Arch-Melee') },
+            { id: 'arch-gun', title: 'Arch-Gun', json: 'Arch-Gun.json', filter: () => true },
+            { id: 'arch-melee', title: 'Arch-Melee', json: 'Arch-Melee.json', filter: () => true },
         ]
     },
     {
@@ -37,10 +37,9 @@ export const HIERARCHY = [
         jsonFile: 'Warframes.json',
         items: [
             { id: 'warframes', title: 'Warframes', json: 'Warframes.json', filter: (i) => (i.type || "").includes('Warframe') && !isNecramech(i) },
-            { id: 'necramechs', title: 'Necramechs', json: 'Warframes.json', filter: (i) => isNecramech(i) },
-            { id: 'archwings', title: 'Archwings', json: 'Warframes.json', filter: (i) => isArchwing(i) },
+            { id: 'archwings', title: 'Archwings', json: 'Archwing.json', filter: () => true },
             { id: 'sentinels', title: 'Sentinels', json: 'Sentinels.json', filter: (i) => (i.type || "").includes('Sentinel') },
-            { id: 'pets', title: 'Pets', json: 'Sentinels.json', filter: (i) => ['Kubrow', 'Kavat', 'Predasite', 'Vulpaphyla'].some(k => (i.type || "").includes(k)) }
+            { id: 'pets', title: 'Pets', json: 'Pets.json', filter: (i) => (i.type || "") === 'Pets' }
         ]
     },
     {
@@ -52,7 +51,7 @@ export const HIERARCHY = [
         jsonFile: 'Mods.json',
         items: [
             { id: 'mods', title: 'Mods', json: 'Mods.json', specialPage: 'mods' },
-            { id: 'arcanes', title: 'Arcanes', json: 'Arcanes.json', specialPage: 'mods' },
+            { id: 'arcanes', title: 'Arcanes', json: 'Arcanes.json', specialPage: 'arcanes' },
             { id: 'relics', title: 'Relics', json: 'Relics.json', specialPage: 'relics' }
         ]
     },

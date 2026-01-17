@@ -3,18 +3,18 @@
 /* SFONDO E CONTENITORE PRINCIPALE */
 .modal-overlay {
   position: fixed; inset: 0;
-  background: rgba(0, 0, 0, 0.95); backdrop-filter: blur(10px);
+  background: rgba(5, 7, 12, 0.88); backdrop-filter: blur(12px);
   z-index: 2000; display: flex; align-items: center; justify-content: center;
   padding: 20px;
 }
 
 .modal-content-simple {
-  width: 100%; max-width: 1600px; height: 90vh;
-  background: #09090b; /* Sfondo generale più scuro */
-  border: 1px solid #333; border-top: 3px solid var(--gold);
+  width: min(calc(100vw - 40px), 2200px); max-width: 2200px; height: 90vh;
+  background: linear-gradient(160deg, rgba(12, 15, 24, 0.96) 0%, rgba(8, 10, 18, 0.92) 100%); /* Sfondo generale più scuro */
+  border: 1px solid var(--panel-border); border-top: 2px solid var(--accent);
   display: flex; flex-direction: row;
   overflow: hidden; position: relative; box-shadow: 0 0 80px rgba(0,0,0,0.8);
-  border-radius: 4px;
+  border-radius: 16px;
 }
 
 /* PULSANTE CHIUSURA - SPOSTATO A SINISTRA */
@@ -25,29 +25,29 @@
   right: auto; /* Reset del valore right */
   
   width: 40px; height: 40px;
-  border-radius: 50%; border: 1px solid #444;
-  background: rgba(0,0,0,0.6); color: #fff; font-size: 28px;
+  border-radius: 50%; border: 1px solid var(--panel-border);
+  background: rgba(8, 10, 18, 0.7); color: var(--text); font-size: 28px;
   display: flex; align-items: center; justify-content: center;
   cursor: pointer; z-index: 3000; transition: 0.2s;
   padding-bottom: 4px;
 }
-.close-btn:hover { color: var(--gold); border-color: var(--gold); background: #000; }
+.close-btn:hover { color: var(--accent); border-color: var(--accent); background: rgba(8, 10, 18, 0.9); }
 
 .modal-body { display: flex; width: 100%; height: 100%; }
 
 /* --- COLONNA 1: INFO --- */
 .col-left { 
-  flex: 0 0 320px; background: #050505;
-  border-right: 1px solid #222; 
+  flex: 0 0 260px; background: linear-gradient(180deg, rgba(8, 10, 18, 0.96) 0%, rgba(6, 8, 14, 0.92) 100%);
+  border-right: 1px solid rgba(255,255,255,0.08); 
   display: flex; flex-direction: column; 
   /* Padding aumentato in alto per far spazio al bottone a sinistra */
-  padding: 70px 30px 30px 30px; 
+  padding: 70px 24px 24px 24px; 
   position: relative; z-index: 10;
 }
 
 .modal-info-header { margin-bottom: 20px; }
-.modal-title { font-size: 36px; font-weight: 900; color: #fff; line-height: 0.9; text-transform: uppercase; letter-spacing: -1px; }
-.type-pill { display: inline-block; font-size: 10px; color: #666; font-weight: bold; border: 1px solid #333; padding: 2px 6px; border-radius: 3px; margin-top: 8px; text-transform: uppercase; }
+.modal-title { font-size: 36px; font-weight: 900; color: var(--text); line-height: 0.9; text-transform: uppercase; letter-spacing: -1px; }
+.type-pill { display: inline-block; font-size: 10px; color: var(--text-soft); font-weight: bold; border: 1px solid var(--panel-border); padding: 3px 8px; border-radius: 6px; margin-top: 8px; text-transform: uppercase; }
 
 .det-img-box { 
     width: 100%; height: 350px; 
@@ -56,7 +56,7 @@
 .det-img-box img { object-fit: contain; filter: drop-shadow(0 0 30px rgba(0,0,0,0.5)); }
 
 .det-desc-container { flex-grow: 1; overflow-y: auto; margin-bottom: 20px; padding-right: 5px; }
-.warframe-description { font-size: 13px; color: #888; line-height: 1.6; }
+.warframe-description { font-size: 13px; color: var(--text-soft); line-height: 1.6; }
 
 .det-actions { margin-top: auto; }
 
@@ -79,18 +79,18 @@
 .col-center, .col-right {
     display: flex; flex-direction: column;
     overflow: hidden; /* Importante per scroll interno */
-    background: #0e0e10; 
+    background: linear-gradient(180deg, rgba(10, 12, 18, 0.92) 0%, rgba(8, 10, 16, 0.9) 100%); 
 }
-.col-center { border-right: 1px solid #222; }
+.col-center { border-right: 1px solid rgba(255,255,255,0.08); }
 
 /* HEADER STICKY */
 .col-header-sticky {
     padding: 20px 25px;
-    background: #0e0e10; /* Copre lo scroll */
-    border-bottom: 1px solid #222;
+    background: rgba(8, 10, 18, 0.92); /* Copre lo scroll */
+    border-bottom: 1px solid rgba(255,255,255,0.08);
     z-index: 10; flex-shrink: 0;
 }
-.section-title { font-size: 14px; font-weight: 800; color: #fff; letter-spacing: 1px; text-transform: uppercase; margin: 0; }
+.section-title { font-size: 14px; font-weight: 800; color: var(--text); letter-spacing: 1px; text-transform: uppercase; margin: 0; }
 
 /* SCROLL CONTENT */
 .col-content-scroll { 
@@ -101,18 +101,18 @@
 /* --- COMPONENTI --- */
 .component-row { 
     margin-bottom: 25px; 
-    background: #131316; /* Sfondo per raggruppare */
-    border: 1px solid #222;
-    border-radius: 6px;
+    background: linear-gradient(180deg, rgba(18, 20, 28, 0.92) 0%, rgba(12, 14, 20, 0.9) 100%);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 12px;
     padding: 10px;
 }
 
 .component-header { 
     display: flex; align-items: center; gap: 10px; 
-    margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px solid #222;
+    margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px solid rgba(255,255,255,0.08);
 }
 .component-icon { position: relative; width: 24px; height: 24px; }
-.count-badge { font-size: 10px; background: #000; padding: 2px 6px; border-radius: 4px; border: 1px solid #333; color: #666; margin-left: auto; }
+.count-badge { font-size: 10px; background: rgba(8, 10, 18, 0.7); padding: 2px 6px; border-radius: 6px; border: 1px solid rgba(255,255,255,0.12); color: var(--text-soft); margin-left: auto; }
 
 /* GRIGLIA RELIQUIE */
 .relic-cards-grid { 
@@ -122,24 +122,24 @@
 /* CARD RELIQUIA */
 .mini-relic-card { 
   flex: 1 1 calc(50% - 10px); min-width: 140px; max-width: 180px;
-  background: #1a1a1d; border: 1px solid #333; 
-  border-radius: 4px; padding: 8px 10px; 
+  background: rgba(12, 14, 20, 0.9); border: 1px solid rgba(255,255,255,0.12); 
+  border-radius: 10px; padding: 8px 10px; 
   display: flex; align-items: center; gap: 10px; 
   cursor: pointer; position: relative; transition: all 0.2s;
 }
 
-.mini-relic-card:hover { border-color: #666; background: #222; transform: translateY(-2px); }
+.mini-relic-card:hover { border-color: rgba(255,255,255,0.25); background: rgba(20, 22, 30, 0.95); transform: translateY(-2px); }
 .mini-relic-card.selected { border-color: var(--gold); background: rgba(212, 175, 55, 0.08); }
 
 /* --- FIX VAULTED RELIC --- */
 .mini-relic-card.is-vaulted {
-    border-color: #8a2be2; /* Bordo VIOLA/ROSSO per vaulted */
-    background: rgba(138, 43, 226, 0.05);
+    border-color: rgba(255, 68, 68, 0.4);
+    background: rgba(80, 20, 24, 0.2);
     opacity: 0.9;
 }
 .mini-relic-card.is-vaulted:hover {
-    background: rgba(138, 43, 226, 0.15);
-    border-color: #a045f5;
+    background: rgba(120, 32, 40, 0.25);
+    border-color: rgba(255, 68, 68, 0.65);
 }
 
 .relic-card-img { width: 32px; height: 32px; object-fit: contain; }
@@ -158,53 +158,53 @@
 /* TAG V ROSSA */
 .vaulted-mini-tag { 
     font-size: 10px; color: #ff4444; font-weight: 900; 
-    border: 1px solid #ff4444; padding: 0 4px; border-radius: 2px;
-    background: rgba(0,0,0,0.5);
+    border: 1px solid rgba(255, 68, 68, 0.7); padding: 0 4px; border-radius: 3px;
+    background: rgba(8, 10, 18, 0.7);
 }
 
 /* --- STRATEGIA --- */
 .mission-block { 
-    background: #151518; border: 1px solid #2a2a2e; 
-    border-radius: 6px; overflow: hidden; margin-bottom: 15px;
+    background: rgba(14, 16, 22, 0.9); border: 1px solid rgba(255,255,255,0.1); 
+    border-radius: 10px; overflow: hidden; margin-bottom: 15px;
 }
 .mission-block-header { 
-    background: #1a1a1e; padding: 12px 15px; 
-    border-bottom: 1px solid #2a2a2e; 
+    background: rgba(18, 20, 28, 0.95); padding: 12px 15px; 
+    border-bottom: 1px solid rgba(255,255,255,0.1); 
     display: flex; justify-content: space-between; align-items: center; 
 }
-.mission-name-large { font-size: 13px; font-weight: bold; color: #fff; }
+.mission-name-large { font-size: 13px; font-weight: bold; color: var(--text); }
 
 .mission-relics-table { width: 100%; border-collapse: collapse; }
 .mission-relics-table th { 
-    font-size: 10px; color: #666; font-weight: bold; 
-    padding: 8px 0; border-bottom: 1px solid #222;
+    font-size: 10px; color: var(--text-soft); font-weight: bold; 
+    padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.08);
 }
 .mission-relics-table td { 
-    padding: 10px 0; border-bottom: 1px solid #222; 
-    font-size: 12px; color: #bbb; vertical-align: middle;
+    padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.08); 
+    font-size: 12px; color: rgba(238, 241, 255, 0.75); vertical-align: middle;
 }
 .mission-relics-table tr:last-child td { border-bottom: none; }
 
 .part-badge { 
     display: inline-block; 
-    background: rgba(95, 255, 165, 0.05); 
-    border: 1px solid rgba(95, 255, 165, 0.15); 
-    color: #5fffa5; padding: 2px 6px; border-radius: 3px; 
+    background: rgba(95, 255, 165, 0.08); 
+    border: 1px solid rgba(95, 255, 165, 0.25); 
+    color: #5fffa5; padding: 2px 6px; border-radius: 6px; 
     font-size: 9px; font-weight: 700; text-transform: uppercase; 
 }
 
 .btn-toggle-large {
   width: 100%; padding: 15px; margin-top: 20px;
-  background: var(--gold); color: #000;
+  background: var(--accent); color: #0b0d13;
   font-weight: 800; letter-spacing: 1px;
-  border: none; border-radius: 2px; cursor: pointer; text-transform: uppercase;
+  border: none; border-radius: 10px; cursor: pointer; text-transform: uppercase;
 }
-.btn-toggle-large.owned { background: #222; color: #fff; border: 1px solid #444; }
+.btn-toggle-large.owned { background: rgba(8, 10, 18, 0.8); color: var(--text); border: 1px solid var(--panel-border); }
 .wiki-btn-block { 
   display: block; width: 100%; margin-top: 15px; padding: 10px;
   background: transparent; text-align: center;
   font-size: 11px; font-weight: 800; 
-  color: #666; border: 1px solid #333; text-transform: uppercase; text-decoration: none; 
+  color: var(--text-soft); border: 1px solid rgba(255,255,255,0.18); text-transform: uppercase; text-decoration: none; 
 }
 
 /* --- MOBILE RESPONSIVE --- */
@@ -236,7 +236,7 @@
     top: 15px; 
     left: 15px; /* Fisso a sinistra anche su mobile */
     right: auto;
-    border-color: var(--gold); color: var(--gold); background: #000; 
+    border-color: var(--accent); color: var(--accent); background: rgba(8, 10, 18, 0.9); 
   }
   
   .modal-content-simple.base-mode .col-right { display: none; }
@@ -252,8 +252,8 @@
 
 .relic-col-left {
   flex: 0 0 40%;
-  border-right: 1px solid #333;
-  background: #050505;
+  border-right: 1px solid rgba(255,255,255,0.08);
+  background: linear-gradient(180deg, rgba(8, 10, 18, 0.96) 0%, rgba(6, 8, 14, 0.92) 100%);
 }
 
 .relic-modal-info-header {
@@ -266,7 +266,7 @@
 
 .relic-modal-title {
   font-size: 42px;
-  color: #fff;
+  color: var(--text);
 }
 
 .relic-modal-title.vaulted {
@@ -291,10 +291,10 @@
 
 .relic-reward-card {
   margin-bottom: 8px;
-  background: linear-gradient(90deg, #18181b 0%, #121214 100%);
+  background: linear-gradient(90deg, rgba(18, 20, 28, 0.92) 0%, rgba(12, 14, 20, 0.9) 100%);
   padding: 10px 15px;
-  border-radius: 4px;
-  border-bottom: 1px solid #222;
+  border-radius: 8px;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
   border-left: 4px solid var(--relic-color, #cd7f32);
 }
 
@@ -306,7 +306,7 @@
 }
 
 .relic-reward-name {
-  color: #eee;
+  color: var(--text);
   font-weight: bold;
   font-size: 13px;
 }
@@ -324,7 +324,7 @@
 .relic-reward-bar {
   width: 100%;
   height: 4px;
-  background: #222;
+  background: rgba(255,255,255,0.08);
   border-radius: 2px;
   overflow: hidden;
 }
@@ -342,13 +342,13 @@
 
 .relic-col-center {
   flex: 1;
-  background: #0e0e10;
+  background: linear-gradient(180deg, rgba(10, 12, 18, 0.92) 0%, rgba(8, 10, 16, 0.9) 100%);
   padding: 0;
 }
 
 .relic-header-sticky {
-  background: #1a1a1e;
-  border-bottom: 1px solid #333;
+  background: rgba(8, 10, 18, 0.92);
+  border-bottom: 1px solid rgba(255,255,255,0.08);
   padding: 20px;
 }
 
@@ -360,7 +360,7 @@
 .relic-table-head {
   position: sticky;
   top: 0;
-  background: #0e0e10;
+  background: rgba(8, 10, 18, 0.95);
   z-index: 10;
 }
 
@@ -369,7 +369,7 @@
   text-align: left;
   font-size: 10px;
   font-weight: 800;
-  color: #666;
+  color: var(--text-soft);
   text-transform: uppercase;
   letter-spacing: 1px;
 }
@@ -383,7 +383,7 @@
 }
 
 .relic-table-row {
-  border-bottom: 1px solid #1a1a1e;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
 }
 
 .relic-td {
@@ -392,16 +392,16 @@
 }
 
 .relic-td-planet {
-  color: #fff;
+  color: var(--text);
   font-weight: bold;
 }
 
 .relic-td-node {
-  color: #ccc;
+  color: var(--text-soft);
 }
 
 .relic-td-type {
-  color: #888;
+  color: rgba(238, 241, 255, 0.6);
   font-size: 11px;
   text-transform: uppercase;
 }
@@ -424,7 +424,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: #666;
+  color: var(--text-soft);
   text-align: center;
 }
 
@@ -447,14 +447,14 @@
 
 /* --- HUD STYLE OVERRIDES (clarity for components & locations) --- */
 .modal-content-simple {
-  background: linear-gradient(180deg, #0a0b12 0%, #09090b 100%);
-  border: 1px solid rgba(255,255,255,0.08);
-  border-radius: 8px;
+  background: linear-gradient(160deg, rgba(12, 15, 24, 0.96) 0%, rgba(8, 10, 18, 0.92) 100%);
+  border: 1px solid var(--panel-border);
+  border-radius: 16px;
 }
 
 .col-left {
-  background: linear-gradient(180deg, #050505 0%, #0b0c12 100%);
-  border-right-color: rgba(255,255,255,0.06);
+  background: linear-gradient(180deg, rgba(8, 10, 18, 0.96) 0%, rgba(6, 8, 14, 0.92) 100%);
+  border-right-color: rgba(255,255,255,0.08);
 }
 
 .modal-title {
@@ -463,27 +463,27 @@
 }
 
 .type-pill {
-  color: rgba(255,255,255,0.6);
-  border-color: rgba(255,255,255,0.15);
+  color: var(--text-soft);
+  border-color: var(--panel-border);
   border-radius: 6px;
   padding: 3px 8px;
 }
 
 .warframe-description {
-  color: rgba(255,255,255,0.65);
+  color: var(--text-soft);
 }
 
 .col-center, .col-right {
-  background: linear-gradient(180deg, #0e0f14 0%, #0b0c12 100%);
+  background: linear-gradient(180deg, rgba(10, 12, 18, 0.92) 0%, rgba(8, 10, 16, 0.9) 100%);
 }
 
 .col-center {
-  border-right-color: rgba(255,255,255,0.06);
+  border-right-color: rgba(255,255,255,0.08);
 }
 
 .col-header-sticky {
-  background: rgba(8, 10, 16, 0.92);
-  border-bottom-color: rgba(255,255,255,0.08);
+  background: rgba(8, 10, 18, 0.92);
+  border-bottom-color: rgba(255,255,255,0.1);
   padding: 18px 22px;
 }
 
@@ -499,19 +499,19 @@
 .component-row {
   margin-bottom: 18px;
   background: linear-gradient(180deg, rgba(18, 20, 28, 0.92) 0%, rgba(12, 14, 20, 0.9) 100%);
-  border-color: rgba(255,255,255,0.08);
+  border-color: var(--panel-border);
   border-radius: 10px;
   padding: 12px 12px 10px;
 }
 
 .component-header {
-  border-bottom-color: rgba(255,255,255,0.08);
+  border-bottom-color: rgba(255,255,255,0.1);
 }
 
 .count-badge {
-  background: rgba(0,0,0,0.6);
-  border-color: rgba(255,255,255,0.15);
-  color: rgba(255,255,255,0.6);
+  background: rgba(8, 10, 18, 0.7);
+  border-color: rgba(255,255,255,0.18);
+  color: var(--text-soft);
   border-radius: 6px;
   padding: 2px 8px;
 }
@@ -519,7 +519,7 @@
 .mini-relic-card {
   max-width: 190px;
   background: rgba(12, 14, 20, 0.9);
-  border-color: rgba(255,255,255,0.12);
+  border-color: rgba(255,255,255,0.18);
   border-radius: 8px;
 }
 
@@ -535,24 +535,24 @@
 
 .mission-block {
   background: rgba(14, 16, 22, 0.9);
-  border-color: rgba(255,255,255,0.1);
+  border-color: rgba(255,255,255,0.12);
   border-radius: 10px;
 }
 
 .mission-block-header {
   background: rgba(18, 20, 28, 0.95);
-  border-bottom-color: rgba(255,255,255,0.1);
+  border-bottom-color: rgba(255,255,255,0.12);
   padding: 10px 14px;
 }
 
 .mission-relics-table th {
-  color: rgba(255,255,255,0.5);
-  border-bottom-color: rgba(255,255,255,0.08);
+  color: var(--text-soft);
+  border-bottom-color: rgba(255,255,255,0.1);
 }
 
 .mission-relics-table td {
-  color: rgba(255,255,255,0.75);
-  border-bottom-color: rgba(255,255,255,0.06);
+  color: rgba(238, 241, 255, 0.78);
+  border-bottom-color: rgba(255,255,255,0.08);
 }
 
 .part-badge {
@@ -567,14 +567,14 @@
 }
 
 .wiki-btn-block {
-  border-color: rgba(255,255,255,0.18);
+  border-color: rgba(255,255,255,0.2);
   border-radius: 8px;
-  color: rgba(255,255,255,0.55);
+  color: var(--text-soft);
 }
 
 /* --- COMPACT LAYOUT + RELIC CARD TUNING --- */
 .col-left {
-  flex: 0 0 280px;
+  flex: 0 0 240px;
 }
 
 .col-right {
@@ -699,8 +699,8 @@
 
 .vault-toggle {
   background: rgba(8, 10, 18, 0.7);
-  border: 1px solid rgba(255,255,255,0.18);
-  color: rgba(255,255,255,0.7);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: var(--text-soft);
   font-size: 9px;
   font-weight: 800;
   letter-spacing: 1px;
@@ -711,9 +711,9 @@
 }
 
 .vault-toggle.active {
-  border-color: #4cc3ff;
-  color: #4cc3ff;
-  box-shadow: 0 0 10px rgba(76, 195, 255, 0.25);
+  border-color: var(--accent);
+  color: var(--accent);
+  box-shadow: 0 0 12px var(--glow);
 }
 
 .relic-cards-scroll {
@@ -769,8 +769,13 @@
 }
 
 .modal-content-simple.base-mode .components-grid {
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 14px;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 12px;
+  align-items: stretch;
+  justify-content: stretch;
+  width: 100%;
+  overflow: visible;
 }
 
 .base-component-card .base-component-body {
@@ -819,13 +824,49 @@
   font-size: 11px;
 }
 
+.bp-info-block {
+  width: 100%;
+  display: grid;
+  gap: 6px;
+  padding: 8px 10px;
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 10px;
+  background: rgba(10, 12, 18, 0.7);
+}
+
+.bp-info-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 11px;
+  color: rgba(238, 241, 255, 0.75);
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+}
+
+.bp-info-label {
+  color: rgba(238, 241, 255, 0.55);
+  font-weight: 700;
+}
+
+.bp-info-value {
+  color: var(--text);
+  font-weight: 700;
+  text-align: right;
+}
+
 .modal-content-simple.base-mode .mission-list {
   width: 100%;
 }
 
 .modal-content-simple.base-mode .components-grid {
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 14px;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 12px;
+  align-items: stretch;
+  justify-content: stretch;
+  width: 100%;
+  overflow: visible;
 }
 
 .base-component-card .base-component-body {
@@ -880,7 +921,7 @@
 
 /* --- BASE MODE (NON-PRIME) CLARITY --- */
 .modal-content-simple.base-mode {
-  max-width: 1200px;
+  max-width: 2200px;
 }
 
 .modal-content-simple.base-mode .col-center {
@@ -889,10 +930,32 @@
 
 .modal-content-simple.base-mode .col-content-scroll {
   padding: 8px 12px 12px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: thin;
+}
+
+.modal-content-simple.base-mode .col-content-scroll::-webkit-scrollbar {
+  height: 6px;
+}
+
+.modal-content-simple.base-mode .col-content-scroll::-webkit-scrollbar-thumb {
+  background: rgba(255,255,255,0.2);
+  border-radius: 6px;
+}
+
+.modal-content-simple.base-mode .col-content-scroll::-webkit-scrollbar-track {
+  background: rgba(8, 10, 18, 0.5);
 }
 
 .modal-content-simple.base-mode .component-row {
   padding: 8px 10px 6px;
+  flex: 1 0 200px;
+  min-width: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-height: 360px;
 }
 
 .modal-content-simple.base-mode .mission-relics-table {
@@ -935,7 +998,33 @@
   border: none;
   border-radius: 0;
   overflow: visible;
+  flex: 1 1 auto;
 }
+
+.modal-content-simple.base-mode .col-content-scroll {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.modal-content-simple.base-mode .mission-list.scrollable {
+  max-height: none;
+  overflow-y: auto;
+  padding-right: 6px;
+}
+
+.modal-content-simple.base-mode .mission-list.scrollable::-webkit-scrollbar {
+  width: 4px;
+}
+
+.modal-content-simple.base-mode .mission-list.scrollable::-webkit-scrollbar-thumb {
+  background: rgba(255,255,255,0.2);
+  border-radius: 3px;
+}
+
+.modal-content-simple.base-mode .mission-list.scrollable::-webkit-scrollbar-track {
+  background: rgba(8, 10, 18, 0.5);
+}
+
 
 .modal-content-simple.base-mode .mission-row {
   display: flex;
@@ -1004,9 +1093,9 @@
 }
 
 .mini-relic-card.selected {
-  border-color: #4cc3ff;
-  background: rgba(76, 195, 255, 0.1);
-  box-shadow: 0 0 12px rgba(76, 195, 255, 0.25);
+  border-color: var(--accent);
+  background: rgba(123, 140, 255, 0.12);
+  box-shadow: 0 0 12px var(--glow);
 }
 
 .mission-relics-table th {
@@ -1083,7 +1172,7 @@
   font-size: 9px;
   letter-spacing: 1.6px;
   text-transform: uppercase;
-  color: rgba(255,255,255,0.55);
+  color: var(--text-soft);
   font-weight: 700;
 }
 
@@ -1091,7 +1180,7 @@
   font-size: 16px;
   letter-spacing: 1px;
   text-transform: uppercase;
-  color: #fff;
+  color: var(--text);
   font-weight: 900;
 }
 

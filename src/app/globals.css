@@ -3,12 +3,22 @@
 @tailwind utilities;
 
 :root {
-  --bg-deep: #050505;
-  --bg-card: #121214;
-  --bg-header: rgba(10, 10, 12, 0.90);
-  --border-color: #27272a;
-  --text-main: #ededed;
-  --text-muted: #888888;
+  --ink: #0b0d13;
+  --panel: rgba(15, 18, 28, 0.78);
+  --panel-border: rgba(139, 154, 255, 0.25);
+  --text: #eef1ff;
+  --text-soft: rgba(238, 241, 255, 0.7);
+  --accent: #7b8cff;
+  --accent-soft: rgba(123, 140, 255, 0.3);
+  --glow: rgba(123, 140, 255, 0.2);
+  --dark-glass: rgba(8, 10, 18, 0.72);
+
+  --bg-deep: #050507;
+  --bg-card: rgba(15, 18, 28, 0.88);
+  --bg-header: rgba(8, 10, 18, 0.92);
+  --border-color: rgba(139, 154, 255, 0.25);
+  --text-main: #eef1ff;
+  --text-muted: rgba(238, 241, 255, 0.6);
   --gold: #d4af37;
   --gold-dim: #8a7224;
   --gold-glow: rgba(212, 175, 55, 0.4);

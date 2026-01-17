@@ -7,16 +7,25 @@
 }
 
 .relics-gallery-scroll {
-    padding-top: 55px;
+    padding-top: 40px;
+}
+
+.relic-card-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 20px;
+    padding-bottom: 100px;
+    padding-top: 8px;
+    overflow: visible;
 }
 
 /* --- CARD RELIQUIA AVANZATA --- */
 .relic-card-advanced {
     width: 100%;
     height: 260px;
-    background: linear-gradient(145deg, #151518 0%, #0a0a0c 100%);
-    border: 1px solid #333;
-    border-radius: 4px;
+    background: linear-gradient(160deg, rgba(18, 22, 36, 0.92), rgba(10, 12, 20, 0.88));
+    border: 1px solid var(--panel-border);
+    border-radius: 18px;
     position: relative;
     z-index: 1;
     overflow: hidden;
@@ -24,7 +33,7 @@
     transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
     display: flex;
     flex-direction: column;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+    box-shadow: 0 18px 45px -30px rgba(0,0,0,0.8);
 }
 
 /* Colori Era */
@@ -36,10 +45,16 @@
 
 /* Hover Effect */
 .relic-card-advanced:hover {
-    transform: translateY(-5px);
+    transform: none;
     border-color: var(--era-color);
-    box-shadow: 0 0 20px var(--era-glow);
+    box-shadow: 0 0 24px var(--era-glow);
     z-index: 50;
+}
+.relic-card-advanced:hover .relic-img { transform: scale(1.05); }
+
+.relic-card-advanced.owned .relic-img {
+    filter: grayscale(100%) brightness(0.65) contrast(1.05);
+    opacity: 0.75;
 }
 
 /* Barra Superiore */
@@ -61,7 +76,7 @@
     color: transparent;
     z-index: 10;
     transition: 0.2s;
-    background: rgba(0,0,0,0.6);
+    background: rgba(8, 10, 18, 0.7);
 }
 .relic-card-advanced.owned .relic-check {
     background: var(--era-color);
@@ -79,7 +94,7 @@
     justify-content: center;
     position: relative;
     padding: 10px;
-    background: radial-gradient(circle at center, rgba(255,255,255,0.03) 0%, transparent 70%);
+    background: radial-gradient(circle at center, rgba(255,255,255,0.04) 0%, transparent 70%);
 }
 .relic-img {
     width: 100%;
@@ -94,12 +109,12 @@
 /* Info Area */
 .relic-info {
     padding: 15px; /* Più spazio dato che manca la scritta Available */
-    background: linear-gradient(to top, #000 0%, rgba(0,0,0,0.5) 100%);
+    background: linear-gradient(to top, rgba(6, 8, 14, 0.98) 0%, rgba(6, 8, 14, 0.7) 70%, transparent 100%);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border-top: 1px solid rgba(255,255,255,0.05);
+    border-top: 1px solid rgba(255,255,255,0.08);
     min-height: 80px; /* Altezza minima garantita */
 }
 
@@ -115,7 +130,7 @@
 .relic-code {
     font-size: 32px; /* Codice più grande per riempire lo spazio */
     font-weight: 900;
-    color: #fff;
+    color: var(--text);
     line-height: 1;
     text-shadow: 0 2px 5px rgba(0,0,0,0.5);
     margin-top: 5px;
@@ -131,15 +146,15 @@
     font-weight: 900;
     letter-spacing: 1px;
     color: #ff4444; /* Testo Rosso */
-    border: 1px solid #ff4444; /* Bordo Rosso */
-    background: rgba(255, 68, 68, 0.15); /* Sfondo Rosso Trasparente */
+    border: 1px solid rgba(255, 68, 68, 0.7); /* Bordo Rosso */
+    background: rgba(255, 68, 68, 0.12); /* Sfondo Rosso Trasparente */
     box-shadow: 0 0 10px rgba(255, 0, 0, 0.2);
 }
 
 /* STILE CARD VAULTED (Grigio/Spento globale) */
 .relic-card-advanced.is-vaulted {
-    border-color: #3a1a1a;
-    background: linear-gradient(145deg, #120a0a 0%, #000 100%);
+    border-color: rgba(255, 68, 68, 0.25);
+    background: linear-gradient(160deg, rgba(24, 10, 12, 0.95) 0%, rgba(8, 6, 8, 0.95) 100%);
 }
 .relic-card-advanced.is-vaulted .relic-img {
     filter: grayscale(100%) brightness(0.6) sepia(0.2);

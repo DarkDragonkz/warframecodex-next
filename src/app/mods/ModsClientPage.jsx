@@ -159,8 +159,8 @@ export default function ModsClientPage({ initialData = [] }) {
 
                 <div className="controls-row">
                     {/* TABS SCROLLABILI: Usiamo le tue classi originali 'category-tabs' e 'tab-btn' */}
-                    <div className="filters-left" style={{overflowX:'auto', whiteSpace:'nowrap', paddingBottom:'5px'}}>
-                        <div className="category-tabs" style={{display:'inline-flex', gap:'5px'}}>
+                    <div className="filters-left filters-scroll">
+                        <div className="category-tabs">
                             {TABS.map(tab => (
                                 <button 
                                     key={tab.id}
@@ -182,8 +182,7 @@ export default function ModsClientPage({ initialData = [] }) {
                         </div>
 
                         <select 
-                            className="search-input" 
-                            style={{width:'auto', cursor:'pointer'}}
+                            className="search-input select-compact" 
                             value={currentSort}
                             onChange={(e) => setCurrentSort(e.target.value)}
                         >
@@ -192,11 +191,10 @@ export default function ModsClientPage({ initialData = [] }) {
                             <option value="drain">COST</option>
                         </select>
 
-                        <label className="toggle-filter" style={{display:'flex', alignItems:'center', gap:'5px', color:'#ccc', fontSize:'10px', fontWeight:'bold', cursor:'pointer', border:'1px solid #444', padding:'5px 10px', borderRadius:'4px', background: showMissingOnly ? 'rgba(255,255,255,0.1)' : 'transparent'}}>
+                                                <label className={`toggle-filter ${showMissingOnly ? 'active' : ''}`}>
                             <input type="checkbox" style={{display:'none'}} checked={showMissingOnly} onChange={(e) => setShowMissingOnly(e.target.checked)} />
-                            <span style={{color: showMissingOnly ? '#5fffa5' : '#666'}}>
-                                {showMissingOnly ? '✓ MISSING' : 'SHOW ALL'}
-                            </span>
+                            <div className="checkbox-custom">{showMissingOnly && 'V'}</div>
+                            SHOW MISSING
                         </label>
                     </div>
                 </div>
@@ -209,8 +207,8 @@ export default function ModsClientPage({ initialData = [] }) {
                     totalCount={filteredData.length}
                     overscan={200}
                     components={{
-                        List: (props) => <div {...props} className="card-gallery" style={{...props.style, display: 'flex', flexWrap: 'wrap', justifyContent:'center', gap:'25px', paddingBottom: '100px'}} />,
-                        Item: (props) => <div {...props} style={{...props.style, margin: 0}} />
+                        List: (props) => <div {...props} className="card-gallery" style={{...props.style, overflow: 'visible'}} />,
+                        Item: (props) => <div {...props} style={{...props.style, margin: 0, overflow: 'visible'}} />
                     }}
                     itemContent={(index) => {
                         const item = filteredData[index];

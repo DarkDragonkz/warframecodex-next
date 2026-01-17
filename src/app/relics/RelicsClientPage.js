@@ -118,7 +118,7 @@ export default function RelicsClientPage({ initialData = [] }) {
                 </div>
 
                 <div className="controls-row">
-                    <div className="filters-left" style={{overflowX:'auto'}}>
+                    <div className="filters-left filters-scroll">
                         <div className="category-tabs">
                             {['all', 'Lith', 'Meso', 'Neo', 'Axi', 'Requiem'].map(era => (
                                 <button 
@@ -165,8 +165,8 @@ export default function RelicsClientPage({ initialData = [] }) {
                     totalCount={filteredData.length}
                     overscan={200}
                     components={{
-                        List: (props) => <div {...props} className="card-gallery" style={{...props.style, display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(180px, 1fr))', gap: '20px', paddingBottom:'100px'}} />,
-                        Item: (props) => <div {...props} style={{...props.style, margin: 0}} />
+                        List: (props) => <div {...props} className="card-gallery relic-card-gallery" style={{...props.style, overflow: 'visible'}} />,
+                        Item: (props) => <div {...props} style={{...props.style, margin: 0, overflow: 'visible'}} />
                     }}
                     itemContent={(index) => {
                         const item = filteredData[index];

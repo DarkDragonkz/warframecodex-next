@@ -1,0 +1,5965 @@
+[
+  {
+    "name": "Arcane",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnSummonAttackSub",
+    "category": "Arcanes",
+    "type": "Arcane",
+    "imageName": "arcane.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.0141,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Grace"
+      },
+      {
+        "chance": 0.0141,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Energize"
+      },
+      {
+        "chance": 0.0141,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Barrier"
+      },
+      {
+        "chance": 0.0278,
+        "location": "Duviri Static Undercroft Portal (Steel Path)",
+        "rarity": "Rare",
+        "type": "Arcane Reaper"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Aegis"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.0333,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.0333,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Aegis"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 1 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Intention"
+      },
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 1 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 3 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Intention"
+      },
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 3 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 4 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Intention"
+      },
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 4 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation A",
+        "rarity": "Rare",
+        "type": "Arcane Pistoleer"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation A",
+        "rarity": "Rare",
+        "type": "Arcane Tanker"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation A",
+        "rarity": "Rare",
+        "type": "Arcane Bodyguard"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation B",
+        "rarity": "Rare",
+        "type": "Arcane Bodyguard"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation B",
+        "rarity": "Rare",
+        "type": "Arcane Blade Charger"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation B",
+        "rarity": "Rare",
+        "type": "Arcane Primary Charger"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Pistoleer"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Tanker"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Blade Charger"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Primary Charger"
+      },
+      {
+        "chance": 0.05,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Grace"
+      },
+      {
+        "chance": 0.05,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Energize"
+      },
+      {
+        "chance": 0.05,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Barrier"
+      },
+      {
+        "chance": 0.0529,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0529,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.0529,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Aegis"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Guardian"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.057,
+        "location": "Mars/Tyana Pass (Defense), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Double Back"
+      },
+      {
+        "chance": 0.057,
+        "location": "Mars/Tyana Pass (Defense), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Steadfast"
+      },
+      {
+        "chance": 0.0592,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.06,
+        "location": "Duviri/Endless: Tier 6 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Reaper"
+      },
+      {
+        "chance": 0.06,
+        "location": "Duviri/Endless: Tier 6 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.06,
+        "location": "Duviri/Endless: Tier 7 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Reaper"
+      },
+      {
+        "chance": 0.06,
+        "location": "Duviri/Endless: Tier 7 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.066,
+        "location": "Sister Of Parvos (Ascension Mode)",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice Storm"
+      },
+      {
+        "chance": 0.066,
+        "location": "Sister Of Parvos (Ascension Mode)",
+        "rarity": "Uncommon",
+        "type": "Arcane Battery"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.0678,
+        "location": "Eidolon Teralyst",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.069,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.069,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.069,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Guardian"
+      },
+      {
+        "chance": 0.069,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.069,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.069,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.069,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.069,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.0702,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Rare",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.0794,
+        "location": "Lua/Circulus (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Arcane Rise"
+      },
+      {
+        "chance": 0.0851,
+        "location": "Temporal Archimedea Gold Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Escapist"
+      },
+      {
+        "chance": 0.0851,
+        "location": "Temporal Archimedea Gold Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Hot Shot"
+      },
+      {
+        "chance": 0.0851,
+        "location": "Temporal Archimedea Gold Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Universal Fallout"
+      },
+      {
+        "chance": 0.0876,
+        "location": "Temporal Archimedea Silver Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Escapist"
+      },
+      {
+        "chance": 0.0876,
+        "location": "Temporal Archimedea Silver Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Hot Shot"
+      },
+      {
+        "chance": 0.0876,
+        "location": "Temporal Archimedea Silver Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Universal Fallout"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Duviri/Endless: Repeated Rewards (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Duviri/Endless: Repeated Rewards (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Intention"
+      },
+      {
+        "chance": 0.0925,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.0925,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0925,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0925,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.1019,
+        "location": "Duviri Static Undercroft Portal (Steel Path)",
+        "rarity": "Uncommon",
+        "type": "Arcane Intention"
+      },
+      {
+        "chance": 0.1019,
+        "location": "Duviri Static Undercroft Portal (Steel Path)",
+        "rarity": "Uncommon",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.102,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.102,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.102,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.102,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.102,
+        "location": "Lua/Circulus (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Blessing"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.1124,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.1124,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.117,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.1192,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Guardian"
+      },
+      {
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Apex",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Apex",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Apex",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Apex",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Apex",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Efervon Tank",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Efervon Tank",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Efervon Tank",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Efervon Tank",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Efervon Tank",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Antivirus Bounty (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Antivirus Bounty (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Antivirus Bounty (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Antivirus Bounty (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Antivirus Bounty (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Scaldra (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Scaldra (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Scaldra (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Scaldra (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Scaldra (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Techrot (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Techrot (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Techrot (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Techrot (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Techrot (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "Scaldra Screamer",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "Scaldra Screamer",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "Scaldra Screamer",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "Scaldra Screamer",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "Scaldra Screamer",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.1274,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.1274,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.1366,
+        "location": "Temporal Archimedea Legendary Rewards",
+        "rarity": "Uncommon",
+        "type": "Arcane Escapist"
+      },
+      {
+        "chance": 0.1366,
+        "location": "Temporal Archimedea Legendary Rewards",
+        "rarity": "Uncommon",
+        "type": "Arcane Hot Shot"
+      },
+      {
+        "chance": 0.1366,
+        "location": "Temporal Archimedea Legendary Rewards",
+        "rarity": "Uncommon",
+        "type": "Arcane Universal Fallout"
+      },
+      {
+        "chance": 0.1376,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.1376,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.1376,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.1463,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.1463,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.1568,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Guardian"
+      },
+      {
+        "chance": 0.1568,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.1679,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.1825,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.1825,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.185,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.2,
+        "location": "Sister Of Parvos (Ascension Hard Mode)",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice Storm"
+      },
+      {
+        "chance": 0.2,
+        "location": "Sister Of Parvos (Ascension Hard Mode)",
+        "rarity": "Uncommon",
+        "type": "Arcane Battery"
+      },
+      {
+        "chance": 0.2024,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.2223,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.2478,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.3333,
+        "location": "Duviri/Endless: Tier 2 (Hard)",
+        "rarity": "Common",
+        "type": "Arcane Reaper"
+      },
+      {
+        "chance": 0.3333,
+        "location": "Duviri/Endless: Tier 8 (Hard)",
+        "rarity": "Common",
+        "type": "Arcane Reaper"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PermaComboOnFinisherSub",
+    "category": "Arcanes",
+    "type": "Arcane",
+    "imageName": "arcane.png",
+    "rarity": null,
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.0141,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Grace"
+      },
+      {
+        "chance": 0.0141,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Energize"
+      },
+      {
+        "chance": 0.0141,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Barrier"
+      },
+      {
+        "chance": 0.0278,
+        "location": "Duviri Static Undercroft Portal (Steel Path)",
+        "rarity": "Rare",
+        "type": "Arcane Reaper"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Aegis"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.0333,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.0333,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Aegis"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 1 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Intention"
+      },
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 1 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 3 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Intention"
+      },
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 3 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 4 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Intention"
+      },
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 4 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation A",
+        "rarity": "Rare",
+        "type": "Arcane Pistoleer"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation A",
+        "rarity": "Rare",
+        "type": "Arcane Tanker"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation A",
+        "rarity": "Rare",
+        "type": "Arcane Bodyguard"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation B",
+        "rarity": "Rare",
+        "type": "Arcane Bodyguard"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation B",
+        "rarity": "Rare",
+        "type": "Arcane Blade Charger"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation B",
+        "rarity": "Rare",
+        "type": "Arcane Primary Charger"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Pistoleer"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Tanker"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Blade Charger"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Primary Charger"
+      },
+      {
+        "chance": 0.05,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Grace"
+      },
+      {
+        "chance": 0.05,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Energize"
+      },
+      {
+        "chance": 0.05,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Barrier"
+      },
+      {
+        "chance": 0.0529,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0529,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.0529,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Aegis"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Guardian"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.057,
+        "location": "Mars/Tyana Pass (Defense), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Double Back"
+      },
+      {
+        "chance": 0.057,
+        "location": "Mars/Tyana Pass (Defense), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Steadfast"
+      },
+      {
+        "chance": 0.0592,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.06,
+        "location": "Duviri/Endless: Tier 6 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Reaper"
+      },
+      {
+        "chance": 0.06,
+        "location": "Duviri/Endless: Tier 6 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.06,
+        "location": "Duviri/Endless: Tier 7 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Reaper"
+      },
+      {
+        "chance": 0.06,
+        "location": "Duviri/Endless: Tier 7 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.066,
+        "location": "Sister Of Parvos (Ascension Mode)",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice Storm"
+      },
+      {
+        "chance": 0.066,
+        "location": "Sister Of Parvos (Ascension Mode)",
+        "rarity": "Uncommon",
+        "type": "Arcane Battery"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.0678,
+        "location": "Eidolon Teralyst",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.069,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.069,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.069,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Guardian"
+      },
+      {
+        "chance": 0.069,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.069,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.069,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.069,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.069,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.0702,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Rare",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.0794,
+        "location": "Lua/Circulus (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Arcane Rise"
+      },
+      {
+        "chance": 0.0851,
+        "location": "Temporal Archimedea Gold Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Escapist"
+      },
+      {
+        "chance": 0.0851,
+        "location": "Temporal Archimedea Gold Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Hot Shot"
+      },
+      {
+        "chance": 0.0851,
+        "location": "Temporal Archimedea Gold Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Universal Fallout"
+      },
+      {
+        "chance": 0.0876,
+        "location": "Temporal Archimedea Silver Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Escapist"
+      },
+      {
+        "chance": 0.0876,
+        "location": "Temporal Archimedea Silver Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Hot Shot"
+      },
+      {
+        "chance": 0.0876,
+        "location": "Temporal Archimedea Silver Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Universal Fallout"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Duviri/Endless: Repeated Rewards (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Duviri/Endless: Repeated Rewards (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Intention"
+      },
+      {
+        "chance": 0.0925,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.0925,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0925,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0925,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.1019,
+        "location": "Duviri Static Undercroft Portal (Steel Path)",
+        "rarity": "Uncommon",
+        "type": "Arcane Intention"
+      },
+      {
+        "chance": 0.1019,
+        "location": "Duviri Static Undercroft Portal (Steel Path)",
+        "rarity": "Uncommon",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.102,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.102,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.102,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.102,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.102,
+        "location": "Lua/Circulus (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Blessing"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.1124,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.1124,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.117,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.1192,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Guardian"
+      },
+      {
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Apex",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Apex",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Apex",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Apex",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Apex",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Efervon Tank",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Efervon Tank",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Efervon Tank",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Efervon Tank",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Efervon Tank",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Antivirus Bounty (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Antivirus Bounty (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Antivirus Bounty (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Antivirus Bounty (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Antivirus Bounty (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Scaldra (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Scaldra (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Scaldra (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Scaldra (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Scaldra (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Techrot (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Techrot (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Techrot (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Techrot (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Techrot (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "Scaldra Screamer",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "Scaldra Screamer",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "Scaldra Screamer",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "Scaldra Screamer",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "Scaldra Screamer",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.1274,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.1274,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.1366,
+        "location": "Temporal Archimedea Legendary Rewards",
+        "rarity": "Uncommon",
+        "type": "Arcane Escapist"
+      },
+      {
+        "chance": 0.1366,
+        "location": "Temporal Archimedea Legendary Rewards",
+        "rarity": "Uncommon",
+        "type": "Arcane Hot Shot"
+      },
+      {
+        "chance": 0.1366,
+        "location": "Temporal Archimedea Legendary Rewards",
+        "rarity": "Uncommon",
+        "type": "Arcane Universal Fallout"
+      },
+      {
+        "chance": 0.1376,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.1376,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.1376,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.1463,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.1463,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.1568,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Guardian"
+      },
+      {
+        "chance": 0.1568,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.1679,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.1825,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.1825,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.185,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.2,
+        "location": "Sister Of Parvos (Ascension Hard Mode)",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice Storm"
+      },
+      {
+        "chance": 0.2,
+        "location": "Sister Of Parvos (Ascension Hard Mode)",
+        "rarity": "Uncommon",
+        "type": "Arcane Battery"
+      },
+      {
+        "chance": 0.2024,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.2223,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.2478,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.3333,
+        "location": "Duviri/Endless: Tier 2 (Hard)",
+        "rarity": "Common",
+        "type": "Arcane Reaper"
+      },
+      {
+        "chance": 0.3333,
+        "location": "Duviri/Endless: Tier 8 (Hard)",
+        "rarity": "Common",
+        "type": "Arcane Reaper"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Acceleration",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongGunSpeedOnCrit",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-acceleration-55ddddd57b.png",
+    "rarity": "Uncommon",
+    "description": "On critical hit, 5% / 10% / 15% / 20% chance\nto give 15% / 30% / 45% / 60% Fire Rate to Rifles\nfor 1.5 / 3 / 4.5 / 6 Seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.069,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.0925,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Acceleration"
+      },
+      {
+        "chance": 0.102,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Acceleration"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Aegis",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/GolemArcaneShieldRegenOnDamage",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-aegis-29a1aa402c.png",
+    "rarity": "Rare",
+    "description": "When DAMAGED 1.5% / 3% / 4.5% / 6% chance\nto give 15 / 30 / 45 / 60 Shield Regen per sec\nfor 5 / 10 / 15 / 20 Seconds",
+    "drops": [
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Aegis"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Aegis"
+      },
+      {
+        "chance": 0.0529,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Aegis"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Agility",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SpeedOnDamage",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-agility-ad41572e0e.png",
+    "rarity": "Uncommon",
+    "description": "When DAMAGED 3% / 6% / 9% / 16% chance \nto give 10% / 20% / 30% / 40% Movement Speed\nfor2 / 4 / 6 / 8 Seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.0925,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Agility"
+      },
+      {
+        "chance": 0.102,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Agility"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Arachne",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneBonusDamageOnWallLatch",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-arachne-f5da7c069e.png",
+    "rarity": "Rare",
+    "description": "On WALL LATCH, 15% / 30% / 45% / 60% chance \nfor 100% Bonus Damage\n onNext Hit",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.0333,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.1274,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Arachne"
+      },
+      {
+        "chance": 0.1376,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Arachne"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Avenger",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/CritChanceOnDamage",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-avenger-16b7a3509d.png",
+    "rarity": "Rare",
+    "description": "When DAMAGED 3.5% / 7% / 10.5% / 14% chance\nfor 7.5% / 15% / 22.5% / 30% Additive Critical Chance\nfor 2 / 4 / 6 / 8 Seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.0333,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.1124,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Avenger"
+      },
+      {
+        "chance": 0.117,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Avenger"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Awakening",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/PistolDamageOnReload",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-awakening-c7f13bda7b.png",
+    "rarity": "Uncommon",
+    "description": "On RELOAD 10% / 20% / 30% / 40% chance\nto add 25% / 50% / 75% / 100% Damage to Secondaries\n for 4 / 8 / 12 / 16 Seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.069,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.1463,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Awakening"
+      },
+      {
+        "chance": 0.1825,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Awakening"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Barrier",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/InstantShieldOnDamage",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-barrier-96d58a6f43.png",
+    "rarity": "Legendary",
+    "description": "When DAMAGED, 1% / 2% / 3% / 4% chance to Full Shield Recovery",
+    "drops": [
+      {
+        "chance": 0.0141,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Barrier"
+      },
+      {
+        "chance": 0.05,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Barrier"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Battery",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MaxEnergyForArmor",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-battery-f06aeedb80.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.066,
+        "location": "Sister Of Parvos (Ascension Mode)",
+        "rarity": "Uncommon",
+        "type": "Arcane Battery"
+      },
+      {
+        "chance": 0.2,
+        "location": "Sister Of Parvos (Ascension Hard Mode)",
+        "rarity": "Uncommon",
+        "type": "Arcane Battery"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Bellicose",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthForMaxHealth",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-bellicose-525115aed7.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.125,
+        "location": "H-09 Apex",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Efervon Tank",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Antivirus Bounty (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Scaldra (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Techrot (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      },
+      {
+        "chance": 0.125,
+        "location": "Scaldra Screamer",
+        "rarity": "Uncommon",
+        "type": "Arcane Bellicose"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Blade Charger",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDmgOnRifleKill",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-blade-charger-1473f63483.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation B",
+        "rarity": "Rare",
+        "type": "Arcane Blade Charger"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Blade Charger"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Blessing",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/IncreaseMaxHealthOnHealthPickup",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-blessing-3ce40eaf28.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.102,
+        "location": "Lua/Circulus (Survival), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Blessing"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Bodyguard",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HealCompanionOnSixMeleeKills",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-bodyguard-1d56402c26.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation A",
+        "rarity": "Rare",
+        "type": "Arcane Bodyguard"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation B",
+        "rarity": "Rare",
+        "type": "Arcane Bodyguard"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Camisado",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnSummonAttack",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-camisado-9a22b4b62e.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.125,
+        "location": "H-09 Apex",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Efervon Tank",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Antivirus Bounty (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Scaldra (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Techrot (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      },
+      {
+        "chance": 0.125,
+        "location": "Scaldra Screamer",
+        "rarity": "Uncommon",
+        "type": "Arcane Camisado"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Circumvent",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/StealDefensiveStatsOnRoll",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-circumvent-7298c5df32.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Concentration",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityDurationOnCast",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-concentration-79526afa88.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Consequence",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneAimGlideOnHeadshot",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-consequence-9198d9410b.png",
+    "rarity": "Uncommon",
+    "description": "On headshot, 25% / 50% / 75% / 100% chance\nto give 10% / 20% / 30% / 40% increased Aim Glide/Wall Latch\n for 3 / 6 / 9 / 12 Seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Consequence"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Crepuscular",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStrengthAndCritDamageWhenInvisible",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-crepuscular-f326181403.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.125,
+        "location": "H-09 Apex",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Efervon Tank",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Antivirus Bounty (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Scaldra (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Techrot (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      },
+      {
+        "chance": 0.125,
+        "location": "Scaldra Screamer",
+        "rarity": "Uncommon",
+        "type": "Arcane Crepuscular"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Defense",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/PunctureProcResist",
+    "category": "Arcanes",
+    "type": "Arcane",
+    "imageName": "arcane-defense-5fe39e6578.png",
+    "rarity": null,
+    "description": null,
+    "drops": [],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Deflection",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SlashProcResist",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-deflection-b5ed7ff588.png",
+    "rarity": "Uncommon",
+    "description": "20% / 40% / 60% / 80% chance to Resist Slash proc",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Deflection"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Detoxifier",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/PoisonProcResist",
+    "category": "Arcanes",
+    "type": "Arcane",
+    "imageName": "arcane-detoxifier-41359a1752.png",
+    "rarity": null,
+    "description": null,
+    "drops": [],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Double Back",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/DamageResistanceStacksOverTime",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-double-back-e3cac2a58c.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.057,
+        "location": "Mars/Tyana Pass (Defense), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Double Back"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Energize",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneRadialEnergyOnEnergyPickup",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-energize-0a955c2bcd.png",
+    "rarity": "Legendary",
+    "description": "On energy pickup, 10% / 20% / 30% / 40% chance\nto replenish  25 / 50 / 75 / 100 energy to nearby allies\nwithin 5 / 10 / 15 / 20 Meters",
+    "drops": [
+      {
+        "chance": 0.0141,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Energize"
+      },
+      {
+        "chance": 0.05,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Energize"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Eruption",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RadialKnockdownOnEnergyPickup",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-eruption-8c1455576d.png",
+    "rarity": "Uncommon",
+    "description": "On energy pickup, 5% / 10% / 15% / 20% chance\nto Knockdown nearby Enemies\nwithin 5 / 10 / 15 / 20 Meters",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.0925,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Eruption"
+      },
+      {
+        "chance": 0.102,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Eruption"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Escapist",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/InvulnerabilityOnDeathOnMercyKill",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-escapist-c82d67eff9.png",
+    "rarity": "Legendary",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.0851,
+        "location": "Temporal Archimedea Gold Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Escapist"
+      },
+      {
+        "chance": 0.0876,
+        "location": "Temporal Archimedea Silver Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Escapist"
+      },
+      {
+        "chance": 0.1366,
+        "location": "Temporal Archimedea Legendary Rewards",
+        "rarity": "Uncommon",
+        "type": "Arcane Escapist"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Expertise",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ShieldMaxForAbilityStrength",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-expertise-8f809ad041.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Fury",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneMeleeDamageOnCrit",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-fury-96782e15fe.png",
+    "rarity": "Rare",
+    "description": "On critical hit, 10% / 20% / 30% / 40% chance\n to give 30% / 60% / 90% / 120% increased Damage on Melee\n for 3 / 6 / 9 / 12 seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.1124,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.1376,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Fury"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Fury",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDamageOnCrit",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-fury-0168c51290.png",
+    "rarity": "Uncommon",
+    "description": "On critical hit, 10% / 20% / 30% / 40% chance\n to give 30% / 60% / 90% / 120% increased Damage on Melee\n for 3 / 6 / 9 / 12 seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.1124,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Fury"
+      },
+      {
+        "chance": 0.1376,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Fury"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Grace",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/HealthRegenOnDamage",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-grace-b93128d0fe.png",
+    "rarity": "Legendary",
+    "description": "When damaged, 1.5% / 3% / 4.5% / 6% chance\nfor 1% / 2% / 3% / 4% Health Regen/sec for 1.5 / 3 / 4.5 / 6 seconds",
+    "drops": [
+      {
+        "chance": 0.0141,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Grace"
+      },
+      {
+        "chance": 0.05,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Grace"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Guardian",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ArmourOnDamage",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-guardian-e3a8d4cb18.png",
+    "rarity": "Uncommon",
+    "description": "When damaged, 5% / 10% / 15% / 20% chance\nto give 150 / 300 / 450 / 600 Armor\n for 5 / 10 / 15 / 20 seconds",
+    "drops": [
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Guardian"
+      },
+      {
+        "chance": 0.069,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Guardian"
+      },
+      {
+        "chance": 0.1192,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Guardian"
+      },
+      {
+        "chance": 0.1568,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Guardian"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Healing",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadiationProcResist",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-healing-b39a4b17b1.png",
+    "rarity": "Uncommon",
+    "description": "20% / 40% / 60% / 80% chance to resist Radiation proc",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.069,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Hot Shot",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityHeatProcsGiveCritChance",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-hot-shot-b41b75d96e.png",
+    "rarity": "Legendary",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.0851,
+        "location": "Temporal Archimedea Gold Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Hot Shot"
+      },
+      {
+        "chance": 0.0876,
+        "location": "Temporal Archimedea Silver Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Hot Shot"
+      },
+      {
+        "chance": 0.1366,
+        "location": "Temporal Archimedea Legendary Rewards",
+        "rarity": "Uncommon",
+        "type": "Arcane Hot Shot"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Ice",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/FireProcResist",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-ice-67762cd667.png",
+    "rarity": "Uncommon",
+    "description": "20% / 40% / 60% / 80% chance to resist Heat proc",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.066,
+        "location": "Sister Of Parvos (Ascension Mode)",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice Storm"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
+      },
+      {
+        "chance": 0.2,
+        "location": "Sister Of Parvos (Ascension Hard Mode)",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice Storm"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Ice Storm",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityPowerOnFreeze",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-ice-storm-e6fc32cbe0.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.066,
+        "location": "Sister Of Parvos (Ascension Mode)",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice Storm"
+      },
+      {
+        "chance": 0.2,
+        "location": "Sister Of Parvos (Ascension Hard Mode)",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice Storm"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Impetus",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStatusProcsGiveAbilityStrengthAndEfficiency",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-impetus-0262299394.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.125,
+        "location": "H-09 Apex",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Efervon Tank",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Antivirus Bounty (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Scaldra (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Techrot (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      },
+      {
+        "chance": 0.125,
+        "location": "Scaldra Screamer",
+        "rarity": "Uncommon",
+        "type": "Arcane Impetus"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Intention",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/HealthWhileUsingChanneledAbilities",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-intention-4e93152744.png",
+    "rarity": "Uncommon",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 1 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Intention"
+      },
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 3 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Intention"
+      },
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 4 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Intention"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Duviri/Endless: Repeated Rewards (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Intention"
+      },
+      {
+        "chance": 0.1019,
+        "location": "Duviri Static Undercroft Portal (Steel Path)",
+        "rarity": "Uncommon",
+        "type": "Arcane Intention"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Liquid",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/GasProcResist",
+    "category": "Arcanes",
+    "type": "Arcane",
+    "imageName": "arcane-liquid-ffa34aff02.png",
+    "rarity": null,
+    "description": null,
+    "drops": [],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Momentum",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneSniperSpeedOnCrit",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-momentum-2cb3bc0daa.png",
+    "rarity": "Common",
+    "description": "On critical hit, 10% / 20% / 30% / 40% chance\nto give 25% / 50% / 75% / 100% Fire Rate on Snipers\nfor 2 / 4 / 6 / 8 seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Momentum"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Momentum"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Nullifier",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/MagneticProcResist",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-nullifier-906d621c39.png",
+    "rarity": "Uncommon",
+    "description": "20% / 40% / 60% / 80% chance to resist Magnetic proc",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Nullifier"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Nullifier"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Persistence",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/MaxDPSTakenForArmour",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-persistence-e3633fae11.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Phantasm",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SpeedOnParry",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-phantasm-e9318a9e42.png",
+    "rarity": "Uncommon",
+    "description": "On PARRY 4% / 8% / 12% / 16% chance\nto give 5% / 10% / 15% / 20 increased Movement Speed\nfor 3 / 6 / 9 / 12 seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.0925,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Phantasm"
+      },
+      {
+        "chance": 0.102,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Phantasm"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Pistoleer",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AmmoEfficiencyOnPistolHeadshot",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-pistoleer-5126ae6bc6.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation A",
+        "rarity": "Rare",
+        "type": "Arcane Pistoleer"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Pistoleer"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Power Ramp",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnCast",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-power-ramp-3fb19bde4d.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 1 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 3 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.0443,
+        "location": "Duviri/Endless: Tier 4 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.06,
+        "location": "Duviri/Endless: Tier 6 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.06,
+        "location": "Duviri/Endless: Tier 7 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.0909,
+        "location": "Duviri/Endless: Repeated Rewards (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Power Ramp"
+      },
+      {
+        "chance": 0.1019,
+        "location": "Duviri Static Undercroft Portal (Steel Path)",
+        "rarity": "Uncommon",
+        "type": "Arcane Power Ramp"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Precision",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolDamageOnHeadshot",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-precision-3679491726.png",
+    "rarity": "Rare",
+    "description": "On headshot, 20% / 40% / 60% / 80% chance\nto give 30% / 60% / 90% / 120% increased damage on secondaries\n for 2 / 4 / 6 / 8 seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.0592,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Precision"
+      },
+      {
+        "chance": 0.0702,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Rare",
+        "type": "Arcane Precision"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Primary Charger",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDmgOnMeleeKill",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-primary-charger-5e33666e11.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation B",
+        "rarity": "Rare",
+        "type": "Arcane Primary Charger"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Primary Charger"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Protection",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/CorrosiveProcResist",
+    "category": "Arcanes",
+    "type": "Arcane",
+    "imageName": "arcane-protection-6b8bd2928c.png",
+    "rarity": "Uncommon",
+    "description": null,
+    "drops": [],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Pulse",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RadialHealOnHealthPickup",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-pulse-bc2db7f0f3.png",
+    "rarity": "Rare",
+    "description": "On health pickup, 5% / 10% / 15% / 20% chance\nto heals 25 / 50 / 75 / 100 to nearby Allies\n within 5 / 10 / 15 / 20 meters",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.0529,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Pulse"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Pulse"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Rage",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongGunDamageOnHeadshot",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-rage-f05cd57b09.png",
+    "rarity": "Rare",
+    "description": "On headshot, 2.5% / 5% / 7.5% / 10% chance\n to give 30% / 60% / 90% / 120% increased Damage on Primaries\nfor 4 / 8 / 12 / 16 seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.1274,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.1376,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Rage"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Reaper",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealthRegenAndArmorOnMeleeKill",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-reaper-4a6d3e1323.png",
+    "rarity": "Legendary",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.0278,
+        "location": "Duviri Static Undercroft Portal (Steel Path)",
+        "rarity": "Rare",
+        "type": "Arcane Reaper"
+      },
+      {
+        "chance": 0.06,
+        "location": "Duviri/Endless: Tier 6 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Reaper"
+      },
+      {
+        "chance": 0.06,
+        "location": "Duviri/Endless: Tier 7 (Hard)",
+        "rarity": "Rare",
+        "type": "Arcane Reaper"
+      },
+      {
+        "chance": 0.3333,
+        "location": "Duviri/Endless: Tier 2 (Hard)",
+        "rarity": "Common",
+        "type": "Arcane Reaper"
+      },
+      {
+        "chance": 0.3333,
+        "location": "Duviri/Endless: Tier 8 (Hard)",
+        "rarity": "Common",
+        "type": "Arcane Reaper"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Resistance",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ElectricityProcResist",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-resistance-98b7ee0ea9.png",
+    "rarity": "Uncommon",
+    "description": "20% / 40% / 60% / 80% chance to resist Electricity proc",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.0678,
+        "location": "Eidolon Teralyst",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.069,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Resistance"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Rise",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/LongGunDamageOnReload",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-rise-bbb49fb2c1.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.0794,
+        "location": "Lua/Circulus (Survival), Rotation B",
+        "rarity": "Rare",
+        "type": "Arcane Rise"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Shield",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ImpactProcResist",
+    "category": "Arcanes",
+    "type": "Arcane",
+    "imageName": "arcane-shield-b19bf69aac.png",
+    "rarity": "Uncommon",
+    "description": null,
+    "drops": [],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Steadfast",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/NoCostCastChanceAbility1Listener",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-steadfast-c83e3e9605.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.057,
+        "location": "Mars/Tyana Pass (Defense), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Steadfast"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Steadfast",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/NoCostCastChanceAbility2Listener",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-steadfast-5e1f282a3b.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.057,
+        "location": "Mars/Tyana Pass (Defense), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Steadfast"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Steadfast",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/NoCostCastChanceAbility3Listener",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-steadfast-672c0271fc.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.057,
+        "location": "Mars/Tyana Pass (Defense), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Steadfast"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Steadfast",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/NoCostCastChanceAbility4Listener",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-steadfast-a2bc8e6caf.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.057,
+        "location": "Mars/Tyana Pass (Defense), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Steadfast"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Steadfast",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/NoCostCastChanceOnCast",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-steadfast-4a3aff6ff8.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.057,
+        "location": "Mars/Tyana Pass (Defense), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Steadfast"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Strike",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeSpeedOnHit",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-strike-68cede4c21.png",
+    "rarity": "Uncommon",
+    "description": "On HIT 2.5% / 5% / 7.5% / 10% chance\nto give 10% / 20% / 30% / 40% Attack Speed on Melee\nfor3 / 6 / 9 / 12 seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.069,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.1463,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Strike"
+      },
+      {
+        "chance": 0.1825,
+        "location": "Eidolon Gantulyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Strike"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Survival",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/SlowerBleedOutOnPredeath",
+    "category": "Arcanes",
+    "type": "Arcane",
+    "imageName": "arcane-survival-fec1d6f99c.png",
+    "rarity": null,
+    "description": null,
+    "drops": [],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Tanker",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ArmorOnHeavyGunEquipped",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-tanker-ca7b106d7a.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation A",
+        "rarity": "Rare",
+        "type": "Arcane Tanker"
+      },
+      {
+        "chance": 0.05,
+        "location": "Arbitrations, Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Tanker"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Temperance",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/DamageReductionDuringRevive",
+    "category": "Arcanes",
+    "type": "Arcane",
+    "imageName": "arcane-temperance-ef6a5a17b3.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Tempo",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneShotgunSpeedOnCrit",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-tempo-d9058ff548.png",
+    "rarity": "Common",
+    "description": "On critical hit, 2.5% / 5% / 7.5% / 10% chance\nto give 15% / 30% / 45% / 60% increased Fire Rate on Shotguns\nfor 2 / 4 / 6 / 8 Seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.1568,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Tempo"
+      },
+      {
+        "chance": 0.185,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Tempo"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Trickery",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/InvisibilityOnFinisher",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-trickery-92489bb5ad.png",
+    "rarity": "Uncommon",
+    "description": "On finisher, 2.5% / 5% / 7.5% / 10% chance\nto go invisible\nfor 5 / 10 / 15 / 20 seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.069,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.2024,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Trickery"
+      },
+      {
+        "chance": 0.2478,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Trickery"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Truculence",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadialViralAttackOnOverguardGain",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-truculence-6a619c18f4.png",
+    "rarity": "Rare",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.125,
+        "location": "H-09 Apex",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.125,
+        "location": "H-09 Efervon Tank",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Antivirus Bounty (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Scaldra (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.125,
+        "location": "Höllvania/Exterminate: Techrot (Caches)",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      },
+      {
+        "chance": 0.125,
+        "location": "Scaldra Screamer",
+        "rarity": "Uncommon",
+        "type": "Arcane Truculence"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Ultimatum",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneArmorOnFinisher",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-ultimatum-9cd6eba010.png",
+    "rarity": "Rare",
+    "description": "On finisher, 25% / 50% / 75% / 100% chance\to give 150 / 300 / 450 / 600 Armor\nfor 10 / 20 / 30 / 40 seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0282,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0345,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0529,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Ultimatum"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Universal Fallout",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityRadiationProcsCreateUniversalOrbsOnKill",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-universal-fallout-5414315aab.png",
+    "rarity": "Legendary",
+    "description": null,
+    "drops": [
+      {
+        "chance": 0.0851,
+        "location": "Temporal Archimedea Gold Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Universal Fallout"
+      },
+      {
+        "chance": 0.0876,
+        "location": "Temporal Archimedea Silver Rewards",
+        "rarity": "Rare",
+        "type": "Arcane Universal Fallout"
+      },
+      {
+        "chance": 0.1366,
+        "location": "Temporal Archimedea Legendary Rewards",
+        "rarity": "Uncommon",
+        "type": "Arcane Universal Fallout"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Velocity",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolSpeedOnCrit",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-velocity-b54e371b7d.png",
+    "rarity": "Uncommon",
+    "description": "On critical hit, 15% / 30% / 45% / 60% chance\nto give 20% / 40% / 60% / 80% increased fire rate on Secondaries\nfor 1.5 / 3 / 4.5 / 6 seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.0667,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.1679,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Velocity"
+      },
+      {
+        "chance": 0.2223,
+        "location": "Eidolon Hydrolyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Velocity"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Victory",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HealthRegenOnHeadshot",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-victory-930d966215.png",
+    "rarity": "Uncommon",
+    "description": "On headshot, 2% / 4% / 6% / 8% chance\nto give 0.5% / 1.0% / 1.5% / 2.0% Health Regen/sec\nfor 2 / 4 / 6 / 8 seconds",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.0563,
+        "location": "Veil/Erato (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Victory"
+      },
+      {
+        "chance": 0.069,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Rare",
+        "type": "Arcane Victory"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "name": "Arcane Warmth",
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/FreezeProcResist",
+    "category": "Arcanes",
+    "type": "Warframe Arcane",
+    "imageName": "arcane-warmth-755ba05d99.png",
+    "rarity": "Uncommon",
+    "description": "20% / 40% / 60% / 80% chance to resist Cold proc",
+    "drops": [
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 1 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.0067,
+        "location": "Duviri/Endless: Tier 3 (Normal)",
+        "rarity": "Legendary",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.04,
+        "location": "Duviri/Endless: Tier 9 (Normal)",
+        "rarity": "Rare",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.0714,
+        "location": "Duviri Static Undercroft Portal",
+        "rarity": "Rare",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.1,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.1034,
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Warmth"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Warmth"
+      }
+    ],
+    "tradable": true,
+    "masterable": false
+  }
+]
