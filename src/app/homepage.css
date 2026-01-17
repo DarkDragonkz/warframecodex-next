@@ -17,6 +17,7 @@
 .landing-page {
   min-height: 100vh;
   min-height: 100dvh;
+  height: 100dvh;
   width: 100vw;
   background:
     radial-gradient(900px 520px at 15% 12%, rgba(123, 140, 255, 0.22), transparent 60%),
@@ -69,7 +70,8 @@
 }
 
 @media (max-width: 900px) {
-  .landing-content { padding: 24px 16px 96px; gap: 24px; }
+  .landing-page { padding-bottom: calc(72px + env(safe-area-inset-bottom)); }
+  .landing-content { padding: 24px 16px calc(96px + env(safe-area-inset-bottom)); gap: 24px; }
   .landing-header { gap: 12px; }
   .landing-title { font-size: 28px; letter-spacing: 4px; }
   .landing-subtitle { font-size: 11px; letter-spacing: 3px; }
