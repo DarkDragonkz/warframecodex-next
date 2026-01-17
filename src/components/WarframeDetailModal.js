@@ -438,7 +438,7 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
 
     return (
         <div className="modal-overlay" onClick={onClose}>
-            <div className={`modal-content-simple ${!isPrime && !isRelicItem ? 'base-mode' : ''}`} onClick={(e) => e.stopPropagation()}>
+            <div className={`modal-content-simple ${!isPrime && !isRelicItem ? 'base-mode' : 'prime-mode'}`} onClick={(e) => e.stopPropagation()}>
                 <button className="close-btn" onClick={onClose}>&times;</button>
 
                 <div className="modal-body">

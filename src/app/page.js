@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { IMG_BASE_URL } from '@/utils/constants';
 import { HIERARCHY } from '@/utils/categoryConfig';
 import { fetchGameData } from '@/utils/serverData';
+import MobileBottomNav from '@/components/MobileBottomNav';
 import './homepage.css';
 
 async function getCategoryCovers() {
@@ -66,12 +67,7 @@ export default async function LandingPage() {
                 </div>
             </div>
 
-            <nav className="mobile-bottom-nav">
-                <Link href="/" className="mobile-bottom-link active">Home</Link>
-                <Link href="/arsenal" className="mobile-bottom-link">Arsenal</Link>
-                <Link href="/entities" className="mobile-bottom-link">Entities</Link>
-                <Link href="/upgrades" className="mobile-bottom-link">Upgrades</Link>
-            </nav>
+            <MobileBottomNav />
         </main>
     );
 }

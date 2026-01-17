@@ -114,15 +114,15 @@
 .component-icon { position: relative; width: 24px; height: 24px; }
 .count-badge { font-size: 10px; background: rgba(8, 10, 18, 0.7); padding: 2px 6px; border-radius: 6px; border: 1px solid rgba(255,255,255,0.12); color: var(--text-soft); margin-left: auto; }
 
-/* GRIGLIA RELIQUIE */
-.relic-cards-grid { 
+/* GRIGLIA RELIQUIE (PRIME MODE) */
+.modal-content-simple.prime-mode .relic-cards-grid { 
     display: grid; 
     grid-template-columns: repeat(auto-fill, minmax(var(--relic-card-min), 1fr)); 
     gap: var(--relic-card-gap); 
 }
 
 /* CARD RELIQUIA */
-.mini-relic-card { 
+.modal-content-simple.prime-mode .mini-relic-card { 
   background: rgba(12, 14, 20, 0.9); border: 1px solid rgba(255,255,255,0.12); 
   border-radius: 10px; padding: var(--relic-card-padding); 
   display: grid; grid-template-rows: 1fr auto; align-content: stretch; justify-items: center;
@@ -130,35 +130,35 @@
   aspect-ratio: 1 / 1;
 }
 
-.mini-relic-card:hover { border-color: rgba(255,255,255,0.25); background: rgba(20, 22, 30, 0.95); transform: translateY(-2px); }
-.mini-relic-card.selected { border-color: var(--gold); background: rgba(212, 175, 55, 0.08); }
+.modal-content-simple.prime-mode .mini-relic-card:hover { border-color: rgba(255,255,255,0.25); background: rgba(20, 22, 30, 0.95); transform: translateY(-2px); }
+.modal-content-simple.prime-mode .mini-relic-card.selected { border-color: var(--gold); background: rgba(212, 175, 55, 0.08); }
 
 /* --- FIX VAULTED RELIC --- */
-.mini-relic-card.is-vaulted {
+.modal-content-simple.prime-mode .mini-relic-card.is-vaulted {
     border-color: rgba(255, 68, 68, 0.4);
     background: rgba(80, 20, 24, 0.2);
     opacity: 0.9;
 }
-.mini-relic-card.is-vaulted:hover {
+.modal-content-simple.prime-mode .mini-relic-card.is-vaulted:hover {
     background: rgba(120, 32, 40, 0.25);
     border-color: rgba(255, 68, 68, 0.65);
 }
 
-.relic-card-img { 
+.modal-content-simple.prime-mode .relic-card-img { 
   width: var(--relic-card-icon); height: var(--relic-card-icon); object-fit: contain; 
   filter: drop-shadow(0 6px 10px rgba(0,0,0,0.6)); opacity: 0.95;
 }
 
-.card-info { display: flex; flex-direction: column; align-items: center; text-align: center; gap: 2px; overflow: hidden; }
-.card-name { font-size: 12px; color: #eee; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.card-era {
+.modal-content-simple.prime-mode .card-info { display: flex; flex-direction: column; align-items: center; text-align: center; gap: 2px; overflow: hidden; }
+.modal-content-simple.prime-mode .card-name { font-size: 12px; color: #eee; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.modal-content-simple.prime-mode .card-era {
   font-size: var(--relic-era-size);
   letter-spacing: 1.2px;
   text-transform: uppercase;
   color: var(--text-soft);
   font-weight: 700;
 }
-.card-code {
+.modal-content-simple.prime-mode .card-code {
   font-size: var(--relic-code-size);
   letter-spacing: 0.6px;
   text-transform: uppercase;
@@ -166,20 +166,20 @@
   font-weight: 900;
 }
 
-.card-rarity-row { display: flex; justify-content: space-between; align-items: center; margin-top: 3px; }
+.modal-content-simple.prime-mode .card-rarity-row { display: flex; justify-content: space-between; align-items: center; margin-top: 3px; }
 
 /* RARITY DOTS */
-.card-pct { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
-.pct-common { background: #cd7f32; box-shadow: 0 0 5px #cd7f32; }
-.pct-uncommon { background: #c0c0c0; box-shadow: 0 0 5px #c0c0c0; }
-.pct-rare { background: var(--gold); box-shadow: 0 0 5px var(--gold); }
-.mini-relic-card.pct-common { border-color: rgba(205, 127, 50, 0.7); }
-.mini-relic-card.pct-uncommon { border-color: rgba(192, 192, 192, 0.7); }
-.mini-relic-card.pct-rare { border-color: rgba(212, 175, 55, 0.7); }
-.card-pct { display: none !important; }
+.modal-content-simple.prime-mode .card-pct { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+.modal-content-simple.prime-mode .pct-common { background: #cd7f32; box-shadow: 0 0 5px #cd7f32; }
+.modal-content-simple.prime-mode .pct-uncommon { background: #c0c0c0; box-shadow: 0 0 5px #c0c0c0; }
+.modal-content-simple.prime-mode .pct-rare { background: var(--gold); box-shadow: 0 0 5px var(--gold); }
+.modal-content-simple.prime-mode .mini-relic-card.pct-common { border-color: rgba(205, 127, 50, 0.7); }
+.modal-content-simple.prime-mode .mini-relic-card.pct-uncommon { border-color: rgba(192, 192, 192, 0.7); }
+.modal-content-simple.prime-mode .mini-relic-card.pct-rare { border-color: rgba(212, 175, 55, 0.7); }
+.modal-content-simple.prime-mode .card-pct { display: none !important; }
 
 /* TAG V ROSSA */
-.vaulted-mini-tag { 
+.modal-content-simple.prime-mode .vaulted-mini-tag { 
     font-size: 10px; color: #ff4444; font-weight: 900; 
     border: 1px solid rgba(255, 68, 68, 0.7); padding: 0 4px; border-radius: 3px;
     background: rgba(8, 10, 18, 0.7);

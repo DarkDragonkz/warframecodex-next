@@ -8,6 +8,7 @@ import { useOwnedItems } from '@/hooks/useOwnedItems';
 import { CATEGORY_CONFIGS } from '@/utils/clientCategories';
 import { VirtuosoGrid } from 'react-virtuoso';
 import '@/app/hud-layout.css'; 
+import MobileBottomNav from '@/components/MobileBottomNav';
 
 const WarframeDetailModal = dynamic(() => import('./WarframeDetailModal'), {
     loading: () => <div className="loading-overlay">Loading Interface...</div>,
@@ -132,10 +133,36 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
 
     const pct = rawApiData.length > 0 ? Math.round((ownedCount / rawApiData.length) * 100) : 0;
     
+    const [isMobile, setIsMobile] = useState(false);
+
+    useEffect(() => {
+        const media = window.matchMedia('(max-width: 900px)');
+        const update = () => setIsMobile(media.matches);
+        update();
+        if (media.addEventListener) media.addEventListener('change', update);
+        else media.addListener(update);
+        return () => {
+            if (media.removeEventListener) media.removeEventListener('change', update);
+            else media.removeListener(update);
+        };
+    }, []);
+
+    useEffect(() => {
+        const method = isMobile ? 'add' : 'remove';
+        document.body.classList[method]('mobile-scroll-enabled');
+        document.documentElement.classList[method]('mobile-scroll-enabled');
+        return () => {
+            document.body.classList.remove('mobile-scroll-enabled');
+            document.documentElement.classList.remove('mobile-scroll-enabled');
+        };
+    }, [isMobile]);
+
     if (loading) return <div className="loading-screen">INITIALIZING ORDIS DATABASE...</div>;
 
+    const gridStyle = isMobile ? { width: '100%' } : { height: '100%', width: '100%' };
+
     return (
-        <div className="codex-layout">
+        <div className={`codex-layout ${isMobile ? 'mobile-scroll' : ''}`}>
             <div className="header-group">
                 <div className="nav-top-row">
                     <div className="nav-brand">
@@ -204,9 +231,10 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
 
             <div className="gallery-scroll-area">
                 <VirtuosoGrid
-                    style={{ height: '100%', width: '100%' }}
+                    style={gridStyle}
                     totalCount={processedData.length}
                     overscan={200}
+                    useWindowScroll={isMobile}
                     components={{
                         List: (props) => <div {...props} className="card-gallery" />,
                         Item: (props) => <div {...props} className="card-item" />
@@ -222,12 +250,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
                 />
             </div>
 
-            <nav className="mobile-bottom-nav">
-                <Link href="/" className="mobile-bottom-link">Home</Link>
-                <Link href="/arsenal" className="mobile-bottom-link">Arsenal</Link>
-                <Link href="/entities" className="mobile-bottom-link">Entities</Link>
-                <Link href="/upgrades" className="mobile-bottom-link">Upgrades</Link>
-            </nav>
+            <MobileBottomNav />
             
             {selectedItem && (
                 <WarframeDetailModal item={selectedItem} onClose={() => setSelectedItem(null)} ownedItems={ownedCards} onToggle={toggleOwned} />

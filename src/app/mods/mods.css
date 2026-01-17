@@ -56,6 +56,19 @@
     transform: rotateY(180deg);
 }
 
+@media (max-width: 900px) {
+    .mod-card-inner {
+        box-shadow: 0 10px 28px -20px rgba(0,0,0,0.85);
+    }
+    .mod-card-wrapper:hover .mod-card-inner {
+        transform: none;
+        box-shadow: 0 10px 28px -20px rgba(0,0,0,0.85);
+    }
+    .mod-card-wrapper:hover .mod-img {
+        transform: none;
+    }
+}
+
 .no-image-placeholder {
     width: 100%;
     height: 100%;

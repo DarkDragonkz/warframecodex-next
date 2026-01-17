@@ -7,6 +7,7 @@ import { IMG_BASE_URL } from '@/utils/constants';
 import { getBasePath } from '@/utils/basePath'; 
 import '@/app/hud-layout.css'; 
 import './mods.css';
+import MobileBottomNav from '@/components/MobileBottomNav';
 
 const STORAGE_KEY = 'warframe_codex_mods_v1';
 
@@ -32,6 +33,7 @@ export default function ModsClientPage({ initialData = [] }) {
     const [rawApiData, setRawApiData] = useState([]);
     const [ownedCards, setOwnedCards] = useState(new Set());
     const [loading, setLoading] = useState(true);
+    const [isMobile, setIsMobile] = useState(false);
 
     const [currentCategory, setCurrentCategory] = useState('all');
     const [searchTerm, setSearchTerm] = useState('');
@@ -43,6 +45,28 @@ export default function ModsClientPage({ initialData = [] }) {
         const timer = setTimeout(() => { setDebouncedSearch(searchTerm); }, 300);
         return () => clearTimeout(timer);
     }, [searchTerm]);
+
+    useEffect(() => {
+        const media = window.matchMedia('(max-width: 900px)');
+        const update = () => setIsMobile(media.matches);
+        update();
+        if (media.addEventListener) media.addEventListener('change', update);
+        else media.addListener(update);
+        return () => {
+            if (media.removeEventListener) media.removeEventListener('change', update);
+            else media.removeListener(update);
+        };
+    }, []);
+
+    useEffect(() => {
+        const method = isMobile ? 'add' : 'remove';
+        document.body.classList[method]('mobile-scroll-enabled');
+        document.documentElement.classList[method]('mobile-scroll-enabled');
+        return () => {
+            document.body.classList.remove('mobile-scroll-enabled');
+            document.documentElement.classList.remove('mobile-scroll-enabled');
+        };
+    }, [isMobile]);
 
     // --- CARICAMENTO DATI ---
     useEffect(() => {
@@ -136,8 +160,10 @@ export default function ModsClientPage({ initialData = [] }) {
 
     if (loading) return <div className="loading-screen">LOADING MOD MODULES...</div>;
 
+    const gridStyle = isMobile ? { width: '100%' } : { height: '100%', width: '100%' };
+
     return (
-        <div className="codex-layout">
+        <div className={`codex-layout ${isMobile ? 'mobile-scroll' : ''}`}>
             {/* Header Group: Stessa struttura delle altre pagine */}
             <div className="header-group">
                 <div className="nav-top-row">
@@ -203,9 +229,10 @@ export default function ModsClientPage({ initialData = [] }) {
 
             <div className="gallery-scroll-area">
                 <VirtuosoGrid
-                    style={{ height: '100%', width: '100%' }}
+                    style={gridStyle}
                     totalCount={filteredData.length}
                     overscan={200}
+                    useWindowScroll={isMobile}
                     components={{
                         List: (props) => <div {...props} className="card-gallery" />,
                         Item: (props) => <div {...props} className="card-item" />
@@ -225,12 +252,7 @@ export default function ModsClientPage({ initialData = [] }) {
                 />
             </div>
 
-            <nav className="mobile-bottom-nav">
-                <Link href="/" className="mobile-bottom-link">Home</Link>
-                <Link href="/arsenal" className="mobile-bottom-link">Arsenal</Link>
-                <Link href="/entities" className="mobile-bottom-link">Entities</Link>
-                <Link href="/upgrades" className="mobile-bottom-link">Upgrades</Link>
-            </nav>
+            <MobileBottomNav />
         </div>
     );
 }
