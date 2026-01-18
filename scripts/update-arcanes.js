@@ -37,7 +37,7 @@ function fetchJson(url) {
 }
 
 async function main() {
-  const items = await fetchJson('https://api.warframestat.us/items/search/arcane');
+  const items = await fetchJson('https://api.warframestat.us/items');
   const arcanesInfo = await fetchJson('https://api.warframestat.us/arcanes');
 
   const infoByName = new Map(arcanesInfo.map((a) => [a.name, a]));

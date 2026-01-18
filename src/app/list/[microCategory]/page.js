@@ -6,6 +6,7 @@ import { fetchGameData } from '@/utils/serverData';
 import CodexListPage from '@/components/CodexListPage';
 import ModsClientPage from '@/app/mods/ModsClientPage';
 import RelicsClientPage from '@/app/relics/RelicsClientPage';
+import ArcanesClientPage from '@/app/arcanes/ArcanesClientPage';
 
 // QUESTA FUNZIONE DICE A NEXT.JS QUALI PAGINE COSTRUIRE
 export async function generateStaticParams() {
@@ -34,9 +35,13 @@ export default async function DynamicListPage({ params }) {
         data = data.filter(microCat.filter);
     }
 
-    // 3. Gestione Casi Speciali (Mods, Relics)
-    if (microCat.specialPage === 'mods' || microCat.specialPage === 'arcanes') {
-        return <ModsClientPage initialData={data} mode={microCat.specialPage} />;
+    // 3. Gestione Casi Speciali (Mods, Arcanes, Relics)
+    if (microCat.specialPage === 'mods') {
+        return <ModsClientPage initialData={data} />;
+    }
+
+    if (microCat.specialPage === 'arcanes') {
+        return <ArcanesClientPage initialData={data} />;
     }
 
     if (microCat.specialPage === 'relics') {

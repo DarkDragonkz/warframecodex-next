@@ -13,21 +13,25 @@
   --dark-glass: rgba(8, 10, 18, 0.72);
 }
 
+html,
+body {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
 /* LAYOUT BASE */
 .landing-page {
   min-height: 100vh;
+  min-height: 100svh;
   min-height: 100dvh;
-  height: 100dvh;
-  width: 100vw;
+  width: 100%;
   background:
     radial-gradient(900px 520px at 15% 12%, rgba(123, 140, 255, 0.22), transparent 60%),
     radial-gradient(700px 420px at 85% 18%, rgba(212, 175, 55, 0.16), transparent 58%),
     radial-gradient(1200px 900px at 50% 100%, rgba(35, 44, 80, 0.35), transparent 60%),
     linear-gradient(180deg, #07080f 0%, #050507 45%, #040405 100%);
   position: relative;
-  overflow-y: auto;
   overflow-x: hidden;
-  -webkit-overflow-scrolling: touch;
 }
 
 .landing-page::before {
@@ -71,13 +75,14 @@
 
 @media (max-width: 900px) {
   .landing-page { padding-bottom: calc(72px + env(safe-area-inset-bottom)); }
-  .landing-content { padding: 24px 16px calc(96px + env(safe-area-inset-bottom)); gap: 24px; }
+  .landing-content { padding: 70px 16px 70px; gap: 24px; }
   .landing-header { gap: 12px; }
   .landing-title { font-size: 28px; letter-spacing: 4px; }
   .landing-subtitle { font-size: 11px; letter-spacing: 3px; }
   .cards-scroll-container { padding-bottom: 12px; }
-  .menu-card { width: 150px !important; height: 220px !important; }
-  .card-title { font-size: 16px !important; }
+  .cards-row { justify-content: center; }
+  .menu-card { flex: 0 1 180px; width: 150px; height: 220px; }
+  .card-title { font-size: 16px; }
 }
 
 /* HEADER */
@@ -195,6 +200,7 @@
   width: 200px;
   min-height: clamp(260px, 22vw, 330px);
   transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+  -webkit-backdrop-filter: blur(16px);
   backdrop-filter: blur(16px);
   box-shadow: 0 24px 60px -35px rgba(0, 0, 0, 0.85);
 }
@@ -232,8 +238,8 @@
 .menu-card:hover,
 .menu-card:focus-visible {
   transform: translateY(-8px) scale(1.03);
-  border-color: var(--card-color);
-  box-shadow: 0 24px 60px -28px var(--card-glow);
+  border-color: var(--card-color, var(--accent));
+  box-shadow: 0 24px 60px -28px var(--card-glow, var(--glow));
 }
 
 .menu-card:hover::before,
@@ -293,7 +299,7 @@
 
 .menu-card:hover .card-content,
 .menu-card:focus-visible .card-content {
-  border-top-color: var(--card-color);
+  border-top-color: var(--card-color, var(--accent));
 }
 
 .card-title {
@@ -308,7 +314,7 @@
 
 .menu-card:hover .card-title,
 .menu-card:focus-visible .card-title {
-  color: var(--card-color);
+  color: var(--card-color, var(--accent));
 }
 
 .card-sub {
@@ -336,16 +342,9 @@
   animation: fade-rise 0.9s ease 0.2s both;
 }
 
-@media (max-width: 900px) {
-  .landing-content {
-    padding: 70px 16px 70px;
-  }
-  .cards-row {
-    justify-content: center;
-  }
+@supports not ((-webkit-backdrop-filter: blur(1px)) or (backdrop-filter: blur(1px))) {
   .menu-card {
-    flex: 0 1 180px;
-    width: 180px;
+    background: linear-gradient(160deg, rgba(18, 22, 36, 0.98), rgba(10, 12, 20, 0.96));
   }
 }
 
@@ -382,11 +381,19 @@
   to { background-position: 80px 80px, -80px -80px, 120px 120px; }
 }
 
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: reduce), (prefers-reduced-transparency: reduce) {
   .landing-page::before,
   .landing-header,
   .cards-scroll-container,
   .landing-footer {
     animation: none !important;
+  }
+  .menu-card {
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+  }
+  .card-visual-area {
+    filter: none;
+    transition: none;
   }
 }

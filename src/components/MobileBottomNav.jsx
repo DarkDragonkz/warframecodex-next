@@ -8,6 +8,7 @@ const NAV_ITEMS = [
   { href: "/arsenal", label: "Arsenal", key: "arsenal" },
   { href: "/entities", label: "Entities", key: "entities" },
   { href: "/upgrades", label: "Upgrades", key: "upgrades" },
+  { href: "/arcanes", label: "Arcanes", key: "arcanes" },
 ];
 
 function resolveActiveKey(pathname) {
@@ -18,8 +19,11 @@ function resolveActiveKey(pathname) {
   if (/^\/(entities|warframes|companions|archwings|sentinels|pets)(\/|$)/.test(pathname)) {
     return "entities";
   }
-  if (/^\/(upgrades|mods|relics|arcanes)(\/|$)/.test(pathname)) {
+  if (/^\/(upgrades|mods|relics)(\/|$)/.test(pathname)) {
     return "upgrades";
+  }
+  if (/^\/(arcanes)(\/|$)/.test(pathname)) {
+    return "arcanes";
   }
   if (/^\/list\/(primary|secondary|melee|arch-gun|arch-melee)(\/|$)/.test(pathname)) {
     return "arsenal";
@@ -27,8 +31,11 @@ function resolveActiveKey(pathname) {
   if (/^\/list\/(warframes|companions|archwings|sentinels|pets)(\/|$)/.test(pathname)) {
     return "entities";
   }
-  if (/^\/list\/(mods|relics|arcanes)(\/|$)/.test(pathname)) {
+  if (/^\/list\/(mods|relics)(\/|$)/.test(pathname)) {
     return "upgrades";
+  }
+  if (/^\/list\/(arcanes)(\/|$)/.test(pathname)) {
+    return "arcanes";
   }
   return "";
 }

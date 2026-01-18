@@ -13,8 +13,9 @@ const DB_FOLDER = path.join(process.cwd(), 'public', 'database_api');
 globalThis.dataCache = globalThis.dataCache || {};
 
 export async function fetchGameData(filename) {
+    const shouldCache = process.env.NODE_ENV === 'production';
     // 1. Controlla Cache RAM
-    if (globalThis.dataCache[filename]) {
+    if (shouldCache && globalThis.dataCache[filename]) {
         return globalThis.dataCache[filename];
     }
 
@@ -29,7 +30,9 @@ export async function fetchGameData(filename) {
         try {
             const fileContent = await fs.readFile(filePath, 'utf-8');
             const json = JSON.parse(fileContent);
-            globalThis.dataCache[filename] = json;
+            if (shouldCache) {
+                globalThis.dataCache[filename] = json;
+            }
             return json;
         } catch (e) {
             // Continua al prossimo path
