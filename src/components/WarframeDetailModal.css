@@ -154,143 +154,138 @@
     gap: 8px;
 }
 
-/* CARD RELIQUIA */
+/* CARD RELIQUIA (PRIME) */
 .modal-content-simple.prime-mode .mini-relic-card { 
   width: 100%;
   background: linear-gradient(160deg, rgba(18, 22, 36, 0.92), rgba(10, 12, 20, 0.88));
   border: 1px solid var(--panel-border);
   border-radius: 16px;
-  padding: 6px 8px 0;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  gap: 4px;
   cursor: pointer;
   position: relative;
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
   min-height: 0;
   height: 100%;
   overflow: hidden;
-  box-shadow: 0 14px 36px -28px rgba(0,0,0,0.8);
+  box-shadow: 0 18px 45px -30px rgba(0,0,0,0.8);
 }
 
-.modal-content-simple.prime-mode .mini-relic-card:hover { border-color: rgba(255,255,255,0.25); box-shadow: 0 0 24px rgba(255,255,255,0.08); }
-.modal-content-simple.prime-mode .mini-relic-card.selected { border-color: rgba(255,255,255,0.25); box-shadow: 0 0 24px rgba(255,255,255,0.08); }
+.modal-content-simple.prime-mode .mini-relic-card:hover,
+.modal-content-simple.prime-mode .mini-relic-card.selected {
+  border-color: var(--era-color, rgba(255,255,255,0.25));
+  box-shadow: 0 0 24px var(--era-glow, rgba(255,255,255,0.12));
+}
 
 /* --- FIX VAULTED RELIC --- */
 .modal-content-simple.prime-mode .mini-relic-card.is-vaulted {
-    border-color: rgba(255, 68, 68, 0.25);
-    background: linear-gradient(160deg, rgba(24, 10, 12, 0.95) 0%, rgba(8, 6, 8, 0.95) 100%);
-    opacity: 0.92;
+  border-color: rgba(255, 68, 68, 0.25);
+  background: linear-gradient(160deg, rgba(24, 10, 12, 0.95) 0%, rgba(8, 6, 8, 0.95) 100%);
+  opacity: 0.92;
 }
 .modal-content-simple.prime-mode .mini-relic-card.is-vaulted:hover {
-    background: linear-gradient(160deg, rgba(30, 12, 16, 0.95) 0%, rgba(10, 8, 10, 0.95) 100%);
-    border-color: rgba(255, 68, 68, 0.65);
+  background: linear-gradient(160deg, rgba(30, 12, 16, 0.95) 0%, rgba(10, 8, 10, 0.95) 100%);
+  border-color: rgba(255, 68, 68, 0.65);
+  box-shadow: 0 0 22px rgba(255, 68, 68, 0.18);
 }
 .modal-content-simple.prime-mode .mini-relic-card.is-vaulted .relic-card-img {
-    filter: grayscale(100%) brightness(0.6) sepia(0.2);
-    opacity: 0.8;
+  filter: grayscale(100%) brightness(0.6) sepia(0.2);
+  opacity: 0.8;
+}
+
+.modal-content-simple.prime-mode .mini-relic-era-bar {
+  height: 3px;
+  width: 100%;
+  background: var(--era-color, rgba(255,255,255,0.25));
+  box-shadow: 0 0 10px var(--era-color, rgba(255,255,255,0.2));
+}
+
+.modal-content-simple.prime-mode .mini-relic-image {
+  flex: 1 1 0;
+  min-height: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 10px 8px;
+  background: radial-gradient(circle at center, rgba(255,255,255,0.04) 0%, transparent 70%);
+  overflow: hidden;
 }
 
 .modal-content-simple.prime-mode .relic-card-img { 
-  width: 56px;
-  height: 56px;
+  width: 100%;
+  height: 100%;
   object-fit: contain;
   filter: drop-shadow(0 6px 10px rgba(0,0,0,0.55));
   opacity: 0.95;
-  margin-top: 2px;
+  max-width: 100%;
+  max-height: 100%;
+  transform: scale(0.92);
+  transition: transform 0.3s ease;
+}
+.modal-content-simple.prime-mode .relic-card-img[data-error="1"] {
+  opacity: 0;
+}
+.modal-content-simple.prime-mode .mini-relic-card:hover .relic-card-img {
+  transform: scale(1.02);
 }
 
-.modal-content-simple.prime-mode .card-info { 
+.modal-content-simple.prime-mode .mini-relic-info { 
   display: flex; 
   flex-direction: column; 
   align-items: center; 
   text-align: center; 
   gap: 3px; 
-  overflow: visible; 
   width: 100%;
+  padding: 8px 8px 10px;
   margin-top: auto;
-  padding: 8px 0 14px;
-  min-height: 58px;
+  min-height: 44px;
+  flex: 0 0 auto;
   background: linear-gradient(to top, rgba(6, 8, 14, 0.98) 0%, rgba(6, 8, 14, 0.7) 70%, transparent 100%);
   border-top: 1px solid rgba(255,255,255,0.08);
-  border-radius: 0 0 14px 14px;
 }
-.modal-content-simple.prime-mode .card-name { font-size: 12px; color: #eee; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .modal-content-simple.prime-mode .card-era {
-  font-size: 9px;
-  letter-spacing: 2px;
+  font-size: 10px;
+  letter-spacing: 1.6px;
   text-transform: uppercase;
   color: var(--era-color, var(--text-soft));
   font-weight: 800;
   opacity: 0.9;
 }
 .modal-content-simple.prime-mode .card-code {
-  font-size: 18px;
+  font-size: 22px;
   letter-spacing: 1px;
   text-transform: uppercase;
-  color: var(--text);
+  color: #f2f5ff;
   font-weight: 900;
   line-height: 1;
   text-shadow: 0 2px 5px rgba(0,0,0,0.5);
 }
 
-.modal-content-simple.prime-mode .card-rarity-row {
-  display: none;
-}
-
-.modal-content-simple.prime-mode .mini-relic-card::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 3px;
-  background: var(--era-color, rgba(255,255,255,0.25));
-  box-shadow: 0 0 10px var(--era-color, rgba(255,255,255,0.2));
-  border-radius: 16px 16px 0 0;
-}
-
-.modal-content-simple.prime-mode .mini-relic-card[data-era="Lith"] { --era-color: #a89686; }
-.modal-content-simple.prime-mode .mini-relic-card[data-era="Meso"] { --era-color: #c0c0c0; }
-.modal-content-simple.prime-mode .mini-relic-card[data-era="Neo"] { --era-color: #d4af37; }
-.modal-content-simple.prime-mode .mini-relic-card[data-era="Axi"] { --era-color: #b0c9ec; }
-.modal-content-simple.prime-mode .mini-relic-card[data-era="Requiem"] { --era-color: #ff4444; }
-
-.modal-content-simple.prime-mode .card-rarity-row { display: flex; justify-content: center; align-items: center; margin-top: 2px; }
-
-/* RARITY DOTS */
-.modal-content-simple.prime-mode .card-pct { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
-.modal-content-simple.prime-mode .pct-common { background: #cd7f32; box-shadow: 0 0 5px #cd7f32; }
-.modal-content-simple.prime-mode .pct-uncommon { background: #c0c0c0; box-shadow: 0 0 5px #c0c0c0; }
-.modal-content-simple.prime-mode .pct-rare { background: var(--gold); box-shadow: 0 0 5px var(--gold); }
-.modal-content-simple.prime-mode .mini-relic-card.pct-common:hover { border-color: rgba(205, 127, 50, 0.8); box-shadow: 0 0 12px rgba(205, 127, 50, 0.25); }
-.modal-content-simple.prime-mode .mini-relic-card.pct-uncommon:hover { border-color: rgba(192, 192, 192, 0.85); box-shadow: 0 0 12px rgba(192, 192, 192, 0.2); }
-.modal-content-simple.prime-mode .mini-relic-card.pct-rare:hover { border-color: rgba(212, 175, 55, 0.85); box-shadow: 0 0 14px rgba(212, 175, 55, 0.25); }
-.modal-content-simple.prime-mode .mini-relic-card.pct-common.selected { border-color: rgba(205, 127, 50, 0.8); box-shadow: 0 0 12px rgba(205, 127, 50, 0.25); }
-.modal-content-simple.prime-mode .mini-relic-card.pct-uncommon.selected { border-color: rgba(192, 192, 192, 0.85); box-shadow: 0 0 12px rgba(192, 192, 192, 0.2); }
-.modal-content-simple.prime-mode .mini-relic-card.pct-rare.selected { border-color: rgba(212, 175, 55, 0.85); box-shadow: 0 0 14px rgba(212, 175, 55, 0.25); }
-.modal-content-simple.prime-mode .card-pct { display: none !important; }
+.modal-content-simple.prime-mode .mini-relic-card[data-era="Lith"] { --era-color: #a89686; --era-glow: rgba(168, 150, 134, 0.3); }
+.modal-content-simple.prime-mode .mini-relic-card[data-era="Meso"] { --era-color: #c0c0c0; --era-glow: rgba(192, 192, 192, 0.3); }
+.modal-content-simple.prime-mode .mini-relic-card[data-era="Neo"] { --era-color: #d4af37; --era-glow: rgba(212, 175, 55, 0.3); }
+.modal-content-simple.prime-mode .mini-relic-card[data-era="Axi"] { --era-color: #b0c9ec; --era-glow: rgba(176, 201, 236, 0.3); }
+.modal-content-simple.prime-mode .mini-relic-card[data-era="Requiem"] { --era-color: #ff4444; --era-glow: rgba(255, 68, 68, 0.3); }
 
 /* TAG V ROSSA */
 .modal-content-simple.prime-mode .vaulted-mini-tag { 
-    font-size: 11px;
-    color: #ff6868;
-    font-weight: 900;
-    border: 1px solid rgba(255, 68, 68, 0.8);
-    padding: 2px 7px;
-    border-radius: 4px;
-    background: rgba(10, 12, 18, 0.9);
-    letter-spacing: 0.6px;
-    text-shadow: 0 0 6px rgba(255, 68, 68, 0.35);
-    display: inline-flex;
-    align-items: center;
-    line-height: 1;
-    position: absolute;
-    top: 8px;
-    left: 8px;
-    z-index: 2;
-    pointer-events: none;
+  font-size: 9px;
+  color: #ff4444;
+  font-weight: 900;
+  border: 1px solid rgba(255, 68, 68, 0.7);
+  padding: 2px 6px;
+  border-radius: 4px;
+  background: rgba(255, 68, 68, 0.12);
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  z-index: 2;
+  pointer-events: none;
 }
 
 /* --- SCROLLBAR STYLING (MATCH UI) --- */
@@ -823,7 +818,7 @@
 }
 
 .relic-cards-scroll .mini-relic-card {
-  flex: 0 0 140px;
+  flex: 0 0 var(--prime-mini-relic-width, 140px);
 }
 
 .integrated-strategy {

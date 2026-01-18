@@ -80,12 +80,17 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
                         }
                     }
 
+                    const nameLower = (item.name || '').toLowerCase();
+                    const typeLower = (item.type || '').toLowerCase();
+                    const categoryLower = (item.category || '').toLowerCase();
+
                     return {
                         ...item,
                         vaulted: computedVaulted, 
                         maxRank: item.fusionLimit || item.maxLevel || 30,
                         baseDrain: item.baseDrain || 0,
-                        polarityIcon: item.polarity ? `https://warframe.fandom.com/wiki/File:Polarity_${item.polarity.charAt(0).toUpperCase() + item.polarity.slice(1)}.png` : null 
+                        polarityIcon: item.polarity ? `https://warframe.fandom.com/wiki/File:Polarity_${item.polarity.charAt(0).toUpperCase() + item.polarity.slice(1)}.png` : null,
+                        searchStr: `${nameLower} ${typeLower} ${categoryLower}`.trim()
                     };
                 });
 
@@ -99,7 +104,7 @@ function CodexContent({ pageTitle, categoryMode, initialData = [], lookupData = 
 
     const processedData = useMemo(() => {
         return rawApiData.filter(item => {
-            if (searchValue && !item.name.toLowerCase().includes(searchValue)) return false;
+            if (searchValue && !(item.searchStr || item.name.toLowerCase()).includes(searchValue)) return false;
             
             // LOGICA 3 STATI
             const isOwned = ownedCards.has(item.uniqueName);

@@ -16,7 +16,7 @@ import useThrottledValue from '@/hooks/useThrottledValue';
 const STORAGE_KEY = 'warframe_codex_mods_v1';
 
 // --- CONFIGURAZIONE CATEGORIE (TYPE-BASED) ---
-const TABS = [
+const MOD_TABS = [
     { id: 'all', label: 'ALL' },
     { id: 'warframe', label: 'WARFRAME' },
     { id: 'primary', label: 'PRIMARY' },
@@ -33,14 +33,93 @@ const TABS = [
     { id: 'parazon', label: 'PARAZON' }
 ];
 
-export default function ModsClientPage({ initialData = [] }) {
+const ARCANE_TABS = [
+    { id: 'warframe', label: 'WARFRAME' },
+    { id: 'primary', label: 'PRIMARY' },
+    { id: 'archgun', label: 'ARCHGUN' },
+    { id: 'secondary', label: 'SECONDARY' },
+    { id: 'archgun-melee', label: 'ARCHGUN MELEE' },
+    { id: 'kitgun', label: 'KITGUN' },
+    { id: 'zaw', label: 'ZAW' },
+    { id: 'operator', label: 'OPERATOR' },
+    { id: 'amp', label: 'AMP' },
+    { id: 'tektolyst', label: 'TEKTOLYST' },
+    { id: 'artifact', label: 'ARTIFACT' }
+];
+
+const ARCANE_NAME_CATEGORIES = {
+    'arcane acceleration': 'primary',
+    'arcane momentum': 'primary',
+    'arcane primary charger': 'primary',
+    'arcane rage': 'primary',
+    'arcane tempo': 'primary',
+    'arcane awakening': 'secondary',
+    'arcane pistoleer': 'secondary',
+    'arcane velocity': 'secondary',
+    'arcane precision': 'secondary',
+    'arcane blade charger': 'archgun-melee',
+    'arcane fury': 'archgun-melee',
+    'arcane strike': 'archgun-melee',
+    'arcane reaper': 'archgun-melee',
+    'arcane tanker': 'archgun',
+    'arcane power ramp': 'amp'
+};
+
+const ARCANE_RULES = [
+    { id: 'primary', test: /\bprimary\b|\bprimaries\b|\brifle\b|\brifles\b|\bsniper\b|\bsnipers\b|\bshotgun\b|\bshotguns\b/i },
+    { id: 'secondary', test: /\bsecondary\b|\bsecondaries\b|\bpistol\b|\bpistols\b/i },
+    { id: 'secondary', test: /^cascadia\b/i },
+    { id: 'archgun', test: /\barch[- ]?gun\b/i },
+    { id: 'archgun-melee', test: /\barch[- ]?melee\b/i },
+    { id: 'archgun-melee', test: /\bmelee\b/i },
+    { id: 'kitgun', test: /\bkitgun\b/i },
+    { id: 'kitgun', test: /^pax\b/i },
+    { id: 'kitgun', test: /^residual\b/i },
+    { id: 'zaw', test: /\bzaw\b/i },
+    { id: 'zaw', test: /^exodia\b/i },
+    { id: 'operator', test: /\boperator\b/i },
+    { id: 'operator', test: /^magus\b/i },
+    { id: 'amp', test: /\bamp\b|\bamps\b/i },
+    { id: 'amp', test: /^virtuos\b/i },
+    { id: 'amp', test: /^eternal\b/i },
+    { id: 'tektolyst', test: /\btektolyst\b/i },
+    { id: 'artifact', test: /\bartifact\b/i }
+];
+
+const getArcaneCategory = (item) => {
+    const name = (item.name || '');
+    const type = (item.type || '');
+    const category = (item.category || '');
+    const desc = Array.isArray(item.description) ? item.description.join(' ') : (item.description || '');
+    const haystack = `${name} ${type} ${category} ${desc}`.toLowerCase();
+    const nameLower = name.toLowerCase().trim();
+
+    if (ARCANE_NAME_CATEGORIES[nameLower]) {
+        return ARCANE_NAME_CATEGORIES[nameLower];
+    }
+
+    for (const rule of ARCANE_RULES) {
+        if (rule.test.test(haystack) || rule.test.test(nameLower)) {
+            return rule.id;
+        }
+    }
+
+    if (type.toLowerCase().includes('warframe')) return 'warframe';
+    if (type.toLowerCase().includes('arcane')) return 'warframe';
+    return 'warframe';
+};
+
+export default function ModsClientPage({ initialData = [], mode = 'mods' }) {
     const [rawApiData, setRawApiData] = useState([]);
     const [ownedCards, setOwnedCards] = useState(new Set());
     const [loading, setLoading] = useState(true);
     const [isMobile, setIsMobile] = useState(false);
     const [scrollParent, setScrollParent] = useState(null);
 
-    const [currentCategory, setCurrentCategory] = useState('all');
+    const isArcaneMode = mode === 'arcanes';
+    const activeTabs = isArcaneMode ? ARCANE_TABS : MOD_TABS;
+    const defaultCategory = isArcaneMode ? 'warframe' : 'all';
+    const [currentCategory, setCurrentCategory] = useState(defaultCategory);
     const [searchTerm, setSearchTerm] = useState('');
     const debouncedSearch = useDebouncedValue(searchTerm, 300);
     const throttledSearch = useThrottledValue(searchTerm, 200);
@@ -61,6 +140,10 @@ export default function ModsClientPage({ initialData = [] }) {
         };
     }, []);
 
+    useEffect(() => {
+        setCurrentCategory(defaultCategory);
+    }, [defaultCategory]);
+
     const scrollParentRef = useCallback((node) => {
         setScrollParent(node);
     }, []);
@@ -71,6 +154,7 @@ export default function ModsClientPage({ initialData = [] }) {
             const uniqueMap = new Map();
             
             initialData.forEach(item => {
+                if (isArcaneMode && item.name && item.name.trim().toLowerCase() === 'arcane') return;
                 // Filtri Pulizia
                 if(item.name.includes("Riven Mod")) return;
                 if(item.uniqueName && item.uniqueName.includes("/PVP")) return;
@@ -78,25 +162,29 @@ export default function ModsClientPage({ initialData = [] }) {
                 if(item.type === "Mod Set Mod") return;
                 if(item.type === "Focus Way") return;
 
-                // MAPPING CATEGORIE (Basato su Type)
+                // MAPPING CATEGORIE (Basato su Type / Nome)
                 let mappedCategory = 'other';
                 const t = (item.type || "").toLowerCase();
 
-                // Specifici prima
-                if (t.includes('arch-melee')) mappedCategory = 'arch-melee';
-                else if (t.includes('arch-gun')) mappedCategory = 'arch-gun';
-                else if (t.includes('shotgun')) mappedCategory = 'shotgun';
-                else if (t.includes('k-drive')) mappedCategory = 'k-drive';
-                else if (t.includes('necramech')) mappedCategory = 'necramech';
-                else if (t.includes('railjack') || t.includes('plexus')) mappedCategory = 'railjack';
-                else if (t.includes('parazon')) mappedCategory = 'parazon';
-                else if (t === 'archwing mod') mappedCategory = 'archwing';
-                // Generici dopo
-                else if (t.includes('warframe') || t.includes('aura')) mappedCategory = 'warframe';
-                else if (t.includes('primary') || t.includes('rifle') || t.includes('bow') || t.includes('sniper') || t.includes('launcher')) mappedCategory = 'primary';
-                else if (t.includes('secondary') || t.includes('pistol')) mappedCategory = 'secondary';
-                else if (t.includes('melee') || t.includes('stance')) mappedCategory = 'melee';
-                else if (t.includes('companion') || t.includes('sentinel') || t.includes('beast')) mappedCategory = 'companion';
+                if (isArcaneMode) {
+                    mappedCategory = getArcaneCategory(item);
+                } else {
+                    // Specifici prima
+                    if (t.includes('arch-melee')) mappedCategory = 'arch-melee';
+                    else if (t.includes('arch-gun')) mappedCategory = 'arch-gun';
+                    else if (t.includes('shotgun')) mappedCategory = 'shotgun';
+                    else if (t.includes('k-drive')) mappedCategory = 'k-drive';
+                    else if (t.includes('necramech')) mappedCategory = 'necramech';
+                    else if (t.includes('railjack') || t.includes('plexus')) mappedCategory = 'railjack';
+                    else if (t.includes('parazon')) mappedCategory = 'parazon';
+                    else if (t === 'archwing mod') mappedCategory = 'archwing';
+                    // Generici dopo
+                    else if (t.includes('warframe') || t.includes('aura')) mappedCategory = 'warframe';
+                    else if (t.includes('primary') || t.includes('rifle') || t.includes('bow') || t.includes('sniper') || t.includes('launcher')) mappedCategory = 'primary';
+                    else if (t.includes('secondary') || t.includes('pistol')) mappedCategory = 'secondary';
+                    else if (t.includes('melee') || t.includes('stance')) mappedCategory = 'melee';
+                    else if (t.includes('companion') || t.includes('sentinel') || t.includes('beast')) mappedCategory = 'companion';
+                }
 
                 let cleanDesc = item.description || "";
                 if (Array.isArray(item.description)) cleanDesc = item.description.join(" ");
@@ -105,13 +193,17 @@ export default function ModsClientPage({ initialData = [] }) {
                 }
 
                 if(!uniqueMap.has(item.name)) {
+                    const nameLower = (item.name || '').toLowerCase();
+                    const typeLower = (item.type || '').toLowerCase();
+                    const categoryLower = (item.category || '').toLowerCase();
+
                     uniqueMap.set(item.name, {
                         ...item,
                         myCategory: mappedCategory,
                         description: cleanDesc,
                         maxRank: item.fusionLimit || 5,
                         baseDrain: item.baseDrain || 2,
-                        searchStr: `${item.name} ${item.type} ${mappedCategory}`.toLowerCase()
+                        searchStr: `${nameLower} ${typeLower} ${categoryLower} ${mappedCategory}`.trim()
                     });
                 }
             });
@@ -123,10 +215,14 @@ export default function ModsClientPage({ initialData = [] }) {
 
         const saved = localStorage.getItem(STORAGE_KEY);
         if (saved) { try { setOwnedCards(new Set(JSON.parse(saved))); } catch (e) {} }
-    }, [initialData]);
+    }, [initialData, isArcaneMode]);
 
     useEffect(() => {
-        if (!loading) localStorage.setItem(STORAGE_KEY, JSON.stringify([...ownedCards]));
+        if (loading) return undefined;
+        const handler = setTimeout(() => {
+            localStorage.setItem(STORAGE_KEY, JSON.stringify([...ownedCards]));
+        }, 800);
+        return () => clearTimeout(handler);
     }, [ownedCards, loading]);
 
     // --- FILTRAGGIO ---
@@ -170,7 +266,7 @@ export default function ModsClientPage({ initialData = [] }) {
                 <div className="nav-top-row">
                     <div className="nav-brand">
                         <Link href="/" className="nav-home-btn">⌂ HOME</Link>
-                        <h1 className="page-title">MODS DATABASE</h1>
+                        <h1 className="page-title">{isArcaneMode ? 'ARCANES DATABASE' : 'MODS DATABASE'}</h1>
                     </div>
                     <div className="stats-right">
                         <div className="stat-box">
@@ -188,7 +284,7 @@ export default function ModsClientPage({ initialData = [] }) {
                     {/* TABS SCROLLABILI: Usiamo le tue classi originali 'category-tabs' e 'tab-btn' */}
                     <div className="filters-left filters-scroll">
                         <div className="category-tabs">
-                            {TABS.map(tab => (
+                            {activeTabs.map(tab => (
                                 <button 
                                     key={tab.id}
                                     className={`tab-btn ${currentCategory === tab.id ? 'active' : ''}`}
@@ -203,7 +299,7 @@ export default function ModsClientPage({ initialData = [] }) {
                     <div className="filters-right">
                         <div className="search-wrapper">
                             <input 
-                                type="text" className="search-input" placeholder="SEARCH MOD..." 
+                                type="text" className="search-input" placeholder={isArcaneMode ? 'SEARCH ARCANE...' : 'SEARCH MOD...'} 
                                 value={searchTerm} onChange={(e) => setSearchTerm(e.target.value.toLowerCase())} 
                             />
                         </div>

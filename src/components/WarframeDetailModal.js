@@ -27,16 +27,19 @@ const HIDDEN_RESOURCES = [
 ];
 
 const dropSearchCache = new Map();
+let relicLookupCache = null;
 
 function getDropSearchName(componentName, itemName) {
     if (!componentName) return null;
-    let name = componentName;
-    if (itemName) {
-        name = name.replace(itemName, '');
-    }
-    name = name.replace(/Blueprint/gi, '').replace(/\s+/g, ' ').trim();
+    let name = componentName.replace(/Blueprint/gi, '').replace(/\s+/g, ' ').trim();
     if (!name || name.length < 3) return null;
     if (/^main$/i.test(name) || /main bp/i.test(name)) return null;
+    if (itemName) {
+        const itemLower = itemName.toLowerCase();
+        if (!name.toLowerCase().includes(itemLower)) {
+            name = `${itemName} ${name}`.replace(/\s+/g, ' ').trim();
+        }
+    }
     return name;
 }
 
@@ -53,6 +56,7 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
     const [showVaultedRelics, setShowVaultedRelics] = useState(false);
     const [dropSearchMap, setDropSearchMap] = useState({});
     const autoShowVaultedRef = useRef(false);
+    const strategyAbortRef = useRef(null);
 
     if (!item) return null;
     const isOwned = ownedItems.has(item.uniqueName);
@@ -80,16 +84,28 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
     useEffect(() => {
         const handleEsc = (e) => { if (e.key === 'Escape') onClose(); };
         window.addEventListener('keydown', handleEsc);
+        strategyAbortRef.current?.abort();
         setSelectedRelics(new Set()); 
         setShowVaultedRelics(false);
         autoShowVaultedRef.current = false;
+        setSmartMissions([]);
+        setBaseStrategies([]);
+        setLookupData(null);
+        setSavedPartMap({});
+        setRelicIds(new Set());
+        setRelicPartMap({});
+        setDropSearchMap({});
+        setStatusMsg("");
         
         if (!isRelicItem && (item.components || item.drops)) {
             fetchFarmingData();
         } else {
             setLoadingStrategies(false);
         }
-        return () => window.removeEventListener('keydown', handleEsc);
+        return () => {
+            window.removeEventListener('keydown', handleEsc);
+            strategyAbortRef.current?.abort();
+        };
     }, [onClose, item]);
 
     useEffect(() => {
@@ -287,8 +303,20 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
     }
 
     async function fetchFarmingData() {
+        strategyAbortRef.current?.abort();
+        const controller = new AbortController();
+        strategyAbortRef.current = controller;
+        const { signal } = controller;
+
         setLoadingStrategies(true);
         setStatusMsg("Analyzing...");
+        setSmartMissions([]);
+        setBaseStrategies([]);
+        setLookupData(null);
+        setRelicIds(new Set());
+        setRelicPartMap({});
+        setSavedPartMap({});
+
         try {
             const neededIDs = new Set();
             const relicToPartMap = {}; 
@@ -327,40 +355,49 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
             setRelicPartMap(relicToPartMap);
 
             if (neededIDs.size === 0) { 
-                setLoadingStrategies(false);
+                if (!signal.aborted) setLoadingStrategies(false);
                 return; 
             }
 
-            const [lookupRes, relicsRes] = await Promise.all([
-                fetch(`${API_BASE_URL}/RelicLookup.json`),
-                fetch(`${API_BASE_URL}/Relics.json`)
-            ]);
-            
-            let lookupDB = {}; 
-            if (lookupRes.ok) lookupDB = await lookupRes.json();
-            
-            let imageMap = {};
-            let vaultedMap = {};
-            if (relicsRes.ok) {
-                const relicsArr = await relicsRes.json();
-                relicsArr.forEach(r => {
-                    const stdName = getStandardID(r.name);
-                    if (stdName && r.imageName) imageMap[stdName] = r.imageName;
-                    if (stdName) vaultedMap[stdName] = !r.drops || r.drops.length === 0;
-                });
-            }
-            lookupDB._images = imageMap;
-            lookupDB._vaulted = vaultedMap;
-            setLookupData(lookupDB); 
+            let lookupDB = relicLookupCache;
+            if (!lookupDB) {
+                const [lookupRes, relicsRes] = await Promise.all([
+                    fetch(`${API_BASE_URL}/RelicLookup.json`, { signal }),
+                    fetch(`${API_BASE_URL}/Relics.json`, { signal })
+                ]);
+                
+                if (signal.aborted) return;
 
+                lookupDB = lookupRes.ok ? await lookupRes.json() : {};
+                
+                let imageMap = {};
+                let vaultedMap = {};
+                if (relicsRes.ok) {
+                    const relicsArr = await relicsRes.json();
+                    relicsArr.forEach(r => {
+                        const stdName = getStandardID(r.name);
+                        if (stdName && r.imageName) imageMap[stdName] = r.imageName;
+                        if (stdName) vaultedMap[stdName] = !r.drops || r.drops.length === 0;
+                    });
+                }
+                lookupDB._images = imageMap;
+                lookupDB._vaulted = vaultedMap;
+                relicLookupCache = lookupDB;
+            }
+
+            if (signal.aborted) return;
+
+            setLookupData(lookupDB); 
             setRelicIds(new Set(neededIDs));
             setSmartMissions(calculateMissionsStrategy(neededIDs, lookupDB, relicToPartMap));
             setBaseStrategies(calculateBaseStrategy(neededIDs));
         } catch (e) { 
-            console.error(e); 
-            setStatusMsg("N/A"); 
+            if (e?.name !== 'AbortError') {
+                console.error(e); 
+                setStatusMsg("N/A"); 
+            }
         } finally { 
-            setLoadingStrategies(false);
+            if (!signal.aborted) setLoadingStrategies(false);
         }
     }
 
@@ -605,22 +642,43 @@ export default function WarframeDetailModal({ item, onClose, ownedItems, onToggl
                                                     .filter(d => showVaultedRelics || !d.isVaultedRelic)
                                                     .map((d, i) => {
                                                     const isSelected = d.relicID && selectedRelics.has(d.relicID);
+                                                    const relicLabel = (d.loc || d.relicID || '').trim();
+                                                    const relicMatch = relicLabel.match(/^(Lith|Meso|Neo|Axi|Requiem)\s+(.+)$/i);
+                                                    const eraLabel = relicMatch ? relicMatch[1] : relicLabel;
+                                                    const codeLabel = relicMatch ? relicMatch[2] : '';
+                                                    const eraAttr = relicMatch ? relicMatch[1] : '';
+
                                                     return (
                                                         <div
                                                             key={i}
                                                             onClick={() => d.isRelic && handleRelicClick(d.relicID)}
                                                             className={`mini-relic-card ${d.rarityClass} ${isSelected ? 'selected' : ''} ${d.isVaultedRelic ? 'is-vaulted' : ''}`}
-                                                            data-era={d.loc.split(' ')[0]}
+                                                            data-era={eraAttr}
                                                         >
-                                                            {d.imagePath && <img src={d.imagePath} className="relic-card-img" loading="lazy" onError={(e)=>{e.target.style.display='none'}} />}
-                                                            <div className="card-info">
-                                                                <span className="card-era">{d.loc.split(' ')[0]}</span>
-                                                                <span className="card-code">{d.loc.split(' ').slice(1).join(' ')}</span>
-                                                                <span className="card-rarity-row">
-                                                                     <span className={`card-pct ${d.rarityClass}`}></span>
-                                                                     {d.isVaultedRelic && <span className="vaulted-mini-tag">V</span>}
-                                                                </span>
+                                                            <div className="mini-relic-era-bar"></div>
+                                                            {d.imagePath && (
+                                                                <div className="mini-relic-image">
+                                                                    <img
+                                                                        src={d.imagePath}
+                                                                        className="relic-card-img"
+                                                                        alt={`${d.loc} relic`}
+                                                                        loading="lazy"
+                                                                        onError={(e)=>{e.currentTarget.dataset.error='1'}}
+                                                                        onLoad={(e)=>{e.currentTarget.removeAttribute('data-error')}}
+                                                                    />
+                                                                </div>
+                                                            )}
+                                                            <div className="mini-relic-info">
+                                                                {codeLabel ? (
+                                                                    <>
+                                                                        <span className="card-era">{eraLabel}</span>
+                                                                        <span className="card-code">{codeLabel}</span>
+                                                                    </>
+                                                                ) : (
+                                                                    <span className="card-code">{eraLabel}</span>
+                                                                )}
                                                             </div>
+                                                            {d.isVaultedRelic && <span className="vaulted-mini-tag">V</span>}
                                                         </div>
                                                     );
                                                 })}

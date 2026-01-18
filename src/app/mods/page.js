@@ -11,6 +11,6 @@ export default async function Page() {
     const combined = [...modsData, ...arcanesData];
 
     return (
-        <ModsClientPage initialData={combined} />
+        <ModsClientPage initialData={combined} mode="mods" />
     );
 }

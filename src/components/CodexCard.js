@@ -1,7 +1,6 @@
 "use client";
 import React, { memo, useCallback } from 'react';
 import Image from 'next/image';
-import Link from 'next/link';
 import { IMG_BASE_URL } from '@/utils/constants';
 import { BLUR_DATA_URL } from '@/utils/imagePlaceholders';
 

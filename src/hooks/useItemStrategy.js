@@ -1,10 +1,13 @@
 // src/hooks/useItemStrategy.js
 import { useState, useEffect, useMemo } from 'react';
+import { API_BASE_URL } from '@/utils/constants';
 
 // Utility pulizia nomi
 const cleanRelicName = (fullName) => {
     return fullName.replace(" Relic", "").replace(/\s*\(.*?\)/g, "").trim();
 };
+
+let relicLookupCache = null;
 
 export function useItemStrategy(item) {
     const [relicMap, setRelicMap] = useState(new Map());
@@ -70,17 +73,31 @@ export function useItemStrategy(item) {
 
         if (relicsToFetch.length > 0) {
             setLoadingRelics(true);
-            fetch('/api/relics/lookup', {
-                method: 'POST',
-                headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify({ names: relicsToFetch })
-            })
-            .then(res => res.json())
-            .then(data => {
-                const map = new Map(data.map(r => [r.name, r]));
-                setRelicMap(map);
-            })
-            .finally(() => setLoadingRelics(false));
+            (async () => {
+                try {
+                    let lookupDB = relicLookupCache;
+                    if (!lookupDB) {
+                        const res = await fetch(`${API_BASE_URL}/RelicLookup.json`);
+                        if (!res.ok) {
+                            setRelicMap(new Map());
+                            return;
+                        }
+                        lookupDB = await res.json();
+                        relicLookupCache = lookupDB;
+                    }
+
+                    const map = new Map();
+                    relicsToFetch.forEach(name => {
+                        const entry = lookupDB[name];
+                        if (!entry) return;
+                        const drops = Array.isArray(entry) ? entry : (entry.drops || entry);
+                        map.set(name, { name, drops });
+                    });
+                    setRelicMap(map);
+                } finally {
+                    setLoadingRelics(false);
+                }
+            })();
         }
     }, [item, componentsList, isRelicItem]);
 

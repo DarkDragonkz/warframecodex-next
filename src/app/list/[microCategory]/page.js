@@ -36,7 +36,7 @@ export default async function DynamicListPage({ params }) {
 
     // 3. Gestione Casi Speciali (Mods, Relics)
     if (microCat.specialPage === 'mods' || microCat.specialPage === 'arcanes') {
-        return <ModsClientPage initialData={data} />;
+        return <ModsClientPage initialData={data} mode={microCat.specialPage} />;
     }
 
     if (microCat.specialPage === 'relics') {
