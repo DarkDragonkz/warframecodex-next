@@ -483,7 +483,6 @@
       "Arcane Vespa Helmet",
       "Asa Syandana",
       "Baruuk Meroe Helmet",
-      "Carrier",
       "Chroma Amaru Helmet",
       "Chroma Drac Helmet",
       "Cyte-09 Espricor Helmet",
@@ -492,9 +491,7 @@
       "Daedalus Spurs",
       "Dagath Ganceann Helmet",
       "Daman Sugatra",
-      "Dethcube",
       "Detron Shock-Camo Skin",
-      "Diriga",
       "Edo Chest Plate",
       "Edo Shin Plates",
       "Edo Shoulder Plates",
@@ -541,7 +538,6 @@
       "Scindo Forest-Camo Skin",
       "Scindo Manticore Skin",
       "Sevagoth Lucifuge Helmet",
-      "Shade",
       "Soma Forest-Camo Skin",
       "Styanax Agogean Helmet",
       "Styanax Gerousic Helmet",
@@ -555,7 +551,6 @@
       "Vauban Armistice Helmet",
       "Wisp Gaoth Helmet",
       "Wukong Macak Helmet",
-      "Wyrm",
       "Yareli Physalia Helmet",
       "Yomo Syandana"
     ],
@@ -2346,14 +2341,16 @@
     "name": "Argon Crystal",
     "parents": [
       "Dagath Ganceann Helmet",
-      "Diriga",
       "Hawk Bishamo Cuirass",
+      "Hidden Messages",
       "Hydroid Ketos Helmet",
       "Incubator Power Core",
       "Jade Aureolt Helmet",
       "Loki Enigma Helmet",
       "Nova Slipstream Helmet",
       "Styanax Agogean Helmet",
+      "The Jordas Precept",
+      "The Limbo Theorem",
       "Uru Syandana",
       "Xaku Kintsu Helmet"
     ],
@@ -8279,10 +8276,7 @@
     "masterable": false,
     "name": "Circuits",
     "parents": [
-      "Carrier",
       "Dante Cantist Helmet",
-      "Dethcube",
-      "Djinn",
       "Dual Zoren Dagger-Axe Skin",
       "Exergis Shock-Camo Skin",
       "Falcor Shock-Camo Skin",
@@ -8292,9 +8286,7 @@
       "Oraxia Chelicera Helmet",
       "Plinx Shock-Camo Skin",
       "Scindo Dagger-Axe Skin",
-      "Shade",
-      "Shocking Step Ephemera",
-      "Wyrm"
+      "Shocking Step Ephemera"
     ],
     "patchlogs": [
       {
@@ -8850,8 +8842,6 @@
     "masterable": false,
     "name": "Control Module",
     "parents": [
-      "Carrier",
-      "Dethcube",
       "Ember Immortal Skin",
       "Excalibur Immortal Skin",
       "Frost Immortal Skin",
@@ -8859,9 +8849,7 @@
       "Hawk Bishamo Helmet",
       "Incubator Power Core",
       "Ivara Zirastra Helmet",
-      "Mirage Trivelin Helmet",
-      "Shade",
-      "Wyrm"
+      "Mirage Trivelin Helmet"
     ],
     "patchlogs": [
       {
@@ -10611,6 +10599,7 @@
     "type": "Exalted Weapon",
     "uniqueName": "/Lotus/Powersuits/Pacifist/PacifistFist",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/DesertWind.png?78581",
     "wikiaUrl": "https://wiki.warframe.com/w/Desert_Wind",
     "windUp": 0.5
   },
@@ -10807,6 +10796,7 @@
     "uniqueName": "/Lotus/Powersuits/Pacifist/PacifistFistPrime",
     "vaulted": false,
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/DesertWind.png?78581",
     "wikiaUrl": "https://wiki.warframe.com/w/Desert_Wind_Prime",
     "windUp": 0.5
   },
@@ -11913,6 +11903,7 @@
     "type": "Exalted Weapon",
     "uniqueName": "/Lotus/Powersuits/Fairy/FlightSword",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Diwata.png?11963",
     "wikiaUrl": "https://wiki.warframe.com/w/Diwata"
   },
   {
@@ -12116,6 +12107,7 @@
     "uniqueName": "/Lotus/Powersuits/Fairy/PrimeFlightSword",
     "vaulted": false,
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/DiwataPrime.png?5591d",
     "wikiaUrl": "https://wiki.warframe.com/w/Diwata_Prime"
   },
   {
@@ -13912,6 +13904,7 @@
     "type": "Exalted Weapon",
     "uniqueName": "/Lotus/Powersuits/Excalibur/DoomSword",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ExaltedBladeWeapon.png?654f4",
     "wikiaUrl": "https://wiki.warframe.com/w/Exalted_Blade",
     "windUp": 0.60000002
   },
@@ -16106,6 +16099,7 @@
       "Atterax Desert-Camo Skin",
       "Axidrol Alloy",
       "Burston Solstice Skin",
+      "Clan Key",
       "Control Module",
       "Coprite Alloy",
       "Corinth Solstice Skin",
@@ -16128,7 +16122,6 @@
       "Guandao Synoid Skin",
       "Hawk Bishamo Pauldrons",
       "Hek Desert-Camo Skin",
-      "Helios",
       "Ignis Solstice Skin",
       "Infested Catalyst",
       "Karak Desert-Camo Skin",
@@ -16136,13 +16129,13 @@
       "Lenz Solstice Skin",
       "Limbo Magrite Helmet",
       "Marelok Desert-Camo Skin",
+      "Mutalist Alad V Assassinate",
       "Plinx Shock-Camo Skin",
       "Pyrana Synoid Skin",
       "Rubico Synoid Skin",
       "Scindo Solstice Skin",
       "Styanax Gerousic Helmet",
       "Tatsu Solstice Skin",
-      "Taxon",
       "Titan Extractor",
       "Tonkor Desert-Camo Skin",
       "Uru Syandana",
@@ -28140,13 +28133,8 @@
     "consumeOnBuild": true,
     "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on max Rank Warframes, Companions and Weapons.",
     "imageName": "forma-778e068bc2.png",
-    "itemCount": 2,
     "masterable": false,
     "name": "Forma",
-    "parents": [
-      "Djinn",
-      "Helios"
-    ],
     "patchlogs": [
       {
         "name": "Update 32.2.0: Lua’s Prey",
@@ -30670,7 +30658,6 @@
     "name": "Goblite Tears",
     "parents": [
       "Bonewidow Casing",
-      "Oxylus",
       "Puppeteer"
     ],
     "skipBuildTimePrice": 5,
@@ -41821,7 +41808,6 @@
       "Haztech Pauldrons",
       "Kubrodon Ventkid Pauldrons",
       "Outrider Pauldrons",
-      "Oxylus",
       "Smelter Pauldrons",
       "Vent Pobber Ventkid Pauldrons",
       "Vent Rat Pauldrons"
@@ -47393,6 +47379,7 @@
       "Auroxium Alloy",
       "Blazing Step Ephemera",
       "Burston Solstice Skin",
+      "Clan Key",
       "Corinth Solstice Skin",
       "Cycron Solstice Skin",
       "Diriga Desert-Camo Skin",
@@ -47896,8 +47883,12 @@
       }
     ],
     "imageName": "mutalist-alad-v-nav-coordinate-09c10b5ab3.png",
+    "itemCount": 1,
     "masterable": false,
     "name": "Mutalist Alad V Nav Coordinate",
+    "parents": [
+      "Mutalist Alad V Assassinate"
+    ],
     "patchlogs": [
       {
         "name": "Hotfix 15.5.3",
@@ -48110,10 +48101,8 @@
     "masterable": false,
     "name": "Nano Spores",
     "parents": [
-      "Carrier",
       "Control Module",
       "Dante Cantist Helmet",
-      "Dethcube",
       "Gallium",
       "Genetic Code Template",
       "Incubator Power Core",
@@ -48123,17 +48112,18 @@
       "Koumei Orihime Helmet",
       "Mesa Longhorn Helmet",
       "Morphics",
+      "Mutalist Alad V Assassinate",
       "Nezha Circa Helmet",
       "Nezha Jinza Helmet",
       "Nokko Mycorrhiza Helmet",
       "Oraxia Chelicera Helmet",
-      "Shade",
+      "Patient Zero",
+      "Sands Of Inaros",
       "Tempered Bapholite",
       "Temple Rockett Helmet",
       "Titan Extractor Prime",
       "Umbra Forma",
       "Wolf Hood",
-      "Wyrm",
       "Zephyr Cierzo Helmet",
       "Zephyr Tengu Helmet"
     ],
@@ -48841,8 +48831,12 @@
       }
     ],
     "imageName": "nav-coordinate-f5c8684cfb.png",
+    "itemCount": 6,
     "masterable": false,
     "name": "Nav Coordinate",
+    "parents": [
+      "Mutalist Alad V Assassinate"
+    ],
     "patchlogs": [
       {
         "name": "Derelict Shift: Hotfix 28.3.1",
@@ -49130,6 +49124,8 @@
       "Nekros Shroud Helmet",
       "Sevagoth Lucifuge Helmet",
       "Test Forma",
+      "The Jordas Precept",
+      "The Limbo Theorem",
       "Uru Syandana",
       "Vauban Armistice Helmet"
     ],
@@ -49307,6 +49303,7 @@
       "Oberon Markhor Helmet",
       "Oberon Oryx Helmet",
       "Octavia Cadenza Helmet",
+      "Patient Zero",
       "Pazza Sugatra",
       "Penta Shock-Camo Skin",
       "Prova Shock-Camo Skin",
@@ -49314,7 +49311,6 @@
       "Soma Forest-Camo Skin",
       "Synthula",
       "Tantu Sugatra",
-      "Taxon",
       "Test Forma",
       "Umbra Forma",
       "Valkyr Bastet Helmet",
@@ -50558,8 +50554,10 @@
       "Nidus Prion Helmet",
       "Nokko Mycorrhiza Helmet",
       "Oraxia Chelicera Helmet",
+      "Sands Of Inaros",
       "Sevagoth Lucifuge Helmet",
       "Temple Rockett Helmet",
+      "The Silver Grove",
       "Titania Aurai Helmet",
       "Titania Mab Helmet",
       "Voruna Anukas Helmet",
@@ -52088,13 +52086,11 @@
       "Atlas Shikoro Helmet",
       "Atlas Tartarus Helmet",
       "Baruuk Meroe Helmet",
-      "Carrier Prime",
       "Cyte-09 Espricor Helmet",
       "Daedalus Chest Plate",
       "Daedalus Shoulder Plates",
       "Daedalus Spurs",
       "Daman Sugatra",
-      "Dethcube Prime",
       "Detron Shock-Camo Skin",
       "Edo Chest Plate",
       "Edo Shin Plates",
@@ -52116,7 +52112,6 @@
       "Hawk Bishamo Greaves",
       "Hawk Bishamo Helmet",
       "Hawk Bishamo Pauldrons",
-      "Helios Prime",
       "Hildryn Asuron Helmet",
       "Hydroid Triton Helmet",
       "Inaros Anubis Helmet",
@@ -52128,7 +52123,6 @@
       "Mesa Ovis Helmet",
       "Mirage Harlequin Helmet",
       "Mirage Trivelin Helmet",
-      "Nautilus Prime",
       "Nekros Raknis Helmet",
       "Nekros Shroud Helmet",
       "Nezha Circa Helmet",
@@ -52148,12 +52142,13 @@
       "Revenant Vania Helmet",
       "Scindo Forest-Camo Skin",
       "Sevagoth Lucifuge Helmet",
-      "Shade Prime",
       "Smoking Body Ephemera",
       "Soma Forest-Camo Skin",
       "Styanax Synmora Helmet",
       "Tantu Sugatra",
       "Test Forma",
+      "The Jordas Precept",
+      "The Limbo Theorem",
       "Titania Aurai Helmet",
       "Titania Mab Helmet",
       "Valkyr Bastet Helmet",
@@ -52163,7 +52158,6 @@
       "Wisp Gaoth Helmet",
       "Wolf Hood",
       "Wukong Dasheng Helmet",
-      "Wyrm Prime",
       "Yareli Physalia Helmet",
       "Yomo Syandana",
       "Zephyr Cierzo Helmet",
@@ -52324,8 +52318,12 @@
     "category": "Misc",
     "description": "This device is used to bypass Orokin encryptions.\n\nLocation: Orokin Derelict Vaults on Deimos once opened with a Dragon Key ",
     "imageName": "orokin-cipher-2db59f734b.png",
+    "itemCount": 5,
     "masterable": false,
     "name": "Orokin Cipher",
+    "parents": [
+      "Hidden Messages"
+    ],
     "patchlogs": [
       {
         "name": "Update 30.7: Nidus Prime & Plague Star",
@@ -52938,9 +52936,10 @@
       "Equinox Clisthert Helm",
       "Equinox Solstice Helmet",
       "Garuda Bathory Helmet",
-      "Helios",
+      "Hidden Messages",
       "Ivara Loxley Helmet",
       "Revenant Vania Helmet",
+      "Sands Of Inaros",
       "Styanax Agogean Helmet",
       "Wukong Macak Helmet",
       "Zephyr Cierzo Helmet"
@@ -54436,7 +54435,6 @@
     "name": "Plastids",
     "parents": [
       "Adramal Alloy",
-      "Diriga",
       "Fersteel Alloy",
       "Gyre Automaton Helmet",
       "Hespazym Alloy",
@@ -54454,7 +54452,9 @@
       "Mirage Harlequin Helmet",
       "Mirage Trivelin Helmet",
       "Nova Slipstream Helmet",
+      "Patient Zero",
       "Qorvex Raxpart Helmet",
+      "The Silver Grove",
       "Travocyte Alloy",
       "Wukong Dasheng Helmet",
       "Zephyr Tengu Helmet"
@@ -54666,8 +54666,8 @@
     "masterable": false,
     "name": "Polymer Bundle",
     "parents": [
+      "Clan Key",
       "Dagath Ganceann Helmet",
-      "Diriga",
       "Distilling Extractor",
       "Distilling Extractor Prime",
       "Dual Zoren Dagger-Axe Skin",
@@ -59262,7 +59262,6 @@
       "Scindo Solstice Skin",
       "Styanax Synmora Helmet",
       "Tatsu Solstice Skin",
-      "Taxon",
       "Temple Rockett Helmet",
       "Tonkor Desert-Camo Skin",
       "Venerdo Alloy",
@@ -59628,7 +59627,6 @@
       "Dante Cantist Helmet",
       "Detron Shock-Camo Skin",
       "Diriga Desert-Camo Skin",
-      "Djinn",
       "Dual Keres Solstice Skin",
       "Edo Chest Plate",
       "Edo Shin Plates",
@@ -61717,8 +61715,7 @@
     "masterable": false,
     "name": "Scrap",
     "parents": [
-      "Bonewidow Weapon Pod",
-      "Oxylus"
+      "Bonewidow Weapon Pod"
     ],
     "patchlogs": [
       {
@@ -75139,7 +75136,6 @@
     "type": "Exalted Weapon",
     "uniqueName": "/Lotus/Powersuits/Berserker/BerserkerMeleePrime",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/ValkyrTalons.png?d8e5f",
     "wikiaUrl": "https://wiki.warframe.com/w/Valkyr_Prime_Talons",
     "windUp": 0.5
   },
@@ -75299,7 +75295,6 @@
     "type": "Exalted Weapon",
     "uniqueName": "/Lotus/Powersuits/Berserker/BerserkerMelee",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/ValkyrTalons.png?d8e5f",
     "wikiaUrl": "https://wiki.warframe.com/w/Valkyr_Talons",
     "windUp": 0.5
   },

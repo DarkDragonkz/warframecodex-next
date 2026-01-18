@@ -995,12 +995,8 @@
     "consumeOnBuild": false,
     "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "imageName": "axidrol-alloy-1c1aae73ee.png",
-    "itemCount": 45,
     "masterable": false,
     "name": "Axidrol Alloy",
-    "parents": [
-      "Oxylus"
-    ],
     "skipBuildTimePrice": 5,
     "tradable": false,
     "type": "Gem",
@@ -4541,12 +4537,8 @@
     "consumeOnBuild": true,
     "description": "ClanTech weaponized containment field to contain superheated substances.\n\nLocation: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards",
     "imageName": "fieldron-db068da41e.png",
-    "itemCount": 10,
     "masterable": false,
     "name": "Fieldron",
-    "parents": [
-      "Helios"
-    ],
     "patchlogs": [
       {
         "name": "Fortuna: Hotfix 24.0.5",
@@ -6898,8 +6890,12 @@
     "category": "Resources",
     "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
     "imageName": "moonlight-dragonlily-1d96fd8309.png",
+    "itemCount": 10,
     "masterable": false,
     "name": "Moonlight Dragonlily",
+    "parents": [
+      "The Silver Grove"
+    ],
     "tradable": false,
     "type": "Plant",
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem"
@@ -7265,12 +7261,8 @@
     "consumeOnBuild": true,
     "description": "This living mass can produce weaponized toxins for weaponry.\n\nLocation: Clan Research (Bio Lab in the Dojo) and Infested Outbreak Invasion Rewards",
     "imageName": "mutagen-mass-17e29a3c73.png",
-    "itemCount": 6,
     "masterable": false,
     "name": "Mutagen Mass",
-    "parents": [
-      "Djinn"
-    ],
     "patchlogs": [
       {
         "name": "Update: Specters of the Rail",
@@ -7922,7 +7914,6 @@
     "masterable": false,
     "name": "Nullstones",
     "parents": [
-      "Nautilus",
       "Protea Mavv Helmet"
     ],
     "patchlogs": [
@@ -10330,8 +10321,12 @@
     "category": "Resources",
     "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
     "imageName": "sunlight-dragonlily-aaeb487cc1.png",
+    "itemCount": 10,
     "masterable": false,
     "name": "Sunlight Dragonlily",
+    "parents": [
+      "The Silver Grove"
+    ],
     "tradable": false,
     "type": "Plant",
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem"
