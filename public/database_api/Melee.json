@@ -10135,7 +10135,7 @@
         "speed": 1,
         "crit_chance": 19,
         "crit_mult": 2.1,
-        "status_chance": 33,
+        "status_chance": 30,
         "shot_type": "AoE",
         "falloff": {
           "start": 0,
@@ -10151,7 +10151,7 @@
         "speed": 1,
         "crit_chance": 19,
         "crit_mult": 2.1,
-        "status_chance": 33,
+        "status_chance": 30,
         "shot_type": "AoE",
         "falloff": {
           "start": 0,
@@ -10184,7 +10184,7 @@
         "speed": 0.833,
         "crit_chance": 21,
         "crit_mult": 2.3,
-        "status_chance": 34,
+        "status_chance": 30,
         "charge_time": 1.2,
         "shot_type": "AoE",
         "falloff": {
@@ -10201,7 +10201,7 @@
         "speed": 0.833,
         "crit_chance": 21,
         "crit_mult": 2.3,
-        "status_chance": 34,
+        "status_chance": 30,
         "charge_time": 1.2,
         "shot_type": "AoE",
         "falloff": {
@@ -94096,9 +94096,9 @@
         "shot_speed": 25,
         "flight": 25,
         "damage": {
-          "impact": 48,
-          "slash": 110.4,
-          "puncture": 81.6
+          "impact": 24,
+          "slash": 55.2,
+          "puncture": 40.8
         }
       },
       {
