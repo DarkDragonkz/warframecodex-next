@@ -11783,7 +11783,7 @@
         "url": "https://forums.warframe.com/topic/480637-update-16100/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed duplicate Syandanas appearing for Clients on Chroma’s Effigy as per: https://forums.warframe.com/index.php?/topic/479993-chromas-effigy-causing-double-ormolu-kyroptera-syandana/"
+        "fixes": "Fixed duplicate Syandanas appearing for Clients on Chroma��s Effigy as per: https://forums.warframe.com/index.php?/topic/479993-chromas-effigy-causing-double-ormolu-kyroptera-syandana/"
       },
       {
         "name": "Update 16.7",
@@ -31156,7 +31156,7 @@
         "url": "https://forums.warframe.com/topic/1332403-lua%E2%80%99s-prey-hotfix-3221%C2%A0/",
         "additions": "",
         "changes": "Updated Grendel’s Nourish ability description to properly indicate that all energy sources are boosted, not just from Energy Orbs as previously stated. ",
-        "fixes": "Fixed Grendel skipping the downed state if Nourish is cast right before. \nFixed Grendel’s Voidshell Skin emissives breaking after exiting Pulverize.  \nFixed script error with Grendel’s Pulverize ability. "
+        "fixes": "Fixed Grendel skipping the downed state if Nourish is cast right before. \nFixed Grendel’s Voidshell Skin emissives breaking after exiting Pulverize. ��\nFixed script error with Grendel’s Pulverize ability. "
       },
       {
         "name": "Update 32.2.0: Lua’s Prey",
@@ -32134,7 +32134,7 @@
         "url": "https://forums.warframe.com/topic/1310849-zephyr-chroma-prime-vault-hotfix-3159/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed kills by Gyre’s abilities not being accounted for in player profile stats. "
+        "fixes": "Fixed kills by Gyre���s abilities not being accounted for in player profile stats. "
       },
       {
         "name": "Angels of the Zariman: Hotfix 31.5.3",
@@ -38375,7 +38375,7 @@
         "fixes": ""
       },
       {
-        "name": "Octavia’s Anthem: Update 20.6.0 + 20.6.0.1",
+        "name": "Octavia���s Anthem: Update 20.6.0 + 20.6.0.1",
         "date": "2017-05-24T20:42:16Z",
         "url": "https://forums.warframe.com/topic/800141-octavia%E2%80%99s-anthem-update-2060-20601/",
         "additions": "",
@@ -75853,7 +75853,7 @@
         "date": "2015-08-04T22:21:45Z",
         "url": "https://forums.warframe.com/topic/503583-hotfix-1703/",
         "additions": "",
-        "changes": "Reduced the range of Nyx’s Mind control in PvP.\nReduced duration of Nyx’s Mind Control in PvP",
+        "changes": "Reduced the range of Nyx’s Mind control in PvP.\nReduced duration of Nyx��s Mind Control in PvP",
         "fixes": ""
       },
       {
