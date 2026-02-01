@@ -1258,12 +1258,8 @@
     "consumeOnBuild": true,
     "description": "Capsule component for the Bonewidow Necramech.",
     "imageName": "bonewidow-capsule.png",
-    "itemCount": 1,
     "masterable": false,
     "name": "Bonewidow Capsule",
-    "parents": [
-      "Bonewidow"
-    ],
     "skipBuildTimePrice": 25,
     "tradable": false,
     "type": "Resource",
@@ -1336,12 +1332,8 @@
     "consumeOnBuild": true,
     "description": "Casing component for the Bonewidow Necramech.",
     "imageName": "bonewidow-casing.png",
-    "itemCount": 1,
     "masterable": false,
     "name": "Bonewidow Casing",
-    "parents": [
-      "Bonewidow"
-    ],
     "skipBuildTimePrice": 25,
     "tradable": false,
     "type": "Resource",
@@ -1414,12 +1406,8 @@
     "consumeOnBuild": true,
     "description": "Engine component for the Bonewidow Necramech.",
     "imageName": "bonewidow-engine.png",
-    "itemCount": 1,
     "masterable": false,
     "name": "Bonewidow Engine",
-    "parents": [
-      "Bonewidow"
-    ],
     "skipBuildTimePrice": 25,
     "tradable": false,
     "type": "Resource",
@@ -1492,12 +1480,8 @@
     "consumeOnBuild": true,
     "description": "Weapon Pod component for the Bonewidow Necramech.",
     "imageName": "bonewidow-weapon-pod.png",
-    "itemCount": 1,
     "masterable": false,
     "name": "Bonewidow Weapon Pod",
-    "parents": [
-      "Bonewidow"
-    ],
     "skipBuildTimePrice": 25,
     "tradable": false,
     "type": "Resource",
@@ -3679,12 +3663,8 @@
       }
     ],
     "imageName": "echo-voca-32f69b9f58.png",
-    "itemCount": 1,
     "masterable": false,
     "name": "Echo Voca",
-    "parents": [
-      "Qorvex"
-    ],
     "tradable": false,
     "type": "Resource",
     "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagRare"
@@ -4573,7 +4553,7 @@
     "consumeOnBuild": true,
     "description": "ClanTech weaponized containment field to contain superheated substances.\n\nLocation: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards",
     "imageName": "fieldron-db068da41e.png",
-    "itemCount": 2,
+    "itemCount": 10,
     "masterable": false,
     "name": "Fieldron",
     "parents": [
@@ -6528,12 +6508,8 @@
       }
     ],
     "imageName": "lua-thrax-plasm-588b2993b7.png",
-    "itemCount": 50,
     "masterable": false,
     "name": "Lua Thrax Plasm",
-    "parents": [
-      "Voruna"
-    ],
     "patchlogs": [
       {
         "name": "Lua’s Prey: Hotfix 32.2.4",
@@ -6610,7 +6586,7 @@
     "category": "Resources",
     "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
     "imageName": "lunar-pitcher-f17f7c3873.png",
-    "itemCount": 6,
+    "itemCount": 50,
     "masterable": false,
     "name": "Lunar Pitcher",
     "parents": [
@@ -6827,7 +6803,7 @@
     "consumeOnBuild": false,
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "imageName": "marquise-veridos-217877dacf.png",
-    "itemCount": 2,
+    "itemCount": 20,
     "masterable": false,
     "name": "Marquise Veridos",
     "parents": [
@@ -6967,7 +6943,7 @@
     "category": "Resources",
     "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
     "imageName": "moonlight-dragonlily-1d96fd8309.png",
-    "itemCount": 6,
+    "itemCount": 10,
     "masterable": false,
     "name": "Moonlight Dragonlily",
     "parents": [
@@ -8792,12 +8768,8 @@
     "category": "Resources",
     "description": "The manifestation of Thrax's malevolence that shapes the Orowyrms' outbursts.\n\nLocation: Rewarded upon defeating the Orowyrm in Duviri ",
     "imageName": "pathos-clamp-9b4e5eca68.png",
-    "itemCount": 10,
     "masterable": false,
     "name": "Pathos Clamp",
-    "parents": [
-      "Kullervo"
-    ],
     "tradable": false,
     "type": "Resource",
     "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriDragonDropItem"
@@ -10439,7 +10411,7 @@
     "category": "Resources",
     "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
     "imageName": "sunlight-dragonlily-aaeb487cc1.png",
-    "itemCount": 4,
+    "itemCount": 10,
     "masterable": false,
     "name": "Sunlight Dragonlily",
     "parents": [
@@ -13035,12 +13007,8 @@
     "consumeOnBuild": true,
     "description": "Capsule component for the Voidrig Necramech.",
     "imageName": "voidrig-capsule.png",
-    "itemCount": 1,
     "masterable": false,
     "name": "Voidrig Capsule",
-    "parents": [
-      "Voidrig"
-    ],
     "patchlogs": [
       {
         "name": "Update 31.5: Angels of the Zariman",
@@ -13131,12 +13099,8 @@
     "consumeOnBuild": true,
     "description": "Casing component for the Voidrig Necramech.",
     "imageName": "voidrig-casing.png",
-    "itemCount": 1,
     "masterable": false,
     "name": "Voidrig Casing",
-    "parents": [
-      "Voidrig"
-    ],
     "patchlogs": [
       {
         "name": "Update 31.5: Angels of the Zariman",
@@ -13228,12 +13192,8 @@
     "consumeOnBuild": true,
     "description": "Engine component for the Voidrig Necramech.",
     "imageName": "voidrig-engine.png",
-    "itemCount": 1,
     "masterable": false,
     "name": "Voidrig Engine",
-    "parents": [
-      "Voidrig"
-    ],
     "patchlogs": [
       {
         "name": "Update 31.5: Angels of the Zariman",
@@ -13324,12 +13284,8 @@
     "consumeOnBuild": true,
     "description": "Weapon Pod component for the Voidrig Necramech.",
     "imageName": "voidrig-weapon-pod.png",
-    "itemCount": 1,
     "masterable": false,
     "name": "Voidrig Weapon Pod",
-    "parents": [
-      "Voidrig"
-    ],
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
