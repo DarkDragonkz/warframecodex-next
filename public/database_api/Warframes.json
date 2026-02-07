@@ -9236,7 +9236,7 @@
     "passiveDescription": "Each projectile dodged, each enemy lulled or disarmed, erodes Baruuk's restraint and fuels the storm within. As Baruuk's restraint is diminished he becomes up to |PERCENT|% more resistant to damage.",
     "patchlogs": [
       {
-        "name": "Lua���s Prey: Baruuk Prime: Hotfix 32.2.8",
+        "name": "Lua’s Prey: Baruuk Prime: Hotfix 32.2.8",
         "date": "2022-12-15T21:32:58Z",
         "url": "https://forums.warframe.com/topic/1335111-lua%E2%80%99s-prey-baruuk-prime-hotfix-3228/",
         "additions": "",
@@ -13436,7 +13436,7 @@
         "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
         "additions": "",
         "changes": "",
-        "fixes": "Increased the damage and decreased the health of Chroma's Effigy in Conclave.\nFixed Chroma��s Elemental Ward not functioning when the Cold element is used."
+        "fixes": "Increased the damage and decreased the health of Chroma's Effigy in Conclave.\nFixed Chroma’s Elemental Ward not functioning when the Cold element is used."
       },
       {
         "name": "Hotfix 18.4.1: Operation Shadow Debt.",
@@ -71610,7 +71610,7 @@
         "url": "https://forums.warframe.com/topic/933296-shrine-of-the-eidolon-update-22160/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Nidus�� Virulence and Larva sometimes appearing completely black when cast."
+        "fixes": "Fixed Nidus’ Virulence and Larva sometimes appearing completely black when cast."
       },
       {
         "name": "Shrine of the Eidolon: Hotfix 22.13.3",
@@ -100945,7 +100945,7 @@
         "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
         "additions": "Added whooshing sounds to Valkyr’s Hysteria heavy attack.",
         "changes": "Fixed Valkyr’s Warcry UI not reflecting the Eternal War Mods timer increase.",
-        "fixes": "Fixed script error with Valkyr’s Hysterical Assault Augment.��"
+        "fixes": "Fixed script error with Valkyr’s Hysterical Assault Augment. "
       },
       {
         "name": "Fortuna: Hotfix 24.2.7 + 24.2.7.1",
@@ -104100,7 +104100,7 @@
         "url": "https://forums.warframe.com/topic/655270-hotfix-18132/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed multiple Bastille’s appearing when casted by Vauban in Mag’s Polarize.\nFixed Mag’s Magnetize bubble lingering permanently when Vauban’s Vortex/Bastille is thrown inside it. This also fixes intensified FX in this situation that caused performance issues. "
+        "fixes": "Fixed multiple Bastille’s appearing when casted by Vauban in Mag’s Polarize.\nFixed Mag���s Magnetize bubble lingering permanently when Vauban’s Vortex/Bastille is thrown inside it. This also fixes intensified FX in this situation that caused performance issues. "
       },
       {
         "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
