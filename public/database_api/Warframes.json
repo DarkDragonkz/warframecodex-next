@@ -104100,7 +104100,7 @@
         "url": "https://forums.warframe.com/topic/655270-hotfix-18132/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed multiple Bastille’s appearing when casted by Vauban in Mag’s Polarize.\nFixed Mag���s Magnetize bubble lingering permanently when Vauban’s Vortex/Bastille is thrown inside it. This also fixes intensified FX in this situation that caused performance issues. "
+        "fixes": "Fixed multiple Bastille’s appearing when casted by Vauban in Mag’s Polarize.\nFixed Mag’s Magnetize bubble lingering permanently when Vauban’s Vortex/Bastille is thrown inside it. This also fixes intensified FX in this situation that caused performance issues. "
       },
       {
         "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
