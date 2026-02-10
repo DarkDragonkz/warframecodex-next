@@ -60917,7 +60917,7 @@
         "url": "https://forums.warframe.com/topic/1269749-update-305-sisters-of-parvos/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed script error with Mirage’s Prism and Eclipse. \nFixed script error with Mirage��s Eclipse. "
+        "fixes": "Fixed script error with Mirage’s Prism and Eclipse. \nFixed script error with Mirage’s Eclipse. "
       },
       {
         "name": "Gara Prime: Update 30.3.0",
@@ -71610,7 +71610,7 @@
         "url": "https://forums.warframe.com/topic/933296-shrine-of-the-eidolon-update-22160/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Nidus’ Virulence and Larva sometimes appearing completely black when cast."
+        "fixes": "Fixed Nidus�� Virulence and Larva sometimes appearing completely black when cast."
       },
       {
         "name": "Shrine of the Eidolon: Hotfix 22.13.3",
@@ -114728,7 +114728,7 @@
         "url": "https://forums.warframe.com/topic/1286070-update-3090-prime-resurgence/",
         "additions": "Lavos, Sevagoth, Xaku, Yareli, Baruuk, Gauss, Hildryn, Wisp, Protea and Grendel are now available and can be used in Frame Fighter once their Fragments have been found/Scanned.",
         "changes": "Changed Limbo’s Rift status for vehicles (K-Drive, Yareli’s Merulina, etc):",
-        "fixes": "Fixed Mutalist Ospreys, Napalms, and likely other enemies not being able to damage/inflict Status Effects on Yareli while on Merulina.\nFixed inability to pick up Index Points while riding on Yareli’s Merulina. \nFixed inability to pick up the Isolation Vault Bait while riding on Yareli’s Merulina.\nFixed the UI prompt for Railjack Tactical Menu and Omni disappearing after a player casts Merulina as Yareli with a controller.\nFixed getting stuck in parts of the data vaults in Corpus Spy missions while riding Yareli��s Merulina. \nFixed incorrect translation for the Yareli Physalia Helmet in Traditional Chinese."
+        "fixes": "Fixed Mutalist Ospreys, Napalms, and likely other enemies not being able to damage/inflict Status Effects on Yareli while on Merulina.\nFixed inability to pick up Index Points while riding on Yareli’s Merulina. \nFixed inability to pick up the Isolation Vault Bait while riding on Yareli’s Merulina.\nFixed the UI prompt for Railjack Tactical Menu and Omni disappearing after a player casts Merulina as Yareli with a controller.\nFixed getting stuck in parts of the data vaults in Corpus Spy missions while riding Yareli’s Merulina. \nFixed incorrect translation for the Yareli Physalia Helmet in Traditional Chinese."
       },
       {
         "name": "Nights of Naberus: Hotfix 30.8.2",
