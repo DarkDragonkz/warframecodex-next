@@ -19764,7 +19764,7 @@
         "url": "https://forums.warframe.com/topic/1189247-warframe-revised-railjack-revisited-part-1-update-274/",
         "additions": "",
         "changes": "Banshee, Excalibur Umbra, Frost, Nekros, Nova, Nyx, Saryn, Valkyr, and Zephyr Ability videos have been added to their respective Arsenals! \nMinor tweaks to Excalibur’s Radial Javelin cast effect and gave it some ground interaction (ice chunks when cast over ice, etc).",
-        "fixes": "Fixes towards clipping issues from upper leg armor pieces on Excalibur. \nFixed Excalibur’s Ion Helmet appearing as his default in the Conclave Arsenal after being equipped in the co-op Arsenal. This also fixed being unable to equip the Ion helmet while in the Conclave Arsenal.\nFixed a script error that could occur if you were swinging Excalibur’s Exalted Blade at the same time as you activated a context action.\nFixed script error that could occur when jumping down into the darkness in the Apostasy Prologue as Excalibur Umbra."
+        "fixes": "Fixes towards clipping issues from upper leg armor pieces on Excalibur.��\nFixed Excalibur’s Ion Helmet appearing as his default in the Conclave Arsenal after being equipped in the co-op Arsenal. This also fixed being unable to equip the Ion helmet while in the Conclave Arsenal.\nFixed a script error that could occur if you were swinging Excalibur’s Exalted Blade at the same time as you activated a context action.\nFixed script error that could occur when jumping down into the darkness in the Apostasy Prologue as Excalibur Umbra."
       },
       {
         "name": "Warframe Revised: Update 27.2.0",
@@ -71610,7 +71610,7 @@
         "url": "https://forums.warframe.com/topic/933296-shrine-of-the-eidolon-update-22160/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Nidus�� Virulence and Larva sometimes appearing completely black when cast."
+        "fixes": "Fixed Nidus’ Virulence and Larva sometimes appearing completely black when cast."
       },
       {
         "name": "Shrine of the Eidolon: Hotfix 22.13.3",
@@ -115349,7 +115349,7 @@
         "url": "https://forums.warframe.com/topic/1313506-echoes-of-the-zariman-update-316/",
         "additions": "",
         "changes": "Zephyr’s Target Fixation augment",
-        "fixes": "Fixed FX issue of Zephyr’s Tornado lingering on screen if it’s being observed when the duration ends. "
+        "fixes": "Fixed FX issue of Zephyr’s Tornado lingering on screen if it’s being observed when the duration ends.��"
       },
       {
         "name": "Zephyr & Chroma Prime Vault: Hotfix 31.5.10 + 31.5.10.1",
