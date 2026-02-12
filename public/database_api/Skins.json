@@ -118240,14 +118240,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 0.05,
-            "location": "Arbitrations, Rotation C",
-            "rarity": "Rare",
-            "type": "Seeding Step Ephemera Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenPitcherPlantItem",

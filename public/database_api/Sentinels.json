@@ -6358,7 +6358,7 @@
         "url": "https://forums.warframe.com/topic/642897-update-18100-operation-rathuum/",
         "additions": "",
         "changes": "",
-        "fixes": "·         Improved Wyrm’s Crowd Dispersion missing enemies that were very close to you.\n·         Wyrm’s Crowd Dispersion range has been re-scaled as you upgrade it. Previously the range maxed out at 10m at rank 3, now it scales from 6, 6.8, 7.6, 8.4, 9.2,10 meters\n·         Tweaked Wyrm’s Crowd Dispersion physics to make the knock-back more realistic."
+        "fixes": "·         Improved Wyrm’s Crowd Dispersion missing enemies that were very close to you.\n·         Wyrm’s Crowd Dispersion range has been re-scaled as you upgrade it. Previously the range maxed out at 10m at rank 3, now it scales from 6, 6.8, 7.6, 8.4, 9.2,10 meters\n·        ��Tweaked Wyrm’s Crowd Dispersion physics to make the knock-back more realistic."
       },
       {
         "name": "Update 18.5: Sands of Inaros",
