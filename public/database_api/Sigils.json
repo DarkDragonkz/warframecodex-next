@@ -521,6 +521,16 @@
   },
   {
     "category": "Sigils",
+    "description": "Display the faces of leadership with this sigil.",
+    "imageName": "broadsword-pastfuture-sigil-09d7dd9fb6.png",
+    "masterable": false,
+    "name": "Broadsword Past/Future Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Switch2Sigil"
+  },
+  {
+    "category": "Sigils",
     "description": "For those who have performed great works, safeguarding Fortuna against the ravages of the Exploiter and her thermia fractures.",
     "imageName": "buried-debts-sigil-2fb84810a6.png",
     "masterable": false,
@@ -2343,6 +2353,16 @@
     "tradable": false,
     "type": "Sigil",
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LoginSigilF"
+  },
+  {
+    "category": "Sigils",
+    "description": "Gallop into the coming year with the freedom of the loyal horse.",
+    "imageName": "lunar-renewal-horse-sigil-bfb64629d3.png",
+    "masterable": false,
+    "name": "Lunar Renewal Horse Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearHorseSigil"
   },
   {
     "category": "Sigils",
@@ -4382,7 +4402,6 @@
   {
     "category": "Sigils",
     "description": "A sigil for VIP Tenno.",
-    "excludeFromCodex": true,
     "imageName": "tennovip-2025-sigil-9f46f27128.png",
     "masterable": false,
     "name": "Tennovip 2025 Sigil",
@@ -4392,8 +4411,17 @@
   },
   {
     "category": "Sigils",
+    "description": "A sigil for VIP Tenno.",
+    "imageName": "tennovip-2026-sigil-5cfecc2ca9.png",
+    "masterable": false,
+    "name": "Tennovip 2026 Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoVIP2026Sigil"
+  },
+  {
+    "category": "Sigils",
     "description": "A sigil for VIP Tenno",
-    "excludeFromCodex": true,
     "imageName": "tennovip-east-sigil-f55e6ab594.png",
     "masterable": false,
     "name": "Tennovip East Sigil",
@@ -4625,6 +4653,27 @@
     "tradable": false,
     "type": "Sigil",
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LavosDeluxeSigil"
+  },
+  {
+    "category": "Sigils",
+    "description": "A sigil that celebrates Vauban’s ingenuity.",
+    "excludeFromCodex": true,
+    "imageName": "vauban-heirloom-schema-sigil-3ccf2eb6ed.png",
+    "masterable": false,
+    "name": "Vauban Heirloom Schema Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomVaubanSigilSumo"
+  },
+  {
+    "category": "Sigils",
+    "description": "A sigil that celebrates Vauban's legacy.",
+    "imageName": "vauban-heirloom-sigil-2e3420e43e.png",
+    "masterable": false,
+    "name": "Vauban Heirloom Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomVaubanSigil"
   },
   {
     "category": "Sigils",

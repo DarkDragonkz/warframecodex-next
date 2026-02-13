@@ -1067,6 +1067,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph for your profile celebrating the Year of the Horse.",
+    "imageName": "bingwu-glyph-1d931b1326.png",
+    "masterable": false,
+    "name": "Bingwu Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/LNY2026HorseGlyph"
+  },
+  {
+    "category": "Glyphs",
     "description": "Present Loid's Bird 3 sketch as a Glyph for all to see.",
     "excludeFromCodex": true,
     "imageName": "bird-3-sketch-glyph-9f040a3cb9.png",
@@ -1267,6 +1277,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBrozime"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph for your profile featuring two best buds playing games together.",
+    "imageName": "buddies-in-gaming-glyph-62b96ac335.png",
+    "masterable": false,
+    "name": "Buddies In Gaming Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSwitch2Glyph"
   },
   {
     "category": "Glyphs",
@@ -14663,6 +14683,27 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph that celebrates Vauban's legacy.",
+    "imageName": "vauban-heirloom-glyph-47af0ef770.png",
+    "masterable": false,
+    "name": "Vauban Heirloom Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/HeirloomVaubanGlyph"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph that immortalizes Vauban’s legacy.",
+    "excludeFromCodex": true,
+    "imageName": "vauban-heirloom-tondo-glyph-e6566622b5.png",
+    "masterable": false,
+    "name": "Vauban Heirloom Tondo Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/HeirloomVaubanGlyphSumo"
+  },
+  {
+    "category": "Glyphs",
     "description": "A Glyph for your profile.",
     "imageName": "vauban-in-action-glyph-46e15eff93.png",
     "masterable": false,
@@ -16186,6 +16227,17 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTenYearAnniversary"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph to commemorate thirteen years of Warframe.",
+    "excludeFromCodex": true,
+    "imageName": "year-thirteen-anniversary-glyph-e65a000c25.png",
+    "masterable": false,
+    "name": "Year Thirteen Anniversary Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageThirteenYearAnniversary"
   },
   {
     "category": "Glyphs",

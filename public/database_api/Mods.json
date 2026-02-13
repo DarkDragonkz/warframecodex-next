@@ -50701,6 +50701,59 @@
     "wikiaUrl": "https://wiki.warframe.com/w/Enduring_Affliction"
   },
   {
+    "baseDrain": 6,
+    "category": "Mods",
+    "compatName": "Vauban",
+    "fusionLimit": 3,
+    "imageName": "enduring-bastille-236332aeea.jpg",
+    "introduced": {
+      "name": "Update 15.6",
+      "url": "https://wiki.warframe.com/w/Update_15%23Update_15.6",
+      "aliases": [
+        "15.6.0",
+        "15.6"
+      ],
+      "parent": "15.6",
+      "date": "2014-12-11"
+    },
+    "isAugment": true,
+    "isPrime": false,
+    "levelStats": [
+      {
+        "stats": [
+          "Bastille Augment: Killing an enemy in Bastille extends the duration by 2s. Vortex's duration is increased by 50% of its Maximum Duration for each additional Vortex thrown into it."
+        ]
+      },
+      {
+        "stats": [
+          "Bastille Augment: Killing an enemy in Bastille extends the duration by 2s. Vortex's duration is increased by 55% of its Maximum Duration for each additional Vortex thrown into it."
+        ]
+      },
+      {
+        "stats": [
+          "Bastille Augment: Killing an enemy in Bastille extends the duration by 2s. Vortex's duration is increased by 60% of its Maximum Duration for each additional Vortex thrown into it."
+        ]
+      },
+      {
+        "stats": [
+          "Bastille Augment: Killing an enemy in Bastille extends the duration by 2s. Vortex's duration is increased by 70% of its Maximum Duration for each additional Vortex thrown into it."
+        ]
+      }
+    ],
+    "masterable": false,
+    "name": "Enduring Bastille",
+    "polarity": "zenurik",
+    "rarity": "Rare",
+    "releaseDate": "2014-12-11",
+    "tradable": true,
+    "transmutable": false,
+    "type": "Warframe Mod",
+    "uniqueName": "/Lotus/Powersuits/Trapper/LevTrapAugmentCard",
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/EnduringBastilleMod.png?19dcd",
+    "wikiaUrl": "https://wiki.warframe.com/w/Enduring_Bastille"
+  },
+  {
     "baseDrain": 4,
     "category": "Mods",
     "compatName": "Melee",
@@ -62646,7 +62699,7 @@
         "name": "Update 13: Dark Sectors",
         "date": "2014-04-10T05:28:14Z",
         "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
-        "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:��   Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+        "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
         "changes": "",
         "fixes": ""
       }
@@ -70486,7 +70539,7 @@
         "name": "Update 13: Dark Sectors",
         "date": "2014-04-10T05:28:14Z",
         "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
-        "additions": "Katana 1:��   Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+        "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
         "changes": "",
         "fixes": ""
       }
@@ -115639,22 +115692,22 @@
     "levelStats": [
       {
         "stats": [
-          "Transmutation Probe Augment: Probe returns to Lavos after reaching max range, and remains nearby for 6s. Recall Probe by recasting. Recast again to end."
+          "Transmutation Probe Augment: Probe returns to cast position after reaching max range, and remains nearby for 6s. Recall Probe by recasting. Recast again to end."
         ]
       },
       {
         "stats": [
-          "Transmutation Probe Augment: Probe returns to Lavos after reaching max range, and remains nearby for 9s. Recall Probe by recasting. Recast again to end."
+          "Transmutation Probe Augment: Probe returns to cast position after reaching max range, and remains nearby for 9s. Recall Probe by recasting. Recast again to end."
         ]
       },
       {
         "stats": [
-          "Transmutation Probe Augment: Probe returns to Lavos after reaching max range, and remains nearby for 12s. Recall Probe by recasting. Recast again to end."
+          "Transmutation Probe Augment: Probe returns to cast position after reaching max range, and remains nearby for 12s. Recall Probe by recasting. Recast again to end."
         ]
       },
       {
         "stats": [
-          "Transmutation Probe Augment: Probe returns to Lavos after reaching max range, and remains nearby for 15s. Recall Probe by recasting. Recast again to end."
+          "Transmutation Probe Augment: Probe returns to cast position after reaching max range, and remains nearby for 15s. Recall Probe by recasting. Recast again to end."
         ]
       }
     ],
@@ -161572,22 +161625,22 @@
     "levelStats": [
       {
         "stats": [
-          "Photon Strike Augment: If Photon Strike hits at least <LOWER_IS_BETTER>8 enemies, the next cast will cost no Energy and fire a second strike."
+          "Photon Strike Augment: If Photon Strike hits at least <LOWER_IS_BETTER>8 enemies, the next cast will cost no Energy and fire two additional strikes."
         ]
       },
       {
         "stats": [
-          "Photon Strike Augment: If Photon Strike hits at least <LOWER_IS_BETTER>7 enemies, the next cast will cost no Energy and fire a second strike."
+          "Photon Strike Augment: If Photon Strike hits at least <LOWER_IS_BETTER>7 enemies, the next cast will cost no Energy and fire two additional strikes."
         ]
       },
       {
         "stats": [
-          "Photon Strike Augment: If Photon Strike hits at least <LOWER_IS_BETTER>6 enemies, the next cast will cost no Energy and fire a second strike."
+          "Photon Strike Augment: If Photon Strike hits at least <LOWER_IS_BETTER>6 enemies, the next cast will cost no Energy and fire two additional strikes."
         ]
       },
       {
         "stats": [
-          "Photon Strike Augment: If Photon Strike hits at least <LOWER_IS_BETTER>5 enemies, the next cast will cost no Energy and fire a second strike."
+          "Photon Strike Augment: If Photon Strike hits at least <LOWER_IS_BETTER>5 enemies, the next cast will cost no Energy and fire two additional strikes."
         ]
       }
     ],
@@ -200400,6 +200453,7 @@
     "type": "Warframe Mod",
     "uniqueName": "/Lotus/Powersuits/Pacifist/PacifistFistAugmentCard",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ReactiveStormMod.png?6bd05",
     "wikiaUrl": "https://wiki.warframe.com/w/Reactive_Storm"
   },
   {
@@ -209037,91 +209091,6 @@
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RepeaterClipMod.png?6985e",
     "wikiaUrl": "https://wiki.warframe.com/w/Repeater_Clip"
-  },
-  {
-    "baseDrain": 6,
-    "category": "Mods",
-    "compatName": "Vauban",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Suda, Genius",
-        "rarity": "Common",
-        "type": "Repelling Bastille (Vauban)"
-      },
-      {
-        "chance": 1,
-        "location": "The Perrin Sequence, Partner",
-        "rarity": "Common",
-        "type": "Repelling Bastille (Vauban)"
-      }
-    ],
-    "fusionLimit": 3,
-    "imageName": "repelling-bastille-236332aeea.jpg",
-    "introduced": {
-      "name": "Update 15.6",
-      "url": "https://wiki.warframe.com/w/Update_15%23Update_15.6",
-      "aliases": [
-        "15.6.0",
-        "15.6"
-      ],
-      "parent": "15.6",
-      "date": "2014-12-11"
-    },
-    "isAugment": true,
-    "isPrime": false,
-    "levelStats": [
-      {
-        "stats": [
-          "Bastille Augment: Enemies within the Bastille have a 50% chance to be repelled every 4s. Vortex's duration is increased by 50% of its Maximum Duration for each additional Vortex thrown into it."
-        ]
-      },
-      {
-        "stats": [
-          "Bastille Augment: Enemies within the Bastille have a 65% chance to be repelled every 4s. Vortex's duration is increased by 55% of its Maximum Duration for each additional Vortex thrown into it."
-        ]
-      },
-      {
-        "stats": [
-          "Bastille Augment: Enemies within the Bastille have a 80% chance to be repelled every 4s. Vortex's duration is increased by 60% of its Maximum Duration for each additional Vortex thrown into it."
-        ]
-      },
-      {
-        "stats": [
-          "Bastille Augment: Enemies within the Bastille have a 100% chance to be repelled every 4s. Vortex's duration is increased by 70% of its Maximum Duration for each additional Vortex thrown into it."
-        ]
-      }
-    ],
-    "masterable": false,
-    "name": "Repelling Bastille",
-    "patchlogs": [
-      {
-        "name": "The Sacrifice: Update 23.3.0 + 23.3.0.1",
-        "date": "2018-08-09T15:46:06Z",
-        "url": "https://forums.warframe.com/topic/995084-the-sacrifice-update-2330-23301/",
-        "additions": "",
-        "changes": "Repelling Bastille Augment now pushes additional enemies outwards every 4s. ",
-        "fixes": ""
-      },
-      {
-        "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
-        "date": "2016-05-27T21:20:29Z",
-        "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
-        "additions": "",
-        "changes": "",
-        "fixes": "•    Fixed hearing Vauban’s Bastille sound effect across the map when the Repelling Bastille Mod is equipped."
-      }
-    ],
-    "polarity": "zenurik",
-    "rarity": "Rare",
-    "releaseDate": "2014-12-11",
-    "tradable": true,
-    "transmutable": false,
-    "type": "Warframe Mod",
-    "uniqueName": "/Lotus/Powersuits/Trapper/LevTrapAugmentCard",
-    "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/RepellingBastilleMod.png?2a292",
-    "wikiaUrl": "https://wiki.warframe.com/w/Repelling_Bastille"
   },
   {
     "baseDrain": 0,
@@ -285261,22 +285230,22 @@
     "levelStats": [
       {
         "stats": [
-          "Tesla Nervos Augment: While a target has a Nervos attached, any damage dealt to it will be absorbed by the Nervos and channeled into a 5m burst of <DT_ELECTRICITY_COLOR>Electricity on death."
+          "Tesla Nervos Augment: Enemy health when a Nervos is first attached is converted into 5m burst of <DT_ELECTRICITY_COLOR>Electricity when killed."
         ]
       },
       {
         "stats": [
-          "Tesla Nervos Augment: While a target has a Nervos attached, any damage dealt to it will be absorbed by the Nervos and channeled into a 6m burst of <DT_ELECTRICITY_COLOR>Electricity on death."
+          "Tesla Nervos Augment: Enemy health when a Nervos is first attached is converted into 6m burst of <DT_ELECTRICITY_COLOR>Electricity when killed."
         ]
       },
       {
         "stats": [
-          "Tesla Nervos Augment: While a target has a Nervos attached, any damage dealt to it will be absorbed by the Nervos and channeled into a 7m burst of <DT_ELECTRICITY_COLOR>Electricity on death."
+          "Tesla Nervos Augment: Enemy health when a Nervos is first attached is converted into 7m burst of <DT_ELECTRICITY_COLOR>Electricity when killed."
         ]
       },
       {
         "stats": [
-          "Tesla Nervos Augment: While a target has a Nervos attached, any damage dealt to it will be absorbed by the Nervos and channeled into a 8m burst of <DT_ELECTRICITY_COLOR>Electricity on death."
+          "Tesla Nervos Augment: Enemy health when a Nervos is first attached is converted into 8m burst of <DT_ELECTRICITY_COLOR>Electricity when killed."
         ]
       }
     ],
