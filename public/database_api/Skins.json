@@ -52561,7 +52561,7 @@
         "name": "Shrine of the Eidolon: Update 22.14.0",
         "date": "2018-03-01T18:20:15Z",
         "url": "https://forums.warframe.com/topic/928296-shrine-of-the-eidolon-update-22140/",
-        "additions": "Grineer Shipyards Manufactory Scene (New Loka)��\nGrineer Settlement Reactor Scene (Steel Meridian)",
+        "additions": "Grineer Shipyards Manufactory Scene (New Loka) \nGrineer Settlement Reactor Scene (Steel Meridian)",
         "changes": "Fixed blurry Elevator control consoles in various Grineer tileset.\nFixed AI getting stuck in a low ceiling area in the Grineer Forest tileset.\nFixed an escapable level hole in the Grineer Forest tileset as reported here:",
         "fixes": ""
       },
@@ -130438,7 +130438,7 @@
         "date": "2016-05-20T16:40:16Z",
         "url": "https://forums.warframe.com/topic/650205-hotfix-18122/",
         "additions": "",
-        "changes": "•    Made optimizations to reduce stuttering when a Tenno or Stalker joins your mission in progress.",
+        "changes": "•   ��Made optimizations to reduce stuttering when a Tenno or Stalker joins your mission in progress.",
         "fixes": ""
       },
       {
