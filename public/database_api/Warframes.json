@@ -19764,7 +19764,7 @@
         "url": "https://forums.warframe.com/topic/1189247-warframe-revised-railjack-revisited-part-1-update-274/",
         "additions": "",
         "changes": "Banshee, Excalibur Umbra, Frost, Nekros, Nova, Nyx, Saryn, Valkyr, and Zephyr Ability videos have been added to their respective Arsenals! \nMinor tweaks to Excalibur’s Radial Javelin cast effect and gave it some ground interaction (ice chunks when cast over ice, etc).",
-        "fixes": "Fixes towards clipping issues from upper leg armor pieces on Excalibur. \nFixed Excalibur’s Ion Helmet appearing as his default in the Conclave Arsenal after being equipped in the co-op Arsenal. This also fixed being unable to equip the Ion helmet while in the Conclave Arsenal.\nFixed a script error that could occur if you were swinging Excalibur’s Exalted Blade at the same time as you activated a context action.\nFixed script error that could occur when jumping down into the darkness in the Apostasy Prologue as Excalibur Umbra."
+        "fixes": "Fixes towards clipping issues from upper leg armor pieces on Excalibur.��\nFixed Excalibur’s Ion Helmet appearing as his default in the Conclave Arsenal after being equipped in the co-op Arsenal. This also fixed being unable to equip the Ion helmet while in the Conclave Arsenal.\nFixed a script error that could occur if you were swinging Excalibur’s Exalted Blade at the same time as you activated a context action.\nFixed script error that could occur when jumping down into the darkness in the Apostasy Prologue as Excalibur Umbra."
       },
       {
         "name": "Warframe Revised: Update 27.2.0",
@@ -109045,7 +109045,7 @@
         "date": "2014-05-14T23:33:51Z",
         "url": "https://forums.warframe.com/topic/231590-update-1330-pack-hunters/",
         "additions": "",
-        "changes": "Shield: increased size of Volt’s Shield for better team usage.\nReduced the amount of motion blur seen from Volt's Speed ability.\nTweaked the ability and energy visuals on numerous Warframes including Rhino, Frost, Nova, Ash, Banshee, Zephyr, Vauban, Volt and Valkyr.",
+        "changes": "Shield: increased size of Volt��s Shield for better team usage.\nReduced the amount of motion blur seen from Volt's Speed ability.\nTweaked the ability and energy visuals on numerous Warframes including Rhino, Frost, Nova, Ash, Banshee, Zephyr, Vauban, Volt and Valkyr.",
         "fixes": ""
       },
       {
