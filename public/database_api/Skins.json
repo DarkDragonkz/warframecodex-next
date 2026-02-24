@@ -10552,7 +10552,7 @@
   },
   {
     "category": "Skins",
-    "description": "Elevate the Boar’s rough and ready functionality with this bronzed Elixis skin.",
+    "description": "Elevate the Boar's rough and ready functionality with this bronzed Elixis skin.",
     "imageName": "boar-elixis-skin-2fc10f447c.png",
     "masterable": false,
     "name": "Boar Elixis Skin",
@@ -51827,7 +51827,7 @@
         "url": "https://forums.warframe.com/topic/1172454-warframe-revised-update-2720/",
         "additions": "Added new Elite Shield Lancers to Asteroid, Forest, Shipyard and Galleon missions that have level 25+ Grineer.\nAdded new “hit reaction” animations to Grineer enemies!\nBefore this change Grineer would only “flinch” when attacked \nNow, with the updated hit reactions, it’ll be much easier to see when an enemy has been hit. These hit reactions are also much more dynamic to improve your Grineer crushing experience. ",
         "changes": "Improved Railjack Grineer Fighter variety across all 3 Proxima regions.\nThe way the levels were set up on the various Grineer Fighters, some of the nodes had level ranges that were too high for all the varieties to appear (The Elite varieties on Earth never spawned for example). So we re-adjusted the level ranges for the various Grineer fighters (Kosma, Gyre, Exo) across all 3 regions , so that there was a better spread of the different fighter types across the nodes. In other words, the lower level nodes of a region will spawn the basic fighter types and then as the difficulty of the nodes progress the Elites are slowly introduced. \nShield values do not apply here as Grineer enemies do not have Shields. \nFixed missile-distraction abilities from Odonata and Elytron being ineffective against missiles that stop tracking halfway in Railjack missions. This notably affects the long-range Grineer Crewship missiles (not the shorter range cannons, which aren't homing).\nFixed a couple cases of Grineer Mines being unlocalized.\nThe Grineer Shield Lancer has been given a brand new reload animation! ",
-        "fixes": "Fixed a bug where certain pain reactions would make Grineer faces look like they were put in the microwave on the \"melt butter\" setting.\nFixed wild flickering issues on one of the doors in the Grineer Asteroid and Galleon tileset.\nFixed issue with enemy navigation in the Grineer Galleon tileset where enemies would attempt to cross through a solid window.\nFixed hole in map due to missing wall in the Grineer Galleon tileset. \nFixed a large ceiling pipe missing its material in the Grineer Sealab tileset. \nFixed being able to escape the Grineer Sealab tileset using Itzal���s Arch Line. \nFixed ally Grineer Napalms (Nekros’ Shadow of the Dead) damaging themselves with their own missiles. \nFixed bad water materials in the Grineer Forest tileset.\nFixed a flag in Grineer Settlement being entirely unlit compared to the others. \nFixed lightning issues on certain doors and hallways in the Grineer Galleon tileset. \nFixed visible gap in the wall in the Grineer Galleon mission during Saya’s Vigil Quest. \nFixed texture flickering on Spy Vault doors in the Grineer Settlement tileset. \nFixed a case of a locked door icon showing unlocked in the Grineer Galleon tileset. "
+        "fixes": "Fixed a bug where certain pain reactions would make Grineer faces look like they were put in the microwave on the \"melt butter\" setting.\nFixed wild flickering issues on one of the doors in the Grineer Asteroid and Galleon tileset.\nFixed issue with enemy navigation in the Grineer Galleon tileset where enemies would attempt to cross through a solid window.\nFixed hole in map due to missing wall in the Grineer Galleon tileset. \nFixed a large ceiling pipe missing its material in the Grineer Sealab tileset. \nFixed being able to escape the Grineer Sealab tileset using Itzal’s Arch Line. \nFixed ally Grineer Napalms (Nekros’ Shadow of the Dead) damaging themselves with their own missiles. \nFixed bad water materials in the Grineer Forest tileset.\nFixed a flag in Grineer Settlement being entirely unlit compared to the others. \nFixed lightning issues on certain doors and hallways in the Grineer Galleon tileset. \nFixed visible gap in the wall in the Grineer Galleon mission during Saya’s Vigil Quest. \nFixed texture flickering on Spy Vault doors in the Grineer Settlement tileset. \nFixed a case of a locked door icon showing unlocked in the Grineer Galleon tileset. "
       },
       {
         "name": "Empyrean: Kuva Lich Changes 27.1.0 + 27.1.0.1",
@@ -61930,7 +61930,7 @@
         "url": "https://forums.warframe.com/topic/1001509-mask-of-the-revenant-update-2350/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed some Ice Dojo Decorations having collision when ‘under construction’. "
+        "fixes": "Fixed some Ice Dojo Decorations having collision when ‘under construction��. "
       },
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -68941,121 +68941,141 @@
             "chance": 0.11,
             "location": "Axi G1 Relic",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionKBronze"
           },
           {
             "chance": 0.11,
             "location": "Axi S7 Relic",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionNovaTrinityVaultABronze"
           },
           {
             "chance": 0.11,
             "location": "Lith S4 Relic",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionNBronze"
           },
           {
             "chance": 0.11,
             "location": "Meso P6 Relic",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboTrinityVaultABronze"
           },
           {
             "chance": 0.11,
             "location": "Neo N1 Relic",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionCBronze"
           },
           {
             "chance": 0.13,
             "location": "Axi G1 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionKBronze"
           },
           {
             "chance": 0.13,
             "location": "Axi S7 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionNovaTrinityVaultABronze"
           },
           {
             "chance": 0.13,
             "location": "Lith S4 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionNBronze"
           },
           {
             "chance": 0.13,
             "location": "Meso P6 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboTrinityVaultABronze"
           },
           {
             "chance": 0.13,
             "location": "Neo N1 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionCBronze"
           },
           {
             "chance": 0.17,
             "location": "Axi G1 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionKBronze"
           },
           {
             "chance": 0.17,
             "location": "Axi S7 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionNovaTrinityVaultABronze"
           },
           {
             "chance": 0.17,
             "location": "Lith S4 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionNBronze"
           },
           {
             "chance": 0.17,
             "location": "Meso P6 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboTrinityVaultABronze"
           },
           {
             "chance": 0.17,
             "location": "Neo N1 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionCBronze"
           },
           {
             "chance": 0.2,
             "location": "Axi G1 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionKBronze"
           },
           {
             "chance": 0.2,
             "location": "Axi S7 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionNovaTrinityVaultABronze"
           },
           {
             "chance": 0.2,
             "location": "Lith S4 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionNBronze"
           },
           {
             "chance": 0.2,
             "location": "Meso P6 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboTrinityVaultABronze"
           },
           {
             "chance": 0.2,
             "location": "Neo N1 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Kubrow Collar Blueprint"
+            "type": "Kavasa Prime Kubrow Collar Blueprint",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionCBronze"
           }
         ]
       },
@@ -69072,169 +69092,197 @@
             "chance": 0.11,
             "location": "Lith C1 Relic",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionJBronze"
           },
           {
             "chance": 0.11,
             "location": "Lith L3 Relic",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboTrinityVaultABronze"
           },
           {
             "chance": 0.11,
             "location": "Lith N2 Relic",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionRBronze"
           },
           {
             "chance": 0.11,
             "location": "Lith S2 Relic",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionBBronze"
           },
           {
             "chance": 0.11,
             "location": "Lith S6 Relic",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionVBronze"
           },
           {
             "chance": 0.11,
             "location": "Meso V3 Relic",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionNBronze"
           },
           {
             "chance": 0.11,
             "location": "Neo N12 Relic",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNovaTrinityVaultABronze"
           },
           {
             "chance": 0.13,
             "location": "Lith C1 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionJBronze"
           },
           {
             "chance": 0.13,
             "location": "Lith L3 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboTrinityVaultABronze"
           },
           {
             "chance": 0.13,
             "location": "Lith N2 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionRBronze"
           },
           {
             "chance": 0.13,
             "location": "Lith S2 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionBBronze"
           },
           {
             "chance": 0.13,
             "location": "Lith S6 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionVBronze"
           },
           {
             "chance": 0.13,
             "location": "Meso V3 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionNBronze"
           },
           {
             "chance": 0.13,
             "location": "Neo N12 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNovaTrinityVaultABronze"
           },
           {
             "chance": 0.17,
             "location": "Lith C1 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionJBronze"
           },
           {
             "chance": 0.17,
             "location": "Lith L3 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboTrinityVaultABronze"
           },
           {
             "chance": 0.17,
             "location": "Lith N2 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionRBronze"
           },
           {
             "chance": 0.17,
             "location": "Lith S2 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionBBronze"
           },
           {
             "chance": 0.17,
             "location": "Lith S6 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionVBronze"
           },
           {
             "chance": 0.17,
             "location": "Meso V3 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionNBronze"
           },
           {
             "chance": 0.17,
             "location": "Neo N12 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNovaTrinityVaultABronze"
           },
           {
             "chance": 0.2,
             "location": "Lith C1 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionJBronze"
           },
           {
             "chance": 0.2,
             "location": "Lith L3 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboTrinityVaultABronze"
           },
           {
             "chance": 0.2,
             "location": "Lith N2 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionRBronze"
           },
           {
             "chance": 0.2,
             "location": "Lith S2 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionBBronze"
           },
           {
             "chance": 0.2,
             "location": "Lith S6 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionVBronze"
           },
           {
             "chance": 0.2,
             "location": "Meso V3 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionNBronze"
           },
           {
             "chance": 0.2,
             "location": "Neo N12 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Band"
+            "type": "Kavasa Prime Band",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNovaTrinityVaultABronze"
           }
         ],
         "masterable": false,
@@ -69253,145 +69301,169 @@
             "chance": 0.02,
             "location": "Axi K1 Relic",
             "rarity": "Rare",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCBronze"
           },
           {
             "chance": 0.02,
             "location": "Lith K1 Relic",
             "rarity": "Rare",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionKBronze"
           },
           {
             "chance": 0.02,
             "location": "Lith K4 Relic",
             "rarity": "Rare",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionNovaTrinityVaultABronze"
           },
           {
             "chance": 0.02,
             "location": "Lith K8 Relic",
             "rarity": "Rare",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboTrinityVaultBBronze"
           },
           {
             "chance": 0.04,
             "location": "Axi K1 Relic (Exceptional)",
             "rarity": "Rare",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCBronze"
           },
           {
             "chance": 0.04,
             "location": "Lith K1 Relic (Exceptional)",
             "rarity": "Rare",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionKBronze"
           },
           {
             "chance": 0.04,
             "location": "Lith K4 Relic (Exceptional)",
             "rarity": "Rare",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionNovaTrinityVaultABronze"
           },
           {
             "chance": 0.04,
             "location": "Lith K8 Relic (Exceptional)",
             "rarity": "Rare",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboTrinityVaultBBronze"
           },
           {
             "chance": 0.06,
             "location": "Axi K1 Relic (Flawless)",
             "rarity": "Rare",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCBronze"
           },
           {
             "chance": 0.06,
             "location": "Lith K1 Relic (Flawless)",
             "rarity": "Rare",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionKBronze"
           },
           {
             "chance": 0.06,
             "location": "Lith K4 Relic (Flawless)",
             "rarity": "Rare",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionNovaTrinityVaultABronze"
           },
           {
             "chance": 0.06,
             "location": "Lith K8 Relic (Flawless)",
             "rarity": "Rare",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboTrinityVaultBBronze"
           },
           {
             "chance": 0.1,
             "location": "Axi K1 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCBronze"
           },
           {
             "chance": 0.1,
             "location": "Lith K1 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionKBronze"
           },
           {
             "chance": 0.1,
             "location": "Lith K4 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionNovaTrinityVaultABronze"
           },
           {
             "chance": 0.1,
             "location": "Lith K8 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboTrinityVaultBBronze"
           },
           {
             "chance": 0.11,
             "location": "Axi B1 Relic",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionRBronze"
           },
           {
             "chance": 0.11,
             "location": "Neo S6 Relic",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVBronze"
           },
           {
             "chance": 0.13,
             "location": "Axi B1 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionRBronze"
           },
           {
             "chance": 0.13,
             "location": "Neo S6 Relic (Exceptional)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVBronze"
           },
           {
             "chance": 0.17,
             "location": "Axi B1 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionRBronze"
           },
           {
             "chance": 0.17,
             "location": "Neo S6 Relic (Flawless)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVBronze"
           },
           {
             "chance": 0.2,
             "location": "Axi B1 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionRBronze"
           },
           {
             "chance": 0.2,
             "location": "Neo S6 Relic (Radiant)",
             "rarity": "Uncommon",
-            "type": "Kavasa Prime Buckle"
+            "type": "Kavasa Prime Buckle",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVBronze"
           }
         ],
         "masterable": false,
@@ -83019,7 +83091,7 @@
   },
   {
     "category": "Skins",
-    "description": "A sprightly dance reminiscent of the kaithe’s ambling prance, suitable for the Lunar Renewal.\n\nEquip this emote using the Gear Wheel tab in your Arsenal.\n",
+    "description": "A sprightly dance reminiscent of the kaithe’s ambling prance, suitable for the Lunar Renewal.\n\nEquip this emote using the Gear Wheel tab in your Arsenal.",
     "imageName": "lunar-renewal-kaithe-flourish-d639e1dadc.png",
     "masterable": false,
     "name": "Lunar Renewal Kaithe Flourish",
@@ -84820,7 +84892,7 @@
   },
   {
     "category": "Skins",
-    "description": "Neci Rusalka’s distinctive Scaldra hat, received as part of a mysterious communication.",
+    "description": "Neci Rusalka���s distinctive Scaldra hat, received as part of a mysterious communication.",
     "excludeFromCodex": true,
     "imageName": "major-rusalka's-hat-memento-1b6db4e043.png",
     "masterable": false,
