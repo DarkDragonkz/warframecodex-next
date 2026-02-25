@@ -61930,7 +61930,7 @@
         "url": "https://forums.warframe.com/topic/1001509-mask-of-the-revenant-update-2350/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed some Ice Dojo Decorations having collision when ‘under construction��. "
+        "fixes": "Fixed some Ice Dojo Decorations having collision when ‘under construction’. "
       },
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -84892,7 +84892,7 @@
   },
   {
     "category": "Skins",
-    "description": "Neci Rusalka���s distinctive Scaldra hat, received as part of a mysterious communication.",
+    "description": "Neci Rusalka’s distinctive Scaldra hat, received as part of a mysterious communication.",
     "excludeFromCodex": true,
     "imageName": "major-rusalka's-hat-memento-1b6db4e043.png",
     "masterable": false,
