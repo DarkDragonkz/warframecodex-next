@@ -66650,7 +66650,7 @@
         "date": "2022-11-30T22:33:07Z",
         "url": "https://forums.warframe.com/topic/1332403-lua%E2%80%99s-prey-hotfix-3221%C2%A0/",
         "additions": "",
-        "changes": "Fixed Nekros’ Lua Thrax Shadows of the Dead applying their Life Support drain in Conjunction Survival missions.��",
+        "changes": "Fixed Nekros’ Lua Thrax Shadows of the Dead applying their Life Support drain in Conjunction Survival missions. ",
         "fixes": "Nekros’ Lua Thrax Shadows of the Dead only attacking other Lua Thrax enemies. "
       },
       {
@@ -66723,7 +66723,7 @@
         "url": "https://forums.warframe.com/topic/1269749-update-305-sisters-of-parvos/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Nekros’ Shadows of the Dead clones counting as enemies killed in the Mastery Rank 30 test. "
+        "fixes": "Fixed Nekros’ Shadows of the Dead clones counting as enemies killed in the Mastery Rank 30 test.��"
       },
       {
         "name": "Gara Prime: Update 30.3.0",

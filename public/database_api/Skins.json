@@ -21562,7 +21562,7 @@
         "date": "2018-03-15T20:27:52Z",
         "url": "https://forums.warframe.com/topic/933296-shrine-of-the-eidolon-update-22160/",
         "additions": "",
-        "changes": "Improved AI navigation in the Corpus Ice Planet Defense tileset.\nImproved AI navigation  in the Corpus Outpost Rescue tileset.\nUpdated all lowercase mentions of ‘Grineer’, ‘Corpus’ and ‘Warframe’ to be uniformly uppercase across the entire game in all languages.",
+        "changes": "Improved AI navigation in the Corpus Ice Planet Defense tileset.\nImproved AI navigation  in the Corpus Outpost Rescue tileset.\nUpdated all lowercase mentions of ���Grineer’, ‘Corpus’ and ‘Warframe’ to be uniformly uppercase across the entire game in all languages.",
         "fixes": "Fixed an escapable elevator hole in the Void and Corpus Ship tileset.\nFixed an unintended teleport volume in the Corpus Ice Planet tileset.\nCorpus Ice Planet\nFixed various level holes in the Corpus Outpost tileset.\nFixed spawning at the beginning of a Corpus Gas City mission if you roll into an elevator before the door closes but after the elevator has already left. \nFixed the Grustrag 3 targeting enemies instead of the player when spawned with Beacons in Corpus/Infested missions. \nFixed an invisible blocking volume in the Corpus Ice Planet tileset as reported here: https://www.reddit.com/r/Warframe/comments/83f53j/invisible_object_right_where_the_red_square_is_in/ \nFixed rogue teleporting volumes that resulted in players getting stuck in an endless teleporting loop in the Corpus Ice Planet tileset. "
       },
       {

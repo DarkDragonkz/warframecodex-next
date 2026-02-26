@@ -49726,7 +49726,7 @@
         "url": "https://forums.warframe.com/topic/298960-update-145-operation-cryotic-front/",
         "additions": "",
         "changes": "• Added new Colour Customization options available through 2 new packs! These packs are brand new colours that can be applied to your current Kubrow patterns!\n• Kubrows are now in free-roam mode on the Liset!\n• Added a “Consign to the Lotus” button for unwanted Kubrows.  Fear not, the Lotus shall take care of them!\n• Additional animations for Kubrow Cubs!\n• Added Kubrow filters for Mods.",
-        "fixes": "• Fixed for Kubrow pet spawning behind player for intro cinematic when spawning in a mission.\n• Fixed issues where Kubrow loyalty would not be restored if the pet interaction did not play.\n• Fixed issues with long Kubrow names clipping outside stasis slots.\n• Fixed issues with Sentinel ‘Weapon Slot’ behavior in Arsenal when switching between Sentinels and Kubrows."
+        "fixes": "• Fixed for Kubrow pet spawning behind player for intro cinematic when spawning in a mission.\n• Fixed issues where Kubrow loyalty would not be restored if the pet interaction did not play.\n• Fixed issues with long Kubrow names clipping outside stasis slots.\n��� Fixed issues with Sentinel ‘Weapon Slot’ behavior in Arsenal when switching between Sentinels and Kubrows."
       },
       {
         "name": "Hotfix 14.1.4",
