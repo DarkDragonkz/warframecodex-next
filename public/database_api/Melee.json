@@ -22209,7 +22209,6 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Axe/DualAxeWeapon",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DualZoren.png?ac109",
     "wikiaUrl": "https://wiki.warframe.com/w/Dual_Zoren",
     "windUp": 0.69999999
   },
@@ -22600,7 +22599,6 @@
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Axe/PrimeZoren/PrimeZorenAxeWeapon",
     "vaulted": false,
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DualZorenPrime.png?1d21b",
     "wikiaUrl": "https://wiki.warframe.com/w/Dual_Zoren_Prime",
     "windUp": 0.69999999
   },
@@ -22843,7 +22841,6 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Polearms/DaxDuviriPolearm/DaxDuviriPolearmWeapon",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Edun.png?09a1a",
     "wikiaUrl": "https://wiki.warframe.com/w/Edun",
     "windUp": 1
   },
@@ -23047,7 +23044,6 @@
     "type": "Rifle",
     "uniqueName": "/Lotus/Weapons/Thanotech/EntSphereHammer/EntSphereHammer",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Ekhein.png?4ac5d",
     "wikiaUrl": "https://wiki.warframe.com/w/Ekhein",
     "windUp": 1.2
   },
@@ -24051,7 +24047,6 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/ThreeLeaf/ThreeLeaf",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Endura.png?6c6f0",
     "wikiaUrl": "https://wiki.warframe.com/w/Endura",
     "windUp": 0.5
   },
@@ -24312,7 +24307,6 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/DualDagger/DualEtherDagger",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/EtherDaggers.png?70d49",
     "wikiaUrl": "https://wiki.warframe.com/w/Ether_Daggers",
     "windUp": 0.5
   },
@@ -24540,7 +24534,6 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Scythe/EtherScytheWeapon",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/EtherReaper.png?145af",
     "wikiaUrl": "https://wiki.warframe.com/w/Ether_Reaper",
     "windUp": 1
   },
@@ -24771,7 +24764,6 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/LongSword/EtherSword",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/EtherSword.png?76f1e",
     "wikiaUrl": "https://wiki.warframe.com/w/Ether_Sword",
     "windUp": 0.60000002
   },
@@ -25126,7 +25118,6 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Corpus/Melee/Glaive/CrpGlaive/CrpGlaive",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Falcor.png?4acc7",
     "wikiaUrl": "https://wiki.warframe.com/w/Falcor",
     "windUp": 1.2
   },
@@ -25457,7 +25448,6 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/DualDagger/DualDagger",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Fang.png?dbd6b",
     "wikiaUrl": "https://wiki.warframe.com/w/Fang",
     "windUp": 0.5
   },
@@ -29239,7 +29229,6 @@
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/DualDagger/FangPrimeDagger",
     "vaulted": false,
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/FangPrime.png?73eaa",
     "wikiaUrl": "https://wiki.warframe.com/w/Fang_Prime",
     "windUp": 0.5
   },
@@ -29534,7 +29523,6 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Hammer/HammerWeapon",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Fragor.png?36f9b",
     "wikiaUrl": "https://wiki.warframe.com/w/Fragor",
     "windUp": 1.2
   },
@@ -86349,7 +86337,6 @@
           "Tenno"
         ],
         "stancePolarity": "zenurik",
-        "wikiaThumbnail": "https://wiki.warframe.com/images/DualZoren.png?ac109",
         "wikiaUrl": "https://wiki.warframe.com/w/Dual_Zoren",
         "disposition": 5,
         "introduced": {
@@ -86504,6 +86491,7 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Grineer/Melee/GrnDualFireAxe/GrnDualFireAxe",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/TwinBasolk.png?ad177",
     "wikiaUrl": "https://wiki.warframe.com/w/Twin_Basolk",
     "windUp": 0.69999999
   },
@@ -86984,6 +86972,7 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Grineer/Melee/GrnEgyptSwd/DualGrnEgyptSwdWeapon",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/TwinKrohkur.png?9e026",
     "wikiaUrl": "https://wiki.warframe.com/w/Twin_Krohkur",
     "windUp": 0.69999999
   },
@@ -87836,6 +87825,7 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Grineer/Melee/GunBlade/GrnGunBlade/GrnGunblade",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Vastilok.png?fdf3e",
     "wikiaUrl": "https://wiki.warframe.com/w/Vastilok",
     "windUp": 0.40000001
   },
@@ -88032,6 +88022,7 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Syndicates/SteelMeridian/Melee/SMSydon",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/VaykorSydon.png?1524e",
     "wikiaUrl": "https://wiki.warframe.com/w/Vaykor_Sydon",
     "windUp": 0.90000004
   },
@@ -88246,6 +88237,7 @@
     "type": "Rifle",
     "uniqueName": "/Lotus/Weapons/Sentients/SentJointedScythe/SentJointedScytheWeapon",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Venato.png?56f40",
     "wikiaUrl": "https://wiki.warframe.com/w/Venato",
     "windUp": 1
   },
@@ -88619,6 +88611,7 @@
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Scythe/PrimeVento/PrimeVentoScythe",
     "vaulted": false,
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/VenatoPrime.png?eb0e1",
     "wikiaUrl": "https://wiki.warframe.com/w/Venato_Prime",
     "windUp": 1
   },
@@ -88922,6 +88915,7 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Claws/TennoClaws",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Venka.png?03dd1",
     "wikiaUrl": "https://wiki.warframe.com/w/Venka",
     "windUp": 0.60000002
   },
@@ -89703,6 +89697,7 @@
     "vaultDate": "2018-09-25",
     "vaulted": true,
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/VenkaPrime.png?7ea5c",
     "wikiaUrl": "https://wiki.warframe.com/w/Venka_Prime",
     "windUp": 0.60000002
   },
@@ -89960,6 +89955,7 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Archon/Melee/Whip/ArchonWhipPlayerWep",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Verdilac.png?6e3c1",
     "wikiaUrl": "https://wiki.warframe.com/w/Verdilac",
     "windUp": 0.40000001
   },
@@ -90124,6 +90120,7 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Warfan/TnMoonWarfan/MoonWarfanWeapon",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Vericres.png?bcc94",
     "wikiaUrl": "https://wiki.warframe.com/w/Vericres",
     "windUp": 0.5
   },
@@ -90389,6 +90386,7 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/NWIIIOrokinSword/NWOrokinSword",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Vitrica.png?54002",
     "wikiaUrl": "https://wiki.warframe.com/w/Vitrica",
     "windUp": 1.1
   },
@@ -90659,6 +90657,7 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Hammer/GlassHammer/GlassHammer",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Volnus.png?18bd9",
     "wikiaUrl": "https://wiki.warframe.com/w/Volnus",
     "windUp": 1.1
   },
@@ -91407,6 +91406,7 @@
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/PrimeVolnus/VolnusPrimeWeapon",
     "vaulted": false,
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/VolnusPrime.png?34775",
     "wikiaUrl": "https://wiki.warframe.com/w/Volnus_Prime",
     "windUp": 1.1
   },
@@ -96796,6 +96796,7 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/StalkerTwo/StalkerTwoGreatSword",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/War.png?42c4e",
     "wikiaUrl": "https://wiki.warframe.com/w/War",
     "windUp": 1.1
   },
@@ -97101,6 +97102,7 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Hammer/ThrowingHammer",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/WolfSledge.png?02419",
     "wikiaUrl": "https://wiki.warframe.com/w/Wolf_Sledge",
     "windUp": 1.2
   },
@@ -97484,6 +97486,7 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Corpus/Melee/Glaive/CrpGhostCatcherGlaive/CrpGhostCatcherGlaive",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Xoris.png?5c2e5",
     "wikiaUrl": "https://wiki.warframe.com/w/Xoris",
     "windUp": 1.2
   },
@@ -97891,6 +97894,7 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/SunDialAxe/SundialAxeWeapon",
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Zenistar.png?27d70",
     "wikiaUrl": "https://wiki.warframe.com/w/Zenistar",
     "windUp": 1.1
   }
