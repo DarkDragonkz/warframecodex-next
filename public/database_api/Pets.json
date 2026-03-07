@@ -6252,6 +6252,7 @@
     "armor": 450,
     "category": "Pets",
     "description": "Khora's will, Venari's fangs and claws.",
+    "estimatedVaultDate": "2024-04-16",
     "excludeFromCodex": true,
     "health": 1050,
     "imageName": "venari-prime-20c5b97138.png",

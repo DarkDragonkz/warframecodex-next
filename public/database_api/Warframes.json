@@ -3077,7 +3077,7 @@
         "url": "https://forums.warframe.com/topic/92568-update-95-operation-arid-fear/",
         "additions": "",
         "changes": "Added animation and sounds for Ash’s Bladestorm ability vs. Ancients",
-        "fixes": "Fixed issue with Ash Bladestorm where the Ash’s arm may be stuck in his shoulder.\nFixed issue where Ash would become invincible after using Bladestorm on clients."
+        "fixes": "Fixed issue with Ash Bladestorm where the Ash���s arm may be stuck in his shoulder.\nFixed issue where Ash would become invincible after using Bladestorm on clients."
       },
       {
         "name": "Hotfix 9.4: Double Affinity Weekend!",
@@ -4893,7 +4893,7 @@
     "conclave": true,
     "consumeOnBuild": true,
     "description": "In bygone ages, mountains were said to house warriors. In this age, the mountain has become the warrior.",
-    "estimatedVaultDate": "2021-05-26",
+    "estimatedVaultDate": "2021-09-08",
     "exalted": [
       "/Lotus/Powersuits/Brawler/AtlasPunchWeaponPrime"
     ],
@@ -5622,7 +5622,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Brawler/AtlasPrime",
-    "vaultDate": "2021-05-26",
+    "vaultDate": "2021-09-08",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Atlas%2FPrime"
@@ -7399,7 +7399,7 @@
     "conclave": true,
     "consumeOnBuild": true,
     "description": "Banshee Prime assails her foes by manipulating sonic forces to deadly effect. Featuring altered mod polarities for greater customization.",
-    "estimatedVaultDate": "2018-12-12",
+    "estimatedVaultDate": "2018-12-18",
     "health": 270,
     "imageName": "banshee-prime-7bebac6654.png",
     "introduced": {
@@ -8275,7 +8275,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Banshee/BansheePrime",
-    "vaultDate": "2018-12-12",
+    "vaultDate": "2018-12-18",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Banshee%2FPrime"
@@ -9626,7 +9626,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "Doomed are the fools who attack the peace and exhaust the restraint of this reluctant warrior.",
-    "estimatedVaultDate": "2024-09-04",
+    "estimatedVaultDate": "2024-11-13",
     "exalted": [
       "/Lotus/Powersuits/Pacifist/PacifistFistPrime"
     ],
@@ -9993,7 +9993,8 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Pacifist/BaruukPrime",
-    "vaulted": false,
+    "vaultDate": "2024-11-13",
+    "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Baruuk%2FPrime"
   },
@@ -11067,6 +11068,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "Forged in celebration of the all-too-brief peace between the Orokin and Sentients, Caliban Prime is a true collaborative masterpiece. The heir of twin kingdoms arises in royal gold.",
+    "estimatedVaultDate": "2027-05-26",
     "health": 270,
     "imageName": "caliban-prime-6e04a41118.png",
     "introduced": {
@@ -11100,6 +11102,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Sentient/CalibanPrime",
+    "vaulted": false,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Caliban%2FPrime"
   },
@@ -13127,7 +13130,7 @@
     "conclave": true,
     "consumeOnBuild": true,
     "description": "Bind the elements and unleash untold destruction with Chroma Prime. Featuring altered mod polarities for greater customization.",
-    "estimatedVaultDate": "2020-05-30",
+    "estimatedVaultDate": "2020-07-14",
     "health": 270,
     "imageName": "chroma-prime-2ac05d2866.png",
     "introduced": {
@@ -14285,7 +14288,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Dragon/ChromaPrime",
-    "vaultDate": "2020-05-30",
+    "vaultDate": "2020-07-14",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Chroma%2FPrime"
@@ -19303,7 +19306,7 @@
     "conclave": true,
     "consumeOnBuild": true,
     "description": "Night and Day in final balance; the graceful perfection of the one that walks the borders.",
-    "estimatedVaultDate": "2020-10-26",
+    "estimatedVaultDate": "2021-02-23",
     "health": 365,
     "imageName": "equinox-prime-9fbe947b57.png",
     "introduced": {
@@ -20090,7 +20093,7 @@
     ],
     "power": 200,
     "productCategory": "Suits",
-    "releaseDate": "2019-03-27",
+    "releaseDate": "2019-04-02",
     "sex": "Female",
     "shield": 270,
     "skipBuildTimePrice": 50,
@@ -20100,7 +20103,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/YinYang/EquinoxPrime",
-    "vaultDate": "2020-10-26",
+    "vaultDate": "2021-02-23",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Equinox%2FPrime"
@@ -21675,6 +21678,7 @@
     "color": 0,
     "conclave": true,
     "description": "Excalibur Prime is the epitome of mobility and offense, and features the same abilities as Excalibur, but has unique mod polarities installed allowing for greater customization.",
+    "estimatedVaultDate": "2014-09-18",
     "exalted": [
       "/Lotus/Powersuits/Excalibur/DoomSwordPrime"
     ],
@@ -25161,7 +25165,7 @@
     "conclave": true,
     "consumeOnBuild": true,
     "description": "Frost Prime has the same chilling abilities as Frost but provides unique mod polarities, allowing for greater customization.",
-    "estimatedVaultDate": "2015-04-01",
+    "estimatedVaultDate": "2015-03-24",
     "health": 270,
     "imageName": "frost-prime-f177de2e0c.png",
     "introduced": {
@@ -26309,7 +26313,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Frost/FrostPrime",
-    "vaultDate": "2015-04-01",
+    "vaultDate": "2015-03-24",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Frost%2FPrime"
@@ -28003,7 +28007,7 @@
     "conclave": true,
     "consumeOnBuild": true,
     "description": "Continue the legend of the glass-armored warrior Gara. Dominate the battlefield with the power and purity of crystal.",
-    "estimatedVaultDate": "2023-03-14",
+    "estimatedVaultDate": "2023-03-15",
     "exalted": [
       "/Lotus/Powersuits/Glass/GaraShankWeaponPrime"
     ],
@@ -28585,7 +28589,7 @@
     ],
     "power": 175,
     "productCategory": "Suits",
-    "releaseDate": "2021-05-26",
+    "releaseDate": "2021-05-25",
     "sex": "Female",
     "shield": 270,
     "skipBuildTimePrice": 50,
@@ -28595,7 +28599,8 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Glass/GaraPrime",
-    "vaulted": false,
+    "vaultDate": "2023-03-15",
+    "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Gara%2FPrime"
   },
@@ -30242,7 +30247,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "White, gold and deepest scarlet, the queen of gore in full regalia.",
-    "estimatedVaultDate": "2023-12-09",
+    "estimatedVaultDate": "2024-01-17",
     "exalted": [
       "/Lotus/Powersuits/Garuda/GarudaPrimeClaws"
     ],
@@ -30761,7 +30766,8 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Garuda/GarudaPrime",
-    "vaulted": false,
+    "vaultDate": "2024-01-17",
+    "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Garuda%2FPrime"
   },
@@ -32062,6 +32068,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "Quicksilver takes form. Gauss Prime brooks no talk of defeat.",
+    "estimatedVaultDate": "2025-12-10",
     "health": 270,
     "imageName": "gauss-prime-170a77a036.png",
     "introduced": {
@@ -32095,6 +32102,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Runner/GaussPrime",
+    "vaultDate": "2025-12-10",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Gauss%2FPrime"
@@ -33045,6 +33053,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "Primal. Insatiable. Grendel Prime devours all who oppose him.",
+    "estimatedVaultDate": "2025-08-26",
     "health": 1095,
     "imageName": "grendel-prime-e23d41072d.png",
     "introduced": {
@@ -33081,6 +33090,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Devourer/GrendelPrime",
+    "vaultDate": "2025-08-26",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Grendel%2FPrime"
@@ -33614,6 +33624,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "Gilded circuits spark and energize frenetic movements that echo through the ages. Dance into eternity with Gyre Prime.",
+    "estimatedVaultDate": "2027-09-10",
     "health": 345,
     "imageName": "gyre-prime-f8b507d90e.png",
     "introduced": {
@@ -33648,6 +33659,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Gyre/GyrePrime",
+    "vaulted": false,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Gyre%2FPrime"
   },
@@ -35443,7 +35455,7 @@
     "conclave": true,
     "consumeOnBuild": true,
     "description": "The Inquisitor Eternal arises, hallowed by the Void, preaching a gospel of iron and flame.",
-    "estimatedVaultDate": "2023-09-10",
+    "estimatedVaultDate": "2023-10-18",
     "health": 270,
     "imageName": "harrow-prime-8237c36a69.png",
     "introduced": {
@@ -36119,7 +36131,7 @@
     ],
     "power": 140,
     "productCategory": "Suits",
-    "releaseDate": "2021-12-16",
+    "releaseDate": "2021-12-15",
     "sex": "Male",
     "shield": 640,
     "skipBuildTimePrice": 50,
@@ -36129,7 +36141,8 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Priest/HarrowPrime",
-    "vaulted": false,
+    "vaultDate": "2023-10-18",
+    "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Harrow%2FPrime"
   },
@@ -37687,6 +37700,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "Hildryn Prime proves that power is discipline’s reward.",
+    "estimatedVaultDate": "2025-02-12",
     "exalted": [
       "/Lotus/Powersuits/IronFrame/BlastWeaponPrime"
     ],
@@ -37723,6 +37737,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/IronFrame/IronFramePrime",
+    "vaultDate": "2025-02-12",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Hildryn%2FPrime"
@@ -39407,7 +39422,7 @@
     "conclave": true,
     "consumeOnBuild": true,
     "description": "Command the ocean’s fury with this king of gold and silver. Featuring altered mod polarities for greater customization.",
-    "estimatedVaultDate": "2019-07-07",
+    "estimatedVaultDate": "2019-07-06",
     "health": 270,
     "imageName": "hydroid-prime-718aec2104.png",
     "introduced": {
@@ -40237,7 +40252,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Pirate/HydroidPrime",
-    "vaultDate": "2019-07-07",
+    "vaultDate": "2019-07-06",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Hydroid%2FPrime"
@@ -42009,7 +42024,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "Rise, eternal, to cast the fear of Inaros into them. Featuring altered mod polarities for greater customization.",
-    "estimatedVaultDate": "2022-05-21",
+    "estimatedVaultDate": "2022-07-16",
     "health": 2215,
     "imageName": "inaros-prime-f6689c5568.png",
     "introduced": {
@@ -42799,7 +42814,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Sandman/InarosPrime",
-    "vaultDate": "2022-05-21",
+    "vaultDate": "2022-07-16",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Inaros%2FPrime"
@@ -44943,7 +44958,7 @@
     "conclave": true,
     "consumeOnBuild": true,
     "description": "As regal and lethal as a nighttime wood, this is the queen of the hunt in her ultimate form.",
-    "estimatedVaultDate": "2021-09-08",
+    "estimatedVaultDate": "2021-12-15",
     "exalted": [
       "/Lotus/Powersuits/Ranger/PrimeExaltedBow"
     ],
@@ -45990,7 +46005,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Ranger/IvaraPrime",
-    "vaultDate": "2021-09-08",
+    "vaultDate": "2021-12-15",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Ivara%2FPrime"
@@ -47620,7 +47635,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "A harmony of mistress and monster. The gilded huntress and her loyal Kavat, Venari, dominate the battlefield with their will.",
-    "estimatedVaultDate": "2024-03-08",
+    "estimatedVaultDate": "2024-05-01",
     "exalted": [
       "/Lotus/Powersuits/Khora/Kavat/KhoraPrimeKavatPowerSuit",
       "/Lotus/Powersuits/Khora/KhoraWhipclawWeaponPrime"
@@ -48194,7 +48209,7 @@
     ],
     "power": 175,
     "productCategory": "Suits",
-    "releaseDate": "2022-05-21",
+    "releaseDate": "2022-07-16",
     "sex": "Female",
     "shield": 365,
     "skipBuildTimePrice": 50,
@@ -48204,7 +48219,8 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Khora/KhoraPrime",
-    "vaulted": false,
+    "vaultDate": "2024-05-01",
+    "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Khora%2FPrime"
   },
@@ -49315,6 +49331,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "Some Warframes were Prime from the start. Others ascended. Lavos, the master of transmutation, bowed to no one as he forged his own path to valor.",
+    "estimatedVaultDate": "2026-11-12",
     "health": 600,
     "imageName": "lavos-prime-90a6c16d29.png",
     "introduced": {
@@ -49348,6 +49365,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Alchemist/LavosPrime",
+    "vaulted": false,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Lavos%2FPrime"
   },
@@ -51478,7 +51496,7 @@
     "conclave": true,
     "consumeOnBuild": true,
     "description": "Dance between realms with this golden rift walker. Featuring altered mod polarities for greater customization.",
-    "estimatedVaultDate": "2020-03-31",
+    "estimatedVaultDate": "2020-03-18",
     "health": 270,
     "imageName": "limbo-prime-7449a6c1ce.png",
     "introduced": {
@@ -52659,7 +52677,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Magician/LimboPrime",
-    "vaultDate": "2020-03-31",
+    "vaultDate": "2020-03-18",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Limbo%2FPrime"
@@ -61783,7 +61801,7 @@
     "conclave": true,
     "consumeOnBuild": true,
     "description": "Cast a long shadow with this lethal enforcer. Featuring altered mod polarities for greater customization.",
-    "estimatedVaultDate": "2020-07-14",
+    "estimatedVaultDate": "2020-10-27",
     "exalted": [
       "/Lotus/Powersuits/Cowgirl/PrimeSlingerPistols"
     ],
@@ -62789,7 +62807,7 @@
     ],
     "power": 140,
     "productCategory": "Suits",
-    "releaseDate": "2018-12-12",
+    "releaseDate": "2018-12-18",
     "sex": "Female",
     "shield": 180,
     "skipBuildTimePrice": 50,
@@ -62799,7 +62817,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Cowgirl/MesaPrime",
-    "vaultDate": "2020-07-14",
+    "vaultDate": "2020-10-27",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Mesa%2FPrime"
@@ -71887,7 +71905,7 @@
     ],
     "power": 175,
     "productCategory": "Suits",
-    "releaseDate": "2020-10-26",
+    "releaseDate": "2020-10-27",
     "sex": "Male",
     "shield": 135,
     "skipBuildTimePrice": 50,
@@ -73657,7 +73675,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "Mutation is endless. The ravening plague-bearer returns in a long-unseen form, seething with a primal strain of the Infestation.",
-    "estimatedVaultDate": "2023-06-12",
+    "estimatedVaultDate": "2023-07-27",
     "health": 550,
     "imageName": "nidus-prime-c1781ebcc9.png",
     "introduced": {
@@ -74462,7 +74480,8 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Infestation/InfestationPrime",
-    "vaulted": false,
+    "vaultDate": "2023-07-27",
+    "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Nidus%2FPrime"
   },
@@ -77453,7 +77472,7 @@
     ],
     "power": 215,
     "productCategory": "Suits",
-    "releaseDate": "2014-12-16",
+    "releaseDate": "2014-12-17",
     "sex": "Female",
     "shield": 270,
     "skipBuildTimePrice": 50,
@@ -80897,7 +80916,7 @@
     ],
     "power": 175,
     "productCategory": "Suits",
-    "releaseDate": "2014-09-23",
+    "releaseDate": "2014-09-24",
     "sex": "Female",
     "shield": 365,
     "skipBuildTimePrice": 50,
@@ -82897,7 +82916,7 @@
     "conclave": true,
     "consumeOnBuild": true,
     "description": "Protect the balance with this regal forest guardian. Featuring altered mod polarities for greater customization.",
-    "estimatedVaultDate": "2019-03-27",
+    "estimatedVaultDate": "2019-04-02",
     "health": 365,
     "imageName": "oberon-prime-71fc40c9ca.png",
     "introduced": {
@@ -83894,7 +83913,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Paladin/PaladinPrime",
-    "vaultDate": "2019-03-27",
+    "vaultDate": "2019-04-02",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Oberon%2FPrime"
@@ -88071,6 +88090,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "Behold the child of two fathers. Protea Prime once fulfilled Parvos Granum's vision of a time-wielding guardian. Now she upholds the Tenno ideal of defending the defenseless.",
+    "estimatedVaultDate": "2026-02-01",
     "health": 270,
     "imageName": "protea-prime-86cbc2b038.png",
     "introduced": {
@@ -88104,6 +88124,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Odalisk/ProteaPrime",
+    "vaulted": false,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Protea%2FPrime"
   },
@@ -89978,7 +89999,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "The lost one rises. Reify the essence of the Eidolon as you wield Revenant Prime’s power.",
-    "estimatedVaultDate": "2024-06-06",
+    "estimatedVaultDate": "2024-08-21",
     "health": 270,
     "imageName": "revenant-prime-a5be34cbf2.png",
     "introduced": {
@@ -90542,7 +90563,8 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Revenant/RevenantPrime",
-    "vaulted": false,
+    "vaultDate": "2024-08-21",
+    "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Revenant%2FPrime"
   },
@@ -92350,7 +92372,7 @@
         "date": "2021-09-08T16:58:55Z",
         "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
         "additions": "",
-        "changes": "Fixed Rhino��s Rhino Stomp perpetually stunning both Kuva Liches and Sisters of Parvos.",
+        "changes": "Fixed Rhino’s Rhino Stomp perpetually stunning both Kuva Liches and Sisters of Parvos.",
         "fixes": "Fixed a script error related to Rhino’s Iron Skin.\nFixed a script error when casting Rhino’s Roar ability."
       },
       {
@@ -93417,7 +93439,7 @@
     ],
     "power": 100,
     "productCategory": "Suits",
-    "releaseDate": "2014-03-06",
+    "releaseDate": "2014-03-05",
     "sex": "Male",
     "shield": 455,
     "skipBuildTimePrice": 50,
@@ -97652,6 +97674,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "The gilded helmsman emerges from the tempest, his shadow a lure for doomed souls.",
+    "estimatedVaultDate": "2026-05-21",
     "exalted": [
       "/Lotus/Powersuits/Wraith/SevagothShadowPrimeClawsWeapon"
     ],
@@ -97688,6 +97711,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Wraith/SevagothPrime",
+    "vaulted": false,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Sevagoth%2FPrime"
   },
@@ -100197,7 +100221,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "Tempting and terrifying, this is Titania in her ultimate form.",
-    "estimatedVaultDate": "2021-12-16",
+    "estimatedVaultDate": "2022-03-28",
     "exalted": [
       "/Lotus/Powersuits/Fairy/PrimeFlightPistols",
       "/Lotus/Powersuits/Fairy/PrimeFlightSword"
@@ -101238,7 +101262,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Fairy/TitaniaPrime",
-    "vaultDate": "2021-12-16",
+    "vaultDate": "2022-03-28",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Titania%2FPrime"
@@ -113064,7 +113088,7 @@
     ],
     "power": 200,
     "productCategory": "Suits",
-    "releaseDate": "2015-03-24",
+    "releaseDate": "2015-03-25",
     "sex": "Male",
     "shield": 455,
     "skipBuildTimePrice": 50,
@@ -114866,6 +114890,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "Wisp Prime’s gilded splendor haunts the battlefield. Allies welcome her interdimensional beauty.",
+    "estimatedVaultDate": "2025-05-21",
     "health": 270,
     "imageName": "wisp-prime-7a898e071d.png",
     "introduced": {
@@ -114899,6 +114924,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Wisp/WispPrime",
+    "vaultDate": "2025-05-21",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Wisp%2FPrime"
@@ -116678,7 +116704,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "The trickster-warrior ascends to his ultimate incarnation. ",
-    "estimatedVaultDate": "2021-02-23",
+    "estimatedVaultDate": "2021-05-25",
     "exalted": [
       "/Lotus/Powersuits/MonkeyKing/WukongPrimeStaff"
     ],
@@ -117436,7 +117462,7 @@
     ],
     "power": 145,
     "productCategory": "Suits",
-    "releaseDate": "2019-07-07",
+    "releaseDate": "2019-07-06",
     "sex": "Male",
     "shield": 345,
     "skipBuildTimePrice": 50,
@@ -117446,7 +117472,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/MonkeyKing/WukongPrime",
-    "vaultDate": "2021-02-23",
+    "vaultDate": "2021-05-25",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Wukong%2FPrime"
@@ -118583,6 +118609,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "The child of war and void is reborn in gold. That which was once shattered may rise stronger than that which was never broken.",
+    "estimatedVaultDate": "2026-08-13",
     "health": 269,
     "imageName": "xaku-prime-f6213dd36f.png",
     "introduced": {
@@ -118616,6 +118643,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/BrokenFrame/XakuPrime",
+    "vaulted": false,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Xaku%2FPrime"
   },
@@ -119316,6 +119344,7 @@
     "conclave": false,
     "consumeOnBuild": true,
     "description": "The Waverider arises, reborn from the ocean foam. In her original Orokin-era splendor she embodies the undying vigor of youth.",
+    "estimatedVaultDate": "2027-02-21",
     "health": 270,
     "imageName": "yareli-prime-c4dbed6caa.png",
     "introduced": {
@@ -119349,6 +119378,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Yareli/YareliPrime",
+    "vaulted": false,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Yareli%2FPrime"
   },

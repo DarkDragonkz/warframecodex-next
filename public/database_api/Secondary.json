@@ -1849,7 +1849,7 @@
     ],
     "description": "Vanquish chaos with dual firepower.",
     "disposition": 3,
-    "estimatedVaultDate": "2024-09-04",
+    "estimatedVaultDate": "2024-11-13",
     "fireRate": 12.500001,
     "imageName": "afuris-prime-abcebdfbfa.png",
     "introduced": {
@@ -1888,7 +1888,8 @@
     "trigger": "Auto",
     "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeAfuris/PrimeAFurisWeapon",
-    "vaulted": false,
+    "vaultDate": "2024-11-13",
+    "vaulted": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AfurisPrime.png?06de8",
     "wikiaUrl": "https://wiki.warframe.com/w/Afuris_Prime"
@@ -2882,6 +2883,7 @@
     ],
     "description": "Wield a golden pair of rocket launchers. Sprint to reload them faster. They reload fastest when wielded by Gauss.",
     "disposition": 1,
+    "estimatedVaultDate": "2025-12-10",
     "fireRate": 3.9007094,
     "imageName": "akarius-prime-7d8f0a0779.png",
     "introduced": {
@@ -2921,7 +2923,8 @@
     "trigger": "Burst",
     "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeAkarius/PrimeAkariusWeapon",
-    "vaulted": false,
+    "vaultDate": "2025-12-10",
+    "vaulted": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AkariusPrime.png?6acd9",
     "wikiaUrl": "https://wiki.warframe.com/w/Akarius_Prime"
@@ -8092,6 +8095,7 @@
         },
         "releaseDate": "2013-07-13",
         "vaulted": false,
+        "estimatedVaultDate": "2015-04-13",
         "masterable": false
       },
       {
@@ -10686,6 +10690,7 @@
         },
         "releaseDate": "2013-07-13",
         "vaulted": false,
+        "estimatedVaultDate": "2015-04-13",
         "masterable": false
       },
       {
@@ -11284,6 +11289,7 @@
     ],
     "description": "Used together, these Orokin pistols feed off each other, inflicting greater damage with an enhanced status chance for inducing elemental effects on targets.",
     "disposition": 4,
+    "estimatedVaultDate": "2015-12-05",
     "fireRate": 4.3333335,
     "imageName": "akbronco-prime-e0b3fd0788.png",
     "introduced": {
@@ -11344,7 +11350,7 @@
     ],
     "procChance": 0.12857145,
     "productCategory": "Pistols",
-    "releaseDate": "2014-03-06",
+    "releaseDate": "2014-03-05",
     "reloadTime": 2.25,
     "skipBuildTimePrice": 50,
     "slot": 0,
@@ -12753,7 +12759,7 @@
     ],
     "description": "Precision machined mirrored pistols. Primed and ready.",
     "disposition": 3,
-    "estimatedVaultDate": "2020-07-14",
+    "estimatedVaultDate": "2020-10-27",
     "fireRate": 10.000001,
     "imageName": "akjagara-prime-c44280a30c.png",
     "introduced": {
@@ -12821,7 +12827,7 @@
     ],
     "procChance": 0.31999999,
     "productCategory": "Pistols",
-    "releaseDate": "2018-12-12",
+    "releaseDate": "2018-12-18",
     "reloadTime": 1.4,
     "skipBuildTimePrice": 50,
     "slot": 0,
@@ -12834,7 +12840,7 @@
     "trigger": "Burst",
     "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeAkjagara/AkJagaraPrime",
-    "vaultDate": "2020-07-14",
+    "vaultDate": "2020-10-27",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AkjagaraPrime.png?3821b",
@@ -17084,8 +17090,9 @@
           "parent": "13.0",
           "date": "2014-04-09"
         },
-        "releaseDate": "2014-06-09",
+        "releaseDate": "2014-04-09",
         "vaulted": false,
+        "estimatedVaultDate": "2016-01-09",
         "masterable": false
       },
       {
@@ -20685,8 +20692,9 @@
           "parent": "13.0",
           "date": "2014-04-09"
         },
-        "releaseDate": "2014-06-09",
+        "releaseDate": "2014-04-09",
         "vaulted": false,
+        "estimatedVaultDate": "2016-01-09",
         "masterable": false
       },
       {
@@ -20781,6 +20789,7 @@
     ],
     "description": "Savage the enemy with a Lex Prime in each hand.",
     "disposition": 3,
+    "estimatedVaultDate": "2017-01-29",
     "fireRate": 2.6666667,
     "imageName": "aklex-prime-3ba6556b1f.png",
     "introduced": {
@@ -20815,6 +20824,7 @@
     "trigger": "Semi",
     "type": "Dual Pistols",
     "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkLexPrimePistols",
+    "vaultDate": "2017-01-29",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AklexPrime.png?37975",
@@ -22004,8 +22014,9 @@
           "date": "2021-09-08"
         },
         "releaseDate": "2021-09-08",
-        "estimatedVaultDate": "2023-06-12",
-        "vaulted": false,
+        "vaulted": true,
+        "vaultDate": "2023-07-27",
+        "estimatedVaultDate": "2023-07-27",
         "masterable": false
       },
       {
@@ -22728,8 +22739,9 @@
           "date": "2021-09-08"
         },
         "releaseDate": "2021-09-08",
-        "estimatedVaultDate": "2023-06-12",
-        "vaulted": false,
+        "vaulted": true,
+        "vaultDate": "2023-07-27",
+        "estimatedVaultDate": "2023-07-27",
         "masterable": false
       }
     ],
@@ -22783,6 +22795,7 @@
     ],
     "description": "Fill your fists with golden cannons of fury. This refined design unlocks quicker handling and higher critical chance.",
     "disposition": 3,
+    "estimatedVaultDate": "2024-07-28",
     "fireRate": 5.666667,
     "imageName": "akmagnus-prime-641a54e112.png",
     "introduced": {
@@ -22821,7 +22834,8 @@
     "trigger": "Semi",
     "type": "Dual Pistols",
     "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/DualMagnusPrime",
-    "vaulted": false,
+    "vaultDate": "2024-07-28",
+    "vaulted": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AkmagnusPrime.png?c2bbb",
     "wikiaUrl": "https://wiki.warframe.com/w/Akmagnus_Prime"
@@ -24037,7 +24051,7 @@
     ],
     "description": "The elegant Aksomati precisely refined to this, their ultimate manifestation.",
     "disposition": 3,
-    "estimatedVaultDate": "2021-09-08",
+    "estimatedVaultDate": "2021-12-15",
     "fireRate": 13.333334,
     "imageName": "aksomati-prime-8fc151cef1.png",
     "introduced": {
@@ -24102,7 +24116,7 @@
     "trigger": "Auto",
     "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeAksomati/PrimeAksomati",
-    "vaultDate": "2021-09-08",
+    "vaultDate": "2021-12-15",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AksomatiPrime.png?ce035",
@@ -26666,10 +26680,10 @@
           "parent": "15.7",
           "date": "2014-12-17"
         },
-        "releaseDate": "2014-12-16",
+        "releaseDate": "2014-12-17",
+        "vaulted": true,
         "vaultDate": "2016-11-22",
         "estimatedVaultDate": "2016-11-22",
-        "vaulted": true,
         "masterable": false
       },
       {
@@ -27636,10 +27650,10 @@
           "parent": "15.7",
           "date": "2014-12-17"
         },
-        "releaseDate": "2014-12-16",
+        "releaseDate": "2014-12-17",
+        "vaulted": true,
         "vaultDate": "2016-11-22",
         "estimatedVaultDate": "2016-11-22",
-        "vaulted": true,
         "masterable": false
       }
     ],
@@ -27693,6 +27707,7 @@
     ],
     "description": "Orokin craftsmanship married with superior firepower. Dual Vastos, primed and ready to strike.",
     "disposition": 4,
+    "estimatedVaultDate": "2018-11-18",
     "fireRate": 3.3333335,
     "imageName": "akvasto-prime-9416a0a363.png",
     "introduced": {
@@ -27728,7 +27743,7 @@
     ],
     "procChance": 0.22000003,
     "productCategory": "Pistols",
-    "releaseDate": "2018-11-14",
+    "releaseDate": "2018-11-13",
     "reloadTime": 1.4,
     "skipBuildTimePrice": 50,
     "slot": 0,
@@ -27741,6 +27756,7 @@
     "trigger": "Semi",
     "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/AkPrimeVasto/AkPrimeVastoPistol",
+    "vaultDate": "2018-11-18",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AkvastoPrime.png?d97f1",
@@ -30830,7 +30846,7 @@
     ],
     "description": "The beauty of this luxuriously gilded crossbow cannot obscure its lethal purpose.",
     "disposition": 4,
-    "estimatedVaultDate": "2019-07-07",
+    "estimatedVaultDate": "2019-07-06",
     "fireRate": 3.3333335,
     "imageName": "ballistica-prime-81feb66ef9.png",
     "introduced": {
@@ -30913,7 +30929,7 @@
     "trigger": "Charge",
     "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeBallistica/PrimeBallistica",
-    "vaultDate": "2019-07-07",
+    "vaultDate": "2019-07-06",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/BallisticaPrime.png?142e6",
@@ -34686,6 +34702,7 @@
     ],
     "description": "Infused with rare Orokin alloys, the Bronco Prime is a highly efficient weapon, trading an increased Magazine Capacity and damage for a lower rate of fire.",
     "disposition": 5,
+    "estimatedVaultDate": "2015-04-13",
     "fireRate": 4.166667,
     "imageName": "bronco-prime-22492b5f01.png",
     "introduced": {
@@ -38606,7 +38623,7 @@
       },
       {
         "name": "Alt-Fire",
-        "speed": 6.5,
+        "speed": 1.5,
         "crit_chance": 27,
         "crit_mult": 2.1,
         "status_chance": 33,
@@ -39906,6 +39923,7 @@
     ],
     "description": "Send shivers down your enemies' spines with this wrist-mounted sidearm. As the signature weapon of Sevagoth Prime, it deals additional headshot damage when wielded by him.",
     "disposition": 1,
+    "estimatedVaultDate": "2026-05-21",
     "fireRate": 1.7500001,
     "imageName": "epitaph-prime-dbe8d7bab0.png",
     "introduced": {
@@ -40509,7 +40527,7 @@
     ],
     "description": "Banshee Prime’s signature shotgun is an instrument of devastation that fires both focused and broad shots.",
     "disposition": 3,
-    "estimatedVaultDate": "2018-12-12",
+    "estimatedVaultDate": "2018-12-18",
     "fireRate": 1.5000001,
     "imageName": "euphona-prime-258bec05a5.png",
     "introduced": {
@@ -40671,7 +40689,7 @@
     "trigger": "Semi",
     "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Tenno/Pistols/AllNew1hSG/AllNew1hSG",
-    "vaultDate": "2018-12-12",
+    "vaultDate": "2018-12-18",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/EuphonaPrime.png?08a88",
@@ -43000,7 +43018,7 @@
     ],
     "procChance": 0.27999997,
     "productCategory": "Pistols",
-    "releaseDate": "2014-09-23",
+    "releaseDate": "2014-09-24",
     "reloadTime": 0.5,
     "skipBuildTimePrice": 50,
     "slot": 0,
@@ -44244,7 +44262,7 @@
     ],
     "description": "Versatile weapons complement deadly hunters. Khora Prime’s signature pistol rotates through hot, cold, electric, and toxic quills. When equipped on Khora, Hystrix Prime has a chance to instantly reload after headshots.",
     "disposition": 3,
-    "estimatedVaultDate": "2024-03-08",
+    "estimatedVaultDate": "2024-05-01",
     "fireRate": 7.0000005,
     "imageName": "hystrix-prime-234976e66a.png",
     "introduced": {
@@ -44280,7 +44298,7 @@
     ],
     "procChance": 0.19999999,
     "productCategory": "Pistols",
-    "releaseDate": "2022-05-21",
+    "releaseDate": "2022-07-16",
     "reloadTime": 1.6,
     "skipBuildTimePrice": 50,
     "slot": 0,
@@ -44292,7 +44310,8 @@
     "trigger": "Auto",
     "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeHystrix/PrimeHystrixWeapon",
-    "vaulted": false,
+    "vaultDate": "2024-05-01",
+    "vaulted": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/HystrixPrime.png?51199",
     "wikiaUrl": "https://wiki.warframe.com/w/Hystrix_Prime"
@@ -45340,7 +45359,7 @@
     ],
     "description": "Ring a funeral toll upon enemy skulls with Harrow Prime's signature pistol.",
     "disposition": 2,
-    "estimatedVaultDate": "2023-09-10",
+    "estimatedVaultDate": "2023-10-18",
     "fireRate": 5.0000005,
     "imageName": "knell-prime-f5518c4cac.png",
     "introduced": {
@@ -45378,7 +45397,7 @@
     ],
     "procChance": 0.10000002,
     "productCategory": "Pistols",
-    "releaseDate": "2021-12-16",
+    "releaseDate": "2021-12-15",
     "reloadTime": 2,
     "skipBuildTimePrice": 50,
     "slot": 0,
@@ -45391,7 +45410,8 @@
     "trigger": "Auto",
     "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeKnell/PrimeKnellWeapon",
-    "vaulted": false,
+    "vaultDate": "2023-10-18",
+    "vaulted": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/KnellPrime.png?08b42",
     "wikiaUrl": "https://wiki.warframe.com/w/Knell_Prime"
@@ -46257,6 +46277,7 @@
     ],
     "description": "Glinting like a golden dawn, Yareli Prime’s signature pistol engulfs foes in a cascade of virulent, explosive, water globules. None can escape the sea.",
     "disposition": 1,
+    "estimatedVaultDate": "2027-02-21",
     "fireRate": 3.3333335,
     "imageName": "kompressa-prime-2facb539ea.png",
     "introduced": {
@@ -48762,6 +48783,7 @@
     ],
     "description": "The Lato is a highly accurate pistol used by the Tenno everywhere. Prime model offers slightly increased damage.",
     "disposition": 5,
+    "estimatedVaultDate": "2014-09-18",
     "fireRate": 5.0000005,
     "imageName": "lato-prime-184c228f25.png",
     "introduced": {
@@ -52991,6 +53013,7 @@
     ],
     "description": "The Lex Prime is a powerful, accurate pistol that has a low Fire Rate and Magazine Capacity. Very efficient at long range.",
     "disposition": 4,
+    "estimatedVaultDate": "2016-01-09",
     "fireRate": 2.0833335,
     "imageName": "lex-prime-547afa0c65.png",
     "introduced": {
@@ -53131,7 +53154,7 @@
     ],
     "procChance": 0.25,
     "productCategory": "Pistols",
-    "releaseDate": "2014-06-09",
+    "releaseDate": "2014-04-09",
     "reloadTime": 2.3499999,
     "skipBuildTimePrice": 50,
     "slot": 0,
@@ -54147,7 +54170,7 @@
     ],
     "description": "Orokin elegance meets formidable stopping power in this exquisite revolver. Hits have a chance to maximize Ammo Efficiency for a few seconds.",
     "disposition": 4,
-    "estimatedVaultDate": "2023-06-12",
+    "estimatedVaultDate": "2023-07-27",
     "fireRate": 5.0000005,
     "imageName": "magnus-prime-1700bfd0c2.png",
     "introduced": {
@@ -54202,7 +54225,8 @@
     "trigger": "Semi",
     "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeMagnus/PrimeMagnusWeapon",
-    "vaulted": false,
+    "vaultDate": "2023-07-27",
+    "vaulted": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/MagnusPrime.png?fe7c8",
     "wikiaUrl": "https://wiki.warframe.com/w/Magnus_Prime"
@@ -58540,7 +58564,7 @@
     ],
     "description": "Three kills in rapid succession to summon a second ethereal Pyrana for twice the deadly punch.",
     "disposition": 1,
-    "estimatedVaultDate": "2020-03-31",
+    "estimatedVaultDate": "2020-03-18",
     "fireRate": 4,
     "imageName": "pyrana-prime-ecb8c95a9d.png",
     "introduced": {
@@ -58637,7 +58661,7 @@
     "trigger": "Auto",
     "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimePyrana/PrimePyranaPistol",
-    "vaultDate": "2020-03-31",
+    "vaultDate": "2020-03-18",
     "vaulted": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PyranaPrime.png?1404a",
@@ -59519,6 +59543,7 @@
     ],
     "description": "The sidearm of choice for Prime Grineer warriors, Sagek Prime blends Grineer brutality with Orokin aesthetics. When Sagek Prime inflicts a critical hit, its next shot has a chance to gain significant Status Chance.",
     "disposition": 1,
+    "estimatedVaultDate": "2027-09-10",
     "fireRate": 12.333334,
     "imageName": "sagek-prime-b32c6fddb7.png",
     "introduced": {
@@ -70126,7 +70151,7 @@
     ],
     "procChance": 0.22000003,
     "productCategory": "Pistols",
-    "releaseDate": "2014-12-16",
+    "releaseDate": "2014-12-17",
     "reloadTime": 1,
     "skipBuildTimePrice": 50,
     "slot": 0,
@@ -71122,6 +71147,7 @@
     ],
     "description": "This sidearm’s circular design evokes Protea Prime’s perception of time.",
     "disposition": 2,
+    "estimatedVaultDate": "2026-02-01",
     "fireRate": 17,
     "imageName": "velox-prime-de13b8c526.png",
     "introduced": {
@@ -72981,7 +73007,7 @@
     ],
     "procChance": 0.41999996,
     "productCategory": "Pistols",
-    "releaseDate": "2020-10-26",
+    "releaseDate": "2020-10-27",
     "reloadTime": 1,
     "skipBuildTimePrice": 50,
     "slot": 0,
@@ -73838,6 +73864,7 @@
     ],
     "description": "A lightweight weapon that packs a punch worthy of its golden design.",
     "disposition": 2,
+    "estimatedVaultDate": "2025-08-26",
     "fireRate": 1.5000001,
     "imageName": "zylok-prime-8922964ebe.png",
     "introduced": {
@@ -73878,7 +73905,8 @@
     "trigger": "Duplex",
     "type": "Pistol",
     "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeZylok/ZylokPrimePistol",
-    "vaulted": false,
+    "vaultDate": "2025-08-26",
+    "vaulted": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ZylokPrime.png?9c426",
     "wikiaUrl": "https://wiki.warframe.com/w/Zylok_Prime"
