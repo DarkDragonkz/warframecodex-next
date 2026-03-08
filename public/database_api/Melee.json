@@ -13398,7 +13398,6 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/CronusSword/CronusLongSword",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Cronus.png?b7485",
     "wikiaUrl": "https://wiki.warframe.com/w/Cronus",
     "windUp": 0.60000002
   },
@@ -14485,7 +14484,6 @@
     "vaultDate": "2015-07-07",
     "vaulted": true,
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DakraPrime.png?2c888",
     "wikiaUrl": "https://wiki.warframe.com/w/Dakra_Prime",
     "windUp": 0.60000002
   },
@@ -14778,7 +14776,6 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Dagger/DarkDagger",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DarkDagger.png?7fd23",
     "wikiaUrl": "https://wiki.warframe.com/w/Dark_Dagger",
     "windUp": 0.40000001
   },
@@ -88960,7 +88957,6 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Claws/TennoClaws",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Venka.png?03dd1",
     "wikiaUrl": "https://wiki.warframe.com/w/Venka",
     "windUp": 0.60000002
   },
@@ -89742,7 +89738,6 @@
     "vaultDate": "2018-09-25",
     "vaulted": true,
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/VenkaPrime.png?7ea5c",
     "wikiaUrl": "https://wiki.warframe.com/w/Venka_Prime",
     "windUp": 0.60000002
   },
@@ -90000,7 +89995,6 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Archon/Melee/Whip/ArchonWhipPlayerWep",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Verdilac.png?6e3c1",
     "wikiaUrl": "https://wiki.warframe.com/w/Verdilac",
     "windUp": 0.40000001
   },
@@ -90165,7 +90159,6 @@
     "type": "Melee",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Warfan/TnMoonWarfan/MoonWarfanWeapon",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Vericres.png?bcc94",
     "wikiaUrl": "https://wiki.warframe.com/w/Vericres",
     "windUp": 0.5
   },

@@ -3077,7 +3077,7 @@
         "url": "https://forums.warframe.com/topic/92568-update-95-operation-arid-fear/",
         "additions": "",
         "changes": "Added animation and sounds for Ash’s Bladestorm ability vs. Ancients",
-        "fixes": "Fixed issue with Ash Bladestorm where the Ash���s arm may be stuck in his shoulder.\nFixed issue where Ash would become invincible after using Bladestorm on clients."
+        "fixes": "Fixed issue with Ash Bladestorm where the Ash’s arm may be stuck in his shoulder.\nFixed issue where Ash would become invincible after using Bladestorm on clients."
       },
       {
         "name": "Hotfix 9.4: Double Affinity Weekend!",
@@ -71495,7 +71495,7 @@
         "url": "https://forums.warframe.com/topic/1016610-chimera-update-2310/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Nezha’s Blazing Chakram stuttering for some Clients.\nFixed Nezha’s Blazing Chakram flight path getting blocked by Swarm Mutalist MOA’s spores.\nFixed many Syandana's clipping with Nezha's Empyrean Skin\nFixed missing Syandana offsets on Nezha Empyrean skin."
+        "fixes": "Fixed Nezha’s Blazing Chakram stuttering for some Clients.\nFixed Nezha’s Blazing Chakram flight path getting blocked by Swarm Mutalist MOA���s spores.\nFixed many Syandana's clipping with Nezha's Empyrean Skin\nFixed missing Syandana offsets on Nezha Empyrean skin."
       },
       {
         "name": "Mask of the Revenant: Chroma Prime 23.9.0 + 23.9.0.1",
@@ -78353,7 +78353,7 @@
         "url": "https://forums.warframe.com/topic/639851-update-1890/",
         "additions": "",
         "changes": "",
-        "fixes": "•    Fixed Clients seeing the Host cast Nyx’s Absorb on the ground when she is actually in mid-air.\n•    Fixed Client projectiles not registering in certain areas on larger Nyx Absorb bubbles."
+        "fixes": "���    Fixed Clients seeing the Host cast Nyx’s Absorb on the ground when she is actually in mid-air.\n•    Fixed Client projectiles not registering in certain areas on larger Nyx Absorb bubbles."
       },
       {
         "name": "Update 18.8.0",
