@@ -55983,7 +55983,7 @@
         "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
         "additions": "",
         "changes": "Respective Ability videos now also appear upon hover-over to add that little extra spice! This initial Ability video aspect is currently functional for Excalibur, Mag, Volt, Garuda, Baruuk, Revenant, and Hildryn! More to gradually come!\nMagus Revert now has a 3 second cooldown. This cooldown is a result of macro abuse in conjunction with Magus Lockdown and Madurai Meteoric Dash in order to deal an absurd amount of damage all at once. This change also fixes the issue:\nFixed ability to Void Dash contentiously for no Energy cost when Magus Lockdown, Magus Revert, and Madurai Meteoric Dash are triggered.",
-        "fixes": "Fixed Mag’s Crush granting Overshields to Operators.\nFixed Magus Repair not affecting Excalibur Umbra.\nFixed Mag’s Magnetize not affecting ragdolled enemies, but still draining Energy upon attempted cast. \nFixed Magus Firewall Arcane’s FX not appearing for Clients. \nFixed a script error when attempting to equip a Magus Arcane on the Operator."
+        "fixes": "Fixed Mag’s Crush granting Overshields to Operators.\nFixed Magus Repair not affecting Excalibur Umbra.\nFixed Mag’s Magnetize not affecting ragdolled enemies, but still draining Energy upon attempted cast.��\nFixed Magus Firewall Arcane’s FX not appearing for Clients. \nFixed a script error when attempting to equip a Magus Arcane on the Operator."
       },
       {
         "name": "Fortuna: Update 24.3.0 - Nightwave",
