@@ -86179,7 +86179,8 @@
             "crit_mult": 3,
             "status_chance": 41,
             "shot_type": "Projectile",
-            "shot_speed": 0,
+            "shot_speed": 50,
+            "flight": 50,
             "damage": {
               "impact": 100
             }
