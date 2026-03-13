@@ -4961,7 +4961,7 @@
         "url": "https://forums.warframe.com/topic/1313506-echoes-of-the-zariman-update-316/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Atlas Rubble not being created if you’ve replaced Petrify with a Helminth ability. \nFixed Atlas’ Path of Statues Augment not working if you’ve replaced Petrify with a Helminth ability. \nFixed Atlas’ Ore Gaze Augment always applying at 20% even if you don’t have the Mod equipped. \nAtlas Prime Noggle \nFixed the Rubble Heap Augment mod not granting free casts of Atlas’ Landslide if Inner Might was equipped. "
+        "fixes": "Fixed Atlas Rubble not being created if you’ve replaced Petrify with a Helminth ability. \nFixed Atlas’ Path of Statues Augment not working if you’ve replaced Petrify with a Helminth ability. \nFixed Atlas’ Ore Gaze Augment always applying at 20% even if you don’t have the Mod equipped. \nAtlas Prime Noggle \nFixed the Rubble Heap Augment mod not granting free casts of Atlas�� Landslide if Inner Might was equipped. "
       },
       {
         "name": "Zephyr & Chroma Prime Vault: Hotfix 31.5.10 + 31.5.10.1",
@@ -50172,7 +50172,7 @@
         "url": "https://forums.warframe.com/topic/780658-octavias-anthem-hotfix-2007/",
         "additions": "",
         "changes": "Removed 'damage' and reworded the description of Limbos Rift Surge to better describe the mechanic.",
-        "fixes": "Fixed Limbo’s ‘Haven’ Banish Augment not healing allies as intended.\nFixed Limbo being able to briefly use objects while inside Cataclysm by dashing and pressing the context action.\nFixed the Caustacyst’s Corrosive acid projectiles not pausing in Limbo’s Stasis. \nFixed the Caustacyst’s Corrosive acid projectiles from Mirage’s Hall of Mirror clones not being inside Limbo’s Rift when cast and not being affected by the Rift Stasis mechanic.\nFixed the Quanta’s Alt fire producing a split second beam when used in Limbo’s Stasis.\nFixed a crash when firing the Ignis while in Limbo’s Stasis.\nFixed a script error when casting Limbo’s Banish."
+        "fixes": "Fixed Limbo’s ‘Haven’ Banish Augment not healing allies as intended.\nFixed Limbo being able to briefly use objects while inside Cataclysm by dashing and pressing the context action.\nFixed the Caustacyst’s Corrosive acid projectiles not pausing in Limbo’s Stasis. \nFixed the Caustacyst’s Corrosive acid projectiles from Mirage’s Hall of Mirror clones not being inside Limbo��s Rift when cast and not being affected by the Rift Stasis mechanic.\nFixed the Quanta’s Alt fire producing a split second beam when used in Limbo’s Stasis.\nFixed a crash when firing the Ignis while in Limbo’s Stasis.\nFixed a script error when casting Limbo’s Banish."
       },
       {
         "name": "Octavia's Anthem: Hotfix 20.0.6",
@@ -55391,7 +55391,7 @@
         "url": "https://forums.warframe.com/topic/1327014-veilbreaker-revenant-prime-hotfix-3209/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed damage types from equipped weapons applying to Mag’s Shards while she is standing in a zone created by Residual Arcanes. \nFixed script error related to Mag’s Crush. "
+        "fixes": "Fixed damage types from equipped weapons applying to Mag’s Shards while she is standing in a zone created by Residual Arcanes. \nFixed script error related to Mag��s Crush. "
       },
       {
         "name": "Veilbreaker: Hotfix 32.0.7",
@@ -77174,7 +77174,7 @@
         "url": "https://forums.warframe.com/topic/369418-update-1572-15721/",
         "additions": "",
         "changes": "Textures updated on the Pyra Prime Syandana and Vasto Prime now match Nova Prime’s metallic texture!",
-        "fixes": "Fixed an error caused by Nova’s Molecular Prime.\nFixed Nova Prime���s Antimatter Drop not correctly applying unique visual effects to non-host players.\nFixed Nova Prime not appearing in the Codex for all players."
+        "fixes": "Fixed an error caused by Nova’s Molecular Prime.\nFixed Nova Prime’s Antimatter Drop not correctly applying unique visual effects to non-host players.\nFixed Nova Prime not appearing in the Codex for all players."
       },
       {
         "name": "Hotfix 15.7.1",
@@ -117347,7 +117347,7 @@
         "date": "2016-08-19T17:32:55Z",
         "url": "https://forums.warframe.com/topic/688644-the-silver-grove/",
         "additions": "",
-        "changes": "Wukong’s Iron Poke now knocks down targets towards him in Conclave\nAdded melee magnetism to Valkyr���s Berserker and Wukong’s Primal Fury in Conclave",
+        "changes": "Wukong’s Iron Poke now knocks down targets towards him in Conclave\nAdded melee magnetism to Valkyr’s Berserker and Wukong’s Primal Fury in Conclave",
         "fixes": "Fixed the Wukong Dasheng helmet not appearing in Alert cycles.\nFixed being able to pass through certain geometry with Wukong’s Cloud Walker ability. "
       },
       {
