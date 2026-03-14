@@ -449,7 +449,7 @@
       }
     ],
     "imageName": "alloy-plate-af5adc4919.png",
-    "itemCount": 1700,
+    "itemCount": 500,
     "masterable": false,
     "name": "Alloy Plate",
     "parents": [
@@ -9286,7 +9286,7 @@
     "consumeOnBuild": false,
     "description": "Coprun that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "imageName": "coprite-alloy-dabeb91d39.png",
-    "itemCount": 40,
+    "itemCount": 100,
     "masterable": false,
     "name": "Coprite Alloy",
     "parents": [
@@ -10122,7 +10122,7 @@
       }
     ],
     "imageName": "cuthol-tendrils-f364f835f8.png",
-    "itemCount": 2,
+    "itemCount": 5,
     "masterable": false,
     "name": "Cuthol Tendrils",
     "parents": [
@@ -17181,7 +17181,7 @@
     "category": "Misc",
     "description": "Used to create absolvents that purify gems.\n\nSource: Cut from all Plains of Eidolon Fish via Fisher Hai-Luk in Cetus (Earth).",
     "imageName": "fish-oil-74fd9aeeac.png",
-    "itemCount": 20,
+    "itemCount": 10,
     "masterable": false,
     "name": "Fish Oil",
     "parents": [
@@ -48708,7 +48708,7 @@
       }
     ],
     "imageName": "murkray-liver-0db3ce260d.png",
-    "itemCount": 2,
+    "itemCount": 5,
     "masterable": false,
     "name": "Murkray Liver",
     "parents": [
@@ -52097,7 +52097,7 @@
       }
     ],
     "imageName": "norg-brain-c797ecef41.png",
-    "itemCount": 2,
+    "itemCount": 3,
     "masterable": false,
     "name": "Norg Brain",
     "parents": [

@@ -2477,8 +2477,19 @@
       }
     ],
     "imageName": "fass-residue-b9d66017f7.png",
+    "itemCount": 6,
     "masterable": false,
     "name": "Fass Residue",
+    "parents": [
+      "Desus Antigen",
+      "Elasmun Antigen",
+      "Ibexan Antigen",
+      "Iranon Antigen",
+      "Plagen Antigen",
+      "Poxi Antigen",
+      "Tethron Antigen",
+      "Virox Antigen"
+    ],
     "patchlogs": [
       {
         "name": "Nora's Mix Volume 1: Update 31.2.0 + 31.2.0.1",
@@ -5263,7 +5274,7 @@
         "date": "2020-03-31T17:04:24Z",
         "url": "https://forums.warframe.com/topic/1180787-operation-scarlet-spear-titania-prime-2736/",
         "additions": "",
-        "changes": "Added a ���Waiting for Satellite’ UI line when players are in the Murex Raid with their Oplinks down but have neglected to place the Satellite first. A few cases of ‘not receiving codes’ were a result of user error that this should fix. \nIncreased the Sentient AI count per player when Defending Oplinks in the Murex Raid mission.\nFixed the UI incorrectly stating that you were ‘Sending Kill Codes’ when an Oplink is deployed in a Murex Raid. It will now properly state that you’re ‘Awaiting Kill Codes’.\nFixed Oplinks placed by a squadmate who has disconnected lingering perpetually.\nFixed Venari’s Healing aura affecting the Oplink.\nThe Oplink is intended to not be affected by Abilities.\nFixed a script error when placing your Oplink in the Ground Assault mission.",
+        "changes": "Added a ‘Waiting for Satellite’ UI line when players are in the Murex Raid with their Oplinks down but have neglected to place the Satellite first. A few cases of ‘not receiving codes’ were a result of user error that this should fix. \nIncreased the Sentient AI count per player when Defending Oplinks in the Murex Raid mission.\nFixed the UI incorrectly stating that you were ‘Sending Kill Codes’ when an Oplink is deployed in a Murex Raid. It will now properly state that you’re ‘Awaiting Kill Codes’.\nFixed Oplinks placed by a squadmate who has disconnected lingering perpetually.\nFixed Venari’s Healing aura affecting the Oplink.\nThe Oplink is intended to not be affected by Abilities.\nFixed a script error when placing your Oplink in the Ground Assault mission.",
         "fixes": ""
       },
       {
@@ -9473,8 +9484,19 @@
       }
     ],
     "imageName": "vome-residue-5a9cb65b4d.png",
+    "itemCount": 6,
     "masterable": false,
     "name": "Vome Residue",
+    "parents": [
+      "Adra Mutagen",
+      "Arioli Mutagen",
+      "Chiten Mutagen",
+      "Elsa Mutagen",
+      "Leptosam Mutagen",
+      "Monachod Mutagen",
+      "Phijar Mutagen",
+      "Zarim Mutagen"
+    ],
     "patchlogs": [
       {
         "name": "Nightwave: Nora’s Choice: Update 30.6.0",

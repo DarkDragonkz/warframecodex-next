@@ -4244,7 +4244,7 @@
     "consumeOnBuild": false,
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "imageName": "esher-devar-7ea467cba3.png",
-    "itemCount": 10,
+    "itemCount": 1,
     "masterable": false,
     "name": "Esher Devar",
     "parents": [
@@ -4715,7 +4715,7 @@
     "consumeOnBuild": true,
     "description": "ClanTech weaponized containment field to contain superheated substances.\n\nLocation: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards",
     "imageName": "fieldron-db068da41e.png",
-    "itemCount": 7,
+    "itemCount": 2,
     "masterable": false,
     "name": "Fieldron",
     "parents": [
@@ -5461,7 +5461,7 @@
       }
     ],
     "imageName": "grokdrul-1753a06746.png",
-    "itemCount": 40,
+    "itemCount": 55,
     "masterable": false,
     "name": "Grokdrul",
     "parents": [
@@ -6135,7 +6135,7 @@
       }
     ],
     "imageName": "iradite-78612a184b.png",
-    "itemCount": 50,
+    "itemCount": 5,
     "masterable": false,
     "name": "Iradite",
     "parents": [
@@ -7017,7 +7017,7 @@
       }
     ],
     "imageName": "maprico-35a9f7f622.png",
-    "itemCount": 2,
+    "itemCount": 15,
     "masterable": false,
     "name": "Maprico",
     "parents": [
@@ -7105,7 +7105,7 @@
     "consumeOnBuild": false,
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "imageName": "marquise-veridos-217877dacf.png",
-    "itemCount": 10,
+    "itemCount": 2,
     "masterable": false,
     "name": "Marquise Veridos",
     "parents": [
@@ -8043,7 +8043,7 @@
       }
     ],
     "imageName": "nistlepod-d533e543eb.png",
-    "itemCount": 25,
+    "itemCount": 15,
     "masterable": false,
     "name": "Nistlepod",
     "parents": [
@@ -10955,7 +10955,7 @@
     "consumeOnBuild": false,
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "imageName": "tear-azurite-397c0a4ebc.png",
-    "itemCount": 10,
+    "itemCount": 1,
     "masterable": false,
     "name": "Tear Azurite",
     "parents": [
