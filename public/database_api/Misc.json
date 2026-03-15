@@ -449,7 +449,7 @@
       }
     ],
     "imageName": "alloy-plate-af5adc4919.png",
-    "itemCount": 500,
+    "itemCount": 1600,
     "masterable": false,
     "name": "Alloy Plate",
     "parents": [
@@ -9286,7 +9286,7 @@
     "consumeOnBuild": false,
     "description": "Coprun that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "imageName": "coprite-alloy-dabeb91d39.png",
-    "itemCount": 100,
+    "itemCount": 40,
     "masterable": false,
     "name": "Coprite Alloy",
     "parents": [
@@ -10122,7 +10122,7 @@
       }
     ],
     "imageName": "cuthol-tendrils-f364f835f8.png",
-    "itemCount": 5,
+    "itemCount": 2,
     "masterable": false,
     "name": "Cuthol Tendrils",
     "parents": [
@@ -16245,7 +16245,7 @@
     "category": "Misc",
     "description": "Retrieved from the shores of a sacred fate dream.\n\nLocation: Saya's Visions on Earth",
     "imageName": "fate-pearl-63a5539a2d.png",
-    "itemCount": 5,
+    "itemCount": 30,
     "masterable": false,
     "name": "Fate Pearl",
     "parents": [
@@ -17181,7 +17181,7 @@
     "category": "Misc",
     "description": "Used to create absolvents that purify gems.\n\nSource: Cut from all Plains of Eidolon Fish via Fisher Hai-Luk in Cetus (Earth).",
     "imageName": "fish-oil-74fd9aeeac.png",
-    "itemCount": 10,
+    "itemCount": 20,
     "masterable": false,
     "name": "Fish Oil",
     "parents": [
@@ -35555,7 +35555,7 @@
       }
     ],
     "imageName": "karkina-antenna-98c141fdea.png",
-    "itemCount": 3,
+    "itemCount": 20,
     "masterable": false,
     "name": "Karkina Antenna",
     "parents": [
@@ -48708,7 +48708,7 @@
       }
     ],
     "imageName": "murkray-liver-0db3ce260d.png",
-    "itemCount": 5,
+    "itemCount": 2,
     "masterable": false,
     "name": "Murkray Liver",
     "parents": [
@@ -51581,7 +51581,7 @@
       }
     ],
     "imageName": "nitain-extract-ba7ea3b2cf.png",
-    "itemCount": 3,
+    "itemCount": 5,
     "masterable": false,
     "name": "Nitain Extract",
     "parents": [
@@ -52097,7 +52097,7 @@
       }
     ],
     "imageName": "norg-brain-c797ecef41.png",
-    "itemCount": 3,
+    "itemCount": 2,
     "masterable": false,
     "name": "Norg Brain",
     "parents": [
@@ -64560,7 +64560,7 @@
       }
     ],
     "imageName": "sharrac-teeth-00c5c5e9ae.png",
-    "itemCount": 5,
+    "itemCount": 20,
     "masterable": false,
     "name": "Sharrac Teeth",
     "parents": [
