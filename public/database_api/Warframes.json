@@ -14259,7 +14259,7 @@
         "url": "https://forums.warframe.com/topic/421728-hotfix-1602/",
         "additions": "",
         "changes": "·         Chroma’s alt helmet will no longer appear in player inventories after completing The New Strange Quest.",
-        "fixes": "·         Fixed Chroma’s Spectral Scream not equipping a weapon once deactivated if the ability was used while holding a scanner.\n·         Fixed Chroma’s Elemental Ward buff showing as 1% off in the HUD in some instances."
+        "fixes": "·         Fixed Chroma���s Spectral Scream not equipping a weapon once deactivated if the ability was used while holding a scanner.\n·         Fixed Chroma’s Elemental Ward buff showing as 1% off in the HUD in some instances."
       },
       {
         "name": "Warframe: Sanctuary",
@@ -71495,7 +71495,7 @@
         "url": "https://forums.warframe.com/topic/1016610-chimera-update-2310/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Nezha’s Blazing Chakram stuttering for some Clients.\nFixed Nezha’s Blazing Chakram flight path getting blocked by Swarm Mutalist MOA���s spores.\nFixed many Syandana's clipping with Nezha's Empyrean Skin\nFixed missing Syandana offsets on Nezha Empyrean skin."
+        "fixes": "Fixed Nezha’s Blazing Chakram stuttering for some Clients.\nFixed Nezha’s Blazing Chakram flight path getting blocked by Swarm Mutalist MOA’s spores.\nFixed many Syandana's clipping with Nezha's Empyrean Skin\nFixed missing Syandana offsets on Nezha Empyrean skin."
       },
       {
         "name": "Mask of the Revenant: Chroma Prime 23.9.0 + 23.9.0.1",
@@ -77174,7 +77174,7 @@
         "url": "https://forums.warframe.com/topic/369418-update-1572-15721/",
         "additions": "",
         "changes": "Textures updated on the Pyra Prime Syandana and Vasto Prime now match Nova Prime’s metallic texture!",
-        "fixes": "Fixed an error caused by Nova’s Molecular Prime.\nFixed Nova Prime’s Antimatter Drop not correctly applying unique visual effects to non-host players.\nFixed Nova Prime not appearing in the Codex for all players."
+        "fixes": "Fixed an error caused by Nova’s Molecular Prime.\nFixed Nova Prime���s Antimatter Drop not correctly applying unique visual effects to non-host players.\nFixed Nova Prime not appearing in the Codex for all players."
       },
       {
         "name": "Hotfix 15.7.1",
@@ -77841,7 +77841,7 @@
         "url": "https://forums.warframe.com/topic/1098415-the-jovian-concord-hotfix-2506/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Impact Status and ragdolling breaking enemies out of Nyx��s Pacify effect before its Duration is up."
+        "fixes": "Fixed Impact Status and ragdolling breaking enemies out of Nyx’s Pacify effect before its Duration is up."
       },
       {
         "name": "The Jovian Concord: Hotfix 25.0.3",
@@ -92892,7 +92892,7 @@
         "date": "2016-05-06T21:23:23Z",
         "url": "https://forums.warframe.com/topic/645736-hotfix-18106/",
         "additions": "",
-        "changes": "•    Rhino Prime���s Iron Skin will now reflect your chosen accent color instead of energy color.",
+        "changes": "•    Rhino Prime’s Iron Skin will now reflect your chosen accent color instead of energy color.",
         "fixes": ""
       },
       {
@@ -104681,7 +104681,7 @@
         "url": "https://forums.warframe.com/topic/817066-chains-of-harrow-hotfix-2107/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed casting and deactivating Excalibur’s Exalted Blade, Wukong’s Primal Fury, or Valkyr��s Hysteria while in Dual-Wield mode resulting in the UI stating the name of your Pistol and ability used.\nFixed a script error when casting Valkyr’s Rip Line."
+        "fixes": "Fixed casting and deactivating Excalibur’s Exalted Blade, Wukong’s Primal Fury, or Valkyr’s Hysteria while in Dual-Wield mode resulting in the UI stating the name of your Pistol and ability used.\nFixed a script error when casting Valkyr’s Rip Line."
       },
       {
         "name": "Update 21: Chains of Harrow",
