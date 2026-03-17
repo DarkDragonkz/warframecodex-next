@@ -295882,6 +295882,16 @@
     "compatName": "Xaku",
     "fusionLimit": 3,
     "imageName": "untime-rift-cb05b3c7b3.jpg",
+    "introduced": {
+      "name": "Update 40.0",
+      "url": "https://wiki.warframe.com/w/Update_40%23Update_40.0",
+      "aliases": [
+        "40",
+        "40.0"
+      ],
+      "parent": "40.0",
+      "date": "2025-10-15"
+    },
     "isAugment": true,
     "isPrime": false,
     "levelStats": [
@@ -295910,9 +295920,14 @@
     "name": "Untime Rift",
     "polarity": "zenurik",
     "rarity": "Rare",
+    "releaseDate": "2025-10-15",
     "tradable": true,
+    "transmutable": false,
     "type": "Warframe Mod",
-    "uniqueName": "/Lotus/Powersuits/BrokenFrame/BrokenDestructAugmentCard"
+    "uniqueName": "/Lotus/Powersuits/BrokenFrame/BrokenDestructAugmentCard",
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/UntimeRiftMod.png?82c22",
+    "wikiaUrl": "https://wiki.warframe.com/w/Untime_Rift"
   },
   {
     "baseDrain": 0,
