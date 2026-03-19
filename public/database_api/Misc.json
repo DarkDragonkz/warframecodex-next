@@ -65496,7 +65496,7 @@
         "url": "https://forums.warframe.com/topic/1332235-update-3220-lua%E2%80%99s-prey/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed certain textures of the Skaut Landing Craft being completely unlit, causing it to look completely black. \nFixed the back of the Skaut Landing Craft being completely transparent during the intro cutscene of any Archwing mission on the Corpus Ship tileset. As reported here: https://www.reddit.com/r/Warframe/comments/yqe041/shoot_to_thrill_plays/\nFixed cases of the Skaut Landing Craft causing the spawn in cutscene to be skipped."
+        "fixes": "Fixed certain textures of the Skaut Landing Craft being completely unlit, causing it to look completely black.��\nFixed the back of the Skaut Landing Craft being completely transparent during the intro cutscene of any Archwing mission on the Corpus Ship tileset. As reported here: https://www.reddit.com/r/Warframe/comments/yqe041/shoot_to_thrill_plays/\nFixed cases of the Skaut Landing Craft causing the spawn in cutscene to be skipped."
       },
       {
         "name": "Echoes of Veilbreaker: Hotfix 32.1.2",
