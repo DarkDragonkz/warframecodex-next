@@ -3785,7 +3785,7 @@
       }
     ],
     "imageName": "echo-voca-32f69b9f58.png",
-    "itemCount": 1,
+    "itemCount": 2,
     "masterable": false,
     "name": "Echo Voca",
     "parents": [
@@ -5225,6 +5225,7 @@
       "Hextra Gyro",
       "Lambeo Moa",
       "Nychus Moa",
+      "Pax Bolt",
       "Phazor Gyro",
       "Puppeteer",
       "Rattleguts",
@@ -6882,7 +6883,7 @@
     "category": "Resources",
     "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
     "imageName": "lunar-pitcher-f17f7c3873.png",
-    "itemCount": 6,
+    "itemCount": 50,
     "masterable": false,
     "name": "Lunar Pitcher",
     "parents": [
@@ -7827,6 +7828,7 @@
       "Kreska",
       "Munit Gyro",
       "Para Moa",
+      "Pax Charge",
       "Step Tens",
       "Thugs",
       "Twin Kavats"
@@ -11290,6 +11292,7 @@
       "Highbrow",
       "Hothead",
       "Jonsin Bracket",
+      "Pax Soar",
       "Tian Bracket",
       "Zip"
     ],

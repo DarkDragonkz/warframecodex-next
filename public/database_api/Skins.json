@@ -42615,7 +42615,7 @@
         "date": "2019-03-25T21:21:51Z",
         "url": "https://forums.warframe.com/topic/1076040-buried-debts-hotfix-2455/",
         "additions": "",
-        "changes": "Fixed Valkyr��s Hysterical Assault Augment Mod having broken functionality with Melee 2.99997 due to the removal of Secondary Fire in Melee mode. Now Aiming + Melee will trigger the leap function while in Hysteria. The Mod description has been updated to reflect this new mechanic.",
+        "changes": "Fixed Valkyr’s Hysterical Assault Augment Mod having broken functionality with Melee 2.99997 due to the removal of Secondary Fire in Melee mode. Now Aiming + Melee will trigger the leap function while in Hysteria. The Mod description has been updated to reflect this new mechanic.",
         "fixes": ""
       },
       {
