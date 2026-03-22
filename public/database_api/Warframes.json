@@ -13715,7 +13715,7 @@
         "url": "https://forums.warframe.com/topic/809842-update-21-chains-of-harrow/",
         "additions": "If you find joy in neon colors flashing to the beat of killing Grineer, plug in that Razer Chroma and enjoy the show! Please note that Razer Chroma and Warframe compatibility is a work-in-progress and more compatibility will be added as we continue to develop it.",
         "changes": "",
-        "fixes": "Fixed an issue with back Sigils clipping on the Chroma Dynasty Skin. \nFixed Clients not able to see the destination circle after they or a squadmate has casted Effigy using Chroma��s Guided Effigy Augment. \nFixed various Syandana clipping issues through Chroma’s Effigy.\nFixed Chromatic Blade Augment not applying elemental FX on Exalted Blade’s projectiles. \nFixed Chroma Dynasty Skin clipping into many cloth Syandanas."
+        "fixes": "Fixed an issue with back Sigils clipping on the Chroma Dynasty Skin. \nFixed Clients not able to see the destination circle after they or a squadmate has casted Effigy using Chroma’s Guided Effigy Augment. \nFixed various Syandana clipping issues through Chroma’s Effigy.\nFixed Chromatic Blade Augment not applying elemental FX on Exalted Blade’s projectiles. \nFixed Chroma Dynasty Skin clipping into many cloth Syandanas."
       },
       {
         "name": "Oberon Prime: Update 20.7.0",
@@ -110280,7 +110280,7 @@
         "date": "2021-09-08T16:58:55Z",
         "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
         "additions": "",
-        "changes": "For a long time now we’ve had a precedent with a handful of Warframe Skins where the “None�� option for Attachments (and sometimes Syandanas) was removed if certain Skins, Primes, etc were equipped. This applied to Warframes such as Ember Prime/Pyraxis Skin, Frost, Mag Prime, Oberon, Volt, etc.",
+        "changes": "For a long time now we’ve had a precedent with a handful of Warframe Skins where the “None” option for Attachments (and sometimes Syandanas) was removed if certain Skins, Primes, etc were equipped. This applied to Warframes such as Ember Prime/Pyraxis Skin, Frost, Mag Prime, Oberon, Volt, etc.",
         "fixes": "Fixed the Tenet Envoy's guided rockets being unable to pass through Volt's Shield and Gara's Vitrify."
       },
       {
