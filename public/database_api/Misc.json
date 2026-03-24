@@ -35555,7 +35555,7 @@
       }
     ],
     "imageName": "karkina-antenna-98c141fdea.png",
-    "itemCount": 3,
+    "itemCount": 20,
     "masterable": false,
     "name": "Karkina Antenna",
     "parents": [
@@ -57771,7 +57771,7 @@
         "date": "2021-11-11T13:33:32Z",
         "url": "https://forums.warframe.com/topic/1286070-update-3090-prime-resurgence/",
         "additions": "",
-        "changes": "from being part of the Railjack experience, to a great tool in our Open Worlds. While their firepower provides an advantage, the time and resource investment required to obtain one has shown to be a deterrent to newer players. As The New War approaches, we aim to alleviate that initial friction and provide an easier path of obtainment.\nSome decoration controls on controllers were adopted from Archwing and Railjack. We’ve decoupled those functions to create controls specific to decorating!\nYou will now be sent back to the Dojo instead of your Orbiter when everyone in your squad dies and loses all their revives in Railjack missions.\nOptimized several small hitches when standing near certain level triggers (i.e Navigation on the Railjack). ",
+        "changes": "from being part of the Railjack experience, to a great tool in our Open Worlds. While their firepower provides an advantage, the time and resource investment required to obtain one has shown to be a deterrent to newer players. As The New War approaches, we aim to alleviate that initial friction and provide an easier path of obtainment.\nSome decoration controls on controllers were adopted from Archwing and Railjack. We���ve decoupled those functions to create controls specific to decorating!\nYou will now be sent back to the Dojo instead of your Orbiter when everyone in your squad dies and loses all their revives in Railjack missions.\nOptimized several small hitches when standing near certain level triggers (i.e Navigation on the Railjack). ",
         "fixes": "Fixed the UI prompt for Railjack Tactical Menu and Omni disappearing after a player casts Merulina as Yareli with a controller.\nFixed UI element inconsistency in Railjack Void Storms between Hosts and Clients.\nFixed an issue with the Railjack Forward Artillery reticle not changing if you swap weapons while in the seat.\nFixed being able to fly inside the Corpus Capital Ship’s model after parking the Railjack right against it. \nFixed Nidus Prime missing half of his body when exiting the Dorsal or Ventral Turrets in the Railjack.\nFixed the Railjack hologram above the Plexus console in the Orbiter defaulting to blue briefly before reverting to chosen color after returning to Orbiter from Relay or Hub.\nFixed player not reviving properly as Sevagoth’s Shadow if they die in Archwing in Railjack missions. \nFixed Client getting stuck “Waiting for Players” when attempting to extract from the Capitol Ship in Corpus Railjack missions if the Host dies and has run out of revives. \nFixed multiple NPCs (Railjack Crew or Spectres) attempting to revive other fellow NPC which ultimately ended with them not being able to be revived. \nFixed Railjack option appearing in the Orbiter Pause Menu before you acquire a Railjack.\nFixed getting a HTTP 400 error when attempting to fuse Vort Railjack weapons together.\nFixed a handful of Syandanas not sitting properly on Railjack Crew Members.  "
       },
       {
@@ -64560,7 +64560,7 @@
       }
     ],
     "imageName": "sharrac-teeth-00c5c5e9ae.png",
-    "itemCount": 5,
+    "itemCount": 20,
     "masterable": false,
     "name": "Sharrac Teeth",
     "parents": [
@@ -65512,7 +65512,7 @@
         "url": "https://forums.warframe.com/topic/1329952-echoes-of-veilbreaker-hotfix-3211/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed crash related to Skaut’s Air Support spawning Corpus agents. "
+        "fixes": "Fixed crash related to Skaut���s Air Support spawning Corpus agents. "
       },
       {
         "name": "Echoes of Veilbreaker: Update 32.1",

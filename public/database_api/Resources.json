@@ -6882,7 +6882,7 @@
     "category": "Resources",
     "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
     "imageName": "lunar-pitcher-f17f7c3873.png",
-    "itemCount": 6,
+    "itemCount": 50,
     "masterable": false,
     "name": "Lunar Pitcher",
     "parents": [
