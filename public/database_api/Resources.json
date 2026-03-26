@@ -295,6 +295,12 @@
         "location": "Dark Refractory, Deimos/Recall: Vanguard (The Perita Rebellion), Rotation A",
         "rarity": "Rare",
         "type": "150X Agnovidisc"
+      },
+      {
+        "chance": 0.03,
+        "location": "Dark Refractory, Deimos/The Guilty (The Perita Rebellion), Rotation A",
+        "rarity": "Rare",
+        "type": "150X Agnovidisc"
       }
     ],
     "imageName": "agnovidisc-930a4da3bc.png",
@@ -566,61 +572,61 @@
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Arc Silver (Skirmish)",
+        "location": "Veil Proxima/Arc Silver (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Calabash (Skirmish)",
+        "location": "Veil Proxima/Calabash (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Erato (Skirmish)",
+        "location": "Veil Proxima/Erato (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Flexa (Skirmish)",
+        "location": "Veil Proxima/Flexa (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Veil/H-2 Cloud (Skirmish)",
+        "location": "Veil Proxima/H-2 Cloud (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Lu-Yan (Skirmish)",
+        "location": "Veil Proxima/Lu-Yan (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Nsu Grid (Skirmish)",
+        "location": "Veil Proxima/Nsu Grid (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Numina (Skirmish)",
+        "location": "Veil Proxima/Numina (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Veil/R-9 Cloud (Skirmish)",
+        "location": "Veil Proxima/R-9 Cloud (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Sabmir Cloud (Skirmish)",
+        "location": "Veil Proxima/Sabmir Cloud (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
@@ -761,12 +767,6 @@
         "location": "Venus/Orb Vallis (Level 50 - 60 PROFIT-TAKER - PHASE 4), Rotation C",
         "rarity": "Uncommon",
         "type": "5X Atmo Systems"
-      },
-      {
-        "chance": 1,
-        "location": "Vox Solaris, Agent",
-        "rarity": "Common",
-        "type": "Atmo Systems"
       }
     ],
     "imageName": "atmo-systems-4cd4a394e5.png",
@@ -1248,14 +1248,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Modus",
-            "rarity": "Common",
-            "type": "Bonewidow Capsule Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
@@ -1264,8 +1257,8 @@
         "itemCount": 1,
         "imageName": "damaged-necramech-pod.png",
         "tradable": true,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/EntratiWispItem",
@@ -1284,8 +1277,8 @@
         "itemCount": 6,
         "imageName": "star-crimzian-d9b1d2eb7b.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -1316,14 +1309,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Modus",
-            "rarity": "Common",
-            "type": "Bonewidow Casing Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartChassisItem",
@@ -1332,8 +1318,8 @@
         "itemCount": 1,
         "imageName": "damaged-necramech-casing.png",
         "tradable": true,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
@@ -1342,8 +1328,8 @@
         "itemCount": 15,
         "imageName": "goblite-tears-db33ec8568.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBAlloyItem",
@@ -1352,8 +1338,8 @@
         "itemCount": 100,
         "imageName": "tempered-bapholite-f058935e24.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAAlloyItem",
@@ -1362,8 +1348,8 @@
         "itemCount": 20,
         "imageName": "thaumic-distillate-67fd1aac54.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -1393,8 +1379,8 @@
         "itemCount": 120,
         "imageName": "adramal-alloy-8b552026ef.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechPartEngineBlueprint",
@@ -1404,14 +1390,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Modus",
-            "rarity": "Common",
-            "type": "Bonewidow Engine Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
@@ -1430,8 +1409,8 @@
         "itemCount": 1,
         "imageName": "damaged-necramech-engine.png",
         "tradable": true,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
@@ -1472,14 +1451,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Modus",
-            "rarity": "Common",
-            "type": "Bonewidow Weapon Pod Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartWeaponPodItem",
@@ -1488,8 +1460,8 @@
         "itemCount": 1,
         "imageName": "damaged-necramech-weapon-pod.png",
         "tradable": true,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem",
@@ -1498,8 +1470,8 @@
         "itemCount": 80,
         "imageName": "devolved-namalon-8e85fb663c.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -2100,18 +2072,6 @@
         "location": "Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation A",
         "rarity": "Uncommon",
         "type": "Cetus Wisp"
-      },
-      {
-        "chance": 1,
-        "location": "Operational Supply, Neutral",
-        "rarity": "Common",
-        "type": "Cetus Wisp"
-      },
-      {
-        "chance": 1,
-        "location": "The Quills, Architect",
-        "rarity": "Common",
-        "type": "Cetus Wisp"
       }
     ],
     "imageName": "cetus-wisp-0681ca5991.png",
@@ -2548,8 +2508,8 @@
         "itemCount": 80,
         "imageName": "adramal-alloy-8b552026ef.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechArchGunBarrelBlueprint",
@@ -2559,14 +2519,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Modus",
-            "rarity": "Common",
-            "type": "Cortege Barrel Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponBarrelItem",
@@ -2627,14 +2580,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Modus",
-            "rarity": "Common",
-            "type": "Cortege Receiver Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponReceiverItem",
@@ -2653,8 +2599,8 @@
         "itemCount": 80,
         "imageName": "devolved-namalon-8e85fb663c.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem",
@@ -2673,8 +2619,8 @@
         "itemCount": 10,
         "imageName": "trapezium-xenorhast-a14b3b3c56.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -2715,14 +2661,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Modus",
-            "rarity": "Common",
-            "type": "Cortege Stock Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemBCutItem",
@@ -2731,8 +2670,8 @@
         "itemCount": 10,
         "imageName": "cabochon-embolos-261ef228d9.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponStockItem",
@@ -2762,8 +2701,8 @@
         "itemCount": 80,
         "imageName": "tempered-bapholite-f058935e24.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -3065,14 +3004,6 @@
   {
     "category": "Resources",
     "description": "The damaged remains of a Necramech supporting frame.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift, and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Father), Neutral",
-        "rarity": "Common",
-        "type": "Damaged Necramech Casing"
-      }
-    ],
     "imageName": "damaged-necramech-casing.png",
     "masterable": false,
     "name": "Damaged Necramech Casing",
@@ -3083,14 +3014,6 @@
   {
     "category": "Resources",
     "description": "An engine designed for use in a Necramech. Unfortunately, it’s damaged.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Father), Neutral",
-        "rarity": "Common",
-        "type": "Damaged Necramech Engine"
-      }
-    ],
     "imageName": "damaged-necramech-engine.png",
     "masterable": false,
     "name": "Damaged Necramech Engine",
@@ -3101,14 +3024,6 @@
   {
     "category": "Resources",
     "description": "A modular component for a Necramech. It’s damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Father), Neutral",
-        "rarity": "Common",
-        "type": "Damaged Necramech Pod"
-      }
-    ],
     "imageName": "damaged-necramech-pod.png",
     "itemCount": 1,
     "masterable": false,
@@ -3180,12 +3095,6 @@
         "location": "Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation A",
         "rarity": "Rare",
         "type": "Damaged Necramech Weapon Barrel"
-      },
-      {
-        "chance": 1,
-        "location": "NecraLoid (Loid), Clearance Agnesis",
-        "rarity": "Common",
-        "type": "Damaged Necramech Weapon Barrel"
       }
     ],
     "imageName": "damaged-necramech-weapon-barrel.png",
@@ -3198,14 +3107,6 @@
   {
     "category": "Resources",
     "description": "A broken weapon system intended for a Necramech.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Father), Neutral",
-        "rarity": "Common",
-        "type": "Damaged Necramech Weapon Pod"
-      }
-    ],
     "imageName": "damaged-necramech-weapon-pod.png",
     "masterable": false,
     "name": "Damaged Necramech Weapon Pod",
@@ -3269,12 +3170,6 @@
         "chance": 0.06,
         "location": "Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation B",
         "rarity": "Rare",
-        "type": "Damaged Necramech Weapon Receiver"
-      },
-      {
-        "chance": 1,
-        "location": "NecraLoid (Loid), Clearance Agnesis",
-        "rarity": "Common",
         "type": "Damaged Necramech Weapon Receiver"
       }
     ],
@@ -3341,12 +3236,6 @@
         "chance": 0.06,
         "location": "Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C",
         "rarity": "Rare",
-        "type": "Damaged Necramech Weapon Stock"
-      },
-      {
-        "chance": 1,
-        "location": "NecraLoid (Loid), Clearance Agnesis",
-        "rarity": "Common",
         "type": "Damaged Necramech Weapon Stock"
       }
     ],
@@ -3785,7 +3674,7 @@
       }
     ],
     "imageName": "echo-voca-32f69b9f58.png",
-    "itemCount": 2,
+    "itemCount": 1,
     "masterable": false,
     "name": "Echo Voca",
     "parents": [
@@ -4298,8 +4187,8 @@
         "itemCount": 1,
         "imageName": "heart-nyth-08221d363b.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsDogTag",
@@ -4318,8 +4207,8 @@
         "itemCount": 1,
         "imageName": "radian-sentirum-cddffa1970.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": false,
@@ -5133,20 +5022,6 @@
   {
     "category": "Resources",
     "description": "A strange crystal that grows inside the veins of extracted ore.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (Smokefinger), Old Mate",
-        "rarity": "Common",
-        "type": "Goblite Glyph"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (Smokefinger), Outworlder",
-        "rarity": "Common",
-        "type": "Goblite Tears X10 Blueprint"
-      }
-    ],
     "imageName": "goblite-57f20e67ee.png",
     "itemCount": 10,
     "masterable": false,
@@ -5581,12 +5456,6 @@
         "location": "Venus/Orb Vallis (Level 50 - 60 PROFIT-TAKER - PHASE 4), Rotation C",
         "rarity": "Uncommon",
         "type": "5X Gyromag Systems"
-      },
-      {
-        "chance": 1,
-        "location": "Vox Solaris, Operative",
-        "rarity": "Common",
-        "type": "Gyromag Systems"
       }
     ],
     "imageName": "gyromag-systems-ea3fd3f500.png",
@@ -6126,12 +5995,6 @@
         "location": "Iradite Formation",
         "rarity": "Common",
         "type": "Iradite"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Old Man Suumbaat), Surah",
-        "rarity": "Common",
-        "type": "Iradite Nugget"
       }
     ],
     "imageName": "iradite-78612a184b.png",
@@ -6726,6 +6589,12 @@
         "location": "Dark Refractory, Deimos/Recall: Vanguard (The Perita Rebellion), Rotation A",
         "rarity": "Rare",
         "type": "60X Laudavi"
+      },
+      {
+        "chance": 0.03,
+        "location": "Dark Refractory, Deimos/The Guilty (The Perita Rebellion), Rotation A",
+        "rarity": "Rare",
+        "type": "60X Laudavi"
       }
     ],
     "imageName": "laudavi-00f69b076e.png",
@@ -6910,6 +6779,12 @@
       {
         "chance": 1,
         "location": "Dark Refractory, Deimos/Recall: Hunhullus (The Perita Rebellion), Rotation B",
+        "rarity": "Common",
+        "type": "Lyroic Bridge"
+      },
+      {
+        "chance": 1,
+        "location": "Dark Refractory, Deimos/The Guilty (The Perita Rebellion), Rotation B",
         "rarity": "Common",
         "type": "Lyroic Bridge"
       }
@@ -7313,8 +7188,8 @@
         "itemCount": 80,
         "imageName": "adramal-alloy-8b552026ef.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechGrenadeLauncherBarrelBlueprint",
@@ -7324,14 +7199,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Modus",
-            "rarity": "Common",
-            "type": "Morgha Barrel Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponBarrelItem",
@@ -7393,14 +7261,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Modus",
-            "rarity": "Common",
-            "type": "Morgha Receiver Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponReceiverItem",
@@ -7419,8 +7280,8 @@
         "itemCount": 80,
         "imageName": "devolved-namalon-8e85fb663c.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem",
@@ -7439,8 +7300,8 @@
         "itemCount": 10,
         "imageName": "trapezium-xenorhast-a14b3b3c56.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -7472,14 +7333,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Modus",
-            "rarity": "Common",
-            "type": "Morgha Stock Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemBCutItem",
@@ -7488,8 +7342,8 @@
         "itemCount": 10,
         "imageName": "cabochon-embolos-261ef228d9.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponStockItem",
@@ -7519,8 +7373,8 @@
         "itemCount": 80,
         "imageName": "tempered-bapholite-f058935e24.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -8269,61 +8123,61 @@
       },
       {
         "chance": 0.0714,
-        "location": "Veil/Arc Silver (Skirmish)",
+        "location": "Veil Proxima/Arc Silver (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Veil/Calabash (Skirmish)",
+        "location": "Veil Proxima/Calabash (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Veil/Erato (Skirmish)",
+        "location": "Veil Proxima/Erato (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Veil/Flexa (Skirmish)",
+        "location": "Veil Proxima/Flexa (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Veil/H-2 Cloud (Skirmish)",
+        "location": "Veil Proxima/H-2 Cloud (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Veil/Lu-Yan (Skirmish)",
+        "location": "Veil Proxima/Lu-Yan (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Veil/Nsu Grid (Skirmish)",
+        "location": "Veil Proxima/Nsu Grid (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Veil/Numina (Skirmish)",
+        "location": "Veil Proxima/Numina (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Veil/R-9 Cloud (Skirmish)",
+        "location": "Veil Proxima/R-9 Cloud (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Veil/Sabmir Cloud (Skirmish)",
+        "location": "Veil Proxima/Sabmir Cloud (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
@@ -8430,12 +8284,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Uncommon",
         "type": "Nyth"
-      },
-      {
-        "chance": 1,
-        "location": "Operational Supply, Neutral",
-        "rarity": "Common",
-        "type": "Heart Nyth"
       }
     ],
     "imageName": "nyth-d59ee12651.png",
@@ -9577,12 +9425,6 @@
         "location": "Venus/Orb Vallis (Level 50 - 60 PROFIT-TAKER - PHASE 4), Rotation C",
         "rarity": "Rare",
         "type": "3X Repeller Systems"
-      },
-      {
-        "chance": 1,
-        "location": "Vox Solaris, Hand",
-        "rarity": "Common",
-        "type": "Repeller Systems"
       }
     ],
     "imageName": "repeller-systems-0ba6d9578c.png",
@@ -10111,12 +9953,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Uncommon",
         "type": "Sentirum"
-      },
-      {
-        "chance": 1,
-        "location": "Operational Supply, Neutral",
-        "rarity": "Common",
-        "type": "Radian Sentirum"
       }
     ],
     "imageName": "sentirum-17b1008a36.png",
@@ -10143,14 +9979,6 @@
   {
     "category": "Resources",
     "description": "Once part of an intricate Entrati apparatus, now shattered and bearing a sharp edge.\n\nLocation: Grandmother in the Necralisk on Deimos",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Grandmother)",
-        "rarity": "Common",
-        "type": "Seriglass Shard"
-      }
-    ],
     "imageName": "seriglass-shard-3317de0afe.png",
     "itemCount": 1,
     "masterable": false,
@@ -10183,6 +10011,12 @@
       {
         "chance": 0.03,
         "location": "Dark Refractory, Deimos/Recall: Vanguard (The Perita Rebellion), Rotation A",
+        "rarity": "Rare",
+        "type": "25X Servoris"
+      },
+      {
+        "chance": 0.03,
+        "location": "Dark Refractory, Deimos/The Guilty (The Perita Rebellion), Rotation A",
         "rarity": "Rare",
         "type": "25X Servoris"
       }
@@ -12408,61 +12242,61 @@
       },
       {
         "chance": 0.2857,
-        "location": "Veil/Arc Silver (Skirmish)",
+        "location": "Veil Proxima/Arc Silver (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Veil/Calabash (Skirmish)",
+        "location": "Veil Proxima/Calabash (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Veil/Erato (Skirmish)",
+        "location": "Veil Proxima/Erato (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Veil/Flexa (Skirmish)",
+        "location": "Veil Proxima/Flexa (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Veil/H-2 Cloud (Skirmish)",
+        "location": "Veil Proxima/H-2 Cloud (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Veil/Lu-Yan (Skirmish)",
+        "location": "Veil Proxima/Lu-Yan (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Veil/Nsu Grid (Skirmish)",
+        "location": "Veil Proxima/Nsu Grid (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Veil/Numina (Skirmish)",
+        "location": "Veil Proxima/Numina (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Veil/R-9 Cloud (Skirmish)",
+        "location": "Veil Proxima/R-9 Cloud (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Veil/Sabmir Cloud (Skirmish)",
+        "location": "Veil Proxima/Sabmir Cloud (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
@@ -13173,12 +13007,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Veridos"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Old Man Suumbaat), Kin",
-        "rarity": "Common",
-        "type": "Veridos Glyph"
       }
     ],
     "imageName": "veridos-516b9c8e16.png",
@@ -13508,14 +13336,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Agnesis",
-            "rarity": "Common",
-            "type": "Voidrig Capsule Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
@@ -13524,8 +13345,8 @@
         "itemCount": 1,
         "imageName": "damaged-necramech-pod.png",
         "tradable": true,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem",
@@ -13534,8 +13355,8 @@
         "itemCount": 50,
         "imageName": "devolved-namalon-8e85fb663c.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
@@ -13604,8 +13425,8 @@
         "itemCount": 60,
         "imageName": "adramal-alloy-8b552026ef.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/NecromechPartChassisBlueprint",
@@ -13615,14 +13436,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Agnesis",
-            "rarity": "Common",
-            "type": "Voidrig Casing Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartChassisItem",
@@ -13631,8 +13445,8 @@
         "itemCount": 1,
         "imageName": "damaged-necramech-casing.png",
         "tradable": true,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemACutItem",
@@ -13641,8 +13455,8 @@
         "itemCount": 30,
         "imageName": "faceted-tiametrite-566329217b.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/OrbStoneItem",
@@ -13701,14 +13515,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Agnesis",
-            "rarity": "Common",
-            "type": "Voidrig Engine Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartEngineItem",
@@ -13717,8 +13524,8 @@
         "itemCount": 1,
         "imageName": "damaged-necramech-engine.png",
         "tradable": true,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -13748,8 +13555,8 @@
         "itemCount": 50,
         "imageName": "tempered-bapholite-f058935e24.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -13808,14 +13615,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Agnesis",
-            "rarity": "Common",
-            "type": "Voidrig Weapon Pod Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartWeaponPodItem",
@@ -13824,8 +13624,8 @@
         "itemCount": 1,
         "imageName": "damaged-necramech-weapon-pod.png",
         "tradable": true,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemBCutItem",
@@ -13834,8 +13634,8 @@
         "itemCount": 30,
         "imageName": "purged-dagonic-abe38c9af0.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonGemACutItem",
@@ -13844,8 +13644,8 @@
         "itemCount": 40,
         "imageName": "purified-heciphron-e06b524f7a.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,

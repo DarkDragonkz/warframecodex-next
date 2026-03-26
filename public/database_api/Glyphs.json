@@ -1182,14 +1182,6 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "NecraLoid (Loid), Clearance Modus",
-        "rarity": "Common",
-        "type": "Bonewidow In Action Glyph"
-      }
-    ],
     "excludeFromCodex": true,
     "imageName": "bonewidow-in-action-glyph-24d9a21955.png",
     "masterable": false,
@@ -1982,14 +1974,6 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Master Teasonai), Kin",
-        "rarity": "Common",
-        "type": "Common Condroc Glyph"
-      }
-    ],
     "excludeFromCodex": true,
     "imageName": "common-condroc-glyph-66f99b0701.png",
     "masterable": false,
@@ -3473,14 +3457,6 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Old Mate",
-        "rarity": "Common",
-        "type": "Delicate Pobber Glyph"
-      }
-    ],
     "excludeFromCodex": true,
     "imageName": "delicate-pobber-glyph-c077e87f36.png",
     "masterable": false,
@@ -5745,14 +5721,6 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (Smokefinger), Old Mate",
-        "rarity": "Common",
-        "type": "Goblite Glyph"
-      }
-    ],
     "excludeFromCodex": true,
     "imageName": "goblite-glyph-2fdfd8b576.png",
     "masterable": false,
@@ -5795,14 +5763,6 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Kin",
-        "rarity": "Common",
-        "type": "Goopolla Glyph"
-      }
-    ],
     "excludeFromCodex": true,
     "imageName": "goopolla-glyph-0c153cfa93.png",
     "masterable": false,
@@ -11975,14 +11935,6 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Old Mate",
-        "rarity": "Common",
-        "type": "Sapcaddy Glyph"
-      }
-    ],
     "excludeFromCodex": true,
     "imageName": "sapcaddy-glyph-6cfcf8ce43.png",
     "masterable": false,
@@ -14815,14 +14767,6 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Old Man Suumbaat), Kin",
-        "rarity": "Common",
-        "type": "Veridos Glyph"
-      }
-    ],
     "excludeFromCodex": true,
     "imageName": "veridos-glyph-3807f7e52b.png",
     "masterable": false,
@@ -14949,14 +14893,6 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "NecraLoid (Loid), Clearance Modus",
-        "rarity": "Common",
-        "type": "Voidrig In Action Glyph"
-      }
-    ],
     "excludeFromCodex": true,
     "imageName": "voidrig-in-action-glyph-e5f0f550c4.png",
     "masterable": false,

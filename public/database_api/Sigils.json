@@ -22,14 +22,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Conclave.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Hurricane",
-        "rarity": "Common",
-        "type": "Accord Sigil"
-      }
-    ],
     "imageName": "accord-sigil-a11257c0bb.png",
     "masterable": false,
     "name": "Accord Sigil",
@@ -95,14 +87,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Conclave.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Tempest",
-        "rarity": "Common",
-        "type": "Ambition Sigil"
-      }
-    ],
     "imageName": "ambition-sigil-3e1a90dd19.png",
     "masterable": false,
     "name": "Ambition Sigil",
@@ -151,14 +135,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Arbiters of Hexis, Principled",
-        "rarity": "Common",
-        "type": "Arbiter Of Hexis Sigil"
-      }
-    ],
     "imageName": "arbiter-of-hexis-sigil-89fa3d512e.png",
     "masterable": false,
     "name": "Arbiter Of Hexis Sigil",
@@ -180,14 +156,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Steel Meridian.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Steel Meridian, Brave",
-        "rarity": "Common",
-        "type": "Armada Sigil"
-      }
-    ],
     "imageName": "armada-sigil-65401102a1.png",
     "masterable": false,
     "name": "Armada Sigil",
@@ -198,14 +166,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Steel Meridian.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Steel Meridian, Defender",
-        "rarity": "Common",
-        "type": "Armored Sigil"
-      }
-    ],
     "imageName": "armored-sigil-7a542bb1d1.png",
     "masterable": false,
     "name": "Armored Sigil",
@@ -216,14 +176,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Red Veil.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Red Veil, Exalted",
-        "rarity": "Common",
-        "type": "Assassin Sigil"
-      }
-    ],
     "imageName": "assassin-sigil-fdeedc33e5.png",
     "masterable": false,
     "name": "Assassin Sigil",
@@ -234,14 +186,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Suda, Intriguing",
-        "rarity": "Common",
-        "type": "Atomic Sigil"
-      }
-    ],
     "imageName": "atomic-sigil-b1b7f3c39d.png",
     "masterable": false,
     "name": "Atomic Sigil",
@@ -262,14 +206,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Conclave.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Mistral",
-        "rarity": "Common",
-        "type": "Awakening Sigil"
-      }
-    ],
     "imageName": "awakening-sigil-39a62d1571.png",
     "masterable": false,
     "name": "Awakening Sigil",
@@ -280,14 +216,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Conclave.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Mistral",
-        "rarity": "Common",
-        "type": "Awareness Sigil"
-      }
-    ],
     "imageName": "awareness-sigil-74163d464b.png",
     "masterable": false,
     "name": "Awareness Sigil",
@@ -319,14 +247,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Arbiters of Hexis, Principled",
-        "rarity": "Common",
-        "type": "Bending Will Sigil"
-      }
-    ],
     "imageName": "bending-will-sigil-b5214402db.png",
     "masterable": false,
     "name": "Bending Will Sigil",
@@ -368,14 +288,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Red Veil.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Red Veil, Respected",
-        "rarity": "Common",
-        "type": "Blades Sigil"
-      }
-    ],
     "imageName": "blades-sigil-88628d5fb9.png",
     "masterable": false,
     "name": "Blades Sigil",
@@ -486,14 +398,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the New Loka.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "New Loka, Benevolent",
-        "rarity": "Common",
-        "type": "Bloom Sigil"
-      }
-    ],
     "imageName": "bloom-sigil-5d283c0c3e.png",
     "masterable": false,
     "name": "Bloom Sigil",
@@ -504,14 +408,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the New Loka.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "New Loka, Pure",
-        "rarity": "Common",
-        "type": "Bounty Sigil"
-      }
-    ],
     "imageName": "bounty-sigil-fdcec95b88.png",
     "masterable": false,
     "name": "Bounty Sigil",
@@ -542,14 +438,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Perrin Sequence, Associate",
-        "rarity": "Common",
-        "type": "Calculating Sigil"
-      }
-    ],
     "imageName": "calculating-sigil-3376bec41f.png",
     "masterable": false,
     "name": "Calculating Sigil",
@@ -571,14 +459,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Perrin Sequence, Senior Executive",
-        "rarity": "Common",
-        "type": "Capital Sigil"
-      }
-    ],
     "imageName": "capital-sigil-c0aaac7f03.png",
     "masterable": false,
     "name": "Capital Sigil",
@@ -644,14 +524,6 @@
   {
     "category": "Sigils",
     "description": "Sigil depicting the Sanctuary Warden, Cephalon Simaris.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Simaris, Cephalon Simaris Sigil\n",
-        "rarity": "Common",
-        "type": "Cephalon Simaris Sigil"
-      }
-    ],
     "imageName": "cephalon-simaris-sigil-521df97f1f.png",
     "masterable": false,
     "name": "Cephalon Simaris Sigil",
@@ -662,14 +534,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Suda, Competent",
-        "rarity": "Common",
-        "type": "Cephalon Suda Sigil"
-      }
-    ],
     "imageName": "cephalon-suda-sigil-37bfecfe29.png",
     "masterable": false,
     "name": "Cephalon Suda Sigil",
@@ -680,14 +544,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Perrin Sequence, Partner",
-        "rarity": "Common",
-        "type": "Chairman Sigil"
-      }
-    ],
     "imageName": "chairman-sigil-ea3af3cfb2.png",
     "masterable": false,
     "name": "Chairman Sigil",
@@ -698,14 +554,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Steel Meridian.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Steel Meridian, General",
-        "rarity": "Common",
-        "type": "Champion Sigil"
-      }
-    ],
     "imageName": "champion-sigil-77f8f0b378.png",
     "masterable": false,
     "name": "Champion Sigil",
@@ -726,14 +574,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Arbiters of Hexis, Authentic",
-        "rarity": "Common",
-        "type": "Choice Sigil"
-      }
-    ],
     "imageName": "choice-sigil-4f5f872128.png",
     "masterable": false,
     "name": "Choice Sigil",
@@ -782,14 +622,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the New Loka.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "New Loka, Bountiful",
-        "rarity": "Common",
-        "type": "Clarity Sigil"
-      }
-    ],
     "imageName": "clarity-sigil-132ebeb45a.png",
     "masterable": false,
     "name": "Clarity Sigil",
@@ -940,14 +772,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Red Veil.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Red Veil, Revered",
-        "rarity": "Common",
-        "type": "Covert Sigil"
-      }
-    ],
     "imageName": "covert-sigil-ee78dbb427.png",
     "masterable": false,
     "name": "Covert Sigil",
@@ -958,14 +782,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Red Veil.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Red Veil, Respected",
-        "rarity": "Common",
-        "type": "Cull Sigil"
-      }
-    ],
     "imageName": "cull-sigil-9768b0c070.png",
     "masterable": false,
     "name": "Cull Sigil",
@@ -1102,14 +918,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Steel Meridian.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Steel Meridian, Brave",
-        "rarity": "Common",
-        "type": "Defiance Sigil"
-      }
-    ],
     "imageName": "defiance-sigil-32496b53b2.png",
     "masterable": false,
     "name": "Defiance Sigil",
@@ -1120,14 +928,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Conclave.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Whirlwind",
-        "rarity": "Common",
-        "type": "Diligence Sigil"
-      }
-    ],
     "imageName": "diligence-sigil-b8852f206d.png",
     "masterable": false,
     "name": "Diligence Sigil",
@@ -1148,14 +948,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Perrin Sequence, Senior Associate",
-        "rarity": "Common",
-        "type": "Directives Sigil"
-      }
-    ],
     "imageName": "directives-sigil-82e8e02b60.png",
     "masterable": false,
     "name": "Directives Sigil",
@@ -1176,14 +968,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Arbiters of Hexis, Principled",
-        "rarity": "Common",
-        "type": "Discipline Sigil"
-      }
-    ],
     "imageName": "discipline-sigil-7f4571069d.png",
     "masterable": false,
     "name": "Discipline Sigil",
@@ -1194,14 +978,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Conclave.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Hurricane",
-        "rarity": "Common",
-        "type": "Discovery Sigil"
-      }
-    ],
     "imageName": "discovery-sigil-9925bb36af.png",
     "masterable": false,
     "name": "Discovery Sigil",
@@ -1212,14 +988,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Conclave.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Whirlwind",
-        "rarity": "Common",
-        "type": "Discretion Sigil"
-      }
-    ],
     "imageName": "discretion-sigil-53ed02b647.png",
     "masterable": false,
     "name": "Discretion Sigil",
@@ -1290,14 +1058,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Conclave.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Typhoon",
-        "rarity": "Common",
-        "type": "Empathy Sigil"
-      }
-    ],
     "imageName": "empathy-sigil-04f31f98ad.png",
     "masterable": false,
     "name": "Empathy Sigil",
@@ -1318,14 +1078,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Conclave.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Hurricane",
-        "rarity": "Common",
-        "type": "Enlightenment Sigil"
-      }
-    ],
     "imageName": "enlightenment-sigil-ab3c3bf827.png",
     "masterable": false,
     "name": "Enlightenment Sigil",
@@ -1336,14 +1088,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Entrati.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Acquaintance",
-        "rarity": "Common",
-        "type": "Entrati Acquaintance Sigil"
-      }
-    ],
     "imageName": "entrati-acquaintance-sigil-40f4e2dddc.png",
     "masterable": false,
     "name": "Entrati Acquaintance Sigil",
@@ -1354,14 +1098,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Entrati.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Associate",
-        "rarity": "Common",
-        "type": "Entrati Associate Sigil"
-      }
-    ],
     "imageName": "entrati-associate-sigil-2b4bd22832.png",
     "masterable": false,
     "name": "Entrati Associate Sigil",
@@ -1372,14 +1108,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Entrati.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Family",
-        "rarity": "Common",
-        "type": "Entrati Family Sigil"
-      }
-    ],
     "imageName": "entrati-family-sigil-24b9a6563b.png",
     "masterable": false,
     "name": "Entrati Family Sigil",
@@ -1390,14 +1118,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Entrati.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Friend",
-        "rarity": "Common",
-        "type": "Entrati Friend Sigil"
-      }
-    ],
     "imageName": "entrati-friend-sigil-829b129400.png",
     "masterable": false,
     "name": "Entrati Friend Sigil",
@@ -1408,14 +1128,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Entrati.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Stranger",
-        "rarity": "Common",
-        "type": "Entrati Stranger Sigil"
-      }
-    ],
     "imageName": "entrati-stranger-sigil-fbaa6d9da3.png",
     "masterable": false,
     "name": "Entrati Stranger Sigil",
@@ -1517,14 +1229,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Suda, Intelligent",
-        "rarity": "Common",
-        "type": "Fractal Sigil"
-      }
-    ],
     "imageName": "fractal-sigil-c9d9ee7f48.png",
     "masterable": false,
     "name": "Fractal Sigil",
@@ -1535,14 +1239,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Steel Meridian.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Steel Meridian, Defender",
-        "rarity": "Common",
-        "type": "Freedom Fighter Sigil"
-      }
-    ],
     "imageName": "freedom-fighter-sigil-06a3189a2b.png",
     "masterable": false,
     "name": "Freedom Fighter Sigil",
@@ -1553,14 +1249,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Conclave.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Tempest",
-        "rarity": "Common",
-        "type": "Freedom Sigil"
-      }
-    ],
     "imageName": "freedom-sigil-200506354b.png",
     "masterable": false,
     "name": "Freedom Sigil",
@@ -1581,14 +1269,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the New Loka.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "New Loka, Pure",
-        "rarity": "Common",
-        "type": "Gaia Sigil"
-      }
-    ],
     "imageName": "gaia-sigil-4b4b3b47f7.png",
     "masterable": false,
     "name": "Gaia Sigil",
@@ -1697,14 +1377,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Arbiters of Hexis, Lawful",
-        "rarity": "Common",
-        "type": "Grasp Sigil"
-      }
-    ],
     "imageName": "grasp-sigil-c67e637312.png",
     "masterable": false,
     "name": "Grasp Sigil",
@@ -1735,14 +1407,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the New Loka.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "New Loka, Bountiful",
-        "rarity": "Common",
-        "type": "Growth Sigil"
-      }
-    ],
     "imageName": "growth-sigil-e5df86f2c1.png",
     "masterable": false,
     "name": "Growth Sigil",
@@ -1791,14 +1455,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Arbiters of Hexis, Principled",
-        "rarity": "Common",
-        "type": "Guiding Path Sigil"
-      }
-    ],
     "imageName": "guiding-path-sigil-958f945e16.png",
     "masterable": false,
     "name": "Guiding Path Sigil",
@@ -1820,14 +1476,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Suda, Wise",
-        "rarity": "Common",
-        "type": "Hexan Sigil"
-      }
-    ],
     "imageName": "hexan-sigil-61a175adf8.png",
     "masterable": false,
     "name": "Hexan Sigil",
@@ -1838,14 +1486,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Holdfasts.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Holdfasts (Cavalero), Angel",
-        "rarity": "Common",
-        "type": "Holdfasts Angel Sigil"
-      }
-    ],
     "imageName": "holdfasts-angel-sigil-7344b4f3d5.png",
     "masterable": false,
     "name": "Holdfasts Angel Sigil",
@@ -1856,14 +1496,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Holdfasts.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Holdfasts (Cavalero), Fallen",
-        "rarity": "Common",
-        "type": "Holdfasts Fallen Sigil"
-      }
-    ],
     "imageName": "holdfasts-fallen-sigil-08b9f77904.png",
     "masterable": false,
     "name": "Holdfasts Fallen Sigil",
@@ -1874,14 +1506,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Holdfasts.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Holdfasts (Cavalero), Guardian",
-        "rarity": "Common",
-        "type": "Holdfasts Guardian Sigil"
-      }
-    ],
     "imageName": "holdfasts-guardian-sigil-15cca6a2e8.png",
     "masterable": false,
     "name": "Holdfasts Guardian Sigil",
@@ -1892,14 +1516,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Holdfasts.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Holdfasts (Cavalero), Seraph",
-        "rarity": "Common",
-        "type": "Holdfasts Seraph Sigil"
-      }
-    ],
     "imageName": "holdfasts-seraph-sigil-fd43d8e4a2.png",
     "masterable": false,
     "name": "Holdfasts Seraph Sigil",
@@ -1910,14 +1526,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Holdfasts.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Holdfasts (Cavalero), Watcher",
-        "rarity": "Common",
-        "type": "Holdfasts Watcher Sigil"
-      }
-    ],
     "imageName": "holdfasts-watcher-sigil-4121e37ae0.png",
     "masterable": false,
     "name": "Holdfasts Watcher Sigil",
@@ -1958,14 +1566,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the New Loka.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "New Loka, Flawless",
-        "rarity": "Common",
-        "type": "Humanity Sigil"
-      }
-    ],
     "imageName": "humanity-sigil-026916fe5c.png",
     "masterable": false,
     "name": "Humanity Sigil",
@@ -2070,14 +1670,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Conclave.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Typhoon",
-        "rarity": "Common",
-        "type": "Insight Sigil"
-      }
-    ],
     "imageName": "insight-sigil-a9c0e02d9e.png",
     "masterable": false,
     "name": "Insight Sigil",
@@ -2181,14 +1773,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Suda, Wise",
-        "rarity": "Common",
-        "type": "Labyrinth Sigil"
-      }
-    ],
     "imageName": "labyrinth-sigil-3147a9d39b.png",
     "masterable": false,
     "name": "Labyrinth Sigil",
@@ -2319,14 +1903,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Red Veil.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Red Veil, Honored",
-        "rarity": "Common",
-        "type": "Lesion Sigil"
-      }
-    ],
     "imageName": "lesion-sigil-b800b39351.png",
     "masterable": false,
     "name": "Lesion Sigil",
@@ -2456,14 +2032,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Red Veil.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Red Veil, Honored",
-        "rarity": "Common",
-        "type": "Maelstrom Sigil"
-      }
-    ],
     "imageName": "maelstrom-sigil-ae98c9d22a.png",
     "masterable": false,
     "name": "Maelstrom Sigil",
@@ -2474,14 +2042,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Red Veil.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Red Veil, Revered",
-        "rarity": "Common",
-        "type": "Malevolent Sigil"
-      }
-    ],
     "imageName": "malevolent-sigil-47008ada7b.png",
     "masterable": false,
     "name": "Malevolent Sigil",
@@ -2492,14 +2052,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Suda, Intriguing",
-        "rarity": "Common",
-        "type": "Manifold Sigil"
-      }
-    ],
     "imageName": "manifold-sigil-f4ddf603dd.png",
     "masterable": false,
     "name": "Manifold Sigil",
@@ -2647,14 +2199,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Suda, Intelligent",
-        "rarity": "Common",
-        "type": "Multivariate Sigil"
-      }
-    ],
     "imageName": "multivariate-sigil-facaef7ed8.png",
     "masterable": false,
     "name": "Multivariate Sigil",
@@ -2686,14 +2230,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Necraloid.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "NecraLoid (Loid), Clearance Agnesis",
-        "rarity": "Common",
-        "type": "Necraloid Agnesis Sigil"
-      }
-    ],
     "imageName": "necraloid-agnesis-sigil-b8fac6ee7a.png",
     "masterable": false,
     "name": "Necraloid Agnesis Sigil",
@@ -2704,14 +2240,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Necraloid.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "NecraLoid (Loid), Clearance Modus",
-        "rarity": "Common",
-        "type": "Necraloid Modus Sigil"
-      }
-    ],
     "imageName": "necraloid-modus-sigil-9c12d5912a.png",
     "masterable": false,
     "name": "Necraloid Modus Sigil",
@@ -2722,14 +2250,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Necraloid.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "NecraLoid (Loid), Clearance Odima",
-        "rarity": "Common",
-        "type": "Necraloid Odima Sigil"
-      }
-    ],
     "imageName": "necraloid-odima-sigil-653d91050f.png",
     "masterable": false,
     "name": "Necraloid Odima Sigil",
@@ -2778,14 +2298,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the New Loka.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "New Loka, Humane",
-        "rarity": "Common",
-        "type": "New Loka Sigil"
-      }
-    ],
     "imageName": "new-loka-sigil-a2fcfdc035.png",
     "masterable": false,
     "name": "New Loka Sigil",
@@ -2880,14 +2392,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Perrin Sequence, Associate",
-        "rarity": "Common",
-        "type": "Opportunity Sigil"
-      }
-    ],
     "imageName": "opportunity-sigil-1ac49b209b.png",
     "masterable": false,
     "name": "Opportunity Sigil",
@@ -2898,14 +2402,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Perrin Sequence, Senior Executive",
-        "rarity": "Common",
-        "type": "Optimum Sigil"
-      }
-    ],
     "imageName": "optimum-sigil-e3eb428f55.png",
     "masterable": false,
     "name": "Optimum Sigil",
@@ -2916,14 +2412,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Suda, Genius",
-        "rarity": "Common",
-        "type": "Oracle Sigil"
-      }
-    ],
     "imageName": "oracle-sigil-0a4f85d017.png",
     "masterable": false,
     "name": "Oracle Sigil",
@@ -2954,14 +2442,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Ostron.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Old Man Suumbaat), Kin",
-        "rarity": "Common",
-        "type": "Ostron Kin Sigil"
-      }
-    ],
     "imageName": "ostron-kin-sigil-59bcca8e33.png",
     "masterable": false,
     "name": "Ostron Kin Sigil",
@@ -2972,14 +2452,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Ostron.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Old Man Suumbaat), Offworlder",
-        "rarity": "Common",
-        "type": "Ostron Offworlder Sigil"
-      }
-    ],
     "imageName": "ostron-offworlder-sigil-37dcab98de.png",
     "masterable": false,
     "name": "Ostron Offworlder Sigil",
@@ -2990,14 +2462,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Ostron.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Old Man Suumbaat), Surah",
-        "rarity": "Common",
-        "type": "Ostron Surah Sigil"
-      }
-    ],
     "imageName": "ostron-surah-sigil-939a793434.png",
     "masterable": false,
     "name": "Ostron Surah Sigil",
@@ -3008,14 +2472,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Ostron.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Old Man Suumbaat), Trusted",
-        "rarity": "Common",
-        "type": "Ostron Trusted Sigil"
-      }
-    ],
     "imageName": "ostron-trusted-sigil-4ca8349cae.png",
     "masterable": false,
     "name": "Ostron Trusted Sigil",
@@ -3026,14 +2482,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Ostron.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Old Man Suumbaat), Visitor",
-        "rarity": "Common",
-        "type": "Ostron Visitor Sigil"
-      }
-    ],
     "imageName": "ostron-visitor-sigil-045e95add4.png",
     "masterable": false,
     "name": "Ostron Visitor Sigil",
@@ -3054,14 +2502,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Suda, Competent",
-        "rarity": "Common",
-        "type": "Pattern Match Sigil"
-      }
-    ],
     "imageName": "pattern-match-sigil-50fcfe7960.png",
     "masterable": false,
     "name": "Pattern Match Sigil",
@@ -3072,14 +2512,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Conclave.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Mistral",
-        "rarity": "Common",
-        "type": "Perception Sigil"
-      }
-    ],
     "imageName": "perception-sigil-54e925158a.png",
     "masterable": false,
     "name": "Perception Sigil",
@@ -3090,14 +2522,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Perrin Sequence, Associate",
-        "rarity": "Common",
-        "type": "Perrin Sequence Sigil"
-      }
-    ],
     "imageName": "perrin-sequence-sigil-d6dddb6ab2.png",
     "masterable": false,
     "name": "Perrin Sequence Sigil",
@@ -3177,14 +2601,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Arbiters of Hexis, Lawful",
-        "rarity": "Common",
-        "type": "Potential Sigil"
-      }
-    ],
     "imageName": "potential-sigil-649247d055.png",
     "masterable": false,
     "name": "Potential Sigil",
@@ -3277,14 +2693,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Perrin Sequence, Associate",
-        "rarity": "Common",
-        "type": "Progress Sigil"
-      }
-    ],
     "imageName": "progress-sigil-ab70a89515.png",
     "masterable": false,
     "name": "Progress Sigil",
@@ -3305,14 +2713,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Steel Meridian.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Steel Meridian, Valiant",
-        "rarity": "Common",
-        "type": "Protectorate Sigil"
-      }
-    ],
     "imageName": "protectorate-sigil-d370ab81b9.png",
     "masterable": false,
     "name": "Protectorate Sigil",
@@ -3323,14 +2723,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Conclave.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Whirlwind",
-        "rarity": "Common",
-        "type": "Prudence Sigil"
-      }
-    ],
     "imageName": "prudence-sigil-a3b20c1f30.png",
     "masterable": false,
     "name": "Prudence Sigil",
@@ -3341,14 +2733,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the New Loka.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "New Loka, Benevolent",
-        "rarity": "Common",
-        "type": "Purity Sigil"
-      }
-    ],
     "imageName": "purity-sigil-57cfeeac65.png",
     "masterable": false,
     "name": "Purity Sigil",
@@ -3359,14 +2743,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Suda, Competent",
-        "rarity": "Common",
-        "type": "Query Sigil"
-      }
-    ],
     "imageName": "query-sigil-bad030afd0.png",
     "masterable": false,
     "name": "Query Sigil",
@@ -3387,14 +2763,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Quills.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Quills, Adherent",
-        "rarity": "Common",
-        "type": "Quills Adherent Sigil"
-      }
-    ],
     "imageName": "quills-adherent-sigil-58f32a5c00.png",
     "masterable": false,
     "name": "Quills Adherent Sigil",
@@ -3405,14 +2773,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Quills.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Quills, Architect",
-        "rarity": "Common",
-        "type": "Quills Architect Sigil"
-      }
-    ],
     "imageName": "quills-architect-sigil-6e6c9c1d81.png",
     "masterable": false,
     "name": "Quills Architect Sigil",
@@ -3423,14 +2783,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Quills.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Quills, Instrument",
-        "rarity": "Common",
-        "type": "Quills Instrument Sigil"
-      }
-    ],
     "imageName": "quills-instrument-sigil-7a40c19ac8.png",
     "masterable": false,
     "name": "Quills Instrument Sigil",
@@ -3441,14 +2793,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Quills.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Quills, Mote",
-        "rarity": "Common",
-        "type": "Quills Mote Sigil"
-      }
-    ],
     "imageName": "quills-mote-sigil-6f4237d319.png",
     "masterable": false,
     "name": "Quills Mote Sigil",
@@ -3459,14 +2803,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Quills.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Quills, Observer",
-        "rarity": "Common",
-        "type": "Quills Observer Sigil"
-      }
-    ],
     "imageName": "quills-observer-sigil-a51c02c270.png",
     "masterable": false,
     "name": "Quills Observer Sigil",
@@ -3533,14 +2869,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Steel Meridian.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Steel Meridian, Protector",
-        "rarity": "Common",
-        "type": "Rebellion Sigil"
-      }
-    ],
     "imageName": "rebellion-sigil-fcca64f283.png",
     "masterable": false,
     "name": "Rebellion Sigil",
@@ -3551,14 +2879,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the New Loka.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "New Loka, Humane",
-        "rarity": "Common",
-        "type": "Rebirth Sigil"
-      }
-    ],
     "imageName": "rebirth-sigil-7798225c6e.png",
     "masterable": false,
     "name": "Rebirth Sigil",
@@ -3569,14 +2889,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Red Veil.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Red Veil, Respected",
-        "rarity": "Common",
-        "type": "Red Veil Sigil"
-      }
-    ],
     "imageName": "red-veil-sigil-eb589df6a6.png",
     "masterable": false,
     "name": "Red Veil Sigil",
@@ -3587,14 +2899,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Conclave.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Mistral",
-        "rarity": "Common",
-        "type": "Revelation Sigil"
-      }
-    ],
     "imageName": "revelation-sigil-a38cee4fa3.png",
     "masterable": false,
     "name": "Revelation Sigil",
@@ -3665,14 +2969,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Red Veil.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Red Veil, Esteemed",
-        "rarity": "Common",
-        "type": "Ruin Sigil"
-      }
-    ],
     "imageName": "ruin-sigil-84ed2599f0.png",
     "masterable": false,
     "name": "Ruin Sigil",
@@ -3683,14 +2979,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the New Loka.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "New Loka, Humane",
-        "rarity": "Common",
-        "type": "Sacrifice Sigil"
-      }
-    ],
     "imageName": "sacrifice-sigil-a11b0f4bb6.png",
     "masterable": false,
     "name": "Sacrifice Sigil",
@@ -3800,14 +3088,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Suda, Competent",
-        "rarity": "Common",
-        "type": "Searching Sigil"
-      }
-    ],
     "imageName": "searching-sigil-10ee1a8b81.png",
     "masterable": false,
     "name": "Searching Sigil",
@@ -3818,14 +3098,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the New Loka.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "New Loka, Humane",
-        "rarity": "Common",
-        "type": "Seed Sigil"
-      }
-    ],
     "imageName": "seed-sigil-a0ac3d6958.png",
     "masterable": false,
     "name": "Seed Sigil",
@@ -3916,14 +3188,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Solaris United.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (Smokefinger), Cove",
-        "rarity": "Common",
-        "type": "Solaris United Cove Sigil"
-      }
-    ],
     "imageName": "solaris-united-cove-sigil-b01134fa6d.png",
     "masterable": false,
     "name": "Solaris United Cove Sigil",
@@ -3934,14 +3198,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Solaris United.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (Smokefinger), Doer",
-        "rarity": "Common",
-        "type": "Solaris United Doer Sigil"
-      }
-    ],
     "imageName": "solaris-united-doer-sigil-3eb90d353e.png",
     "masterable": false,
     "name": "Solaris United Doer Sigil",
@@ -3952,14 +3208,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Solaris United.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (Smokefinger), Old Mate",
-        "rarity": "Common",
-        "type": "Solaris United Old Mate Sigil"
-      }
-    ],
     "imageName": "solaris-united-old-mate-sigil-87839025eb.png",
     "masterable": false,
     "name": "Solaris United Old Mate Sigil",
@@ -3970,14 +3218,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Solaris United.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (Smokefinger), Outworlder",
-        "rarity": "Common",
-        "type": "Solaris United Outworlder Sigil"
-      }
-    ],
     "imageName": "solaris-united-outworlder-sigil-edd1ef3945.png",
     "masterable": false,
     "name": "Solaris United Outworlder Sigil",
@@ -3988,14 +3228,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Solaris United.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (Smokefinger), Rapscallion",
-        "rarity": "Common",
-        "type": "Solaris United Rapscallion Sigil"
-      }
-    ],
     "imageName": "solaris-united-rapscallion-sigil-c64520665f.png",
     "masterable": false,
     "name": "Solaris United Rapscallion Sigil",
@@ -4120,14 +3352,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Steel Meridian.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Steel Meridian, Brave",
-        "rarity": "Common",
-        "type": "Steel Meridian Sigil"
-      }
-    ],
     "imageName": "steel-meridian-sigil-6c04c189bc.png",
     "masterable": false,
     "name": "Steel Meridian Sigil",
@@ -4149,14 +3373,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Perrin Sequence, Executive",
-        "rarity": "Common",
-        "type": "Strategy Sigil"
-      }
-    ],
     "imageName": "strategy-sigil-4da30fa621.png",
     "masterable": false,
     "name": "Strategy Sigil",
@@ -4167,14 +3383,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Arbiters of Hexis, Crusader",
-        "rarity": "Common",
-        "type": "Succession Sigil"
-      }
-    ],
     "imageName": "succession-sigil-eb769cc250.png",
     "masterable": false,
     "name": "Succession Sigil",
@@ -4185,14 +3393,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Arbiters of Hexis, Crusader",
-        "rarity": "Common",
-        "type": "Surpassing Sigil"
-      }
-    ],
     "imageName": "surpassing-sigil-d7e89b5649.png",
     "masterable": false,
     "name": "Surpassing Sigil",
@@ -4203,14 +3403,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Perrin Sequence, Senior Associate",
-        "rarity": "Common",
-        "type": "Synergy Sigil"
-      }
-    ],
     "imageName": "synergy-sigil-9571fe71bc.png",
     "masterable": false,
     "name": "Synergy Sigil",
@@ -4460,14 +3652,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Perrin Sequence, Executive",
-        "rarity": "Common",
-        "type": "Tessellations Sigil"
-      }
-    ],
     "imageName": "tessellations-sigil-b043018c35.png",
     "masterable": false,
     "name": "Tessellations Sigil",
@@ -4498,14 +3682,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Red Veil.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Red Veil, Respected",
-        "rarity": "Common",
-        "type": "Threat Sigil"
-      }
-    ],
     "imageName": "threat-sigil-3cfb97c72d.png",
     "masterable": false,
     "name": "Threat Sigil",
@@ -4536,14 +3712,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Arbiters of Hexis, Maxim",
-        "rarity": "Common",
-        "type": "Truth Sigil"
-      }
-    ],
     "imageName": "truth-sigil-b93aa93d02.png",
     "masterable": false,
     "name": "Truth Sigil",
@@ -4572,14 +3740,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Conclave.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Typhoon",
-        "rarity": "Common",
-        "type": "Unity Sigil"
-      }
-    ],
     "excludeFromCodex": true,
     "imageName": "unity-sigil-2d0e653740.png",
     "masterable": false,
@@ -4591,14 +3751,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Steel Meridian.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Steel Meridian, Protector",
-        "rarity": "Common",
-        "type": "Unyielding Sigil"
-      }
-    ],
     "imageName": "unyielding-sigil-1922a790c2.png",
     "masterable": false,
     "name": "Unyielding Sigil",
@@ -4609,14 +3761,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Steel Meridian.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Steel Meridian, Valiant",
-        "rarity": "Common",
-        "type": "Uprising Sigil"
-      }
-    ],
     "imageName": "uprising-sigil-fefcedf4d6.png",
     "masterable": false,
     "name": "Uprising Sigil",
@@ -4740,14 +3884,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Ventkids.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ventkids, Logical",
-        "rarity": "Common",
-        "type": "Ventkids Logical Sigil"
-      }
-    ],
     "imageName": "ventkids-logical-sigil-9d0b5cf6c9.png",
     "masterable": false,
     "name": "Ventkids Logical Sigil",
@@ -4758,14 +3894,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Ventkids.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ventkids, Primo",
-        "rarity": "Common",
-        "type": "Ventkids Primo Sigil"
-      }
-    ],
     "imageName": "ventkids-primo-sigil-5b7bc333d9.png",
     "masterable": false,
     "name": "Ventkids Primo Sigil",
@@ -4776,14 +3904,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Ventkids.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ventkids, Proper Felon",
-        "rarity": "Common",
-        "type": "Ventkids Proper Felon Sigil"
-      }
-    ],
     "imageName": "ventkids-proper-felon-sigil-71221db856.png",
     "masterable": false,
     "name": "Ventkids Proper Felon Sigil",
@@ -4794,14 +3914,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Ventkids.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ventkids, Whozit",
-        "rarity": "Common",
-        "type": "Ventkids Whozit Sigil"
-      }
-    ],
     "imageName": "ventkids-whozit-sigil-50f3256a5d.png",
     "masterable": false,
     "name": "Ventkids Whozit Sigil",
@@ -4822,14 +3934,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Steel Meridian.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Steel Meridian, Brave",
-        "rarity": "Common",
-        "type": "Vigilance Sigil"
-      }
-    ],
     "imageName": "vigilance-sigil-24a026436b.png",
     "masterable": false,
     "name": "Vigilance Sigil",
@@ -4850,14 +3954,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Red Veil.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Red Veil, Esteemed",
-        "rarity": "Common",
-        "type": "Viscera Sigil"
-      }
-    ],
     "imageName": "viscera-sigil-9c399b1da6.png",
     "masterable": false,
     "name": "Viscera Sigil",
@@ -4878,14 +3974,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Conclave.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Tempest",
-        "rarity": "Common",
-        "type": "Volition Sigil"
-      }
-    ],
     "imageName": "volition-sigil-cefd6378a5.png",
     "masterable": false,
     "name": "Volition Sigil",
@@ -4926,14 +4014,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Vox Solaris.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Vox Solaris, Agent",
-        "rarity": "Common",
-        "type": "Vox Solaris Agent Sigil"
-      }
-    ],
     "imageName": "vox-solaris-agent-sigil-130e8bf714.png",
     "masterable": false,
     "name": "Vox Solaris Agent Sigil",
@@ -4944,14 +4024,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Vox Solaris.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Vox Solaris, Hand",
-        "rarity": "Common",
-        "type": "Vox Solaris Hand Sigil"
-      }
-    ],
     "imageName": "vox-solaris-hand-sigil-18be622f09.png",
     "masterable": false,
     "name": "Vox Solaris Hand Sigil",
@@ -4962,14 +4034,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Vox Solaris.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Vox Solaris, Instrument",
-        "rarity": "Common",
-        "type": "Vox Solaris Instrument Sigil"
-      }
-    ],
     "imageName": "vox-solaris-instrument-sigil-9c2067148e.png",
     "masterable": false,
     "name": "Vox Solaris Instrument Sigil",
@@ -4980,14 +4044,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Vox Solaris.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Vox Solaris, Operative",
-        "rarity": "Common",
-        "type": "Vox Solaris Operative Sigil"
-      }
-    ],
     "imageName": "vox-solaris-operative-sigil-9909523b23.png",
     "masterable": false,
     "name": "Vox Solaris Operative Sigil",
@@ -4998,14 +4054,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Vox Solaris.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Vox Solaris, Shadow",
-        "rarity": "Common",
-        "type": "Vox Solaris Shadow Sigil"
-      }
-    ],
     "imageName": "vox-solaris-shadow-sigil-534e325778.png",
     "masterable": false,
     "name": "Vox Solaris Shadow Sigil",
@@ -5016,20 +4064,6 @@
   {
     "category": "Sigils",
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Arbiters of Hexis, Authentic",
-        "rarity": "Common",
-        "type": "Will Sigil"
-      },
-      {
-        "chance": 1,
-        "location": "Arbiters of Hexis, Principled",
-        "rarity": "Common",
-        "type": "Bending Will Sigil"
-      }
-    ],
     "imageName": "will-sigil-cedf4e4439.png",
     "masterable": false,
     "name": "Will Sigil",

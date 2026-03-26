@@ -590,14 +590,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby Avichaea with life-like animal calls.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Acquaintance",
-        "rarity": "Common",
-        "type": "Avichaea Echo-Lure"
-      }
-    ],
     "imageName": "avichaea-echo-lure-cfba141dcc.png",
     "masterable": false,
     "name": "Avichaea Echo-Lure",
@@ -608,14 +600,6 @@
   {
     "category": "Gear",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Avichaea.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Acquaintance",
-        "rarity": "Common",
-        "type": "Avichaea Pheromone Gland"
-      }
-    ],
     "imageName": "avichaea-pheromone-gland-7eed8af08d.png",
     "masterable": false,
     "name": "Avichaea Pheromone Gland",
@@ -731,14 +715,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby Bolarola with life-like animal calls. The Bolarola is most often found around the Mountainous areas of Orb Vallis.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Bolarola Echo-Lure"
-      }
-    ],
     "imageName": "bolarola-echo-lure-3b734218ec.png",
     "masterable": false,
     "name": "Bolarola Echo-Lure",
@@ -749,14 +725,6 @@
   {
     "category": "Gear",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Bolarola.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Bolarola Pheromone Synthesizer"
-      }
-    ],
     "imageName": "bolarola-pheromone-synthesizer-3c3ac6e927.png",
     "masterable": false,
     "name": "Bolarola Pheromone Synthesizer",
@@ -767,14 +735,6 @@
   {
     "category": "Gear",
     "description": "A simple cocktail of short-chain polymers and contaminants. Easily detected by rudimentary Servofish in the Orb Vallis under all conditions, but ignored by more specialized models. Good for Sapcaddies (found in the lake), and Tinks and Brickies (found in ponds).\n\nObtained from The Business in Fortuna (Venus).",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Neutral",
-        "rarity": "Common",
-        "type": "Broad-Spectrum Bait"
-      }
-    ],
     "imageName": "broad-spectrum-bait-f581a7dabf.png",
     "masterable": false,
     "name": "Broad-Spectrum Bait",
@@ -884,14 +844,6 @@
   {
     "category": "Gear",
     "description": "This bait is synthesized from complex hexophenol that is known to attract Charamotes, a Servofish found in Orb Vallis cave hotspots.\n\nObtained from The Business in Fortuna (Venus).",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Charamote Bait"
-      }
-    ],
     "imageName": "charamote-bait-11aa8f0e30.png",
     "masterable": false,
     "name": "Charamote Bait",
@@ -1560,14 +1512,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby Condroc with life-like animal calls. Condroc inhabit the Plains of Eidolon.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Master Teasonai), Offworlder",
-        "rarity": "Common",
-        "type": "Condroc Echo-Lure"
-      }
-    ],
     "imageName": "condroc-echo-lure-74707a47ca.png",
     "masterable": false,
     "name": "Condroc Echo-Lure",
@@ -1578,14 +1522,6 @@
   {
     "category": "Gear",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Condroc.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Master Teasonai), Offworlder",
-        "rarity": "Common",
-        "type": "Condroc Pheromone Oota"
-      }
-    ],
     "imageName": "condroc-pheromone-oota-eb9dd8c007.png",
     "masterable": false,
     "name": "Condroc Pheromone Oota",
@@ -1900,14 +1836,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby Cryptilex with life-like animal calls.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Neutral",
-        "rarity": "Common",
-        "type": "Cryptilex Echo-Lure"
-      }
-    ],
     "imageName": "cryptilex-echo-lure-9f155e745b.png",
     "masterable": false,
     "name": "Cryptilex Echo-Lure",
@@ -1918,14 +1846,6 @@
   {
     "category": "Gear",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Cryptilex.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Neutral",
-        "rarity": "Common",
-        "type": "Cryptilex Pheromone Gland"
-      }
-    ],
     "imageName": "cryptilex-pheromone-gland-25dcc4df47.png",
     "masterable": false,
     "name": "Cryptilex Pheromone Gland",
@@ -2107,14 +2027,6 @@
   {
     "category": "Gear",
     "description": "Plumb the depths with this crafty fishing spear that's barely detectable to Infested and hybrid/Orokin fish. Due to its Infested aspect, it's one of the only known things that can pass through exocrine. \n\nObtained from Daughter in the Necralisk. This spear is most effective on fish found in the Cambion Drift (Deimos).",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Associate",
-        "rarity": "Common",
-        "type": "Ebisu Spear"
-      }
-    ],
     "imageName": "ebisu-spear-22e4c9d648.png",
     "masterable": false,
     "name": "Ebisu Spear",
@@ -2125,104 +2037,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby wildlife with life-like animal calls.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Acquaintance",
-        "rarity": "Common",
-        "type": "Avichaea Echo-Lure"
-      },
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Associate",
-        "rarity": "Common",
-        "type": "Undazoa Echo-Lure"
-      },
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Neutral",
-        "rarity": "Common",
-        "type": "Cryptilex Echo-Lure"
-      },
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Stranger",
-        "rarity": "Common",
-        "type": "Vulpaphyla Echo-Lure"
-      },
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Stranger",
-        "rarity": "Common",
-        "type": "Predasite Echo-Lure"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Master Teasonai), Neutral",
-        "rarity": "Common",
-        "type": "Kuaka Echo-Lure"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Master Teasonai), Offworlder",
-        "rarity": "Common",
-        "type": "Condroc Echo-Lure"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Master Teasonai), Trusted",
-        "rarity": "Common",
-        "type": "Vasca Kavat Echo-Lure"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Master Teasonai), Visitor",
-        "rarity": "Common",
-        "type": "Mergoo Echo-Lure"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Horrasque Echo-Lure"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Stover Echo-Lure"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Bolarola Echo-Lure"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Neutral",
-        "rarity": "Common",
-        "type": "Pobbers Echo-Lure"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Old Mate",
-        "rarity": "Common",
-        "type": "Kubrodon Echo-Lure"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Virmink Echo-Lure"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Sawgaw Echo-Lure"
-      }
-    ],
     "imageName": "echo-lure-7774387e3d.png",
     "masterable": false,
     "name": "Echo-Lure",
@@ -2468,12 +2282,6 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation A",
         "rarity": "Rare",
         "type": "5X Fass Residue"
-      },
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Associate",
-        "rarity": "Common",
-        "type": "Processed Fass Residue"
       }
     ],
     "imageName": "fass-residue-b9d66017f7.png",
@@ -2923,14 +2731,6 @@
   {
     "category": "Gear",
     "description": "Launch a bright red flare that significantly increases Affinity Range while active.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Operational Supply, Neutral",
-        "rarity": "Common",
-        "type": "Fosfor Rahd (x20) Blueprint"
-      }
-    ],
     "imageName": "fosfor-rahd-e06d7badab.png",
     "masterable": false,
     "name": "Fosfor Rahd",
@@ -2951,7 +2751,8 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishAPartItem",
@@ -2960,56 +2761,7 @@
         "itemCount": 5,
         "imageName": "charc-electroplax-8f1992da29.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 0.0316,
-            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
-            "rarity": "Rare",
-            "type": "10X Charc Electroplax"
-          },
-          {
-            "chance": 0.0316,
-            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
-            "rarity": "Rare",
-            "type": "10X Charc Electroplax"
-          },
-          {
-            "chance": 0.1668,
-            "location": "Narmer Thumper",
-            "rarity": "Rare",
-            "type": "Charc Electroplax"
-          },
-          {
-            "chance": 0.1668,
-            "location": "Tusk Thumper",
-            "rarity": "Rare",
-            "type": "Charc Electroplax"
-          },
-          {
-            "chance": 0.2502,
-            "location": "Narmer Thumper Bull",
-            "rarity": "Rare",
-            "type": "Charc Electroplax"
-          },
-          {
-            "chance": 0.2502,
-            "location": "Tusk Thumper Bull",
-            "rarity": "Rare",
-            "type": "Charc Electroplax"
-          },
-          {
-            "chance": 0.3336,
-            "location": "Narmer Thumper Doma",
-            "rarity": "Rare",
-            "type": "Charc Electroplax"
-          },
-          {
-            "chance": 0.3336,
-            "location": "Tusk Thumper Doma",
-            "rarity": "Rare",
-            "type": "Charc Electroplax"
-          }
-        ],
+        "drops": [],
         "masterable": false
       },
       {
@@ -3019,86 +2771,7 @@
         "itemCount": 5,
         "imageName": "iradite-78612a184b.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 0.0316,
-            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
-            "rarity": "Rare",
-            "type": "10X Iradite"
-          },
-          {
-            "chance": 0.0316,
-            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
-            "rarity": "Rare",
-            "type": "10X Iradite"
-          },
-          {
-            "chance": 0.1518,
-            "location": "Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation A",
-            "rarity": "Uncommon",
-            "type": "15X Iradite"
-          },
-          {
-            "chance": 0.1549,
-            "location": "Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation A",
-            "rarity": "Uncommon",
-            "type": "15X Iradite"
-          },
-          {
-            "chance": 0.1668,
-            "location": "Narmer Thumper",
-            "rarity": "Rare",
-            "type": "Iradite"
-          },
-          {
-            "chance": 0.1668,
-            "location": "Tusk Thumper",
-            "rarity": "Rare",
-            "type": "Iradite"
-          },
-          {
-            "chance": 0.2,
-            "location": "Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation A",
-            "rarity": "Uncommon",
-            "type": "15X Iradite"
-          },
-          {
-            "chance": 0.2502,
-            "location": "Narmer Thumper Bull",
-            "rarity": "Rare",
-            "type": "Iradite"
-          },
-          {
-            "chance": 0.2502,
-            "location": "Tusk Thumper Bull",
-            "rarity": "Rare",
-            "type": "Iradite"
-          },
-          {
-            "chance": 0.3336,
-            "location": "Narmer Thumper Doma",
-            "rarity": "Rare",
-            "type": "Iradite"
-          },
-          {
-            "chance": 0.3336,
-            "location": "Tusk Thumper Doma",
-            "rarity": "Rare",
-            "type": "Iradite"
-          },
-          {
-            "chance": 1,
-            "location": "Iradite Formation",
-            "rarity": "Common",
-            "type": "Iradite"
-          },
-          {
-            "chance": 1,
-            "location": "Ostron (Old Man Suumbaat), Surah",
-            "rarity": "Common",
-            "type": "Iradite Nugget"
-          }
-        ],
+        "drops": [],
         "masterable": false
       },
       {
@@ -3108,80 +2781,7 @@
         "itemCount": 5,
         "imageName": "maprico-35a9f7f622.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 0.0316,
-            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
-            "rarity": "Rare",
-            "type": "10X Maprico"
-          },
-          {
-            "chance": 0.0316,
-            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
-            "rarity": "Rare",
-            "type": "10X Maprico"
-          },
-          {
-            "chance": 0.1668,
-            "location": "Narmer Thumper",
-            "rarity": "Rare",
-            "type": "Maprico"
-          },
-          {
-            "chance": 0.1668,
-            "location": "Tusk Thumper",
-            "rarity": "Rare",
-            "type": "Maprico"
-          },
-          {
-            "chance": 0.25,
-            "location": "Narmer Thumper Bull",
-            "rarity": "Uncommon",
-            "type": "Maprico"
-          },
-          {
-            "chance": 0.25,
-            "location": "Tusk Thumper Bull",
-            "rarity": "Uncommon",
-            "type": "Maprico"
-          },
-          {
-            "chance": 0.2502,
-            "location": "Narmer Thumper Bull",
-            "rarity": "Rare",
-            "type": "Maprico"
-          },
-          {
-            "chance": 0.2502,
-            "location": "Tusk Thumper Bull",
-            "rarity": "Rare",
-            "type": "Maprico"
-          },
-          {
-            "chance": 0.3336,
-            "location": "Narmer Thumper Doma",
-            "rarity": "Rare",
-            "type": "Maprico"
-          },
-          {
-            "chance": 0.3336,
-            "location": "Tusk Thumper Doma",
-            "rarity": "Rare",
-            "type": "Maprico"
-          },
-          {
-            "chance": 0.5,
-            "location": "Narmer Thumper Doma",
-            "rarity": "Uncommon",
-            "type": "Maprico"
-          },
-          {
-            "chance": 0.5,
-            "location": "Tusk Thumper Doma",
-            "rarity": "Uncommon",
-            "type": "Maprico"
-          }
-        ],
+        "drops": [],
         "masterable": false
       },
       {
@@ -3191,44 +2791,7 @@
         "itemCount": 5,
         "imageName": "sharrac-teeth-00c5c5e9ae.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 0.1668,
-            "location": "Narmer Thumper",
-            "rarity": "Rare",
-            "type": "Sharrac Teeth"
-          },
-          {
-            "chance": 0.1668,
-            "location": "Tusk Thumper",
-            "rarity": "Rare",
-            "type": "Sharrac Teeth"
-          },
-          {
-            "chance": 0.2502,
-            "location": "Narmer Thumper Bull",
-            "rarity": "Rare",
-            "type": "Sharrac Teeth"
-          },
-          {
-            "chance": 0.2502,
-            "location": "Tusk Thumper Bull",
-            "rarity": "Rare",
-            "type": "Sharrac Teeth"
-          },
-          {
-            "chance": 0.3336,
-            "location": "Narmer Thumper Doma",
-            "rarity": "Rare",
-            "type": "Sharrac Teeth"
-          },
-          {
-            "chance": 0.3336,
-            "location": "Tusk Thumper Doma",
-            "rarity": "Rare",
-            "type": "Sharrac Teeth"
-          }
-        ],
+        "drops": [],
         "masterable": false
       }
     ],
@@ -3551,14 +3114,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby Horrasque with life-like animal calls.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Horrasque Echo-Lure"
-      }
-    ],
     "imageName": "horrasque-echo-lure-34ef5f162f.png",
     "masterable": false,
     "name": "Horrasque Echo-Lure",
@@ -3569,14 +3124,6 @@
   {
     "category": "Gear",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Horrasque.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Horrasque Pheromone Synthesizer"
-      }
-    ],
     "imageName": "horrasque-pheromone-synthesizer-4641f36433.png",
     "masterable": false,
     "name": "Horrasque Pheromone Synthesizer",
@@ -3704,14 +3251,6 @@
   {
     "category": "Gear",
     "description": "Specialized trap for attracting and slowing the movement of synthesis targets.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Simaris, Kinetic Siphon Trap x 10",
-        "rarity": "Common",
-        "type": "Kinetic Siphon Trap x 10"
-      }
-    ],
     "imageName": "kinetic-siphon-trap-bc31be8126.png",
     "masterable": false,
     "name": "Kinetic Siphon Trap",
@@ -3764,14 +3303,6 @@
   {
     "category": "Gear",
     "description": "This bait is synthesized from Methacalcene-1 that is known to attract Krillers, a Servofish found in Orb Vallis lakes during warm weather.\n\nObtained via The Business in Fortuna (Venus).",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Kriller Bait"
-      }
-    ],
     "imageName": "kriller-bait-5415099946.png",
     "masterable": false,
     "name": "Kriller Bait",
@@ -3782,14 +3313,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby Kuaka with life-like animal calls. Kuaka inhabit the Plains of Eidolon.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Master Teasonai), Neutral",
-        "rarity": "Common",
-        "type": "Kuaka Echo-Lure"
-      }
-    ],
     "imageName": "kuaka-echo-lure-2be84edc15.png",
     "masterable": false,
     "name": "Kuaka Echo-Lure",
@@ -3800,14 +3323,6 @@
   {
     "category": "Gear",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Kuaka.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Master Teasonai), Neutral",
-        "rarity": "Common",
-        "type": "Kuaka Pheromone Oota"
-      }
-    ],
     "imageName": "kuaka-pheromone-oota-4138584536.png",
     "masterable": false,
     "name": "Kuaka Pheromone Oota",
@@ -3818,14 +3333,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby Kubrodon with life-like animal calls. The Kubrodon is most often found around the Craters in Orb Vallis.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Old Mate",
-        "rarity": "Common",
-        "type": "Kubrodon Echo-Lure"
-      }
-    ],
     "imageName": "kubrodon-echo-lure-1f4dfc1362.png",
     "masterable": false,
     "name": "Kubrodon Echo-Lure",
@@ -3836,14 +3343,6 @@
   {
     "category": "Gear",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Kubrodon.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Old Mate",
-        "rarity": "Common",
-        "type": "Kubrodon Pheromone Synthesizer"
-      }
-    ],
     "imageName": "kubrodon-pheromone-synthesizer-621fc07c34.png",
     "masterable": false,
     "name": "Kubrodon Pheromone Synthesizer",
@@ -4080,14 +3579,6 @@
   {
     "category": "Gear",
     "description": "This bait is synthesized from beryzene that is known to attract Longwinders, a Servofish found in Orb Vallis lake hotspots during warm weather.\n\nObtained via The Business in Fortuna (Venus).",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Longwinder Bait"
-      }
-    ],
     "imageName": "longwinder-bait-7fbf77bcde.png",
     "masterable": false,
     "name": "Longwinder Bait",
@@ -4191,14 +3682,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby Mergoo with life-like animal calls. Mergoo inhabit the Plains of Eidolon.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Master Teasonai), Visitor",
-        "rarity": "Common",
-        "type": "Mergoo Echo-Lure"
-      }
-    ],
     "imageName": "mergoo-echo-lure-33076db215.png",
     "masterable": false,
     "name": "Mergoo Echo-Lure",
@@ -4209,14 +3692,6 @@
   {
     "category": "Gear",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Mergoo.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Master Teasonai), Visitor",
-        "rarity": "Common",
-        "type": "Mergoo Pheromone Oota"
-      }
-    ],
     "imageName": "mergoo-pheromone-oota-36ec8fc096.png",
     "masterable": false,
     "name": "Mergoo Pheromone Oota",
@@ -4227,14 +3702,6 @@
   {
     "category": "Gear",
     "description": "This bait is composed of aromatic tetraxin that is known to attract Mirewinders, a Servofish found in Orb Vallis cave hotspots.\n\nObtained via The Business in Fortuna (Venus).",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Mirewinder Bait"
-      }
-    ],
     "imageName": "mirewinder-bait-2d5997f5ee.png",
     "masterable": false,
     "name": "Mirewinder Bait",
@@ -4391,14 +3858,6 @@
   {
     "category": "Gear",
     "description": "This endochlor/dionium melange attracts both Recasters and Eye-Eyes, Servofish found in Orb Vallis ponds. The Eye-Eye shows up during warm weather and Recasters shows up at Hot Spots during cool weather.\n\nObtained from The Business in Fortuna (Venus).",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Narrow-Spectrum Bait"
-      }
-    ],
     "imageName": "narrow-spectrum-bait-073dba06b7.png",
     "masterable": false,
     "name": "Narrow-Spectrum Bait",
@@ -5908,7 +5367,7 @@
         "masterable": false,
         "drops": [
           {
-            "chance": 0.0125,
+            "chance": 0.025,
             "location": "Demolisher Juggernaut",
             "rarity": "Common",
             "type": "Pherliac Pods Blueprint"
@@ -6057,14 +5516,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby Pobbers with life-like animal calls. The Pobbers is most often found around the Mushroom Fields of Orb Vallis.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Neutral",
-        "rarity": "Common",
-        "type": "Pobbers Echo-Lure"
-      }
-    ],
     "imageName": "pobbers-echo-lure-143ceab621.png",
     "masterable": false,
     "name": "Pobbers Echo-Lure",
@@ -6075,14 +5526,6 @@
   {
     "category": "Gear",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Pobbers.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Neutral",
-        "rarity": "Common",
-        "type": "Pobbers Pheromone Synthesizer"
-      }
-    ],
     "imageName": "pobbers-pheromone-synthesizer-3ead719ace.png",
     "masterable": false,
     "name": "Pobbers Pheromone Synthesizer",
@@ -6141,14 +5584,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby Predasite with life-like animal calls.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Stranger",
-        "rarity": "Common",
-        "type": "Predasite Echo-Lure"
-      }
-    ],
     "imageName": "predasite-echo-lure-298e2510d0.png",
     "masterable": false,
     "name": "Predasite Echo-Lure",
@@ -6159,14 +5594,6 @@
   {
     "category": "Gear",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Predasite.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Stranger",
-        "rarity": "Common",
-        "type": "Predasite Pheromone Gland"
-      }
-    ],
     "imageName": "predasite-pheromone-gland-e3f6fad121.png",
     "masterable": false,
     "name": "Predasite Pheromone Gland",
@@ -6645,14 +6072,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby Sawgaw with life-like animal calls.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Sawgaw Echo-Lure"
-      }
-    ],
     "imageName": "sawgaw-echo-lure-6985ef801d.png",
     "masterable": false,
     "name": "Sawgaw Echo-Lure",
@@ -6663,14 +6082,6 @@
   {
     "category": "Gear",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Sawgaw.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Sawgaw Pheromone Synthesizer"
-      }
-    ],
     "imageName": "sawgaw-pheromone-synthesizer-6953d23dbb.png",
     "masterable": false,
     "name": "Sawgaw Pheromone Synthesizer",
@@ -7191,14 +6602,6 @@
   {
     "category": "Gear",
     "description": "Plumb the depths with this crafty fishing spear that's barely detectable to Infested and hybrid/Orokin fish. Due to its Infested aspect, it's one of the only known things that can pass through exocrine. \n\nObtained from Daughter in the Necralisk. This spear is most effective on fish found in the Cambion Drift (Deimos).",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Neutral",
-        "rarity": "Common",
-        "type": "Spari Spear"
-      }
-    ],
     "imageName": "spari-spear-5e91b362b1.png",
     "masterable": false,
     "name": "Spari Spear",
@@ -7238,14 +6641,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Red Veil, Esteemed",
-            "rarity": "Common",
-            "type": "Squad Ammo Restore (Large) Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
@@ -7401,20 +6797,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Arbiters of Hexis, Lawful",
-            "rarity": "Common",
-            "type": "Squad Energy Restore (Large) Blueprint"
-          },
-          {
-            "chance": 1,
-            "location": "The Perrin Sequence, Executive",
-            "rarity": "Common",
-            "type": "Squad Energy Restore (Large) Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
@@ -7560,14 +6943,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "New Loka, Benevolent",
-            "rarity": "Common",
-            "type": "Squad Health Restore (Large) Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
@@ -7673,7 +7049,8 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
@@ -7682,116 +7059,7 @@
         "itemCount": 108000,
         "imageName": "nano-spores-8933019524.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 0.1265,
-            "location": "Neptune/Cephalon Capture (Conclave), Rotation B",
-            "rarity": "Uncommon",
-            "type": "500X Nano Spores"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Saturn/Annihilation (Conclave), Rotation B",
-            "rarity": "Uncommon",
-            "type": "500X Nano Spores"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
-            "rarity": "Uncommon",
-            "type": "500X Nano Spores"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Saturn/Lunaro (Conclave), Rotation B",
-            "rarity": "Uncommon",
-            "type": "500X Nano Spores"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
-            "rarity": "Uncommon",
-            "type": "500X Nano Spores"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
-            "rarity": "Uncommon",
-            "type": "500X Nano Spores"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
-            "rarity": "Uncommon",
-            "type": "500X Nano Spores"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
-            "rarity": "Uncommon",
-            "type": "500X Nano Spores"
-          },
-          {
-            "chance": 0.1324,
-            "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C",
-            "rarity": "Uncommon",
-            "type": "200X Nano Spores"
-          },
-          {
-            "chance": 0.1429,
-            "location": "Deimos/Formido (Caches), Rotation A",
-            "rarity": "Uncommon",
-            "type": "1000X Nano Spores"
-          },
-          {
-            "chance": 0.15,
-            "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C",
-            "rarity": "Uncommon",
-            "type": "200X Nano Spores"
-          },
-          {
-            "chance": 0.1518,
-            "location": "Hallowed Flame Mission Caches, Rotation A",
-            "rarity": "Uncommon",
-            "type": "500X Nano Spores"
-          },
-          {
-            "chance": 0.1667,
-            "location": "Eris/Candiru (Caches), Rotation A",
-            "rarity": "Uncommon",
-            "type": "1000X Nano Spores"
-          },
-          {
-            "chance": 0.1667,
-            "location": "Eris/Lepis (Caches), Rotation A",
-            "rarity": "Uncommon",
-            "type": "1000X Nano Spores"
-          },
-          {
-            "chance": 0.1667,
-            "location": "Eris/Naeglar (Caches), Rotation A",
-            "rarity": "Uncommon",
-            "type": "1000X Nano Spores"
-          },
-          {
-            "chance": 0.1667,
-            "location": "Eris/Psoro (Caches), Rotation A",
-            "rarity": "Uncommon",
-            "type": "1000X Nano Spores"
-          },
-          {
-            "chance": 0.1667,
-            "location": "Eris/Viver (Caches), Rotation A",
-            "rarity": "Uncommon",
-            "type": "1000X Nano Spores"
-          },
-          {
-            "chance": 0.25,
-            "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C",
-            "rarity": "Uncommon",
-            "type": "200X Nano Spores"
-          }
-        ],
+        "drops": [],
         "masterable": false,
         "type": "Resource"
       },
@@ -7802,140 +7070,7 @@
         "itemCount": 1800,
         "imageName": "polymer-bundle-b8d240c368.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 0.1265,
-            "location": "Ceres/Ker (Caches), Rotation B",
-            "rarity": "Uncommon",
-            "type": "300X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Ceres/Thon (Caches), Rotation B",
-            "rarity": "Uncommon",
-            "type": "300X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Jupiter/Adrastea (Caches), Rotation B",
-            "rarity": "Uncommon",
-            "type": "300X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Jupiter/Carpo (Caches), Rotation B",
-            "rarity": "Uncommon",
-            "type": "300X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Mars/Gradivus (Caches), Rotation B",
-            "rarity": "Uncommon",
-            "type": "240X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Mercury/Neruda (Caches), Rotation B",
-            "rarity": "Uncommon",
-            "type": "240X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Mercury/Terminus (Caches), Rotation B",
-            "rarity": "Uncommon",
-            "type": "240X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Neptune/Cephalon Capture (Conclave), Rotation B",
-            "rarity": "Uncommon",
-            "type": "500X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Saturn/Annihilation (Conclave), Rotation B",
-            "rarity": "Uncommon",
-            "type": "500X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Saturn/Calypso (Caches), Rotation B",
-            "rarity": "Uncommon",
-            "type": "300X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
-            "rarity": "Uncommon",
-            "type": "500X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Saturn/Lunaro (Conclave), Rotation B",
-            "rarity": "Uncommon",
-            "type": "500X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Saturn/Pallene (Caches), Rotation B",
-            "rarity": "Uncommon",
-            "type": "300X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
-            "rarity": "Uncommon",
-            "type": "500X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
-            "rarity": "Uncommon",
-            "type": "500X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
-            "rarity": "Uncommon",
-            "type": "500X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
-            "rarity": "Uncommon",
-            "type": "500X Polymer Bundle"
-          },
-          {
-            "chance": 0.1265,
-            "location": "Venus/Ishtar (Caches), Rotation B",
-            "rarity": "Uncommon",
-            "type": "240X Polymer Bundle"
-          },
-          {
-            "chance": 0.1291,
-            "location": "Lua/Plato (Caches), Rotation A",
-            "rarity": "Uncommon",
-            "type": "300X Polymer Bundle"
-          },
-          {
-            "chance": 0.2,
-            "location": "Uranus/Desdemona (Caches), Rotation A",
-            "rarity": "Uncommon",
-            "type": "300X Polymer Bundle"
-          },
-          {
-            "chance": 0.2,
-            "location": "Uranus/Prospero (Caches), Rotation A",
-            "rarity": "Uncommon",
-            "type": "300X Polymer Bundle"
-          },
-          {
-            "chance": 0.2,
-            "location": "Uranus/Setebos (Caches), Rotation A",
-            "rarity": "Uncommon",
-            "type": "300X Polymer Bundle"
-          }
-        ],
+        "drops": [],
         "masterable": false,
         "type": "Resource"
       }
@@ -7975,14 +7110,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Suda, Intelligent",
-            "rarity": "Common",
-            "type": "Squad Shield Restore (Large) Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -8193,14 +7321,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby Stovers with life-like animal calls.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Stover Echo-Lure"
-      }
-    ],
     "imageName": "stover-echo-lure-6dca4ddb7a.png",
     "masterable": false,
     "name": "Stover Echo-Lure",
@@ -8211,14 +7331,6 @@
   {
     "category": "Gear",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Stover.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Stover Pheromone Synthesizer"
-      }
-    ],
     "imageName": "stover-pheromone-synthesizer-7196401270.png",
     "masterable": false,
     "name": "Stover Pheromone Synthesizer",
@@ -8306,8 +7418,8 @@
         "itemCount": 1,
         "imageName": "advanced-nosam-cutter-e654a1fc03.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/MiningLaserSolarisBlueprint",
@@ -8347,8 +7459,8 @@
         "itemCount": 30,
         "imageName": "travocyte-alloy-c984bd7ebd.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -8452,14 +7564,6 @@
   {
     "category": "Gear",
     "description": "This bait is synthesized from specialized A-disulphex-A compounds that are known to attract Synathid, a legendarily rare Servofish found only in Orb Vallis cave hotspots.\n\nObtained from The Business in Fortuna (Venus).",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Synathid Bait"
-      }
-    ],
     "imageName": "synathid-bait-5ee5e369f7.png",
     "masterable": false,
     "name": "Synathid Bait",
@@ -8470,14 +7574,6 @@
   {
     "category": "Gear",
     "description": "Synthesize a genetic data of the target and uploads it to the Sanctuary.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Simaris, Synthesis Scanner x 25",
-        "rarity": "Common",
-        "type": "Synthesis Scanner x 25"
-      }
-    ],
     "imageName": "synthesis-scanner-930b38d795.png",
     "masterable": false,
     "name": "Synthesis Scanner",
@@ -8691,20 +7787,6 @@
   {
     "category": "Gear",
     "description": "Tranquilizes animals for the purpose of safe relocation.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Neutral",
-        "rarity": "Common",
-        "type": "Tranq Rifle"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Neutral",
-        "rarity": "Common",
-        "type": "Tranq Rifle"
-      }
-    ],
     "imageName": "tranq-rifle-e6ee74829c.png",
     "masterable": false,
     "name": "Tranq Rifle",
@@ -8789,14 +7871,6 @@
   {
     "category": "Gear",
     "description": "This bait is synthesized from long-chain LS-74 compounds that are known to attract Tromyzon, a Servofish found in Orb Vallis pond hotspots during cool weather.\n\nObtained from The Business in Fortuna (Venus).",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Tromyzon Bait"
-      }
-    ],
     "imageName": "tromyzon-bait-bf80689de6.png",
     "masterable": false,
     "name": "Tromyzon Bait",
@@ -9009,14 +8083,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby Undazoa with life-like animal calls.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Associate",
-        "rarity": "Common",
-        "type": "Undazoa Echo-Lure"
-      }
-    ],
     "imageName": "undazoa-echo-lure-09028af94c.png",
     "masterable": false,
     "name": "Undazoa Echo-Lure",
@@ -9037,14 +8103,6 @@
   {
     "category": "Gear",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Undazoa.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Associate",
-        "rarity": "Common",
-        "type": "Undazoa Pheromone Gland"
-      }
-    ],
     "imageName": "undazoa-pheromone-gland-eacb6a0988.png",
     "masterable": false,
     "name": "Undazoa Pheromone Gland",
@@ -9307,14 +8365,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby Vasca Kavat with life-like animal calls. Vasca Kavat roam the Plains of Eidolon at night.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Master Teasonai), Trusted",
-        "rarity": "Common",
-        "type": "Vasca Kavat Echo-Lure"
-      }
-    ],
     "imageName": "vasca-kavat-echo-lure-2dc28d63f9.png",
     "masterable": false,
     "name": "Vasca Kavat Echo-Lure",
@@ -9325,14 +8375,6 @@
   {
     "category": "Gear",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Vasca Kavat.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Master Teasonai), Trusted",
-        "rarity": "Common",
-        "type": "Vasca Kavat Pheromone Oota"
-      }
-    ],
     "imageName": "vasca-kavat-pheromone-oota-547b841f6e.png",
     "masterable": false,
     "name": "Vasca Kavat Pheromone Oota",
@@ -9410,14 +8452,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby Virmink with life-like animal calls. The Virmink is most often found around the Lakes in Orb Vallis.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Virmink Echo-Lure"
-      }
-    ],
     "imageName": "virmink-echo-lure-1b44131435.png",
     "masterable": false,
     "name": "Virmink Echo-Lure",
@@ -9428,14 +8462,6 @@
   {
     "category": "Gear",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Virmink.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Virmink Pheromone Synthesizer"
-      }
-    ],
     "imageName": "virmink-pheromone-synthesizer-9140089ca0.png",
     "masterable": false,
     "name": "Virmink Pheromone Synthesizer",
@@ -9464,12 +8490,6 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation B",
         "rarity": "Rare",
         "type": "5X Vome Residue"
-      },
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Friend",
-        "rarity": "Common",
-        "type": "Processed Vome Residue"
       }
     ],
     "imageName": "vome-residue-5a9cb65b4d.png",
@@ -10100,14 +9120,6 @@
   {
     "category": "Gear",
     "description": "Entice and attract nearby Vulpaphyla with life-like animal calls.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Stranger",
-        "rarity": "Common",
-        "type": "Vulpaphyla Echo-Lure"
-      }
-    ],
     "imageName": "vulpaphyla-echo-lure-63a3453161.png",
     "masterable": false,
     "name": "Vulpaphyla Echo-Lure",
@@ -10118,14 +9130,6 @@
   {
     "category": "Gear",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Vulpaphyla.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Stranger",
-        "rarity": "Common",
-        "type": "Vulpaphyla Pheromone Gland"
-      }
-    ],
     "imageName": "vulpaphyla-pheromone-gland-7b572e3534.png",
     "masterable": false,
     "name": "Vulpaphyla Pheromone Gland",

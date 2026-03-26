@@ -2,14 +2,6 @@
   {
     "category": "Fish",
     "description": "These fish hatch out of translucent pods formed in caverns below the Infested landscape. They hover to feed.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Stranger",
-        "rarity": "Common",
-        "type": "Amniophysi Trophy Blueprint"
-      }
-    ],
     "imageName": "amniophysi-0cb67aedd3.png",
     "masterable": false,
     "name": "Amniophysi",
@@ -30,14 +22,6 @@
   {
     "category": "Fish",
     "description": "These fish hatch out of translucent pods formed in caverns below the Infested landscape. They hover to feed.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Stranger",
-        "rarity": "Common",
-        "type": "Amniophysi Trophy Blueprint"
-      }
-    ],
     "imageName": "amniophysi-a0ee0c1c56.png",
     "masterable": false,
     "name": "Amniophysi",
@@ -58,14 +42,6 @@
   {
     "category": "Fish",
     "description": "These fish hatch out of translucent pods formed in caverns below the Infested landscape. They hover to feed.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Stranger",
-        "rarity": "Common",
-        "type": "Amniophysi Trophy Blueprint"
-      }
-    ],
     "imageName": "amniophysi-29dbdd28d7.png",
     "masterable": false,
     "name": "Amniophysi",
@@ -86,14 +62,6 @@
   {
     "category": "Fish",
     "description": "These fish were purposefully contaminated with the Infestation as an Entrati 'experiment'. They feed off the organic deposits in cave systems.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Friend",
-        "rarity": "Common",
-        "type": "Aquapulmo Trophy Blueprint"
-      }
-    ],
     "imageName": "aquapulmo-61d5a76760.png",
     "masterable": false,
     "name": "Aquapulmo",
@@ -114,14 +82,6 @@
   {
     "category": "Fish",
     "description": "These fish were purposefully contaminated with the Infestation as an Entrati 'experiment'. They feed off the organic deposits in cave systems.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Friend",
-        "rarity": "Common",
-        "type": "Aquapulmo Trophy Blueprint"
-      }
-    ],
     "imageName": "aquapulmo-d5ed2712eb.png",
     "masterable": false,
     "name": "Aquapulmo",
@@ -142,14 +102,6 @@
   {
     "category": "Fish",
     "description": "These fish were purposefully contaminated with the Infestation as an Entrati 'experiment'. They feed off the organic deposits in cave systems.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Friend",
-        "rarity": "Common",
-        "type": "Aquapulmo Trophy Blueprint"
-      }
-    ],
     "imageName": "aquapulmo-d5580b0819.png",
     "masterable": false,
     "name": "Aquapulmo",
@@ -170,14 +122,6 @@
   {
     "category": "Fish",
     "description": "As ravenous as the Infestation itself, this fish feeds on the remains of others. It shuns the light, preferring an enclosed cave environment.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Stranger",
-        "rarity": "Common",
-        "type": "Barbisteo Trophy Blueprint"
-      }
-    ],
     "imageName": "barbisteo-91980eabd3.png",
     "masterable": false,
     "name": "Barbisteo",
@@ -198,14 +142,6 @@
   {
     "category": "Fish",
     "description": "As ravenous as the Infestation itself, this fish feeds on the remains of others. It shuns the light, preferring an enclosed cave environment.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Stranger",
-        "rarity": "Common",
-        "type": "Barbisteo Trophy Blueprint"
-      }
-    ],
     "imageName": "barbisteo-77828bbc81.png",
     "masterable": false,
     "name": "Barbisteo",
@@ -226,14 +162,6 @@
   {
     "category": "Fish",
     "description": "As ravenous as the Infestation itself, this fish feeds on the remains of others. It shuns the light, preferring an enclosed cave environment.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Stranger",
-        "rarity": "Common",
-        "type": "Barbisteo Trophy Blueprint"
-      }
-    ],
     "imageName": "barbisteo-d20a7ef07f.png",
     "masterable": false,
     "name": "Barbisteo",
@@ -434,24 +362,6 @@
         "location": "Neo G1 Relic",
         "rarity": "Uncommon",
         "type": "Kogake Prime Boot"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Surah",
-        "rarity": "Common",
-        "type": "Boot Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Old Man Suumbaat), Kin",
-        "rarity": "Common",
-        "type": "Fishing Boot"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Boot Trophy Blueprint"
       }
     ],
     "imageName": "boot-0dd345cd9e.png",
@@ -498,14 +408,6 @@
   {
     "category": "Fish",
     "description": "Developed to perform remote construction and maintenance routines. It can be found in ponds around Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Brickie Trophy Blueprint"
-      }
-    ],
     "imageName": "brickie-d5d50ddd26.png",
     "masterable": false,
     "name": "Brickie",
@@ -542,14 +444,6 @@
   {
     "category": "Fish",
     "description": "Developed to perform remote construction and maintenance routines. It can be found in ponds around Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Brickie Trophy Blueprint"
-      }
-    ],
     "imageName": "brickie-affc4ca8ec.png",
     "masterable": false,
     "name": "Brickie",
@@ -586,14 +480,6 @@
   {
     "category": "Fish",
     "description": "Developed to perform remote construction and maintenance routines. It can be found in ponds around Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Brickie Trophy Blueprint"
-      }
-    ],
     "imageName": "brickie-6b2374664c.png",
     "masterable": false,
     "name": "Brickie",
@@ -636,18 +522,6 @@
         "location": "Exploiter Orb",
         "rarity": "Uncommon",
         "type": "Charamote Sagan Module"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Charamote Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Charamote Bait"
       }
     ],
     "imageName": "charamote-0028ef9778.png",
@@ -684,18 +558,6 @@
         "location": "Exploiter Orb",
         "rarity": "Uncommon",
         "type": "Charamote Sagan Module"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Charamote Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Charamote Bait"
       }
     ],
     "imageName": "charamote-cd17f73411.png",
@@ -732,18 +594,6 @@
         "location": "Exploiter Orb",
         "rarity": "Uncommon",
         "type": "Charamote Sagan Module"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Charamote Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Charamote Bait"
       }
     ],
     "imageName": "charamote-cad57d9c13.png",
@@ -774,14 +624,6 @@
   {
     "category": "Fish",
     "description": "Discharges electricity from luminous glands along its flanks to stun its prey.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Offworlder",
-        "rarity": "Common",
-        "type": "Charc Eel Trophy Blueprint"
-      }
-    ],
     "imageName": "charc-eel-ed606319e9.png",
     "masterable": false,
     "name": "Charc Eel",
@@ -802,14 +644,6 @@
   {
     "category": "Fish",
     "description": "Discharges electricity from luminous glands along its flanks to stun its prey.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Offworlder",
-        "rarity": "Common",
-        "type": "Charc Eel Trophy Blueprint"
-      }
-    ],
     "imageName": "charc-eel-99892ece44.png",
     "masterable": false,
     "name": "Charc Eel",
@@ -830,14 +664,6 @@
   {
     "category": "Fish",
     "description": "Discharges electricity from luminous glands along its flanks to stun its prey.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Offworlder",
-        "rarity": "Common",
-        "type": "Charc Eel Trophy Blueprint"
-      }
-    ],
     "imageName": "charc-eel-e812718821.png",
     "masterable": false,
     "name": "Charc Eel",
@@ -858,14 +684,6 @@
   {
     "category": "Fish",
     "description": "A triumph of Orokin bio-engineering, these hardy fish have adapted to the Deimos environment and seem oddly resistant to Infestation. They thrive in cave environments.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Associate",
-        "rarity": "Common",
-        "type": "Chondricord Trophy Blueprint"
-      }
-    ],
     "imageName": "chondricord-0e9f50aad5.png",
     "masterable": false,
     "name": "Chondricord",
@@ -886,14 +704,6 @@
   {
     "category": "Fish",
     "description": "A triumph of Orokin bio-engineering, these hardy fish have adapted to the Deimos environment and seem oddly resistant to Infestation. They thrive in cave environments.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Associate",
-        "rarity": "Common",
-        "type": "Chondricord Trophy Blueprint"
-      }
-    ],
     "imageName": "chondricord-5969651509.png",
     "masterable": false,
     "name": "Chondricord",
@@ -914,14 +724,6 @@
   {
     "category": "Fish",
     "description": "A triumph of Orokin bio-engineering, these hardy fish have adapted to the Deimos environment and seem oddly resistant to Infestation. They thrive in cave environments.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Associate",
-        "rarity": "Common",
-        "type": "Chondricord Trophy Blueprint"
-      }
-    ],
     "imageName": "chondricord-e8163d33a2.png",
     "masterable": false,
     "name": "Chondricord",
@@ -964,14 +766,6 @@
   {
     "category": "Fish",
     "description": "Formerly Orokin scavengers, these fish succumbed to the Infestation long ago and now greedily feast on floating spores. They are found all over the surface of Deimos.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Stranger",
-        "rarity": "Common",
-        "type": "Cryptosuctus Trophy Blueprint"
-      }
-    ],
     "imageName": "cryptosuctus-85aabfaec3.png",
     "masterable": false,
     "name": "Cryptosuctus",
@@ -1000,14 +794,6 @@
   {
     "category": "Fish",
     "description": "Formerly Orokin scavengers, these fish succumbed to the Infestation long ago and now greedily feast on floating spores. They are found all over the surface of Deimos.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Stranger",
-        "rarity": "Common",
-        "type": "Cryptosuctus Trophy Blueprint"
-      }
-    ],
     "imageName": "cryptosuctus-668f61741c.png",
     "masterable": false,
     "name": "Cryptosuctus",
@@ -1036,14 +822,6 @@
   {
     "category": "Fish",
     "description": "Formerly Orokin scavengers, these fish succumbed to the Infestation long ago and now greedily feast on floating spores. They are found all over the surface of Deimos.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Stranger",
-        "rarity": "Common",
-        "type": "Cryptosuctus Trophy Blueprint"
-      }
-    ],
     "imageName": "cryptosuctus-5943cb825f.png",
     "masterable": false,
     "name": "Cryptosuctus",
@@ -1108,24 +886,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Cuthol Tendrils"
-      },
-      {
-        "chance": 1,
-        "location": "Operational Supply, Neutral",
-        "rarity": "Common",
-        "type": "Cuthol Tendrils"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Surah",
-        "rarity": "Common",
-        "type": "Cuthol Bait"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Surah",
-        "rarity": "Common",
-        "type": "Cuthol Trophy Blueprint"
       }
     ],
     "imageName": "cuthol-12ec7f7e6d.png",
@@ -1208,24 +968,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Cuthol Tendrils"
-      },
-      {
-        "chance": 1,
-        "location": "Operational Supply, Neutral",
-        "rarity": "Common",
-        "type": "Cuthol Tendrils"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Surah",
-        "rarity": "Common",
-        "type": "Cuthol Bait"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Surah",
-        "rarity": "Common",
-        "type": "Cuthol Trophy Blueprint"
       }
     ],
     "imageName": "cuthol-ed7e870744.png",
@@ -1308,24 +1050,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Cuthol Tendrils"
-      },
-      {
-        "chance": 1,
-        "location": "Operational Supply, Neutral",
-        "rarity": "Common",
-        "type": "Cuthol Tendrils"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Surah",
-        "rarity": "Common",
-        "type": "Cuthol Bait"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Surah",
-        "rarity": "Common",
-        "type": "Cuthol Trophy Blueprint"
       }
     ],
     "imageName": "cuthol-a4ceed9630.png",
@@ -1372,14 +1096,6 @@
   {
     "category": "Fish",
     "description": "A living fossil hearkening back to the Orokin era, this elusive fish hides below the surface of Exocrine pools in the deepest caverns it can find. Unlike Infested fish breeds, it has no ability to hover.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Associate",
-        "rarity": "Common",
-        "type": "Duroid Trophy Blueprint"
-      }
-    ],
     "imageName": "duroid-4f4f64600e.png",
     "masterable": false,
     "name": "Duroid",
@@ -1400,14 +1116,6 @@
   {
     "category": "Fish",
     "description": "A living fossil hearkening back to the Orokin era, this elusive fish hides below the surface of Exocrine pools in the deepest caverns it can find. Unlike Infested fish breeds, it has no ability to hover.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Associate",
-        "rarity": "Common",
-        "type": "Duroid Trophy Blueprint"
-      }
-    ],
     "imageName": "duroid-3d6365e18a.png",
     "masterable": false,
     "name": "Duroid",
@@ -1428,14 +1136,6 @@
   {
     "category": "Fish",
     "description": "A living fossil hearkening back to the Orokin era, this elusive fish hides below the surface of Exocrine pools in the deepest caverns it can find. Unlike Infested fish breeds, it has no ability to hover.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Associate",
-        "rarity": "Common",
-        "type": "Duroid Trophy Blueprint"
-      }
-    ],
     "imageName": "duroid-cb6525992e.png",
     "masterable": false,
     "name": "Duroid",
@@ -1456,14 +1156,6 @@
   {
     "category": "Fish",
     "description": "Used to record visual data in the aqua systems and transmits the telemetrics to the Research Station. It can be found in the lake on Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Echowinder Trophy Blueprint"
-      }
-    ],
     "imageName": "echowinder-6be71ef923.png",
     "masterable": false,
     "name": "Echowinder",
@@ -1484,14 +1176,6 @@
   {
     "category": "Fish",
     "description": "Used to record visual data in the aqua systems and transmits the telemetrics to the Research Station. It can be found in the lake on Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Echowinder Trophy Blueprint"
-      }
-    ],
     "imageName": "echowinder-648bbfadca.png",
     "masterable": false,
     "name": "Echowinder",
@@ -1512,14 +1196,6 @@
   {
     "category": "Fish",
     "description": "Used to record visual data in the aqua systems and transmits the telemetrics to the Research Station. It can be found in the lake on Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Echowinder Trophy Blueprint"
-      }
-    ],
     "imageName": "echowinder-ae26bf66f1.png",
     "masterable": false,
     "name": "Echowinder",
@@ -1540,14 +1216,6 @@
   {
     "category": "Fish",
     "description": "A surveillance drone that monitors any activity that disturbs the waters. It can be found in ponds around Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Eye-Eye Trophy Blueprint"
-      }
-    ],
     "imageName": "eye-eye-e2867fb4dd.png",
     "masterable": false,
     "name": "Eye-Eye",
@@ -1584,14 +1252,6 @@
   {
     "category": "Fish",
     "description": "A surveillance drone that monitors any activity that disturbs the waters. It can be found in ponds around Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Eye-Eye Trophy Blueprint"
-      }
-    ],
     "imageName": "eye-eye-1cf8a3c1a4.png",
     "masterable": false,
     "name": "Eye-Eye",
@@ -1628,14 +1288,6 @@
   {
     "category": "Fish",
     "description": "A surveillance drone that monitors any activity that disturbs the waters. It can be found in ponds around Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Eye-Eye Trophy Blueprint"
-      }
-    ],
     "imageName": "eye-eye-19b0c4f50b.png",
     "masterable": false,
     "name": "Eye-Eye",
@@ -1672,14 +1324,6 @@
   {
     "category": "Fish",
     "description": "These specimens were originally parasites, breeding inside the wyrm-guts of Fass and scattered across Deimos in the debris of his explosive demise. They are drawn to his light.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Friend",
-        "rarity": "Common",
-        "type": "Flagellocanth Trophy Blueprint"
-      }
-    ],
     "imageName": "flagellocanth-1a21be3dc8.png",
     "masterable": false,
     "name": "Flagellocanth",
@@ -1732,14 +1376,6 @@
   {
     "category": "Fish",
     "description": "These specimens were originally parasites, breeding inside the wyrm-guts of Fass and scattered across Deimos in the debris of his explosive demise. They are drawn to his light.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Friend",
-        "rarity": "Common",
-        "type": "Flagellocanth Trophy Blueprint"
-      }
-    ],
     "imageName": "flagellocanth-0c7f3f2b2e.png",
     "masterable": false,
     "name": "Flagellocanth",
@@ -1792,14 +1428,6 @@
   {
     "category": "Fish",
     "description": "These specimens were originally parasites, breeding inside the wyrm-guts of Fass and scattered across Deimos in the debris of his explosive demise. They are drawn to his light.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Friend",
-        "rarity": "Common",
-        "type": "Flagellocanth Trophy Blueprint"
-      }
-    ],
     "imageName": "flagellocanth-25625ea0f9.png",
     "masterable": false,
     "name": "Flagellocanth",
@@ -1852,20 +1480,6 @@
   {
     "category": "Fish",
     "description": "The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Kin",
-        "rarity": "Common",
-        "type": "Glappid Bait"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Kin",
-        "rarity": "Common",
-        "type": "Glappid Trophy Blueprint"
-      }
-    ],
     "imageName": "glappid-82da3aa166.png",
     "masterable": false,
     "name": "Glappid",
@@ -1894,20 +1508,6 @@
   {
     "category": "Fish",
     "description": "The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Kin",
-        "rarity": "Common",
-        "type": "Glappid Bait"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Kin",
-        "rarity": "Common",
-        "type": "Glappid Trophy Blueprint"
-      }
-    ],
     "imageName": "glappid-e8e37a1d74.png",
     "masterable": false,
     "name": "Glappid",
@@ -1936,20 +1536,6 @@
   {
     "category": "Fish",
     "description": "The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Kin",
-        "rarity": "Common",
-        "type": "Glappid Bait"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Kin",
-        "rarity": "Common",
-        "type": "Glappid Trophy Blueprint"
-      }
-    ],
     "imageName": "glappid-dd785240b0.png",
     "masterable": false,
     "name": "Glappid",
@@ -1978,14 +1564,6 @@
   {
     "category": "Fish",
     "description": "These hefty fish are cannibalistic. They rise by Vome's light to absorb rare gases, retreating when Fass ascends to devour their smaller kin in their lairs.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Acquaintance",
-        "rarity": "Common",
-        "type": "Glutinox Trophy Blueprint"
-      }
-    ],
     "imageName": "glutinox-82c1a2932d.png",
     "masterable": false,
     "name": "Glutinox",
@@ -2006,14 +1584,6 @@
   {
     "category": "Fish",
     "description": "These hefty fish are cannibalistic. They rise by Vome's light to absorb rare gases, retreating when Fass ascends to devour their smaller kin in their lairs.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Acquaintance",
-        "rarity": "Common",
-        "type": "Glutinox Trophy Blueprint"
-      }
-    ],
     "imageName": "glutinox-78e101beeb.png",
     "masterable": false,
     "name": "Glutinox",
@@ -2034,14 +1604,6 @@
   {
     "category": "Fish",
     "description": "These hefty fish are cannibalistic. They rise by Vome's light to absorb rare gases, retreating when Fass ascends to devour their smaller kin in their lairs.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Acquaintance",
-        "rarity": "Common",
-        "type": "Glutinox Trophy Blueprint"
-      }
-    ],
     "imageName": "glutinox-e7a5334fbe.png",
     "masterable": false,
     "name": "Glutinox",
@@ -2098,18 +1660,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Goopolla Spleen"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Kin",
-        "rarity": "Common",
-        "type": "Goopolla Glyph"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Offworlder",
-        "rarity": "Common",
-        "type": "Goopolla Trophy Blueprint"
       }
     ],
     "imageName": "goopolla-a0d28445c5.png",
@@ -2176,18 +1726,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Goopolla Spleen"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Kin",
-        "rarity": "Common",
-        "type": "Goopolla Glyph"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Offworlder",
-        "rarity": "Common",
-        "type": "Goopolla Trophy Blueprint"
       }
     ],
     "imageName": "goopolla-e847cd3f79.png",
@@ -2254,18 +1792,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Goopolla Spleen"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Kin",
-        "rarity": "Common",
-        "type": "Goopolla Glyph"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Offworlder",
-        "rarity": "Common",
-        "type": "Goopolla Trophy Blueprint"
       }
     ],
     "imageName": "goopolla-6a04117c92.png",
@@ -2354,12 +1880,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Karkina Antenna"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Trusted",
-        "rarity": "Common",
-        "type": "Karkina Trophy Blueprint"
       }
     ],
     "imageName": "karkina-304229f833.png",
@@ -2426,12 +1946,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Karkina Antenna"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Trusted",
-        "rarity": "Common",
-        "type": "Karkina Trophy Blueprint"
       }
     ],
     "imageName": "karkina-a166e9d8cc.png",
@@ -2498,12 +2012,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Karkina Antenna"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Trusted",
-        "rarity": "Common",
-        "type": "Karkina Trophy Blueprint"
       }
     ],
     "imageName": "karkina-9a9ecb473a.png",
@@ -2570,12 +2078,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Khut-Khut Venom Sac"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Offworlder",
-        "rarity": "Common",
-        "type": "Khut-Khut Trophy Blueprint"
       }
     ],
     "imageName": "khut-khut-d02c18bfdc.png",
@@ -2634,12 +2136,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Khut-Khut Venom Sac"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Offworlder",
-        "rarity": "Common",
-        "type": "Khut-Khut Trophy Blueprint"
       }
     ],
     "imageName": "khut-khut-7d8708ba74.png",
@@ -2698,12 +2194,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Khut-Khut Venom Sac"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Offworlder",
-        "rarity": "Common",
-        "type": "Khut-Khut Trophy Blueprint"
       }
     ],
     "imageName": "khut-khut-0a5024b1b0.png",
@@ -2726,20 +2216,6 @@
   {
     "category": "Fish",
     "description": "Identifies organic threats to Corpus operations in the Aqua Systems and eliminates them. It can be found in the lake on Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Kriller Bait"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Kriller Trophy Blueprint"
-      }
-    ],
     "imageName": "kriller-d416809163.png",
     "masterable": false,
     "name": "Kriller",
@@ -2760,20 +2236,6 @@
   {
     "category": "Fish",
     "description": "Identifies organic threats to Corpus operations in the Aqua Systems and eliminates them. It can be found in the lake on Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Kriller Bait"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Kriller Trophy Blueprint"
-      }
-    ],
     "imageName": "kriller-f8505c6348.png",
     "masterable": false,
     "name": "Kriller",
@@ -2794,20 +2256,6 @@
   {
     "category": "Fish",
     "description": "Identifies organic threats to Corpus operations in the Aqua Systems and eliminates them. It can be found in the lake on Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Kriller Bait"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Kriller Trophy Blueprint"
-      }
-    ],
     "imageName": "kriller-996c682f31.png",
     "masterable": false,
     "name": "Kriller",
@@ -2828,14 +2276,6 @@
   {
     "category": "Fish",
     "description": "The Infestation has suborned these fish to its own purposes, using them as antibodies to repel the non-Infested. They swim through and above the Exocrine found on Deimos’ surface.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Stranger",
-        "rarity": "Common",
-        "type": "Kymaeros Trophy Blueprint"
-      }
-    ],
     "imageName": "kymaeros-c0a69ab3e7.png",
     "masterable": false,
     "name": "Kymaeros",
@@ -2864,14 +2304,6 @@
   {
     "category": "Fish",
     "description": "The Infestation has suborned these fish to its own purposes, using them as antibodies to repel the non-Infested. They swim through and above the Exocrine found on Deimos’ surface.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Stranger",
-        "rarity": "Common",
-        "type": "Kymaeros Trophy Blueprint"
-      }
-    ],
     "imageName": "kymaeros-f66e2f45d4.png",
     "masterable": false,
     "name": "Kymaeros",
@@ -2900,14 +2332,6 @@
   {
     "category": "Fish",
     "description": "The Infestation has suborned these fish to its own purposes, using them as antibodies to repel the non-Infested. They swim through and above the Exocrine found on Deimos’ surface.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Stranger",
-        "rarity": "Common",
-        "type": "Kymaeros Trophy Blueprint"
-      }
-    ],
     "imageName": "kymaeros-0d4fbd60b8.png",
     "masterable": false,
     "name": "Kymaeros",
@@ -2936,14 +2360,6 @@
   {
     "category": "Fish",
     "description": "A muscular, three-tailed fish, the Lobotriscid trawls through Exocrine vapor across the surface of Deimos when Vome is dominant.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Stranger",
-        "rarity": "Common",
-        "type": "Lobotriscid Trophy Blueprint"
-      }
-    ],
     "imageName": "lobotriscid-dede58f209.png",
     "masterable": false,
     "name": "Lobotriscid",
@@ -2988,14 +2404,6 @@
   {
     "category": "Fish",
     "description": "A muscular, three-tailed fish, the Lobotriscid trawls through Exocrine vapor across the surface of Deimos when Vome is dominant.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Stranger",
-        "rarity": "Common",
-        "type": "Lobotriscid Trophy Blueprint"
-      }
-    ],
     "imageName": "lobotriscid-4a6239bcd0.png",
     "masterable": false,
     "name": "Lobotriscid",
@@ -3040,14 +2448,6 @@
   {
     "category": "Fish",
     "description": "A muscular, three-tailed fish, the Lobotriscid trawls through Exocrine vapor across the surface of Deimos when Vome is dominant.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Stranger",
-        "rarity": "Common",
-        "type": "Lobotriscid Trophy Blueprint"
-      }
-    ],
     "imageName": "lobotriscid-55062846dd.png",
     "masterable": false,
     "name": "Lobotriscid",
@@ -3098,18 +2498,6 @@
         "location": "Exploiter Orb",
         "rarity": "Uncommon",
         "type": "Longwinder Lathe Coagulant"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Longwinder Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Longwinder Bait"
       }
     ],
     "imageName": "longwinder-25c6b4b458.png",
@@ -3154,18 +2542,6 @@
         "location": "Exploiter Orb",
         "rarity": "Uncommon",
         "type": "Longwinder Lathe Coagulant"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Longwinder Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Longwinder Bait"
       }
     ],
     "imageName": "longwinder-b76ed131d5.png",
@@ -3210,18 +2586,6 @@
         "location": "Exploiter Orb",
         "rarity": "Uncommon",
         "type": "Longwinder Lathe Coagulant"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Longwinder Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Longwinder Bait"
       }
     ],
     "imageName": "longwinder-07e6a65fad.png",
@@ -3296,12 +2660,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Mawfish Bones"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Offworlder",
-        "rarity": "Common",
-        "type": "Mawfish Trophy Blueprint"
       }
     ],
     "imageName": "mawfish-54b22a0ace.png",
@@ -3368,12 +2726,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Mawfish Bones"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Offworlder",
-        "rarity": "Common",
-        "type": "Mawfish Trophy Blueprint"
       }
     ],
     "imageName": "mawfish-448d80958a.png",
@@ -3440,12 +2792,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Mawfish Bones"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Offworlder",
-        "rarity": "Common",
-        "type": "Mawfish Trophy Blueprint"
       }
     ],
     "imageName": "mawfish-afb1faf5ef.png",
@@ -3476,20 +2822,6 @@
   {
     "category": "Fish",
     "description": "Surveys the water for impurities. It can be found in cave pools on Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Mirewinder Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Mirewinder Bait"
-      }
-    ],
     "imageName": "mirewinder-a5b961a6d9.png",
     "masterable": false,
     "name": "Mirewinder",
@@ -3518,20 +2850,6 @@
   {
     "category": "Fish",
     "description": "Surveys the water for impurities. It can be found in cave pools on Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Mirewinder Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Mirewinder Bait"
-      }
-    ],
     "imageName": "mirewinder-29a1571292.png",
     "masterable": false,
     "name": "Mirewinder",
@@ -3560,20 +2878,6 @@
   {
     "category": "Fish",
     "description": "Surveys the water for impurities. It can be found in cave pools on Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Mirewinder Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Mirewinder Bait"
-      }
-    ],
     "imageName": "mirewinder-bcc768b733.png",
     "masterable": false,
     "name": "Mirewinder",
@@ -3602,14 +2906,6 @@
   {
     "category": "Fish",
     "description": "Displays blood-spattered pattern on its scales and has its ribs exposed through open cavities along both flanks. When predators approach it lies still at the bottom of the sand banks, disguised as a carcass in hopes of being ignored.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Visitor",
-        "rarity": "Common",
-        "type": "Mortus Lungfish Trophy Blueprint"
-      }
-    ],
     "imageName": "mortus-lungfish-44fa9c46ae.png",
     "masterable": false,
     "name": "Mortus Lungfish",
@@ -3630,14 +2926,6 @@
   {
     "category": "Fish",
     "description": "Displays blood-spattered pattern on its scales and has its ribs exposed through open cavities along both flanks. When predators approach it lies still at the bottom of the sand banks, disguised as a carcass in hopes of being ignored.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Visitor",
-        "rarity": "Common",
-        "type": "Mortus Lungfish Trophy Blueprint"
-      }
-    ],
     "imageName": "mortus-lungfish-793b26f4c8.png",
     "masterable": false,
     "name": "Mortus Lungfish",
@@ -3658,14 +2946,6 @@
   {
     "category": "Fish",
     "description": "Displays blood-spattered pattern on its scales and has its ribs exposed through open cavities along both flanks. When predators approach it lies still at the bottom of the sand banks, disguised as a carcass in hopes of being ignored.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Visitor",
-        "rarity": "Common",
-        "type": "Mortus Lungfish Trophy Blueprint"
-      }
-    ],
     "imageName": "mortus-lungfish-300b4ee45a.png",
     "masterable": false,
     "name": "Mortus Lungfish",
@@ -3722,24 +3002,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Murkray Liver"
-      },
-      {
-        "chance": 1,
-        "location": "Operational Supply, Neutral",
-        "rarity": "Common",
-        "type": "Murkray Liver"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Surah",
-        "rarity": "Common",
-        "type": "Murkray Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Visitor",
-        "rarity": "Common",
-        "type": "Murkray Bait"
       }
     ],
     "imageName": "murkray-b2191b6a7e.png",
@@ -3814,24 +3076,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Murkray Liver"
-      },
-      {
-        "chance": 1,
-        "location": "Operational Supply, Neutral",
-        "rarity": "Common",
-        "type": "Murkray Liver"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Surah",
-        "rarity": "Common",
-        "type": "Murkray Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Visitor",
-        "rarity": "Common",
-        "type": "Murkray Bait"
       }
     ],
     "imageName": "murkray-e871775304.png",
@@ -3906,24 +3150,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Murkray Liver"
-      },
-      {
-        "chance": 1,
-        "location": "Operational Supply, Neutral",
-        "rarity": "Common",
-        "type": "Murkray Liver"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Surah",
-        "rarity": "Common",
-        "type": "Murkray Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Visitor",
-        "rarity": "Common",
-        "type": "Murkray Bait"
       }
     ],
     "imageName": "murkray-697f0501dd.png",
@@ -3962,14 +3188,6 @@
   {
     "category": "Fish",
     "description": "This exceptionally rare breed of fish is almost extinct, as its gilded Orokin flesh has a special savor for predators. It warily conceals itself in caves. ",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Family",
-        "rarity": "Common",
-        "type": "Myxostomata Trophy Blueprint"
-      }
-    ],
     "imageName": "myxostomata-ad9f92c3b5.png",
     "masterable": false,
     "name": "Myxostomata",
@@ -3990,14 +3208,6 @@
   {
     "category": "Fish",
     "description": "This exceptionally rare breed of fish is almost extinct, as its gilded Orokin flesh has a special savor for predators. It warily conceals itself in caves. ",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Family",
-        "rarity": "Common",
-        "type": "Myxostomata Trophy Blueprint"
-      }
-    ],
     "imageName": "myxostomata-e771081e3a.png",
     "masterable": false,
     "name": "Myxostomata",
@@ -4018,14 +3228,6 @@
   {
     "category": "Fish",
     "description": "This exceptionally rare breed of fish is almost extinct, as its gilded Orokin flesh has a special savor for predators. It warily conceals itself in caves. ",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Family",
-        "rarity": "Common",
-        "type": "Myxostomata Trophy Blueprint"
-      }
-    ],
     "imageName": "myxostomata-9a6e69540d.png",
     "masterable": false,
     "name": "Myxostomata",
@@ -4105,24 +3307,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Norg Brain"
-      },
-      {
-        "chance": 1,
-        "location": "Operational Supply, Neutral",
-        "rarity": "Common",
-        "type": "Norg Brain"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Surah",
-        "rarity": "Common",
-        "type": "Norg Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Trusted",
-        "rarity": "Common",
-        "type": "Norg Bait"
       }
     ],
     "imageName": "norg-fb3d6e5b85.png",
@@ -4249,24 +3433,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Norg Brain"
-      },
-      {
-        "chance": 1,
-        "location": "Operational Supply, Neutral",
-        "rarity": "Common",
-        "type": "Norg Brain"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Surah",
-        "rarity": "Common",
-        "type": "Norg Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Trusted",
-        "rarity": "Common",
-        "type": "Norg Bait"
       }
     ],
     "imageName": "norg-181afe1501.png",
@@ -4393,24 +3559,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Norg Brain"
-      },
-      {
-        "chance": 1,
-        "location": "Operational Supply, Neutral",
-        "rarity": "Common",
-        "type": "Norg Brain"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Surah",
-        "rarity": "Common",
-        "type": "Norg Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Trusted",
-        "rarity": "Common",
-        "type": "Norg Bait"
       }
     ],
     "imageName": "norg-8f4a227307.png",
@@ -4489,14 +3637,6 @@
   {
     "category": "Fish",
     "description": "Crammed with redundant, mutated internal organs, this pungent fish mingles Orokin and Infested ancestry. It is confined to the Exocrine and is only active by the light of the Wyrm Fass.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Acquaintance",
-        "rarity": "Common",
-        "type": "Ostimyr Trophy Blueprint"
-      }
-    ],
     "imageName": "ostimyr-3d54ff4970.png",
     "masterable": false,
     "name": "Ostimyr",
@@ -4517,14 +3657,6 @@
   {
     "category": "Fish",
     "description": "Crammed with redundant, mutated internal organs, this pungent fish mingles Orokin and Infested ancestry. It is confined to the Exocrine and is only active by the light of the Wyrm Fass.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Acquaintance",
-        "rarity": "Common",
-        "type": "Ostimyr Trophy Blueprint"
-      }
-    ],
     "imageName": "ostimyr-9bcbae2435.png",
     "masterable": false,
     "name": "Ostimyr",
@@ -4545,14 +3677,6 @@
   {
     "category": "Fish",
     "description": "Crammed with redundant, mutated internal organs, this pungent fish mingles Orokin and Infested ancestry. It is confined to the Exocrine and is only active by the light of the Wyrm Fass.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Acquaintance",
-        "rarity": "Common",
-        "type": "Ostimyr Trophy Blueprint"
-      }
-    ],
     "imageName": "ostimyr-d6d7e9d75c.png",
     "masterable": false,
     "name": "Ostimyr",
@@ -4573,14 +3697,6 @@
   {
     "category": "Fish",
     "description": "Facilitates long-distance communication between robotics deployed in the aqua systems. It can be found in the ponds around Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Recaster Trophy Blueprint"
-      }
-    ],
     "imageName": "recaster-d41e0afb08.png",
     "masterable": false,
     "name": "Recaster",
@@ -4609,14 +3725,6 @@
   {
     "category": "Fish",
     "description": "Facilitates long-distance communication between robotics deployed in the aqua systems. It can be found in the ponds around Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Recaster Trophy Blueprint"
-      }
-    ],
     "imageName": "recaster-367393121f.png",
     "masterable": false,
     "name": "Recaster",
@@ -4645,14 +3753,6 @@
   {
     "category": "Fish",
     "description": "Facilitates long-distance communication between robotics deployed in the aqua systems. It can be found in the ponds around Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Rapscallion",
-        "rarity": "Common",
-        "type": "Recaster Trophy Blueprint"
-      }
-    ],
     "imageName": "recaster-13854c62a7.png",
     "masterable": false,
     "name": "Recaster",
@@ -4681,20 +3781,6 @@
   {
     "category": "Fish",
     "description": "Collects fluid samples in the aqua system for the Research Station. It can be found in lakes around Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Old Mate",
-        "rarity": "Common",
-        "type": "Sapcaddy Glyph"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Sapcaddy Trophy Blueprint"
-      }
-    ],
     "imageName": "sapcaddy-eb65cbd6bc.png",
     "masterable": false,
     "name": "Sapcaddy",
@@ -4731,20 +3817,6 @@
   {
     "category": "Fish",
     "description": "Collects fluid samples in the aqua system for the Research Station. It can be found in lakes around Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Old Mate",
-        "rarity": "Common",
-        "type": "Sapcaddy Glyph"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Sapcaddy Trophy Blueprint"
-      }
-    ],
     "imageName": "sapcaddy-be52e6bb1f.png",
     "masterable": false,
     "name": "Sapcaddy",
@@ -4781,20 +3853,6 @@
   {
     "category": "Fish",
     "description": "Collects fluid samples in the aqua system for the Research Station. It can be found in lakes around Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Old Mate",
-        "rarity": "Common",
-        "type": "Sapcaddy Glyph"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Sapcaddy Trophy Blueprint"
-      }
-    ],
     "imageName": "sapcaddy-ff868b6d9c.png",
     "masterable": false,
     "name": "Sapcaddy",
@@ -4831,14 +3889,6 @@
   {
     "category": "Fish",
     "description": "Analyzes the growth of microbes dwelling in the aqua systems to monitor toxicity levels. It can be found in cave pools on Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Scrubber Trophy Blueprint"
-      }
-    ],
     "imageName": "scrubber-39bc6f06ea.png",
     "masterable": false,
     "name": "Scrubber",
@@ -4859,14 +3909,6 @@
   {
     "category": "Fish",
     "description": "Analyzes the growth of microbes dwelling in the aqua systems to monitor toxicity levels. It can be found in cave pools on Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Scrubber Trophy Blueprint"
-      }
-    ],
     "imageName": "scrubber-c2cad828e4.png",
     "masterable": false,
     "name": "Scrubber",
@@ -4887,14 +3929,6 @@
   {
     "category": "Fish",
     "description": "Analyzes the growth of microbes dwelling in the aqua systems to monitor toxicity levels. It can be found in cave pools on Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Scrubber Trophy Blueprint"
-      }
-    ],
     "imageName": "scrubber-17312d7f8f.png",
     "masterable": false,
     "name": "Scrubber",
@@ -4962,12 +3996,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Sharrac Teeth"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Trusted",
-        "rarity": "Common",
-        "type": "Sharrac Trophy Blueprint"
       }
     ],
     "imageName": "sharrac-61e61aea41.png",
@@ -5042,12 +4070,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Sharrac Teeth"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Trusted",
-        "rarity": "Common",
-        "type": "Sharrac Trophy Blueprint"
       }
     ],
     "imageName": "sharrac-40d7978d90.png",
@@ -5122,12 +4144,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Sharrac Teeth"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Trusted",
-        "rarity": "Common",
-        "type": "Sharrac Trophy Blueprint"
       }
     ],
     "imageName": "sharrac-fec7e2a609.png",
@@ -5183,18 +4199,6 @@
         "location": "Exploiter Orb",
         "rarity": "Uncommon",
         "type": "Synathid Ecosynth Analyzer"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Synathid Bait"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Old Mate",
-        "rarity": "Common",
-        "type": "Synathid Trophy Blueprint"
       }
     ],
     "imageName": "synathid-ce1b89b0b4.png",
@@ -5223,18 +4227,6 @@
         "location": "Exploiter Orb",
         "rarity": "Uncommon",
         "type": "Synathid Ecosynth Analyzer"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Synathid Bait"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Old Mate",
-        "rarity": "Common",
-        "type": "Synathid Trophy Blueprint"
       }
     ],
     "imageName": "synathid-1d37e1a177.png",
@@ -5263,18 +4255,6 @@
         "location": "Exploiter Orb",
         "rarity": "Uncommon",
         "type": "Synathid Ecosynth Analyzer"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Synathid Bait"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Old Mate",
-        "rarity": "Common",
-        "type": "Synathid Trophy Blueprint"
       }
     ],
     "imageName": "synathid-468180a529.png",
@@ -5297,14 +4277,6 @@
   {
     "category": "Fish",
     "description": "Repairs robotics that have broken down in the aqua systems. It can be found in ponds around Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Tink Trophy Blueprint"
-      }
-    ],
     "imageName": "tink-7a7a0685cd.png",
     "masterable": false,
     "name": "Tink",
@@ -5349,14 +4321,6 @@
   {
     "category": "Fish",
     "description": "Repairs robotics that have broken down in the aqua systems. It can be found in ponds around Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Tink Trophy Blueprint"
-      }
-    ],
     "imageName": "tink-d2d5d38fe3.png",
     "masterable": false,
     "name": "Tink",
@@ -5401,14 +4365,6 @@
   {
     "category": "Fish",
     "description": "Repairs robotics that have broken down in the aqua systems. It can be found in ponds around Venus.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Outworlder",
-        "rarity": "Common",
-        "type": "Tink Trophy Blueprint"
-      }
-    ],
     "imageName": "tink-2006e685e2.png",
     "masterable": false,
     "name": "Tink",
@@ -5489,12 +4445,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Tralok Eyes"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Visitor",
-        "rarity": "Common",
-        "type": "Tralok Trophy Blueprint"
       }
     ],
     "imageName": "tralok-198318bae8.png",
@@ -5561,12 +4511,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Tralok Eyes"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Visitor",
-        "rarity": "Common",
-        "type": "Tralok Trophy Blueprint"
       }
     ],
     "imageName": "tralok-3a421c2e99.png",
@@ -5633,12 +4577,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Tralok Eyes"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Visitor",
-        "rarity": "Common",
-        "type": "Tralok Trophy Blueprint"
       }
     ],
     "imageName": "tralok-b4ecadea1c.png",
@@ -5675,18 +4613,6 @@
         "location": "Exploiter Orb",
         "rarity": "Uncommon",
         "type": "Tromyzon Entroplasma"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Tromyzon Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Tromyzon Bait"
       }
     ],
     "imageName": "tromyzon-f1dde9aec6.png",
@@ -5723,18 +4649,6 @@
         "location": "Exploiter Orb",
         "rarity": "Uncommon",
         "type": "Tromyzon Entroplasma"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Tromyzon Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Tromyzon Bait"
       }
     ],
     "imageName": "tromyzon-ae017d1a40.png",
@@ -5771,18 +4685,6 @@
         "location": "Exploiter Orb",
         "rarity": "Uncommon",
         "type": "Tromyzon Entroplasma"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Cove",
-        "rarity": "Common",
-        "type": "Tromyzon Trophy Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Solaris United (The Business), Doer",
-        "rarity": "Common",
-        "type": "Tromyzon Bait"
       }
     ],
     "imageName": "tromyzon-831d6b8651.png",
@@ -5813,14 +4715,6 @@
   {
     "category": "Fish",
     "description": "Whatever higher functions this fish once had have been consumed, leaving it a mere automaton of metal and flesh. It ekes out a primitive existence in cave systems.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Acquaintance",
-        "rarity": "Common",
-        "type": "Vitreospina Trophy Blueprint"
-      }
-    ],
     "imageName": "vitreospina-990b006317.png",
     "masterable": false,
     "name": "Vitreospina",
@@ -5841,14 +4735,6 @@
   {
     "category": "Fish",
     "description": "Whatever higher functions this fish once had have been consumed, leaving it a mere automaton of metal and flesh. It ekes out a primitive existence in cave systems.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Acquaintance",
-        "rarity": "Common",
-        "type": "Vitreospina Trophy Blueprint"
-      }
-    ],
     "imageName": "vitreospina-4d9237695a.png",
     "masterable": false,
     "name": "Vitreospina",
@@ -5869,14 +4755,6 @@
   {
     "category": "Fish",
     "description": "Whatever higher functions this fish once had have been consumed, leaving it a mere automaton of metal and flesh. It ekes out a primitive existence in cave systems.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Daughter), Acquaintance",
-        "rarity": "Common",
-        "type": "Vitreospina Trophy Blueprint"
-      }
-    ],
     "imageName": "vitreospina-c6c179e43d.png",
     "masterable": false,
     "name": "Vitreospina",
@@ -5944,12 +4822,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Yogwun Stomach"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Offworlder",
-        "rarity": "Common",
-        "type": "Yogwun Trophy Blueprint"
       }
     ],
     "imageName": "yogwun-479a2bd447.png",
@@ -6016,12 +4888,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Yogwun Stomach"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Offworlder",
-        "rarity": "Common",
-        "type": "Yogwun Trophy Blueprint"
       }
     ],
     "imageName": "yogwun-99d3cb7191.png",
@@ -6088,12 +4954,6 @@
         "location": "Tusk Thumper Doma",
         "rarity": "Rare",
         "type": "Yogwun Stomach"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Fisher Hai-Luk), Offworlder",
-        "rarity": "Common",
-        "type": "Yogwun Trophy Blueprint"
       }
     ],
     "imageName": "yogwun-1f0eb08609.png",

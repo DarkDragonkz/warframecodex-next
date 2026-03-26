@@ -108,8 +108,8 @@
         "itemCount": 25,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -166,14 +166,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Son), Stranger",
-            "rarity": "Common",
-            "type": "Adra Mutagen Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
@@ -271,14 +264,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Rapscallion",
-            "rarity": "Common",
-            "type": "Aegron Gyro Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
@@ -297,8 +283,8 @@
         "itemCount": 5,
         "imageName": "heart-noctrul-1d8f552486.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
@@ -375,8 +361,8 @@
         "itemCount": 25,
         "imageName": "axidrol-alloy-1c1aae73ee.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetEngineArcotekBlueprint",
@@ -386,14 +372,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Rapscallion",
-            "rarity": "Common",
-            "type": "Alcrom Core Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
@@ -412,8 +391,8 @@
         "itemCount": 15,
         "imageName": "smooth-phasmin-a2cd1eb0b0.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
@@ -422,8 +401,8 @@
         "itemCount": 25,
         "imageName": "travocyte-alloy-c984bd7ebd.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -480,14 +459,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Son), Associate",
-            "rarity": "Common",
-            "type": "Arioli Mutagen Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
@@ -585,14 +557,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Cove",
-            "rarity": "Common",
-            "type": "Atheca Gyro Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
@@ -612,8 +577,8 @@
         "itemCount": 5,
         "imageName": "star-amarast-303ac88720.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
@@ -720,8 +685,8 @@
         "itemCount": 2,
         "imageName": "marquise-thyst-09a444de1c.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/SpecterParticleResidue",
@@ -828,8 +793,8 @@
         "itemCount": 35,
         "imageName": "travocyte-alloy-c984bd7ebd.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -1023,14 +988,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Son), Acquaintance",
-            "rarity": "Common",
-            "type": "Chiten Mutagen Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
@@ -1173,14 +1131,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Son), Stranger",
-            "rarity": "Common",
-            "type": "Desus Antigen Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
@@ -1298,8 +1249,8 @@
         "itemCount": 2,
         "imageName": "radian-sentirum-cddffa1970.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/SpecterParticleResidue",
@@ -1366,8 +1317,8 @@
         "itemCount": 25,
         "imageName": "axidrol-alloy-1c1aae73ee.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetEngineThricoreBlueprint",
@@ -1377,14 +1328,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Neutral",
-            "rarity": "Common",
-            "type": "Drex Core Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
@@ -1403,8 +1347,8 @@
         "itemCount": 15,
         "imageName": "smooth-phasmin-a2cd1eb0b0.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
@@ -1413,8 +1357,8 @@
         "itemCount": 25,
         "imageName": "travocyte-alloy-c984bd7ebd.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -1470,8 +1414,8 @@
         "itemCount": 25,
         "imageName": "axidrol-alloy-1c1aae73ee.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegABlueprint",
@@ -1481,14 +1425,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Neutral",
-            "rarity": "Common",
-            "type": "Drimper Bracket Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
@@ -1517,8 +1454,8 @@
         "itemCount": 25,
         "imageName": "travocyte-alloy-c984bd7ebd.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -1595,14 +1532,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Son), Acquaintance",
-            "rarity": "Common",
-            "type": "Elasmun Antigen Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
@@ -1700,14 +1630,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Son), Acquaintance",
-            "rarity": "Common",
-            "type": "Elsa Mutagen Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
@@ -1825,8 +1748,8 @@
         "itemCount": 20,
         "imageName": "hespazym-alloy-ebcdeeba7a.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
@@ -1892,8 +1815,8 @@
         "itemCount": 40,
         "imageName": "axidrol-alloy-1c1aae73ee.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartBodyBBlueprint",
@@ -1912,8 +1835,8 @@
         "itemCount": 25,
         "imageName": "devolved-namalon-8e85fb663c.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
@@ -1992,14 +1915,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Rapscallion",
-            "rarity": "Common",
-            "type": "Gauth Bracket Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
@@ -2008,8 +1924,8 @@
         "itemCount": 20,
         "imageName": "goblite-tears-db33ec8568.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
@@ -2038,8 +1954,8 @@
         "itemCount": 40,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -2096,14 +2012,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Outworlder",
-            "rarity": "Common",
-            "type": "Harpen Gyro Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
@@ -2133,8 +2042,8 @@
         "itemCount": 5,
         "imageName": "smooth-phasmin-a2cd1eb0b0.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem",
@@ -2242,8 +2151,8 @@
         "itemCount": 2,
         "imageName": "trapezium-xenorhast-a14b3b3c56.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -2482,14 +2391,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Doer",
-            "rarity": "Common",
-            "type": "Hextra Gyro Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishRotobladeItem",
@@ -2508,8 +2410,8 @@
         "itemCount": 5,
         "imageName": "goblite-tears-db33ec8568.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
@@ -2686,14 +2588,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Doer",
-            "rarity": "Common",
-            "type": "Hona Bracket Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
@@ -2712,8 +2607,8 @@
         "itemCount": 20,
         "imageName": "goblite-tears-db33ec8568.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
@@ -2732,8 +2627,8 @@
         "itemCount": 40,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -2873,14 +2768,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Son), Associate",
-            "rarity": "Common",
-            "type": "Ibexan Antigen Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
@@ -2978,14 +2866,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Son), Stranger",
-            "rarity": "Common",
-            "type": "Iranon Antigen Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
@@ -3072,8 +2953,8 @@
         "itemCount": 40,
         "imageName": "axidrol-alloy-1c1aae73ee.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegCBlueprint",
@@ -3083,14 +2964,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Outworlder",
-            "rarity": "Common",
-            "type": "Jonsin Bracket Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
@@ -3109,8 +2983,8 @@
         "itemCount": 20,
         "imageName": "heart-noctrul-1d8f552486.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
@@ -3176,8 +3050,8 @@
         "itemCount": 25,
         "imageName": "axidrol-alloy-1c1aae73ee.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetEngineKrisysBlueprint",
@@ -3187,14 +3061,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Outworlder",
-            "rarity": "Common",
-            "type": "Krisys Core Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
@@ -3213,8 +3080,8 @@
         "itemCount": 15,
         "imageName": "heart-noctrul-1d8f552486.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
@@ -3223,8 +3090,8 @@
         "itemCount": 25,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -3281,14 +3148,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Outworlder",
-            "rarity": "Common",
-            "type": "Lambeo Moa Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
@@ -3307,8 +3167,8 @@
         "itemCount": 10,
         "imageName": "heart-noctrul-1d8f552486.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
@@ -3328,8 +3188,8 @@
         "itemCount": 30,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -3386,14 +3246,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Cove",
-            "rarity": "Common",
-            "type": "Lehan Core Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishRotobladeItem",
@@ -3412,8 +3265,8 @@
         "itemCount": 10,
         "imageName": "hespazym-alloy-ebcdeeba7a.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
@@ -3422,8 +3275,8 @@
         "itemCount": 5,
         "imageName": "star-amarast-303ac88720.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
@@ -3432,8 +3285,8 @@
         "itemCount": 25,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -3490,14 +3343,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Son), Stranger",
-            "rarity": "Common",
-            "type": "Leptosam Mutagen Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
@@ -3640,14 +3486,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Son), Friend",
-            "rarity": "Common",
-            "type": "Monachod Mutagen Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
@@ -3745,14 +3584,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Doer",
-            "rarity": "Common",
-            "type": "Munit Gyro Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
@@ -3772,8 +3604,8 @@
         "itemCount": 5,
         "imageName": "heart-noctrul-1d8f552486.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
@@ -3850,14 +3682,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Doer",
-            "rarity": "Common",
-            "type": "Nychus Moa Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
@@ -3866,8 +3691,8 @@
         "itemCount": 10,
         "imageName": "goblite-tears-db33ec8568.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
@@ -3897,8 +3722,8 @@
         "itemCount": 20,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -3940,7 +3765,7 @@
         "url": "https://forums.warframe.com/topic/1201526-the-deadlock-protocol-hotfix-2805/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Nychus Moa description having old Precept names.��"
+        "fixes": "Fixed Nychus Moa description having old Precept names. "
       }
     ],
     "procChance": 0,
@@ -3965,14 +3790,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Rapscallion",
-            "rarity": "Common",
-            "type": "Oloro Moa Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
@@ -3981,8 +3799,8 @@
         "itemCount": 10,
         "imageName": "goblite-tears-db33ec8568.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
@@ -4012,8 +3830,8 @@
         "itemCount": 30,
         "imageName": "travocyte-alloy-c984bd7ebd.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -4122,8 +3940,8 @@
         "itemCount": 30,
         "imageName": "axidrol-alloy-1c1aae73ee.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetHeadParaBlueprint",
@@ -4133,14 +3951,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Neutral",
-            "rarity": "Common",
-            "type": "Para Moa Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
@@ -4170,8 +3981,8 @@
         "itemCount": 10,
         "imageName": "smooth-phasmin-a2cd1eb0b0.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -4263,14 +4074,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Cove",
-            "rarity": "Common",
-            "type": "Phazor Gyro Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
@@ -4279,8 +4083,8 @@
         "itemCount": 5,
         "imageName": "goblite-tears-db33ec8568.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
@@ -4368,14 +4172,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Son), Friend",
-            "rarity": "Common",
-            "type": "Phijar Mutagen Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
@@ -4483,14 +4280,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Son), Associate",
-            "rarity": "Common",
-            "type": "Plagen Antigen Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
@@ -4588,14 +4378,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Son), Friend",
-            "rarity": "Common",
-            "type": "Poxi Antigen Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
@@ -4682,8 +4465,8 @@
         "itemCount": 40,
         "imageName": "adramal-alloy-8b552026ef.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartBodyCBlueprint",
@@ -5168,14 +4951,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Son), Friend",
-            "rarity": "Common",
-            "type": "Tethron Antigen Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
@@ -5263,14 +5039,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Neutral",
-            "rarity": "Common",
-            "type": "Tian Bracket Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishAnoscopicSensorItem",
@@ -5289,8 +5058,8 @@
         "itemCount": 20,
         "imageName": "smooth-phasmin-a2cd1eb0b0.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
@@ -5309,8 +5078,8 @@
         "itemCount": 40,
         "imageName": "travocyte-alloy-c984bd7ebd.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -5367,14 +5136,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Neutral",
-            "rarity": "Common",
-            "type": "Trux Gyro Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishAnoscopicSensorItem",
@@ -5393,8 +5155,8 @@
         "itemCount": 5,
         "imageName": "heart-noctrul-1d8f552486.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
@@ -5472,14 +5234,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (Legs), Cove",
-            "rarity": "Common",
-            "type": "Tyli Gyro Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishParralelBiodeItem",
@@ -5509,8 +5264,8 @@
         "itemCount": 5,
         "imageName": "star-amarast-303ac88720.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
@@ -5664,20 +5419,6 @@
     "armor": 300,
     "category": "Pets",
     "description": "Now free of the Vasca virus, these Kavats can transfuse life to extend not only their own health but that of their master.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Ostron (Master Teasonai), Trusted",
-        "rarity": "Common",
-        "type": "Vasca Kavat Echo-Lure"
-      },
-      {
-        "chance": 1,
-        "location": "Ostron (Master Teasonai), Trusted",
-        "rarity": "Common",
-        "type": "Vasca Kavat Pheromone Oota"
-      }
-    ],
     "health": 310,
     "imageName": "vasca-kavat-ea0afbf0ec.png",
     "introduced": {
@@ -5836,20 +5577,6 @@
     "armor": 350,
     "category": "Pets",
     "description": "Khora's loyal Kavat. Her constant companion and protector.",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Red Veil, Exalted",
-        "rarity": "Common",
-        "type": "Venari Bodyguard (Khora)"
-      },
-      {
-        "chance": 1,
-        "location": "Steel Meridian, General",
-        "rarity": "Common",
-        "type": "Venari Bodyguard (Khora)"
-      }
-    ],
     "excludeFromCodex": true,
     "health": 900,
     "imageName": "venari-d3da8c6eb7.png",
@@ -6672,14 +6399,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Son), Acquaintance",
-            "rarity": "Common",
-            "type": "Virox Antigen Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
@@ -6853,8 +6573,8 @@
         "itemCount": 20,
         "imageName": "thaumic-distillate-67fd1aac54.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -6911,14 +6631,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Son), Associate",
-            "rarity": "Common",
-            "type": "Zarim Mutagen Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
@@ -7015,8 +6728,8 @@
         "itemCount": 25,
         "imageName": "axidrol-alloy-1c1aae73ee.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartLegsCBlueprint",
@@ -7045,8 +6758,8 @@
         "itemCount": 25,
         "imageName": "travocyte-alloy-c984bd7ebd.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidMicroidItem",

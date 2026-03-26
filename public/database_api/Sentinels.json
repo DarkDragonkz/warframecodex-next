@@ -5232,8 +5232,8 @@
         "itemCount": 45,
         "imageName": "axidrol-alloy-1c1aae73ee.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/SentinelRecipes/RadarSentinelBlueprint",
@@ -5243,14 +5243,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Solaris United (The Business), Old Mate",
-            "rarity": "Common",
-            "type": "Oxylus Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
@@ -5259,8 +5252,8 @@
         "itemCount": 15,
         "imageName": "goblite-tears-db33ec8568.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishLatheCoogulantItem",

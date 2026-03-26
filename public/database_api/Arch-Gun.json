@@ -514,14 +514,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Odima",
-            "rarity": "Common",
-            "type": "Cortege Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunBarrelItem",
@@ -530,8 +523,8 @@
         "itemCount": 1,
         "imageName": "barrel.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunReceiverItem",
@@ -540,8 +533,8 @@
         "itemCount": 1,
         "imageName": "receiver.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunStockItem",
@@ -550,8 +543,8 @@
         "itemCount": 1,
         "imageName": "stock.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -762,15 +755,8 @@
         "itemCount": 1,
         "imageName": "barrel.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Arbiters of Hexis, Authentic",
-            "rarity": "Common",
-            "type": "Corvas Barrel"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchCannonBlueprint",
@@ -789,15 +775,8 @@
         "itemCount": 1,
         "imageName": "receiver.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Suda, Intriguing",
-            "rarity": "Common",
-            "type": "Corvas Receiver"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchCannonStock",
@@ -806,15 +785,8 @@
         "itemCount": 1,
         "imageName": "stock.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Steel Meridian, Valiant",
-            "rarity": "Common",
-            "type": "Corvas Stock"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -1938,15 +1910,8 @@
         "itemCount": 1,
         "imageName": "barrel.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Arbiters of Hexis, Lawful",
-            "rarity": "Common",
-            "type": "Cyngas Barrel"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchBurstGunBlueprint",
@@ -1965,15 +1930,8 @@
         "itemCount": 1,
         "imageName": "receiver.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Suda, Intelligent",
-            "rarity": "Common",
-            "type": "Cyngas Receiver"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchBurstGunStock",
@@ -1982,15 +1940,8 @@
         "itemCount": 1,
         "imageName": "stock.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "The Perrin Sequence, Executive",
-            "rarity": "Common",
-            "type": "Cyngas Stock"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
@@ -2178,8 +2129,8 @@
         "itemCount": 2,
         "imageName": "decurion-barrel.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchHeavyPistolsReceiver",
@@ -2188,8 +2139,8 @@
         "itemCount": 2,
         "imageName": "decurion-receiver.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -2387,15 +2338,8 @@
         "itemCount": 1,
         "imageName": "barrel.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Suda, Intelligent",
-            "rarity": "Common",
-            "type": "Fluctus Barrel"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchRocketCrossbowBlueprint",
@@ -2424,15 +2368,8 @@
         "itemCount": 1,
         "imageName": "stock.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Steel Meridian, Defender",
-            "rarity": "Common",
-            "type": "Fluctus Stock"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -3040,14 +2977,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Archwing (Quest)",
-            "rarity": "Common",
-            "type": "Imperator Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
@@ -4169,8 +4099,8 @@
         "itemCount": 5,
         "imageName": "radiant-zodian-0b4daa36b7.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEcosynthAnalyzerItem",
@@ -4189,8 +4119,8 @@
         "itemCount": 80,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -5892,14 +5822,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Odima",
-            "rarity": "Common",
-            "type": "Morgha Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherBarrelItem",
@@ -5909,8 +5832,8 @@
         "itemCount": 1,
         "imageName": "barrel.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherReceiverItem",
@@ -5920,8 +5843,8 @@
         "itemCount": 1,
         "imageName": "receiver.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherStockItem",
@@ -5931,8 +5854,8 @@
         "itemCount": 1,
         "imageName": "stock.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -6113,15 +6036,8 @@
         "itemCount": 1,
         "imageName": "barrel.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Arbiters of Hexis, Authentic",
-            "rarity": "Common",
-            "type": "Phaedra Barrel"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchLongRifleBlueprint",
@@ -6158,12 +6074,6 @@
             "location": "Venus/Montes (Exterminate)",
             "rarity": "Rare",
             "type": "Phaedra Receiver"
-          },
-          {
-            "chance": 1,
-            "location": "The Perrin Sequence, Senior Associate",
-            "rarity": "Common",
-            "type": "Phaedra Receiver"
           }
         ],
         "masterable": false
@@ -6175,15 +6085,8 @@
         "itemCount": 1,
         "imageName": "stock.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "New Loka, Bountiful",
-            "rarity": "Common",
-            "type": "Phaedra Stock"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
@@ -6523,15 +6426,8 @@
         "itemCount": 1,
         "imageName": "barrel.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Suda, Intriguing",
-            "rarity": "Common",
-            "type": "Velocitus Barrel"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchRailgunBlueprint",
@@ -6561,15 +6457,8 @@
         "itemCount": 1,
         "imageName": "receiver.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Steel Meridian, Valiant",
-            "rarity": "Common",
-            "type": "Velocitus Receiver"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchRailgunStock",
@@ -6578,15 +6467,8 @@
         "itemCount": 1,
         "imageName": "stock.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Red Veil, Honored",
-            "rarity": "Common",
-            "type": "Velocitus Stock"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,

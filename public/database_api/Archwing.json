@@ -785,14 +785,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Archwing (Quest)",
-            "rarity": "Common",
-            "type": "Odonata Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
@@ -812,15 +805,8 @@
         "itemCount": 1,
         "imageName": "odonata-harness.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Archwing (Quest)",
-            "rarity": "Common",
-            "type": "Odonata Harness Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingSystemsComponent",
@@ -829,15 +815,8 @@
         "itemCount": 1,
         "imageName": "odonata-systems.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Archwing (Quest)",
-            "rarity": "Common",
-            "type": "Odonata Systems Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingWingsComponent",
@@ -846,15 +825,8 @@
         "itemCount": 1,
         "imageName": "odonata-wings.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Archwing (Quest)",
-            "rarity": "Common",
-            "type": "Odonata Wings Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,

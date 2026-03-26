@@ -29,15 +29,8 @@
         "itemCount": 1,
         "imageName": "agkuza-blade.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "New Loka, Benevolent",
-            "rarity": "Common",
-            "type": "Agkuza Blade"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchHookSwordBlueprint",
@@ -56,15 +49,8 @@
         "itemCount": 1,
         "imageName": "agkuza-guard.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Steel Meridian, Defender",
-            "rarity": "Common",
-            "type": "Agkuza Guard"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchHookSwordHandle",
@@ -73,15 +59,8 @@
         "itemCount": 1,
         "imageName": "agkuza-handle.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Red Veil, Esteemed",
-            "rarity": "Common",
-            "type": "Agkuza Handle"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -210,15 +189,8 @@
         "itemCount": 1,
         "imageName": "centaur-aegis.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Arbiters of Hexis, Lawful",
-            "rarity": "Common",
-            "type": "Centaur Aegis"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchSwordShieldBlade",
@@ -227,15 +199,8 @@
         "itemCount": 1,
         "imageName": "centaur-blade.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "The Perrin Sequence, Executive",
-            "rarity": "Common",
-            "type": "Centaur Blade"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchSwordShieldBlueprint",
@@ -254,15 +219,8 @@
         "itemCount": 1,
         "imageName": "centaur-handle.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "New Loka, Benevolent",
-            "rarity": "Common",
-            "type": "Centaur Handle"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -399,15 +357,8 @@
         "itemCount": 1,
         "imageName": "kaszas-blade.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Red Veil, Honored",
-            "rarity": "Common",
-            "type": "Kaszas Blade"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchScytheBlueprint",
@@ -426,15 +377,8 @@
         "itemCount": 1,
         "imageName": "kaszas-handle.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Steel Meridian, Valiant",
-            "rarity": "Common",
-            "type": "Kaszas Handle"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
@@ -704,14 +648,6 @@
         },
         "imageName": "furax-32b27ce63d.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Conclave, Typhoon",
-            "rarity": "Common",
-            "type": "Furax Conclave Skin"
-          }
-        ],
         "wikiAvailable": true,
         "attacks": [
           {
@@ -780,7 +716,8 @@
           "date": "2012-10-25"
         },
         "releaseDate": "2012-10-25",
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
@@ -929,15 +866,8 @@
         "itemCount": 2,
         "imageName": "onorix-blade.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "New Loka, Bountiful",
-            "rarity": "Common",
-            "type": "Onorix Blade"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchAxeBlueprint",
@@ -956,15 +886,8 @@
         "itemCount": 1,
         "imageName": "onorix-handle.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "The Perrin Sequence, Senior Associate",
-            "rarity": "Common",
-            "type": "Onorix Handle"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
@@ -1290,15 +1213,8 @@
         "itemCount": 1,
         "imageName": "rathbone-handle.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Red Veil, Honored",
-            "rarity": "Common",
-            "type": "Rathbone Handle"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchHammerHead",
@@ -1307,15 +1223,8 @@
         "itemCount": 1,
         "imageName": "rathbone-head.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "New Loka, Bountiful",
-            "rarity": "Common",
-            "type": "Rathbone Head"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -1469,14 +1378,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Archwing (Quest)",
-            "rarity": "Common",
-            "type": "Veritux Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",

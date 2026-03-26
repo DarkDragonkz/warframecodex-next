@@ -3257,14 +3257,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Jordas Precept",
-            "rarity": "Common",
-            "type": "Atlas Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BrawlerChassisComponent",
@@ -8323,14 +8316,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Vox Solaris, Agent",
-            "rarity": "Common",
-            "type": "Baruuk Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PacifistChassisComponent",
@@ -8339,15 +8325,8 @@
         "itemCount": 1,
         "imageName": "chassis.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Vox Solaris, Hand",
-            "rarity": "Common",
-            "type": "Baruuk Chassis Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PacifistHelmetComponent",
@@ -8356,15 +8335,8 @@
         "itemCount": 1,
         "imageName": "neuroptics.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Vox Solaris, Hand",
-            "rarity": "Common",
-            "type": "Baruuk Neuroptics Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -8384,15 +8356,8 @@
         "itemCount": 1,
         "imageName": "systems.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Vox Solaris, Hand",
-            "rarity": "Common",
-            "type": "Baruuk Systems Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "conclave": false,
@@ -10039,14 +10004,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "NecraLoid (Loid), Clearance Odima",
-            "rarity": "Common",
-            "type": "Bonewidow Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartSystemsItem",
@@ -10055,8 +10013,8 @@
         "itemCount": 1,
         "imageName": "capsule.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartChassisItem",
@@ -10065,8 +10023,8 @@
         "itemCount": 1,
         "imageName": "casing.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartEngineItem",
@@ -10075,8 +10033,8 @@
         "itemCount": 1,
         "imageName": "engine.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartWeaponPodItem",
@@ -10085,8 +10043,8 @@
         "itemCount": 1,
         "imageName": "weapon-pod.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -11149,14 +11107,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The New Strange",
-            "rarity": "Common",
-            "type": "Chroma Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaChassisComponent",
@@ -11165,15 +11116,8 @@
         "itemCount": 1,
         "imageName": "chassis.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Neptune Junction",
-            "rarity": "Common",
-            "type": "Chroma Chassis Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaHelmetComponent",
@@ -11182,15 +11126,8 @@
         "itemCount": 1,
         "imageName": "neuroptics.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Uranus Junction",
-            "rarity": "Common",
-            "type": "Chroma Neuroptics Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaSystemsComponent",
@@ -11199,15 +11136,8 @@
         "itemCount": 1,
         "imageName": "systems.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Pluto Junction",
-            "rarity": "Common",
-            "type": "Chroma Systems Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VOLTHelmetComponent",
@@ -12330,7 +12260,7 @@
         "url": "https://forums.warframe.com/topic/427542-hotfix-1613/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Chroma’s Effigy being hostile to players if spawned while Chroma is under the effects of the Radiation proc."
+        "fixes": "Fixed Chroma���s Effigy being hostile to players if spawned while Chroma is under the effects of the Radiation proc."
       },
       {
         "name": "Update 16.1: Volt Prime",
@@ -14130,7 +14060,7 @@
         "date": "2015-07-31T15:09:25Z",
         "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
         "additions": "",
-        "changes": "Chroma's green energy perk now gives a buff to holster and reload speed instead of affecting Stamina.\nChroma’s Vex Armor duration increased in PvP.",
+        "changes": "Chroma's green energy perk now gives a buff to holster and reload speed instead of affecting Stamina.\nChroma���s Vex Armor duration increased in PvP.",
         "fixes": ""
       },
       {
@@ -15108,7 +15038,7 @@
         "date": "2020-11-19T23:39:27Z",
         "url": "https://forums.warframe.com/topic/1236257-update-295-deimos-arcana/",
         "additions": "",
-        "changes": "In Round 1, we made the distinction between Grasp of Lohk’s ‘Grab Range’ and ‘Target Range’. We then increased its ‘Grab Range’ and left ‘Target Range’ untouched due to “firing range experiments being a bit too wild for Round 1”. As we’ve continued testing, this has held true. In any instance where we’ve increased it, even slightly, we neared a state that we had already established was undesirable due to its encouragement of an ‘inactive’ way of playing (Ember’s “World on Fire” comes to mind before it was changed to “Inferno”). As a result, ‘Target Range’ will continue to remain untouched for this round.",
+        "changes": "In Round 1, we made the distinction between Grasp of Lohk’s ‘Grab Range’ and ‘Target Range’. We then increased its ‘Grab Range�� and left ‘Target Range’ untouched due to “firing range experiments being a bit too wild for Round 1”. As we’ve continued testing, this has held true. In any instance where we’ve increased it, even slightly, we neared a state that we had already established was undesirable due to its encouragement of an ‘inactive’ way of playing (Ember’s “World on Fire” comes to mind before it was changed to “Inferno”). As a result, ‘Target Range’ will continue to remain untouched for this round.",
         "fixes": ""
       },
       {
@@ -17694,8 +17624,8 @@
         "tradable": false,
         "drops": [
           {
-            "chance": 0.1128,
-            "location": "Uranus/Titania (Assassination)",
+            "chance": 0.2256,
+            "location": "Uranus/Titania (Assassination), Rotation A",
             "rarity": "Uncommon",
             "type": "Equinox Day Aspect Blueprint"
           }
@@ -17721,8 +17651,8 @@
         "tradable": false,
         "drops": [
           {
-            "chance": 0.1128,
-            "location": "Uranus/Titania (Assassination)",
+            "chance": 0.2256,
+            "location": "Uranus/Titania (Assassination), Rotation B",
             "rarity": "Uncommon",
             "type": "Equinox Night Aspect Blueprint"
           }
@@ -26361,14 +26291,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Saya's Vigil",
-            "rarity": "Common",
-            "type": "Gara Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GlassChassisComponent",
@@ -28647,14 +28570,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Vox Solaris (Quest)",
-            "rarity": "Common",
-            "type": "Garuda Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GarudaChassisComponent",
@@ -31279,6 +31195,13 @@
           },
           {
             "chance": 0.11,
+            "location": "Neo G10 Relic",
+            "rarity": "Uncommon",
+            "type": "Gauss Prime Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.11,
             "location": "Neo M5 Relic",
             "rarity": "Uncommon",
             "type": "Gauss Prime Blueprint",
@@ -31311,6 +31234,13 @@
             "rarity": "Uncommon",
             "type": "Gauss Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionYareliPrimeBBronze"
+          },
+          {
+            "chance": 0.13,
+            "location": "Neo G10 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Gauss Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.13,
@@ -31370,6 +31300,13 @@
           },
           {
             "chance": 0.17,
+            "location": "Neo G10 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Gauss Prime Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.17,
             "location": "Neo M5 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Gauss Prime Blueprint",
@@ -31416,6 +31353,13 @@
             "rarity": "Uncommon",
             "type": "Gauss Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionYareliPrimeBBronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo G10 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Gauss Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -31507,6 +31451,13 @@
           },
           {
             "chance": 0.1667,
+            "location": "Meso A11 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Gauss Prime Chassis Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.1667,
             "location": "Meso P15 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Gauss Prime Chassis Blueprint",
@@ -31553,6 +31504,13 @@
             "rarity": "Uncommon",
             "type": "Gauss Prime Chassis Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeDBronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Meso A11 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Gauss Prime Chassis Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -31605,6 +31563,13 @@
           },
           {
             "chance": 0.2333,
+            "location": "Meso A11 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Gauss Prime Chassis Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2333,
             "location": "Meso P15 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Gauss Prime Chassis Blueprint",
@@ -31651,6 +31616,13 @@
             "rarity": "Uncommon",
             "type": "Gauss Prime Chassis Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeDBronze"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Meso A11 Relic",
+            "rarity": "Uncommon",
+            "type": "Gauss Prime Chassis Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.2533,
@@ -31737,6 +31709,13 @@
           },
           {
             "chance": 0.11,
+            "location": "Meso Z6 Relic",
+            "rarity": "Uncommon",
+            "type": "Gauss Prime Neuroptics Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.11,
             "location": "Neo E4 Relic",
             "rarity": "Uncommon",
             "type": "Gauss Prime Neuroptics Blueprint",
@@ -31776,6 +31755,13 @@
             "rarity": "Uncommon",
             "type": "Gauss Prime Neuroptics Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeCBronze"
+          },
+          {
+            "chance": 0.13,
+            "location": "Meso Z6 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Gauss Prime Neuroptics Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.13,
@@ -31821,6 +31807,13 @@
           },
           {
             "chance": 0.17,
+            "location": "Meso Z6 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Gauss Prime Neuroptics Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.17,
             "location": "Neo E4 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Gauss Prime Neuroptics Blueprint",
@@ -31863,6 +31856,13 @@
           },
           {
             "chance": 0.2,
+            "location": "Meso Z6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Gauss Prime Neuroptics Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2,
             "location": "Neo E4 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Gauss Prime Neuroptics Blueprint",
@@ -31892,6 +31892,13 @@
         "imageName": "prime-systems.png",
         "tradable": true,
         "drops": [
+          {
+            "chance": 0.02,
+            "location": "Axi G15 Relic",
+            "rarity": "Rare",
+            "type": "Gauss Prime Systems Blueprint",
+            "uniqueName": ""
+          },
           {
             "chance": 0.02,
             "location": "Lith G12 Relic",
@@ -31933,6 +31940,13 @@
             "rarity": "Rare",
             "type": "Gauss Prime Systems Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionYareliPrimeCBronze"
+          },
+          {
+            "chance": 0.04,
+            "location": "Axi G15 Relic (Exceptional)",
+            "rarity": "Rare",
+            "type": "Gauss Prime Systems Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.04,
@@ -31978,6 +31992,13 @@
           },
           {
             "chance": 0.06,
+            "location": "Axi G15 Relic (Flawless)",
+            "rarity": "Rare",
+            "type": "Gauss Prime Systems Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.06,
             "location": "Lith G12 Relic (Flawless)",
             "rarity": "Rare",
             "type": "Gauss Prime Systems Blueprint",
@@ -32017,6 +32038,13 @@
             "rarity": "Rare",
             "type": "Gauss Prime Systems Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionYareliPrimeCBronze"
+          },
+          {
+            "chance": 0.1,
+            "location": "Axi G15 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Gauss Prime Systems Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.1,
@@ -32572,6 +32600,13 @@
           },
           {
             "chance": 0.02,
+            "location": "Neo G10 Relic",
+            "rarity": "Rare",
+            "type": "Grendel Prime Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.02,
             "location": "Neo G7 Relic",
             "rarity": "Rare",
             "type": "Grendel Prime Blueprint",
@@ -32597,6 +32632,13 @@
             "rarity": "Rare",
             "type": "Grendel Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze"
+          },
+          {
+            "chance": 0.04,
+            "location": "Neo G10 Relic (Exceptional)",
+            "rarity": "Rare",
+            "type": "Grendel Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.04,
@@ -32628,6 +32670,13 @@
           },
           {
             "chance": 0.06,
+            "location": "Neo G10 Relic (Flawless)",
+            "rarity": "Rare",
+            "type": "Grendel Prime Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.06,
             "location": "Neo G7 Relic (Flawless)",
             "rarity": "Rare",
             "type": "Grendel Prime Blueprint",
@@ -32656,6 +32705,13 @@
           },
           {
             "chance": 0.1,
+            "location": "Neo G10 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Grendel Prime Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.1,
             "location": "Neo G7 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Grendel Prime Blueprint",
@@ -32672,6 +32728,13 @@
         "imageName": "prime-chassis.png",
         "tradable": true,
         "drops": [
+          {
+            "chance": 0.11,
+            "location": "Lith A11 Relic",
+            "rarity": "Uncommon",
+            "type": "Grendel Prime Chassis Blueprint",
+            "uniqueName": ""
+          },
           {
             "chance": 0.11,
             "location": "Lith C12 Relic",
@@ -32699,6 +32762,13 @@
             "rarity": "Uncommon",
             "type": "Grendel Prime Chassis Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGrendelPrimeBBronze"
+          },
+          {
+            "chance": 0.13,
+            "location": "Lith A11 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Grendel Prime Chassis Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.13,
@@ -32730,6 +32800,13 @@
           },
           {
             "chance": 0.17,
+            "location": "Lith A11 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Grendel Prime Chassis Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.17,
             "location": "Lith C12 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Grendel Prime Chassis Blueprint",
@@ -32755,6 +32832,13 @@
             "rarity": "Uncommon",
             "type": "Grendel Prime Chassis Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGrendelPrimeBBronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Lith A11 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Grendel Prime Chassis Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -32799,6 +32883,13 @@
         "drops": [
           {
             "chance": 0.1667,
+            "location": "Axi G15 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Grendel Prime Neuroptics Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.1667,
             "location": "Axi M6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Grendel Prime Neuroptics Blueprint",
@@ -32838,6 +32929,13 @@
             "rarity": "Uncommon",
             "type": "Grendel Prime Neuroptics Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeBBronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Axi G15 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Grendel Prime Neuroptics Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -32883,6 +32981,13 @@
           },
           {
             "chance": 0.2333,
+            "location": "Axi G15 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Grendel Prime Neuroptics Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2333,
             "location": "Axi M6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Grendel Prime Neuroptics Blueprint",
@@ -32922,6 +33027,13 @@
             "rarity": "Uncommon",
             "type": "Grendel Prime Neuroptics Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeBBronze"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Axi G15 Relic",
+            "rarity": "Uncommon",
+            "type": "Grendel Prime Neuroptics Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.2533,
@@ -33044,6 +33156,34 @@
             "rarity": "Uncommon",
             "type": "Grendel Prime Systems Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeCBronze"
+          },
+          {
+            "chance": 0.11,
+            "location": "Neo M6 Relic",
+            "rarity": "Uncommon",
+            "type": "Grendel Prime Systems Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.13,
+            "location": "Neo M6 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Grendel Prime Systems Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.17,
+            "location": "Neo M6 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Grendel Prime Systems Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo M6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Grendel Prime Systems Blueprint",
+            "uniqueName": ""
           }
         ],
         "masterable": false,
@@ -33706,14 +33846,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Chains of Harrow",
-            "rarity": "Common",
-            "type": "Harrow Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PriestChassisComponent",
@@ -36229,20 +36362,6 @@
     ],
     "armor": 0,
     "category": "Warframes",
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Associate",
-        "rarity": "Common",
-        "type": "Helminth Segment Blueprint"
-      },
-      {
-        "chance": 1,
-        "location": "Entrati (Son), Family",
-        "rarity": "Common",
-        "type": "Helminth Invigoration Segment Blueprint"
-      }
-    ],
     "health": 0,
     "isPrime": false,
     "masterable": false,
@@ -36297,14 +36416,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Vox Solaris, Agent",
-            "rarity": "Common",
-            "type": "Hildryn Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/IronframeChassisComponent",
@@ -40300,14 +40412,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Sands of Inaros",
-            "rarity": "Common",
-            "type": "Inaros Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MummyChassisComponent",
@@ -40316,15 +40421,8 @@
         "itemCount": 1,
         "imageName": "chassis.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Sands of Inaros",
-            "rarity": "Common",
-            "type": "Inaros Chassis Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MummyHelmetComponent",
@@ -40333,15 +40431,8 @@
         "itemCount": 1,
         "imageName": "neuroptics.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Sands of Inaros",
-            "rarity": "Common",
-            "type": "Inaros Neuroptics Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -40361,15 +40452,8 @@
         "itemCount": 1,
         "imageName": "systems.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Sands of Inaros",
-            "rarity": "Common",
-            "type": "Inaros Systems Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "conclave": true,
@@ -42862,56 +42946,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 0.0752,
-            "location": "Eris/Cyath (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Blueprint"
-          },
-          {
-            "chance": 0.0752,
-            "location": "Eris/Gnathos (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Blueprint"
-          },
-          {
-            "chance": 0.0752,
-            "location": "Neptune/Nereid (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Blueprint"
-          },
-          {
-            "chance": 0.0752,
-            "location": "Pluto/Oceanum (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Blueprint"
-          },
-          {
-            "chance": 0.0752,
-            "location": "Sedna/Kelpie (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Blueprint"
-          },
-          {
-            "chance": 0.0752,
-            "location": "Sedna/Tikoloshe (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Blueprint"
-          },
-          {
-            "chance": 0.0752,
-            "location": "Uranus/Rosalind (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Blueprint"
-          },
-          {
-            "chance": 0.12,
-            "location": "Veil/Sabmir Cloud (Skirmish), Rotation C",
-            "rarity": "Uncommon",
-            "type": "Ivara Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RangerChassisComponent",
@@ -42922,45 +42957,39 @@
         "tradable": false,
         "drops": [
           {
-            "chance": 0.0564,
+            "chance": 0.2256,
             "location": "Ceres/Bode (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Chassis Blueprint"
-          },
-          {
-            "chance": 0.0564,
-            "location": "Europa/Valac (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Chassis Blueprint"
-          },
-          {
-            "chance": 0.0564,
-            "location": "Jupiter/Amalthea (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Chassis Blueprint"
-          },
-          {
-            "chance": 0.0564,
-            "location": "Saturn/Aegaeon (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Chassis Blueprint"
-          },
-          {
-            "chance": 0.0564,
-            "location": "Saturn/Dione (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Chassis Blueprint"
-          },
-          {
-            "chance": 0.0737,
-            "location": "Lua/Pavlov (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Chassis Blueprint"
-          },
-          {
-            "chance": 0.12,
-            "location": "Neptune/Brom Cluster (Skirmish), Rotation C",
             "rarity": "Uncommon",
+            "type": "Ivara Chassis Blueprint"
+          },
+          {
+            "chance": 0.2256,
+            "location": "Europa/Valac (Spy), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Ivara Chassis Blueprint"
+          },
+          {
+            "chance": 0.2256,
+            "location": "Jupiter/Amalthea (Spy), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Ivara Chassis Blueprint"
+          },
+          {
+            "chance": 0.2256,
+            "location": "Saturn/Aegaeon (Spy), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Ivara Chassis Blueprint"
+          },
+          {
+            "chance": 0.2256,
+            "location": "Saturn/Dione (Spy), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Ivara Chassis Blueprint"
+          },
+          {
+            "chance": 0.36,
+            "location": "Neptune/Brom Cluster (Skirmish), Rotation C",
+            "rarity": "Common",
             "type": "Ivara Chassis Blueprint"
           }
         ],
@@ -42975,51 +43004,51 @@
         "tradable": false,
         "drops": [
           {
-            "chance": 0.0752,
+            "chance": 0.2256,
             "location": "Eris/Cyath (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Neuroptics Blueprint"
-          },
-          {
-            "chance": 0.0752,
-            "location": "Eris/Gnathos (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Neuroptics Blueprint"
-          },
-          {
-            "chance": 0.0752,
-            "location": "Neptune/Nereid (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Neuroptics Blueprint"
-          },
-          {
-            "chance": 0.0752,
-            "location": "Pluto/Oceanum (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Neuroptics Blueprint"
-          },
-          {
-            "chance": 0.0752,
-            "location": "Sedna/Kelpie (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Neuroptics Blueprint"
-          },
-          {
-            "chance": 0.0752,
-            "location": "Sedna/Tikoloshe (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Neuroptics Blueprint"
-          },
-          {
-            "chance": 0.0752,
-            "location": "Uranus/Rosalind (Spy), Rotation C",
-            "rarity": "Rare",
-            "type": "Ivara Neuroptics Blueprint"
-          },
-          {
-            "chance": 0.12,
-            "location": "Pluto/Peregrine Axis (Skirmish), Rotation C",
             "rarity": "Uncommon",
+            "type": "Ivara Neuroptics Blueprint"
+          },
+          {
+            "chance": 0.2256,
+            "location": "Eris/Gnathos (Spy), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Ivara Neuroptics Blueprint"
+          },
+          {
+            "chance": 0.2256,
+            "location": "Neptune/Nereid (Spy), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Ivara Neuroptics Blueprint"
+          },
+          {
+            "chance": 0.2256,
+            "location": "Pluto/Oceanum (Spy), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Ivara Neuroptics Blueprint"
+          },
+          {
+            "chance": 0.2256,
+            "location": "Sedna/Kelpie (Spy), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Ivara Neuroptics Blueprint"
+          },
+          {
+            "chance": 0.2256,
+            "location": "Sedna/Tikoloshe (Spy), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Ivara Neuroptics Blueprint"
+          },
+          {
+            "chance": 0.2256,
+            "location": "Uranus/Rosalind (Spy), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Ivara Neuroptics Blueprint"
+          },
+          {
+            "chance": 0.36,
+            "location": "Pluto/Peregrine Axis (Skirmish), Rotation C",
+            "rarity": "Common",
             "type": "Ivara Neuroptics Blueprint"
           }
         ],
@@ -43045,57 +43074,57 @@
         "tradable": false,
         "drops": [
           {
-            "chance": 0.1,
+            "chance": 0.2256,
             "location": "Ceres/Hapke (Spy), Rotation C",
             "rarity": "Uncommon",
             "type": "Ivara Systems Blueprint"
           },
           {
-            "chance": 0.1,
+            "chance": 0.2256,
             "location": "Earth/Cambria (Spy), Rotation C",
             "rarity": "Uncommon",
             "type": "Ivara Systems Blueprint"
           },
           {
-            "chance": 0.1,
+            "chance": 0.2256,
             "location": "Mars/Arval (Spy), Rotation C",
             "rarity": "Uncommon",
             "type": "Ivara Systems Blueprint"
           },
           {
-            "chance": 0.1,
+            "chance": 0.2256,
             "location": "Mercury/Suisei (Spy), Rotation C",
             "rarity": "Uncommon",
             "type": "Ivara Systems Blueprint"
           },
           {
-            "chance": 0.1,
+            "chance": 0.2256,
             "location": "Phobos/Grildrig (Spy), Rotation C",
             "rarity": "Uncommon",
             "type": "Ivara Systems Blueprint"
           },
           {
-            "chance": 0.1,
+            "chance": 0.2256,
             "location": "Phobos/Shklovsky (Spy), Rotation C",
             "rarity": "Uncommon",
             "type": "Ivara Systems Blueprint"
           },
           {
-            "chance": 0.1,
+            "chance": 0.2256,
             "location": "Venus/Unda (Spy), Rotation C",
             "rarity": "Uncommon",
             "type": "Ivara Systems Blueprint"
           },
           {
-            "chance": 0.1,
+            "chance": 0.2256,
             "location": "Venus/Vesper (Spy), Rotation C",
             "rarity": "Uncommon",
             "type": "Ivara Systems Blueprint"
           },
           {
-            "chance": 0.12,
+            "chance": 0.36,
             "location": "Venus/Orvin-Haarc (Skirmish), Rotation C",
-            "rarity": "Uncommon",
+            "rarity": "Common",
             "type": "Ivara Systems Blueprint"
           }
         ],
@@ -46225,14 +46254,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 0.1128,
-            "location": "Sanctuary Onslaught, Rotation C",
-            "rarity": "Uncommon",
-            "type": "Khora Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/KhoraChassisComponent",
@@ -46243,8 +46265,20 @@
         "tradable": false,
         "drops": [
           {
-            "chance": 0.0833,
+            "chance": 0.0714,
             "location": "Sanctuary Onslaught, Rotation A",
+            "rarity": "Rare",
+            "type": "Khora Chassis Blueprint"
+          },
+          {
+            "chance": 0.0714,
+            "location": "Sanctuary Onslaught, Rotation B",
+            "rarity": "Rare",
+            "type": "Khora Chassis Blueprint"
+          },
+          {
+            "chance": 0.0909,
+            "location": "Sanctuary Onslaught, Rotation C",
             "rarity": "Rare",
             "type": "Khora Chassis Blueprint"
           }
@@ -46260,8 +46294,20 @@
         "tradable": false,
         "drops": [
           {
-            "chance": 0.0833,
+            "chance": 0.0714,
+            "location": "Sanctuary Onslaught, Rotation A",
+            "rarity": "Rare",
+            "type": "Khora Neuroptics Blueprint"
+          },
+          {
+            "chance": 0.0714,
             "location": "Sanctuary Onslaught, Rotation B",
+            "rarity": "Rare",
+            "type": "Khora Neuroptics Blueprint"
+          },
+          {
+            "chance": 0.0909,
+            "location": "Sanctuary Onslaught, Rotation C",
             "rarity": "Rare",
             "type": "Khora Neuroptics Blueprint"
           }
@@ -46288,9 +46334,21 @@
         "tradable": false,
         "drops": [
           {
-            "chance": 0.1128,
+            "chance": 0.0714,
+            "location": "Sanctuary Onslaught, Rotation A",
+            "rarity": "Rare",
+            "type": "Khora Systems Blueprint"
+          },
+          {
+            "chance": 0.0714,
+            "location": "Sanctuary Onslaught, Rotation B",
+            "rarity": "Rare",
+            "type": "Khora Systems Blueprint"
+          },
+          {
+            "chance": 0.0909,
             "location": "Sanctuary Onslaught, Rotation C",
-            "rarity": "Uncommon",
+            "rarity": "Rare",
             "type": "Khora Systems Blueprint"
           }
         ],
@@ -48565,12 +48623,6 @@
             "location": "Operation: Orphix Venom, Rotation A",
             "rarity": "Uncommon",
             "type": "Lavos Blueprint"
-          },
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Acquaintance",
-            "rarity": "Common",
-            "type": "Lavos Blueprint"
           }
         ]
       },
@@ -48599,12 +48651,6 @@
             "location": "Operation: Orphix Venom, Rotation A",
             "rarity": "Uncommon",
             "type": "Lavos Chassis Blueprint"
-          },
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Associate",
-            "rarity": "Common",
-            "type": "Lavos Chassis"
           }
         ],
         "masterable": false
@@ -48634,12 +48680,6 @@
             "location": "Operation: Orphix Venom, Rotation A",
             "rarity": "Uncommon",
             "type": "Lavos Neuroptics Blueprint"
-          },
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Associate",
-            "rarity": "Common",
-            "type": "Lavos Neuroptics"
           }
         ],
         "masterable": false
@@ -48680,12 +48720,6 @@
             "location": "Operation: Orphix Venom, Rotation A",
             "rarity": "Uncommon",
             "type": "Lavos Systems Blueprint"
-          },
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Associate",
-            "rarity": "Common",
-            "type": "Lavos Systems"
           }
         ],
         "masterable": false
@@ -49422,15 +49456,8 @@
         "itemCount": 1,
         "imageName": "chassis.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Limbo Theorem",
-            "rarity": "Common",
-            "type": "Limbo Chassis Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MagicianHelmetComponent",
@@ -49439,15 +49466,8 @@
         "itemCount": 1,
         "imageName": "neuroptics.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Limbo Theorem",
-            "rarity": "Common",
-            "type": "Limbo Neuroptics Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -49467,15 +49487,8 @@
         "itemCount": 1,
         "imageName": "systems.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Limbo Theorem",
-            "rarity": "Common",
-            "type": "Limbo Systems Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "conclave": true,
@@ -50291,7 +50304,7 @@
         "date": "2016-07-08T14:12:48Z",
         "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
         "additions": "",
-        "changes": "Reduced the damage of Limbo’s Cataclysm in Conclave.",
+        "changes": "Reduced the damage of Limbo���s Cataclysm in Conclave.",
         "fixes": "Europa Junction: The New Strange, Limbo Theorem Blueprint"
       },
       {
@@ -52024,7 +52037,7 @@
         "url": "https://forums.warframe.com/topic/836927-hydroid-prime-update-2160/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Limbo remaining in the Rift when switching Warframe���s in the Simulacrum Arsenal."
+        "fixes": "Fixed Limbo remaining in the Rift when switching Warframe’s in the Simulacrum Arsenal."
       },
       {
         "name": "Chains of Harrow: Update 21.5.0",
@@ -62885,15 +62898,8 @@
         "itemCount": 1,
         "imageName": "chassis.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Hidden Messages",
-            "rarity": "Common",
-            "type": "Mirage Chassis Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HarlequinHelmetComponent",
@@ -62902,15 +62908,8 @@
         "itemCount": 1,
         "imageName": "neuroptics.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Hidden Messages",
-            "rarity": "Common",
-            "type": "Mirage Neuroptics Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HarlequinSystemsComponent",
@@ -62919,15 +62918,8 @@
         "itemCount": 1,
         "imageName": "systems.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Hidden Messages",
-            "rarity": "Common",
-            "type": "Mirage Systems Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "conclave": true,
@@ -71963,14 +71955,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Glast Gambit",
-            "rarity": "Common",
-            "type": "Nidus Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NidusChassisComponent",
@@ -71980,6 +71965,18 @@
         "imageName": "chassis.png",
         "tradable": false,
         "drops": [
+          {
+            "chance": 0.0769,
+            "location": "Eris/Oestrus (Infested Salvage), Rotation A",
+            "rarity": "Rare",
+            "type": "Nidus Chassis Blueprint"
+          },
+          {
+            "chance": 0.0769,
+            "location": "Eris/Oestrus (Infested Salvage), Rotation B",
+            "rarity": "Rare",
+            "type": "Nidus Chassis Blueprint"
+          },
           {
             "chance": 0.1429,
             "location": "Eris/Oestrus (Infested Salvage), Rotation C",
@@ -72009,6 +72006,18 @@
         "tradable": false,
         "drops": [
           {
+            "chance": 0.0769,
+            "location": "Eris/Oestrus (Infested Salvage), Rotation A",
+            "rarity": "Rare",
+            "type": "Nidus Neuroptics Blueprint"
+          },
+          {
+            "chance": 0.0769,
+            "location": "Eris/Oestrus (Infested Salvage), Rotation B",
+            "rarity": "Rare",
+            "type": "Nidus Neuroptics Blueprint"
+          },
+          {
             "chance": 0.1429,
             "location": "Eris/Oestrus (Infested Salvage), Rotation C",
             "rarity": "Uncommon",
@@ -72025,6 +72034,18 @@
         "imageName": "systems.png",
         "tradable": false,
         "drops": [
+          {
+            "chance": 0.0769,
+            "location": "Eris/Oestrus (Infested Salvage), Rotation A",
+            "rarity": "Rare",
+            "type": "Nidus Systems Blueprint"
+          },
+          {
+            "chance": 0.0769,
+            "location": "Eris/Oestrus (Infested Salvage), Rotation B",
+            "rarity": "Rare",
+            "type": "Nidus Systems Blueprint"
+          },
           {
             "chance": 0.1429,
             "location": "Eris/Oestrus (Infested Salvage), Rotation C",
@@ -83961,14 +83982,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Octavia's Anthem",
-            "rarity": "Common",
-            "type": "Octavia Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OctaviaChassisComponent",
@@ -83994,8 +84008,8 @@
         "itemCount": 1,
         "imageName": "mandachord-7a0319f619.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OctaviaHelmetComponent",
@@ -86793,14 +86807,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Deadlock Protocol",
-            "rarity": "Common",
-            "type": "Protea Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ProteaChassisComponent",
@@ -88319,14 +88326,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Mask of the Revenant",
-            "rarity": "Common",
-            "type": "Revenant Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RevenantChassisComponent",
@@ -96615,14 +96615,7 @@
         "imageName": "blueprint.png",
         "tradable": true,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Call of the Tempestarii",
-            "rarity": "Common",
-            "type": "Sevagoth Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WraithChassisComponent",
@@ -97758,14 +97751,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Kahl's Garrison (Chipper), Home",
-            "rarity": "Common",
-            "type": "Styanax Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/StyanaxChassisComponent",
@@ -97774,15 +97760,8 @@
         "itemCount": 1,
         "imageName": "chassis.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Kahl's Garrison (Chipper), Settlement",
-            "rarity": "Common",
-            "type": "Styanax Chassis Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/StyanaxHelmetComponent",
@@ -97791,15 +97770,8 @@
         "itemCount": 1,
         "imageName": "neuroptics.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Kahl's Garrison (Chipper), Fort",
-            "rarity": "Common",
-            "type": "Styanax Neuroptics Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -97819,15 +97791,8 @@
         "itemCount": 1,
         "imageName": "systems.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Kahl's Garrison (Chipper), Encampment",
-            "rarity": "Common",
-            "type": "Styanax Systems Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "conclave": false,
@@ -98217,14 +98182,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Silver Grove",
-            "rarity": "Common",
-            "type": "Titania Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FairyChassisComponent",
@@ -98233,15 +98191,8 @@
         "itemCount": 1,
         "imageName": "chassis.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Silver Grove",
-            "rarity": "Common",
-            "type": "Titania Chassis Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FairyHelmetComponent",
@@ -98250,15 +98201,8 @@
         "itemCount": 1,
         "imageName": "neuroptics.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Silver Grove",
-            "rarity": "Common",
-            "type": "Titania Neuroptics Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -98278,15 +98222,8 @@
         "itemCount": 1,
         "imageName": "systems.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Silver Grove",
-            "rarity": "Common",
-            "type": "Titania Systems Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "conclave": true,
@@ -109827,8 +109764,8 @@
         "itemCount": 1,
         "imageName": "capsule.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartChassisItem",
@@ -109837,8 +109774,8 @@
         "itemCount": 1,
         "imageName": "casing.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartEngineItem",
@@ -109847,8 +109784,8 @@
         "itemCount": 1,
         "imageName": "engine.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartWeaponPodItem",
@@ -109857,8 +109794,8 @@
         "itemCount": 1,
         "imageName": "weapon-pod.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -112558,7 +112495,7 @@
         "url": "https://forums.warframe.com/topic/688644-the-silver-grove/",
         "additions": "",
         "changes": "Decreased duration of Volt’s Shield in Conclave\nRemoved duration reduction and reduced Energy drain when picking up Volt’s Shield in Conclave",
-        "fixes": "Fixed Volt’s Discharge not applying diminishing returns to duration. "
+        "fixes": "Fixed Volt���s Discharge not applying diminishing returns to duration. "
       },
       {
         "name": "Specters of the Rail: Hotfix 13",
@@ -117347,7 +117284,7 @@
         "date": "2016-08-19T17:32:55Z",
         "url": "https://forums.warframe.com/topic/688644-the-silver-grove/",
         "additions": "",
-        "changes": "Wukong’s Iron Poke now knocks down targets towards him in Conclave\nAdded melee magnetism to Valkyr���s Berserker and Wukong’s Primal Fury in Conclave",
+        "changes": "Wukong’s Iron Poke now knocks down targets towards him in Conclave\nAdded melee magnetism to Valkyr’s Berserker and Wukong’s Primal Fury in Conclave",
         "fixes": "Fixed the Wukong Dasheng helmet not appearing in Alert cycles.\nFixed being able to pass through certain geometry with Wukong’s Cloud Walker ability. "
       },
       {
@@ -117520,14 +117457,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Heart of Deimos",
-            "rarity": "Common",
-            "type": "Xaku Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BrokenFrameChassisComponent",
@@ -118690,14 +118620,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete The Waverider",
-            "rarity": "Common",
-            "type": "Yareli Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/YareliChassisComponent",

@@ -48,25 +48,25 @@
         "masterable": false,
         "drops": [
           {
-            "chance": 0.0125,
+            "chance": 0.025,
             "location": "Demolisher Boiler",
             "rarity": "Common",
             "type": "Acceltra Blueprint"
           },
           {
-            "chance": 0.0125,
+            "chance": 0.025,
             "location": "Demolisher Charger",
             "rarity": "Common",
             "type": "Acceltra Blueprint"
           },
           {
-            "chance": 0.0125,
+            "chance": 0.025,
             "location": "Demolisher Juggernaut",
             "rarity": "Common",
             "type": "Acceltra Blueprint"
           },
           {
-            "chance": 0.0125,
+            "chance": 0.025,
             "location": "Demolisher Thrasher",
             "rarity": "Common",
             "type": "Acceltra Blueprint"
@@ -357,6 +357,13 @@
         "drops": [
           {
             "chance": 0.02,
+            "location": "Lith A11 Relic",
+            "rarity": "Rare",
+            "type": "Acceltra Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.02,
             "location": "Meso A5 Relic",
             "rarity": "Rare",
             "type": "Acceltra Prime Barrel",
@@ -389,6 +396,13 @@
             "rarity": "Rare",
             "type": "Acceltra Prime Barrel",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionCalibanPrimeABronze"
+          },
+          {
+            "chance": 0.04,
+            "location": "Lith A11 Relic (Exceptional)",
+            "rarity": "Rare",
+            "type": "Acceltra Prime Barrel",
+            "uniqueName": ""
           },
           {
             "chance": 0.04,
@@ -427,6 +441,13 @@
           },
           {
             "chance": 0.06,
+            "location": "Lith A11 Relic (Flawless)",
+            "rarity": "Rare",
+            "type": "Acceltra Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.06,
             "location": "Meso A5 Relic (Flawless)",
             "rarity": "Rare",
             "type": "Acceltra Prime Barrel",
@@ -459,6 +480,13 @@
             "rarity": "Rare",
             "type": "Acceltra Prime Barrel",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionCalibanPrimeABronze"
+          },
+          {
+            "chance": 0.1,
+            "location": "Lith A11 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Acceltra Prime Barrel",
+            "uniqueName": ""
           },
           {
             "chance": 0.1,
@@ -561,6 +589,13 @@
           },
           {
             "chance": 0.1667,
+            "location": "Meso Z6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Acceltra Prime Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.1667,
             "location": "Neo Z11 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Blueprint",
@@ -614,6 +649,13 @@
             "rarity": "Uncommon",
             "type": "Acceltra Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaPrimeDBronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Meso Z6 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Acceltra Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -673,6 +715,13 @@
           },
           {
             "chance": 0.2333,
+            "location": "Meso Z6 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Acceltra Prime Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2333,
             "location": "Neo Z11 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Blueprint",
@@ -726,6 +775,13 @@
             "rarity": "Uncommon",
             "type": "Acceltra Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaPrimeDBronze"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Meso Z6 Relic",
+            "rarity": "Uncommon",
+            "type": "Acceltra Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.2533,
@@ -807,6 +863,13 @@
           },
           {
             "chance": 0.11,
+            "location": "Neo M6 Relic",
+            "rarity": "Uncommon",
+            "type": "Acceltra Prime Receiver",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.11,
             "location": "Neo O2 Relic",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Receiver",
@@ -860,6 +923,13 @@
             "rarity": "Uncommon",
             "type": "Acceltra Prime Receiver",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze"
+          },
+          {
+            "chance": 0.13,
+            "location": "Neo M6 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Acceltra Prime Receiver",
+            "uniqueName": ""
           },
           {
             "chance": 0.13,
@@ -919,6 +989,13 @@
           },
           {
             "chance": 0.17,
+            "location": "Neo M6 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Acceltra Prime Receiver",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.17,
             "location": "Neo O2 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Receiver",
@@ -972,6 +1049,13 @@
             "rarity": "Uncommon",
             "type": "Acceltra Prime Receiver",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo M6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Acceltra Prime Receiver",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -1076,6 +1160,34 @@
             "rarity": "Uncommon",
             "type": "Acceltra Prime Stock",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLavosPrimeABronze"
+          },
+          {
+            "chance": 0.11,
+            "location": "Meso A11 Relic",
+            "rarity": "Uncommon",
+            "type": "Acceltra Prime Stock",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.13,
+            "location": "Meso A11 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Acceltra Prime Stock",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.17,
+            "location": "Meso A11 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Acceltra Prime Stock",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2,
+            "location": "Meso A11 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Acceltra Prime Stock",
+            "uniqueName": ""
           }
         ],
         "masterable": false,
@@ -1522,14 +1634,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Kahl's Garrison (Chipper), Home",
-            "rarity": "Common",
-            "type": "Afentis Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
@@ -2395,7 +2500,7 @@
           },
           {
             "chance": 0.1667,
-            "location": "Veil/Lu-Yan (Skirmish), Rotation C",
+            "location": "Veil Proxima/Lu-Yan (Skirmish), Rotation C",
             "rarity": "Uncommon",
             "type": "Ambassador Blueprint"
           }
@@ -5457,8 +5562,8 @@
         "itemCount": 25,
         "imageName": "heart-noctrul-1d8f552486.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
@@ -14814,8 +14919,20 @@
         "tradable": true,
         "drops": [
           {
-            "chance": 0.0442,
+            "chance": 0.0251,
+            "location": "Elite Sanctuary Onslaught, Rotation A",
+            "rarity": "Rare",
+            "type": "Braton Vandal Barrel"
+          },
+          {
+            "chance": 0.0316,
             "location": "Elite Sanctuary Onslaught, Rotation B",
+            "rarity": "Rare",
+            "type": "Braton Vandal Barrel"
+          },
+          {
+            "chance": 0.0316,
+            "location": "Elite Sanctuary Onslaught, Rotation C",
             "rarity": "Rare",
             "type": "Braton Vandal Barrel"
           }
@@ -14832,7 +14949,19 @@
         "masterable": false,
         "drops": [
           {
-            "chance": 0.0201,
+            "chance": 0.0251,
+            "location": "Elite Sanctuary Onslaught, Rotation A",
+            "rarity": "Rare",
+            "type": "Braton Vandal Blueprint"
+          },
+          {
+            "chance": 0.0316,
+            "location": "Elite Sanctuary Onslaught, Rotation B",
+            "rarity": "Rare",
+            "type": "Braton Vandal Blueprint"
+          },
+          {
+            "chance": 0.0316,
             "location": "Elite Sanctuary Onslaught, Rotation C",
             "rarity": "Rare",
             "type": "Braton Vandal Blueprint"
@@ -14848,8 +14977,20 @@
         "tradable": true,
         "drops": [
           {
-            "chance": 0.0442,
+            "chance": 0.0251,
+            "location": "Elite Sanctuary Onslaught, Rotation A",
+            "rarity": "Rare",
+            "type": "Braton Vandal Receiver"
+          },
+          {
+            "chance": 0.0316,
             "location": "Elite Sanctuary Onslaught, Rotation B",
+            "rarity": "Rare",
+            "type": "Braton Vandal Receiver"
+          },
+          {
+            "chance": 0.0316,
+            "location": "Elite Sanctuary Onslaught, Rotation C",
             "rarity": "Rare",
             "type": "Braton Vandal Receiver"
           }
@@ -14865,7 +15006,19 @@
         "tradable": true,
         "drops": [
           {
-            "chance": 0.0201,
+            "chance": 0.0251,
+            "location": "Elite Sanctuary Onslaught, Rotation A",
+            "rarity": "Rare",
+            "type": "Braton Vandal Stock"
+          },
+          {
+            "chance": 0.0316,
+            "location": "Elite Sanctuary Onslaught, Rotation B",
+            "rarity": "Rare",
+            "type": "Braton Vandal Stock"
+          },
+          {
+            "chance": 0.0316,
             "location": "Elite Sanctuary Onslaught, Rotation C",
             "rarity": "Rare",
             "type": "Braton Vandal Stock"
@@ -20567,37 +20720,37 @@
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Arc Silver (Caches), Rotation B",
+            "location": "Veil Proxima/Arc Silver (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Barrel"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Calabash (Caches), Rotation B",
+            "location": "Veil Proxima/Calabash (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Barrel"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Erato (Caches), Rotation B",
+            "location": "Veil Proxima/Erato (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Barrel"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Lu-Yan (Caches), Rotation B",
+            "location": "Veil Proxima/Lu-Yan (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Barrel"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Numina (Caches), Rotation B",
+            "location": "Veil Proxima/Numina (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Barrel"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Sabmir Cloud (Caches), Rotation B",
+            "location": "Veil Proxima/Sabmir Cloud (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Barrel"
           }
@@ -20651,37 +20804,37 @@
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Arc Silver (Caches), Rotation B",
+            "location": "Veil Proxima/Arc Silver (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Blueprint"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Calabash (Caches), Rotation B",
+            "location": "Veil Proxima/Calabash (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Blueprint"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Erato (Caches), Rotation B",
+            "location": "Veil Proxima/Erato (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Blueprint"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Lu-Yan (Caches), Rotation B",
+            "location": "Veil Proxima/Lu-Yan (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Blueprint"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Numina (Caches), Rotation B",
+            "location": "Veil Proxima/Numina (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Blueprint"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Sabmir Cloud (Caches), Rotation B",
+            "location": "Veil Proxima/Sabmir Cloud (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Blueprint"
           }
@@ -20733,37 +20886,37 @@
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Arc Silver (Caches), Rotation B",
+            "location": "Veil Proxima/Arc Silver (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Receiver"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Calabash (Caches), Rotation B",
+            "location": "Veil Proxima/Calabash (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Receiver"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Erato (Caches), Rotation B",
+            "location": "Veil Proxima/Erato (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Receiver"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Lu-Yan (Caches), Rotation B",
+            "location": "Veil Proxima/Lu-Yan (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Receiver"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Numina (Caches), Rotation B",
+            "location": "Veil Proxima/Numina (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Receiver"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Sabmir Cloud (Caches), Rotation B",
+            "location": "Veil Proxima/Sabmir Cloud (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Receiver"
           }
@@ -20816,37 +20969,37 @@
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Arc Silver (Caches), Rotation B",
+            "location": "Veil Proxima/Arc Silver (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Stock"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Calabash (Caches), Rotation B",
+            "location": "Veil Proxima/Calabash (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Stock"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Erato (Caches), Rotation B",
+            "location": "Veil Proxima/Erato (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Stock"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Lu-Yan (Caches), Rotation B",
+            "location": "Veil Proxima/Lu-Yan (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Stock"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Numina (Caches), Rotation B",
+            "location": "Veil Proxima/Numina (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Stock"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Sabmir Cloud (Caches), Rotation B",
+            "location": "Veil Proxima/Sabmir Cloud (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Stock"
           }
@@ -21039,12 +21192,6 @@
             "location": "Operation: Orphix Venom, Rotation B",
             "rarity": "Uncommon",
             "type": "Cedo Barrel"
-          },
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Family",
-            "rarity": "Common",
-            "type": "Cedo Barrel"
           }
         ],
         "masterable": false
@@ -21074,12 +21221,6 @@
             "chance": 0.1111,
             "location": "Operation: Orphix Venom, Rotation B",
             "rarity": "Uncommon",
-            "type": "Cedo Blueprint"
-          },
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Friend",
-            "rarity": "Common",
             "type": "Cedo Blueprint"
           }
         ]
@@ -21119,12 +21260,6 @@
             "location": "Operation: Orphix Venom, Rotation B",
             "rarity": "Uncommon",
             "type": "Cedo Receiver"
-          },
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Family",
-            "rarity": "Common",
-            "type": "Cedo Receiver"
           }
         ],
         "masterable": false
@@ -21153,12 +21288,6 @@
             "chance": 0.1111,
             "location": "Operation: Orphix Venom, Rotation B",
             "rarity": "Uncommon",
-            "type": "Cedo Stock"
-          },
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Family",
-            "rarity": "Common",
             "type": "Cedo Stock"
           }
         ],
@@ -29181,14 +29310,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "The Holdfasts (Cavalero), Guardian",
-            "rarity": "Common",
-            "type": "Felarx Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA",
@@ -35803,25 +35925,25 @@
         "drops": [
           {
             "chance": 0.087,
-            "location": "Veil/Flexa (Caches), Rotation B",
+            "location": "Veil Proxima/Flexa (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Ignis Wraith Blueprint"
           },
           {
             "chance": 0.087,
-            "location": "Veil/H-2 Cloud (Caches), Rotation B",
+            "location": "Veil Proxima/H-2 Cloud (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Ignis Wraith Blueprint"
           },
           {
             "chance": 0.087,
-            "location": "Veil/Nsu Grid (Caches), Rotation B",
+            "location": "Veil Proxima/Nsu Grid (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Ignis Wraith Blueprint"
           },
           {
             "chance": 0.087,
-            "location": "Veil/R-9 Cloud (Caches), Rotation B",
+            "location": "Veil Proxima/R-9 Cloud (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Ignis Wraith Blueprint"
           }
@@ -44945,14 +45067,6 @@
     ],
     "description": "Hunhow’s gift, carved from the bones of his kin. Shots can be charged and held; release them just before full charge for maximum effect.",
     "disposition": 1,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Simaris, Complete The New War",
-        "rarity": "Common",
-        "type": "Nataruk"
-      }
-    ],
     "fireRate": 0.66666669,
     "imageName": "nataruk-39097570a7.png",
     "introduced": {
@@ -48941,6 +49055,13 @@
           },
           {
             "chance": 0.1667,
+            "location": "Neo G10 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.1667,
             "location": "Neo N15 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Paris Prime Blueprint",
@@ -49148,6 +49269,13 @@
             "rarity": "Uncommon",
             "type": "Paris Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLavosPrimeABronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo G10 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -49361,6 +49489,13 @@
           },
           {
             "chance": 0.2333,
+            "location": "Neo G10 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2333,
             "location": "Neo N15 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Paris Prime Blueprint",
@@ -49571,6 +49706,13 @@
           },
           {
             "chance": 0.2533,
+            "location": "Neo G10 Relic",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2533,
             "location": "Neo N15 Relic",
             "rarity": "Uncommon",
             "type": "Paris Prime Blueprint",
@@ -49614,6 +49756,13 @@
             "rarity": "Uncommon",
             "type": "Paris Prime Grip",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionTitaniaPrimeDBronze"
+          },
+          {
+            "chance": 0.11,
+            "location": "Axi G15 Relic",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Grip",
+            "uniqueName": ""
           },
           {
             "chance": 0.11,
@@ -49764,6 +49913,13 @@
           },
           {
             "chance": 0.13,
+            "location": "Axi G15 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Grip",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.13,
             "location": "Lith A10 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Paris Prime Grip",
@@ -49911,6 +50067,13 @@
           },
           {
             "chance": 0.17,
+            "location": "Axi G15 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Grip",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.17,
             "location": "Lith A10 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Paris Prime Grip",
@@ -50055,6 +50218,13 @@
             "rarity": "Uncommon",
             "type": "Paris Prime Grip",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionTitaniaPrimeDBronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Axi G15 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Grip",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -50264,6 +50434,13 @@
             "rarity": "Uncommon",
             "type": "Paris Prime Lower Limb",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionHarrowPrimeBBronze"
+          },
+          {
+            "chance": 0.1667,
+            "location": "Lith A11 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Lower Limb",
+            "uniqueName": ""
           },
           {
             "chance": 0.1667,
@@ -50498,6 +50675,13 @@
           },
           {
             "chance": 0.2,
+            "location": "Lith A11 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Lower Limb",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2,
             "location": "Lith B2 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Paris Prime Lower Limb",
@@ -50729,6 +50913,13 @@
           },
           {
             "chance": 0.2333,
+            "location": "Lith A11 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Lower Limb",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2333,
             "location": "Lith B2 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Paris Prime Lower Limb",
@@ -50957,6 +51148,13 @@
             "rarity": "Uncommon",
             "type": "Paris Prime Lower Limb",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionHarrowPrimeBBronze"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Lith A11 Relic",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Lower Limb",
+            "uniqueName": ""
           },
           {
             "chance": 0.2533,
@@ -51295,6 +51493,13 @@
           },
           {
             "chance": 0.1667,
+            "location": "Meso Z6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime String",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.1667,
             "location": "Neo A12 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Paris Prime String",
@@ -51537,6 +51742,13 @@
             "rarity": "Uncommon",
             "type": "Paris Prime String",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionJBronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Meso Z6 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime String",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -51785,6 +51997,13 @@
           },
           {
             "chance": 0.2333,
+            "location": "Meso Z6 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime String",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2333,
             "location": "Neo A12 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Paris Prime String",
@@ -52027,6 +52246,13 @@
             "rarity": "Uncommon",
             "type": "Paris Prime String",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionJBronze"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Meso Z6 Relic",
+            "rarity": "Uncommon",
+            "type": "Paris Prime String",
+            "uniqueName": ""
           },
           {
             "chance": 0.2533,
@@ -52414,6 +52640,13 @@
           },
           {
             "chance": 0.1667,
+            "location": "Meso A11 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Upper Limb",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.1667,
             "location": "Meso B4 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Paris Prime Upper Limb",
@@ -52708,6 +52941,13 @@
           },
           {
             "chance": 0.2,
+            "location": "Meso A11 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Upper Limb",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2,
             "location": "Meso B4 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Paris Prime Upper Limb",
@@ -52946,6 +53186,13 @@
           },
           {
             "chance": 0.2333,
+            "location": "Meso A11 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Upper Limb",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2333,
             "location": "Meso B4 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Paris Prime Upper Limb",
@@ -53118,6 +53365,13 @@
             "rarity": "Uncommon",
             "type": "Paris Prime Upper Limb",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionDBronze"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Meso A11 Relic",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Upper Limb",
+            "uniqueName": ""
           },
           {
             "chance": 0.2533,
@@ -53571,37 +53825,37 @@
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Arc Silver (Caches), Rotation B",
+            "location": "Veil Proxima/Arc Silver (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Blueprint"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Calabash (Caches), Rotation B",
+            "location": "Veil Proxima/Calabash (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Blueprint"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Erato (Caches), Rotation B",
+            "location": "Veil Proxima/Erato (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Blueprint"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Lu-Yan (Caches), Rotation B",
+            "location": "Veil Proxima/Lu-Yan (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Blueprint"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Numina (Caches), Rotation B",
+            "location": "Veil Proxima/Numina (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Blueprint"
           },
           {
             "chance": 0.0606,
-            "location": "Veil/Sabmir Cloud (Caches), Rotation B",
+            "location": "Veil Proxima/Sabmir Cloud (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Carmine Penta Blueprint"
           }
@@ -55898,14 +56152,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "The Holdfasts (Cavalero), Watcher",
-            "rarity": "Common",
-            "type": "Phenmor Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB",
@@ -58664,14 +58911,6 @@
     ],
     "description": "A finely tuned instrument of assassination.",
     "disposition": 4,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Red Veil, Exalted",
-        "rarity": "Common",
-        "type": "Rakta Cernos"
-      }
-    ],
     "fireRate": 1,
     "imageName": "rakta-cernos-1f148e5ebd.png",
     "introduced": {
@@ -60626,14 +60865,6 @@
     ],
     "description": "Echo nature's violent beauty with this special Tigris.",
     "disposition": 3,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "New Loka, Flawless",
-        "rarity": "Common",
-        "type": "Sancti Tigris"
-      }
-    ],
     "fireRate": 2,
     "imageName": "sancti-tigris-2b0dd379b8.png",
     "introduced": {
@@ -62158,14 +62389,6 @@
     ],
     "description": "Ruthless and efficient, just like the free-market.",
     "disposition": 4,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Perrin Sequence, Partner",
-        "rarity": "Common",
-        "type": "Secura Penta"
-      }
-    ],
     "fireRate": 2,
     "imageName": "secura-penta-63168ca5a8.png",
     "introduced": {
@@ -62330,14 +62553,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Complete Erra (Quest)",
-            "rarity": "Common",
-            "type": "Shedu Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SheduHeavyWeaponChassis",
@@ -62703,14 +62919,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris",
-            "rarity": "Common",
-            "type": "Simulor Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -63228,14 +63437,6 @@
     ],
     "description": "A silent, pistol-style Amp for the Drifter. Generates its own ammunition from Void energy. A precisely timed reload over-charges the next shot.",
     "disposition": 3,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Simaris, Complete The New War",
-        "rarity": "Common",
-        "type": "Sirocco"
-      }
-    ],
     "fireRate": 3.0000002,
     "imageName": "sirocco-5e978fb468.png",
     "introduced": {
@@ -63392,14 +63593,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Operational Supply, Collaborator",
-            "rarity": "Common",
-            "type": "Snipetron Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
@@ -67877,14 +68071,6 @@
     ],
     "description": "The Strun is a standard shotgun. Reliable, versatile and deadly.",
     "disposition": 5,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Typhoon",
-        "rarity": "Common",
-        "type": "Strun Conclave Skin"
-      }
-    ],
     "fireRate": 2.5000002,
     "imageName": "strun-12937e9e52.png",
     "introduced": {
@@ -71642,14 +71828,6 @@
     ],
     "description": "Cephalon Suda’s custom issue Simulor was built to satisfy her curiosity.",
     "disposition": 4,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Suda, Genius",
-        "rarity": "Common",
-        "type": "Synoid Simulor"
-      }
-    ],
     "fireRate": 3.3333335,
     "imageName": "synoid-simulor-16a8baa8b0.png",
     "introduced": {
@@ -71867,14 +72045,6 @@
     ],
     "description": "Bring down judgement, with this boltor crafted by the Arbiters of Hexis.",
     "disposition": 4,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Arbiters of Hexis, Maxim",
-        "rarity": "Common",
-        "type": "Telos Boltor"
-      }
-    ],
     "fireRate": 9.333334,
     "imageName": "telos-boltor-111b9c4941.png",
     "introduced": {
@@ -74662,12 +74832,6 @@
             "location": "Duviri/Endless: Tier 6 (Normal)",
             "rarity": "Rare",
             "type": "Latron Blueprint"
-          },
-          {
-            "chance": 1,
-            "location": "Conclave, Typhoon",
-            "rarity": "Common",
-            "type": "Latron Conclave Skin"
           }
         ],
         "wikiAvailable": true,
@@ -78054,15 +78218,8 @@
         "itemCount": 1,
         "imageName": "barrel.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Associate",
-            "rarity": "Common",
-            "type": "Trumna Barrel Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/ThanotechRifleBlueprint",
@@ -78072,14 +78229,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Associate",
-            "rarity": "Common",
-            "type": "Trumna Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ThanotechRifleReceiver",
@@ -78088,15 +78238,8 @@
         "itemCount": 1,
         "imageName": "receiver.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Associate",
-            "rarity": "Common",
-            "type": "Trumna Receiver Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Deimos/SeriglassShard",
@@ -78105,8 +78248,8 @@
         "itemCount": 1,
         "imageName": "seriglass-shard-3317de0afe.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ThanotechRifleStock",
@@ -78115,15 +78258,8 @@
         "itemCount": 1,
         "imageName": "stock.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Associate",
-            "rarity": "Common",
-            "type": "Trumna Stock Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -79421,14 +79557,6 @@
     ],
     "description": "Forged in the fires of rebel struggle, this shotgun is a force for liberation.",
     "disposition": 4,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Steel Meridian, General",
-        "rarity": "Common",
-        "type": "Vaykor Hek"
-      }
-    ],
     "fireRate": 3.0000002,
     "imageName": "vaykor-hek-d30f841248.png",
     "introduced": {
@@ -82078,14 +82206,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Unlock through Daily Tribute",
-            "rarity": "Common",
-            "type": "Zenith Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",

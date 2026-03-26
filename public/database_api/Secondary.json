@@ -361,14 +361,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Kahl's Garrison (Chipper), Settlement",
-            "rarity": "Common",
-            "type": "Aegrit Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -1942,25 +1935,25 @@
         "masterable": false,
         "drops": [
           {
-            "chance": 0.0125,
+            "chance": 0.025,
             "location": "Demolisher Boiler",
             "rarity": "Common",
             "type": "Akarius Blueprint"
           },
           {
-            "chance": 0.0125,
+            "chance": 0.025,
             "location": "Demolisher Charger",
             "rarity": "Common",
             "type": "Akarius Blueprint"
           },
           {
-            "chance": 0.0125,
+            "chance": 0.025,
             "location": "Demolisher Juggernaut",
             "rarity": "Common",
             "type": "Akarius Blueprint"
           },
           {
-            "chance": 0.0125,
+            "chance": 0.025,
             "location": "Demolisher Thrasher",
             "rarity": "Common",
             "type": "Akarius Blueprint"
@@ -2301,6 +2294,13 @@
           },
           {
             "chance": 0.1667,
+            "location": "Neo M6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Akarius Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.1667,
             "location": "Neo X1 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Akarius Prime Barrel",
@@ -2347,6 +2347,13 @@
             "rarity": "Uncommon",
             "type": "Akarius Prime Barrel",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionYareliPrimeBBronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo M6 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Akarius Prime Barrel",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -2399,6 +2406,13 @@
           },
           {
             "chance": 0.2333,
+            "location": "Neo M6 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Akarius Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2333,
             "location": "Neo X1 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Akarius Prime Barrel",
@@ -2448,6 +2462,13 @@
           },
           {
             "chance": 0.2533,
+            "location": "Neo M6 Relic",
+            "rarity": "Uncommon",
+            "type": "Akarius Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2533,
             "location": "Neo X1 Relic",
             "rarity": "Uncommon",
             "type": "Akarius Prime Barrel",
@@ -2470,6 +2491,13 @@
         "drops": [
           {
             "chance": 0.02,
+            "location": "Meso A11 Relic",
+            "rarity": "Rare",
+            "type": "Akarius Prime Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.02,
             "location": "Meso A7 Relic",
             "rarity": "Rare",
             "type": "Akarius Prime Blueprint",
@@ -2481,6 +2509,13 @@
             "rarity": "Rare",
             "type": "Akarius Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussPrimeCBronze"
+          },
+          {
+            "chance": 0.04,
+            "location": "Meso A11 Relic (Exceptional)",
+            "rarity": "Rare",
+            "type": "Akarius Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.04,
@@ -2498,6 +2533,13 @@
           },
           {
             "chance": 0.06,
+            "location": "Meso A11 Relic (Flawless)",
+            "rarity": "Rare",
+            "type": "Akarius Prime Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.06,
             "location": "Meso A7 Relic (Flawless)",
             "rarity": "Rare",
             "type": "Akarius Prime Blueprint",
@@ -2509,6 +2551,13 @@
             "rarity": "Rare",
             "type": "Akarius Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussPrimeCBronze"
+          },
+          {
+            "chance": 0.1,
+            "location": "Meso A11 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Akarius Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.1,
@@ -2541,6 +2590,13 @@
             "rarity": "Uncommon",
             "type": "Akarius Prime Link",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeDBronze"
+          },
+          {
+            "chance": 0.11,
+            "location": "Lith A11 Relic",
+            "rarity": "Uncommon",
+            "type": "Akarius Prime Link",
+            "uniqueName": ""
           },
           {
             "chance": 0.11,
@@ -2586,6 +2642,13 @@
           },
           {
             "chance": 0.13,
+            "location": "Lith A11 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Akarius Prime Link",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.13,
             "location": "Lith R5 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Akarius Prime Link",
@@ -2628,6 +2691,13 @@
           },
           {
             "chance": 0.17,
+            "location": "Lith A11 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Akarius Prime Link",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.17,
             "location": "Lith R5 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Akarius Prime Link",
@@ -2667,6 +2737,13 @@
             "rarity": "Uncommon",
             "type": "Akarius Prime Link",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeDBronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Lith A11 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Akarius Prime Link",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -2827,6 +2904,34 @@
             "rarity": "Uncommon",
             "type": "Akarius Prime Receiver",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionYareliPrimeCBronze"
+          },
+          {
+            "chance": 0.11,
+            "location": "Neo G10 Relic",
+            "rarity": "Uncommon",
+            "type": "Akarius Prime Receiver",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.13,
+            "location": "Neo G10 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Akarius Prime Receiver",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.17,
+            "location": "Neo G10 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Akarius Prime Receiver",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo G10 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Akarius Prime Receiver",
+            "uniqueName": ""
           }
         ],
         "masterable": false,
@@ -5664,6 +5769,13 @@
           },
           {
             "chance": 0.11,
+            "location": "Meso Z6 Relic",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.11,
             "location": "Neo G9 Relic",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
@@ -5783,6 +5895,13 @@
           },
           {
             "chance": 0.13,
+            "location": "Meso Z6 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.13,
             "location": "Neo G9 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
@@ -5836,6 +5955,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeBBronze"
+          },
+          {
+            "chance": 0.1667,
+            "location": "Axi G15 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.1667,
@@ -6252,6 +6378,13 @@
           },
           {
             "chance": 0.1667,
+            "location": "Neo M6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Receiver",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.1667,
             "location": "Neo N14 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
@@ -6399,6 +6532,13 @@
           },
           {
             "chance": 0.17,
+            "location": "Meso Z6 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.17,
             "location": "Neo G9 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
@@ -6466,6 +6606,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeBBronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Axi G15 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -6903,6 +7050,13 @@
           },
           {
             "chance": 0.2,
+            "location": "Meso Z6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2,
             "location": "Neo A14 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
@@ -6970,6 +7124,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionTitaniaPrimeCBronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo M6 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Receiver",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -7068,6 +7229,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeBBronze"
+          },
+          {
+            "chance": 0.2333,
+            "location": "Axi G15 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.2333,
@@ -7484,6 +7652,13 @@
           },
           {
             "chance": 0.2333,
+            "location": "Neo M6 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Receiver",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2333,
             "location": "Neo N14 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
@@ -7565,6 +7740,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeBBronze"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Axi G15 Relic",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.2533,
@@ -7978,6 +8160,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionTitaniaPrimeCBronze"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Neo M6 Relic",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Receiver",
+            "uniqueName": ""
           },
           {
             "chance": 0.2533,
@@ -8259,6 +8448,13 @@
           },
           {
             "chance": 0.11,
+            "location": "Meso Z6 Relic",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.11,
             "location": "Neo G9 Relic",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
@@ -8378,6 +8574,13 @@
           },
           {
             "chance": 0.13,
+            "location": "Meso Z6 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.13,
             "location": "Neo G9 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
@@ -8431,6 +8634,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeBBronze"
+          },
+          {
+            "chance": 0.1667,
+            "location": "Axi G15 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.1667,
@@ -8847,6 +9057,13 @@
           },
           {
             "chance": 0.1667,
+            "location": "Neo M6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Receiver",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.1667,
             "location": "Neo N14 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
@@ -8994,6 +9211,13 @@
           },
           {
             "chance": 0.17,
+            "location": "Meso Z6 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.17,
             "location": "Neo G9 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
@@ -9061,6 +9285,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeBBronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Axi G15 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -9498,6 +9729,13 @@
           },
           {
             "chance": 0.2,
+            "location": "Meso Z6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2,
             "location": "Neo A14 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
@@ -9565,6 +9803,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionTitaniaPrimeCBronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo M6 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Receiver",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -9663,6 +9908,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeBBronze"
+          },
+          {
+            "chance": 0.2333,
+            "location": "Axi G15 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.2333,
@@ -10079,6 +10331,13 @@
           },
           {
             "chance": 0.2333,
+            "location": "Neo M6 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Receiver",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2333,
             "location": "Neo N14 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
@@ -10160,6 +10419,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeBBronze"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Axi G15 Relic",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.2533,
@@ -10573,6 +10839,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionTitaniaPrimeCBronze"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Neo M6 Relic",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Receiver",
+            "uniqueName": ""
           },
           {
             "chance": 0.2533,
@@ -11591,12 +11864,6 @@
             "location": "Duviri/Endless: Tier 6 (Normal)",
             "rarity": "Rare",
             "type": "Dual Skana Blueprint"
-          },
-          {
-            "chance": 1,
-            "location": "Conclave, Typhoon",
-            "rarity": "Common",
-            "type": "Dual Skana Conclave Skin"
           }
         ],
         "wikiAvailable": true,
@@ -12913,14 +13180,6 @@
     ],
     "description": "A Lato equipped in each hand. Twice the Magazine Capacity and Fire Rate, but Reload time is doubled and Accuracy is lowered.",
     "disposition": 5,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Typhoon",
-        "rarity": "Common",
-        "type": "Aklato Conclave Skin"
-      }
-    ],
     "fireRate": 5.0000005,
     "imageName": "aklato-c5ecafca06.png",
     "introduced": {
@@ -13082,14 +13341,6 @@
         },
         "imageName": "lex-815d312d76.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Conclave, Typhoon",
-            "rarity": "Common",
-            "type": "Lex Conclave Skin"
-          }
-        ],
         "wikiAvailable": true,
         "attacks": [
           {
@@ -13139,7 +13390,8 @@
           "date": "2012-10-25"
         },
         "releaseDate": "2012-10-25",
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "name": "Lex",
@@ -13208,14 +13460,6 @@
         },
         "imageName": "lex-815d312d76.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Conclave, Typhoon",
-            "rarity": "Common",
-            "type": "Lex Conclave Skin"
-          }
-        ],
         "wikiAvailable": true,
         "attacks": [
           {
@@ -13265,7 +13509,8 @@
           "date": "2012-10-25"
         },
         "releaseDate": "2012-10-25",
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -22930,14 +23175,6 @@
         },
         "imageName": "akstiletto-5d5e77400c.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Conclave, Typhoon",
-            "rarity": "Common",
-            "type": "Akstiletto Conclave Skin"
-          }
-        ],
         "wikiAvailable": true,
         "attacks": [
           {
@@ -22977,7 +23214,8 @@
           "date": "2014-02-05"
         },
         "releaseDate": "2014-02-05",
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/AksomatiBlueprint",
@@ -25297,14 +25535,6 @@
         },
         "imageName": "vasto-a67536402c.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Conclave, Typhoon",
-            "rarity": "Common",
-            "type": "Vasto Conclave Skin"
-          }
-        ],
         "wikiAvailable": true,
         "attacks": [
           {
@@ -25361,7 +25591,8 @@
           "date": "2013-07-26"
         },
         "releaseDate": "2013-07-26",
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "name": "Vasto",
@@ -25430,14 +25661,6 @@
         },
         "imageName": "vasto-a67536402c.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Conclave, Typhoon",
-            "rarity": "Common",
-            "type": "Vasto Conclave Skin"
-          }
-        ],
         "wikiAvailable": true,
         "attacks": [
           {
@@ -25494,7 +25717,8 @@
           "date": "2013-07-26"
         },
         "releaseDate": "2013-07-26",
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -29287,14 +29511,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Cephalon Simaris, Unlock through Daily Tribute",
-            "rarity": "Common",
-            "type": "Azima Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
@@ -31037,14 +31254,6 @@
         },
         "imageName": "lato-352acc2de0.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Conclave, Typhoon",
-            "rarity": "Common",
-            "type": "Lato Conclave Skin"
-          }
-        ],
         "wikiAvailable": true,
         "attacks": [
           {
@@ -31091,7 +31300,8 @@
           "date": "2012-10-25"
         },
         "releaseDate": "2012-10-25",
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
@@ -32240,6 +32450,13 @@
           },
           {
             "chance": 0.11,
+            "location": "Meso Z6 Relic",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.11,
             "location": "Neo G9 Relic",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
@@ -32356,6 +32573,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaraPrimeCBronze"
+          },
+          {
+            "chance": 0.13,
+            "location": "Meso Z6 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Barrel",
+            "uniqueName": ""
           },
           {
             "chance": 0.13,
@@ -32485,6 +32709,13 @@
           },
           {
             "chance": 0.17,
+            "location": "Meso Z6 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.17,
             "location": "Neo G9 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
@@ -32604,6 +32835,13 @@
           },
           {
             "chance": 0.2,
+            "location": "Meso Z6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2,
             "location": "Neo C6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
@@ -32679,6 +32917,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeBBronze"
+          },
+          {
+            "chance": 0.1667,
+            "location": "Axi G15 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.1667,
@@ -32920,6 +33165,13 @@
           },
           {
             "chance": 0.2,
+            "location": "Axi G15 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2,
             "location": "Axi N2 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
@@ -33158,6 +33410,13 @@
           },
           {
             "chance": 0.2333,
+            "location": "Axi G15 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2333,
             "location": "Axi N2 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
@@ -33393,6 +33652,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeBBronze"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Axi G15 Relic",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.2533,
@@ -33845,6 +34111,13 @@
           },
           {
             "chance": 0.1667,
+            "location": "Neo M6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Receiver",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.1667,
             "location": "Neo N14 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
@@ -34094,6 +34367,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionTitaniaPrimeCBronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo M6 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Receiver",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -34349,6 +34629,13 @@
           },
           {
             "chance": 0.2333,
+            "location": "Neo M6 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Receiver",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2333,
             "location": "Neo N14 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
@@ -34598,6 +34885,13 @@
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionTitaniaPrimeCBronze"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Neo M6 Relic",
+            "rarity": "Uncommon",
+            "type": "Bronco Prime Receiver",
+            "uniqueName": ""
           },
           {
             "chance": 0.2533,
@@ -35551,8 +35845,8 @@
         "itemCount": 10,
         "imageName": "stellated-necrathene-01f1f64a22.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -37867,14 +38161,6 @@
         },
         "imageName": "cestra-de053fcf83.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "The Perrin Sequence, Partner",
-            "rarity": "Common",
-            "type": "Secura Dual Cestra"
-          }
-        ],
         "wikiAvailable": true,
         "attacks": [
           {
@@ -37926,7 +38212,8 @@
           "date": "2013-11-20"
         },
         "releaseDate": "2013-11-20",
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "name": "Cestra",
@@ -37995,14 +38282,6 @@
         },
         "imageName": "cestra-de053fcf83.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "The Perrin Sequence, Partner",
-            "rarity": "Common",
-            "type": "Secura Dual Cestra"
-          }
-        ],
         "wikiAvailable": true,
         "attacks": [
           {
@@ -38054,7 +38333,8 @@
           "date": "2013-11-20"
         },
         "releaseDate": "2013-11-20",
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
@@ -41841,7 +42121,8 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagRare",
@@ -41850,14 +42131,7 @@
         "itemCount": 15,
         "imageName": "echo-voca-32f69b9f58.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 0.1471,
-            "location": "Deimos/Albrecht's Laboratories (Level  115 - 120 Entrati Lab Bounty), Rotation C",
-            "rarity": "Uncommon",
-            "type": "Echo Voca"
-          }
-        ],
+        "drops": [],
         "masterable": false
       },
       {
@@ -41867,80 +42141,7 @@
         "itemCount": 10,
         "imageName": "entrati-lanthorn-3ee4c5dafc.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 0.0339,
-            "location": "Zariman Ten Zero (Level  60 - 65 Zariman Bounty), Rotation C",
-            "rarity": "Rare",
-            "type": "3X Entrati Lanthorn"
-          },
-          {
-            "chance": 0.0435,
-            "location": "Zariman Ten Zero (Level  50 - 55 Zariman Bounty), Rotation C",
-            "rarity": "Rare",
-            "type": "Entrati Lanthorn"
-          },
-          {
-            "chance": 0.05,
-            "location": "Deimos/Cambire (Alchemy), Rotation B",
-            "rarity": "Rare",
-            "type": "Entrati Lanthorn"
-          },
-          {
-            "chance": 0.05,
-            "location": "Deimos/Munio (Defense), Rotation B",
-            "rarity": "Rare",
-            "type": "Entrati Lanthorn"
-          },
-          {
-            "chance": 0.05,
-            "location": "Deimos/Persto (Survival), Rotation B",
-            "rarity": "Rare",
-            "type": "Entrati Lanthorn"
-          },
-          {
-            "chance": 0.0667,
-            "location": "Zariman/Everview Arc (Void Flood), Rotation B",
-            "rarity": "Rare",
-            "type": "Entrati Lanthorn"
-          },
-          {
-            "chance": 0.0667,
-            "location": "Zariman/Oro Works (Void Armageddon), Rotation B",
-            "rarity": "Rare",
-            "type": "Entrati Lanthorn"
-          },
-          {
-            "chance": 0.0667,
-            "location": "Zariman/Tuvul Commons (Void Cascade), Rotation B",
-            "rarity": "Rare",
-            "type": "Entrati Lanthorn"
-          },
-          {
-            "chance": 0.0794,
-            "location": "Zariman Ten Zero (Level  70 - 75 Zariman Bounty), Rotation C",
-            "rarity": "Rare",
-            "type": "3X Entrati Lanthorn"
-          },
-          {
-            "chance": 0.0976,
-            "location": "Zariman/Halako Perimeter (Exterminate)",
-            "rarity": "Rare",
-            "type": "Entrati Lanthorn"
-          },
-          {
-            "chance": 0.0976,
-            "location": "Zariman/The Greenway (Mobile Defense)",
-            "rarity": "Rare",
-            "type": "Entrati Lanthorn"
-          },
-          {
-            "chance": 1,
-            "location": "Entrati Netracell Coffer",
-            "rarity": "Common",
-            "type": "Entrati Lanthorn"
-          }
-        ],
+        "drops": [],
         "masterable": false
       },
       {
@@ -41950,44 +42151,7 @@
         "itemCount": 2000,
         "imageName": "entrati-obols-bd6f30a279.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 0.0678,
-            "location": "Deimos/Albrecht's Laboratories (Level  65 - 70 Entrati Lab Bounty), Rotation C",
-            "rarity": "Rare",
-            "type": "150X Entrati Obols"
-          },
-          {
-            "chance": 0.0909,
-            "location": "Deimos/Effervo (Assassination)",
-            "rarity": "Rare",
-            "type": "150X Entrati Obols"
-          },
-          {
-            "chance": 0.0909,
-            "location": "Deimos/Nex (Exterminate)",
-            "rarity": "Rare",
-            "type": "150X Entrati Obols"
-          },
-          {
-            "chance": 0.0968,
-            "location": "Deimos/Persto (Survival), Rotation A",
-            "rarity": "Rare",
-            "type": "150X Entrati Obols"
-          },
-          {
-            "chance": 0.1429,
-            "location": "Deimos/Cambire (Alchemy), Rotation A",
-            "rarity": "Uncommon",
-            "type": "150X Entrati Obols"
-          },
-          {
-            "chance": 0.1429,
-            "location": "Deimos/Munio (Defense), Rotation A",
-            "rarity": "Uncommon",
-            "type": "150X Entrati Obols"
-          }
-        ],
+        "drops": [],
         "masterable": false
       },
       {
@@ -41997,44 +42161,7 @@
         "itemCount": 50,
         "imageName": "necracoil-8a46854da0.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 0.0606,
-            "location": "Deimos/Effervo (Assassination)",
-            "rarity": "Rare",
-            "type": "15X Necracoil"
-          },
-          {
-            "chance": 0.0606,
-            "location": "Deimos/Nex (Exterminate)",
-            "rarity": "Rare",
-            "type": "15X Necracoil"
-          },
-          {
-            "chance": 0.0645,
-            "location": "Deimos/Persto (Survival), Rotation A",
-            "rarity": "Rare",
-            "type": "15X Necracoil"
-          },
-          {
-            "chance": 0.0826,
-            "location": "Deimos/Albrecht's Laboratories (Level  75 - 80 Entrati Lab Bounty), Rotation C",
-            "rarity": "Rare",
-            "type": "15X Necracoil"
-          },
-          {
-            "chance": 0.0952,
-            "location": "Deimos/Cambire (Alchemy), Rotation A",
-            "rarity": "Rare",
-            "type": "15X Necracoil"
-          },
-          {
-            "chance": 0.0952,
-            "location": "Deimos/Munio (Defense), Rotation A",
-            "rarity": "Rare",
-            "type": "15X Necracoil"
-          }
-        ],
+        "drops": [],
         "masterable": false
       }
     ],
@@ -43327,12 +43454,6 @@
             "location": "Lua/Pavlov (Spy), Rotation C",
             "rarity": "Common",
             "type": "Coiling Viper"
-          },
-          {
-            "chance": 1,
-            "location": "Conclave, Typhoon",
-            "rarity": "Common",
-            "type": "Viper Conclave Skin"
           }
         ],
         "wikiAvailable": true,
@@ -46771,12 +46892,6 @@
             "location": "Kuva Fortress/Dakata (Caches), Rotation C",
             "rarity": "Uncommon",
             "type": "Cyclone Kraken"
-          },
-          {
-            "chance": 1,
-            "location": "Conclave, Typhoon",
-            "rarity": "Common",
-            "type": "Kraken Conclave Skin"
           }
         ],
         "wikiAvailable": true,
@@ -48200,14 +48315,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "The Holdfasts (Cavalero), Neutral",
-            "rarity": "Common",
-            "type": "Laetum Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -48900,7 +49008,19 @@
         "tradable": true,
         "drops": [
           {
-            "chance": 0.0201,
+            "chance": 0.0251,
+            "location": "Elite Sanctuary Onslaught, Rotation A",
+            "rarity": "Rare",
+            "type": "Lato Vandal Barrel"
+          },
+          {
+            "chance": 0.0316,
+            "location": "Elite Sanctuary Onslaught, Rotation B",
+            "rarity": "Rare",
+            "type": "Lato Vandal Barrel"
+          },
+          {
+            "chance": 0.0316,
             "location": "Elite Sanctuary Onslaught, Rotation C",
             "rarity": "Rare",
             "type": "Lato Vandal Barrel"
@@ -48918,8 +49038,20 @@
         "masterable": false,
         "drops": [
           {
-            "chance": 0.0201,
+            "chance": 0.0251,
+            "location": "Elite Sanctuary Onslaught, Rotation A",
+            "rarity": "Rare",
+            "type": "Lato Vandal Blueprint"
+          },
+          {
+            "chance": 0.0316,
             "location": "Elite Sanctuary Onslaught, Rotation B",
+            "rarity": "Rare",
+            "type": "Lato Vandal Blueprint"
+          },
+          {
+            "chance": 0.0316,
+            "location": "Elite Sanctuary Onslaught, Rotation C",
             "rarity": "Rare",
             "type": "Lato Vandal Blueprint"
           }
@@ -48934,8 +49066,20 @@
         "tradable": true,
         "drops": [
           {
-            "chance": 0.0201,
+            "chance": 0.0251,
             "location": "Elite Sanctuary Onslaught, Rotation A",
+            "rarity": "Rare",
+            "type": "Lato Vandal Receiver"
+          },
+          {
+            "chance": 0.0316,
+            "location": "Elite Sanctuary Onslaught, Rotation B",
+            "rarity": "Rare",
+            "type": "Lato Vandal Receiver"
+          },
+          {
+            "chance": 0.0316,
+            "location": "Elite Sanctuary Onslaught, Rotation C",
             "rarity": "Rare",
             "type": "Lato Vandal Receiver"
           }
@@ -49158,14 +49302,6 @@
     ],
     "description": "The Lex is a powerful, accurate pistol that has a low Fire Rate and Magazine Capacity. Very efficient at long range.",
     "disposition": 4,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Conclave, Typhoon",
-        "rarity": "Common",
-        "type": "Lex Conclave Skin"
-      }
-    ],
     "fireRate": 1.0833334,
     "imageName": "lex-815d312d76.png",
     "introduced": {
@@ -55283,8 +55419,8 @@
         "itemCount": 55,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -59006,14 +59142,6 @@
     ],
     "description": "This modified ballistica is the weapon of choice used by Red Veil Assassins to take out high-priority marks.",
     "disposition": 4,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Red Veil, Exalted",
-        "rarity": "Common",
-        "type": "Rakta Ballistica"
-      }
-    ],
     "fireRate": 3.3333335,
     "imageName": "rakta-ballistica-39303c333a.png",
     "introduced": {
@@ -59420,6 +59548,12 @@
             "location": "Dark Refractory, Deimos/Recall: Vanguard (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Sagek Prime Barrel Blueprint"
+          },
+          {
+            "chance": 0.0571,
+            "location": "Dark Refractory, Deimos/The Guilty (The Perita Rebellion), Rotation A",
+            "rarity": "Rare",
+            "type": "Sagek Prime Barrel Blueprint"
           }
         ],
         "masterable": false
@@ -59448,6 +59582,12 @@
           {
             "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Vanguard (The Perita Rebellion), Rotation A",
+            "rarity": "Rare",
+            "type": "Sagek Prime Blueprint"
+          },
+          {
+            "chance": 0.0571,
+            "location": "Dark Refractory, Deimos/The Guilty (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Sagek Prime Blueprint"
           }
@@ -59487,6 +59627,12 @@
           {
             "chance": 0.0571,
             "location": "Dark Refractory, Deimos/Recall: Vanguard (The Perita Rebellion), Rotation A",
+            "rarity": "Rare",
+            "type": "Sagek Prime Receiver Blueprint"
+          },
+          {
+            "chance": 0.0571,
+            "location": "Dark Refractory, Deimos/The Guilty (The Perita Rebellion), Rotation A",
             "rarity": "Rare",
             "type": "Sagek Prime Receiver Blueprint"
           }
@@ -59677,14 +59823,6 @@
     ],
     "description": "This remotely detonated electrical trap is used by devotees of New Loka to protect their temples and shrines.",
     "disposition": 5,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "New Loka, Flawless",
-        "rarity": "Common",
-        "type": "Sancti Castanas"
-      }
-    ],
     "fireRate": 3.3333335,
     "imageName": "sancti-castanas-3d6951c043.png",
     "introduced": {
@@ -60053,14 +60191,6 @@
     ],
     "description": "The favored side-arms of Perrin Sequence executives, these pistols have been modified to improve efficiency and killing potential.",
     "disposition": 4,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "The Perrin Sequence, Partner",
-        "rarity": "Common",
-        "type": "Secura Dual Cestra"
-      }
-    ],
     "fireRate": 12.500001,
     "imageName": "secura-dual-cestra-810e479b60.png",
     "introduced": {
@@ -60489,15 +60619,8 @@
         "itemCount": 1,
         "imageName": "barrel.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Acquaintance",
-            "rarity": "Common",
-            "type": "Sepulcrum Barrel Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/ThanotechPistolBlueprint",
@@ -60507,14 +60630,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Acquaintance",
-            "rarity": "Common",
-            "type": "Sepulcrum Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ThanotechPistolReceiver",
@@ -60523,15 +60639,8 @@
         "itemCount": 1,
         "imageName": "receiver.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Acquaintance",
-            "rarity": "Common",
-            "type": "Sepulcrum Receiver Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Deimos/SeriglassShard",
@@ -60540,8 +60649,8 @@
         "itemCount": 1,
         "imageName": "seriglass-shard-3317de0afe.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
@@ -62256,25 +62365,25 @@
         "drops": [
           {
             "chance": 0.0652,
-            "location": "Veil/Flexa (Caches), Rotation B",
+            "location": "Veil Proxima/Flexa (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Spectra Vandal Barrel"
           },
           {
             "chance": 0.0652,
-            "location": "Veil/H-2 Cloud (Caches), Rotation B",
+            "location": "Veil Proxima/H-2 Cloud (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Spectra Vandal Barrel"
           },
           {
             "chance": 0.0652,
-            "location": "Veil/Nsu Grid (Caches), Rotation B",
+            "location": "Veil Proxima/Nsu Grid (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Spectra Vandal Barrel"
           },
           {
             "chance": 0.0652,
-            "location": "Veil/R-9 Cloud (Caches), Rotation B",
+            "location": "Veil Proxima/R-9 Cloud (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Spectra Vandal Barrel"
           }
@@ -62292,25 +62401,25 @@
         "drops": [
           {
             "chance": 0.087,
-            "location": "Veil/Flexa (Caches), Rotation B",
+            "location": "Veil Proxima/Flexa (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Spectra Vandal Blueprint"
           },
           {
             "chance": 0.087,
-            "location": "Veil/H-2 Cloud (Caches), Rotation B",
+            "location": "Veil Proxima/H-2 Cloud (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Spectra Vandal Blueprint"
           },
           {
             "chance": 0.087,
-            "location": "Veil/Nsu Grid (Caches), Rotation B",
+            "location": "Veil Proxima/Nsu Grid (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Spectra Vandal Blueprint"
           },
           {
             "chance": 0.087,
-            "location": "Veil/R-9 Cloud (Caches), Rotation B",
+            "location": "Veil Proxima/R-9 Cloud (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Spectra Vandal Blueprint"
           }
@@ -62326,25 +62435,25 @@
         "drops": [
           {
             "chance": 0.0652,
-            "location": "Veil/Flexa (Caches), Rotation B",
+            "location": "Veil Proxima/Flexa (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Spectra Vandal Chassis"
           },
           {
             "chance": 0.0652,
-            "location": "Veil/H-2 Cloud (Caches), Rotation B",
+            "location": "Veil Proxima/H-2 Cloud (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Spectra Vandal Chassis"
           },
           {
             "chance": 0.0652,
-            "location": "Veil/Nsu Grid (Caches), Rotation B",
+            "location": "Veil Proxima/Nsu Grid (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Spectra Vandal Chassis"
           },
           {
             "chance": 0.0652,
-            "location": "Veil/R-9 Cloud (Caches), Rotation B",
+            "location": "Veil Proxima/R-9 Cloud (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Spectra Vandal Chassis"
           }
@@ -62361,25 +62470,25 @@
         "drops": [
           {
             "chance": 0.0652,
-            "location": "Veil/Flexa (Caches), Rotation B",
+            "location": "Veil Proxima/Flexa (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Spectra Vandal Handle"
           },
           {
             "chance": 0.0652,
-            "location": "Veil/H-2 Cloud (Caches), Rotation B",
+            "location": "Veil Proxima/H-2 Cloud (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Spectra Vandal Handle"
           },
           {
             "chance": 0.0652,
-            "location": "Veil/Nsu Grid (Caches), Rotation B",
+            "location": "Veil Proxima/Nsu Grid (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Spectra Vandal Handle"
           },
           {
             "chance": 0.0652,
-            "location": "Veil/R-9 Cloud (Caches), Rotation B",
+            "location": "Veil Proxima/R-9 Cloud (Caches), Rotation B",
             "rarity": "Rare",
             "type": "Spectra Vandal Handle"
           }
@@ -64887,14 +64996,6 @@
     ],
     "description": "Deployed by the Cephalon Suda, once a data-analyzing instrument the Gammacor main focus is defense.",
     "disposition": 3,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Cephalon Suda, Genius",
-        "rarity": "Common",
-        "type": "Synoid Gammacor"
-      }
-    ],
     "fireRate": 12.000001,
     "imageName": "synoid-gammacor-02823b6001.png",
     "introduced": {
@@ -65682,14 +65783,6 @@
     ],
     "description": "For the Arbiters of Hexis these pistols are more than simple weapons, they are symbols of truth and discipline.",
     "disposition": 4,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Arbiters of Hexis, Maxim",
-        "rarity": "Common",
-        "type": "Telos Akbolto"
-      }
-    ],
     "fireRate": 5.0000005,
     "imageName": "telos-akbolto-ef8aa48303.png",
     "introduced": {
@@ -68075,12 +68168,6 @@
             "location": "Lua/Pavlov (Spy), Rotation C",
             "rarity": "Common",
             "type": "Coiling Viper"
-          },
-          {
-            "chance": 1,
-            "location": "Conclave, Typhoon",
-            "rarity": "Common",
-            "type": "Viper Conclave Skin"
           }
         ],
         "wikiAvailable": true,
@@ -68203,12 +68290,6 @@
             "location": "Lua/Pavlov (Spy), Rotation C",
             "rarity": "Common",
             "type": "Coiling Viper"
-          },
-          {
-            "chance": 1,
-            "location": "Conclave, Typhoon",
-            "rarity": "Common",
-            "type": "Viper Conclave Skin"
           }
         ],
         "wikiAvailable": true,
@@ -70238,14 +70319,6 @@
     ],
     "description": "Taken from defeated Grineer commanders and rebuilt to improve combat efficiency and reliability.",
     "disposition": 3,
-    "drops": [
-      {
-        "chance": 1,
-        "location": "Steel Meridian, General",
-        "rarity": "Common",
-        "type": "Vaykor Marelok"
-      }
-    ],
     "fireRate": 2,
     "imageName": "vaykor-marelok-92ed1486f5.png",
     "introduced": {
@@ -73292,6 +73365,13 @@
           },
           {
             "chance": 0.1667,
+            "location": "Lith A11 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Zylok Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.1667,
             "location": "Lith G12 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Zylok Prime Barrel",
@@ -73345,6 +73425,13 @@
             "rarity": "Uncommon",
             "type": "Zylok Prime Barrel",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionYareliPrimeABronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Lith A11 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Zylok Prime Barrel",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -73404,6 +73491,13 @@
           },
           {
             "chance": 0.2333,
+            "location": "Lith A11 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Zylok Prime Barrel",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.2333,
             "location": "Lith G12 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Zylok Prime Barrel",
@@ -73457,6 +73551,13 @@
             "rarity": "Uncommon",
             "type": "Zylok Prime Barrel",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionYareliPrimeABronze"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Lith A11 Relic",
+            "rarity": "Uncommon",
+            "type": "Zylok Prime Barrel",
+            "uniqueName": ""
           },
           {
             "chance": 0.2533,
@@ -73524,6 +73625,13 @@
           },
           {
             "chance": 0.02,
+            "location": "Meso Z6 Relic",
+            "rarity": "Rare",
+            "type": "Zylok Prime Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.02,
             "location": "Neo Z10 Relic",
             "rarity": "Rare",
             "type": "Zylok Prime Blueprint",
@@ -73549,6 +73657,13 @@
             "rarity": "Rare",
             "type": "Zylok Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionYareliPrimeBBronze"
+          },
+          {
+            "chance": 0.04,
+            "location": "Meso Z6 Relic (Exceptional)",
+            "rarity": "Rare",
+            "type": "Zylok Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.04,
@@ -73580,6 +73695,13 @@
           },
           {
             "chance": 0.06,
+            "location": "Meso Z6 Relic (Flawless)",
+            "rarity": "Rare",
+            "type": "Zylok Prime Blueprint",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.06,
             "location": "Neo Z10 Relic (Flawless)",
             "rarity": "Rare",
             "type": "Zylok Prime Blueprint",
@@ -73605,6 +73727,13 @@
             "rarity": "Uncommon",
             "type": "Zylok Prime Blueprint",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionYareliPrimeBBronze"
+          },
+          {
+            "chance": 0.1,
+            "location": "Meso Z6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Zylok Prime Blueprint",
+            "uniqueName": ""
           },
           {
             "chance": 0.1,
@@ -73651,6 +73780,13 @@
           },
           {
             "chance": 0.11,
+            "location": "Axi G15 Relic",
+            "rarity": "Uncommon",
+            "type": "Zylok Prime Receiver",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.11,
             "location": "Axi O6 Relic",
             "rarity": "Uncommon",
             "type": "Zylok Prime Receiver",
@@ -73690,6 +73826,13 @@
             "rarity": "Uncommon",
             "type": "Zylok Prime Receiver",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeCBronze"
+          },
+          {
+            "chance": 0.13,
+            "location": "Axi G15 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Zylok Prime Receiver",
+            "uniqueName": ""
           },
           {
             "chance": 0.13,
@@ -73735,6 +73878,13 @@
           },
           {
             "chance": 0.17,
+            "location": "Axi G15 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Zylok Prime Receiver",
+            "uniqueName": ""
+          },
+          {
+            "chance": 0.17,
             "location": "Axi O6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Zylok Prime Receiver",
@@ -73774,6 +73924,13 @@
             "rarity": "Uncommon",
             "type": "Zylok Prime Receiver",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeCBronze"
+          },
+          {
+            "chance": 0.2,
+            "location": "Axi G15 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Zylok Prime Receiver",
+            "uniqueName": ""
           },
           {
             "chance": 0.2,
@@ -74002,15 +74159,8 @@
         "itemCount": 1,
         "imageName": "barrel.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Stranger",
-            "rarity": "Common",
-            "type": "Zymos Barrel Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/InfUziBlueprint",
@@ -74020,14 +74170,7 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Stranger",
-            "rarity": "Common",
-            "type": "Zymos Blueprint"
-          }
-        ]
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfUziWeaponReceiver",
@@ -74036,15 +74179,8 @@
         "itemCount": 1,
         "imageName": "receiver.png",
         "tradable": false,
-        "drops": [
-          {
-            "chance": 1,
-            "location": "Entrati (Father), Stranger",
-            "rarity": "Common",
-            "type": "Zymos Receiver Blueprint"
-          }
-        ],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "consumeOnBuild": true,
