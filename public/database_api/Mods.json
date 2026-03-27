@@ -9191,65 +9191,6 @@
     "wikiaUrl": "https://wiki.warframe.com/w/Archon_Continuity"
   },
   {
-    "baseDrain": 4,
-    "category": "Mods",
-    "compatName": "WARFRAME",
-    "excludeFromCodex": true,
-    "fusionLimit": 5,
-    "imageName": "archon-flow-d63e5d847e.jpg",
-    "isAugment": true,
-    "isPrime": false,
-    "levelStats": [
-      {
-        "stats": [
-          "Enemies killed by <DT_FREEZE_COLOR>Cold Abilities have 10% chance to drop an Energy Orb. Cooldown: 10s"
-        ]
-      },
-      {
-        "stats": [
-          "Enemies killed by <DT_FREEZE_COLOR>Cold Abilities have 10% chance to drop an Energy Orb. Cooldown: 10s"
-        ]
-      },
-      {
-        "stats": [
-          "Enemies killed by <DT_FREEZE_COLOR>Cold Abilities have 10% chance to drop an Energy Orb. Cooldown: 10s"
-        ]
-      },
-      {
-        "stats": [
-          "Enemies killed by <DT_FREEZE_COLOR>Cold Abilities have 10% chance to drop an Energy Orb. Cooldown: 10s"
-        ]
-      },
-      {
-        "stats": [
-          "Enemies killed by <DT_FREEZE_COLOR>Cold Abilities have 10% chance to drop an Energy Orb. Cooldown: 10s"
-        ]
-      },
-      {
-        "stats": [
-          "Enemies killed by <DT_FREEZE_COLOR>Cold Abilities have 10% chance to drop an Energy Orb. Cooldown: 10s"
-        ]
-      }
-    ],
-    "masterable": false,
-    "name": "Archon Flow",
-    "patchlogs": [
-      {
-        "name": "Echoes of Veilbreaker: Update 32.1",
-        "date": "2022-11-02T15:00:14Z",
-        "url": "https://forums.warframe.com/topic/1329684-echoes-of-veilbreaker-update-321/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed the rare case where damage done by Residual Malodor on Kitguns and the Live Wire Parazon Mod could trigger Archon Flow. "
-      }
-    ],
-    "polarity": "naramon",
-    "rarity": "Rare",
-    "tradable": true,
-    "type": "Warframe Mod",
-    "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Kahl/KahlAvatarDropEnergySubMod"
-  },
-  {
     "baseDrain": 6,
     "category": "Mods",
     "compatName": "WARFRAME",
@@ -9477,73 +9418,6 @@
     "baseDrain": 6,
     "category": "Mods",
     "compatName": "WARFRAME",
-    "excludeFromCodex": true,
-    "fusionLimit": 5,
-    "imageName": "archon-intensify-6196b91c97.jpg",
-    "isAugment": true,
-    "isPrime": false,
-    "levelStats": [
-      {
-        "stats": [
-          "Restoring health with abilities grants +30% Ability Strength for 10s."
-        ]
-      },
-      {
-        "stats": [
-          "Restoring health with abilities grants +30% Ability Strength for 10s."
-        ]
-      },
-      {
-        "stats": [
-          "Restoring health with abilities grants +30% Ability Strength for 10s."
-        ]
-      },
-      {
-        "stats": [
-          "Restoring health with abilities grants +30% Ability Strength for 10s."
-        ]
-      },
-      {
-        "stats": [
-          "Restoring health with abilities grants +30% Ability Strength for 10s."
-        ]
-      },
-      {
-        "stats": [
-          "Restoring health with abilities grants +30% Ability Strength for 10s."
-        ]
-      }
-    ],
-    "masterable": false,
-    "name": "Archon Intensify",
-    "patchlogs": [
-      {
-        "name": "Veilbreaker: Hotfix 32.0.7",
-        "date": "2022-09-28T14:59:21Z",
-        "url": "https://forums.warframe.com/topic/1325904-veilbreaker-hotfix-3207/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Archon Intensify not proc’ing from most heal-over-time sources. We originally listed this as an issue in the Hotfix 32.0.3 patch notes, and are here now with a fix for the following: "
-      },
-      {
-        "name": "Veilbreaker: Hotfix 32.0.5",
-        "date": "2022-09-15T21:37:42Z",
-        "url": "https://forums.warframe.com/topic/1324061-veilbreaker-hotfix-3205/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Sevagoth various healing abilities and Venari’s heal not activating Archon Intensify."
-      }
-    ],
-    "polarity": "madurai",
-    "rarity": "Rare",
-    "tradable": true,
-    "type": "Warframe Mod",
-    "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Kahl/KahlAvatarAbilityStrengthSubMod"
-  },
-  {
-    "baseDrain": 6,
-    "category": "Mods",
-    "compatName": "WARFRAME",
     "fusionLimit": 10,
     "imageName": "archon-stretch-4c4667dc59.jpg",
     "introduced": {
@@ -9647,65 +9521,6 @@
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ArchonStretchMod.png?622bc",
     "wikiaUrl": "https://wiki.warframe.com/w/Archon_Stretch"
-  },
-  {
-    "baseDrain": 6,
-    "category": "Mods",
-    "compatName": "WARFRAME",
-    "excludeFromCodex": true,
-    "fusionLimit": 5,
-    "imageName": "archon-stretch-e4d33aca57.jpg",
-    "isAugment": true,
-    "isPrime": false,
-    "levelStats": [
-      {
-        "stats": [
-          "Abilities that deal <DT_ELECTRICITY_COLOR>Electricity Damage restore +2 Energy/s over 5s."
-        ]
-      },
-      {
-        "stats": [
-          "Abilities that deal <DT_ELECTRICITY_COLOR>Electricity Damage restore +2 Energy/s over 5s."
-        ]
-      },
-      {
-        "stats": [
-          "Abilities that deal <DT_ELECTRICITY_COLOR>Electricity Damage restore +2 Energy/s over 5s."
-        ]
-      },
-      {
-        "stats": [
-          "Abilities that deal <DT_ELECTRICITY_COLOR>Electricity Damage restore +2 Energy/s over 5s."
-        ]
-      },
-      {
-        "stats": [
-          "Abilities that deal <DT_ELECTRICITY_COLOR>Electricity Damage restore +2 Energy/s over 5s."
-        ]
-      },
-      {
-        "stats": [
-          "Abilities that deal <DT_ELECTRICITY_COLOR>Electricity Damage restore +2 Energy/s over 5s."
-        ]
-      }
-    ],
-    "masterable": false,
-    "name": "Archon Stretch",
-    "patchlogs": [
-      {
-        "name": "Veilbreaker: Hotfix 32.0.5",
-        "date": "2022-09-15T21:37:42Z",
-        "url": "https://forums.warframe.com/topic/1324061-veilbreaker-hotfix-3205/",
-        "additions": "",
-        "changes": "Fixed using Archon Stretch with Volt’s Discharge causing FPS to plummet for Host.",
-        "fixes": ""
-      }
-    ],
-    "polarity": "madurai",
-    "rarity": "Rare",
-    "tradable": true,
-    "type": "Warframe Mod",
-    "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Kahl/KahlAvatarAbilityRangeSubMod"
   },
   {
     "baseDrain": 6,
@@ -70205,79 +70020,6 @@
     "wikiaUrl": "https://wiki.warframe.com/w/Galvanized_Elementalist"
   },
   {
-    "baseDrain": 0,
-    "category": "Mods",
-    "compatName": "Shotgun",
-    "excludeFromCodex": true,
-    "fusionLimit": 10,
-    "imageName": "galvanized-elementalist-92b512e474.jpg",
-    "isPrime": false,
-    "levelStats": [
-      {
-        "stats": [
-          "On Melee Kill:\\n+2.7% Status Chance for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+5.5% Status Chance for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+8.2% Status Chance for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+10.9% Status Chance for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+13.6% Status Chance for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+16.4% Status Chance for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+19.1% Status Chance for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+21.8% Status Chance for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+24.5% Status Chance for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+27.3% Status Chance for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+30% Status Chance for 20s. Stacks up to 4x."
-        ]
-      }
-    ],
-    "masterable": false,
-    "name": "Galvanized Elementalist",
-    "polarity": "madurai",
-    "rarity": "Rare",
-    "tradable": true,
-    "type": "Melee Mod",
-    "uniqueName": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeStatusChanceSPSubMod"
-  },
-  {
     "baseDrain": 6,
     "category": "Mods",
     "compatName": "Shotgun",
@@ -70482,79 +70224,6 @@
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/GalvanizedReflexMod.png?1bbf0",
     "wikiaUrl": "https://wiki.warframe.com/w/Galvanized_Reflex"
-  },
-  {
-    "baseDrain": 0,
-    "category": "Mods",
-    "compatName": "Shotgun",
-    "excludeFromCodex": true,
-    "fusionLimit": 10,
-    "imageName": "galvanized-reflex-a2b19b391b.jpg",
-    "isPrime": false,
-    "levelStats": [
-      {
-        "stats": [
-          "On Melee Kill:\\n+2 Initial Combo for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+4 Initial Combo for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+6 Initial Combo for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+7 Initial Combo for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+9 Initial Combo for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+11 Initial Combo for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+13 Initial Combo for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+15 Initial Combo for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+17 Initial Combo for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+19 Initial Combo for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+20 Initial Combo for 20s. Stacks up to 4x."
-        ]
-      }
-    ],
-    "masterable": false,
-    "name": "Galvanized Reflex",
-    "polarity": "madurai",
-    "rarity": "Rare",
-    "tradable": true,
-    "type": "Melee Mod",
-    "uniqueName": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponHeavyAttackEfficiencySPSubMod"
   },
   {
     "baseDrain": 2,
@@ -70972,79 +70641,6 @@
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/GalvanizedSteelMod.png?297dd",
     "wikiaUrl": "https://wiki.warframe.com/w/Galvanized_Steel"
-  },
-  {
-    "baseDrain": 0,
-    "category": "Mods",
-    "compatName": "Shotgun",
-    "excludeFromCodex": true,
-    "fusionLimit": 10,
-    "imageName": "galvanized-steel-b562e6d2a7.jpg",
-    "isPrime": false,
-    "levelStats": [
-      {
-        "stats": [
-          "On Melee Kill:\\n+2.7% Critical Damage for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+5.5% Critical Damage for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+8.2% Critical Damage for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+10.9% Critical Damage for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+13.6% Critical Damage for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+16.4% Critical Damage for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+19.1% Critical Damage for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+21.8% Critical Damage for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+24.5% Critical Damage for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+27.3% Critical Damage for 20s. Stacks up to 4x."
-        ]
-      },
-      {
-        "stats": [
-          "On Melee Kill:\\n+30% Critical Damage for 20s. Stacks up to 4x."
-        ]
-      }
-    ],
-    "masterable": false,
-    "name": "Galvanized Steel",
-    "polarity": "madurai",
-    "rarity": "Rare",
-    "tradable": true,
-    "type": "Melee Mod",
-    "uniqueName": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponCritChanceSPSubMod"
   },
   {
     "baseDrain": 6,
@@ -181191,7 +180787,6 @@
     "baseDrain": 0,
     "category": "Mods",
     "compatName": "Archgun",
-    "excludeFromCodex": true,
     "fusionLimit": 10,
     "imageName": "primed-ammo-chain-744efdba3f.jpg",
     "introduced": {
@@ -232264,6 +231859,69 @@
     "wikiaUrl": "https://wiki.warframe.com/w/Sentient_Barrage"
   },
   {
+    "baseDrain": 2,
+    "category": "Mods",
+    "compatName": "Venato",
+    "fusionLimit": 5,
+    "imageName": "sentient-incision-834abb9ae2.jpg",
+    "introduced": {
+      "name": "TBA",
+      "url": "https://wiki.warframe.com/w/Upcoming_Features",
+      "aliases": [
+        "TBA",
+        "999",
+        "999.0",
+        "999.0.0"
+      ],
+      "parent": "0.0",
+      "date": "0000-00-00"
+    },
+    "isPrime": false,
+    "levelStats": [
+      {
+        "stats": [
+          "+20% additional damage matching the target's weakness. Does not combine with other damage types."
+        ]
+      },
+      {
+        "stats": [
+          "+40% additional damage matching the target's weakness. Does not combine with other damage types."
+        ]
+      },
+      {
+        "stats": [
+          "+60% additional damage matching the target's weakness. Does not combine with other damage types."
+        ]
+      },
+      {
+        "stats": [
+          "+80% additional damage matching the target's weakness. Does not combine with other damage types."
+        ]
+      },
+      {
+        "stats": [
+          "+100% additional damage matching the target's weakness. Does not combine with other damage types."
+        ]
+      },
+      {
+        "stats": [
+          "+120% additional damage matching the target's weakness. Does not combine with other damage types."
+        ]
+      }
+    ],
+    "masterable": false,
+    "name": "Sentient Incision",
+    "polarity": "naramon",
+    "rarity": "Rare",
+    "releaseDate": "0000-00-00",
+    "tradable": true,
+    "transmutable": false,
+    "type": "Melee Mod",
+    "uniqueName": "/Lotus/Upgrades/Mods/Melee/Event/Nightwave/NightwaveVenatoAugmentMod",
+    "wikiAvailable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Sentient_Incision"
+  },
+  {
     "baseDrain": 6,
     "category": "Mods",
     "drops": [
@@ -280732,32 +280390,32 @@
     "levelStats": [
       {
         "stats": [
-          "Headshot kills reduce Companion Recovery timer by 0.5s. If the Companion’s Critical Chance is over 50% then you gain +0.2x Final Critical Damage Multiplier."
+          "Headshot kills reduce Companion Recovery timer by 0.5s. If the Companion's Critical Chance is over 50% then you gain +0.2x Final Critical Damage Multiplier."
         ]
       },
       {
         "stats": [
-          "Headshot kills reduce Companion Recovery timer by 1s. If the Companion’s Critical Chance is over 50% then you gain +0.4x Final Critical Damage Multiplier."
+          "Headshot kills reduce Companion Recovery timer by 1s. If the Companion's Critical Chance is over 50% then you gain +0.4x Final Critical Damage Multiplier."
         ]
       },
       {
         "stats": [
-          "Headshot kills reduce Companion Recovery timer by 1.5s. If the Companion’s Critical Chance is over 50% then you gain +0.6x Final Critical Damage Multiplier."
+          "Headshot kills reduce Companion Recovery timer by 1.5s. If the Companion's Critical Chance is over 50% then you gain +0.6x Final Critical Damage Multiplier."
         ]
       },
       {
         "stats": [
-          "Headshot kills reduce Companion Recovery timer by 2s. If the Companion’s Critical Chance is over 50% then you gain +0.8x Final Critical Damage Multiplier."
+          "Headshot kills reduce Companion Recovery timer by 2s. If the Companion's Critical Chance is over 50% then you gain +0.8x Final Critical Damage Multiplier."
         ]
       },
       {
         "stats": [
-          "Headshot kills reduce Companion Recovery timer by 2.5s. If the Companion’s Critical Chance is over 50% then you gain +1.0x Final Critical Damage Multiplier."
+          "Headshot kills reduce Companion Recovery timer by 2.5s. If the Companion's Critical Chance is over 50% then you gain +1.0x Final Critical Damage Multiplier."
         ]
       },
       {
         "stats": [
-          "Headshot kills reduce Companion Recovery timer by 3s. If the Companion’s Critical Chance is over 50% then you gain +1.2x Final Critical Damage Multiplier."
+          "Headshot kills reduce Companion Recovery timer by 3s. If the Companion's Critical Chance is over 50% then you gain +1.2x Final Critical Damage Multiplier."
         ]
       }
     ],
@@ -289062,6 +288720,64 @@
     "wikiaUrl": "https://wiki.warframe.com/w/True_Steel"
   },
   {
+    "baseDrain": 6,
+    "category": "Mods",
+    "compatName": "Melee",
+    "fusionLimit": 3,
+    "imageName": "truth's-flame-6b7c1d938e.jpg",
+    "introduced": {
+      "name": "Update 42.0",
+      "url": "https://wiki.warframe.com/w/Update_42%23Update_42.0",
+      "aliases": [
+        "42",
+        "42.0",
+        "The Shadowgrapher"
+      ],
+      "parent": "42.0",
+      "date": "2026-03-25"
+    },
+    "isPrime": false,
+    "isUtility": true,
+    "levelStats": [
+      {
+        "stats": [
+          "Enables Tennokai: Kills grant an additional 4s Tennokai opportunity with +30% Melee Damage bonus. Failure to kill with Tennokai will inflict 25 <DT_FIRE_COLOR>Heat Damage/s for 6s and reset the Combo Counter.",
+          "+0.3 'Truth'"
+        ]
+      },
+      {
+        "stats": [
+          "Enables Tennokai: Kills grant an additional 4s Tennokai opportunity with +40% Melee Damage bonus. Failure to kill with Tennokai will inflict 35 <DT_FIRE_COLOR>Heat Damage/s for 6s and reset the Combo Counter.",
+          "+0.5 'Truth'"
+        ]
+      },
+      {
+        "stats": [
+          "Enables Tennokai: Kills grant an additional 4s Tennokai opportunity with +60% Melee Damage bonus. Failure to kill with Tennokai will inflict 50 <DT_FIRE_COLOR>Heat Damage/s for 6s and reset the Combo Counter.",
+          "+0.8 'Truth'"
+        ]
+      },
+      {
+        "stats": [
+          "Enables Tennokai: Kills grant an additional 4s Tennokai opportunity with +120% Melee Damage bonus. Failure to kill with Tennokai will inflict 100 <DT_FIRE_COLOR>Heat Damage/s for 6s and reset the Combo Counter.",
+          "+1 'Truth'"
+        ]
+      }
+    ],
+    "masterable": false,
+    "name": "Truth's Flame",
+    "polarity": "madurai",
+    "rarity": "Rare",
+    "releaseDate": "2026-03-25",
+    "tradable": true,
+    "transmutable": false,
+    "type": "Melee Mod",
+    "uniqueName": "/Lotus/Upgrades/EmpoweredHeavyMelee/CursedSyndicateEmpoweredHeavyMeleeMod",
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Truth%27sFlameMod.png?c4fe7",
+    "wikiaUrl": "https://wiki.warframe.com/w/Truth's_Flame"
+  },
+  {
     "baseDrain": 0,
     "category": "Mods",
     "compatName": "Parazon",
@@ -292440,6 +292156,69 @@
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/VazarinTransmuteCoreMod.png?4ca21",
     "wikiaUrl": "https://wiki.warframe.com/w/Vazarin_Transmute_Core"
+  },
+  {
+    "baseDrain": 2,
+    "category": "Mods",
+    "compatName": "Velox",
+    "fusionLimit": 5,
+    "imageName": "velox-conclusion-4827ecb0d5.jpg",
+    "introduced": {
+      "name": "TBA",
+      "url": "https://wiki.warframe.com/w/Upcoming_Features",
+      "aliases": [
+        "TBA",
+        "999",
+        "999.0",
+        "999.0.0"
+      ],
+      "parent": "0.0",
+      "date": "0000-00-00"
+    },
+    "isPrime": false,
+    "levelStats": [
+      {
+        "stats": [
+          "On hit, gain +0.1% Ability Strength up to 10% maximum. Consumed on your next Ability cast."
+        ]
+      },
+      {
+        "stats": [
+          "On hit, gain +0.2% Ability Strength up to 20% maximum. Consumed on your next Ability cast."
+        ]
+      },
+      {
+        "stats": [
+          "On hit, gain +0.3% Ability Strength up to 30% maximum. Consumed on your next Ability cast."
+        ]
+      },
+      {
+        "stats": [
+          "On hit, gain +0.4% Ability Strength up to 40% maximum. Consumed on your next Ability cast."
+        ]
+      },
+      {
+        "stats": [
+          "On hit, gain +0.5% Ability Strength up to 50% maximum. Consumed on your next Ability cast."
+        ]
+      },
+      {
+        "stats": [
+          "On hit, gain +0.6% Ability Strength up to 60% maximum. Consumed on your next Ability cast."
+        ]
+      }
+    ],
+    "masterable": false,
+    "name": "Velox Conclusion",
+    "polarity": "madurai",
+    "rarity": "Rare",
+    "releaseDate": "0000-00-00",
+    "tradable": true,
+    "transmutable": false,
+    "type": "Secondary Mod",
+    "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Event/Nightwave/NightwaveVeloxAugmentMod",
+    "wikiAvailable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Velox_Conclusion"
   },
   {
     "baseDrain": 6,

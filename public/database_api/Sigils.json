@@ -175,6 +175,16 @@
   },
   {
     "category": "Sigils",
+    "description": "Peer deep into this entrancing sigil.",
+    "imageName": "ascrien-sigil-dcf80e547a.png",
+    "masterable": false,
+    "name": "Ascrien Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NightwaveCalibanDeluxeSigil"
+  },
+  {
+    "category": "Sigils",
     "description": "A sigil representing prestige gained with the Red Veil.",
     "imageName": "assassin-sigil-fdeedc33e5.png",
     "masterable": false,
@@ -192,6 +202,17 @@
     "tradable": false,
     "type": "Sigil",
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaE"
+  },
+  {
+    "category": "Sigils",
+    "description": "Keep the memory of the Shadowgrapher and Operation: Atramentum close with this sigil.",
+    "excludeFromCodex": true,
+    "imageName": "atramentum-sigil-d2a73eaced.png",
+    "masterable": false,
+    "name": "Atramentum Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilShadowgrapher"
   },
   {
     "category": "Sigils",
@@ -1742,6 +1763,16 @@
   },
   {
     "category": "Sigils",
+    "description": "High speed movement can leave its mark. Gauss Moto's signature sigil.",
+    "imageName": "kickback-sigil-3e15f00ea6.png",
+    "masterable": false,
+    "name": "Kickback Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/GaussDeluxeIISigil"
+  },
+  {
+    "category": "Sigils",
     "description": "Invoke the weaver of fate.",
     "imageName": "koumei-ito-sigil-26c605263d.png",
     "masterable": false,
@@ -2968,6 +2999,16 @@
   },
   {
     "category": "Sigils",
+    "description": "This sigil won't just buff out.",
+    "imageName": "road-rash-sigil-fb30ed5184.png",
+    "masterable": false,
+    "name": "Road Rash Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/GaussDeluxeIIDamageSigil"
+  },
+  {
+    "category": "Sigils",
     "description": "A sigil representing prestige gained with the Red Veil.",
     "imageName": "ruin-sigil-84ed2599f0.png",
     "masterable": false,
@@ -3570,6 +3611,16 @@
     "tradable": false,
     "type": "Sigil",
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2025Sigil"
+  },
+  {
+    "category": "Sigils",
+    "description": "Bestowed upon those who joined together in celebration at TennoCon 2026.",
+    "imageName": "tennocon-2026-sigil-52de0d2fd2.png",
+    "masterable": false,
+    "name": "Tennocon 2026 Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2026Sigil"
   },
   {
     "category": "Sigils",

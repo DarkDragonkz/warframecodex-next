@@ -1177,7 +1177,7 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchHammerBlueprint",
         "name": "Blueprint",
-        "description": "Using Archwing’s jets for thrust, this massive hammer crushes anything in its path.",
+        "description": "Using Archwing's jets for thrust, this massive hammer crushes anything in its path.",
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
@@ -1275,7 +1275,7 @@
       0,
       0
     ],
-    "description": "Using Archwing’s jets for thrust, this massive hammer crushes anything in its path.",
+    "description": "Using Archwing's jets for thrust, this massive hammer crushes anything in its path.",
     "disposition": 1,
     "fireRate": 0.91666669,
     "followThrough": 0.69999999,

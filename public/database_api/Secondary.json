@@ -35118,7 +35118,7 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/TnChoirKunaiBlueprint",
         "name": "Blueprint",
-        "description": "In moments of despair, let the battle resonate with song. Cantare's blades lodge into the battlefield and return upon reload. When returning blades strike enemies, Cantare empowers allies with increased Reload Speed.\n\nExperience the true power of Jade’s Ensemble when Evensong, Cantare, and Harmony sing together.",
+        "description": "In moments of despair, let the battle resonate with song. Cantare's blades lodge into the battlefield and return upon reload. When returning blades strike enemies, Cantare empowers allies with increased Reload Speed.\n\nExperience the true power of Jade's Ensemble when Evensong, Cantare, and Harmony sing together.",
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
@@ -35213,7 +35213,7 @@
       0,
       0
     ],
-    "description": "In moments of despair, let the battle resonate with song. Cantare's blades lodge into the battlefield and return upon reload. When returning blades strike enemies, Cantare empowers allies with increased Reload Speed.\n\nExperience the true power of Jade’s Ensemble when Evensong, Cantare, and Harmony sing together.",
+    "description": "In moments of despair, let the battle resonate with song. Cantare's blades lodge into the battlefield and return upon reload. When returning blades strike enemies, Cantare empowers allies with increased Reload Speed.\n\nExperience the true power of Jade's Ensemble when Evensong, Cantare, and Harmony sing together.",
     "disposition": 3,
     "fireRate": 3.3333335,
     "imageName": "cantare-480f4a6fc2.png",
@@ -40415,7 +40415,7 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/Prime1HShotgunBlueprint",
         "name": "Blueprint",
-        "description": "Banshee Prime’s signature shotgun is an instrument of devastation that fires both focused and broad shots.",
+        "description": "Banshee Prime's signature shotgun is an instrument of devastation that fires both focused and broad shots.",
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
@@ -40806,7 +40806,7 @@
       0,
       0
     ],
-    "description": "Banshee Prime’s signature shotgun is an instrument of devastation that fires both focused and broad shots.",
+    "description": "Banshee Prime's signature shotgun is an instrument of devastation that fires both focused and broad shots.",
     "disposition": 3,
     "estimatedVaultDate": "2018-12-18",
     "fireRate": 1.5000001,
@@ -42121,8 +42121,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagRare",
@@ -42131,7 +42130,14 @@
         "itemCount": 15,
         "imageName": "echo-voca-32f69b9f58.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.1471,
+            "location": "Deimos/Albrecht's Laboratories (Level  115 - 120 Entrati Lab Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Echo Voca"
+          }
+        ],
         "masterable": false
       },
       {
@@ -42141,7 +42147,80 @@
         "itemCount": 10,
         "imageName": "entrati-lanthorn-3ee4c5dafc.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0339,
+            "location": "Zariman Ten Zero (Level  60 - 65 Zariman Bounty), Rotation C",
+            "rarity": "Rare",
+            "type": "3X Entrati Lanthorn"
+          },
+          {
+            "chance": 0.0435,
+            "location": "Zariman Ten Zero (Level  50 - 55 Zariman Bounty), Rotation C",
+            "rarity": "Rare",
+            "type": "Entrati Lanthorn"
+          },
+          {
+            "chance": 0.05,
+            "location": "Deimos/Cambire (Alchemy), Rotation B",
+            "rarity": "Rare",
+            "type": "Entrati Lanthorn"
+          },
+          {
+            "chance": 0.05,
+            "location": "Deimos/Munio (Defense), Rotation B",
+            "rarity": "Rare",
+            "type": "Entrati Lanthorn"
+          },
+          {
+            "chance": 0.05,
+            "location": "Deimos/Persto (Survival), Rotation B",
+            "rarity": "Rare",
+            "type": "Entrati Lanthorn"
+          },
+          {
+            "chance": 0.0667,
+            "location": "Zariman/Everview Arc (Void Flood), Rotation B",
+            "rarity": "Rare",
+            "type": "Entrati Lanthorn"
+          },
+          {
+            "chance": 0.0667,
+            "location": "Zariman/Oro Works (Void Armageddon), Rotation B",
+            "rarity": "Rare",
+            "type": "Entrati Lanthorn"
+          },
+          {
+            "chance": 0.0667,
+            "location": "Zariman/Tuvul Commons (Void Cascade), Rotation B",
+            "rarity": "Rare",
+            "type": "Entrati Lanthorn"
+          },
+          {
+            "chance": 0.0794,
+            "location": "Zariman Ten Zero (Level  70 - 75 Zariman Bounty), Rotation C",
+            "rarity": "Rare",
+            "type": "3X Entrati Lanthorn"
+          },
+          {
+            "chance": 0.0976,
+            "location": "Zariman/Halako Perimeter (Exterminate)",
+            "rarity": "Rare",
+            "type": "Entrati Lanthorn"
+          },
+          {
+            "chance": 0.0976,
+            "location": "Zariman/The Greenway (Mobile Defense)",
+            "rarity": "Rare",
+            "type": "Entrati Lanthorn"
+          },
+          {
+            "chance": 1,
+            "location": "Entrati Netracell Coffer",
+            "rarity": "Common",
+            "type": "Entrati Lanthorn"
+          }
+        ],
         "masterable": false
       },
       {
@@ -42151,7 +42230,44 @@
         "itemCount": 2000,
         "imageName": "entrati-obols-bd6f30a279.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0678,
+            "location": "Deimos/Albrecht's Laboratories (Level  65 - 70 Entrati Lab Bounty), Rotation C",
+            "rarity": "Rare",
+            "type": "150X Entrati Obols"
+          },
+          {
+            "chance": 0.0909,
+            "location": "Deimos/Effervo (Assassination)",
+            "rarity": "Rare",
+            "type": "150X Entrati Obols"
+          },
+          {
+            "chance": 0.0909,
+            "location": "Deimos/Nex (Exterminate)",
+            "rarity": "Rare",
+            "type": "150X Entrati Obols"
+          },
+          {
+            "chance": 0.0968,
+            "location": "Deimos/Persto (Survival), Rotation A",
+            "rarity": "Rare",
+            "type": "150X Entrati Obols"
+          },
+          {
+            "chance": 0.1429,
+            "location": "Deimos/Cambire (Alchemy), Rotation A",
+            "rarity": "Uncommon",
+            "type": "150X Entrati Obols"
+          },
+          {
+            "chance": 0.1429,
+            "location": "Deimos/Munio (Defense), Rotation A",
+            "rarity": "Uncommon",
+            "type": "150X Entrati Obols"
+          }
+        ],
         "masterable": false
       },
       {
@@ -42161,7 +42277,44 @@
         "itemCount": 50,
         "imageName": "necracoil-8a46854da0.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0606,
+            "location": "Deimos/Effervo (Assassination)",
+            "rarity": "Rare",
+            "type": "15X Necracoil"
+          },
+          {
+            "chance": 0.0606,
+            "location": "Deimos/Nex (Exterminate)",
+            "rarity": "Rare",
+            "type": "15X Necracoil"
+          },
+          {
+            "chance": 0.0645,
+            "location": "Deimos/Persto (Survival), Rotation A",
+            "rarity": "Rare",
+            "type": "15X Necracoil"
+          },
+          {
+            "chance": 0.0826,
+            "location": "Deimos/Albrecht's Laboratories (Level  75 - 80 Entrati Lab Bounty), Rotation C",
+            "rarity": "Rare",
+            "type": "15X Necracoil"
+          },
+          {
+            "chance": 0.0952,
+            "location": "Deimos/Cambire (Alchemy), Rotation A",
+            "rarity": "Rare",
+            "type": "15X Necracoil"
+          },
+          {
+            "chance": 0.0952,
+            "location": "Deimos/Munio (Defense), Rotation A",
+            "rarity": "Rare",
+            "type": "15X Necracoil"
+          }
+        ],
         "masterable": false
       }
     ],

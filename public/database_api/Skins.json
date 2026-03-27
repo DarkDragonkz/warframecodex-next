@@ -212,6 +212,16 @@
   },
   {
     "category": "Skins",
+    "description": "Gauss Moto's signature Acceltra rifle skin embodies the philosophy of hitting hard and fast, leaving enemies in the dust.",
+    "imageName": "acceltra-nitros-skin-4ec74c74cc.png",
+    "masterable": false,
+    "name": "Acceltra Nitros Skin",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Runner/AcceltraDeluxe2Skin"
+  },
+  {
+    "category": "Skins",
     "description": "A festive skin for the Acceltra.",
     "imageName": "acceltra-solstice-skin-10516a9ff5.png",
     "masterable": false,
@@ -1058,7 +1068,7 @@
   },
   {
     "category": "Skins",
-    "description": "Aetigo Kaithes are a native species of Duviri’s southernmost island. Their emerald eyes once reflected the verdant plains they roamed, but when the island was reduced to ash, their eyes faded to nothing.",
+    "description": "Aetigo Kaithes are a native species of Duviri's southernmost island. Their emerald eyes once reflected the verdant plains they roamed, but when the island was reduced to ash, their eyes faded to nothing.",
     "imageName": "aetigo-kaithe-2e5b2d185d.png",
     "masterable": false,
     "name": "Aetigo Kaithe",
@@ -3496,7 +3506,7 @@
   },
   {
     "category": "Skins",
-    "description": "Adorn your Orbiter with this decoration representing the Arbiter’s search for truth, discipline, and practice.",
+    "description": "Adorn your Orbiter with this decoration representing the Arbiter's search for truth, discipline, and practice.",
     "imageName": "arbitration-statue-5967b94300.png",
     "masterable": false,
     "name": "Arbitration Statue",
@@ -5671,6 +5681,16 @@
   },
   {
     "category": "Skins",
+    "description": "A venerable piece of regalia intended to emphasize the bearer's knowledge, worn to distinguish those who had achieved the rank of Archimedean.",
+    "imageName": "archimedean-diadem-6c42a997ce.png",
+    "masterable": false,
+    "name": "Archimedean Diadem",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/YontaCrownFacialAcc"
+  },
+  {
+    "category": "Skins",
     "description": "An ornament awarded only to the most dedicated of researchers. Said by some to be representative of the eye of an ancient deity, sacrificed in return for wisdom.",
     "imageName": "archimedean-eye-sumdali-ebcb220306.png",
     "masterable": false,
@@ -7506,6 +7526,16 @@
   },
   {
     "category": "Skins",
+    "description": "Show your dedication to Operation: Atramentum with this emblem.",
+    "imageName": "atramentum-emblem-aaddbeba68.png",
+    "masterable": false,
+    "name": "Atramentum Emblem",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Clan/ShadowgrapherEventBadgeItem"
+  },
+  {
+    "category": "Skins",
     "description": "A diamond fur pattern for your Kubrow.",
     "imageName": "atrox-fur-pattern-9da79ca25b.png",
     "masterable": false,
@@ -8488,6 +8518,17 @@
     "tradable": false,
     "type": "Misc",
     "uniqueName": "/Lotus/Types/Items/Events/TennoConRelay2025EarlyAccess"
+  },
+  {
+    "category": "Skins",
+    "description": "Gain access to Baro's entire inventory in his TennoCon 2026 Relay:\nJuly 11, 2026 at 11 a.m. ET to July 18, 2026 at 11 a.m. ET.",
+    "excludeFromCodex": true,
+    "imageName": "baro's-relay-ticket-4fc0064d36.png",
+    "masterable": false,
+    "name": "Baro's Relay Ticket",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Events/TennoConRelay2026EarlyAccess"
   },
   {
     "category": "Skins",
@@ -11639,7 +11680,7 @@
   },
   {
     "category": "Skins",
-    "description": "Oberon Feyarch’s signature bow.",
+    "description": "Oberon Feyarch's signature bow.",
     "imageName": "bow-dryad-skin-fb5bd6ffe0.png",
     "masterable": false,
     "name": "Bow Dryad Skin",
@@ -12118,6 +12159,16 @@
   {
     "category": "Skins",
     "excludeFromCodex": true,
+    "imageName": "brow-61-t-5ab18714e1.png",
+    "masterable": false,
+    "name": "Brow 61-T",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowDC"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
     "imageName": "brow-71-j-dbd5b1577e.png",
     "masterable": false,
     "name": "Brow 71-J",
@@ -12134,6 +12185,16 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowBF"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "brow-e8-c-ee4f19d782.png",
+    "masterable": false,
+    "name": "Brow E8-C",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowDA"
   },
   {
     "category": "Skins",
@@ -13657,8 +13718,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Eidolonium",
@@ -13667,7 +13727,164 @@
         "itemCount": 10,
         "imageName": "breath-of-the-eidolon-fd2fb5d31b.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0067,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
+            "rarity": "Legendary",
+            "type": "Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0067,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "rarity": "Legendary",
+            "type": "3X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0357,
+            "location": "Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0357,
+            "location": "Earth/Cetus (Level 40 - 50 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0472,
+            "location": "Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0472,
+            "location": "Earth/Cetus (Level 40 - 50 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0485,
+            "location": "Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0485,
+            "location": "Earth/Cetus (Level 40 - 50 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          }
+        ],
         "masterable": false
       },
       {
@@ -13677,7 +13894,20 @@
         "itemCount": 50,
         "imageName": "fersteel-alloy-c11c0e2d3c.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0553,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
+            "rarity": "Rare",
+            "type": "6X Fersteel Alloy"
+          },
+          {
+            "chance": 0.0553,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "rarity": "Rare",
+            "type": "6X Fersteel Alloy"
+          }
+        ],
         "masterable": false
       },
       {
@@ -13687,7 +13917,20 @@
         "itemCount": 20,
         "imageName": "fish-scales-2e05965e5a.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0316,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
+            "rarity": "Rare",
+            "type": "10X Fish Scales"
+          },
+          {
+            "chance": 0.0316,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "rarity": "Rare",
+            "type": "10X Fish Scales"
+          }
+        ],
         "masterable": false
       },
       {
@@ -13697,8 +13940,7 @@
         "itemCount": 5,
         "imageName": "radian-sentirum-cddffa1970.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       }
     ],
     "consumeOnBuild": true,
@@ -14866,6 +15108,16 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Wings/InfNightWaveWingsRight"
+  },
+  {
+    "category": "Skins",
+    "description": "Lead the charge with this chivalrous sumdali.",
+    "imageName": "chivaler-sumdali-cec0bbafb8.png",
+    "masterable": false,
+    "name": "Chivaler Sumdali",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Liset/OrfeoHoodOrnament"
   },
   {
     "category": "Skins",
@@ -17762,9 +18014,9 @@
   {
     "category": "Skins",
     "excludeFromCodex": true,
-    "imageName": "complexion-c-p4-1f3c696cbe.png",
+    "imageName": "complexion-c-24-1f3c696cbe.png",
     "masterable": false,
-    "name": "Complexion C-P4",
+    "name": "Complexion C-24",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoA"
@@ -17772,9 +18024,9 @@
   {
     "category": "Skins",
     "excludeFromCodex": true,
-    "imageName": "complexion-c-p4-ba07ccd904.png",
+    "imageName": "complexion-c-24-ba07ccd904.png",
     "masterable": false,
-    "name": "Complexion C-P4",
+    "name": "Complexion C-24",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoA"
@@ -17822,9 +18074,9 @@
   {
     "category": "Skins",
     "excludeFromCodex": true,
-    "imageName": "complexion-f-t6-083055ba56.png",
+    "imageName": "complexion-f-36-083055ba56.png",
     "masterable": false,
-    "name": "Complexion F-T6",
+    "name": "Complexion F-36",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoD"
@@ -17832,9 +18084,9 @@
   {
     "category": "Skins",
     "excludeFromCodex": true,
-    "imageName": "complexion-f-t6-44797074c5.png",
+    "imageName": "complexion-f-36-44797074c5.png",
     "masterable": false,
-    "name": "Complexion F-T6",
+    "name": "Complexion F-36",
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoD"
@@ -17978,6 +18230,146 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultLegacyAlbedo"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "complexion-n-5-7b2f6abae0.png",
+    "masterable": false,
+    "name": "Complexion N-5",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoK"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "complexion-n-5-6de05f51e6.png",
+    "masterable": false,
+    "name": "Complexion N-5",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoK"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "complexion-o-93-154dfccece.png",
+    "masterable": false,
+    "name": "Complexion O-93",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoM"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "complexion-o-93-43abea3eb7.png",
+    "masterable": false,
+    "name": "Complexion O-93",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoM"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "complexion-p-9-617a586146.png",
+    "masterable": false,
+    "name": "Complexion P-9",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoN"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "complexion-p-9-e7a5dd5761.png",
+    "masterable": false,
+    "name": "Complexion P-9",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoN"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "complexion-q-40-38346b6781.png",
+    "masterable": false,
+    "name": "Complexion Q-40",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoQ"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "complexion-q-40-063a1d5c6e.png",
+    "masterable": false,
+    "name": "Complexion Q-40",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoQ"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "complexion-r-10-93bf95df3e.png",
+    "masterable": false,
+    "name": "Complexion R-10",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoR"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "complexion-r-10-3da4e48763.png",
+    "masterable": false,
+    "name": "Complexion R-10",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoR"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "complexion-s-33-660ccfd34f.png",
+    "masterable": false,
+    "name": "Complexion S-33",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoS"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "complexion-s-33-71ec898036.png",
+    "masterable": false,
+    "name": "Complexion S-33",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoS"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "complexion-t-68-a9a52dbd3b.png",
+    "masterable": false,
+    "name": "Complexion T-68",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoT"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "complexion-t-68-18b4deae3c.png",
+    "masterable": false,
+    "name": "Complexion T-68",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoT"
   },
   {
     "category": "Skins",
@@ -18521,6 +18913,17 @@
     "tradable": false,
     "type": "Color Palette",
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Nemesis/ColourPickerKuvaLichMag"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "conscience-painter-honoria-577889d0ae.png",
+    "masterable": false,
+    "name": "Conscience Painter Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleFollie"
   },
   {
     "category": "Skins",
@@ -24266,6 +24669,36 @@
   },
   {
     "category": "Skins",
+    "description": "Default armor set for the Dagath Immortal Skin.",
+    "imageName": "dagath-immortal-armor-c8a3479bf0.png",
+    "masterable": false,
+    "name": "Dagath Immortal Armor",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/DagathImmortalArmArmor"
+  },
+  {
+    "category": "Skins",
+    "description": "The Immortal Helmet for the Dagath Warframe.",
+    "imageName": "dagath-immortal-helmet-902f8a8046.png",
+    "masterable": false,
+    "name": "Dagath Immortal Helmet",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Dagath/DagathImmortalHelmet"
+  },
+  {
+    "category": "Skins",
+    "description": "The Immortal Skin for the Dagath Warframe.",
+    "imageName": "dagath-immortal-skin-05bc4e8fe6.png",
+    "masterable": false,
+    "name": "Dagath Immortal Skin",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Dagath/DagathImmortalSkin"
+  },
+  {
+    "category": "Skins",
     "description": "The Noble Animation Set for Dagath.",
     "excludeFromCodex": true,
     "imageName": "dagath-noble-animation-set-fe12d0676b.png",
@@ -24579,7 +25012,7 @@
   },
   {
     "category": "Skins",
-    "description": "Nova Asuri’s signature syandana.",
+    "description": "Nova Asuri's signature syandana.",
     "imageName": "danavi-syandana-22f7b3d8e5.png",
     "masterable": false,
     "name": "Danavi Syandana",
@@ -26081,6 +26514,17 @@
   },
   {
     "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "defender-of-the-earth-honoria-7fa1253d25.png",
+    "masterable": false,
+    "name": "Defender Of The Earth Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/NewLokaTitle"
+  },
+  {
+    "category": "Skins",
     "description": "Display balance and finesse with these rhythmic movements.",
     "imageName": "degage-narta-9b2fd640e9.png",
     "masterable": false,
@@ -27196,6 +27640,27 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltDeluxeMaceSkin"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "diplomatic-merchant-honoria-ee626b6275.png",
+    "masterable": false,
+    "name": "Diplomatic Merchant Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/PerrinSequenceTitle"
+  },
+  {
+    "category": "Skins",
+    "description": "Fateful whispers linger around this unearthly signa.",
+    "imageName": "diraeus-signa-1457c5f836.png",
+    "masterable": false,
+    "name": "Diraeus Signa",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Crowns/OrfeoSignaCrown"
   },
   {
     "buildPrice": 30000,
@@ -31445,7 +31910,7 @@
   },
   {
     "category": "Skins",
-    "description": "The Dovin Saddle’s deep curve and lightweight structure make for strong balance and gentle communication with the Kaithe.",
+    "description": "The Dovin Saddle's deep curve and lightweight structure make for strong balance and gentle communication with the Kaithe.",
     "imageName": "dovin-saddle-d7fdb51786.png",
     "masterable": false,
     "name": "Dovin Saddle",
@@ -31723,6 +32188,56 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultDexOutfit"
+  },
+  {
+    "category": "Skins",
+    "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
+    "imageName": "drifter-escuchon-apparel-31975f1fc4.png",
+    "masterable": false,
+    "name": "Drifter Escuchon Apparel",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultCalDeluxe"
+  },
+  {
+    "category": "Skins",
+    "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
+    "imageName": "drifter-escuchon-greaves-cc0ec6bae1.png",
+    "masterable": false,
+    "name": "Drifter Escuchon Greaves",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultCalDeluxe"
+  },
+  {
+    "category": "Skins",
+    "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
+    "imageName": "drifter-escuchon-hood-2ac4f149f8.png",
+    "masterable": false,
+    "name": "Drifter Escuchon Hood",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultCalDeluxe"
+  },
+  {
+    "category": "Skins",
+    "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
+    "imageName": "drifter-escuchon-pauldrons-b50e965b6f.png",
+    "masterable": false,
+    "name": "Drifter Escuchon Pauldrons",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultCalDeluxe"
+  },
+  {
+    "category": "Skins",
+    "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
+    "imageName": "drifter-escuchon-suit-f6ec4a512a.png",
+    "masterable": false,
+    "name": "Drifter Escuchon Suit",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultCalDeluxe"
   },
   {
     "category": "Skins",
@@ -32349,6 +32864,17 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumDualKeresSkin"
+  },
+  {
+    "category": "Skins",
+    "description": "Standard holster for Dual Nikanas.",
+    "excludeFromCodex": true,
+    "imageName": "dual-nikanas-standard-holster-10e8501117.png",
+    "masterable": false,
+    "name": "Dual Nikanas Standard Holster",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/DualKatanaHips"
   },
   {
     "category": "Skins",
@@ -34052,6 +34578,16 @@
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Hollvania/LASxStadiumSynthKeyboardA"
+  },
+  {
+    "category": "Skins",
+    "description": "This bow skin is haunted by the spirits of the dead trapped within, and hungers to create more.",
+    "imageName": "elfame-bow-skin-5df4876ad5.png",
+    "masterable": false,
+    "name": "Elfame Bow Skin",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Deluxe/CalibanDeluxeBowSkin"
   },
   {
     "category": "Skins",
@@ -36519,6 +37055,17 @@
   },
   {
     "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "eradicator-of-corruption-honoria-d8a464957f.png",
+    "masterable": false,
+    "name": "Eradicator Of Corruption Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/RedVeilTitle"
+  },
+  {
+    "category": "Skins",
     "description": "Citrine Aphrodita inspires epics of undying devotion with this graceful signature signa.",
     "imageName": "erato-signa-3739e5f507.png",
     "masterable": false,
@@ -36937,7 +37484,7 @@
   },
   {
     "category": "Skins",
-    "description": "A helmet for the Excalibur Warframe, designed by A-p-o-l-l-y-o-n.",
+    "description": "A helmet for the Excalibur Warframe, designed by OniDax.",
     "imageName": "excalibur-apex-helmet-b413fa205c.png",
     "masterable": false,
     "name": "Excalibur Apex Helmet",
@@ -36947,7 +37494,7 @@
   },
   {
     "category": "Skins",
-    "description": "A unique skin for the Excalibur Warframe, designed by A-p-o-l-l-y-o-n.",
+    "description": "A unique skin for the Excalibur Warframe, designed by OniDax.",
     "imageName": "excalibur-apex-skin-53f0b2b860.png",
     "masterable": false,
     "name": "Excalibur Apex Skin",
@@ -40872,6 +41419,16 @@
   },
   {
     "category": "Skins",
+    "description": "Vast speeds require state-of-the-art plating. Gauss Moto's signature chestplate.",
+    "imageName": "fend-rx-chest-armor-84713f609c.png",
+    "masterable": false,
+    "name": "Fend-Rx Chest Armor",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Armor/GaussDeluxeIIArmour/GaussDeluxeIIArmourC"
+  },
+  {
+    "category": "Skins",
     "description": "A sickly brown fern.",
     "imageName": "fern-(brown)-7b74430f51.png",
     "masterable": false,
@@ -43262,6 +43819,16 @@
   },
   {
     "category": "Skins",
+    "description": "Prey cannot hide from the piercing gaze of Grendel Turbis' signature signa.",
+    "imageName": "flankon-signa-566a9f3e9b.png",
+    "masterable": false,
+    "name": "Flankon Signa",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Crowns/GrendelDeluxeIICrown"
+  },
+  {
+    "category": "Skins",
     "description": "Switch between Temple and Flare's Gemini Skin with the Flare Gemini Emote, even during missions.",
     "imageName": "flare-gemini-emote-ea58d0c45b.png",
     "masterable": false,
@@ -43447,6 +44014,112 @@
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Hollvania/LASxMetalFoldingChairA"
+  },
+  {
+    "category": "Skins",
+    "description": "The Agile Animation Set for Follie.",
+    "excludeFromCodex": true,
+    "imageName": "follie-agile-animation-set-7eccfa2ce8.png",
+    "masterable": false,
+    "name": "Follie Agile Animation Set",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Inkblot/InkblotAgileAnims"
+  },
+  {
+    "category": "Skins",
+    "description": "This item lets you use Follie's agile animation set with any Warframe of your choosing.",
+    "excludeFromCodex": true,
+    "imageName": "follie-agile-animation-set-34a4993e45.png",
+    "masterable": false,
+    "name": "Follie Agile Animation Set",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Inkblot/UnlockInkblotAgile"
+  },
+  {
+    "category": "Skins",
+    "description": "The standard issue helmet for the Follie Warframe.",
+    "excludeFromCodex": true,
+    "imageName": "follie-helmet-12439e26a2.png",
+    "masterable": false,
+    "name": "Follie Helmet",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Inkblot/InkblotHelmet"
+  },
+  {
+    "category": "Skins",
+    "description": "The Noble Animation Set for Follie.",
+    "excludeFromCodex": true,
+    "imageName": "follie-noble-animation-set-e2d442e49e.png",
+    "masterable": false,
+    "name": "Follie Noble Animation Set",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Inkblot/InkblotNobleAnims"
+  },
+  {
+    "category": "Skins",
+    "description": "This item lets you use Follie's noble animation set with any Warframe of your choosing.",
+    "excludeFromCodex": true,
+    "imageName": "follie-noble-animation-set-76c04edffe.png",
+    "masterable": false,
+    "name": "Follie Noble Animation Set",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Inkblot/UnlockInkblotNoble"
+  },
+  {
+    "category": "Skins",
+    "description": "The Shadowgrapher",
+    "imageName": "follie-prex-21c89e021f.png",
+    "masterable": false,
+    "name": "Follie Prex",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardFollie"
+  },
+  {
+    "category": "Skins",
+    "description": "This alternate helmet for Follie blends colors the way Follie blends reality.",
+    "imageName": "follie-sfumato-helmet-235376b7ff.png",
+    "masterable": false,
+    "name": "Follie Sfumato Helmet",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Inkblot/InkblotAltHelmet"
+  },
+  {
+    "category": "Skins",
+    "description": "The standard issue skin for the Follie Warframe.",
+    "excludeFromCodex": true,
+    "imageName": "follie-skin-e23574a7cb.png",
+    "masterable": false,
+    "name": "Follie Skin",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Inkblot/InkblotSkin"
+  },
+  {
+    "category": "Skins",
+    "description": "Bring Follie's Hunt home with this inky balloon.",
+    "imageName": "follie's-balloon-ba4af44096.png",
+    "masterable": false,
+    "name": "Follie's Balloon",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/FollieBalloonShipDeco"
+  },
+  {
+    "category": "Skins",
+    "description": "A portrait of the Shadowgrapher, concealing ink-washed secrets.",
+    "imageName": "follie's-shadowgraph-321dd9416f.png",
+    "masterable": false,
+    "name": "Follie's Shadowgraph",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/ShadowgrapherEaselShipDeco"
   },
   {
     "category": "Skins",
@@ -43824,6 +44497,16 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/NWIIIBossArmor/NWIIIBossAArmor"
+  },
+  {
+    "category": "Skins",
+    "description": "The ground trembles to herald your arrival. Grendel Turbis' signature ephemera.",
+    "imageName": "fraktur-ephemera-f67115eb67.png",
+    "masterable": false,
+    "name": "Fraktur Ephemera",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Effects/GrendelDeluxeIIFootstepsEphemera"
   },
   {
     "category": "Skins",
@@ -44996,7 +45679,7 @@
   },
   {
     "category": "Skins",
-    "description": "Keep the light of knowledge always in view with Lavos Khymia’s signature signa.",
+    "description": "Keep the light of knowledge always in view with Lavos Khymia's signature signa.",
     "imageName": "fumulo-signa-ced7663d3b.png",
     "masterable": false,
     "name": "Fumulo Signa",
@@ -46902,6 +47585,26 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Runner/RunnerAltHelmet"
+  },
+  {
+    "category": "Skins",
+    "description": "Gauss Moto's signature helmet.",
+    "imageName": "gauss-moto-helmet-5c78268773.png",
+    "masterable": false,
+    "name": "Gauss Moto Helmet",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Runner/GaussDeluxeIIHelmet"
+  },
+  {
+    "category": "Skins",
+    "description": "Become a kinetic blur with the turbocharged Gauss Moto. What cannot be hit cannot be killed.",
+    "imageName": "gauss-moto-skin-c5b0ad92f0.png",
+    "masterable": false,
+    "name": "Gauss Moto Skin",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Runner/GaussDeluxeIISkin"
   },
   {
     "category": "Skins",
@@ -49283,6 +49986,26 @@
   },
   {
     "category": "Skins",
+    "description": "Grendel Turbis' signature helmet.",
+    "imageName": "grendel-turbis-helmet-d99c5a419a.png",
+    "masterable": false,
+    "name": "Grendel Turbis Helmet",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Devourer/GrendelDeluxeIIHelmet"
+  },
+  {
+    "category": "Skins",
+    "description": "Beware the howling maw. The imposing silhouette of Grendel Turbis inspires gnawing dread with the opening of his ventral hatch.",
+    "imageName": "grendel-turbis-skin-864e5455d2.png",
+    "masterable": false,
+    "name": "Grendel Turbis Skin",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Devourer/GrendelDeluxeIISkin"
+  },
+  {
+    "category": "Skins",
     "description": "Don the morphic material created in the Zariman Void Jump. The material manifests chemical structures from liquid to stone.",
     "imageName": "grendel-voidshell-helmet-56b4f15b73.png",
     "masterable": false,
@@ -50614,7 +51337,7 @@
         "url": "https://forums.warframe.com/topic/1321988-veilbreaker-hotfix-3202/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixes towards an issue with Grineer falling into their death animations when sustaining any sort of injury. Dramatic much? "
+        "fixes": "Fixes towards an issue with Grineer falling into their death animations when sustaining any sort of injury. Dramatic much?��"
       },
       {
         "name": "Veilbreaker: Hotfix 32.0.1",
@@ -57329,8 +58052,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidHungerItem",
@@ -57339,7 +58061,32 @@
         "itemCount": 2,
         "imageName": "calda-toroid-652e0532d3.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.02,
+            "location": "Orb Vallis - Enrichment Labs Enemies",
+            "rarity": "Uncommon",
+            "type": "Calda Toroid"
+          },
+          {
+            "chance": 0.125,
+            "location": "Venus/Orb Vallis (Level 40 - 60 PROFIT-TAKER - PHASE 2), Rotation C",
+            "rarity": "Uncommon",
+            "type": "3X Calda Toroid"
+          },
+          {
+            "chance": 0.2,
+            "location": "Narmer Scyto Raknoid",
+            "rarity": "Common",
+            "type": "Calda Toroid"
+          },
+          {
+            "chance": 0.2,
+            "location": "Scyto Raknoid",
+            "rarity": "Common",
+            "type": "Calda Toroid"
+          }
+        ],
         "masterable": false
       },
       {
@@ -57349,7 +58096,14 @@
         "itemCount": 5,
         "imageName": "charamote-sagan-module-028d7f633e.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.5001,
+            "location": "Exploiter Orb",
+            "rarity": "Uncommon",
+            "type": "Charamote Sagan Module"
+          }
+        ],
         "masterable": false
       },
       {
@@ -57359,8 +58113,7 @@
         "itemCount": 3,
         "imageName": "marquise-thyst-09a444de1c.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
@@ -57369,8 +58122,7 @@
         "itemCount": 20,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       }
     ],
     "consumeOnBuild": true,
@@ -57711,6 +58463,17 @@
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/SolarisPosterC"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "heart-of-concrete-honoria-a6945ecbd3.png",
+    "masterable": false,
+    "name": "Heart Of Concrete Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleQorvex"
   },
   {
     "category": "Skins",
@@ -59133,6 +59896,17 @@
     "category": "Skins",
     "description": "An Honoria for your profile.",
     "excludeFromCodex": true,
+    "imageName": "honoria-822c9a754b.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/CodaMasteryTitle"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
     "imageName": "honoria-81c637b8d1.png",
     "masterable": false,
     "name": "Honoria",
@@ -59172,6 +59946,17 @@
     "tradable": false,
     "type": "Misc",
     "uniqueName": "/Lotus/Types/Items/Titles/CompleteDescendiaWispTitle"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-d839e6836a.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/DanteDescendiaTitle"
   },
   {
     "category": "Skins",
@@ -59309,6 +60094,39 @@
     "category": "Skins",
     "description": "An Honoria for your profile.",
     "excludeFromCodex": true,
+    "imageName": "honoria-e33bacb3bf.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/FollieHuntCompleteTitle"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-1465f95bba.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/FollieHuntOneTitle"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-c245c6e173.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/FollieHuntTenTitle"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
     "imageName": "honoria-c6ab24b954.png",
     "masterable": false,
     "name": "Honoria",
@@ -59381,6 +60199,17 @@
     "tradable": false,
     "type": "Misc",
     "uniqueName": "/Lotus/Types/Items/Titles/KalymosTitle"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-d3c4029723.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/KuvaMasteryTitle"
   },
   {
     "category": "Skins",
@@ -59463,6 +60292,127 @@
     "category": "Skins",
     "description": "An Honoria for your profile.",
     "excludeFromCodex": true,
+    "imageName": "honoria-b1e1831843.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/MR10Title"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-f664b5a96d.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/MR13Title"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-12413950b4.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/MR16Title"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-2163a749b6.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/MR19Title"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-eb579aebce.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/MR1Title"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-f3e91d3d5f.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/MR22Title"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-eb29e732f8.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/MR25Title"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-dc4e4fcef7.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/MR28Title"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-15836f895e.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/MR30Title"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-fc8835055a.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/MR4Title"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-fc3be1adaa.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/MR7Title"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
     "imageName": "honoria-c19cccc4cf.png",
     "masterable": false,
     "name": "Honoria",
@@ -59502,6 +60452,28 @@
     "tradable": false,
     "type": "Misc",
     "uniqueName": "/Lotus/Types/Items/Titles/OraxiaPreyTitle"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-ecb4e9be62.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/PeritaHardModeSoloTitle"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-03bb594ad7.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/PeritaHardModeTitle"
   },
   {
     "category": "Skins",
@@ -59562,12 +60534,45 @@
     "category": "Skins",
     "description": "An Honoria for your profile.",
     "excludeFromCodex": true,
+    "imageName": "honoria-269b082f41.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/TenetMasteryTitle"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
     "imageName": "honoria-f9c84a5f94.png",
     "masterable": false,
     "name": "Honoria",
     "tradable": false,
     "type": "Misc",
     "uniqueName": "/Lotus/Types/Items/Titles/TheNewWarTitle"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-0009c9a508.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": true,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/TitleGaussPrime"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-a0e8ee1b7d.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": true,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/TitleGrendelPrime"
   },
   {
     "category": "Skins",
@@ -59612,6 +60617,17 @@
     "tradable": false,
     "type": "Misc",
     "uniqueName": "/Lotus/Types/Items/Titles/VazarinStaffTitle"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "honoria-8755fbb3dc.png",
+    "masterable": false,
+    "name": "Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/VorHardModeTitle"
   },
   {
     "category": "Skins",
@@ -59741,7 +60757,7 @@
   },
   {
     "category": "Skins",
-    "description": "Loki Knave’s looted armor.",
+    "description": "Loki Knave's looted armor.",
     "excludeFromCodex": true,
     "imageName": "hulta-arm-guards-842e0f0ffe.png",
     "masterable": false,
@@ -59752,7 +60768,7 @@
   },
   {
     "category": "Skins",
-    "description": "Loki Knave’s looted armor.",
+    "description": "Loki Knave's looted armor.",
     "excludeFromCodex": true,
     "imageName": "hulta-chest-guard-b1fba7d1f6.png",
     "masterable": false,
@@ -59763,7 +60779,7 @@
   },
   {
     "category": "Skins",
-    "description": "Loki Knave’s looted armor.",
+    "description": "Loki Knave's looted armor.",
     "excludeFromCodex": true,
     "imageName": "hulta-leg-guards-21c18a8074.png",
     "masterable": false,
@@ -60288,6 +61304,16 @@
     "tradable": false,
     "type": "Emotes",
     "uniqueName": "/Lotus/Types/Items/Emotes/DanceDJRomHype"
+  },
+  {
+    "category": "Skins",
+    "description": "Gauss Moto drops in to kick it real quick.",
+    "imageName": "hyper-juggle-ft.-gauss-aaf967111b.png",
+    "masterable": false,
+    "name": "Hyper Juggle Ft. Gauss",
+    "tradable": false,
+    "type": "Emotes",
+    "uniqueName": "/Lotus/Types/Items/Emotes/GrendelDeluxeIILetsRollEmote"
   },
   {
     "category": "Skins",
@@ -66837,6 +67863,26 @@
   },
   {
     "category": "Skins",
+    "description": "The Immortal Helmet for the Jade Warframe.",
+    "imageName": "jade-immortal-helmet-a0929827f8.png",
+    "masterable": false,
+    "name": "Jade Immortal Helmet",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Choir/JadeImmortalHelmet"
+  },
+  {
+    "category": "Skins",
+    "description": "The Immortal Skin for the Jade Warframe.",
+    "imageName": "jade-immortal-skin-88f6d4dce0.png",
+    "masterable": false,
+    "name": "Jade Immortal Skin",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Choir/JadeImmortalSkin"
+  },
+  {
+    "category": "Skins",
     "description": "The Noble Animation Set for Jade.",
     "excludeFromCodex": true,
     "imageName": "jade-noble-animation-set-bad2a59fee.png",
@@ -68763,7 +69809,7 @@
   },
   {
     "category": "Skins",
-    "description": "Bring ‘The Tales of Duviri’ back to the Origin System with this Kexat skin for your Kavat.",
+    "description": "Bring ‘The Tales of Duviri' back to the Origin System with this Kexat skin for your Kavat.",
     "imageName": "kexat-skin-df137f7aba.png",
     "masterable": false,
     "name": "Kexat Skin",
@@ -69075,7 +70121,6 @@
   {
     "category": "Skins",
     "description": "When force falls short, beauty can go a long way to help ensnare your enemies.",
-    "excludeFromCodex": true,
     "imageName": "khora-prime-larqum-helmet-d69cb224fc.png",
     "masterable": false,
     "name": "Khora Prime Larqum Helmet",
@@ -69716,7 +70761,7 @@
   },
   {
     "category": "Skins",
-    "description": "This decorative armored plate is a Ki’Teer original.",
+    "description": "This decorative armored plate is a Ki'Teer original.",
     "excludeFromCodex": true,
     "imageName": "ki'teer-chest-plate-4ad5e8dec9.png",
     "masterable": false,
@@ -69876,7 +70921,7 @@
   },
   {
     "category": "Skins",
-    "description": "This decorative armored plate is a Ki’Teer original.",
+    "description": "This decorative armored plate is a Ki'Teer original.",
     "excludeFromCodex": true,
     "imageName": "ki'teer-leg-plates-663113245c.png",
     "masterable": false,
@@ -70011,7 +71056,7 @@
   },
   {
     "category": "Skins",
-    "description": "This decorative armored plate is a Ki’Teer original.",
+    "description": "This decorative armored plate is a Ki'Teer original.",
     "excludeFromCodex": true,
     "imageName": "ki'teer-shoulder-plates-e5d612a413.png",
     "masterable": false,
@@ -71595,8 +72640,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidHungerItem",
@@ -71605,7 +72649,32 @@
         "itemCount": 2,
         "imageName": "calda-toroid-652e0532d3.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.02,
+            "location": "Orb Vallis - Enrichment Labs Enemies",
+            "rarity": "Uncommon",
+            "type": "Calda Toroid"
+          },
+          {
+            "chance": 0.125,
+            "location": "Venus/Orb Vallis (Level 40 - 60 PROFIT-TAKER - PHASE 2), Rotation C",
+            "rarity": "Uncommon",
+            "type": "3X Calda Toroid"
+          },
+          {
+            "chance": 0.2,
+            "location": "Narmer Scyto Raknoid",
+            "rarity": "Common",
+            "type": "Calda Toroid"
+          },
+          {
+            "chance": 0.2,
+            "location": "Scyto Raknoid",
+            "rarity": "Common",
+            "type": "Calda Toroid"
+          }
+        ],
         "masterable": false
       },
       {
@@ -71615,7 +72684,14 @@
         "itemCount": 5,
         "imageName": "charamote-sagan-module-028d7f633e.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.5001,
+            "location": "Exploiter Orb",
+            "rarity": "Uncommon",
+            "type": "Charamote Sagan Module"
+          }
+        ],
         "masterable": false
       },
       {
@@ -71625,8 +72701,7 @@
         "itemCount": 3,
         "imageName": "marquise-thyst-09a444de1c.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
@@ -71635,8 +72710,7 @@
         "itemCount": 20,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       }
     ],
     "consumeOnBuild": true,
@@ -71672,8 +72746,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidHungerItem",
@@ -71682,7 +72755,32 @@
         "itemCount": 5,
         "imageName": "calda-toroid-652e0532d3.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.02,
+            "location": "Orb Vallis - Enrichment Labs Enemies",
+            "rarity": "Uncommon",
+            "type": "Calda Toroid"
+          },
+          {
+            "chance": 0.125,
+            "location": "Venus/Orb Vallis (Level 40 - 60 PROFIT-TAKER - PHASE 2), Rotation C",
+            "rarity": "Uncommon",
+            "type": "3X Calda Toroid"
+          },
+          {
+            "chance": 0.2,
+            "location": "Narmer Scyto Raknoid",
+            "rarity": "Common",
+            "type": "Calda Toroid"
+          },
+          {
+            "chance": 0.2,
+            "location": "Scyto Raknoid",
+            "rarity": "Common",
+            "type": "Calda Toroid"
+          }
+        ],
         "masterable": false
       },
       {
@@ -71692,7 +72790,14 @@
         "itemCount": 15,
         "imageName": "charamote-sagan-module-028d7f633e.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.5001,
+            "location": "Exploiter Orb",
+            "rarity": "Uncommon",
+            "type": "Charamote Sagan Module"
+          }
+        ],
         "masterable": false
       },
       {
@@ -71702,8 +72807,7 @@
         "itemCount": 15,
         "imageName": "marquise-thyst-09a444de1c.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
@@ -71712,8 +72816,7 @@
         "itemCount": 60,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       }
     ],
     "consumeOnBuild": true,
@@ -71749,8 +72852,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem",
@@ -71759,8 +72861,7 @@
         "itemCount": 50,
         "imageName": "hespazym-alloy-ebcdeeba7a.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidWraithItem",
@@ -71769,7 +72870,26 @@
         "itemCount": 5,
         "imageName": "sola-toroid-54f209afd3.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.02,
+            "location": "Orb Vallis - Temple of Profit Enemies",
+            "rarity": "Uncommon",
+            "type": "Sola Toroid"
+          },
+          {
+            "chance": 0.125,
+            "location": "Venus/Orb Vallis (Level 40 - 60 PROFIT-TAKER - PHASE 3), Rotation C",
+            "rarity": "Uncommon",
+            "type": "3X Sola Toroid"
+          },
+          {
+            "chance": 0.2,
+            "location": "Kyta Raknoid",
+            "rarity": "Common",
+            "type": "Sola Toroid"
+          }
+        ],
         "masterable": false
       },
       {
@@ -71779,7 +72899,320 @@
         "itemCount": 20,
         "imageName": "tellurium-9236306b55.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0018,
+            "location": "Exo Butcher",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Elite Lancer",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Eviscerator",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Gokstad Officer",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Gokstad Pilot",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Raider Carver",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Raider Eviscerator",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Raider",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Roller Sentry",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Supressor",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Butcher",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Elite Lancer",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Eviscerator",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Gokstad Officer",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Gokstad Pilot",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Raider Carver",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Raider Eviscerator",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Raider",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Roller Sentry",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Supressor",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Butcher",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Elite Lancer",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Eviscerator",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Gokstad Officer",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Gokstad Pilot",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Raider Carver",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Raider Eviscerator",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Raider",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Roller Sentry",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Supressor",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0067,
+            "location": "Mars/Gradivus (Caches), Rotation C",
+            "rarity": "Legendary",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0067,
+            "location": "Mercury/Neruda (Caches), Rotation C",
+            "rarity": "Legendary",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0067,
+            "location": "Mercury/Terminus (Caches), Rotation C",
+            "rarity": "Legendary",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0067,
+            "location": "Venus/Ishtar (Caches), Rotation C",
+            "rarity": "Legendary",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0367,
+            "location": "Kuva Fortress/Dakata (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0367,
+            "location": "Neptune/Halimede (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0367,
+            "location": "Neptune/Thalassa (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0367,
+            "location": "Pluto/Charon (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0367,
+            "location": "Pluto/Cypress (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0367,
+            "location": "Sedna/Phithale (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0367,
+            "location": "Sedna/Rusalka (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0367,
+            "location": "Uranus/Portia (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.044,
+            "location": "Ceres/Ker (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.044,
+            "location": "Ceres/Thon (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.044,
+            "location": "Jupiter/Adrastea (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.044,
+            "location": "Jupiter/Carpo (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.044,
+            "location": "Saturn/Calypso (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.044,
+            "location": "Saturn/Pallene (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.1082,
+            "location": "Lua/Plato (Caches), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.1549,
+            "location": "Uranus/Desdemona (Caches), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.1549,
+            "location": "Uranus/Prospero (Caches), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.1549,
+            "location": "Uranus/Setebos (Caches), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Tellurium"
+          }
+        ],
         "masterable": false,
         "type": "Resource"
       },
@@ -71790,7 +73223,14 @@
         "itemCount": 15,
         "imageName": "tromyzon-entroplasma-c324b3c3bd.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.5001,
+            "location": "Exploiter Orb",
+            "rarity": "Uncommon",
+            "type": "Tromyzon Entroplasma"
+          }
+        ],
         "masterable": false
       }
     ],
@@ -71827,8 +73267,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem",
@@ -71837,8 +73276,7 @@
         "itemCount": 30,
         "imageName": "hespazym-alloy-ebcdeeba7a.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemBCutItem",
@@ -71847,8 +73285,7 @@
         "itemCount": 10,
         "imageName": "marquise-thyst-09a444de1c.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemACutItem",
@@ -71857,8 +73294,7 @@
         "itemCount": 10,
         "imageName": "radiant-zodian-0b4daa36b7.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEcosynthAnalyzerItem",
@@ -71867,7 +73303,14 @@
         "itemCount": 15,
         "imageName": "synathid-ecosynth-analyzer-7d16a973c9.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.5001,
+            "location": "Exploiter Orb",
+            "rarity": "Uncommon",
+            "type": "Synathid Ecosynth Analyzer"
+          }
+        ],
         "masterable": false
       }
     ],
@@ -71904,8 +73347,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishLatheCoogulantItem",
@@ -71914,7 +73356,14 @@
         "itemCount": 15,
         "imageName": "longwinder-lathe-coagulant-6e430abe78.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.5001,
+            "location": "Exploiter Orb",
+            "rarity": "Uncommon",
+            "type": "Longwinder Lathe Coagulant"
+          }
+        ],
         "masterable": false
       },
       {
@@ -71924,8 +73373,7 @@
         "itemCount": 10,
         "imageName": "radiant-zodian-0b4daa36b7.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidMicroidItem",
@@ -71934,7 +73382,32 @@
         "itemCount": 5,
         "imageName": "vega-toroid-31d48d6576.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.01,
+            "location": "Mite Raknoid",
+            "rarity": "Common",
+            "type": "Vega Toroid"
+          },
+          {
+            "chance": 0.01,
+            "location": "Narmer Mite",
+            "rarity": "Common",
+            "type": "Vega Toroid"
+          },
+          {
+            "chance": 0.02,
+            "location": "Orb Vallis - Spaceport Enemies",
+            "rarity": "Uncommon",
+            "type": "Vega Toroid"
+          },
+          {
+            "chance": 0.125,
+            "location": "Venus/Orb Vallis (Level 40 - 60 PROFIT-TAKER - PHASE 1), Rotation C",
+            "rarity": "Uncommon",
+            "type": "3X Vega Toroid"
+          }
+        ],
         "masterable": false
       },
       {
@@ -71944,8 +73417,7 @@
         "itemCount": 40,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       }
     ],
     "consumeOnBuild": true,
@@ -72873,6 +74345,17 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/SWLamassuShoulderArmor/SWLamassuShoulderArmorA"
+  },
+  {
+    "category": "Skins",
+    "description": "A time of mourning.",
+    "excludeFromCodex": true,
+    "imageName": "lament-0d66723c4e.png",
+    "masterable": false,
+    "name": "Lament",
+    "tradable": false,
+    "type": "Emotes",
+    "uniqueName": "/Lotus/Types/Items/Emotes/CryForYouEmote"
   },
   {
     "category": "Skins",
@@ -75184,6 +76667,27 @@
   },
   {
     "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "liberated-grineer-honoria-ae4b267fad.png",
+    "masterable": false,
+    "name": "Liberated Grineer Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/SteelMeridianTitle"
+  },
+  {
+    "category": "Skins",
+    "description": "Celebrate the completion of Follie's Shadowgraph during Operation: Atramentum with a festive collection of balloons.",
+    "imageName": "liftbalon-ephemera-326051b3cf.png",
+    "masterable": false,
+    "name": "Liftbalon Ephemera",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Effects/InkEphemeraC"
+  },
+  {
+    "category": "Skins",
     "description": "Invoke the play of light and dark with this selection of colors.",
     "hexColours": [
       {
@@ -76422,6 +77926,16 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauPurpleHeartMedalC"
   },
   {
+    "category": "Skins",
+    "description": "This fluffy version of Entrati's loyal butler is in need of some hugs.",
+    "imageName": "loid-floof-423245777b.png",
+    "masterable": false,
+    "name": "Loid Floof",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLoid"
+  },
+  {
     "buildPrice": 15000,
     "buildQuantity": 1,
     "buildTime": 43200,
@@ -76440,7 +77954,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
         "name": "Damaged Necramech Pod",
-        "description": "A modular component for a Necramech. It’s damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+        "description": "A modular component for a Necramech. It's damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
         "itemCount": 1,
         "imageName": "damaged-necramech-pod.png",
         "tradable": true,
@@ -76507,7 +78021,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
         "name": "Damaged Necramech Pod",
-        "description": "A modular component for a Necramech. It’s damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+        "description": "A modular component for a Necramech. It's damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
         "itemCount": 1,
         "imageName": "damaged-necramech-pod.png",
         "tradable": true,
@@ -76574,7 +78088,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
         "name": "Damaged Necramech Pod",
-        "description": "A modular component for a Necramech. It’s damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+        "description": "A modular component for a Necramech. It's damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
         "itemCount": 1,
         "imageName": "damaged-necramech-pod.png",
         "tradable": true,
@@ -76641,7 +78155,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
         "name": "Damaged Necramech Pod",
-        "description": "A modular component for a Necramech. It’s damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+        "description": "A modular component for a Necramech. It's damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
         "itemCount": 1,
         "imageName": "damaged-necramech-pod.png",
         "tradable": true,
@@ -81311,6 +82825,16 @@
   },
   {
     "category": "Skins",
+    "description": "Be prepared for anything from a firefight to a midnight snack with Grendel Turbis' signature syandana.",
+    "imageName": "lumbox-tactical-syandana-4781825c38.png",
+    "masterable": false,
+    "name": "Lumbox Tactical Syandana",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Scarves/GrendelDeluxeIISyandana"
+  },
+  {
+    "category": "Skins",
     "description": "A unique pair of earpieces, designed by lukinu_u.",
     "imageName": "lumis-earpiece-2635a2fc82.png",
     "masterable": false,
@@ -81508,7 +83032,7 @@
   },
   {
     "category": "Skins",
-    "description": "A sprightly dance reminiscent of the kaithe’s ambling prance, suitable for the Lunar Renewal.\n\nEquip this emote using the Gear Wheel tab in your Arsenal.",
+    "description": "A sprightly dance reminiscent of the kaithe's ambling prance, suitable for the Lunar Renewal.\n\nEquip this emote using the Gear Wheel tab in your Arsenal.",
     "imageName": "lunar-renewal-kaithe-flourish-d639e1dadc.png",
     "masterable": false,
     "name": "Lunar Renewal Kaithe Flourish",
@@ -83796,6 +85320,17 @@
   },
   {
     "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "marauder-of-the-deep-honoria-2324452c8d.png",
+    "masterable": false,
+    "name": "Marauder Of The Deep Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleHydroid"
+  },
+  {
+    "category": "Skins",
     "description": "Bow to the Conclave with this weapon skin.",
     "imageName": "marelok-conclave-skin-f10bbace2a.png",
     "masterable": false,
@@ -84369,7 +85904,7 @@
   },
   {
     "category": "Skins",
-    "description": "Built to the Unum’s specifications, and fitted with prismatic lenses supplied by the Quill Onkko.",
+    "description": "Built to the Unum's specifications, and fitted with prismatic lenses supplied by the Quill Onkko.",
     "imageName": "mask-of-the-lost-one-e23c9ca4a1.png",
     "masterable": false,
     "name": "Mask Of The Lost One",
@@ -84821,6 +86356,27 @@
   },
   {
     "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "matron-of-malaise-honoria-de2dbc8b44.png",
+    "masterable": false,
+    "name": "Matron Of Malaise Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleSaryn"
+  },
+  {
+    "category": "Skins",
+    "description": "A unique hammer skin, designed by Vhynnz.",
+    "imageName": "maulleus-hammer-skin-ad43fcf3fb.png",
+    "masterable": false,
+    "name": "Maulleus Hammer Skin",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Hammer/SWMaulleusHammerSkin"
+  },
+  {
+    "category": "Skins",
     "description": "Bring a touch of the Necralisk to this Archwing weapon.",
     "imageName": "mausolon-supulchrax-skin-24d358e7ed.png",
     "masterable": false,
@@ -85006,6 +86562,16 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/SarynDeluxeMeleeDangle"
+  },
+  {
+    "category": "Skins",
+    "description": "Bestowed in commemoration of exceptional battlefield achievement. Purged of any malicious code.",
+    "imageName": "mentor-ayatan-sumdali-3e9247ab33.png",
+    "masterable": false,
+    "name": "Mentor Ayatan Sumdali",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Liset/PeritaHoodOrnament"
   },
   {
     "category": "Skins",
@@ -85896,6 +87462,17 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Saryn"
+  },
+  {
+    "category": "Skins",
+    "description": "Stay stylish even during the worst of international incidents.",
+    "excludeFromCodex": true,
+    "imageName": "minerva's-hairstyle-(no-shades)-be2b9910e4.png",
+    "masterable": false,
+    "name": "Minerva's Hairstyle (No Shades)",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999SarynNoGlasses"
   },
   {
     "category": "Skins",
@@ -89931,6 +91508,16 @@
   },
   {
     "category": "Skins",
+    "description": "Can't get enough of Necraloid? Bring home this cuddly, and silent, version.",
+    "imageName": "necraloid-floof-b4e1e57617.png",
+    "masterable": false,
+    "name": "Necraloid Floof",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyNecraLoid"
+  },
+  {
+    "category": "Skins",
     "description": "Adorn your Orbiter with this decoration representing a Necramech.",
     "imageName": "necramech-statue-ec6372d314.png",
     "masterable": false,
@@ -91359,7 +92946,7 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/Helmets/NidusAltTwoHelmetBlueprint",
         "name": "Blueprint",
-        "description": "Evolution’s nightmare. Open wide with this alternate helm for Nidus.",
+        "description": "Evolution's nightmare. Open wide with this alternate helm for Nidus.",
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
@@ -91400,7 +92987,7 @@
       }
     ],
     "consumeOnBuild": true,
-    "description": "Evolution’s nightmare. Open wide with this alternate helm for Nidus.",
+    "description": "Evolution's nightmare. Open wide with this alternate helm for Nidus.",
     "imageName": "nidus-myxini-helmet-8312b8bbc2.png",
     "masterable": false,
     "name": "Nidus Myxini Helmet",
@@ -92191,6 +93778,16 @@
     "tradable": false,
     "type": "Fur Pattern",
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternXmasB"
+  },
+  {
+    "category": "Skins",
+    "description": "A golden image of Executor Nitokh, whose arbitrary nature and perverse appetites were legendary even among the Seven.",
+    "imageName": "nitokh-statue-455289719b.png",
+    "masterable": false,
+    "name": "Nitokh Statue",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Events/StatueNitokh"
   },
   {
     "category": "Skins",
@@ -95252,6 +96849,26 @@
   },
   {
     "category": "Skins",
+    "description": "A unique skin for the Nova Warframe, designed by blazingcobalt & RoyalPrat.",
+    "imageName": "nova-netrastelle-helmet-58757f5f60.png",
+    "masterable": false,
+    "name": "Nova Netrastelle Helmet",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/SWNetraselleNovaHelmet"
+  },
+  {
+    "category": "Skins",
+    "description": "A unique skin for the Nova Warframe, designed by blazingcobalt & RoyalPrat.",
+    "imageName": "nova-netrastelle-skin-4b8ec07b09.png",
+    "masterable": false,
+    "name": "Nova Netrastelle Skin",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/SWNetraselleNovaSkin"
+  },
+  {
+    "category": "Skins",
     "description": "The Noble Animation Set for Nova.",
     "excludeFromCodex": true,
     "imageName": "nova-noble-animation-set-f1915f25b2.png",
@@ -95603,6 +97220,26 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/GrineerUrban/NukorGrineerUrbanCamo"
+  },
+  {
+    "category": "Skins",
+    "description": "Stand guard against the allure of the Void with this opulent syandana.",
+    "imageName": "nulwarden-syandana-0cd533cc83.png",
+    "masterable": false,
+    "name": "Nulwarden Syandana",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TC2025OrokinScarf"
+  },
+  {
+    "category": "Skins",
+    "description": "This tattered variant syandana displays the wearer's ability to manipulate the Void.",
+    "imageName": "nulwarden-syandana-(void-swept)-b8092d54d9.png",
+    "masterable": false,
+    "name": "Nulwarden Syandana (Void-Swept)",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TC2025EvolvedOrokinScarf"
   },
   {
     "category": "Skins",
@@ -96723,6 +98360,17 @@
   },
   {
     "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "oblivion's-kiss-honoria-6319cb67a8.png",
+    "masterable": false,
+    "name": "Oblivion's Kiss Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleCyteZeroNine"
+  },
+  {
+    "category": "Skins",
     "description": "A watchful eye for the Orbiter.",
     "imageName": "observant-vitreum-bcc4c7bab2.png",
     "masterable": false,
@@ -97759,7 +99407,7 @@
   },
   {
     "category": "Skins",
-    "description": "Raff Seglass’ enchanting Vistagraph offers respite from the wandering mind.",
+    "description": "Raff Seglass' enchanting Vistagraph offers respite from the wandering mind.",
     "excludeFromCodex": true,
     "imageName": "only-beyond-955fd4310b.png",
     "masterable": false,
@@ -98143,6 +99791,61 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitDexOutfit"
+  },
+  {
+    "category": "Skins",
+    "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
+    "excludeFromCodex": true,
+    "imageName": "operator-escuchon-apparel-a203e7625a.png",
+    "masterable": false,
+    "name": "Operator Escuchon Apparel",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtOperatorCalDeluxe"
+  },
+  {
+    "category": "Skins",
+    "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
+    "excludeFromCodex": true,
+    "imageName": "operator-escuchon-greaves-56d93216fe.png",
+    "masterable": false,
+    "name": "Operator Escuchon Greaves",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOperatorCalDeluxe"
+  },
+  {
+    "category": "Skins",
+    "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
+    "excludeFromCodex": true,
+    "imageName": "operator-escuchon-hood-f9e92894a2.png",
+    "masterable": false,
+    "name": "Operator Escuchon Hood",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOperatorCalDeluxe"
+  },
+  {
+    "category": "Skins",
+    "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
+    "excludeFromCodex": true,
+    "imageName": "operator-escuchon-pauldrons-a3dc9a86a0.png",
+    "masterable": false,
+    "name": "Operator Escuchon Pauldrons",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOperatorCalDeluxe"
+  },
+  {
+    "category": "Skins",
+    "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
+    "excludeFromCodex": true,
+    "imageName": "operator-escuchon-suit-edc270db4e.png",
+    "masterable": false,
+    "name": "Operator Escuchon Suit",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOperatorCalDeluxe"
   },
   {
     "category": "Skins",
@@ -103650,6 +105353,16 @@
   },
   {
     "category": "Skins",
+    "description": "To see truth in the shapes created by this ephemera is a mark of increased understanding.",
+    "imageName": "pareidola-ephemera-805166abbc.png",
+    "masterable": false,
+    "name": "Pareidola Ephemera",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Effects/InkEphemeraB"
+  },
+  {
+    "category": "Skins",
     "description": "With it’s constantly shifting finish of polished cloud-stone, the Paris Abra Skin is sure to impress.",
     "imageName": "paris-abra-skin-754d89e221.png",
     "masterable": false,
@@ -105875,6 +107588,16 @@
   },
   {
     "category": "Skins",
+    "description": "A unique signa for your Warframe, designed by Ventralhound.",
+    "imageName": "pragmatica-signa-e38371bc71.png",
+    "masterable": false,
+    "name": "Pragmatica Signa",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Crowns/SWSignaPragmaticaCrown"
+  },
+  {
+    "category": "Skins",
     "description": "President King Corgi acknowledges your unending dedication to thwarting Anna Ki and the G.O.B.",
     "imageName": "president-king-corgi-emblem-999b82069d.png",
     "masterable": false,
@@ -106507,6 +108230,26 @@
   },
   {
     "category": "Skins",
+    "description": "A unique display that celebrates Pride. Created by Community Artist Ritens.",
+    "imageName": "pride-frame-display-d4829b8231.png",
+    "masterable": false,
+    "name": "Pride Frame Display",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/Pride2026SquarePictureFrame"
+  },
+  {
+    "category": "Skins",
+    "description": "A unique display that celebrates Pride. Created by Community Artist Ritens.",
+    "imageName": "pride-mesa-prime-and-kaithe-display-aad8490f4f.png",
+    "masterable": false,
+    "name": "Pride Mesa Prime And Kaithe Display",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Pride2026Poster"
+  },
+  {
+    "category": "Skins",
     "description": "Celebrate Pride with this heart-shaped ornament.",
     "imageName": "pride-oro-decoration-743c1f6f7a.png",
     "masterable": false,
@@ -106524,6 +108267,16 @@
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Pride2in1Display"
+  },
+  {
+    "category": "Skins",
+    "description": "A fresh coating of ink marks the first step taken on the road to understanding the truth of the Shadowgrapher.",
+    "imageName": "primatura-ephemera-01210b14ed.png",
+    "masterable": false,
+    "name": "Primatura Ephemera",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Effects/InkEphemeraA"
   },
   {
     "category": "Skins",
@@ -107513,6 +109266,26 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Odalisk/OdaliskHelmet"
+  },
+  {
+    "category": "Skins",
+    "description": "The Immortal Helmet for the Protea Warframe.",
+    "imageName": "protea-immortal-helmet-3ab7adcede.png",
+    "masterable": false,
+    "name": "Protea Immortal Helmet",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Odalisk/ProteaImmortalHelmet"
+  },
+  {
+    "category": "Skins",
+    "description": "The Immortal skin for the Protea Warframe.",
+    "imageName": "protea-immortal-skin-d11136b490.png",
+    "masterable": false,
+    "name": "Protea Immortal Skin",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Odalisk/ProteaImmortalSkin"
   },
   {
     "category": "Skins",
@@ -110549,6 +112322,56 @@
   },
   {
     "category": "Skins",
+    "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+    "imageName": "rell's-anger-emotile-aaf9fe8da7.png",
+    "masterable": false,
+    "name": "Rell's Anger Emotile",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardAngry"
+  },
+  {
+    "category": "Skins",
+    "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+    "imageName": "rell's-anxiety-emotile-882f84fd47.png",
+    "masterable": false,
+    "name": "Rell's Anxiety Emotile",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardNervous"
+  },
+  {
+    "category": "Skins",
+    "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+    "imageName": "rell's-boredom-emotile-c5184da926.png",
+    "masterable": false,
+    "name": "Rell's Boredom Emotile",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardBored"
+  },
+  {
+    "category": "Skins",
+    "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+    "imageName": "rell's-confusion-emotile-c9a41067f6.png",
+    "masterable": false,
+    "name": "Rell's Confusion Emotile",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardConfused"
+  },
+  {
+    "category": "Skins",
+    "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+    "imageName": "rell's-disgust-emotile-52c9bc042e.png",
+    "masterable": false,
+    "name": "Rell's Disgust Emotile",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardDisgusted"
+  },
+  {
+    "category": "Skins",
     "description": "Rell used the Donda's soothing motion and hum to bring focus to his mind. This is a sacred object for the Red Veil.",
     "excludeFromCodex": true,
     "imageName": "rell's-donda-7cb5ca93b8.png",
@@ -110557,6 +112380,116 @@
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/HarrowQuestKeyOrnament"
+  },
+  {
+    "category": "Skins",
+    "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+    "imageName": "rell's-embarrassment-emotile-834e40dfb8.png",
+    "masterable": false,
+    "name": "Rell's Embarrassment Emotile",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardEmbarrassed"
+  },
+  {
+    "category": "Skins",
+    "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+    "imageName": "rell's-excitement-emotile-a5f1707e6e.png",
+    "masterable": false,
+    "name": "Rell's Excitement Emotile",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardExcited"
+  },
+  {
+    "category": "Skins",
+    "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+    "imageName": "rell's-fatigue-emotile-fd10e9ddfb.png",
+    "masterable": false,
+    "name": "Rell's Fatigue Emotile",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardTired"
+  },
+  {
+    "category": "Skins",
+    "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+    "imageName": "rell's-fear-emotile-6c79b0f7b0.png",
+    "masterable": false,
+    "name": "Rell's Fear Emotile",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardScared"
+  },
+  {
+    "category": "Skins",
+    "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+    "imageName": "rell's-happiness-emotile-ceef6505d2.png",
+    "masterable": false,
+    "name": "Rell's Happiness Emotile",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardHappy"
+  },
+  {
+    "category": "Skins",
+    "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+    "imageName": "rell's-hunger-emotile-f2b94b28a0.png",
+    "masterable": false,
+    "name": "Rell's Hunger Emotile",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardHungry"
+  },
+  {
+    "category": "Skins",
+    "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+    "imageName": "rell's-petulance-emotile-a3e360be5b.png",
+    "masterable": false,
+    "name": "Rell's Petulance Emotile",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardGrumpy"
+  },
+  {
+    "category": "Skins",
+    "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+    "imageName": "rell's-pride-emotile-05a3a4216b.png",
+    "masterable": false,
+    "name": "Rell's Pride Emotile",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardProud"
+  },
+  {
+    "category": "Skins",
+    "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+    "imageName": "rell's-sadness-emotile-4410905ec9.png",
+    "masterable": false,
+    "name": "Rell's Sadness Emotile",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardSad"
+  },
+  {
+    "category": "Skins",
+    "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+    "imageName": "rell's-shyness-emotile-c01e07f497.png",
+    "masterable": false,
+    "name": "Rell's Shyness Emotile",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardShy"
+  },
+  {
+    "category": "Skins",
+    "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+    "imageName": "rell's-surprise-emotile-be5614b0c6.png",
+    "masterable": false,
+    "name": "Rell's Surprise Emotile",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardSurprised"
   },
   {
     "category": "Skins",
@@ -110792,6 +112725,16 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWRetrorolystSyandana"
+  },
+  {
+    "category": "Skins",
+    "description": "Grendel Turbis drops in for a race.",
+    "imageName": "rev-up-ft.-grendel-efe6d0ef1b.png",
+    "masterable": false,
+    "name": "Rev-Up Ft. Grendel",
+    "tradable": false,
+    "type": "Emotes",
+    "uniqueName": "/Lotus/Types/Items/Emotes/GaussDeluxeIILetsRaceEmote"
   },
   {
     "category": "Skins",
@@ -113024,6 +114967,16 @@
   },
   {
     "category": "Skins",
+    "description": "A stately dance worthy of polite society.\n\nEquip this emote using the Gear Wheel tab in your Arsenal.",
+    "imageName": "rondelet-emote-05fade5562.png",
+    "masterable": false,
+    "name": "Rondelet Emote",
+    "tradable": false,
+    "type": "Emotes",
+    "uniqueName": "/Lotus/Types/Items/Emotes/NightwaveDanceEmote"
+  },
+  {
+    "category": "Skins",
     "description": "Splices the genes in your pet Kavat to change the color of its fur.",
     "imageName": "root-black-29df568891.png",
     "masterable": false,
@@ -114126,6 +116079,17 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/MakeupMaskJ"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "saint-of-altra-honoria-b94b813a7c.png",
+    "masterable": false,
+    "name": "Saint Of Altra Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleGauss"
   },
   {
     "category": "Skins",
@@ -116511,6 +118475,17 @@
   },
   {
     "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "seeker-of-truth-honoria-7ab751dd0c.png",
+    "masterable": false,
+    "name": "Seeker Of Truth Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/ArbitersOfHexisTitle"
+  },
+  {
+    "category": "Skins",
     "description": "Let nothing hinder you from safeguarding those you hold dear.",
     "imageName": "seighe-scythe-skin-e882a3799e.png",
     "masterable": false,
@@ -116695,6 +118670,16 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeOctaviaSyandana"
+  },
+  {
+    "category": "Skins",
+    "description": "Carve through the toughest of meat with Grendel Turbis' signature heavy blade skin.",
+    "imageName": "serrabilis-heavy-blade-skin-67743ac06d.png",
+    "masterable": false,
+    "name": "Serrabilis Heavy Blade Skin",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Deluxe/MasseterDeluxeGreatswordSkin"
   },
   {
     "category": "Skins",
@@ -117180,6 +119165,17 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Wraith/SevagothPrimeShadowClawsSkin"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "shadow-conservator-honoria-8a66191da7.png",
+    "masterable": false,
+    "name": "Shadow Conservator Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/ShadowgrapherEventVendorTitle"
   },
   {
     "category": "Skins",
@@ -118942,7 +120938,7 @@
   },
   {
     "category": "Skins",
-    "description": "A Grineer Bolkor remodeled for Tenno reinforcement. Skaut’s alert signal calls Kahl and his Grineer brothers for backup. When backup is active, use the alert signal to replenish your squad’s health. Each squad member can call one additional Grineer brother to join the fight.\n\nAlso available in the Market after completing the Veilbreaker quest.",
+    "description": "A Grineer Bolkor remodeled for Tenno reinforcement. Skaut's alert signal calls Kahl and his Grineer brothers for backup. When backup is active, use the alert signal to replenish your squad's health. Each squad member can call one additional Grineer brother to join the fight.\n\nAlso available in the Market after completing the Veilbreaker quest.",
     "excludeFromCodex": true,
     "imageName": "skaut-skin-cb41730046.png",
     "masterable": false,
@@ -119097,8 +121093,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidHungerItem",
@@ -119107,7 +121102,32 @@
         "itemCount": 2,
         "imageName": "calda-toroid-652e0532d3.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.02,
+            "location": "Orb Vallis - Enrichment Labs Enemies",
+            "rarity": "Uncommon",
+            "type": "Calda Toroid"
+          },
+          {
+            "chance": 0.125,
+            "location": "Venus/Orb Vallis (Level 40 - 60 PROFIT-TAKER - PHASE 2), Rotation C",
+            "rarity": "Uncommon",
+            "type": "3X Calda Toroid"
+          },
+          {
+            "chance": 0.2,
+            "location": "Narmer Scyto Raknoid",
+            "rarity": "Common",
+            "type": "Calda Toroid"
+          },
+          {
+            "chance": 0.2,
+            "location": "Scyto Raknoid",
+            "rarity": "Common",
+            "type": "Calda Toroid"
+          }
+        ],
         "masterable": false
       },
       {
@@ -119117,7 +121137,14 @@
         "itemCount": 5,
         "imageName": "charamote-sagan-module-028d7f633e.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.5001,
+            "location": "Exploiter Orb",
+            "rarity": "Uncommon",
+            "type": "Charamote Sagan Module"
+          }
+        ],
         "masterable": false
       },
       {
@@ -119127,8 +121154,7 @@
         "itemCount": 3,
         "imageName": "marquise-thyst-09a444de1c.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
@@ -119137,8 +121163,7 @@
         "itemCount": 20,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       }
     ],
     "consumeOnBuild": true,
@@ -124061,6 +126086,26 @@
   },
   {
     "category": "Skins",
+    "description": "A unique helmet for the Styanax Warframe, designed by malaya & Xtygian.",
+    "imageName": "styanax-raevuz-helmet-511dab298e.png",
+    "masterable": false,
+    "name": "Styanax Raevuz Helmet",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Hoplite/SWRaevuzStyanaxHelmet"
+  },
+  {
+    "category": "Skins",
+    "description": "A unique skin for the Styanax Warframe, designed by malaya & Xtygian.",
+    "imageName": "styanax-raevuz-skin-7ca50efaf4.png",
+    "masterable": false,
+    "name": "Styanax Raevuz Skin",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Hoplite/SWRaevuzStyanaxSkin"
+  },
+  {
+    "category": "Skins",
     "description": "The standard issue skin for the Styanax Warframe.",
     "excludeFromCodex": true,
     "imageName": "styanax-skin-79e4e54022.png",
@@ -125201,6 +127246,16 @@
   },
   {
     "category": "Skins",
+    "description": "Sleekly aerodynamic, Gauss Moto's signature syandana is made for speed.",
+    "imageName": "tailfin-syandana-3852282c7a.png",
+    "masterable": false,
+    "name": "Tailfin Syandana",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Scarves/GaussDeluxeIISyandana"
+  },
+  {
+    "category": "Skins",
     "description": "A stunningly detailed representation of the signature Grineer fighter craft.",
     "imageName": "taktis-fighter-decoration-300969354d.png",
     "masterable": false,
@@ -125813,6 +127868,16 @@
   },
   {
     "category": "Skins",
+    "description": "Distinguish yourself with the essence of nobility.",
+    "imageName": "tealtrian-ephemera-db2a4c0359.png",
+    "masterable": false,
+    "name": "Tealtrian Ephemera",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Effects/ProteaDeluxeEphemera"
+  },
+  {
+    "category": "Skins",
     "description": "When DJ RoM speaks, the world tunes in! And this reporter was no exception. The whole crew from On-lyne nodded along as DJ said, “We became a group because we - infect people.” Talk about squad goals!",
     "imageName": "technocyte-dj-rom-floof-6a25e06437.png",
     "masterable": false,
@@ -125986,6 +128051,16 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SyndicateAHScarf"
+  },
+  {
+    "category": "Skins",
+    "description": "This sleek amp skin is a masterstroke of craftsmanship.",
+    "imageName": "tempera-amp-skin-5ed80c5351.png",
+    "masterable": false,
+    "name": "Tempera Amp Skin",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Amp/InkSiroccoAmpSkin"
   },
   {
     "category": "Skins",
@@ -129695,6 +131770,17 @@
   },
   {
     "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "tenno-of-a-thousand-days-honoria-e7a9792c51.png",
+    "masterable": false,
+    "name": "Tenno Of A Thousand Days Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/ThousandDaysLoginRewardTitle"
+  },
+  {
+    "category": "Skins",
     "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
     "imageName": "tenno-red-27deee0b1a.png",
     "masterable": false,
@@ -130155,61 +132241,6 @@
   },
   {
     "category": "Skins",
-    "description": "Congratulations on winning Best in Show in the TennoCon 2023 Cosplay Contest!",
-    "excludeFromCodex": true,
-    "imageName": "tennocon-2023---best-in-show-award-1a6d81f71b.png",
-    "masterable": false,
-    "name": "Tennocon 2023 - Best In Show Award",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2023BestInShowAwardGlyph"
-  },
-  {
-    "category": "Skins",
-    "description": "Congratulations on winning the Floofy Cuteness Award in the TennoCon 2023 Cosplay Contest!",
-    "excludeFromCodex": true,
-    "imageName": "tennocon-2023---floofy-cuteness-award-292a11244c.png",
-    "masterable": false,
-    "name": "Tennocon 2023 - Floofy Cuteness Award",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2023CutenessAwardGlyph"
-  },
-  {
-    "category": "Skins",
-    "description": "Congratulations on winning the Master Teasonai Award in the TennoCon 2023 Cosplay Contest!",
-    "excludeFromCodex": true,
-    "imageName": "tennocon-2023---master-teasonai-award-ea45de4faa.png",
-    "masterable": false,
-    "name": "Tennocon 2023 - Master Teasonai Award",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2023BestPetAwardGlyph"
-  },
-  {
-    "category": "Skins",
-    "description": "Congratulations on winning the Ordis Punny Award in the TennoCon 2023 Cosplay Contest!",
-    "excludeFromCodex": true,
-    "imageName": "tennocon-2023---ordis-punny-award-c423ed1026.png",
-    "masterable": false,
-    "name": "Tennocon 2023 - Ordis Punny Award",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2023FunniestAwardGlyph"
-  },
-  {
-    "category": "Skins",
-    "description": "Congratulations on winning the Solaris Workmanship Award in the TennoCon 2023 Cosplay Contest!",
-    "excludeFromCodex": true,
-    "imageName": "tennocon-2023---solaris-workmanship-award-83915abbd5.png",
-    "masterable": false,
-    "name": "Tennocon 2023 - Solaris Workmanship Award",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2023BestWorkmanshipAwardGlyph"
-  },
-  {
-    "category": "Skins",
     "description": "Bestowed upon those who joined together in celebration at TennoCon 2023.",
     "imageName": "tennocon-2023-syandana-eecace9ce7.png",
     "masterable": false,
@@ -130241,17 +132272,6 @@
   },
   {
     "category": "Skins",
-    "description": "Congratulations on winning the Floofy Cuteness Award in the TennoCon 2024 Cosplay Contest!",
-    "excludeFromCodex": true,
-    "imageName": "tennocon-2024---floofy-cuteness-award-d7311ca2c4.png",
-    "masterable": false,
-    "name": "Tennocon 2024 - Floofy Cuteness Award",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024CutenessAwardGlyph"
-  },
-  {
-    "category": "Skins",
     "description": "Congratulations on winning the Master Teasonai Award in the TennoCon 2024 Cosplay Show!",
     "excludeFromCodex": true,
     "imageName": "tennocon-2024---master-teasonai-award-bb2b97496e.png",
@@ -130260,17 +132280,6 @@
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2024CosplayBestPetTrophy"
-  },
-  {
-    "category": "Skins",
-    "description": "Congratulations on winning the Master Teasonai Award in the TennoCon 2024 Cosplay Contest!",
-    "excludeFromCodex": true,
-    "imageName": "tennocon-2024---master-teasonai-award-5ffbc5ee4b.png",
-    "masterable": false,
-    "name": "Tennocon 2024 - Master Teasonai Award",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024BestPetAwardGlyph"
   },
   {
     "category": "Skins",
@@ -130285,17 +132294,6 @@
   },
   {
     "category": "Skins",
-    "description": "Congratulations on winning the Ordis Punny Award in the TennoCon 2024 Cosplay Contest!",
-    "excludeFromCodex": true,
-    "imageName": "tennocon-2024---ordis-punny-award-32674f7eb1.png",
-    "masterable": false,
-    "name": "Tennocon 2024 - Ordis Punny Award",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024FunniestAwardGlyph"
-  },
-  {
-    "category": "Skins",
     "description": "Congratulations on winning the Orokin Gold Award in the TennoCon 2024 Cosplay Show!",
     "excludeFromCodex": true,
     "imageName": "tennocon-2024---orokin-gold-award-0701f633da.png",
@@ -130304,28 +132302,6 @@
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2024CosplayBestInShowTrophy"
-  },
-  {
-    "category": "Skins",
-    "description": "Congratulations on winning the Orokin Gold Award in the TennoCon 2024 Cosplay Contest!",
-    "excludeFromCodex": true,
-    "imageName": "tennocon-2024---orokin-gold-award-8cd0217b5b.png",
-    "masterable": false,
-    "name": "Tennocon 2024 - Orokin Gold Award",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024BestInShowAwardGlyph"
-  },
-  {
-    "category": "Skins",
-    "description": "Congratulations on winning the Solaris Workmanship Award in the TennoCon 2024 Cosplay Contest!",
-    "excludeFromCodex": true,
-    "imageName": "tennocon-2024---solaris-workmanship-award-fb0644811e.png",
-    "masterable": false,
-    "name": "Tennocon 2024 - Solaris Workmanship Award",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024BestWorkmanshipAwardGlyph"
   },
   {
     "category": "Skins",
@@ -130360,16 +132336,6 @@
   },
   {
     "category": "Skins",
-    "description": "Awarded to the first place cosplayer at TennoCon 2025.",
-    "imageName": "tennocon-2025---1st-place-78038d5404.png",
-    "masterable": false,
-    "name": "Tennocon 2025 - 1st Place",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2025FirstPlaceAwardGlyph"
-  },
-  {
-    "category": "Skins",
     "description": "Awarded to the second place cosplayer at TennoCon 2025.",
     "imageName": "tennocon-2025---2nd-place-78447b9902.png",
     "masterable": false,
@@ -130380,16 +132346,6 @@
   },
   {
     "category": "Skins",
-    "description": "Awarded to the second place cosplayer at TennoCon 2025.",
-    "imageName": "tennocon-2025---2nd-place-f587b6db96.png",
-    "masterable": false,
-    "name": "Tennocon 2025 - 2nd Place",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2025SecondPlaceAwardGlyph"
-  },
-  {
-    "category": "Skins",
     "description": "Awarded to the third place cosplayer at TennoCon 2025.",
     "imageName": "tennocon-2025---3rd-place-ce66825115.png",
     "masterable": false,
@@ -130397,16 +132353,6 @@
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2025CosplayThirdPlaceTrophy"
-  },
-  {
-    "category": "Skins",
-    "description": "Awarded to the third place cosplayer at TennoCon 2025.",
-    "imageName": "tennocon-2025---3rd-place-3c3c5ac2dc.png",
-    "masterable": false,
-    "name": "Tennocon 2025 - 3rd Place",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2025ThirdPlaceAwardGlyph"
   },
   {
     "category": "Skins",
@@ -130467,6 +132413,116 @@
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2025DigitalItemDisplay"
+  },
+  {
+    "category": "Skins",
+    "description": "A dramatic ascent evoking the Hunhullus' entry into battle.",
+    "imageName": "tennocon-2026-5fb88e7459.png",
+    "masterable": false,
+    "name": "Tennocon 2026",
+    "tradable": false,
+    "type": "Emotes",
+    "uniqueName": "/Lotus/Types/Items/Emotes/Tennocon2026Emote"
+  },
+  {
+    "category": "Skins",
+    "description": "Awarded to the first place cosplayer at TennoCon 2026.",
+    "imageName": "tennocon-2026---1st-place-e78b657369.png",
+    "masterable": false,
+    "name": "Tennocon 2026 - 1st Place",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CosplayFirstPlaceTrophy"
+  },
+  {
+    "category": "Skins",
+    "description": "Awarded to the second place cosplayer at TennoCon 2026.",
+    "imageName": "tennocon-2026---2nd-place-737e80aca5.png",
+    "masterable": false,
+    "name": "Tennocon 2026 - 2nd Place",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CosplaySecondPlaceTrophy"
+  },
+  {
+    "category": "Skins",
+    "description": "Awarded to the third place cosplayer at TennoCon 2026.",
+    "imageName": "tennocon-2026---3rd-place-c89163fe3a.png",
+    "masterable": false,
+    "name": "Tennocon 2026 - 3rd Place",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CosplayThirdPlaceTrophy"
+  },
+  {
+    "category": "Skins",
+    "description": "This award recognizes a Cosplay with an outstanding on-stage performance.",
+    "imageName": "tennocon-2026---bombastic-performance-award-564e6466a0.png",
+    "masterable": false,
+    "name": "Tennocon 2026 - Bombastic Performance Award",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CosplayBombasticTrophy"
+  },
+  {
+    "category": "Skins",
+    "description": "This award recognizes a Cosplay chosen by judges as a strong overall entry.",
+    "imageName": "tennocon-2026---lotus'-choice-award-05c2f8dff2.png",
+    "masterable": false,
+    "name": "Tennocon 2026 - Lotus' Choice Award",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CosplayLotusChoiceTrophy"
+  },
+  {
+    "category": "Skins",
+    "description": "This award is for a person who created an exceptional Cosplay in the non-competitive category.",
+    "imageName": "tennocon-2026---orokin-gold-award-d9eac92001.png",
+    "masterable": false,
+    "name": "Tennocon 2026 - Orokin Gold Award",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CosplayOrokinGoldTrophy"
+  },
+  {
+    "category": "Skins",
+    "description": "This award recognizes creative use of materials and interpretation of the Cosplay's subject matter!",
+    "imageName": "tennocon-2026---ostron-ingenuity-award-a6e3098680.png",
+    "masterable": false,
+    "name": "Tennocon 2026 - Ostron Ingenuity Award",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CosplayOstronIngenuityTrophy"
+  },
+  {
+    "category": "Skins",
+    "description": "This award recognizes a Cosplay with primo workmanship. ",
+    "imageName": "tennocon-2026---solaris-worksmanship-award-1c087d1d64.png",
+    "masterable": false,
+    "name": "Tennocon 2026 - Solaris Worksmanship Award",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CosplayBestWorkmanshipTrophy"
+  },
+  {
+    "category": "Skins",
+    "description": "Thank you for your contributions to the TennoCon 2026 Community Art Showcase",
+    "imageName": "tennocon-2026-community-art-showcase-award-e7e8ac27cc.png",
+    "masterable": false,
+    "name": "Tennocon 2026 Community Art Showcase Award",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CommunityArtShowcaseTrophy"
+  },
+  {
+    "category": "Skins",
+    "description": "Show off this display to mark the arrival of TennoCon 2026.",
+    "imageName": "tennocon-2026-display-0550a159a6.png",
+    "masterable": false,
+    "name": "Tennocon 2026 Display",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2026Display"
   },
   {
     "category": "Skins",
@@ -130978,6 +133034,17 @@
     "tradable": false,
     "type": "Misc",
     "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleEchoVoca"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "the-heir-of-two-kingdoms-honoria-f7024852c0.png",
+    "masterable": false,
+    "name": "The Heir Of Two Kingdoms Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleCaliban"
   },
   {
     "category": "Skins",
@@ -131554,6 +133621,17 @@
   {
     "category": "Skins",
     "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "the-scarlet-queen-honoria-9d944d594e.png",
+    "masterable": false,
+    "name": "The Scarlet Queen Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleGaruda"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
     "imageName": "the-scavenger-honoria-779c22d778.png",
     "masterable": false,
     "name": "The Scavenger Honoria",
@@ -131591,6 +133669,16 @@
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyCeresBronze"
+  },
+  {
+    "category": "Skins",
+    "description": "A signifier of walking The Steel Path in the Dark Refractory.",
+    "imageName": "the-steel-path---dark-refractory-c7998b76f3.png",
+    "masterable": false,
+    "name": "The Steel Path - Dark Refractory",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyPeritaBronze"
   },
   {
     "category": "Skins",
@@ -131812,6 +133900,16 @@
     "tradable": false,
     "type": "Emotes",
     "uniqueName": "/Lotus/Types/Items/Emotes/HardmodeCeresEmote"
+  },
+  {
+    "category": "Skins",
+    "description": "Awarded for completing The Steel Path: Dark Refractory.",
+    "imageName": "the-steel-path-dark-refractory-501cde10c0.png",
+    "masterable": false,
+    "name": "The Steel Path: Dark Refractory",
+    "tradable": false,
+    "type": "Emotes",
+    "uniqueName": "/Lotus/Types/Items/Emotes/HardmodePeritaEmote"
   },
   {
     "category": "Skins",
@@ -132096,6 +134194,17 @@
   },
   {
     "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "the-warden-of-alchemy-honoria-7f2cc25835.png",
+    "masterable": false,
+    "name": "The Warden Of Alchemy Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleLavos"
+  },
+  {
+    "category": "Skins",
     "description": "This poster is a tribute to The War Within. Art created by Kevin Glint.",
     "excludeFromCodex": true,
     "imageName": "the-worm-5b39ed6374.png",
@@ -132154,6 +134263,17 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/IvaraDeluxeSyandana"
+  },
+  {
+    "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "thirst-for-knowledge-honoria-f5d1a35cca.png",
+    "masterable": false,
+    "name": "Thirst For Knowledge Honoria",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/CephalonSudaTitle"
   },
   {
     "category": "Skins",
@@ -132233,6 +134353,16 @@
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyBolarolaRare"
+  },
+  {
+    "category": "Skins",
+    "description": "Awarded to Tenno who have shown unyielding dedication.",
+    "imageName": "thousand-days-dfbc9e173c.png",
+    "masterable": false,
+    "name": "Thousand Days",
+    "tradable": false,
+    "type": "Emotes",
+    "uniqueName": "/Lotus/Types/Items/Emotes/ThousandDaysEmote"
   },
   {
     "category": "Skins",
@@ -133393,6 +135523,16 @@
   },
   {
     "category": "Skins",
+    "description": "How much armor is too much armor? With Grendel Turbis' signature chestplate, more is more.",
+    "imageName": "torvon-chest-armor-b3418af227.png",
+    "masterable": false,
+    "name": "Torvon Chest Armor",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrendelDeluxeIIArmour/GrendelDeluxeIIArmourC"
+  },
+  {
+    "category": "Skins",
     "description": "Hombask's material structures are imbued with the Zariman spirit of discovery and innovation.\n\nMaterial structures are exclusive to Voidshell skins.",
     "imageName": "tough-vestan-moss-7ddb4b45a9.png",
     "masterable": false,
@@ -133410,6 +135550,16 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/TextureOverrides/GrossFlesh"
+  },
+  {
+    "category": "Skins",
+    "description": "Eliminate your adversaries with fluid grace.",
+    "imageName": "traciens-glaive-skin-438971e8b6.png",
+    "masterable": false,
+    "name": "Traciens Glaive Skin",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Deluxe/ProteaDeluxeGlaiveSkin"
   },
   {
     "category": "Skins",
@@ -137546,8 +139696,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Eidolonium",
@@ -137556,7 +139705,164 @@
         "itemCount": 10,
         "imageName": "breath-of-the-eidolon-fd2fb5d31b.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0067,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
+            "rarity": "Legendary",
+            "type": "Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0067,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "rarity": "Legendary",
+            "type": "3X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0357,
+            "location": "Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0357,
+            "location": "Earth/Cetus (Level 40 - 50 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0472,
+            "location": "Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0472,
+            "location": "Earth/Cetus (Level 40 - 50 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0485,
+            "location": "Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0485,
+            "location": "Earth/Cetus (Level 40 - 50 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          }
+        ],
         "masterable": false
       },
       {
@@ -137566,7 +139872,20 @@
         "itemCount": 50,
         "imageName": "fersteel-alloy-c11c0e2d3c.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0553,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
+            "rarity": "Rare",
+            "type": "6X Fersteel Alloy"
+          },
+          {
+            "chance": 0.0553,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "rarity": "Rare",
+            "type": "6X Fersteel Alloy"
+          }
+        ],
         "masterable": false
       },
       {
@@ -137576,7 +139895,20 @@
         "itemCount": 20,
         "imageName": "fish-scales-2e05965e5a.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0316,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
+            "rarity": "Rare",
+            "type": "10X Fish Scales"
+          },
+          {
+            "chance": 0.0316,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "rarity": "Rare",
+            "type": "10X Fish Scales"
+          }
+        ],
         "masterable": false
       },
       {
@@ -137586,8 +139918,7 @@
         "itemCount": 5,
         "imageName": "heart-nyth-08221d363b.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       }
     ],
     "consumeOnBuild": true,
@@ -140122,7 +142453,7 @@
   },
   {
     "category": "Skins",
-    "description": "Vauban Heirloom’s signature overcoat.",
+    "description": "Vauban Heirloom's signature overcoat.",
     "excludeFromCodex": true,
     "imageName": "vauban-heirloom-overcoat-9ebd153116.png",
     "masterable": false,
@@ -141089,8 +143420,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidHungerItem",
@@ -141099,7 +143429,32 @@
         "itemCount": 2,
         "imageName": "calda-toroid-652e0532d3.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.02,
+            "location": "Orb Vallis - Enrichment Labs Enemies",
+            "rarity": "Uncommon",
+            "type": "Calda Toroid"
+          },
+          {
+            "chance": 0.125,
+            "location": "Venus/Orb Vallis (Level 40 - 60 PROFIT-TAKER - PHASE 2), Rotation C",
+            "rarity": "Uncommon",
+            "type": "3X Calda Toroid"
+          },
+          {
+            "chance": 0.2,
+            "location": "Narmer Scyto Raknoid",
+            "rarity": "Common",
+            "type": "Calda Toroid"
+          },
+          {
+            "chance": 0.2,
+            "location": "Scyto Raknoid",
+            "rarity": "Common",
+            "type": "Calda Toroid"
+          }
+        ],
         "masterable": false
       },
       {
@@ -141109,7 +143464,14 @@
         "itemCount": 5,
         "imageName": "charamote-sagan-module-028d7f633e.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.5001,
+            "location": "Exploiter Orb",
+            "rarity": "Uncommon",
+            "type": "Charamote Sagan Module"
+          }
+        ],
         "masterable": false
       },
       {
@@ -141119,8 +143481,7 @@
         "itemCount": 3,
         "imageName": "marquise-thyst-09a444de1c.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
@@ -141129,8 +143490,7 @@
         "itemCount": 20,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       }
     ],
     "consumeOnBuild": true,
@@ -141166,8 +143526,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidHungerItem",
@@ -141176,7 +143535,32 @@
         "itemCount": 5,
         "imageName": "calda-toroid-652e0532d3.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.02,
+            "location": "Orb Vallis - Enrichment Labs Enemies",
+            "rarity": "Uncommon",
+            "type": "Calda Toroid"
+          },
+          {
+            "chance": 0.125,
+            "location": "Venus/Orb Vallis (Level 40 - 60 PROFIT-TAKER - PHASE 2), Rotation C",
+            "rarity": "Uncommon",
+            "type": "3X Calda Toroid"
+          },
+          {
+            "chance": 0.2,
+            "location": "Narmer Scyto Raknoid",
+            "rarity": "Common",
+            "type": "Calda Toroid"
+          },
+          {
+            "chance": 0.2,
+            "location": "Scyto Raknoid",
+            "rarity": "Common",
+            "type": "Calda Toroid"
+          }
+        ],
         "masterable": false
       },
       {
@@ -141186,7 +143570,14 @@
         "itemCount": 15,
         "imageName": "charamote-sagan-module-028d7f633e.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.5001,
+            "location": "Exploiter Orb",
+            "rarity": "Uncommon",
+            "type": "Charamote Sagan Module"
+          }
+        ],
         "masterable": false
       },
       {
@@ -141196,8 +143587,7 @@
         "itemCount": 15,
         "imageName": "marquise-thyst-09a444de1c.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
@@ -141206,8 +143596,7 @@
         "itemCount": 60,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       }
     ],
     "consumeOnBuild": true,
@@ -141243,8 +143632,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem",
@@ -141253,8 +143641,7 @@
         "itemCount": 50,
         "imageName": "hespazym-alloy-ebcdeeba7a.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidWraithItem",
@@ -141263,7 +143650,26 @@
         "itemCount": 5,
         "imageName": "sola-toroid-54f209afd3.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.02,
+            "location": "Orb Vallis - Temple of Profit Enemies",
+            "rarity": "Uncommon",
+            "type": "Sola Toroid"
+          },
+          {
+            "chance": 0.125,
+            "location": "Venus/Orb Vallis (Level 40 - 60 PROFIT-TAKER - PHASE 3), Rotation C",
+            "rarity": "Uncommon",
+            "type": "3X Sola Toroid"
+          },
+          {
+            "chance": 0.2,
+            "location": "Kyta Raknoid",
+            "rarity": "Common",
+            "type": "Sola Toroid"
+          }
+        ],
         "masterable": false
       },
       {
@@ -141273,7 +143679,320 @@
         "itemCount": 20,
         "imageName": "tellurium-9236306b55.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0018,
+            "location": "Exo Butcher",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Elite Lancer",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Eviscerator",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Gokstad Officer",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Gokstad Pilot",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Raider Carver",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Raider Eviscerator",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Raider",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Roller Sentry",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Exo Supressor",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Butcher",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Elite Lancer",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Eviscerator",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Gokstad Officer",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Gokstad Pilot",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Raider Carver",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Raider Eviscerator",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Raider",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Roller Sentry",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Gyre Supressor",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Butcher",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Elite Lancer",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Eviscerator",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Gokstad Officer",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Gokstad Pilot",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Raider Carver",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Raider Eviscerator",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Raider",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Roller Sentry",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0018,
+            "location": "Kosma Supressor",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0067,
+            "location": "Mars/Gradivus (Caches), Rotation C",
+            "rarity": "Legendary",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0067,
+            "location": "Mercury/Neruda (Caches), Rotation C",
+            "rarity": "Legendary",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0067,
+            "location": "Mercury/Terminus (Caches), Rotation C",
+            "rarity": "Legendary",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0067,
+            "location": "Venus/Ishtar (Caches), Rotation C",
+            "rarity": "Legendary",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0367,
+            "location": "Kuva Fortress/Dakata (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0367,
+            "location": "Neptune/Halimede (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0367,
+            "location": "Neptune/Thalassa (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0367,
+            "location": "Pluto/Charon (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0367,
+            "location": "Pluto/Cypress (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0367,
+            "location": "Sedna/Phithale (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0367,
+            "location": "Sedna/Rusalka (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.0367,
+            "location": "Uranus/Portia (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.044,
+            "location": "Ceres/Ker (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.044,
+            "location": "Ceres/Thon (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.044,
+            "location": "Jupiter/Adrastea (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.044,
+            "location": "Jupiter/Carpo (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.044,
+            "location": "Saturn/Calypso (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.044,
+            "location": "Saturn/Pallene (Caches), Rotation C",
+            "rarity": "Rare",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.1082,
+            "location": "Lua/Plato (Caches), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.1549,
+            "location": "Uranus/Desdemona (Caches), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.1549,
+            "location": "Uranus/Prospero (Caches), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Tellurium"
+          },
+          {
+            "chance": 0.1549,
+            "location": "Uranus/Setebos (Caches), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Tellurium"
+          }
+        ],
         "masterable": false,
         "type": "Resource"
       },
@@ -141284,7 +144003,14 @@
         "itemCount": 15,
         "imageName": "tromyzon-entroplasma-c324b3c3bd.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.5001,
+            "location": "Exploiter Orb",
+            "rarity": "Uncommon",
+            "type": "Tromyzon Entroplasma"
+          }
+        ],
         "masterable": false
       }
     ],
@@ -141331,8 +144057,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem",
@@ -141341,8 +144066,7 @@
         "itemCount": 30,
         "imageName": "hespazym-alloy-ebcdeeba7a.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemBCutItem",
@@ -141351,8 +144075,7 @@
         "itemCount": 10,
         "imageName": "marquise-thyst-09a444de1c.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemACutItem",
@@ -141361,8 +144084,7 @@
         "itemCount": 10,
         "imageName": "radiant-zodian-0b4daa36b7.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEcosynthAnalyzerItem",
@@ -141371,7 +144093,14 @@
         "itemCount": 15,
         "imageName": "synathid-ecosynth-analyzer-7d16a973c9.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.5001,
+            "location": "Exploiter Orb",
+            "rarity": "Uncommon",
+            "type": "Synathid Ecosynth Analyzer"
+          }
+        ],
         "masterable": false
       }
     ],
@@ -141418,8 +144147,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishLatheCoogulantItem",
@@ -141428,7 +144156,14 @@
         "itemCount": 15,
         "imageName": "longwinder-lathe-coagulant-6e430abe78.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.5001,
+            "location": "Exploiter Orb",
+            "rarity": "Uncommon",
+            "type": "Longwinder Lathe Coagulant"
+          }
+        ],
         "masterable": false
       },
       {
@@ -141438,8 +144173,7 @@
         "itemCount": 10,
         "imageName": "radiant-zodian-0b4daa36b7.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidMicroidItem",
@@ -141448,7 +144182,32 @@
         "itemCount": 5,
         "imageName": "vega-toroid-31d48d6576.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.01,
+            "location": "Mite Raknoid",
+            "rarity": "Common",
+            "type": "Vega Toroid"
+          },
+          {
+            "chance": 0.01,
+            "location": "Narmer Mite",
+            "rarity": "Common",
+            "type": "Vega Toroid"
+          },
+          {
+            "chance": 0.02,
+            "location": "Orb Vallis - Spaceport Enemies",
+            "rarity": "Uncommon",
+            "type": "Vega Toroid"
+          },
+          {
+            "chance": 0.125,
+            "location": "Venus/Orb Vallis (Level 40 - 60 PROFIT-TAKER - PHASE 1), Rotation C",
+            "rarity": "Uncommon",
+            "type": "3X Vega Toroid"
+          }
+        ],
         "masterable": false
       },
       {
@@ -141458,8 +144217,7 @@
         "itemCount": 40,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       }
     ],
     "consumeOnBuild": true,
@@ -143635,6 +146393,46 @@
   {
     "category": "Skins",
     "excludeFromCodex": true,
+    "imageName": "visage-15-6d22464fca.png",
+    "masterable": false,
+    "name": "Visage 15",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadQRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-15-d66fddac5d.png",
+    "masterable": false,
+    "name": "Visage 15",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadQRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-18-ad2ecb9173.png",
+    "masterable": false,
+    "name": "Visage 18",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadTRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-18-d4042e8129.png",
+    "masterable": false,
+    "name": "Visage 18",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadTRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
     "imageName": "visage-20-1b1bbff362.png",
     "masterable": false,
     "name": "Visage 20",
@@ -143651,6 +146449,46 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadGRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-33-678877cf99.png",
+    "masterable": false,
+    "name": "Visage 33",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadNRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-33-ace61bad1a.png",
+    "masterable": false,
+    "name": "Visage 33",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadNRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-39-db69f43dc7.png",
+    "masterable": false,
+    "name": "Visage 39",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadKRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-39-03ea4742b2.png",
+    "masterable": false,
+    "name": "Visage 39",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadKRemastered"
   },
   {
     "category": "Skins",
@@ -143695,6 +146533,26 @@
   {
     "category": "Skins",
     "excludeFromCodex": true,
+    "imageName": "visage-44-4c370fe1f0.png",
+    "masterable": false,
+    "name": "Visage 44",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadSRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-44-108933ca3d.png",
+    "masterable": false,
+    "name": "Visage 44",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadSRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
     "imageName": "visage-47-31ff8c026d.png",
     "masterable": false,
     "name": "Visage 47",
@@ -143735,6 +146593,26 @@
   {
     "category": "Skins",
     "excludeFromCodex": true,
+    "imageName": "visage-57-0f504d91b5.png",
+    "masterable": false,
+    "name": "Visage 57",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadRRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-57-0be22f0db6.png",
+    "masterable": false,
+    "name": "Visage 57",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadRRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
     "imageName": "visage-67-dcfd40e8d6.png",
     "masterable": false,
     "name": "Visage 67",
@@ -143751,6 +146629,46 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadFRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-70-1401e204a3.png",
+    "masterable": false,
+    "name": "Visage 70",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadLRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-70-3c7d9c422c.png",
+    "masterable": false,
+    "name": "Visage 70",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadLRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-73-9b0c56b77f.png",
+    "masterable": false,
+    "name": "Visage 73",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadMRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-73-82db4cf1d8.png",
+    "masterable": false,
+    "name": "Visage 73",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadMRemastered"
   },
   {
     "category": "Skins",
@@ -143791,6 +146709,46 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadHRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-82-3367380695.png",
+    "masterable": false,
+    "name": "Visage 82",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadORemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-82-5aa39fc268.png",
+    "masterable": false,
+    "name": "Visage 82",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadORemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-92-af6d860b46.png",
+    "masterable": false,
+    "name": "Visage 92",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadPRemastered"
+  },
+  {
+    "category": "Skins",
+    "excludeFromCodex": true,
+    "imageName": "visage-92-8c3c75544d.png",
+    "masterable": false,
+    "name": "Visage 92",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadPRemastered"
   },
   {
     "category": "Skins",
@@ -144159,6 +147117,16 @@
     "tradable": false,
     "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/Deimos/PlushyInfestedPredatorCommon"
+  },
+  {
+    "category": "Skins",
+    "description": "No speedster's look would be complete without Gauss Moto's signature signa.",
+    "imageName": "vizor-signa-e2fc6e24ea.png",
+    "masterable": false,
+    "name": "Vizor Signa",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Crowns/GaussDeluxeIICrown"
   },
   {
     "category": "Skins",
@@ -146471,6 +149439,17 @@
   },
   {
     "category": "Skins",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "who-devours-all-honoria--1383f38350.png",
+    "masterable": false,
+    "name": "Who Devours All Honoria ",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleGrendel"
+  },
+  {
+    "category": "Skins",
     "description": "A wide seagrass basket filled with seasonal fruits from the markets of Cetus.",
     "excludeFromCodex": true,
     "imageName": "wide-fruit-basket-2699d7a829.png",
@@ -146542,7 +149521,7 @@
   },
   {
     "category": "Skins",
-    "description": "Embrace the look of 1999’s most cutting-edge video game technology with this wireframe-themed Ephemera.",
+    "description": "Embrace the look of 1999's most cutting-edge video game technology with this wireframe-themed Ephemera.",
     "imageName": "wirematrix-ephemera-53cce1b58a.png",
     "masterable": false,
     "name": "Wirematrix Ephemera",
@@ -149211,6 +152190,16 @@
   },
   {
     "category": "Skins",
+    "description": "A unique signa for your Warframe, designed by led2012 & daemonstar.",
+    "imageName": "zamariu-signa-e254f997cb.png",
+    "masterable": false,
+    "name": "Zamariu Signa",
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Crowns/SWZamariuSignaCrown"
+  },
+  {
+    "category": "Skins",
     "description": "A syandana for your Warframe, designed by led2012 and daemonstar.",
     "imageName": "zamariu-syandana-ee8d8989c5.png",
     "masterable": false,
@@ -150986,8 +153975,7 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Eidolonium",
@@ -150996,7 +153984,164 @@
         "itemCount": 10,
         "imageName": "breath-of-the-eidolon-fd2fb5d31b.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0067,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
+            "rarity": "Legendary",
+            "type": "Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0067,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "rarity": "Legendary",
+            "type": "3X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0357,
+            "location": "Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0357,
+            "location": "Earth/Cetus (Level 40 - 50 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0472,
+            "location": "Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0472,
+            "location": "Earth/Cetus (Level 40 - 50 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0485,
+            "location": "Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.0485,
+            "location": "Earth/Cetus (Level 40 - 50 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.1689,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.2174,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          },
+          {
+            "chance": 0.5,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C",
+            "rarity": "Common",
+            "type": "5X Breath Of The Eidolon"
+          }
+        ],
         "masterable": false
       },
       {
@@ -151006,7 +154151,254 @@
         "itemCount": 5,
         "imageName": "cetus-wisp-0681ca5991.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0067,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
+            "rarity": "Legendary",
+            "type": "3X Cetus Wisp"
+          },
+          {
+            "chance": 0.0067,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "rarity": "Legendary",
+            "type": "3X Cetus Wisp"
+          },
+          {
+            "chance": 0.0714,
+            "location": "Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.0714,
+            "location": "Earth/Cetus (Level 40 - 50 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.0851,
+            "location": "Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation C",
+            "rarity": "Rare",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.087,
+            "location": "Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation C",
+            "rarity": "Rare",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.0943,
+            "location": "Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.0943,
+            "location": "Earth/Cetus (Level 40 - 50 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.0971,
+            "location": "Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.0971,
+            "location": "Earth/Cetus (Level 40 - 50 Ghoul Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.0989,
+            "location": "Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation A",
+            "rarity": "Rare",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.0989,
+            "location": "Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation B",
+            "rarity": "Rare",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.1011,
+            "location": "Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.1011,
+            "location": "Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.1013,
+            "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+            "rarity": "Uncommon",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.1351,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.1351,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.1351,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.1351,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.1351,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.1351,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.1404,
+            "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+            "rarity": "Uncommon",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.1611,
+            "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+            "rarity": "Uncommon",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.1739,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.1739,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.1739,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.1739,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.1739,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.1739,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.1878,
+            "location": "Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.1921,
+            "location": "Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.2041,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.2041,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.2041,
+            "location": "Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.2041,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.2041,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.2041,
+            "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.2222,
+            "location": "Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation C",
+            "rarity": "Uncommon",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.2432,
+            "location": "Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.2432,
+            "location": "Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation B",
+            "rarity": "Uncommon",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.2931,
+            "location": "Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation A",
+            "rarity": "Uncommon",
+            "type": "Cetus Wisp"
+          }
+        ],
         "masterable": false
       },
       {
@@ -151016,7 +154408,20 @@
         "itemCount": 50,
         "imageName": "fersteel-alloy-c11c0e2d3c.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0553,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
+            "rarity": "Rare",
+            "type": "6X Fersteel Alloy"
+          },
+          {
+            "chance": 0.0553,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "rarity": "Rare",
+            "type": "6X Fersteel Alloy"
+          }
+        ],
         "masterable": false
       },
       {
@@ -151026,7 +154431,20 @@
         "itemCount": 20,
         "imageName": "fish-scales-2e05965e5a.png",
         "tradable": false,
-        "drops": [],
+        "drops": [
+          {
+            "chance": 0.0316,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
+            "rarity": "Rare",
+            "type": "10X Fish Scales"
+          },
+          {
+            "chance": 0.0316,
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "rarity": "Rare",
+            "type": "10X Fish Scales"
+          }
+        ],
         "masterable": false
       }
     ],

@@ -818,6 +818,30 @@
     "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetBItem"
   },
   {
+    "category": "Resources",
+    "description": "This deep black ink has the power to reveal hidden truth.\n\nObtained from Atramentum Balloons and completing Follie's Hunt missions (Vesper Relay). Exchanged with Aspirant Zorba in any Relay.",
+    "drops": [
+      {
+        "chance": 1,
+        "location": "Venus/Vesper Relay (Follie's Hunt), Rotation B",
+        "rarity": "Common",
+        "type": "5X Atramentum"
+      },
+      {
+        "chance": 1,
+        "location": "Venus/Vesper Relay (Follie's Hunt), Rotation B",
+        "rarity": "Common",
+        "type": "10X Atramentum"
+      }
+    ],
+    "imageName": "atramentum-80b77f4cfd.png",
+    "masterable": false,
+    "name": "Atramentum",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Gameplay/Shadowgrapher/Resources/ShadowgrapherResource"
+  },
+  {
     "buildPrice": 1000,
     "buildQuantity": 1,
     "buildTime": 120,
@@ -1253,7 +1277,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
         "name": "Damaged Necramech Pod",
-        "description": "A modular component for a Necramech. It’s damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+        "description": "A modular component for a Necramech. It's damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
         "itemCount": 1,
         "imageName": "damaged-necramech-pod.png",
         "tradable": true,
@@ -1405,7 +1429,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartEngineItem",
         "name": "Damaged Necramech Engine",
-        "description": "An engine designed for use in a Necramech. Unfortunately, it’s damaged.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+        "description": "An engine designed for use in a Necramech. Unfortunately, it's damaged.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
         "itemCount": 1,
         "imageName": "damaged-necramech-engine.png",
         "tradable": true,
@@ -3013,7 +3037,7 @@
   },
   {
     "category": "Resources",
-    "description": "An engine designed for use in a Necramech. Unfortunately, it’s damaged.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+    "description": "An engine designed for use in a Necramech. Unfortunately, it's damaged.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
     "imageName": "damaged-necramech-engine.png",
     "masterable": false,
     "name": "Damaged Necramech Engine",
@@ -3023,7 +3047,7 @@
   },
   {
     "category": "Resources",
-    "description": "A modular component for a Necramech. It’s damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+    "description": "A modular component for a Necramech. It's damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
     "imageName": "damaged-necramech-pod.png",
     "itemCount": 1,
     "masterable": false,
@@ -3674,7 +3698,7 @@
       }
     ],
     "imageName": "echo-voca-32f69b9f58.png",
-    "itemCount": 1,
+    "itemCount": 2,
     "masterable": false,
     "name": "Echo Voca",
     "parents": [
@@ -6570,7 +6594,7 @@
   },
   {
     "category": "Resources",
-    "description": "Awarded to soldiers during the The Old War for distinction in battle.\n\nLocation: Obtained from crates and enemies in Perita Rebellion missions(Dark Refractory).",
+    "description": "Awarded to soldiers during the The Old War for distinction in battle.\n\nLocation: Obtained from crates and enemies in Perita Rebellion missions (Dark Refractory).",
     "drops": [
       {
         "chance": 0.03,
@@ -7827,6 +7851,30 @@
   },
   {
     "category": "Resources",
+    "description": "The ragged remnants of hopes and dreams can be recreated with patient persistence.\n\nObtained by completing Follie's Hunt missions on Vesper Relay and Nightmare missions during Operation: Atramentum.",
+    "drops": [
+      {
+        "chance": 1,
+        "location": "Venus/Vesper Relay (Follie's Hunt), Rotation C",
+        "rarity": "Common",
+        "type": "3X Nightmare Tatters"
+      },
+      {
+        "chance": 1,
+        "location": "Venus/Vesper Relay (Follie's Hunt), Rotation C",
+        "rarity": "Common",
+        "type": "4X Nightmare Tatters"
+      }
+    ],
+    "imageName": "nightmare-tatters-e37bd82384.png",
+    "masterable": false,
+    "name": "Nightmare Tatters",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Gameplay/Shadowgrapher/Resources/ShadowgrapherEventResource"
+  },
+  {
+    "category": "Resources",
     "description": "Used by the Nistlebrush to trap and kill prey.\n\nLocation: Plains of Eidolon on Earth",
     "drops": [
       {
@@ -8509,7 +8557,7 @@
   },
   {
     "category": "Resources",
-    "description": "A mech matrix that assists with the machine’s weapon accuracy and control.\n\nLocation: Isolation Vault Bounty rewards on the Cambion Drift (Deimos), and from Enemy Necramechs found in Tier 2 Isolation Vault Bounties",
+    "description": "A mech matrix that assists with the machine's weapon accuracy and control.\n\nLocation: Isolation Vault Bounty rewards on the Cambion Drift (Deimos), and from Enemy Necramechs found in Tier 2 Isolation Vault Bounties",
     "drops": [
       {
         "chance": 0.0188,
@@ -8747,7 +8795,7 @@
   },
   {
     "category": "Resources",
-    "description": "A spatial orientation matrix to aid with a mechs’ guidance, balance and movement.\n\nLocation: Isolation Vault Bounty rewards on the Cambion Drift (Deimos), and from Enemy Necramechs found in Tier 1 Isolation Vault Bounties",
+    "description": "A spatial orientation matrix to aid with a mechs' guidance, balance and movement.\n\nLocation: Isolation Vault Bounty rewards on the Cambion Drift (Deimos), and from Enemy Necramechs found in Tier 1 Isolation Vault Bounties",
     "drops": [
       {
         "chance": 0.0313,
@@ -9994,7 +10042,7 @@
   },
   {
     "category": "Resources",
-    "description": "Medals awarded to Orokin soldiers during The Old War for acts of distinguished service.\n\nLocation: Obtained from crates and enemies in Perita Rebellion missions(Dark Refractory).",
+    "description": "Medals awarded to Orokin soldiers during The Old War for acts of distinguished service.\n\nLocation: Obtained from crates and enemies in Perita Rebellion missions (Dark Refractory).",
     "drops": [
       {
         "chance": 0.03,
@@ -13040,7 +13088,7 @@
   },
   {
     "category": "Resources",
-    "description": "A crucial sub-component in the construction of Albrecht Entrati’s vessels.\n\nObtained from Disruption missions on Armatus, Deimos.",
+    "description": "A crucial sub-component in the construction of Albrecht Entrati's vessels.\n\nObtained from Disruption missions on Armatus, Deimos.",
     "imageName": "vessel-capillaries-87693b414e.png",
     "masterable": false,
     "name": "Vessel Capillaries",
@@ -13341,7 +13389,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
         "name": "Damaged Necramech Pod",
-        "description": "A modular component for a Necramech. It’s damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+        "description": "A modular component for a Necramech. It's damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
         "itemCount": 1,
         "imageName": "damaged-necramech-pod.png",
         "tradable": true,
@@ -13520,7 +13568,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartEngineItem",
         "name": "Damaged Necramech Engine",
-        "description": "An engine designed for use in a Necramech. Unfortunately, it’s damaged.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+        "description": "An engine designed for use in a Necramech. Unfortunately, it's damaged.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
         "itemCount": 1,
         "imageName": "damaged-necramech-engine.png",
         "tradable": true,
