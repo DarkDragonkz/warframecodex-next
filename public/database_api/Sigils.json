@@ -185,6 +185,17 @@
   },
   {
     "category": "Sigils",
+    "description": "Show your dedication to the truth of Aspirant Zorba with this sigil.",
+    "excludeFromCodex": true,
+    "imageName": "aspirant-sigil-54eb032246.png",
+    "masterable": false,
+    "name": "Aspirant Sigil",
+    "tradable": false,
+    "type": "Sigil",
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilZorba"
+  },
+  {
+    "category": "Sigils",
     "description": "A sigil representing prestige gained with the Red Veil.",
     "imageName": "assassin-sigil-fdeedc33e5.png",
     "masterable": false,
@@ -206,7 +217,6 @@
   {
     "category": "Sigils",
     "description": "Keep the memory of the Shadowgrapher and Operation: Atramentum close with this sigil.",
-    "excludeFromCodex": true,
     "imageName": "atramentum-sigil-d2a73eaced.png",
     "masterable": false,
     "name": "Atramentum Sigil",

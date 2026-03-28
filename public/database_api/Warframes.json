@@ -2685,7 +2685,7 @@
         "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
         "additions": "",
         "changes": "",
-        "fixes": "•    Fixed Ash skipping his throwing animation when consecutively casting Shuriken. \n•    Fixed Ash’s Fatal Teleport augment Mod not performing finishers on enemies immune to being stunned. (Arctic Eximus, etc.) "
+        "fixes": "•    Fixed Ash skipping his throwing animation when consecutively casting Shuriken. \n• ��  Fixed Ash’s Fatal Teleport augment Mod not performing finishers on enemies immune to being stunned. (Arctic Eximus, etc.) "
       },
       {
         "name": "Update 18.9.0",
@@ -11635,7 +11635,7 @@
         "date": "2018-02-09T23:37:46Z",
         "url": "https://forums.warframe.com/topic/918482-shrine-of-the-eidolon-update-22120/",
         "additions": "",
-        "changes": "Reduced head bounce movement in Chroma���s sprint turns.\nChroma can no longer jump or sprint when using Spectral Scream.",
+        "changes": "Reduced head bounce movement in Chroma’s sprint turns.\nChroma can no longer jump or sprint when using Spectral Scream.",
         "fixes": ""
       },
       {
@@ -22320,7 +22320,7 @@
         "fixes": "Fixed loading into a Lunaro lobby and only seeing ghostly Excalibur placeholders."
       },
       {
-        "name": "Octavia’s Anthem: Update 20.2.0",
+        "name": "Octavia��s Anthem: Update 20.2.0",
         "date": "2017-04-12T18:04:21Z",
         "url": "https://forums.warframe.com/topic/785788-octavia%E2%80%99s-anthem-update-2020/",
         "additions": "",
@@ -35849,7 +35849,7 @@
         "date": "2022-04-27T15:02:06Z",
         "url": "https://forums.warframe.com/topic/1305880-update-315-angels-of-the-zariman/",
         "additions": "",
-        "changes": "Harrow���s Condemn",
+        "changes": "Harrow’s Condemn",
         "fixes": "Fixed decals appearing in Harrow’s Condemn FX. "
       },
       {
@@ -55610,7 +55610,7 @@
         "url": "https://forums.warframe.com/topic/1321162-veilbreaker-update-32/",
         "additions": "",
         "changes": "Starter Warframe Ability Changes: Excalibur, Mag, & Volt\nNow creates a mini-vortex when casting, which gathers enemies in front of Mag. Polarize Shards on the ground will also be Pulled into this Vortex.\nHelminth: Changed Mag’s Pull to now have diminished range when infused. Was 25m at max, now 12.5m.\nShards from Polarize are pulled into the Magnetize Bubble, including Shards orbiting Mag. \nCharged Magnetize absorb shards increase its damage by 500 for each one. Scales with Ability Strength mods. \nShards within 3m of Mag now orbit her, inflicting the Slash or Puncture Status Effect to nearby enemies.\nIncrease Mag's Fracturing Crush (Augment) armor reduction from 50% to 75%, remove the 80% cap per cast and change the armor reduction to be permanent.\nRemoved its 100% Holster Speed bonus and reload 5% of Magazine/s when holstering Primary and Secondary weapons. \nReduced the damage and fire rate of the Ember Specter’s Magnus secondary.",
-        "fixes": "This update also has a heavy focus on Quality of Life (QOL) changes including a rework to Spearguns, the three starter Warframes (Excalibur, Mag, and Volt), improvements to Riven database collecting, a whole slew of  Warframe Augment Mod buffs, and more to be discovered below.\nFixed Mag���s Polarize inconsistently removing enemy armor if it affected a group of enemies versus a single unit. \nFixed Magus Overload’s explosion not dealing damage if the enemy affected was rising from ragdoll.\nFixed Magus Overload instantly killing robotic enemies on Void Sling. \nMagus Overload\nMagus Accelerant"
+        "fixes": "This update also has a heavy focus on Quality of Life (QOL) changes including a rework to Spearguns, the three starter Warframes (Excalibur, Mag, and Volt), improvements to Riven database collecting, a whole slew of  Warframe Augment Mod buffs, and more to be discovered below.\nFixed Mag’s Polarize inconsistently removing enemy armor if it affected a group of enemies versus a single unit. \nFixed Magus Overload’s explosion not dealing damage if the enemy affected was rising from ragdoll.\nFixed Magus Overload instantly killing robotic enemies on Void Sling. \nMagus Overload\nMagus Accelerant"
       },
       {
         "name": "Nora’s Mix Vol.2: Hotfix 31.6.4",
@@ -66230,7 +66230,7 @@
         "url": "https://forums.warframe.com/topic/632293-update-1870/",
         "additions": "",
         "changes": "",
-        "fixes": "•    Fixed badge placements on Excalibur, Chroma, Mirage, Saryn and Atlas."
+        "fixes": "��    Fixed badge placements on Excalibur, Chroma, Mirage, Saryn and Atlas."
       },
       {
         "name": "Hotfix 18.6.2",
@@ -110063,7 +110063,7 @@
         "url": "https://forums.warframe.com/topic/1258560-call-of-the-tempestarii-update-30/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed scenario where dying while in Voidrig’s Guard Mode could prevent player movement. "
+        "fixes": "Fixed scenario where dying while in Voidrig���s Guard Mode could prevent player movement. "
       },
       {
         "name": "Corpus Proxima & The New Railjack: Hotfix 29.10.9",
