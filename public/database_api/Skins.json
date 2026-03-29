@@ -46606,7 +46606,7 @@
         "url": "https://forums.warframe.com/topic/353150-hotfix-1551/",
         "additions": "",
         "changes": "Made various sound tweaks to Gammacor shots.\nAdded new hip fire poses to the Gammacor.",
-        "fixes": "Fixed an issue with the Gammacor appearing in the codex as a duplicate ‘Lato��� entry."
+        "fixes": "Fixed an issue with the Gammacor appearing in the codex as a duplicate ‘Lato’ entry."
       },
       {
         "name": "Mesa Update",
@@ -85869,7 +85869,7 @@
   },
   {
     "category": "Skins",
-    "description": "Mag Pneuma’s signature skin for tonfa weapons.",
+    "description": "Mag Pneuma���s signature skin for tonfa weapons.",
     "imageName": "maruta-tonfa-skin-f190a5e056.png",
     "masterable": false,
     "name": "Maruta Tonfa Skin",
