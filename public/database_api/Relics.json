@@ -26701,7 +26701,7 @@
         "chance": 4,
         "item": {
           "name": "Gauss Prime Systems Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fc5aed5b0d2e3eb462b6",
             "urlName": "gauss_prime_systems_blueprint"
@@ -26713,7 +26713,7 @@
         "chance": 13,
         "item": {
           "name": "Zylok Prime Receiver",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "6530694722c7fd977050854b",
             "urlName": "zylok_prime_receiver"
@@ -26725,7 +26725,7 @@
         "chance": 13,
         "item": {
           "name": "Paris Prime Grip",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff53",
             "urlName": "paris_prime_grip"
@@ -26737,7 +26737,7 @@
         "chance": 23.33,
         "item": {
           "name": "Grendel Prime Neuroptics Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "653060f332327ba8746da746",
             "urlName": "grendel_prime_neuroptics_blueprint"
@@ -26749,7 +26749,7 @@
         "chance": 23.33,
         "item": {
           "name": "Bronco Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff37",
             "urlName": "bronco_prime_blueprint"
@@ -26761,7 +26761,7 @@
         "chance": 23.33,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
         }
       }
     ],
@@ -26784,7 +26784,7 @@
         "chance": 6,
         "item": {
           "name": "Gauss Prime Systems Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fc5aed5b0d2e3eb462b6",
             "urlName": "gauss_prime_systems_blueprint"
@@ -26796,7 +26796,7 @@
         "chance": 17,
         "item": {
           "name": "Zylok Prime Receiver",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "6530694722c7fd977050854b",
             "urlName": "zylok_prime_receiver"
@@ -26808,7 +26808,7 @@
         "chance": 17,
         "item": {
           "name": "Paris Prime Grip",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff53",
             "urlName": "paris_prime_grip"
@@ -26820,7 +26820,7 @@
         "chance": 20,
         "item": {
           "name": "Grendel Prime Neuroptics Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "653060f332327ba8746da746",
             "urlName": "grendel_prime_neuroptics_blueprint"
@@ -26832,7 +26832,7 @@
         "chance": 20,
         "item": {
           "name": "Bronco Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff37",
             "urlName": "bronco_prime_blueprint"
@@ -26844,7 +26844,7 @@
         "chance": 20,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
         }
       }
     ],
@@ -26867,7 +26867,7 @@
         "chance": 2,
         "item": {
           "name": "Gauss Prime Systems Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fc5aed5b0d2e3eb462b6",
             "urlName": "gauss_prime_systems_blueprint"
@@ -26879,7 +26879,7 @@
         "chance": 11,
         "item": {
           "name": "Zylok Prime Receiver",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "6530694722c7fd977050854b",
             "urlName": "zylok_prime_receiver"
@@ -26891,7 +26891,7 @@
         "chance": 11,
         "item": {
           "name": "Paris Prime Grip",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff53",
             "urlName": "paris_prime_grip"
@@ -26903,7 +26903,7 @@
         "chance": 25.33,
         "item": {
           "name": "Grendel Prime Neuroptics Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "653060f332327ba8746da746",
             "urlName": "grendel_prime_neuroptics_blueprint"
@@ -26915,7 +26915,7 @@
         "chance": 25.33,
         "item": {
           "name": "Bronco Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff37",
             "urlName": "bronco_prime_blueprint"
@@ -26927,7 +26927,7 @@
         "chance": 25.33,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
         }
       }
     ],
@@ -26950,7 +26950,7 @@
         "chance": 10,
         "item": {
           "name": "Gauss Prime Systems Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fc5aed5b0d2e3eb462b6",
             "urlName": "gauss_prime_systems_blueprint"
@@ -26962,7 +26962,7 @@
         "chance": 20,
         "item": {
           "name": "Zylok Prime Receiver",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "6530694722c7fd977050854b",
             "urlName": "zylok_prime_receiver"
@@ -26974,7 +26974,7 @@
         "chance": 20,
         "item": {
           "name": "Paris Prime Grip",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff53",
             "urlName": "paris_prime_grip"
@@ -26986,7 +26986,7 @@
         "chance": 16.67,
         "item": {
           "name": "Grendel Prime Neuroptics Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "653060f332327ba8746da746",
             "urlName": "grendel_prime_neuroptics_blueprint"
@@ -26998,7 +26998,7 @@
         "chance": 16.67,
         "item": {
           "name": "Bronco Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff37",
             "urlName": "bronco_prime_blueprint"
@@ -27010,7 +27010,7 @@
         "chance": 16.67,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
         }
       }
     ],
@@ -92600,7 +92600,7 @@
         "chance": 4,
         "item": {
           "name": "Acceltra Prime Barrel",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fcc4ed5b0d2e3eb462d0",
             "urlName": "acceltra_prime_barrel"
@@ -92612,7 +92612,7 @@
         "chance": 13,
         "item": {
           "name": "Akarius Prime Link",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fca4ed5b0d2e3eb462cd",
             "urlName": "akarius_prime_link"
@@ -92624,7 +92624,7 @@
         "chance": 13,
         "item": {
           "name": "Grendel Prime Chassis Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "653060f332327ba8746da747",
             "urlName": "grendel_prime_chassis_blueprint"
@@ -92636,7 +92636,7 @@
         "chance": 23.33,
         "item": {
           "name": "Zylok Prime Barrel",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "6530694722c7fd977050854a",
             "urlName": "zylok_prime_barrel"
@@ -92648,7 +92648,7 @@
         "chance": 23.33,
         "item": {
           "name": "Paris Prime Lower Limb",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff54",
             "urlName": "paris_prime_lower_limb"
@@ -92660,7 +92660,7 @@
         "chance": 23.33,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
         }
       }
     ],
@@ -92683,7 +92683,7 @@
         "chance": 6,
         "item": {
           "name": "Acceltra Prime Barrel",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fcc4ed5b0d2e3eb462d0",
             "urlName": "acceltra_prime_barrel"
@@ -92695,7 +92695,7 @@
         "chance": 17,
         "item": {
           "name": "Akarius Prime Link",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fca4ed5b0d2e3eb462cd",
             "urlName": "akarius_prime_link"
@@ -92707,7 +92707,7 @@
         "chance": 17,
         "item": {
           "name": "Grendel Prime Chassis Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "653060f332327ba8746da747",
             "urlName": "grendel_prime_chassis_blueprint"
@@ -92719,7 +92719,7 @@
         "chance": 20,
         "item": {
           "name": "Zylok Prime Barrel",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "6530694722c7fd977050854a",
             "urlName": "zylok_prime_barrel"
@@ -92731,7 +92731,7 @@
         "chance": 20,
         "item": {
           "name": "Paris Prime Lower Limb",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff54",
             "urlName": "paris_prime_lower_limb"
@@ -92743,7 +92743,7 @@
         "chance": 20,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
         }
       }
     ],
@@ -92766,7 +92766,7 @@
         "chance": 2,
         "item": {
           "name": "Acceltra Prime Barrel",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fcc4ed5b0d2e3eb462d0",
             "urlName": "acceltra_prime_barrel"
@@ -92778,7 +92778,7 @@
         "chance": 11,
         "item": {
           "name": "Akarius Prime Link",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fca4ed5b0d2e3eb462cd",
             "urlName": "akarius_prime_link"
@@ -92790,7 +92790,7 @@
         "chance": 11,
         "item": {
           "name": "Grendel Prime Chassis Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "653060f332327ba8746da747",
             "urlName": "grendel_prime_chassis_blueprint"
@@ -92802,7 +92802,7 @@
         "chance": 25.33,
         "item": {
           "name": "Zylok Prime Barrel",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "6530694722c7fd977050854a",
             "urlName": "zylok_prime_barrel"
@@ -92814,7 +92814,7 @@
         "chance": 25.33,
         "item": {
           "name": "Paris Prime Lower Limb",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff54",
             "urlName": "paris_prime_lower_limb"
@@ -92826,7 +92826,7 @@
         "chance": 25.33,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
         }
       }
     ],
@@ -92849,7 +92849,7 @@
         "chance": 10,
         "item": {
           "name": "Acceltra Prime Barrel",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fcc4ed5b0d2e3eb462d0",
             "urlName": "acceltra_prime_barrel"
@@ -92861,7 +92861,7 @@
         "chance": 20,
         "item": {
           "name": "Akarius Prime Link",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fca4ed5b0d2e3eb462cd",
             "urlName": "akarius_prime_link"
@@ -92873,7 +92873,7 @@
         "chance": 20,
         "item": {
           "name": "Grendel Prime Chassis Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "653060f332327ba8746da747",
             "urlName": "grendel_prime_chassis_blueprint"
@@ -92885,7 +92885,7 @@
         "chance": 16.67,
         "item": {
           "name": "Zylok Prime Barrel",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "6530694722c7fd977050854a",
             "urlName": "zylok_prime_barrel"
@@ -92897,7 +92897,7 @@
         "chance": 16.67,
         "item": {
           "name": "Paris Prime Lower Limb",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff54",
             "urlName": "paris_prime_lower_limb"
@@ -92909,7 +92909,7 @@
         "chance": 16.67,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
         }
       }
     ],
@@ -193351,7 +193351,7 @@
         "chance": 4,
         "item": {
           "name": "Akarius Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fca4ed5b0d2e3eb462ca",
             "urlName": "akarius_prime_blueprint"
@@ -193363,7 +193363,7 @@
         "chance": 13,
         "item": {
           "name": "Masseter Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "6530690f22c7fd9770508545",
             "urlName": "masseter_prime_blueprint"
@@ -193375,7 +193375,7 @@
         "chance": 13,
         "item": {
           "name": "Acceltra Prime Stock",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fcc4ed5b0d2e3eb462d2",
             "urlName": "acceltra_prime_stock"
@@ -193387,7 +193387,7 @@
         "chance": 23.33,
         "item": {
           "name": "Gauss Prime Chassis Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fc5aed5b0d2e3eb462b5",
             "urlName": "gauss_prime_chassis_blueprint"
@@ -193399,7 +193399,7 @@
         "chance": 23.33,
         "item": {
           "name": "Paris Prime Upper Limb",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff57",
             "urlName": "paris_prime_upper_limb"
@@ -193411,7 +193411,7 @@
         "chance": 23.33,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
         }
       }
     ],
@@ -193434,7 +193434,7 @@
         "chance": 6,
         "item": {
           "name": "Akarius Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fca4ed5b0d2e3eb462ca",
             "urlName": "akarius_prime_blueprint"
@@ -193446,7 +193446,7 @@
         "chance": 17,
         "item": {
           "name": "Masseter Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "6530690f22c7fd9770508545",
             "urlName": "masseter_prime_blueprint"
@@ -193458,7 +193458,7 @@
         "chance": 17,
         "item": {
           "name": "Acceltra Prime Stock",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fcc4ed5b0d2e3eb462d2",
             "urlName": "acceltra_prime_stock"
@@ -193470,7 +193470,7 @@
         "chance": 20,
         "item": {
           "name": "Gauss Prime Chassis Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fc5aed5b0d2e3eb462b5",
             "urlName": "gauss_prime_chassis_blueprint"
@@ -193482,7 +193482,7 @@
         "chance": 20,
         "item": {
           "name": "Paris Prime Upper Limb",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff57",
             "urlName": "paris_prime_upper_limb"
@@ -193494,7 +193494,7 @@
         "chance": 20,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
         }
       }
     ],
@@ -193517,7 +193517,7 @@
         "chance": 2,
         "item": {
           "name": "Akarius Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fca4ed5b0d2e3eb462ca",
             "urlName": "akarius_prime_blueprint"
@@ -193529,7 +193529,7 @@
         "chance": 11,
         "item": {
           "name": "Masseter Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "6530690f22c7fd9770508545",
             "urlName": "masseter_prime_blueprint"
@@ -193541,7 +193541,7 @@
         "chance": 11,
         "item": {
           "name": "Acceltra Prime Stock",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fcc4ed5b0d2e3eb462d2",
             "urlName": "acceltra_prime_stock"
@@ -193553,7 +193553,7 @@
         "chance": 25.33,
         "item": {
           "name": "Gauss Prime Chassis Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fc5aed5b0d2e3eb462b5",
             "urlName": "gauss_prime_chassis_blueprint"
@@ -193565,7 +193565,7 @@
         "chance": 25.33,
         "item": {
           "name": "Paris Prime Upper Limb",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff57",
             "urlName": "paris_prime_upper_limb"
@@ -193577,7 +193577,7 @@
         "chance": 25.33,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
         }
       }
     ],
@@ -193600,7 +193600,7 @@
         "chance": 10,
         "item": {
           "name": "Akarius Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fca4ed5b0d2e3eb462ca",
             "urlName": "akarius_prime_blueprint"
@@ -193612,7 +193612,7 @@
         "chance": 20,
         "item": {
           "name": "Masseter Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "6530690f22c7fd9770508545",
             "urlName": "masseter_prime_blueprint"
@@ -193624,7 +193624,7 @@
         "chance": 20,
         "item": {
           "name": "Acceltra Prime Stock",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fcc4ed5b0d2e3eb462d2",
             "urlName": "acceltra_prime_stock"
@@ -193636,7 +193636,7 @@
         "chance": 16.67,
         "item": {
           "name": "Gauss Prime Chassis Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fc5aed5b0d2e3eb462b5",
             "urlName": "gauss_prime_chassis_blueprint"
@@ -193648,7 +193648,7 @@
         "chance": 16.67,
         "item": {
           "name": "Paris Prime Upper Limb",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff57",
             "urlName": "paris_prime_upper_limb"
@@ -193660,7 +193660,7 @@
         "chance": 16.67,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
         }
       }
     ],
@@ -318978,7 +318978,7 @@
         "chance": 4,
         "item": {
           "name": "Zylok Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "6530694622c7fd9770508549",
             "urlName": "zylok_prime_blueprint"
@@ -318990,7 +318990,7 @@
         "chance": 13,
         "item": {
           "name": "Gauss Prime Neuroptics Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "65a7fc5aed5b0d2e3eb462b4",
             "urlName": "gauss_prime_neuroptics_blueprint"
@@ -319002,7 +319002,7 @@
         "chance": 13,
         "item": {
           "name": "Bronco Prime Barrel",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff36",
             "urlName": "bronco_prime_barrel"
@@ -319014,7 +319014,7 @@
         "chance": 23.33,
         "item": {
           "name": "Acceltra Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "65a7fcc4ed5b0d2e3eb462cf",
             "urlName": "acceltra_prime_blueprint"
@@ -319026,7 +319026,7 @@
         "chance": 23.33,
         "item": {
           "name": "Paris Prime String",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff56",
             "urlName": "paris_prime_string"
@@ -319038,7 +319038,7 @@
         "chance": 23.33,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
         }
       }
     ],
@@ -319061,7 +319061,7 @@
         "chance": 6,
         "item": {
           "name": "Zylok Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "6530694622c7fd9770508549",
             "urlName": "zylok_prime_blueprint"
@@ -319073,7 +319073,7 @@
         "chance": 17,
         "item": {
           "name": "Gauss Prime Neuroptics Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "65a7fc5aed5b0d2e3eb462b4",
             "urlName": "gauss_prime_neuroptics_blueprint"
@@ -319085,7 +319085,7 @@
         "chance": 17,
         "item": {
           "name": "Bronco Prime Barrel",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff36",
             "urlName": "bronco_prime_barrel"
@@ -319097,7 +319097,7 @@
         "chance": 20,
         "item": {
           "name": "Acceltra Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "65a7fcc4ed5b0d2e3eb462cf",
             "urlName": "acceltra_prime_blueprint"
@@ -319109,7 +319109,7 @@
         "chance": 20,
         "item": {
           "name": "Paris Prime String",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff56",
             "urlName": "paris_prime_string"
@@ -319121,7 +319121,7 @@
         "chance": 20,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
         }
       }
     ],
@@ -319144,7 +319144,7 @@
         "chance": 2,
         "item": {
           "name": "Zylok Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "6530694622c7fd9770508549",
             "urlName": "zylok_prime_blueprint"
@@ -319156,7 +319156,7 @@
         "chance": 11,
         "item": {
           "name": "Gauss Prime Neuroptics Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "65a7fc5aed5b0d2e3eb462b4",
             "urlName": "gauss_prime_neuroptics_blueprint"
@@ -319168,7 +319168,7 @@
         "chance": 11,
         "item": {
           "name": "Bronco Prime Barrel",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff36",
             "urlName": "bronco_prime_barrel"
@@ -319180,7 +319180,7 @@
         "chance": 25.33,
         "item": {
           "name": "Acceltra Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "65a7fcc4ed5b0d2e3eb462cf",
             "urlName": "acceltra_prime_blueprint"
@@ -319192,7 +319192,7 @@
         "chance": 25.33,
         "item": {
           "name": "Paris Prime String",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff56",
             "urlName": "paris_prime_string"
@@ -319204,7 +319204,7 @@
         "chance": 25.33,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
         }
       }
     ],
@@ -319227,7 +319227,7 @@
         "chance": 10,
         "item": {
           "name": "Zylok Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "6530694622c7fd9770508549",
             "urlName": "zylok_prime_blueprint"
@@ -319239,7 +319239,7 @@
         "chance": 20,
         "item": {
           "name": "Gauss Prime Neuroptics Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "65a7fc5aed5b0d2e3eb462b4",
             "urlName": "gauss_prime_neuroptics_blueprint"
@@ -319251,7 +319251,7 @@
         "chance": 20,
         "item": {
           "name": "Bronco Prime Barrel",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff36",
             "urlName": "bronco_prime_barrel"
@@ -319263,7 +319263,7 @@
         "chance": 16.67,
         "item": {
           "name": "Acceltra Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "65a7fcc4ed5b0d2e3eb462cf",
             "urlName": "acceltra_prime_blueprint"
@@ -319275,7 +319275,7 @@
         "chance": 16.67,
         "item": {
           "name": "Paris Prime String",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff56",
             "urlName": "paris_prime_string"
@@ -319287,7 +319287,7 @@
         "chance": 16.67,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
         }
       }
     ],
@@ -357786,7 +357786,7 @@
         "chance": 4,
         "item": {
           "name": "Grendel Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "653060f332327ba8746da745",
             "urlName": "grendel_prime_blueprint"
@@ -357798,7 +357798,7 @@
         "chance": 13,
         "item": {
           "name": "Gauss Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fc5aed5b0d2e3eb462b3",
             "urlName": "gauss_prime_blueprint"
@@ -357810,7 +357810,7 @@
         "chance": 13,
         "item": {
           "name": "Akarius Prime Receiver",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fca4ed5b0d2e3eb462cc",
             "urlName": "akarius_prime_receiver"
@@ -357822,7 +357822,7 @@
         "chance": 23.33,
         "item": {
           "name": "Masseter Prime Handle",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "6530690f22c7fd9770508547",
             "urlName": "masseter_prime_handle"
@@ -357834,7 +357834,7 @@
         "chance": 23.33,
         "item": {
           "name": "Paris Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff55",
             "urlName": "paris_prime_blueprint"
@@ -357846,7 +357846,7 @@
         "chance": 23.33,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
         }
       }
     ],
@@ -357869,7 +357869,7 @@
         "chance": 6,
         "item": {
           "name": "Grendel Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "653060f332327ba8746da745",
             "urlName": "grendel_prime_blueprint"
@@ -357881,7 +357881,7 @@
         "chance": 17,
         "item": {
           "name": "Gauss Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fc5aed5b0d2e3eb462b3",
             "urlName": "gauss_prime_blueprint"
@@ -357893,7 +357893,7 @@
         "chance": 17,
         "item": {
           "name": "Akarius Prime Receiver",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fca4ed5b0d2e3eb462cc",
             "urlName": "akarius_prime_receiver"
@@ -357905,7 +357905,7 @@
         "chance": 20,
         "item": {
           "name": "Masseter Prime Handle",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "6530690f22c7fd9770508547",
             "urlName": "masseter_prime_handle"
@@ -357917,7 +357917,7 @@
         "chance": 20,
         "item": {
           "name": "Paris Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff55",
             "urlName": "paris_prime_blueprint"
@@ -357929,7 +357929,7 @@
         "chance": 20,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
         }
       }
     ],
@@ -357952,7 +357952,7 @@
         "chance": 2,
         "item": {
           "name": "Grendel Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "653060f332327ba8746da745",
             "urlName": "grendel_prime_blueprint"
@@ -357964,7 +357964,7 @@
         "chance": 11,
         "item": {
           "name": "Gauss Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fc5aed5b0d2e3eb462b3",
             "urlName": "gauss_prime_blueprint"
@@ -357976,7 +357976,7 @@
         "chance": 11,
         "item": {
           "name": "Akarius Prime Receiver",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fca4ed5b0d2e3eb462cc",
             "urlName": "akarius_prime_receiver"
@@ -357988,7 +357988,7 @@
         "chance": 25.33,
         "item": {
           "name": "Masseter Prime Handle",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "6530690f22c7fd9770508547",
             "urlName": "masseter_prime_handle"
@@ -358000,7 +358000,7 @@
         "chance": 25.33,
         "item": {
           "name": "Paris Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff55",
             "urlName": "paris_prime_blueprint"
@@ -358012,7 +358012,7 @@
         "chance": 25.33,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
         }
       }
     ],
@@ -358035,7 +358035,7 @@
         "chance": 10,
         "item": {
           "name": "Grendel Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "653060f332327ba8746da745",
             "urlName": "grendel_prime_blueprint"
@@ -358047,7 +358047,7 @@
         "chance": 20,
         "item": {
           "name": "Gauss Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fc5aed5b0d2e3eb462b3",
             "urlName": "gauss_prime_blueprint"
@@ -358059,7 +358059,7 @@
         "chance": 20,
         "item": {
           "name": "Akarius Prime Receiver",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "65a7fca4ed5b0d2e3eb462cc",
             "urlName": "akarius_prime_receiver"
@@ -358071,7 +358071,7 @@
         "chance": 16.67,
         "item": {
           "name": "Masseter Prime Handle",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "6530690f22c7fd9770508547",
             "urlName": "masseter_prime_handle"
@@ -358083,7 +358083,7 @@
         "chance": 16.67,
         "item": {
           "name": "Paris Prime Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff55",
             "urlName": "paris_prime_blueprint"
@@ -358095,7 +358095,7 @@
         "chance": 16.67,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
         }
       }
     ],
@@ -376650,7 +376650,7 @@
         "chance": 4,
         "item": {
           "name": "Masseter Prime Blade",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "6530690f22c7fd9770508546",
             "urlName": "masseter_prime_blade"
@@ -376662,7 +376662,7 @@
         "chance": 13,
         "item": {
           "name": "Acceltra Prime Receiver",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "65a7fcc4ed5b0d2e3eb462d1",
             "urlName": "acceltra_prime_receiver"
@@ -376674,7 +376674,7 @@
         "chance": 13,
         "item": {
           "name": "Grendel Prime Systems Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "653060f332327ba8746da748",
             "urlName": "grendel_prime_systems_blueprint"
@@ -376686,7 +376686,7 @@
         "chance": 23.33,
         "item": {
           "name": "Akarius Prime Barrel",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "65a7fca4ed5b0d2e3eb462cb",
             "urlName": "akarius_prime_barrel"
@@ -376698,7 +376698,7 @@
         "chance": 23.33,
         "item": {
           "name": "Bronco Prime Receiver",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff38",
             "urlName": "bronco_prime_receiver"
@@ -376710,7 +376710,7 @@
         "chance": 23.33,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
         }
       }
     ],
@@ -376733,7 +376733,7 @@
         "chance": 6,
         "item": {
           "name": "Masseter Prime Blade",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "6530690f22c7fd9770508546",
             "urlName": "masseter_prime_blade"
@@ -376745,7 +376745,7 @@
         "chance": 17,
         "item": {
           "name": "Acceltra Prime Receiver",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "65a7fcc4ed5b0d2e3eb462d1",
             "urlName": "acceltra_prime_receiver"
@@ -376757,7 +376757,7 @@
         "chance": 17,
         "item": {
           "name": "Grendel Prime Systems Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "653060f332327ba8746da748",
             "urlName": "grendel_prime_systems_blueprint"
@@ -376769,7 +376769,7 @@
         "chance": 20,
         "item": {
           "name": "Akarius Prime Barrel",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "65a7fca4ed5b0d2e3eb462cb",
             "urlName": "akarius_prime_barrel"
@@ -376781,7 +376781,7 @@
         "chance": 20,
         "item": {
           "name": "Bronco Prime Receiver",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff38",
             "urlName": "bronco_prime_receiver"
@@ -376793,7 +376793,7 @@
         "chance": 20,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
         }
       }
     ],
@@ -376816,7 +376816,7 @@
         "chance": 2,
         "item": {
           "name": "Masseter Prime Blade",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "6530690f22c7fd9770508546",
             "urlName": "masseter_prime_blade"
@@ -376828,7 +376828,7 @@
         "chance": 11,
         "item": {
           "name": "Acceltra Prime Receiver",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "65a7fcc4ed5b0d2e3eb462d1",
             "urlName": "acceltra_prime_receiver"
@@ -376840,7 +376840,7 @@
         "chance": 11,
         "item": {
           "name": "Grendel Prime Systems Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "653060f332327ba8746da748",
             "urlName": "grendel_prime_systems_blueprint"
@@ -376852,7 +376852,7 @@
         "chance": 25.33,
         "item": {
           "name": "Akarius Prime Barrel",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "65a7fca4ed5b0d2e3eb462cb",
             "urlName": "akarius_prime_barrel"
@@ -376864,7 +376864,7 @@
         "chance": 25.33,
         "item": {
           "name": "Bronco Prime Receiver",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff38",
             "urlName": "bronco_prime_receiver"
@@ -376876,7 +376876,7 @@
         "chance": 25.33,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
         }
       }
     ],
@@ -376899,7 +376899,7 @@
         "chance": 10,
         "item": {
           "name": "Masseter Prime Blade",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "6530690f22c7fd9770508546",
             "urlName": "masseter_prime_blade"
@@ -376911,7 +376911,7 @@
         "chance": 20,
         "item": {
           "name": "Acceltra Prime Receiver",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "65a7fcc4ed5b0d2e3eb462d1",
             "urlName": "acceltra_prime_receiver"
@@ -376923,7 +376923,7 @@
         "chance": 20,
         "item": {
           "name": "Grendel Prime Systems Blueprint",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "653060f332327ba8746da748",
             "urlName": "grendel_prime_systems_blueprint"
@@ -376935,7 +376935,7 @@
         "chance": 16.67,
         "item": {
           "name": "Akarius Prime Barrel",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "65a7fca4ed5b0d2e3eb462cb",
             "urlName": "akarius_prime_barrel"
@@ -376947,7 +376947,7 @@
         "chance": 16.67,
         "item": {
           "name": "Bronco Prime Receiver",
-          "uniqueName": "",
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
           "warframeMarket": {
             "id": "54a73e65e779893a797fff38",
             "urlName": "bronco_prime_receiver"
@@ -376959,7 +376959,7 @@
         "chance": 16.67,
         "item": {
           "name": "Forma Blueprint",
-          "uniqueName": ""
+          "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
         }
       }
     ],

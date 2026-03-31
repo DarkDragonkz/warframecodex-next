@@ -2297,7 +2297,7 @@
             "location": "Neo M6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Akarius Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.1667,
@@ -2353,7 +2353,7 @@
             "location": "Neo M6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Akarius Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2,
@@ -2409,7 +2409,7 @@
             "location": "Neo M6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Akarius Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2333,
@@ -2465,7 +2465,7 @@
             "location": "Neo M6 Relic",
             "rarity": "Uncommon",
             "type": "Akarius Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2533,
@@ -2494,7 +2494,7 @@
             "location": "Meso A11 Relic",
             "rarity": "Rare",
             "type": "Akarius Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.02,
@@ -2515,7 +2515,7 @@
             "location": "Meso A11 Relic (Exceptional)",
             "rarity": "Rare",
             "type": "Akarius Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.04,
@@ -2536,7 +2536,7 @@
             "location": "Meso A11 Relic (Flawless)",
             "rarity": "Rare",
             "type": "Akarius Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.06,
@@ -2557,7 +2557,7 @@
             "location": "Meso A11 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Akarius Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.1,
@@ -2596,7 +2596,7 @@
             "location": "Lith A11 Relic",
             "rarity": "Uncommon",
             "type": "Akarius Prime Link",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.11,
@@ -2645,7 +2645,7 @@
             "location": "Lith A11 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Akarius Prime Link",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.13,
@@ -2694,7 +2694,7 @@
             "location": "Lith A11 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Akarius Prime Link",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.17,
@@ -2743,7 +2743,7 @@
             "location": "Lith A11 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Akarius Prime Link",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
@@ -2910,28 +2910,28 @@
             "location": "Neo G10 Relic",
             "rarity": "Uncommon",
             "type": "Akarius Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.13,
             "location": "Neo G10 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Akarius Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.17,
             "location": "Neo G10 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Akarius Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
             "location": "Neo G10 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Akarius Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           }
         ],
         "masterable": false,
@@ -5772,7 +5772,7 @@
             "location": "Meso Z6 Relic",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.11,
@@ -5898,7 +5898,7 @@
             "location": "Meso Z6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.13,
@@ -5961,7 +5961,7 @@
             "location": "Axi G15 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.1667,
@@ -6381,7 +6381,7 @@
             "location": "Neo M6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.1667,
@@ -6535,7 +6535,7 @@
             "location": "Meso Z6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.17,
@@ -6612,7 +6612,7 @@
             "location": "Axi G15 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
@@ -7053,7 +7053,7 @@
             "location": "Meso Z6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2,
@@ -7130,7 +7130,7 @@
             "location": "Neo M6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2,
@@ -7235,7 +7235,7 @@
             "location": "Axi G15 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2333,
@@ -7655,7 +7655,7 @@
             "location": "Neo M6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2333,
@@ -7746,7 +7746,7 @@
             "location": "Axi G15 Relic",
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2533,
@@ -8166,7 +8166,7 @@
             "location": "Neo M6 Relic",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2533,
@@ -8451,7 +8451,7 @@
             "location": "Meso Z6 Relic",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.11,
@@ -8577,7 +8577,7 @@
             "location": "Meso Z6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.13,
@@ -8640,7 +8640,7 @@
             "location": "Axi G15 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.1667,
@@ -9060,7 +9060,7 @@
             "location": "Neo M6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.1667,
@@ -9214,7 +9214,7 @@
             "location": "Meso Z6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.17,
@@ -9291,7 +9291,7 @@
             "location": "Axi G15 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
@@ -9732,7 +9732,7 @@
             "location": "Meso Z6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2,
@@ -9809,7 +9809,7 @@
             "location": "Neo M6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2,
@@ -9914,7 +9914,7 @@
             "location": "Axi G15 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2333,
@@ -10334,7 +10334,7 @@
             "location": "Neo M6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2333,
@@ -10425,7 +10425,7 @@
             "location": "Axi G15 Relic",
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2533,
@@ -10845,7 +10845,7 @@
             "location": "Neo M6 Relic",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2533,
@@ -32453,7 +32453,7 @@
             "location": "Meso Z6 Relic",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.11,
@@ -32579,7 +32579,7 @@
             "location": "Meso Z6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.13,
@@ -32712,7 +32712,7 @@
             "location": "Meso Z6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.17,
@@ -32838,7 +32838,7 @@
             "location": "Meso Z6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2,
@@ -32923,7 +32923,7 @@
             "location": "Axi G15 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.1667,
@@ -33168,7 +33168,7 @@
             "location": "Axi G15 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
@@ -33413,7 +33413,7 @@
             "location": "Axi G15 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2333,
@@ -33658,7 +33658,7 @@
             "location": "Axi G15 Relic",
             "rarity": "Uncommon",
             "type": "Bronco Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2533,
@@ -34114,7 +34114,7 @@
             "location": "Neo M6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.1667,
@@ -34373,7 +34373,7 @@
             "location": "Neo M6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2,
@@ -34632,7 +34632,7 @@
             "location": "Neo M6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2333,
@@ -34891,7 +34891,7 @@
             "location": "Neo M6 Relic",
             "rarity": "Uncommon",
             "type": "Bronco Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2533,
@@ -65067,7 +65067,7 @@
         "status_chance": 28,
         "shot_type": "Hit-Scan",
         "damage": {
-          "magnetic": 20
+          "magnetic": 21
         }
       },
       {
@@ -73521,7 +73521,7 @@
             "location": "Lith A11 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Zylok Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.1667,
@@ -73584,7 +73584,7 @@
             "location": "Lith A11 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Zylok Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
@@ -73647,7 +73647,7 @@
             "location": "Lith A11 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Zylok Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2333,
@@ -73710,7 +73710,7 @@
             "location": "Lith A11 Relic",
             "rarity": "Uncommon",
             "type": "Zylok Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2533,
@@ -73781,7 +73781,7 @@
             "location": "Meso Z6 Relic",
             "rarity": "Rare",
             "type": "Zylok Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.02,
@@ -73816,7 +73816,7 @@
             "location": "Meso Z6 Relic (Exceptional)",
             "rarity": "Rare",
             "type": "Zylok Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.04,
@@ -73851,7 +73851,7 @@
             "location": "Meso Z6 Relic (Flawless)",
             "rarity": "Rare",
             "type": "Zylok Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.06,
@@ -73886,7 +73886,7 @@
             "location": "Meso Z6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Zylok Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.1,
@@ -73936,7 +73936,7 @@
             "location": "Axi G15 Relic",
             "rarity": "Uncommon",
             "type": "Zylok Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.11,
@@ -73985,7 +73985,7 @@
             "location": "Axi G15 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Zylok Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.13,
@@ -74034,7 +74034,7 @@
             "location": "Axi G15 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Zylok Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.17,
@@ -74083,7 +74083,7 @@
             "location": "Axi G15 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Zylok Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,

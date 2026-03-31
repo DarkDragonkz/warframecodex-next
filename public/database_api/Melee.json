@@ -51689,7 +51689,7 @@
             "location": "Neo M6 Relic",
             "rarity": "Rare",
             "type": "Masseter Prime Blade",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.04,
@@ -51731,7 +51731,7 @@
             "location": "Neo M6 Relic (Exceptional)",
             "rarity": "Rare",
             "type": "Masseter Prime Blade",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.06,
@@ -51773,7 +51773,7 @@
             "location": "Neo M6 Relic (Flawless)",
             "rarity": "Rare",
             "type": "Masseter Prime Blade",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.1,
@@ -51815,7 +51815,7 @@
             "location": "Neo M6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Masseter Prime Blade",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           }
         ],
         "masterable": false,
@@ -51865,7 +51865,7 @@
             "location": "Meso A11 Relic",
             "rarity": "Uncommon",
             "type": "Masseter Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.11,
@@ -51921,7 +51921,7 @@
             "location": "Meso A11 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Masseter Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.13,
@@ -51977,7 +51977,7 @@
             "location": "Meso A11 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Masseter Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.17,
@@ -52033,7 +52033,7 @@
             "location": "Meso A11 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Masseter Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
@@ -52121,7 +52121,7 @@
             "location": "Neo G10 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Masseter Prime Handle",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
@@ -52177,7 +52177,7 @@
             "location": "Neo G10 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Masseter Prime Handle",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2333,
@@ -52233,7 +52233,7 @@
             "location": "Neo G10 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Masseter Prime Handle",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2533,
@@ -52289,7 +52289,7 @@
             "location": "Neo G10 Relic",
             "rarity": "Uncommon",
             "type": "Masseter Prime Handle",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           }
         ],
         "masterable": false,

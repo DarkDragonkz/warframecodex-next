@@ -360,7 +360,7 @@
             "location": "Lith A11 Relic",
             "rarity": "Rare",
             "type": "Acceltra Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.02,
@@ -402,7 +402,7 @@
             "location": "Lith A11 Relic (Exceptional)",
             "rarity": "Rare",
             "type": "Acceltra Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.04,
@@ -444,7 +444,7 @@
             "location": "Lith A11 Relic (Flawless)",
             "rarity": "Rare",
             "type": "Acceltra Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.06,
@@ -486,7 +486,7 @@
             "location": "Lith A11 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Barrel",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.1,
@@ -592,7 +592,7 @@
             "location": "Meso Z6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.1667,
@@ -655,7 +655,7 @@
             "location": "Meso Z6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2,
@@ -718,7 +718,7 @@
             "location": "Meso Z6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2333,
@@ -781,7 +781,7 @@
             "location": "Meso Z6 Relic",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2533,
@@ -866,7 +866,7 @@
             "location": "Neo M6 Relic",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.11,
@@ -929,7 +929,7 @@
             "location": "Neo M6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.13,
@@ -992,7 +992,7 @@
             "location": "Neo M6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.17,
@@ -1055,7 +1055,7 @@
             "location": "Neo M6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Receiver",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2,
@@ -1166,28 +1166,28 @@
             "location": "Meso A11 Relic",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Stock",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.13,
             "location": "Meso A11 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Stock",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.17,
             "location": "Meso A11 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Stock",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
             "location": "Meso A11 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Acceltra Prime Stock",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           }
         ],
         "masterable": false,
@@ -49379,7 +49379,7 @@
             "location": "Neo G10 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Paris Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.1667,
@@ -49596,7 +49596,7 @@
             "location": "Neo G10 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Paris Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
@@ -49813,7 +49813,7 @@
             "location": "Neo G10 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Paris Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2333,
@@ -50030,7 +50030,7 @@
             "location": "Neo G10 Relic",
             "rarity": "Uncommon",
             "type": "Paris Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2533,
@@ -50083,7 +50083,7 @@
             "location": "Axi G15 Relic",
             "rarity": "Uncommon",
             "type": "Paris Prime Grip",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.11,
@@ -50237,7 +50237,7 @@
             "location": "Axi G15 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Paris Prime Grip",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.13,
@@ -50391,7 +50391,7 @@
             "location": "Axi G15 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Paris Prime Grip",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.17,
@@ -50545,7 +50545,7 @@
             "location": "Axi G15 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Paris Prime Grip",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
@@ -50761,7 +50761,7 @@
             "location": "Lith A11 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Paris Prime Lower Limb",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.1667,
@@ -50999,7 +50999,7 @@
             "location": "Lith A11 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Paris Prime Lower Limb",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
@@ -51237,7 +51237,7 @@
             "location": "Lith A11 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Paris Prime Lower Limb",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2333,
@@ -51475,7 +51475,7 @@
             "location": "Lith A11 Relic",
             "rarity": "Uncommon",
             "type": "Paris Prime Lower Limb",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2533,
@@ -51817,7 +51817,7 @@
             "location": "Meso Z6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Paris Prime String",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.1667,
@@ -52069,7 +52069,7 @@
             "location": "Meso Z6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Paris Prime String",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2,
@@ -52321,7 +52321,7 @@
             "location": "Meso Z6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Paris Prime String",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2333,
@@ -52573,7 +52573,7 @@
             "location": "Meso Z6 Relic",
             "rarity": "Uncommon",
             "type": "Paris Prime String",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2533,
@@ -52964,7 +52964,7 @@
             "location": "Meso A11 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Paris Prime Upper Limb",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.1667,
@@ -53265,7 +53265,7 @@
             "location": "Meso A11 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Paris Prime Upper Limb",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
@@ -53510,7 +53510,7 @@
             "location": "Meso A11 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Paris Prime Upper Limb",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2333,
@@ -53692,7 +53692,7 @@
             "location": "Meso A11 Relic",
             "rarity": "Uncommon",
             "type": "Paris Prime Upper Limb",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2533,

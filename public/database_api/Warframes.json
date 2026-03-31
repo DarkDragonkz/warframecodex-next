@@ -22196,7 +22196,7 @@
         "date": "2018-01-25T23:53:14Z",
         "url": "https://forums.warframe.com/topic/911802-plains-of-eidolon-update-22100/",
         "additions": "",
-        "changes": "Warframe Specters are now much smarter! If you don't recall, Specters are craftable gear you can equip to summon an AI companion in battle. We've done a general intelligence pass on their proficiency with Weapons, and we've also updated their power-casting logic. Virtually every power is now castable with only a few exceptions! Specters CANNOT cast the following Abilities: Vauban's Minelayer, Ivara's Zipline, Titania's Razorwing, Nekros’ Desecrate and Shadows of the Dead, Excalibur��s Exalted Blade, Valkyr’s Hysteria, Wukong’s Primal Fury, Cloud Walker, and Defy, Atlas’ Petrify and Tectonics, Limbo's entire kit (save for the damage aspect of Banish), and finally Zephyr’s Dive Bomb. ",
+        "changes": "Warframe Specters are now much smarter! If you don't recall, Specters are craftable gear you can equip to summon an AI companion in battle. We've done a general intelligence pass on their proficiency with Weapons, and we've also updated their power-casting logic. Virtually every power is now castable with only a few exceptions! Specters CANNOT cast the following Abilities: Vauban's Minelayer, Ivara's Zipline, Titania's Razorwing, Nekros’ Desecrate and Shadows of the Dead, Excalibur’s Exalted Blade, Valkyr’s Hysteria, Wukong’s Primal Fury, Cloud Walker, and Defy, Atlas’ Petrify and Tectonics, Limbo's entire kit (save for the damage aspect of Banish), and finally Zephyr’s Dive Bomb. ",
         "fixes": ""
       },
       {
@@ -31378,7 +31378,7 @@
             "location": "Neo G10 Relic",
             "rarity": "Uncommon",
             "type": "Gauss Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.11,
@@ -31420,7 +31420,7 @@
             "location": "Neo G10 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Gauss Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.13,
@@ -31483,7 +31483,7 @@
             "location": "Neo G10 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Gauss Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.17,
@@ -31539,7 +31539,7 @@
             "location": "Neo G10 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Gauss Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
@@ -31634,7 +31634,7 @@
             "location": "Meso A11 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Gauss Prime Chassis Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.1667,
@@ -31690,7 +31690,7 @@
             "location": "Meso A11 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Gauss Prime Chassis Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
@@ -31746,7 +31746,7 @@
             "location": "Meso A11 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Gauss Prime Chassis Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2333,
@@ -31802,7 +31802,7 @@
             "location": "Meso A11 Relic",
             "rarity": "Uncommon",
             "type": "Gauss Prime Chassis Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2533,
@@ -31892,7 +31892,7 @@
             "location": "Meso Z6 Relic",
             "rarity": "Uncommon",
             "type": "Gauss Prime Neuroptics Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.11,
@@ -31941,7 +31941,7 @@
             "location": "Meso Z6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Gauss Prime Neuroptics Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.13,
@@ -31990,7 +31990,7 @@
             "location": "Meso Z6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Gauss Prime Neuroptics Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.17,
@@ -32039,7 +32039,7 @@
             "location": "Meso Z6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Gauss Prime Neuroptics Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2,
@@ -32077,7 +32077,7 @@
             "location": "Axi G15 Relic",
             "rarity": "Rare",
             "type": "Gauss Prime Systems Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.02,
@@ -32126,7 +32126,7 @@
             "location": "Axi G15 Relic (Exceptional)",
             "rarity": "Rare",
             "type": "Gauss Prime Systems Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.04,
@@ -32175,7 +32175,7 @@
             "location": "Axi G15 Relic (Flawless)",
             "rarity": "Rare",
             "type": "Gauss Prime Systems Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.06,
@@ -32224,7 +32224,7 @@
             "location": "Axi G15 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Gauss Prime Systems Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.1,
@@ -32783,7 +32783,7 @@
             "location": "Neo G10 Relic",
             "rarity": "Rare",
             "type": "Grendel Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.02,
@@ -32818,7 +32818,7 @@
             "location": "Neo G10 Relic (Exceptional)",
             "rarity": "Rare",
             "type": "Grendel Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.04,
@@ -32853,7 +32853,7 @@
             "location": "Neo G10 Relic (Flawless)",
             "rarity": "Rare",
             "type": "Grendel Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.06,
@@ -32888,7 +32888,7 @@
             "location": "Neo G10 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Grendel Prime Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.1,
@@ -32913,7 +32913,7 @@
             "location": "Lith A11 Relic",
             "rarity": "Uncommon",
             "type": "Grendel Prime Chassis Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.11,
@@ -32948,7 +32948,7 @@
             "location": "Lith A11 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Grendel Prime Chassis Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.13,
@@ -32983,7 +32983,7 @@
             "location": "Lith A11 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Grendel Prime Chassis Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.17,
@@ -33018,7 +33018,7 @@
             "location": "Lith A11 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Grendel Prime Chassis Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
@@ -33066,7 +33066,7 @@
             "location": "Axi G15 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Grendel Prime Neuroptics Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.1667,
@@ -33115,7 +33115,7 @@
             "location": "Axi G15 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Grendel Prime Neuroptics Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2,
@@ -33164,7 +33164,7 @@
             "location": "Axi G15 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Grendel Prime Neuroptics Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2333,
@@ -33213,7 +33213,7 @@
             "location": "Axi G15 Relic",
             "rarity": "Uncommon",
             "type": "Grendel Prime Neuroptics Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
           },
           {
             "chance": 0.2533,
@@ -33342,28 +33342,28 @@
             "location": "Neo M6 Relic",
             "rarity": "Uncommon",
             "type": "Grendel Prime Systems Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.13,
             "location": "Neo M6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Grendel Prime Systems Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.17,
             "location": "Neo M6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Grendel Prime Systems Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           },
           {
             "chance": 0.2,
             "location": "Neo M6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Grendel Prime Systems Blueprint",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
           }
         ],
         "masterable": false,
@@ -43607,7 +43607,7 @@
         "date": "2020-01-09T16:43:11Z",
         "url": "https://forums.warframe.com/topic/1160497-empyrean-ivara-prime-2709/",
         "additions": "",
-        "changes": "Empyrean: Ivara Prime 27.0.9:\nFixed Ivara��s Zipline persisting when in Railjack Emplacements. ",
+        "changes": "Empyrean: Ivara Prime 27.0.9:\nFixed Ivara’s Zipline persisting when in Railjack Emplacements. ",
         "fixes": "Fixed Ivara Prime’s Artemis Bow Prime darkening when viewed in the Arsenal. \nFixed incorrect textures on Ivara Prime using the Astrea TennoGen. "
       },
       {
@@ -52354,7 +52354,7 @@
         "date": "2017-04-12T18:04:21Z",
         "url": "https://forums.warframe.com/topic/785788-octavia%E2%80%99s-anthem-update-2020/",
         "additions": "",
-        "changes": "Entering Limbo’s Rift now removes shields. Exiting the Rift starts the Shield recharge delay timer.\nFixed Limbo’s Rift Surge not transferring to players outside of the Rift.",
+        "changes": "Entering Limbo’s Rift now removes shields. Exiting the Rift starts the Shield recharge delay timer.\nFixed Limbo��s Rift Surge not transferring to players outside of the Rift.",
         "fixes": "Fixed Limbo’s FX lingering when attempting to fade out during Statis.   "
       },
       {
@@ -53526,7 +53526,7 @@
         "url": "https://forums.warframe.com/topic/635136-update-1880/",
         "additions": "",
         "changes": "",
-        "fixes": "•    Fixed rendering Ambulas defenseless from casting Loki’s Switch Teleport."
+        "fixes": "���    Fixed rendering Ambulas defenseless from casting Loki’s Switch Teleport."
       },
       {
         "name": "Hotfix 18.6.3",
@@ -66230,7 +66230,7 @@
         "url": "https://forums.warframe.com/topic/632293-update-1870/",
         "additions": "",
         "changes": "",
-        "fixes": "��    Fixed badge placements on Excalibur, Chroma, Mirage, Saryn and Atlas."
+        "fixes": "•    Fixed badge placements on Excalibur, Chroma, Mirage, Saryn and Atlas."
       },
       {
         "name": "Hotfix 18.6.2",
@@ -93441,7 +93441,7 @@
         "name": "Update 12.4.0",
         "date": "2014-03-06T02:34:41Z",
         "url": "https://forums.warframe.com/topic/189809-update-1240/",
-        "additions": "·         Grineer Shipyards tile set revealed with new “Hijack” game mode & Tethra’s Doom event!·��        New Prime items in the Void!    Rhino Prime    Ankyros Prime    Boltor Prime    AkBronco Prime·         2x new Alternate helmets (Valkyr, Oberon)·         New Corpus Crewmen voices are here! They now have their own language and a whole new style as voted by the Design Council!",
+        "additions": "·         Grineer Shipyards tile set revealed with new “Hijack” game mode & Tethra’s Doom event!·         New Prime items in the Void!    Rhino Prime    Ankyros Prime    Boltor Prime    AkBronco Prime·         2x new Alternate helmets (Valkyr, Oberon)·         New Corpus Crewmen voices are here! They now have their own language and a whole new style as voted by the Design Council!",
         "changes": "",
         "fixes": ""
       },
@@ -117387,7 +117387,7 @@
         "url": "https://forums.warframe.com/topic/817221-chains-of-harrow-hotfix-2108-21081/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed an issue where Clients downed while using Excalibur’s Exalted Blade, Wukong’s Primal Fury, or Valkyr’s Hysteria would be unable to switch weapons when revived."
+        "fixes": "Fixed an issue where Clients downed while using Excalibur’s Exalted Blade, Wukong’s Primal Fury, or Valkyr���s Hysteria would be unable to switch weapons when revived."
       },
       {
         "name": "Chains of Harrow: Hotfix 21.0.7",
