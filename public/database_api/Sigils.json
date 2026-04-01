@@ -186,7 +186,6 @@
   {
     "category": "Sigils",
     "description": "Show your dedication to the truth of Aspirant Zorba with this sigil.",
-    "excludeFromCodex": true,
     "imageName": "aspirant-sigil-54eb032246.png",
     "masterable": false,
     "name": "Aspirant Sigil",

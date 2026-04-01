@@ -254835,7 +254835,7 @@
         "name": "Update 13: Dark Sectors",
         "date": "2014-04-10T05:28:14Z",
         "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
-        "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+        "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:��   Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
         "changes": "",
         "fixes": ""
       }
@@ -288742,25 +288742,25 @@
     "levelStats": [
       {
         "stats": [
-          "Enables Tennokai.\\nTennokai kills grant an additional 4s Tennokai opportunity with +30% Melee Damage bonus.\\n\\nCURSE: Suffer 25 <DT_FIRE_COLOR>Heat Damage/s for 6s.\\n",
+          "Enables Tennokai.\\nTennokai kills grant an additional 4s Tennokai opportunity and increase Tennokai damage by 30%.\\n\\nCURSE: Suffer 25 <DT_FIRE_COLOR>Heat Damage/s for 6s.\\n",
           "+0.3 'Truth'"
         ]
       },
       {
         "stats": [
-          "Enables Tennokai.\\nTennokai kills grant an additional 4s Tennokai opportunity with +40% Melee Damage bonus.\\n\\nCURSE: Suffer 35 <DT_FIRE_COLOR>Heat Damage/s for 6s.\\n",
+          "Enables Tennokai.\\nTennokai kills grant an additional 4s Tennokai opportunity and increase Tennokai damage by 40%.\\n\\nCURSE: Suffer 35 <DT_FIRE_COLOR>Heat Damage/s for 6s.\\n",
           "+0.5 'Truth'"
         ]
       },
       {
         "stats": [
-          "Enables Tennokai.\\nTennokai kills grant an additional 4s Tennokai opportunity with +60% Melee Damage bonus.\\n\\nCURSE: Suffer 50 <DT_FIRE_COLOR>Heat Damage/s for 6s.\\n",
+          "Enables Tennokai.\\nTennokai kills grant an additional 4s Tennokai opportunity and increase Tennokai damage by 60%.\\n\\nCURSE: Suffer 50 <DT_FIRE_COLOR>Heat Damage/s for 6s.\\n",
           "+0.8 'Truth'"
         ]
       },
       {
         "stats": [
-          "Enables Tennokai.\\nTennokai kills grant an additional 4s Tennokai opportunity with +120% Melee Damage bonus.\\n\\nCURSE: Suffer 100 <DT_FIRE_COLOR>Heat Damage/s for 6s.\\n",
+          "Enables Tennokai.\\nTennokai kills grant an additional 4s Tennokai opportunity and increase Tennokai damage by 120%.\\n\\nCURSE: Suffer 100 <DT_FIRE_COLOR>Heat Damage/s for 6s.\\n",
           "+1 'Truth'"
         ]
       }
