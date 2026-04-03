@@ -1,5 +1,15 @@
 [
   {
+    "uniqueName": "/Lotus/Powersuits/Archwing/SupportJetPack/SupportJetPack",
+    "name": "Amesha",
+    "description": "Transform into a winged guardian.",
+    "health": 650,
+    "shield": 220,
+    "armor": 195,
+    "stamina": 150,
+    "power": 220,
+    "masteryReq": 0,
+    "sprintSpeed": 1.1,
     "abilities": [
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/SupportDronesAbility",
@@ -26,12 +36,12 @@
         "imageName": "vengeful-rush-6b06d6ca9e.png"
       }
     ],
-    "armor": 195,
+    "productCategory": "SpaceSuits",
     "buildPrice": 25000,
-    "buildQuantity": 1,
     "buildTime": 43200,
-    "category": "Archwing",
-    "color": 0,
+    "skipBuildTimePrice": 50,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/SupportArchwing/SupportArchwingBlueprint",
@@ -84,26 +94,10 @@
         "drops": []
       }
     ],
-    "conclave": false,
-    "consumeOnBuild": true,
-    "description": "Transform into a winged guardian.",
-    "health": 650,
+    "type": "Archwing",
     "imageName": "amesha-5bef2b8e0e.png",
-    "introduced": {
-      "name": "Update: Specters of the Rail 0.0",
-      "url": "https://wiki.warframe.com/w/Update_19%23Update%3A_Specters_of_the_Rail",
-      "aliases": [
-        "Specters of the Rail",
-        "Specters of the Rail 0.0",
-        "SotR"
-      ],
-      "parent": "18.15",
-      "date": "2016-07-08"
-    },
-    "isPrime": false,
-    "masterable": true,
-    "masteryReq": 0,
-    "name": "Amesha",
+    "category": "Archwing",
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Echoes of the Zariman: Hotfix 31.6.2",
@@ -138,27 +132,43 @@
         "fixes": "Fixed Amesha’s Watchful Swarm not ending if you exit Archwing modeas per: https://forums.warframe.com/topic/704078-ameshas-watchful-swarm-animation-doesnt-end-when-you-resurface-in-uranus/ "
       }
     ],
+    "wikiAvailable": true,
+    "conclave": false,
+    "color": 0,
+    "introduced": {
+      "name": "Update: Specters of the Rail 0.0",
+      "url": "https://wiki.warframe.com/w/Update_19%23Update%3A_Specters_of_the_Rail",
+      "aliases": [
+        "Specters of the Rail",
+        "Specters of the Rail 0.0",
+        "SotR"
+      ],
+      "parent": "18.15",
+      "date": "2016-07-08"
+    },
     "polarities": [
       "naramon",
       "vazarin",
       "madurai"
     ],
-    "power": 220,
-    "productCategory": "SpaceSuits",
-    "releaseDate": "2016-07-08",
-    "shield": 220,
-    "skipBuildTimePrice": 50,
     "sprint": 1.1,
-    "sprintSpeed": 1.1,
-    "stamina": 150,
-    "tradable": false,
-    "type": "Archwing",
-    "uniqueName": "/Lotus/Powersuits/Archwing/SupportJetPack/SupportJetPack",
-    "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Amesha.png?bb937",
-    "wikiaUrl": "https://wiki.warframe.com/w/Amesha"
+    "wikiaUrl": "https://wiki.warframe.com/w/Amesha",
+    "releaseDate": "2016-07-08",
+    "isPrime": false,
+    "masterable": true
   },
   {
+    "uniqueName": "/Lotus/Powersuits/Archwing/DemolitionJetPack/DemolitionJetPack",
+    "name": "Elytron",
+    "description": "This heavy duty Archwing was designed for one purpose, destruction.",
+    "health": 765,
+    "shield": 745,
+    "armor": 145,
+    "stamina": 150,
+    "power": 120,
+    "masteryReq": 0,
+    "sprintSpeed": 0.89999998,
     "abilities": [
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/TnTAbility",
@@ -185,12 +195,12 @@
         "imageName": "warhead-924422778e.png"
       }
     ],
-    "armor": 145,
+    "productCategory": "SpaceSuits",
     "buildPrice": 25000,
-    "buildQuantity": 1,
     "buildTime": 129600,
-    "category": "Archwing",
-    "color": 0,
+    "skipBuildTimePrice": 50,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingBlueprint",
@@ -244,27 +254,10 @@
         "drops": []
       }
     ],
-    "conclave": false,
-    "consumeOnBuild": true,
-    "description": "This heavy duty Archwing was designed for one purpose, destruction.",
-    "health": 765,
+    "type": "Archwing",
     "imageName": "elytron-8f63d43729.png",
-    "introduced": {
-      "name": "Update 15.0",
-      "url": "https://wiki.warframe.com/w/Update_15%23Update_15.0",
-      "aliases": [
-        "15.0",
-        "15",
-        "Archwing",
-        "Update 15"
-      ],
-      "parent": "15.0",
-      "date": "2014-10-24"
-    },
-    "isPrime": false,
-    "masterable": true,
-    "masteryReq": 0,
-    "name": "Elytron",
+    "category": "Archwing",
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe Revised: Update 27.2.0",
@@ -371,27 +364,44 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "conclave": false,
+    "color": 0,
+    "introduced": {
+      "name": "Update 15.0",
+      "url": "https://wiki.warframe.com/w/Update_15%23Update_15.0",
+      "aliases": [
+        "15.0",
+        "15",
+        "Archwing",
+        "Update 15"
+      ],
+      "parent": "15.0",
+      "date": "2014-10-24"
+    },
     "polarities": [
       "madurai",
       "vazarin",
       "naramon"
     ],
-    "power": 120,
-    "productCategory": "SpaceSuits",
-    "releaseDate": "2014-10-24",
-    "shield": 745,
-    "skipBuildTimePrice": 50,
     "sprint": 0.9,
-    "sprintSpeed": 0.89999998,
-    "stamina": 150,
-    "tradable": false,
-    "type": "Archwing",
-    "uniqueName": "/Lotus/Powersuits/Archwing/DemolitionJetPack/DemolitionJetPack",
-    "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Elytron.png?95527",
-    "wikiaUrl": "https://wiki.warframe.com/w/Elytron"
+    "wikiaUrl": "https://wiki.warframe.com/w/Elytron",
+    "releaseDate": "2014-10-24",
+    "isPrime": false,
+    "masterable": true
   },
   {
+    "uniqueName": "/Lotus/Powersuits/Archwing/StealthJetPack/StealthJetPack",
+    "name": "Itzal",
+    "description": "Designed for quick clandestine attacks, the Itzal Archwing excels at striking from the darkness of space.",
+    "health": 200,
+    "shield": 220,
+    "armor": 50,
+    "stamina": 500,
+    "power": 220,
+    "masteryReq": 0,
+    "sprintSpeed": 1.2,
     "abilities": [
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/GrappleHookAbility",
@@ -418,12 +428,12 @@
         "imageName": "fighter-escort-b459286e4f.png"
       }
     ],
-    "armor": 50,
+    "productCategory": "SpaceSuits",
     "buildPrice": 25000,
-    "buildQuantity": 1,
     "buildTime": 129600,
-    "category": "Archwing",
-    "color": 0,
+    "skipBuildTimePrice": 50,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingBlueprint",
@@ -477,24 +487,10 @@
         "drops": []
       }
     ],
-    "conclave": false,
-    "consumeOnBuild": true,
-    "description": "Designed for quick clandestine attacks, the Itzal Archwing excels at striking from the darkness of space.",
-    "health": 200,
+    "type": "Archwing",
     "imageName": "itzal-a120d975d8.png",
-    "introduced": {
-      "name": "Hotfix 15.7.2",
-      "url": "https://wiki.warframe.com/w/Update_15%23Hotfix_15.7.2",
-      "aliases": [
-        "15.7.2"
-      ],
-      "parent": "15.7",
-      "date": "2014-12-19"
-    },
-    "isPrime": false,
-    "masterable": true,
-    "masteryReq": 0,
-    "name": "Itzal",
+    "category": "Archwing",
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 30.5: Sisters of Parvos",
@@ -769,27 +765,41 @@
         "fixes": "ITZAL ARCHWING: Designed for quick clandestine attacks, the Itzal Archwing excels at striking from the darkness of space.\nBlink: The Itzal Archwing teleports a short distance, dropping all enemy target locks.\nStart your Research for the Itzal and Fluctus in the Clan Dojo, and purchase the blueprint for the Centaur from the Marketplace today!"
       }
     ],
+    "wikiAvailable": true,
+    "conclave": false,
+    "color": 0,
+    "introduced": {
+      "name": "Hotfix 15.7.2",
+      "url": "https://wiki.warframe.com/w/Update_15%23Hotfix_15.7.2",
+      "aliases": [
+        "15.7.2"
+      ],
+      "parent": "15.7",
+      "date": "2014-12-19"
+    },
     "polarities": [
       "madurai",
       "vazarin",
       "naramon"
     ],
-    "power": 220,
-    "productCategory": "SpaceSuits",
-    "releaseDate": "2014-12-19",
-    "shield": 220,
-    "skipBuildTimePrice": 50,
     "sprint": 1.2,
-    "sprintSpeed": 1.2,
-    "stamina": 500,
-    "tradable": false,
-    "type": "Archwing",
-    "uniqueName": "/Lotus/Powersuits/Archwing/StealthJetPack/StealthJetPack",
-    "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Itzal.png?472fe",
-    "wikiaUrl": "https://wiki.warframe.com/w/Itzal"
+    "wikiaUrl": "https://wiki.warframe.com/w/Itzal",
+    "releaseDate": "2014-12-19",
+    "isPrime": false,
+    "masterable": true
   },
   {
+    "uniqueName": "/Lotus/Powersuits/Archwing/StandardJetPack/StandardJetPack",
+    "name": "Odonata",
+    "description": "The systems built into this Archwing balance offensive capabilities with defensive countermeasures.",
+    "health": 425,
+    "shield": 430,
+    "armor": 100,
+    "stamina": 200,
+    "power": 85,
+    "masteryReq": 0,
+    "sprintSpeed": 1,
     "abilities": [
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/FireShieldAbility",
@@ -816,12 +826,12 @@
         "imageName": "repel-7f65457cfd.png"
       }
     ],
-    "armor": 100,
+    "productCategory": "SpaceSuits",
     "buildPrice": 7000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Archwing",
-    "color": 0,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingBlueprint",
@@ -875,27 +885,10 @@
         "drops": []
       }
     ],
-    "conclave": false,
-    "consumeOnBuild": true,
-    "description": "The systems built into this Archwing balance offensive capabilities with defensive countermeasures.",
-    "health": 425,
+    "type": "Archwing",
     "imageName": "odonata-0425304f27.png",
-    "introduced": {
-      "name": "Update 15.0",
-      "url": "https://wiki.warframe.com/w/Update_15%23Update_15.0",
-      "aliases": [
-        "15.0",
-        "15",
-        "Archwing",
-        "Update 15"
-      ],
-      "parent": "15.0",
-      "date": "2014-10-24"
-    },
-    "isPrime": false,
-    "masterable": true,
-    "masteryReq": 0,
-    "name": "Odonata",
+    "category": "Archwing",
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 31.5: Angels of the Zariman",
@@ -1010,27 +1003,44 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "conclave": false,
+    "color": 0,
+    "introduced": {
+      "name": "Update 15.0",
+      "url": "https://wiki.warframe.com/w/Update_15%23Update_15.0",
+      "aliases": [
+        "15.0",
+        "15",
+        "Archwing",
+        "Update 15"
+      ],
+      "parent": "15.0",
+      "date": "2014-10-24"
+    },
     "polarities": [
       "madurai",
       "vazarin",
       "naramon"
     ],
-    "power": 85,
-    "productCategory": "SpaceSuits",
-    "releaseDate": "2014-10-24",
-    "shield": 430,
-    "skipBuildTimePrice": 5,
     "sprint": 1,
-    "sprintSpeed": 1,
-    "stamina": 200,
-    "tradable": false,
-    "type": "Archwing",
-    "uniqueName": "/Lotus/Powersuits/Archwing/StandardJetPack/StandardJetPack",
-    "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Odonata.png?63361",
-    "wikiaUrl": "https://wiki.warframe.com/w/Odonata"
+    "wikiaUrl": "https://wiki.warframe.com/w/Odonata",
+    "releaseDate": "2014-10-24",
+    "isPrime": false,
+    "masterable": true
   },
   {
+    "uniqueName": "/Lotus/Powersuits/Archwing/PrimeJetPack/PrimeJetPack",
+    "name": "Odonata Prime",
+    "description": "This enhanced version of the first Archwing prototype takes the design to its theoretical limits.",
+    "health": 650,
+    "shield": 640,
+    "armor": 100,
+    "stamina": 200,
+    "power": 85,
+    "masteryReq": 0,
+    "sprintSpeed": 1.05,
     "abilities": [
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/FireShieldAbility",
@@ -1057,12 +1067,12 @@
         "imageName": "repel-7f65457cfd.png"
       }
     ],
-    "armor": 100,
+    "productCategory": "SpaceSuits",
     "buildPrice": 25000,
-    "buildQuantity": 1,
     "buildTime": 129600,
-    "category": "Archwing",
-    "color": 0,
+    "skipBuildTimePrice": 50,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingBlueprint",
@@ -1076,143 +1086,143 @@
         "ducats": 45,
         "drops": [
           {
-            "chance": 0.11,
             "location": "Axi L4 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLokiVoltVaultABronze"
           },
           {
-            "chance": 0.11,
             "location": "Axi V8 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVoltOdonataPrimeBronze"
           },
           {
-            "chance": 0.11,
             "location": "Lith F1 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionCBronze"
           },
           {
-            "chance": 0.11,
             "location": "Meso C2 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionMBronze"
           },
           {
-            "chance": 0.11,
             "location": "Meso S1 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionIBronze"
           },
           {
-            "chance": 0.13,
             "location": "Axi L4 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLokiVoltVaultABronze"
           },
           {
-            "chance": 0.13,
             "location": "Axi V8 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVoltOdonataPrimeBronze"
           },
           {
-            "chance": 0.13,
             "location": "Lith F1 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionCBronze"
           },
           {
-            "chance": 0.13,
             "location": "Meso C2 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionMBronze"
           },
           {
-            "chance": 0.13,
             "location": "Meso S1 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionIBronze"
           },
           {
-            "chance": 0.17,
             "location": "Axi L4 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLokiVoltVaultABronze"
           },
           {
-            "chance": 0.17,
             "location": "Axi V8 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVoltOdonataPrimeBronze"
           },
           {
-            "chance": 0.17,
             "location": "Lith F1 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionCBronze"
           },
           {
-            "chance": 0.17,
             "location": "Meso C2 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionMBronze"
           },
           {
-            "chance": 0.17,
             "location": "Meso S1 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionIBronze"
           },
           {
-            "chance": 0.2,
             "location": "Axi L4 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLokiVoltVaultABronze"
           },
           {
-            "chance": 0.2,
             "location": "Axi V8 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVoltOdonataPrimeBronze"
           },
           {
-            "chance": 0.2,
             "location": "Lith F1 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionCBronze"
           },
           {
-            "chance": 0.2,
             "location": "Meso C2 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionMBronze"
           },
           {
-            "chance": 0.2,
             "location": "Meso S1 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionIBronze"
           }
         ]
@@ -1227,171 +1237,171 @@
         "tradable": true,
         "drops": [
           {
-            "chance": 0.1667,
             "location": "Axi K1 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCBronze"
           },
           {
-            "chance": 0.1667,
             "location": "Axi T1 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionJBronze"
           },
           {
-            "chance": 0.1667,
             "location": "Axi V4 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionMBronze"
           },
           {
-            "chance": 0.1667,
             "location": "Lith K1 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionKBronze"
           },
           {
-            "chance": 0.1667,
             "location": "Neo O1 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVoltOdonataPrimeBronze"
           },
           {
-            "chance": 0.1667,
             "location": "Neo V8 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLokiVoltVaultABronze"
           },
           {
-            "chance": 0.2,
             "location": "Axi K1 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCBronze"
           },
           {
-            "chance": 0.2,
             "location": "Axi T1 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionJBronze"
           },
           {
-            "chance": 0.2,
             "location": "Axi V4 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionMBronze"
           },
           {
-            "chance": 0.2,
             "location": "Lith K1 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionKBronze"
           },
           {
-            "chance": 0.2,
             "location": "Neo O1 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVoltOdonataPrimeBronze"
           },
           {
-            "chance": 0.2,
             "location": "Neo V8 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLokiVoltVaultABronze"
           },
           {
-            "chance": 0.2333,
             "location": "Axi K1 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCBronze"
           },
           {
-            "chance": 0.2333,
             "location": "Axi T1 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionJBronze"
           },
           {
-            "chance": 0.2333,
             "location": "Axi V4 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionMBronze"
           },
           {
-            "chance": 0.2333,
             "location": "Lith K1 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionKBronze"
           },
           {
-            "chance": 0.2333,
             "location": "Neo O1 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVoltOdonataPrimeBronze"
           },
           {
-            "chance": 0.2333,
             "location": "Neo V8 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLokiVoltVaultABronze"
           },
           {
-            "chance": 0.2533,
             "location": "Axi K1 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCBronze"
           },
           {
-            "chance": 0.2533,
             "location": "Axi T1 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionJBronze"
           },
           {
-            "chance": 0.2533,
             "location": "Axi V4 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionMBronze"
           },
           {
-            "chance": 0.2533,
             "location": "Lith K1 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionKBronze"
           },
           {
-            "chance": 0.2533,
             "location": "Neo O1 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVoltOdonataPrimeBronze"
           },
           {
-            "chance": 0.2533,
             "location": "Neo V8 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Harness Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLokiVoltVaultABronze"
           }
         ],
@@ -1419,143 +1429,143 @@
         "tradable": true,
         "drops": [
           {
-            "chance": 0.1667,
             "location": "Axi V1 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionBBronze"
           },
           {
-            "chance": 0.1667,
             "location": "Axi V8 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVoltOdonataPrimeBronze"
           },
           {
-            "chance": 0.1667,
             "location": "Lith F2 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionEBronze"
           },
           {
-            "chance": 0.1667,
             "location": "Meso O3 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLokiVoltVaultABronze"
           },
           {
-            "chance": 0.1667,
             "location": "Neo N3 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionIBronze"
           },
           {
-            "chance": 0.2,
             "location": "Axi V1 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionBBronze"
           },
           {
-            "chance": 0.2,
             "location": "Axi V8 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVoltOdonataPrimeBronze"
           },
           {
-            "chance": 0.2,
             "location": "Lith F2 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionEBronze"
           },
           {
-            "chance": 0.2,
             "location": "Meso O3 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLokiVoltVaultABronze"
           },
           {
-            "chance": 0.2,
             "location": "Neo N3 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionIBronze"
           },
           {
-            "chance": 0.2333,
             "location": "Axi V1 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionBBronze"
           },
           {
-            "chance": 0.2333,
             "location": "Axi V8 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVoltOdonataPrimeBronze"
           },
           {
-            "chance": 0.2333,
             "location": "Lith F2 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionEBronze"
           },
           {
-            "chance": 0.2333,
             "location": "Meso O3 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLokiVoltVaultABronze"
           },
           {
-            "chance": 0.2333,
             "location": "Neo N3 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionIBronze"
           },
           {
-            "chance": 0.2533,
             "location": "Axi V1 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionBBronze"
           },
           {
-            "chance": 0.2533,
             "location": "Axi V8 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVoltOdonataPrimeBronze"
           },
           {
-            "chance": 0.2533,
             "location": "Lith F2 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionEBronze"
           },
           {
-            "chance": 0.2533,
             "location": "Meso O3 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLokiVoltVaultABronze"
           },
           {
-            "chance": 0.2533,
             "location": "Neo N3 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Systems Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionIBronze"
           }
         ],
@@ -1572,142 +1582,126 @@
         "tradable": true,
         "drops": [
           {
-            "chance": 0.02,
-            "location": "Lith O2 Relic",
-            "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLokiVoltVaultABronze"
-          },
-          {
-            "chance": 0.02,
-            "location": "Meso O3 Relic",
-            "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLokiVoltVaultABronze"
-          },
-          {
-            "chance": 0.02,
-            "location": "Neo O1 Relic",
-            "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVoltOdonataPrimeBronze"
-          },
-          {
-            "chance": 0.04,
-            "location": "Lith O2 Relic (Exceptional)",
-            "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLokiVoltVaultABronze"
-          },
-          {
-            "chance": 0.04,
-            "location": "Meso O3 Relic (Exceptional)",
-            "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLokiVoltVaultABronze"
-          },
-          {
-            "chance": 0.04,
-            "location": "Neo O1 Relic (Exceptional)",
-            "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVoltOdonataPrimeBronze"
-          },
-          {
-            "chance": 0.06,
-            "location": "Lith O2 Relic (Flawless)",
-            "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLokiVoltVaultABronze"
-          },
-          {
-            "chance": 0.06,
-            "location": "Meso O3 Relic (Flawless)",
-            "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLokiVoltVaultABronze"
-          },
-          {
-            "chance": 0.06,
-            "location": "Neo O1 Relic (Flawless)",
-            "rarity": "Rare",
-            "type": "Odonata Prime Wings Blueprint",
-            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVoltOdonataPrimeBronze"
-          },
-          {
-            "chance": 0.1,
             "location": "Lith O2 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Wings Blueprint",
+            "chance": 10,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLokiVoltVaultABronze"
           },
           {
-            "chance": 0.1,
             "location": "Meso O3 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Wings Blueprint",
+            "chance": 10,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLokiVoltVaultABronze"
           },
           {
-            "chance": 0.1,
             "location": "Neo O1 Relic (Radiant)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Wings Blueprint",
+            "chance": 10,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVoltOdonataPrimeBronze"
           },
           {
-            "chance": 0.11,
             "location": "Axi N1 Relic",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Wings Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionDBronze"
           },
           {
-            "chance": 0.13,
             "location": "Axi N1 Relic (Exceptional)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Wings Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionDBronze"
           },
           {
-            "chance": 0.17,
             "location": "Axi N1 Relic (Flawless)",
-            "rarity": "Uncommon",
             "type": "Odonata Prime Wings Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionDBronze"
           },
           {
-            "chance": 0.2,
-            "location": "Axi N1 Relic (Radiant)",
-            "rarity": "Uncommon",
+            "location": "Lith O2 Relic",
             "type": "Odonata Prime Wings Blueprint",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLokiVoltVaultABronze"
+          },
+          {
+            "location": "Meso O3 Relic",
+            "type": "Odonata Prime Wings Blueprint",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLokiVoltVaultABronze"
+          },
+          {
+            "location": "Neo O1 Relic",
+            "type": "Odonata Prime Wings Blueprint",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVoltOdonataPrimeBronze"
+          },
+          {
+            "location": "Axi N1 Relic (Radiant)",
+            "type": "Odonata Prime Wings Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionDBronze"
+          },
+          {
+            "location": "Lith O2 Relic (Exceptional)",
+            "type": "Odonata Prime Wings Blueprint",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLokiVoltVaultABronze"
+          },
+          {
+            "location": "Meso O3 Relic (Exceptional)",
+            "type": "Odonata Prime Wings Blueprint",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLokiVoltVaultABronze"
+          },
+          {
+            "location": "Neo O1 Relic (Exceptional)",
+            "type": "Odonata Prime Wings Blueprint",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVoltOdonataPrimeBronze"
+          },
+          {
+            "location": "Lith O2 Relic (Flawless)",
+            "type": "Odonata Prime Wings Blueprint",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLokiVoltVaultABronze"
+          },
+          {
+            "location": "Meso O3 Relic (Flawless)",
+            "type": "Odonata Prime Wings Blueprint",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLokiVoltVaultABronze"
+          },
+          {
+            "location": "Neo O1 Relic (Flawless)",
+            "type": "Odonata Prime Wings Blueprint",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVoltOdonataPrimeBronze"
           }
         ],
         "masterable": false,
         "ducats": 65
       }
     ],
-    "conclave": false,
-    "consumeOnBuild": true,
-    "description": "This enhanced version of the first Archwing prototype takes the design to its theoretical limits.",
-    "estimatedVaultDate": "2017-02-28",
-    "health": 650,
+    "type": "Archwing",
     "imageName": "odonata-prime-39baaa7427.png",
-    "introduced": {
-      "name": "Update 16.1",
-      "url": "https://wiki.warframe.com/w/Update_16%23Update_16.1",
-      "aliases": [
-        "16.1",
-        "16.1.0"
-      ],
-      "parent": "16.1",
-      "date": "2015-03-25"
-    },
-    "isPrime": true,
-    "masterable": true,
-    "masteryReq": 0,
-    "name": "Odonata Prime",
+    "category": "Archwing",
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Hotfix 16.1.1",
@@ -1726,27 +1720,33 @@
         "fixes": "including Volt Prime, Odonata Prime, Edo Prime Armor and the Kazeru Prime Sugatra. Plus, stock up on discounted Platinum and get Exclusive Gear available only through Prime Access!\nTake flight with Odonata Prime."
       }
     ],
+    "wikiAvailable": true,
+    "conclave": false,
+    "color": 0,
+    "introduced": {
+      "name": "Update 16.1",
+      "url": "https://wiki.warframe.com/w/Update_16%23Update_16.1",
+      "aliases": [
+        "16.1",
+        "16.1.0"
+      ],
+      "parent": "16.1",
+      "date": "2015-03-25"
+    },
     "polarities": [
       "madurai",
       "vazarin",
       "naramon",
       "naramon"
     ],
-    "power": 85,
-    "productCategory": "SpaceSuits",
-    "releaseDate": "2015-03-25",
-    "shield": 640,
-    "skipBuildTimePrice": 50,
     "sprint": 1.05,
-    "sprintSpeed": 1.05,
-    "stamina": 200,
-    "tradable": true,
-    "type": "Archwing",
-    "uniqueName": "/Lotus/Powersuits/Archwing/PrimeJetPack/PrimeJetPack",
-    "vaultDate": "2017-02-28",
-    "vaulted": true,
-    "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/OdonataPrime.png?7b651",
-    "wikiaUrl": "https://wiki.warframe.com/w/Odonata%2FPrime"
+    "wikiaUrl": "https://wiki.warframe.com/w/Odonata%2FPrime",
+    "releaseDate": "2015-03-25",
+    "isPrime": true,
+    "vaulted": true,
+    "vaultDate": "2017-02-28",
+    "estimatedVaultDate": "2017-02-28",
+    "masterable": true
   }
 ]

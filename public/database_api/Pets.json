@@ -1,24 +1,18 @@
 [
   {
-    "armor": 300,
-    "category": "Pets",
-    "description": "A vicious and deadly Kavat prized for its combat prowess, offering increased critical chance and punishing those that dare attack it.",
-    "health": 310,
-    "imageName": "adarza-kavat-9155649686.png",
-    "introduced": {
-      "name": "Update: Specters of the Rail 0.0",
-      "url": "https://wiki.warframe.com/w/Update_19%23Update%3A_Specters_of_the_Rail",
-      "aliases": [
-        "Specters of the Rail",
-        "Specters of the Rail 0.0",
-        "SotR"
-      ],
-      "parent": "18.15",
-      "date": "2016-07-08"
-    },
-    "masterable": true,
-    "masteryReq": 0,
+    "uniqueName": "/Lotus/Types/Game/CatbrowPet/MirrorCatbrowPetPowerSuit",
     "name": "Adarza Kavat",
+    "health": 310,
+    "shield": 270,
+    "armor": 300,
+    "stamina": 8,
+    "power": 100,
+    "description": "A vicious and deadly Kavat prized for its combat prowess, offering increased critical chance and punishing those that dare attack it.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "adarza-kavat-9155649686.png",
+    "category": "Pets",
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.13.3",
@@ -37,27 +31,67 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "introduced": {
+      "name": "Update: Specters of the Rail 0.0",
+      "url": "https://wiki.warframe.com/w/Update_19%23Update%3A_Specters_of_the_Rail",
+      "aliases": [
+        "Specters of the Rail",
+        "Specters of the Rail 0.0",
+        "SotR"
+      ],
+      "parent": "18.15",
+      "date": "2016-07-08"
+    },
+    "masteryReq": 0,
     "polarities": [
       "penjaga",
       "penjaga"
     ],
-    "power": 100,
-    "productCategory": "KubrowPets",
-    "releaseDate": "2016-07-08",
-    "shield": 270,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Game/CatbrowPet/MirrorCatbrowPetPowerSuit",
-    "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AdarzaKavat.png?c023b",
-    "wikiaUrl": "https://wiki.warframe.com/w/Adarza_Kavat"
+    "wikiaUrl": "https://wiki.warframe.com/w/Adarza_Kavat",
+    "releaseDate": "2016-07-08",
+    "masterable": true
   },
   {
+    "name": "Adlet Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyA",
+    "damagePerShot": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartBodyABlueprint",
@@ -112,9 +146,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "adlet-core-669b6f6ed6.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Adra Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenA",
     "damagePerShot": [
       0,
       0,
@@ -137,26 +177,21 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "adlet-core-669b6f6ed6.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Adlet Core",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyA"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
     "buildPrice": 1000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Pets",
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterMutagenABlueprint",
@@ -209,9 +244,15 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": false,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Parts",
+    "imageName": "adra-mutagen-1ce8daeeb9.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Aegron Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadAegron",
     "damagePerShot": [
       0,
       0,
@@ -234,27 +275,20 @@
       0,
       0
     ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "adra-mutagen-1ce8daeeb9.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Adra Mutagen",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 5,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Parts",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenA"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadAegronBlueprint",
@@ -308,9 +342,15 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "aegron-gyro-8fd83ea080.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Alcrom Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineArcotek",
     "damagePerShot": [
       0,
       0,
@@ -333,26 +373,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "aegron-gyro-8fd83ea080.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Aegron Gyro",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadAegron"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
@@ -405,9 +439,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "alcrom-core-0bcd9e4c50.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Arioli Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenC",
     "damagePerShot": [
       0,
       0,
@@ -430,26 +470,21 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "alcrom-core-0bcd9e4c50.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Alcrom Core",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineArcotek"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
     "buildPrice": 1000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Pets",
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorMutagenCBlueprint",
@@ -502,9 +537,15 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": false,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Parts",
+    "imageName": "arioli-mutagen-d46942fe31.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Atheca Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadThermocor",
     "damagePerShot": [
       0,
       0,
@@ -527,27 +568,20 @@
       0,
       0
     ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "arioli-mutagen-d46942fe31.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Arioli Mutagen",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 5,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Parts",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenC"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadThermocorBlueprint",
@@ -601,9 +635,15 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "atheca-gyro-8ca14b81ce.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Bhaira Hound",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadB",
     "damagePerShot": [
       0,
       0,
@@ -626,26 +666,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "atheca-gyro-8ca14b81ce.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Atheca Gyro",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadThermocor"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartHeadBBlueprint",
@@ -700,9 +734,15 @@
         "type": "Resource"
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pets",
+    "imageName": "bhaira-hound-7cde58bf1c.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": true
+  },
+  {
+    "name": "Cela Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsA",
     "damagePerShot": [
       0,
       0,
@@ -725,26 +765,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "bhaira-hound-7cde58bf1c.png",
-    "masterable": true,
-    "masteryReq": 0,
-    "name": "Bhaira Hound",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadB"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartLegsABlueprint",
@@ -797,66 +831,26 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "cela-bracket-0038da5467.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Cela Bracket",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
-    "totalDamage": 0,
-    "tradable": false,
     "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsA"
+    "imageName": "cela-bracket-0038da5467.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
   },
   {
-    "armor": 300,
-    "category": "Pets",
-    "description": "A clever accomplice, trained to relieve the enemy of both their weapons and their loot caches.",
-    "health": 940,
-    "imageName": "chesa-kubrow-d9e3052301.png",
-    "introduced": {
-      "name": "Update 17.0",
-      "url": "https://wiki.warframe.com/w/Update_17%23Update_17.0",
-      "aliases": [
-        "Update 17",
-        "17.0",
-        "17"
-      ],
-      "parent": "17.0",
-      "date": "2015-07-31"
-    },
-    "masterable": true,
-    "masteryReq": 0,
+    "uniqueName": "/Lotus/Types/Game/KubrowPet/RetrieverKubrowPetPowerSuit",
     "name": "Chesa Kubrow",
+    "health": 940,
+    "shield": 290,
+    "armor": 300,
+    "stamina": 8,
+    "power": 100,
+    "description": "A clever accomplice, trained to relieve the enemy of both their weapons and their loot caches.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "chesa-kubrow-d9e3052301.png",
+    "category": "Pets",
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Call of the Tempestarii: Update 30",
@@ -947,28 +941,69 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "introduced": {
+      "name": "Update 17.0",
+      "url": "https://wiki.warframe.com/w/Update_17%23Update_17.0",
+      "aliases": [
+        "Update 17",
+        "17.0",
+        "17"
+      ],
+      "parent": "17.0",
+      "date": "2015-07-31"
+    },
+    "masteryReq": 0,
     "polarities": [
       "penjaga",
       "vazarin",
       "penjaga"
     ],
-    "power": 100,
-    "productCategory": "KubrowPets",
-    "releaseDate": "2015-07-31",
-    "shield": 290,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Game/KubrowPet/RetrieverKubrowPetPowerSuit",
-    "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ChesaKubrow.png?12edc",
-    "wikiaUrl": "https://wiki.warframe.com/w/Chesa_Kubrow"
+    "wikiaUrl": "https://wiki.warframe.com/w/Chesa_Kubrow",
+    "releaseDate": "2015-07-31",
+    "masterable": true
   },
   {
+    "name": "Chiten Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenB",
+    "damagePerShot": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
     "buildPrice": 1000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Pets",
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
@@ -1021,9 +1056,60 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": false,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Parts",
+    "imageName": "chiten-mutagen-7e5ae78ae2.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/HornedInfestedCatbrowPetPowerSuit",
+    "name": "Crescent Vulpaphyla",
+    "health": 680,
+    "shield": 370,
+    "armor": 300,
+    "stamina": 8,
+    "power": 100,
+    "description": "Fast and foxy, Vulpaphyla are agile allies to bring along on your next adventure.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "crescent-vulpaphyla-7926240141.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "Heart of Deimos: Hotfix 29.0.6",
+        "date": "2020-09-01T22:43:56Z",
+        "url": "https://forums.warframe.com/topic/1220813-heart-of-deimos-hotfix-2906/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a script error when a Crescent Vulpaphyla used Crescent Charge on a target that died."
+      }
+    ],
+    "wikiAvailable": true,
+    "introduced": {
+      "name": "Update 29.0",
+      "url": "https://wiki.warframe.com/w/Update_29",
+      "aliases": [
+        "29",
+        "29.0",
+        "Heart of Deimos"
+      ],
+      "parent": "29.0",
+      "date": "2020-08-25"
+    },
+    "masteryReq": 0,
+    "polarities": [
+      "penjaga"
+    ],
+    "wikiaThumbnail": "https://wiki.warframe.com/images/CrescentVulpaphyla.png?e0913",
+    "wikiaUrl": "https://wiki.warframe.com/w/Crescent_Vulpaphyla",
+    "releaseDate": "2020-08-25",
+    "masterable": true
+  },
+  {
+    "name": "Desus Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenB",
     "damagePerShot": [
       0,
       0,
@@ -1046,72 +1132,21 @@
       0,
       0
     ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "chiten-mutagen-7e5ae78ae2.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Chiten Mutagen",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 5,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Parts",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenB"
-  },
-  {
-    "armor": 300,
-    "category": "Pets",
-    "description": "Fast and foxy, Vulpaphyla are agile allies to bring along on your next adventure.",
-    "health": 680,
-    "imageName": "crescent-vulpaphyla-7926240141.png",
-    "introduced": {
-      "name": "Update 29.0",
-      "url": "https://wiki.warframe.com/w/Update_29",
-      "aliases": [
-        "29",
-        "29.0",
-        "Heart of Deimos"
-      ],
-      "parent": "29.0",
-      "date": "2020-08-25"
-    },
-    "masterable": true,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
     "masteryReq": 0,
-    "name": "Crescent Vulpaphyla",
-    "patchlogs": [
-      {
-        "name": "Heart of Deimos: Hotfix 29.0.6",
-        "date": "2020-09-01T22:43:56Z",
-        "url": "https://forums.warframe.com/topic/1220813-heart-of-deimos-hotfix-2906/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a script error when a Crescent Vulpaphyla used Crescent Charge on a target that died."
-      }
-    ],
-    "polarities": [
-      "penjaga"
-    ],
-    "power": 100,
-    "productCategory": "KubrowPets",
-    "releaseDate": "2020-08-25",
-    "shield": 370,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/HornedInfestedCatbrowPetPowerSuit",
-    "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/CrescentVulpaphyla.png?e0913",
-    "wikiaUrl": "https://wiki.warframe.com/w/Crescent_Vulpaphyla"
-  },
-  {
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
     "buildPrice": 1000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Pets",
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
@@ -1164,9 +1199,15 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": false,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Parts",
+    "imageName": "desus-antigen-3e05a951a9.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Dorma Hound",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadA",
     "damagePerShot": [
       0,
       0,
@@ -1189,27 +1230,20 @@
       0,
       0
     ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "desus-antigen-3e05a951a9.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Desus Antigen",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 5,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Parts",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenB"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartHeadABlueprint",
@@ -1264,9 +1298,15 @@
         "type": "Resource"
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pets",
+    "imageName": "dorma-hound-e3020d33c4.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": true
+  },
+  {
+    "name": "Drex Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineThricore",
     "damagePerShot": [
       0,
       0,
@@ -1289,26 +1329,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "dorma-hound-e3020d33c4.png",
-    "masterable": true,
-    "masteryReq": 0,
-    "name": "Dorma Hound",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadA"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
@@ -1361,9 +1395,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "drex-core-11daddd19b.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Drimper Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegA",
     "damagePerShot": [
       0,
       0,
@@ -1386,26 +1426,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "drex-core-11daddd19b.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Drex Core",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineThricore"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
@@ -1458,9 +1492,25 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "drimper-bracket-fd2be44d6b.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "The Deadlock Protocol: Hotfix 28.0.2",
+        "date": "2020-06-12T00:17:00Z",
+        "url": "https://forums.warframe.com/topic/1199763-the-deadlock-protocol-hotfix-2802/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Moa \"Drimper Bracket\" using the same model as the new \"Hona Bracket\" when viewed in Legs’ Shop. "
+      }
+    ],
+    "masterable": false
+  },
+  {
+    "name": "Elasmun Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenA",
     "damagePerShot": [
       0,
       0,
@@ -1483,36 +1533,21 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "drimper-bracket-fd2be44d6b.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Drimper Bracket",
-    "omegaAttenuation": 1,
-    "patchlogs": [
-      {
-        "name": "The Deadlock Protocol: Hotfix 28.0.2",
-        "date": "2020-06-12T00:17:00Z",
-        "url": "https://forums.warframe.com/topic/1199763-the-deadlock-protocol-hotfix-2802/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed the Moa \"Drimper Bracket\" using the same model as the new \"Hona Bracket\" when viewed in Legs’ Shop. "
-      }
-    ],
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegA"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
     "buildPrice": 1000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Pets",
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
@@ -1565,9 +1600,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": false,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Parts",
+    "imageName": "elasmun-antigen-a8bd6a0e75.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Elsa Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenB",
     "damagePerShot": [
       0,
       0,
@@ -1590,27 +1631,21 @@
       0,
       0
     ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "elasmun-antigen-a8bd6a0e75.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Elasmun Antigen",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 5,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Parts",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenA"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
     "buildPrice": 1000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Pets",
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
@@ -1663,9 +1698,15 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": false,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Parts",
+    "imageName": "elsa-mutagen-db1077954a.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Frak Stabilizer",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailC",
     "damagePerShot": [
       0,
       0,
@@ -1688,27 +1729,20 @@
       0,
       0
     ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "elsa-mutagen-db1077954a.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Elsa Mutagen",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 5,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Parts",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenB"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartTailCBlueprint",
@@ -1762,9 +1796,15 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "frak-stabilizer-e2aac2d7aa.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Garmr Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyB",
     "damagePerShot": [
       0,
       0,
@@ -1787,26 +1827,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "frak-stabilizer-e2aac2d7aa.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Frak Stabilizer",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailC"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
@@ -1861,9 +1895,15 @@
         "type": "Resource"
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "garmr-core-ee94e1fb7e.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Gauth Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegD",
     "damagePerShot": [
       0,
       0,
@@ -1886,26 +1926,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "garmr-core-ee94e1fb7e.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Garmr Core",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyB"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegDBlueprint",
@@ -1958,9 +1992,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "gauth-bracket-452f3fd563.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Harpen Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadDarta",
     "damagePerShot": [
       0,
       0,
@@ -1983,26 +2023,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "gauth-bracket-452f3fd563.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Gauth Bracket",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegD"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadDartaBlueprint",
@@ -2056,9 +2090,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "harpen-gyro-87cb34e237.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Hec Hound",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadC",
     "damagePerShot": [
       0,
       0,
@@ -2081,26 +2121,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "harpen-gyro-87cb34e237.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Harpen Gyro",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadDarta"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartHeadCBlueprint",
@@ -2155,65 +2189,26 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "hec-hound-2a523e3443.png",
-    "masterable": true,
-    "masteryReq": 0,
-    "name": "Hec Hound",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
-    "totalDamage": 0,
-    "tradable": false,
     "type": "Pets",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadC"
+    "imageName": "hec-hound-2a523e3443.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": true
   },
   {
-    "armor": 300,
-    "category": "Pets",
-    "description": "An experimental blending of Kubrow and Infestation. Uses maggots and other Infested abilities to inflict damage and control the battlefield.",
-    "health": 710,
-    "imageName": "helminth-charger-eb4e8d41ec.png",
-    "introduced": {
-      "name": "Update 19.5",
-      "url": "https://wiki.warframe.com/w/Update_19%23Update_19.5",
-      "aliases": [
-        "19.5.0",
-        "19.5"
-      ],
-      "parent": "19.5",
-      "date": "2016-12-22"
-    },
-    "masterable": true,
-    "masteryReq": 0,
+    "uniqueName": "/Lotus/Types/Game/KubrowPet/ChargerKubrowPetPowerSuit",
     "name": "Helminth Charger",
+    "health": 710,
+    "shield": 330,
+    "armor": 300,
+    "stamina": 8,
+    "power": 100,
+    "description": "An experimental blending of Kubrow and Infestation. Uses maggots and other Infested abilities to inflict damage and control the battlefield.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "helminth-charger-eb4e8d41ec.png",
+    "category": "Pets",
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 30.7: Nidus Prime & Plague Star",
@@ -2360,28 +2355,67 @@
         "fixes": "Fixed incorrect Helminth Charger Codex entry."
       }
     ],
+    "wikiAvailable": true,
+    "introduced": {
+      "name": "Update 19.5",
+      "url": "https://wiki.warframe.com/w/Update_19%23Update_19.5",
+      "aliases": [
+        "19.5.0",
+        "19.5"
+      ],
+      "parent": "19.5",
+      "date": "2016-12-22"
+    },
+    "masteryReq": 0,
     "polarities": [
       "penjaga",
       "madurai",
       "penjaga"
     ],
-    "power": 100,
-    "productCategory": "KubrowPets",
-    "releaseDate": "2016-12-22",
-    "shield": 330,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Game/KubrowPet/ChargerKubrowPetPowerSuit",
-    "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/HelminthCharger.png?b24a1",
-    "wikiaUrl": "https://wiki.warframe.com/w/Helminth_Charger"
+    "wikiaUrl": "https://wiki.warframe.com/w/Helminth_Charger",
+    "releaseDate": "2016-12-22",
+    "masterable": true
   },
   {
+    "name": "Hextra Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadHextra",
+    "damagePerShot": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadHextraBlueprint",
@@ -2435,9 +2469,15 @@
         "type": "Resource"
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "hextra-gyro-f6a8f1e11f.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Hinta Stabilizer",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailB",
     "damagePerShot": [
       0,
       0,
@@ -2460,26 +2500,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "hextra-gyro-f6a8f1e11f.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Hextra Gyro",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadHextra"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
@@ -2534,9 +2568,15 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "hinta-stabilizer-a9616f5570.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Hona Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegMelee",
     "damagePerShot": [
       0,
       0,
@@ -2559,26 +2599,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "hinta-stabilizer-a9616f5570.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Hinta Stabilizer",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailB"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegMeleeBlueprint",
@@ -2631,38 +2665,10 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "description": "",
-    "fireRate": 0,
+    "type": "Pet Resource",
     "imageName": "hona-bracket-fafe4be147.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Hona Bracket",
-    "omegaAttenuation": 1,
+    "category": "Pets",
+    "tradable": false,
     "patchlogs": [
       {
         "name": "The Deadlock Protocol: Hotfix 28.0.2",
@@ -2673,34 +2679,22 @@
         "fixes": "Fixed the Moa \"Drimper Bracket\" using the same model as the new \"Hona Bracket\" when viewed in Legs’ Shop. "
       }
     ],
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
-    "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegMelee"
+    "masterable": false
   },
   {
-    "armor": 300,
-    "category": "Pets",
-    "description": "A stealthy ally, surprising enemies with impressive takedowns of explosive force.",
-    "health": 560,
-    "imageName": "huras-kubrow-8d5f938fa0.png",
-    "introduced": {
-      "name": "Update 14.0",
-      "url": "https://wiki.warframe.com/w/Update_14%23Update_14.0",
-      "aliases": [
-        "Update 14",
-        "14",
-        "14.0"
-      ],
-      "parent": "14.0",
-      "date": "2014-07-18"
-    },
-    "masterable": true,
-    "masteryReq": 0,
+    "uniqueName": "/Lotus/Types/Game/KubrowPet/FurtiveKubrowPetPowerSuit",
     "name": "Huras Kubrow",
+    "health": 560,
+    "shield": 490,
+    "armor": 300,
+    "stamina": 8,
+    "power": 100,
+    "description": "A stealthy ally, surprising enemies with impressive takedowns of explosive force.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "huras-kubrow-8d5f938fa0.png",
+    "category": "Pets",
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 16.11.5",
@@ -2727,28 +2721,69 @@
         "fixes": "Fixed issue with Huras Kubrow Hunt Mod where charge would end after 5 frames of no movement.\nFixed issue with Huras Kubrow Hunt Mod where all Kubrow in mission would share the same cooldown recharge time."
       }
     ],
+    "wikiAvailable": true,
+    "introduced": {
+      "name": "Update 14.0",
+      "url": "https://wiki.warframe.com/w/Update_14%23Update_14.0",
+      "aliases": [
+        "Update 14",
+        "14",
+        "14.0"
+      ],
+      "parent": "14.0",
+      "date": "2014-07-18"
+    },
+    "masteryReq": 0,
     "polarities": [
       "penjaga",
       "madurai",
       "penjaga"
     ],
-    "power": 100,
-    "productCategory": "KubrowPets",
-    "releaseDate": "2014-07-18",
-    "shield": 490,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Game/KubrowPet/FurtiveKubrowPetPowerSuit",
-    "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/HurasKubrow.png?a7ddd",
-    "wikiaUrl": "https://wiki.warframe.com/w/Huras_Kubrow"
+    "wikiaUrl": "https://wiki.warframe.com/w/Huras_Kubrow",
+    "releaseDate": "2014-07-18",
+    "masterable": true
   },
   {
+    "name": "Ibexan Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenC",
+    "damagePerShot": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
     "buildPrice": 1000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Pets",
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
@@ -2801,9 +2836,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": false,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Parts",
+    "imageName": "ibexan-antigen-9c56be9764.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Iranon Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenB",
     "damagePerShot": [
       0,
       0,
@@ -2826,27 +2867,21 @@
       0,
       0
     ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "ibexan-antigen-9c56be9764.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Ibexan Antigen",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 5,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Parts",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenC"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
     "buildPrice": 1000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Pets",
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
@@ -2899,9 +2934,15 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": false,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Parts",
+    "imageName": "iranon-antigen-f038b23f3a.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Jonsin Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegC",
     "damagePerShot": [
       0,
       0,
@@ -2924,27 +2965,20 @@
       0,
       0
     ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "iranon-antigen-f038b23f3a.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Iranon Antigen",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 5,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Parts",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenB"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
@@ -2997,9 +3031,15 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "jonsin-bracket-e329e1e176.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Krisys Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineKrisys",
     "damagePerShot": [
       0,
       0,
@@ -3022,26 +3062,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "jonsin-bracket-e329e1e176.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Jonsin Bracket",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegC"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
@@ -3094,9 +3128,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "krisys-core-c7cafce5c4.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Lambeo Moa",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadLambeo",
     "damagePerShot": [
       0,
       0,
@@ -3119,26 +3159,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "krisys-core-c7cafce5c4.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Krisys Core",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineKrisys"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetHeadLambeoBlueprint",
@@ -3192,9 +3226,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pets",
+    "imageName": "lambeo-moa-2cf268fdc0.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": true
+  },
+  {
+    "name": "Lehan Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MeleeMoaPetEngine",
     "damagePerShot": [
       0,
       0,
@@ -3217,26 +3257,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "lambeo-moa-2cf268fdc0.png",
-    "masterable": true,
-    "masteryReq": 0,
-    "name": "Lambeo Moa",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadLambeo"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetEngineMeleeBlueprint",
@@ -3289,9 +3323,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "lehan-core-adfacfcff9.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Leptosam Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenA",
     "damagePerShot": [
       0,
       0,
@@ -3314,26 +3354,21 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "lehan-core-adfacfcff9.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Lehan Core",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MeleeMoaPetEngine"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
     "buildPrice": 1000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Pets",
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorMutagenABlueprint",
@@ -3386,9 +3421,60 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": false,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Parts",
+    "imageName": "leptosam-mutagen-ee68cb6866.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/MedjayPredatorKubrowPetPowerSuit",
+    "name": "Medjay Predasite",
+    "health": 710,
+    "shield": 350,
+    "armor": 300,
+    "stamina": 8,
+    "power": 100,
+    "description": "These hard-charging, four-legged predators make formidable companions when in the field.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "medjay-predasite-0c531c81da.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "Heart of Deimos: Hotfix 29.0.6",
+        "date": "2020-09-01T22:43:56Z",
+        "url": "https://forums.warframe.com/topic/1220813-heart-of-deimos-hotfix-2906/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a script error that could occur if a wild Medjay Predasite was charging towards you while using Paralytic Spores and died, which could cause other enemies to not be vulnerable to finishers."
+      }
+    ],
+    "wikiAvailable": true,
+    "introduced": {
+      "name": "Update 29.0",
+      "url": "https://wiki.warframe.com/w/Update_29",
+      "aliases": [
+        "29",
+        "29.0",
+        "Heart of Deimos"
+      ],
+      "parent": "29.0",
+      "date": "2020-08-25"
+    },
+    "masteryReq": 0,
+    "polarities": [
+      "penjaga"
+    ],
+    "wikiaThumbnail": "https://wiki.warframe.com/images/MedjayPredasite.png?807ff",
+    "wikiaUrl": "https://wiki.warframe.com/w/Medjay_Predasite",
+    "releaseDate": "2020-08-25",
+    "masterable": true
+  },
+  {
+    "name": "Monachod Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenD",
     "damagePerShot": [
       0,
       0,
@@ -3411,72 +3497,21 @@
       0,
       0
     ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "leptosam-mutagen-ee68cb6866.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Leptosam Mutagen",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 5,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Parts",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenA"
-  },
-  {
-    "armor": 300,
-    "category": "Pets",
-    "description": "These hard-charging, four-legged predators make formidable companions when in the field.",
-    "health": 710,
-    "imageName": "medjay-predasite-0c531c81da.png",
-    "introduced": {
-      "name": "Update 29.0",
-      "url": "https://wiki.warframe.com/w/Update_29",
-      "aliases": [
-        "29",
-        "29.0",
-        "Heart of Deimos"
-      ],
-      "parent": "29.0",
-      "date": "2020-08-25"
-    },
-    "masterable": true,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
     "masteryReq": 0,
-    "name": "Medjay Predasite",
-    "patchlogs": [
-      {
-        "name": "Heart of Deimos: Hotfix 29.0.6",
-        "date": "2020-09-01T22:43:56Z",
-        "url": "https://forums.warframe.com/topic/1220813-heart-of-deimos-hotfix-2906/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a script error that could occur if a wild Medjay Predasite was charging towards you while using Paralytic Spores and died, which could cause other enemies to not be vulnerable to finishers."
-      }
-    ],
-    "polarities": [
-      "penjaga"
-    ],
-    "power": 100,
-    "productCategory": "KubrowPets",
-    "releaseDate": "2020-08-25",
-    "shield": 350,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/MedjayPredatorKubrowPetPowerSuit",
-    "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/MedjayPredasite.png?807ff",
-    "wikiaUrl": "https://wiki.warframe.com/w/Medjay_Predasite"
-  },
-  {
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
     "buildPrice": 1000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Pets",
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorMutagenDBlueprint",
@@ -3529,9 +3564,15 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": false,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Parts",
+    "imageName": "monachod-mutagen-57f834fbaa.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Munit Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadMunitron",
     "damagePerShot": [
       0,
       0,
@@ -3554,27 +3595,20 @@
       0,
       0
     ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "monachod-mutagen-57f834fbaa.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Monachod Mutagen",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 5,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Parts",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenD"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadMunitronBlueprint",
@@ -3628,9 +3662,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "munit-gyro-0213e0ff05.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Nychus Moa",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadMelee",
     "damagePerShot": [
       0,
       0,
@@ -3653,26 +3693,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "munit-gyro-0213e0ff05.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Munit Gyro",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadMunitron"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetHeadMeleeBlueprint",
@@ -3726,9 +3760,25 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pets",
+    "imageName": "nychus-moa-679ad59727.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "The Deadlock Protocol: Hotfix 28.0.5",
+        "date": "2020-06-17T18:01:28Z",
+        "url": "https://forums.warframe.com/topic/1201526-the-deadlock-protocol-hotfix-2805/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Nychus Moa description having old Precept names. "
+      }
+    ],
+    "masterable": true
+  },
+  {
+    "name": "Oloro Moa",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadOloro",
     "damagePerShot": [
       0,
       0,
@@ -3751,36 +3801,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "nychus-moa-679ad59727.png",
-    "masterable": true,
-    "masteryReq": 0,
-    "name": "Nychus Moa",
-    "omegaAttenuation": 1,
-    "patchlogs": [
-      {
-        "name": "The Deadlock Protocol: Hotfix 28.0.5",
-        "date": "2020-06-17T18:01:28Z",
-        "url": "https://forums.warframe.com/topic/1201526-the-deadlock-protocol-hotfix-2805/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Nychus Moa description having old Precept names. "
-      }
-    ],
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadMelee"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetHeadOloroBlueprint",
@@ -3834,9 +3868,68 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pets",
+    "imageName": "oloro-moa-31c59ff67f.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/ArmoredInfestedCatbrowPetPowerSuit",
+    "name": "Panzer Vulpaphyla",
+    "health": 680,
+    "shield": 370,
+    "armor": 300,
+    "stamina": 8,
+    "power": 100,
+    "description": "Fast and foxy, Vulpaphyla are agile allies to bring along on your next adventure.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "panzer-vulpaphyla-5d6c5d857b.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "Heart of Deimos: Hotfix 29.0.6",
+        "date": "2020-09-01T22:43:56Z",
+        "url": "https://forums.warframe.com/topic/1220813-heart-of-deimos-hotfix-2906/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a script error where Panzer Vulpaphyla died before the Viral Quills projectiles landed."
+      },
+      {
+        "name": "Heart of Deimos: Hotfix 29.0.3",
+        "date": "2020-08-26T22:57:57Z",
+        "url": "https://forums.warframe.com/topic/1217375-heart-of-deimos-hotfix-2903/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a script error when a Panzer Vulpaphyla attempted to attack but ran out of targets."
+      }
+    ],
+    "wikiAvailable": true,
+    "introduced": {
+      "name": "Update 29.0",
+      "url": "https://wiki.warframe.com/w/Update_29",
+      "aliases": [
+        "29",
+        "29.0",
+        "Heart of Deimos"
+      ],
+      "parent": "29.0",
+      "date": "2020-08-25"
+    },
+    "masteryReq": 0,
+    "polarities": [
+      "penjaga"
+    ],
+    "wikiaThumbnail": "https://wiki.warframe.com/images/PanzerVulpaphyla.png?e97bc",
+    "wikiaUrl": "https://wiki.warframe.com/w/Panzer_Vulpaphyla",
+    "releaseDate": "2020-08-25",
+    "masterable": true
+  },
+  {
+    "name": "Para Moa",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadPara",
     "damagePerShot": [
       0,
       0,
@@ -3859,79 +3952,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "oloro-moa-31c59ff67f.png",
-    "masterable": true,
-    "masteryReq": 0,
-    "name": "Oloro Moa",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadOloro"
-  },
-  {
-    "armor": 300,
-    "category": "Pets",
-    "description": "Fast and foxy, Vulpaphyla are agile allies to bring along on your next adventure.",
-    "health": 680,
-    "imageName": "panzer-vulpaphyla-5d6c5d857b.png",
-    "introduced": {
-      "name": "Update 29.0",
-      "url": "https://wiki.warframe.com/w/Update_29",
-      "aliases": [
-        "29",
-        "29.0",
-        "Heart of Deimos"
-      ],
-      "parent": "29.0",
-      "date": "2020-08-25"
-    },
-    "masterable": true,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
     "masteryReq": 0,
-    "name": "Panzer Vulpaphyla",
-    "patchlogs": [
-      {
-        "name": "Heart of Deimos: Hotfix 29.0.6",
-        "date": "2020-09-01T22:43:56Z",
-        "url": "https://forums.warframe.com/topic/1220813-heart-of-deimos-hotfix-2906/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a script error where Panzer Vulpaphyla died before the Viral Quills projectiles landed."
-      },
-      {
-        "name": "Heart of Deimos: Hotfix 29.0.3",
-        "date": "2020-08-26T22:57:57Z",
-        "url": "https://forums.warframe.com/topic/1217375-heart-of-deimos-hotfix-2903/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a script error when a Panzer Vulpaphyla attempted to attack but ran out of targets."
-      }
-    ],
-    "polarities": [
-      "penjaga"
-    ],
-    "power": 100,
-    "productCategory": "KubrowPets",
-    "releaseDate": "2020-08-25",
-    "shield": 370,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/ArmoredInfestedCatbrowPetPowerSuit",
-    "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/PanzerVulpaphyla.png?e97bc",
-    "wikiaUrl": "https://wiki.warframe.com/w/Panzer_Vulpaphyla"
-  },
-  {
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
@@ -3985,9 +4019,50 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pets",
+    "imageName": "para-moa-e983dce892.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/PharaohPredatorKubrowPetPowerSuit",
+    "name": "Pharaoh Predasite",
+    "health": 710,
+    "shield": 350,
+    "armor": 300,
+    "stamina": 8,
+    "power": 100,
+    "description": "These hard-charging, four-legged predators make formidable companions when in the field.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "pharaoh-predasite-a8fee1bece.png",
+    "category": "Pets",
+    "tradable": false,
+    "wikiAvailable": true,
+    "introduced": {
+      "name": "Update 29.0",
+      "url": "https://wiki.warframe.com/w/Update_29",
+      "aliases": [
+        "29",
+        "29.0",
+        "Heart of Deimos"
+      ],
+      "parent": "29.0",
+      "date": "2020-08-25"
+    },
+    "masteryReq": 0,
+    "polarities": [
+      "penjaga"
+    ],
+    "wikiaThumbnail": "https://wiki.warframe.com/images/PharaohPredasite.png?9de94",
+    "wikiaUrl": "https://wiki.warframe.com/w/Pharaoh_Predasite",
+    "releaseDate": "2020-08-25",
+    "masterable": true
+  },
+  {
+    "name": "Phazor Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadTazron",
     "damagePerShot": [
       0,
       0,
@@ -4010,61 +4085,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "para-moa-e983dce892.png",
-    "masterable": true,
-    "masteryReq": 0,
-    "name": "Para Moa",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadPara"
-  },
-  {
-    "armor": 300,
-    "category": "Pets",
-    "description": "These hard-charging, four-legged predators make formidable companions when in the field.",
-    "health": 710,
-    "imageName": "pharaoh-predasite-a8fee1bece.png",
-    "introduced": {
-      "name": "Update 29.0",
-      "url": "https://wiki.warframe.com/w/Update_29",
-      "aliases": [
-        "29",
-        "29.0",
-        "Heart of Deimos"
-      ],
-      "parent": "29.0",
-      "date": "2020-08-25"
-    },
-    "masterable": true,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
     "masteryReq": 0,
-    "name": "Pharaoh Predasite",
-    "polarities": [
-      "penjaga"
-    ],
-    "power": 100,
-    "productCategory": "KubrowPets",
-    "releaseDate": "2020-08-25",
-    "shield": 350,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/PharaohPredatorKubrowPetPowerSuit",
-    "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/PharaohPredasite.png?9de94",
-    "wikiaUrl": "https://wiki.warframe.com/w/Pharaoh_Predasite"
-  },
-  {
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadTazronBlueprint",
@@ -4118,9 +4152,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "phazor-gyro-1a0a528d4c.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Phijar Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenD",
     "damagePerShot": [
       0,
       0,
@@ -4143,26 +4183,21 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "phazor-gyro-1a0a528d4c.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Phazor Gyro",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadTazron"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
     "buildPrice": 1000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Pets",
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterMutagenDBlueprint",
@@ -4215,9 +4250,15 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": false,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Parts",
+    "imageName": "phijar-mutagen-ceff9f9d36.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Plagen Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenC",
     "damagePerShot": [
       0,
       0,
@@ -4240,27 +4281,21 @@
       0,
       0
     ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "phijar-mutagen-ceff9f9d36.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Phijar Mutagen",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 5,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Parts",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenD"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
     "buildPrice": 1000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Pets",
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
@@ -4313,9 +4348,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": false,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Parts",
+    "imageName": "plagen-antigen-5bc478c501.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Poxi Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenD",
     "damagePerShot": [
       0,
       0,
@@ -4338,27 +4379,21 @@
       0,
       0
     ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "plagen-antigen-5bc478c501.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Plagen Antigen",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 5,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Parts",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenC"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
     "buildPrice": 1000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Pets",
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
@@ -4411,9 +4446,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": false,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Parts",
+    "imageName": "poxi-antigen-9d93d3c5fd.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Raiju Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyC",
     "damagePerShot": [
       0,
       0,
@@ -4436,27 +4477,20 @@
       0,
       0
     ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "poxi-antigen-9d93d3c5fd.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Poxi Antigen",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 5,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Parts",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenD"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem",
@@ -4511,66 +4545,26 @@
         "type": "Resource"
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "raiju-core-fcffc162ca.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Raiju Core",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
-    "totalDamage": 0,
-    "tradable": false,
     "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyC"
+    "imageName": "raiju-core-fcffc162ca.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
   },
   {
-    "armor": 300,
-    "category": "Pets",
-    "description": "A strong guardian focused on protecting its master by bolstering their defense and by driving away attackers.",
-    "health": 750,
-    "imageName": "raksa-kubrow-f12afc941f.png",
-    "introduced": {
-      "name": "Update 14.0",
-      "url": "https://wiki.warframe.com/w/Update_14%23Update_14.0",
-      "aliases": [
-        "Update 14",
-        "14",
-        "14.0"
-      ],
-      "parent": "14.0",
-      "date": "2014-07-18"
-    },
-    "masterable": true,
-    "masteryReq": 0,
+    "uniqueName": "/Lotus/Types/Game/KubrowPet/GuardKubrowPetPowerSuit",
     "name": "Raksa Kubrow",
+    "health": 750,
+    "shield": 390,
+    "armor": 300,
+    "stamina": 8,
+    "power": 100,
+    "description": "A strong guardian focused on protecting its master by bolstering their defense and by driving away attackers.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "raksa-kubrow-f12afc941f.png",
+    "category": "Pets",
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 17: Echoes Of The Sentient",
@@ -4581,29 +4575,7 @@
         "fixes": "Fixed the Raksa Kubrow’s Howl sometimes not playing."
       }
     ],
-    "polarities": [
-      "penjaga",
-      "vazarin",
-      "penjaga"
-    ],
-    "power": 100,
-    "productCategory": "KubrowPets",
-    "releaseDate": "2014-07-18",
-    "shield": 390,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Game/KubrowPet/GuardKubrowPetPowerSuit",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/RaksaKubrow.png?037cd",
-    "wikiaUrl": "https://wiki.warframe.com/w/Raksa_Kubrow"
-  },
-  {
-    "armor": 300,
-    "category": "Pets",
-    "description": "A reliable partner that locates supplies for their Tenno master and while thinning enemy ranks.",
-    "health": 940,
-    "imageName": "sahasa-kubrow-2f3f1069b3.png",
     "introduced": {
       "name": "Update 14.0",
       "url": "https://wiki.warframe.com/w/Update_14%23Update_14.0",
@@ -4615,9 +4587,31 @@
       "parent": "14.0",
       "date": "2014-07-18"
     },
-    "masterable": true,
     "masteryReq": 0,
+    "polarities": [
+      "penjaga",
+      "vazarin",
+      "penjaga"
+    ],
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RaksaKubrow.png?037cd",
+    "wikiaUrl": "https://wiki.warframe.com/w/Raksa_Kubrow",
+    "releaseDate": "2014-07-18",
+    "masterable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/KubrowPet/AdventurerKubrowPetPowerSuit",
     "name": "Sahasa Kubrow",
+    "health": 940,
+    "shield": 290,
+    "armor": 300,
+    "stamina": 8,
+    "power": 100,
+    "description": "A reliable partner that locates supplies for their Tenno master and while thinning enemy ranks.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "sahasa-kubrow-2f3f1069b3.png",
+    "category": "Pets",
+    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -4636,43 +4630,43 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "introduced": {
+      "name": "Update 14.0",
+      "url": "https://wiki.warframe.com/w/Update_14%23Update_14.0",
+      "aliases": [
+        "Update 14",
+        "14",
+        "14.0"
+      ],
+      "parent": "14.0",
+      "date": "2014-07-18"
+    },
+    "masteryReq": 0,
     "polarities": [
       "penjaga",
       "vazarin",
       "penjaga"
     ],
-    "power": 100,
-    "productCategory": "KubrowPets",
-    "releaseDate": "2014-07-18",
-    "shield": 290,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Game/KubrowPet/AdventurerKubrowPetPowerSuit",
-    "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SahasaKubrow.png?10a51",
-    "wikiaUrl": "https://wiki.warframe.com/w/Sahasa_Kubrow"
+    "wikiaUrl": "https://wiki.warframe.com/w/Sahasa_Kubrow",
+    "releaseDate": "2014-07-18",
+    "masterable": true
   },
   {
-    "armor": 300,
-    "category": "Pets",
-    "description": "Fast and foxy, Vulpaphyla are agile allies to bring along on your next adventure.",
-    "health": 680,
-    "imageName": "sly-vulpaphyla-4cda8d7962.png",
-    "introduced": {
-      "name": "Update 29.0",
-      "url": "https://wiki.warframe.com/w/Update_29",
-      "aliases": [
-        "29",
-        "29.0",
-        "Heart of Deimos"
-      ],
-      "parent": "29.0",
-      "date": "2020-08-25"
-    },
-    "masterable": true,
-    "masteryReq": 0,
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/VulpineInfestedCatbrowPetPowerSuit",
     "name": "Sly Vulpaphyla",
+    "health": 680,
+    "shield": 370,
+    "armor": 300,
+    "stamina": 8,
+    "power": 100,
+    "description": "Fast and foxy, Vulpaphyla are agile allies to bring along on your next adventure.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "sly-vulpaphyla-4cda8d7962.png",
+    "category": "Pets",
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Gara Prime: Update 30.3.0",
@@ -4715,41 +4709,41 @@
         "fixes": "Fixed a script error when a Sly Vulpaphyla deactivates a Precept."
       }
     ],
+    "wikiAvailable": true,
+    "introduced": {
+      "name": "Update 29.0",
+      "url": "https://wiki.warframe.com/w/Update_29",
+      "aliases": [
+        "29",
+        "29.0",
+        "Heart of Deimos"
+      ],
+      "parent": "29.0",
+      "date": "2020-08-25"
+    },
+    "masteryReq": 0,
     "polarities": [
       "penjaga"
     ],
-    "power": 100,
-    "productCategory": "KubrowPets",
-    "releaseDate": "2020-08-25",
-    "shield": 370,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/VulpineInfestedCatbrowPetPowerSuit",
-    "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SlyVulpaphyla.png?14390",
-    "wikiaUrl": "https://wiki.warframe.com/w/Sly_Vulpaphyla"
+    "wikiaUrl": "https://wiki.warframe.com/w/Sly_Vulpaphyla",
+    "releaseDate": "2020-08-25",
+    "masterable": true
   },
   {
-    "armor": 300,
-    "category": "Pets",
-    "description": "This sly feline is playful yet devious.",
-    "health": 390,
-    "imageName": "smeeta-kavat-221e85b8af.png",
-    "introduced": {
-      "name": "Update: Specters of the Rail 0.0",
-      "url": "https://wiki.warframe.com/w/Update_19%23Update%3A_Specters_of_the_Rail",
-      "aliases": [
-        "Specters of the Rail",
-        "Specters of the Rail 0.0",
-        "SotR"
-      ],
-      "parent": "18.15",
-      "date": "2016-07-08"
-    },
-    "masterable": true,
-    "masteryReq": 0,
+    "uniqueName": "/Lotus/Types/Game/CatbrowPet/CheshireCatbrowPetPowerSuit",
     "name": "Smeeta Kavat",
+    "health": 390,
+    "shield": 230,
+    "armor": 300,
+    "stamina": 8,
+    "power": 100,
+    "description": "This sly feline is playful yet devious.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "smeeta-kavat-221e85b8af.png",
+    "category": "Pets",
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Veilbreaker: Hotfix 32.0.3",
@@ -4856,42 +4850,42 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "introduced": {
+      "name": "Update: Specters of the Rail 0.0",
+      "url": "https://wiki.warframe.com/w/Update_19%23Update%3A_Specters_of_the_Rail",
+      "aliases": [
+        "Specters of the Rail",
+        "Specters of the Rail 0.0",
+        "SotR"
+      ],
+      "parent": "18.15",
+      "date": "2016-07-08"
+    },
+    "masteryReq": 0,
     "polarities": [
       "penjaga",
       "penjaga"
     ],
-    "power": 100,
-    "productCategory": "KubrowPets",
-    "releaseDate": "2016-07-08",
-    "shield": 230,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Game/CatbrowPet/CheshireCatbrowPetPowerSuit",
-    "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SmeetaKavat.png?30322",
-    "wikiaUrl": "https://wiki.warframe.com/w/Smeeta_Kavat"
+    "wikiaUrl": "https://wiki.warframe.com/w/Smeeta_Kavat",
+    "releaseDate": "2016-07-08",
+    "masterable": true
   },
   {
-    "armor": 300,
-    "category": "Pets",
-    "description": "Bred by the Orokin for combat. This martial beast lives to create chaos and bring down the most fierce opponents.",
-    "health": 830,
-    "imageName": "sunika-kubrow-5047769a99.png",
-    "introduced": {
-      "name": "Update 14.0",
-      "url": "https://wiki.warframe.com/w/Update_14%23Update_14.0",
-      "aliases": [
-        "Update 14",
-        "14",
-        "14.0"
-      ],
-      "parent": "14.0",
-      "date": "2014-07-18"
-    },
-    "masterable": true,
-    "masteryReq": 0,
+    "uniqueName": "/Lotus/Types/Game/KubrowPet/HunterKubrowPetPowerSuit",
     "name": "Sunika Kubrow",
+    "health": 830,
+    "shield": 350,
+    "armor": 300,
+    "stamina": 8,
+    "power": 100,
+    "description": "Bred by the Orokin for combat. This martial beast lives to create chaos and bring down the most fierce opponents.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "sunika-kubrow-5047769a99.png",
+    "category": "Pets",
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 14.0.9",
@@ -4910,28 +4904,69 @@
         "fixes": "Fixed an issue with Sunika Kubrows not coming with their proper Mods when purchased.\nPSA: A script is in progress to give mods to those account affected by the Sunika Kubrows not coming with the proper mods."
       }
     ],
+    "wikiAvailable": true,
+    "introduced": {
+      "name": "Update 14.0",
+      "url": "https://wiki.warframe.com/w/Update_14%23Update_14.0",
+      "aliases": [
+        "Update 14",
+        "14",
+        "14.0"
+      ],
+      "parent": "14.0",
+      "date": "2014-07-18"
+    },
+    "masteryReq": 0,
     "polarities": [
       "penjaga",
       "vazarin",
       "penjaga"
     ],
-    "power": 100,
-    "productCategory": "KubrowPets",
-    "releaseDate": "2014-07-18",
-    "shield": 350,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Game/KubrowPet/HunterKubrowPetPowerSuit",
-    "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SunikaKubrow.png?31785",
-    "wikiaUrl": "https://wiki.warframe.com/w/Sunika_Kubrow"
+    "wikiaUrl": "https://wiki.warframe.com/w/Sunika_Kubrow",
+    "releaseDate": "2014-07-18",
+    "masterable": true
   },
   {
+    "name": "Tethron Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenD",
+    "damagePerShot": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
     "buildPrice": 1000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Pets",
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
@@ -4984,9 +5019,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": false,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Parts",
+    "imageName": "tethron-antigen-33683ea60e.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Tian Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegB",
     "damagePerShot": [
       0,
       0,
@@ -5009,27 +5050,20 @@
       0,
       0
     ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "tethron-antigen-33683ea60e.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Tethron Antigen",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 5,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Parts",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenD"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegBBlueprint",
@@ -5082,9 +5116,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "tian-bracket-f473c6663a.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Trux Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadCryoxion",
     "damagePerShot": [
       0,
       0,
@@ -5107,26 +5147,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "tian-bracket-f473c6663a.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Tian Bracket",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegB"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadCryoxionBlueprint",
@@ -5180,9 +5214,15 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "trux-gyro-f80be5d1e3.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Tyli Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MeleeMoaPetPayload",
     "damagePerShot": [
       0,
       0,
@@ -5205,26 +5245,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "trux-gyro-f80be5d1e3.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Trux Gyro",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadCryoxion"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadMeleeBlueprint",
@@ -5278,9 +5312,15 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "tyli-gyro-2613172c8e.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Urga Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsB",
     "damagePerShot": [
       0,
       0,
@@ -5303,26 +5343,20 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "tyli-gyro-2613172c8e.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Tyli Gyro",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MeleeMoaPetPayload"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartLegsBBlueprint",
@@ -5375,66 +5409,26 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "urga-bracket-61d33be27c.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Urga Bracket",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
-    "totalDamage": 0,
-    "tradable": false,
     "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsB"
+    "imageName": "urga-bracket-61d33be27c.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
   },
   {
-    "armor": 300,
-    "category": "Pets",
-    "description": "Now free of the Vasca virus, these Kavats can transfuse life to extend not only their own health but that of their master.",
-    "health": 310,
-    "imageName": "vasca-kavat-ea0afbf0ec.png",
-    "introduced": {
-      "name": "Update 26.0",
-      "url": "https://wiki.warframe.com/w/Update_26%23Update_26.0",
-      "aliases": [
-        "26",
-        "26.0",
-        "The Old Blood"
-      ],
-      "parent": "26.0",
-      "date": "2019-10-31"
-    },
-    "masterable": true,
-    "masteryReq": 0,
+    "uniqueName": "/Lotus/Types/Game/CatbrowPet/VampireCatbrowPetPowerSuit",
     "name": "Vasca Kavat",
+    "health": 310,
+    "shield": 270,
+    "armor": 300,
+    "stamina": 8,
+    "power": 100,
+    "description": "Now free of the Vasca virus, these Kavats can transfuse life to extend not only their own health but that of their master.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "vasca-kavat-ea0afbf0ec.png",
+    "category": "Pets",
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Veilbreaker: Revenant Prime: Hotfix 32.0.9",
@@ -5557,29 +5551,406 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "introduced": {
+      "name": "Update 26.0",
+      "url": "https://wiki.warframe.com/w/Update_26%23Update_26.0",
+      "aliases": [
+        "26",
+        "26.0",
+        "The Old Blood"
+      ],
+      "parent": "26.0",
+      "date": "2019-10-31"
+    },
+    "masteryReq": 0,
     "polarities": [
       "penjaga",
       "penjaga"
     ],
-    "power": 100,
-    "productCategory": "KubrowPets",
-    "releaseDate": "2019-10-31",
-    "shield": 270,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Game/CatbrowPet/VampireCatbrowPetPowerSuit",
-    "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/VascaKavat.png?221f6",
-    "wikiaUrl": "https://wiki.warframe.com/w/Vasca_Kavat"
+    "wikiaUrl": "https://wiki.warframe.com/w/Vasca_Kavat",
+    "releaseDate": "2019-10-31",
+    "masterable": true
   },
   {
-    "armor": 350,
-    "category": "Pets",
-    "description": "Khora's loyal Kavat. Her constant companion and protector.",
-    "excludeFromCodex": true,
+    "uniqueName": "/Lotus/Powersuits/Khora/Kavat/KhoraKavatPowerSuit",
+    "name": "Venari",
     "health": 900,
+    "shield": 0,
+    "armor": 350,
+    "stamina": 8,
+    "power": 100,
+    "excludeFromCodex": true,
+    "description": "Khora's loyal Kavat. Her constant companion and protector.",
+    "productCategory": "SpecialItems",
+    "type": "Warframe",
     "imageName": "venari-d3da8c6eb7.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "Veilbreaker: Hotfix 32.0.7",
+        "date": "2022-09-28T14:59:21Z",
+        "url": "https://forums.warframe.com/topic/1325904-veilbreaker-hotfix-3207/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Khora's Venari Heal"
+      },
+      {
+        "name": "Veilbreaker: Hotfix 32.0.5",
+        "date": "2022-09-15T21:37:42Z",
+        "url": "https://forums.warframe.com/topic/1324061-veilbreaker-hotfix-3205/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Sevagoth various healing abilities and Venari’s heal not activating Archon Intensify."
+      },
+      {
+        "name": "Khora Prime: Hotfix 31.7.1",
+        "date": "2022-07-28T17:55:50Z",
+        "url": "https://forums.warframe.com/topic/1318073-khora-prime-hotfix-3171/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Venari Prime not providing Mastery Rank points."
+      },
+      {
+        "name": "Khora Prime: Update 31.7",
+        "date": "2022-07-16T20:02:14Z",
+        "url": "https://forums.warframe.com/topic/1316750-khora-prime-update-317/",
+        "additions": "",
+        "changes": "Ensnare your enemies and dominate the battlefield with your loyal Kavat, Venari Prime. Get Khora Prime, exclusive Prime Accessories, Weapons, Boosters and more instantly with Prime Access or earn Relics in-game to craft Khora Prime, Hystrix Prime and Dual Keres Prime.",
+        "fixes": ""
+      },
+      {
+        "name": "Angels of the Zariman: Hotfix 31.5.4",
+        "date": "2022-05-02T20:54:52Z",
+        "url": "https://forums.warframe.com/topic/1308448-angels-of-the-zariman-hotfix-3154/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Khora’s Venari missing a description. "
+      },
+      {
+        "name": "Update 31.5: Angels of the Zariman",
+        "date": "2022-04-27T15:02:06Z",
+        "url": "https://forums.warframe.com/topic/1305880-update-315-angels-of-the-zariman/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed certain decal FX missing custom Energy colors (summoning Khora’s Venari for example). "
+      },
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.4",
+        "date": "2021-07-17T12:58:58Z",
+        "url": "https://forums.warframe.com/topic/1272505-sisters-of-parvos-hotfix-3054/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Venari being unable to Heal players properly. \nFixed a script error when casting Khora’s Venari ability."
+      },
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.3",
+        "date": "2021-07-09T15:07:34Z",
+        "url": "https://forums.warframe.com/topic/1270868-sisters-of-parvos-hotfix-3053%C2%A0%C2%A0/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Khora’s Venari not gaining Affinity. "
+      },
+      {
+        "name": "Gara Prime: Update 30.3.0",
+        "date": "2021-05-25T17:56:49Z",
+        "url": "https://forums.warframe.com/topic/1265162-gara-prime-update-3030/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed being unable to swap Khora’s Venari's Polarities in the Arsenal."
+      },
+      {
+        "name": "Update 29.10.0: Corpus Proxima & The New Railjack",
+        "date": "2021-03-19T15:18:34Z",
+        "url": "https://forums.warframe.com/topic/1253565-update-29100-corpus-proxima-the-new-railjack/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed script error related to Khora’s Venari. "
+      },
+      {
+        "name": "Octavia Prime: Update 29.9.0",
+        "date": "2021-02-23T18:53:41Z",
+        "url": "https://forums.warframe.com/topic/1250473-octavia-prime-update-2990/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed script errors when Venari attacks."
+      },
+      {
+        "name": "Star Days: Update 29.8.0",
+        "date": "2021-02-11T18:57:30Z",
+        "url": "https://forums.warframe.com/topic/1248934-star-days-update-2980/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a harmless script error when Venari respawns in the Simulacrum."
+      },
+      {
+        "name": "Deimos: Arcana: Hotfix 29.5.5 + 29.5.5.1",
+        "date": "2020-11-27T20:28:28Z",
+        "url": "https://forums.warframe.com/topic/1238119-deimos-arcana-hotfix-2955-29551/",
+        "additions": "",
+        "changes": "",
+        "fixes": "With the exception of Venari, as it is a tap and cycle ability. Venari will simply stick to her default attack mode. "
+      },
+      {
+        "name": "Update 29.5: Deimos Arcana",
+        "date": "2020-11-19T23:39:27Z",
+        "url": "https://forums.warframe.com/topic/1236257-update-295-deimos-arcana/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Khora spawning an extra Venari when toggling the free camera in the Orbiter Captura Scene."
+      },
+      {
+        "name": "Heart of Deimos: Hotfix 29.1.2 + Hotfix 29.1.2.1",
+        "date": "2020-09-22T17:35:35Z",
+        "url": "https://forums.warframe.com/topic/1227236-heart-of-deimos-hotfix-2912-hotfix-29121/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a script error that could occur with Khora and Venari."
+      },
+      {
+        "name": "Heart of Deimos: Hotfix 29.0.2",
+        "date": "2020-08-26T19:56:10Z",
+        "url": "https://forums.warframe.com/topic/1217239-heart-of-deimos-hotfix-2902/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a script error related to Venari. "
+      },
+      {
+        "name": "Derelict Shift: Update 28.3.0",
+        "date": "2020-08-12T18:34:52Z",
+        "url": "https://forums.warframe.com/topic/1212935-derelict-shift-update-2830/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed parts of the Khora Urushu Skin disappearing if Venari is missing (Dead, in a Relay, etc)."
+      },
+      {
+        "name": "The Steel Path: Inaros Prime 28.2.0 + 28.2.0.1",
+        "date": "2020-07-14T18:01:09Z",
+        "url": "https://forums.warframe.com/topic/1207002-the-steel-path-inaros-prime-2820-28201/",
+        "additions": "",
+        "changes": "Fixed Venari’s tail remaining default when equipping the Maculatia Venari Skin in the Arsenal.",
+        "fixes": ""
+      },
+      {
+        "name": "The Steel Path: Hotfix 28.1.1",
+        "date": "2020-07-09T19:48:17Z",
+        "url": "https://forums.warframe.com/topic/1205966-the-steel-path-hotfix-2811/",
+        "additions": "",
+        "changes": "Added more tail spikes on the Maculatia Venari Skin. Cause who doesn’t love more spikes!\nFixed Maculatia Venari Skin spikes not being updated when switching postures.",
+        "fixes": ""
+      },
+      {
+        "name": "The Deadlock Protocol: Hotfix 28.0.6 + 28.0.6.1",
+        "date": "2020-06-24T18:00:22Z",
+        "url": "https://forums.warframe.com/topic/1203007-the-deadlock-protocol-hotfix-2806-28061/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Arcane Bodyguard not healing Venari."
+      },
+      {
+        "name": "Warframe Revised: Railjack Revisited (Part 1): Update 27.4",
+        "date": "2020-05-01T13:21:46Z",
+        "url": "https://forums.warframe.com/topic/1189247-warframe-revised-railjack-revisited-part-1-update-274/",
+        "additions": "",
+        "changes": "Venari",
+        "fixes": ""
+      },
+      {
+        "name": "Operation: Scarlet Spear: TennoGen 27.3.8 + 27.3.8.1 + 27.3.8.2",
+        "date": "2020-04-02T16:33:08Z",
+        "url": "https://forums.warframe.com/topic/1181462-operation-scarlet-spear-tennogen-2738-27381-27382/",
+        "additions": "",
+        "changes": "",
+        "fixes": "We made a hasty change in Hotfix 27.3.6 that removed Venari’s Heal aura from affecting Oplinks AND Defense Targets. Firstly, the terminology of calling Venari’s Defense Target healing a ‘fix’ was incorrect, so apologies there on my behalf. It’s correct to say it was a feature for Venari, considering it had its own Tip for it! The change stemmed from our desire to resolve Operation exploits as quickly as possible, and we didn't communicate this properly."
+      },
+      {
+        "name": "Operation: Scarlet Spear: Titania Prime 27.3.6",
+        "date": "2020-03-31T17:04:24Z",
+        "url": "https://forums.warframe.com/topic/1180787-operation-scarlet-spear-titania-prime-2736/",
+        "additions": "",
+        "changes": "Fixed Venari’s Healing aura affecting the Oplink.",
+        "fixes": "Fixed Venari’s Healing aura affecting Defense Targets."
+      },
+      {
+        "name": "Warframe Revised: Hotfix 27.2.1",
+        "date": "2020-03-05T23:06:21Z",
+        "url": "https://forums.warframe.com/topic/1172684-warframe-revised-hotfix-2721/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed missing Arsenal Damage numbers for Beast Companions (Kubrow, Kavat, Khora's Venari)."
+      },
+      {
+        "name": "Empyrean: Kuva Lich Changes 27.1.0 + 27.1.0.1",
+        "date": "2020-02-04T18:58:30Z",
+        "url": "https://forums.warframe.com/topic/1166021-empyrean-kuva-lich-changes-2710-27101/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixes toward Look Link colors not applying properly to Kubrows/Kavats/Venari.\nFixed Look Link diorama for Venari appearing squashed and having a normal Kavat tail."
+      },
+      {
+        "name": "Empyrean: Ivara Prime 27.0.4",
+        "date": "2019-12-17T18:58:02Z",
+        "url": "https://forums.warframe.com/topic/1154021-empyrean-ivara-prime-2704/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a script error related to Venari."
+      },
+      {
+        "name": "Update 26: The Old Blood",
+        "date": "2019-10-31T20:07:22Z",
+        "url": "https://forums.warframe.com/topic/1136784-update-26-the-old-blood/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed incorrect Mod UI when viewing a Venari Mod Link."
+      },
+      {
+        "name": "Arbitrations Revisited: Hotfix 25.7.6",
+        "date": "2019-09-18T19:13:08Z",
+        "url": "https://forums.warframe.com/topic/1129207-arbitrations-revisited-hotfix-2576/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Synth Fiber not working correctly when equipped on Venari."
+      },
+      {
+        "name": "Wukong Prime: Update 25.3.0",
+        "date": "2019-07-06T20:11:39Z",
+        "url": "https://forums.warframe.com/topic/1108021-wukong-prime-update-2530/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a script error when trying to go to the Appearance tab for Venari."
+      },
+      {
+        "name": "The Jovian Concord: Hotfix 25.0.8",
+        "date": "2019-05-31T20:15:29Z",
+        "url": "https://forums.warframe.com/topic/1099109-the-jovian-concord-hotfix-2508/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed inability to add a Precept Polarity to Venari using Forma."
+      },
+      {
+        "name": "Buried Debts: Update 24.5.0",
+        "date": "2019-03-14T21:06:12Z",
+        "url": "https://forums.warframe.com/topic/1070992-buried-debts-update-2450/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Khora's Venari not displaying color changes in the Abilities diorama."
+      },
+      {
+        "name": "Fortuna: Hotfix 24.2.10",
+        "date": "2019-01-23T20:08:15Z",
+        "url": "https://forums.warframe.com/topic/1056534-fortuna-hotfix-24210/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed broken tags in the Venari Bodyguard Mod that were broken in a few languages (German, Polish, Chinese)."
+      },
+      {
+        "name": "Fortuna: Hotfix 24.2.7 + 24.2.7.1",
+        "date": "2019-01-09T18:37:18Z",
+        "url": "https://forums.warframe.com/topic/1052727-fortuna-hotfix-2427-24271/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a script error when Khora’s Venari passive activates."
+      },
+      {
+        "name": "Fortuna: Hotfix 24.0.8",
+        "date": "2018-11-15T22:34:29Z",
+        "url": "https://forums.warframe.com/topic/1032170-fortuna-hotfix-2408/",
+        "additions": "",
+        "changes": "Fixed a script error related to Khora’s Venari.",
+        "fixes": ""
+      },
+      {
+        "name": "Fortuna: Hotfix 24.0.7",
+        "date": "2018-11-15T20:08:27Z",
+        "url": "https://forums.warframe.com/topic/1032058-fortuna-hotfix-2407/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Fetch Mod not functioning for a Client Venari. "
+      },
+      {
+        "name": "Chimera: Hotfix 23.10.7",
+        "date": "2018-10-24T14:34:07Z",
+        "url": "https://forums.warframe.com/topic/1021711-chimera-hotfix-23107/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Khora’s Venari being invisible in the Cetus Arsenal when accessing it as the Operator."
+      },
+      {
+        "name": "Mask of the Revenant: Update 23.5.0",
+        "date": "2018-08-24T21:39:09Z",
+        "url": "https://forums.warframe.com/topic/1001509-mask-of-the-revenant-update-2350/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed sometimes getting unintended colors on Venari  when using the Randomize feature."
+      },
+      {
+        "name": "The Sacrifice: Update 23",
+        "date": "2018-06-15T00:51:48Z",
+        "url": "https://forums.warframe.com/topic/967249-the-sacrifice-update-23/",
+        "additions": "",
+        "changes": "While Exalted Weapons can be ranked, they do not count towards Mastery Rank (with the exception of Khora’s Venari). ",
+        "fixes": "Fixed Khora’s Venari disarming Vor after attacking him. "
+      },
+      {
+        "name": "Beasts of the Sanctuary: Hotfix 22.20.5",
+        "date": "2018-05-24T19:33:19Z",
+        "url": "https://forums.warframe.com/topic/960082-beasts-of-the-sanctuary-hotfix-22205/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a Venari script error in rare cases where the player's Warframe is not available (ex. War Within)."
+      },
+      {
+        "name": "Beasts of the Sanctuary: Update 22.20.0",
+        "date": "2018-05-17T14:55:31Z",
+        "url": "https://forums.warframe.com/topic/957066-beasts-of-the-sanctuary-update-22200/",
+        "additions": "",
+        "changes": "Changed Khora’s Venari animations from domestic Kavat to Feral Kavat. \nTweaked Venari command sounds.\nFixed Khora’s Venari getting locked in her Attack Mode when attempting Mastery Rank tests, which can cause failure on stealth tests (MR9 for example). \nFixed Venari freezing in place when entering Cetus from the Plains, and subsequently duplicating if you head back out, eventually leading to a hall of kitty statues.\nReduced the damage of Khora's Venari in Conclave.",
+        "fixes": "Fixed being able to pet an invisible Venari if interacting with her immediately after exiting her upgrade screen in the Arsenal. \nFixed a script error with Khora’s Venari. "
+      },
+      {
+        "name": "Beasts of the Sanctuary: Update 22.19.0",
+        "date": "2018-05-02T18:30:06Z",
+        "url": "https://forums.warframe.com/topic/952702-beasts-of-the-sanctuary-update-22190/",
+        "additions": "",
+        "changes": "Operators can no longer be targeted for Venari to Heal. This follows precedent with other Warframe abilities not being castable on Operators. \nFixed Venari’s ability stats and passive speed buff UI appearing to be affected by Efficiency Mods. Ability Strength Mods are what applies to Venari’s abilities/passive. \nFixed Venari’s Heal being permanently active when equipping negative Duration Mods on Khora.\nFixed not being able to see Venari’s hold indicator when switching postures. \nFixed incorrect icon displaying for Venari’s Healing posture.\nFixed Venari script error that would occur if you're controlling the Operator when Venari respawns.\nFixed Venari not disappearing when playing an Archwing mission as Khora.\nFixed a case of Khora getting the Venari speed buff HUD icon when Venari fails to spawn.\nFixed Venari attacking you in the Simulacrum Arsenal when Friendly Fire is enabled.\nReduced the damage of Khora's Venari in Conclave.",
+        "fixes": ""
+      },
+      {
+        "name": "Beasts of the Sanctuary: Hotfix 22.18.8",
+        "date": "2018-04-27T23:14:52Z",
+        "url": "https://forums.warframe.com/topic/950912-beasts-of-the-sanctuary-hotfix-22188/",
+        "additions": "",
+        "changes": "Venari fights independently until she receives a command. Khora’s third ability (Venari) overrides Venari’s target, as indicated by the icon over Khora’s head.\nCommanding Venari while in the Heal posture without a valid target will command Venari to heal Khora.\nCompanion mods like Animal Instinct have been fixed so they will work properly on Venari.\nVenari deals Slash damage to enemies instead of Impact damage.\nAbility Strength Mods on Khora now affect Venari abilities.",
+        "fixes": ""
+      },
+      {
+        "name": "Beasts of the Sanctuary: Hotfix 22.18.7",
+        "date": "2018-04-25T21:12:12Z",
+        "url": "https://forums.warframe.com/topic/950089-beasts-of-the-sanctuary-hotfix-22187/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Venari UI stats overlapping text when Dual Wielding.\nFixed Venari's loadout slot appearing in the Conclave Arsenal even if Khora is not equipped. Interacting with Venari’s loadout slot would result in a crash."
+      },
+      {
+        "name": "Beasts of the Sanctuary: Update 22.18.0",
+        "date": "2018-04-20T14:27:12Z",
+        "url": "https://forums.warframe.com/topic/947321-beasts-of-the-sanctuary-update-22180/",
+        "additions": "",
+        "changes": "It’s the postponed Christmas gift that keeps on giving! Revealed back on November 3rd 2017, Khora has finally clawed her way to your screens. From an originally proposed damage deviator to the now metallic Kavat wielding queen of the Strangledome, her time is now. But, she won’t come easily. For Khora and Venari have been detected in Simaris’ Sanctuary, and it’s his rules that are law there.",
+        "fixes": ""
+      },
+      {
+        "name": "Plains of Eidolon: Update 22.1.0",
+        "date": "2017-10-25T20:57:43Z",
+        "url": "https://forums.warframe.com/topic/867056-plains-of-eidolon-update-2210/",
+        "additions": "",
+        "changes": "Limbo Venari Helmet by Volkovyi and Sab531",
+        "fixes": ""
+      }
+    ],
+    "wikiAvailable": true,
     "introduced": {
       "name": "Update 22.18",
       "url": "https://wiki.warframe.com/w/Update_22%23Update_22.18",
@@ -5592,9 +5963,33 @@
       "parent": "22.18",
       "date": "2018-04-20"
     },
-    "masterable": false,
     "masteryReq": 0,
-    "name": "Venari",
+    "polarities": [
+      "penjaga",
+      "madurai",
+      "vazarin",
+      "naramon"
+    ],
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Venari.png?d08b0",
+    "wikiaUrl": "https://wiki.warframe.com/w/Venari",
+    "releaseDate": "2018-04-20",
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Khora/Kavat/KhoraPrimeKavatPowerSuit",
+    "name": "Venari Prime",
+    "health": 1050,
+    "shield": 0,
+    "armor": 450,
+    "stamina": 8,
+    "power": 100,
+    "excludeFromCodex": true,
+    "description": "Khora's will, Venari's fangs and claws.",
+    "productCategory": "SpecialItems",
+    "type": "Warframe",
+    "imageName": "venari-prime-20c5b97138.png",
+    "category": "Pets",
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Veilbreaker: Hotfix 32.0.7",
@@ -5957,32 +6352,7 @@
         "fixes": ""
       }
     ],
-    "polarities": [
-      "penjaga",
-      "madurai",
-      "vazarin",
-      "naramon"
-    ],
-    "power": 100,
-    "productCategory": "SpecialItems",
-    "releaseDate": "2018-04-20",
-    "shield": 0,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Warframe",
-    "uniqueName": "/Lotus/Powersuits/Khora/Kavat/KhoraKavatPowerSuit",
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Venari.png?d08b0",
-    "wikiaUrl": "https://wiki.warframe.com/w/Venari"
-  },
-  {
-    "armor": 450,
-    "category": "Pets",
-    "description": "Khora's will, Venari's fangs and claws.",
-    "estimatedVaultDate": "2024-04-16",
-    "excludeFromCodex": true,
-    "health": 1050,
-    "imageName": "venari-prime-20c5b97138.png",
     "introduced": {
       "name": "Update 31.7",
       "url": "https://wiki.warframe.com/w/Update_31%23Update_31.7",
@@ -5992,394 +6362,59 @@
       "parent": "31.0",
       "date": "2022-07-16"
     },
-    "masterable": false,
     "masteryReq": 0,
-    "name": "Venari Prime",
-    "patchlogs": [
-      {
-        "name": "Veilbreaker: Hotfix 32.0.7",
-        "date": "2022-09-28T14:59:21Z",
-        "url": "https://forums.warframe.com/topic/1325904-veilbreaker-hotfix-3207/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Khora's Venari Heal"
-      },
-      {
-        "name": "Veilbreaker: Hotfix 32.0.5",
-        "date": "2022-09-15T21:37:42Z",
-        "url": "https://forums.warframe.com/topic/1324061-veilbreaker-hotfix-3205/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Sevagoth various healing abilities and Venari’s heal not activating Archon Intensify."
-      },
-      {
-        "name": "Khora Prime: Hotfix 31.7.1",
-        "date": "2022-07-28T17:55:50Z",
-        "url": "https://forums.warframe.com/topic/1318073-khora-prime-hotfix-3171/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Venari Prime not providing Mastery Rank points."
-      },
-      {
-        "name": "Khora Prime: Update 31.7",
-        "date": "2022-07-16T20:02:14Z",
-        "url": "https://forums.warframe.com/topic/1316750-khora-prime-update-317/",
-        "additions": "",
-        "changes": "Ensnare your enemies and dominate the battlefield with your loyal Kavat, Venari Prime. Get Khora Prime, exclusive Prime Accessories, Weapons, Boosters and more instantly with Prime Access or earn Relics in-game to craft Khora Prime, Hystrix Prime and Dual Keres Prime.",
-        "fixes": ""
-      },
-      {
-        "name": "Angels of the Zariman: Hotfix 31.5.4",
-        "date": "2022-05-02T20:54:52Z",
-        "url": "https://forums.warframe.com/topic/1308448-angels-of-the-zariman-hotfix-3154/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Khora’s Venari missing a description. "
-      },
-      {
-        "name": "Update 31.5: Angels of the Zariman",
-        "date": "2022-04-27T15:02:06Z",
-        "url": "https://forums.warframe.com/topic/1305880-update-315-angels-of-the-zariman/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed certain decal FX missing custom Energy colors (summoning Khora’s Venari for example). "
-      },
-      {
-        "name": "Sisters of Parvos: Hotfix 30.5.4",
-        "date": "2021-07-17T12:58:58Z",
-        "url": "https://forums.warframe.com/topic/1272505-sisters-of-parvos-hotfix-3054/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Venari being unable to Heal players properly. \nFixed a script error when casting Khora’s Venari ability."
-      },
-      {
-        "name": "Sisters of Parvos: Hotfix 30.5.3",
-        "date": "2021-07-09T15:07:34Z",
-        "url": "https://forums.warframe.com/topic/1270868-sisters-of-parvos-hotfix-3053%C2%A0%C2%A0/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Khora’s Venari not gaining Affinity. "
-      },
-      {
-        "name": "Gara Prime: Update 30.3.0",
-        "date": "2021-05-25T17:56:49Z",
-        "url": "https://forums.warframe.com/topic/1265162-gara-prime-update-3030/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed being unable to swap Khora’s Venari's Polarities in the Arsenal."
-      },
-      {
-        "name": "Update 29.10.0: Corpus Proxima & The New Railjack",
-        "date": "2021-03-19T15:18:34Z",
-        "url": "https://forums.warframe.com/topic/1253565-update-29100-corpus-proxima-the-new-railjack/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed script error related to Khora’s Venari. "
-      },
-      {
-        "name": "Octavia Prime: Update 29.9.0",
-        "date": "2021-02-23T18:53:41Z",
-        "url": "https://forums.warframe.com/topic/1250473-octavia-prime-update-2990/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed script errors when Venari attacks."
-      },
-      {
-        "name": "Star Days: Update 29.8.0",
-        "date": "2021-02-11T18:57:30Z",
-        "url": "https://forums.warframe.com/topic/1248934-star-days-update-2980/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a harmless script error when Venari respawns in the Simulacrum."
-      },
-      {
-        "name": "Deimos: Arcana: Hotfix 29.5.5 + 29.5.5.1",
-        "date": "2020-11-27T20:28:28Z",
-        "url": "https://forums.warframe.com/topic/1238119-deimos-arcana-hotfix-2955-29551/",
-        "additions": "",
-        "changes": "",
-        "fixes": "With the exception of Venari, as it is a tap and cycle ability. Venari will simply stick to her default attack mode. "
-      },
-      {
-        "name": "Update 29.5: Deimos Arcana",
-        "date": "2020-11-19T23:39:27Z",
-        "url": "https://forums.warframe.com/topic/1236257-update-295-deimos-arcana/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Khora spawning an extra Venari when toggling the free camera in the Orbiter Captura Scene."
-      },
-      {
-        "name": "Heart of Deimos: Hotfix 29.1.2 + Hotfix 29.1.2.1",
-        "date": "2020-09-22T17:35:35Z",
-        "url": "https://forums.warframe.com/topic/1227236-heart-of-deimos-hotfix-2912-hotfix-29121/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a script error that could occur with Khora and Venari."
-      },
-      {
-        "name": "Heart of Deimos: Hotfix 29.0.2",
-        "date": "2020-08-26T19:56:10Z",
-        "url": "https://forums.warframe.com/topic/1217239-heart-of-deimos-hotfix-2902/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a script error related to Venari. "
-      },
-      {
-        "name": "Derelict Shift: Update 28.3.0",
-        "date": "2020-08-12T18:34:52Z",
-        "url": "https://forums.warframe.com/topic/1212935-derelict-shift-update-2830/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed parts of the Khora Urushu Skin disappearing if Venari is missing (Dead, in a Relay, etc)."
-      },
-      {
-        "name": "The Steel Path: Inaros Prime 28.2.0 + 28.2.0.1",
-        "date": "2020-07-14T18:01:09Z",
-        "url": "https://forums.warframe.com/topic/1207002-the-steel-path-inaros-prime-2820-28201/",
-        "additions": "",
-        "changes": "Fixed Venari’s tail remaining default when equipping the Maculatia Venari Skin in the Arsenal.",
-        "fixes": ""
-      },
-      {
-        "name": "The Steel Path: Hotfix 28.1.1",
-        "date": "2020-07-09T19:48:17Z",
-        "url": "https://forums.warframe.com/topic/1205966-the-steel-path-hotfix-2811/",
-        "additions": "",
-        "changes": "Added more tail spikes on the Maculatia Venari Skin. Cause who doesn’t love more spikes!\nFixed Maculatia Venari Skin spikes not being updated when switching postures.",
-        "fixes": ""
-      },
-      {
-        "name": "The Deadlock Protocol: Hotfix 28.0.6 + 28.0.6.1",
-        "date": "2020-06-24T18:00:22Z",
-        "url": "https://forums.warframe.com/topic/1203007-the-deadlock-protocol-hotfix-2806-28061/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Arcane Bodyguard not healing Venari."
-      },
-      {
-        "name": "Warframe Revised: Railjack Revisited (Part 1): Update 27.4",
-        "date": "2020-05-01T13:21:46Z",
-        "url": "https://forums.warframe.com/topic/1189247-warframe-revised-railjack-revisited-part-1-update-274/",
-        "additions": "",
-        "changes": "Venari",
-        "fixes": ""
-      },
-      {
-        "name": "Operation: Scarlet Spear: TennoGen 27.3.8 + 27.3.8.1 + 27.3.8.2",
-        "date": "2020-04-02T16:33:08Z",
-        "url": "https://forums.warframe.com/topic/1181462-operation-scarlet-spear-tennogen-2738-27381-27382/",
-        "additions": "",
-        "changes": "",
-        "fixes": "We made a hasty change in Hotfix 27.3.6 that removed Venari’s Heal aura from affecting Oplinks AND Defense Targets. Firstly, the terminology of calling Venari’s Defense Target healing a ‘fix’ was incorrect, so apologies there on my behalf. It’s correct to say it was a feature for Venari, considering it had its own Tip for it! The change stemmed from our desire to resolve Operation exploits as quickly as possible, and we didn't communicate this properly."
-      },
-      {
-        "name": "Operation: Scarlet Spear: Titania Prime 27.3.6",
-        "date": "2020-03-31T17:04:24Z",
-        "url": "https://forums.warframe.com/topic/1180787-operation-scarlet-spear-titania-prime-2736/",
-        "additions": "",
-        "changes": "Fixed Venari’s Healing aura affecting the Oplink.",
-        "fixes": "Fixed Venari’s Healing aura affecting Defense Targets."
-      },
-      {
-        "name": "Warframe Revised: Hotfix 27.2.1",
-        "date": "2020-03-05T23:06:21Z",
-        "url": "https://forums.warframe.com/topic/1172684-warframe-revised-hotfix-2721/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed missing Arsenal Damage numbers for Beast Companions (Kubrow, Kavat, Khora's Venari)."
-      },
-      {
-        "name": "Empyrean: Kuva Lich Changes 27.1.0 + 27.1.0.1",
-        "date": "2020-02-04T18:58:30Z",
-        "url": "https://forums.warframe.com/topic/1166021-empyrean-kuva-lich-changes-2710-27101/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixes toward Look Link colors not applying properly to Kubrows/Kavats/Venari.\nFixed Look Link diorama for Venari appearing squashed and having a normal Kavat tail."
-      },
-      {
-        "name": "Empyrean: Ivara Prime 27.0.4",
-        "date": "2019-12-17T18:58:02Z",
-        "url": "https://forums.warframe.com/topic/1154021-empyrean-ivara-prime-2704/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a script error related to Venari."
-      },
-      {
-        "name": "Update 26: The Old Blood",
-        "date": "2019-10-31T20:07:22Z",
-        "url": "https://forums.warframe.com/topic/1136784-update-26-the-old-blood/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed incorrect Mod UI when viewing a Venari Mod Link."
-      },
-      {
-        "name": "Arbitrations Revisited: Hotfix 25.7.6",
-        "date": "2019-09-18T19:13:08Z",
-        "url": "https://forums.warframe.com/topic/1129207-arbitrations-revisited-hotfix-2576/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Synth Fiber not working correctly when equipped on Venari."
-      },
-      {
-        "name": "Wukong Prime: Update 25.3.0",
-        "date": "2019-07-06T20:11:39Z",
-        "url": "https://forums.warframe.com/topic/1108021-wukong-prime-update-2530/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a script error when trying to go to the Appearance tab for Venari."
-      },
-      {
-        "name": "The Jovian Concord: Hotfix 25.0.8",
-        "date": "2019-05-31T20:15:29Z",
-        "url": "https://forums.warframe.com/topic/1099109-the-jovian-concord-hotfix-2508/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed inability to add a Precept Polarity to Venari using Forma."
-      },
-      {
-        "name": "Buried Debts: Update 24.5.0",
-        "date": "2019-03-14T21:06:12Z",
-        "url": "https://forums.warframe.com/topic/1070992-buried-debts-update-2450/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Khora's Venari not displaying color changes in the Abilities diorama."
-      },
-      {
-        "name": "Fortuna: Hotfix 24.2.10",
-        "date": "2019-01-23T20:08:15Z",
-        "url": "https://forums.warframe.com/topic/1056534-fortuna-hotfix-24210/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed broken tags in the Venari Bodyguard Mod that were broken in a few languages (German, Polish, Chinese)."
-      },
-      {
-        "name": "Fortuna: Hotfix 24.2.7 + 24.2.7.1",
-        "date": "2019-01-09T18:37:18Z",
-        "url": "https://forums.warframe.com/topic/1052727-fortuna-hotfix-2427-24271/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a script error when Khora’s Venari passive activates."
-      },
-      {
-        "name": "Fortuna: Hotfix 24.0.8",
-        "date": "2018-11-15T22:34:29Z",
-        "url": "https://forums.warframe.com/topic/1032170-fortuna-hotfix-2408/",
-        "additions": "",
-        "changes": "Fixed a script error related to Khora’s Venari.",
-        "fixes": ""
-      },
-      {
-        "name": "Fortuna: Hotfix 24.0.7",
-        "date": "2018-11-15T20:08:27Z",
-        "url": "https://forums.warframe.com/topic/1032058-fortuna-hotfix-2407/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed the Fetch Mod not functioning for a Client Venari. "
-      },
-      {
-        "name": "Chimera: Hotfix 23.10.7",
-        "date": "2018-10-24T14:34:07Z",
-        "url": "https://forums.warframe.com/topic/1021711-chimera-hotfix-23107/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Khora’s Venari being invisible in the Cetus Arsenal when accessing it as the Operator."
-      },
-      {
-        "name": "Mask of the Revenant: Update 23.5.0",
-        "date": "2018-08-24T21:39:09Z",
-        "url": "https://forums.warframe.com/topic/1001509-mask-of-the-revenant-update-2350/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed sometimes getting unintended colors on Venari  when using the Randomize feature."
-      },
-      {
-        "name": "The Sacrifice: Update 23",
-        "date": "2018-06-15T00:51:48Z",
-        "url": "https://forums.warframe.com/topic/967249-the-sacrifice-update-23/",
-        "additions": "",
-        "changes": "While Exalted Weapons can be ranked, they do not count towards Mastery Rank (with the exception of Khora’s Venari). ",
-        "fixes": "Fixed Khora’s Venari disarming Vor after attacking him. "
-      },
-      {
-        "name": "Beasts of the Sanctuary: Hotfix 22.20.5",
-        "date": "2018-05-24T19:33:19Z",
-        "url": "https://forums.warframe.com/topic/960082-beasts-of-the-sanctuary-hotfix-22205/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a Venari script error in rare cases where the player's Warframe is not available (ex. War Within)."
-      },
-      {
-        "name": "Beasts of the Sanctuary: Update 22.20.0",
-        "date": "2018-05-17T14:55:31Z",
-        "url": "https://forums.warframe.com/topic/957066-beasts-of-the-sanctuary-update-22200/",
-        "additions": "",
-        "changes": "Changed Khora’s Venari animations from domestic Kavat to Feral Kavat. \nTweaked Venari command sounds.\nFixed Khora’s Venari getting locked in her Attack Mode when attempting Mastery Rank tests, which can cause failure on stealth tests (MR9 for example). \nFixed Venari freezing in place when entering Cetus from the Plains, and subsequently duplicating if you head back out, eventually leading to a hall of kitty statues.\nReduced the damage of Khora's Venari in Conclave.",
-        "fixes": "Fixed being able to pet an invisible Venari if interacting with her immediately after exiting her upgrade screen in the Arsenal. \nFixed a script error with Khora’s Venari. "
-      },
-      {
-        "name": "Beasts of the Sanctuary: Update 22.19.0",
-        "date": "2018-05-02T18:30:06Z",
-        "url": "https://forums.warframe.com/topic/952702-beasts-of-the-sanctuary-update-22190/",
-        "additions": "",
-        "changes": "Operators can no longer be targeted for Venari to Heal. This follows precedent with other Warframe abilities not being castable on Operators. \nFixed Venari’s ability stats and passive speed buff UI appearing to be affected by Efficiency Mods. Ability Strength Mods are what applies to Venari’s abilities/passive. \nFixed Venari’s Heal being permanently active when equipping negative Duration Mods on Khora.\nFixed not being able to see Venari’s hold indicator when switching postures. \nFixed incorrect icon displaying for Venari’s Healing posture.\nFixed Venari script error that would occur if you're controlling the Operator when Venari respawns.\nFixed Venari not disappearing when playing an Archwing mission as Khora.\nFixed a case of Khora getting the Venari speed buff HUD icon when Venari fails to spawn.\nFixed Venari attacking you in the Simulacrum Arsenal when Friendly Fire is enabled.\nReduced the damage of Khora's Venari in Conclave.",
-        "fixes": ""
-      },
-      {
-        "name": "Beasts of the Sanctuary: Hotfix 22.18.8",
-        "date": "2018-04-27T23:14:52Z",
-        "url": "https://forums.warframe.com/topic/950912-beasts-of-the-sanctuary-hotfix-22188/",
-        "additions": "",
-        "changes": "Venari fights independently until she receives a command. Khora’s third ability (Venari) overrides Venari’s target, as indicated by the icon over Khora’s head.\nCommanding Venari while in the Heal posture without a valid target will command Venari to heal Khora.\nCompanion mods like Animal Instinct have been fixed so they will work properly on Venari.\nVenari deals Slash damage to enemies instead of Impact damage.\nAbility Strength Mods on Khora now affect Venari abilities.",
-        "fixes": ""
-      },
-      {
-        "name": "Beasts of the Sanctuary: Hotfix 22.18.7",
-        "date": "2018-04-25T21:12:12Z",
-        "url": "https://forums.warframe.com/topic/950089-beasts-of-the-sanctuary-hotfix-22187/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Venari UI stats overlapping text when Dual Wielding.\nFixed Venari's loadout slot appearing in the Conclave Arsenal even if Khora is not equipped. Interacting with Venari’s loadout slot would result in a crash."
-      },
-      {
-        "name": "Beasts of the Sanctuary: Update 22.18.0",
-        "date": "2018-04-20T14:27:12Z",
-        "url": "https://forums.warframe.com/topic/947321-beasts-of-the-sanctuary-update-22180/",
-        "additions": "",
-        "changes": "It’s the postponed Christmas gift that keeps on giving! Revealed back on November 3rd 2017, Khora has finally clawed her way to your screens. From an originally proposed damage deviator to the now metallic Kavat wielding queen of the Strangledome, her time is now. But, she won’t come easily. For Khora and Venari have been detected in Simaris’ Sanctuary, and it’s his rules that are law there.",
-        "fixes": ""
-      },
-      {
-        "name": "Plains of Eidolon: Update 22.1.0",
-        "date": "2017-10-25T20:57:43Z",
-        "url": "https://forums.warframe.com/topic/867056-plains-of-eidolon-update-2210/",
-        "additions": "",
-        "changes": "Limbo Venari Helmet by Volkovyi and Sab531",
-        "fixes": ""
-      }
-    ],
     "polarities": [
       "penjaga",
       "madurai",
       "vazarin",
       "naramon"
     ],
-    "power": 100,
-    "productCategory": "SpecialItems",
-    "releaseDate": "2022-07-16",
-    "shield": 0,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Warframe",
-    "uniqueName": "/Lotus/Powersuits/Khora/Kavat/KhoraPrimeKavatPowerSuit",
-    "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/VenariPrime.png?99e1c",
-    "wikiaUrl": "https://wiki.warframe.com/w/Venari%2FPrime"
+    "wikiaUrl": "https://wiki.warframe.com/w/Venari%2FPrime",
+    "releaseDate": "2022-07-16",
+    "estimatedVaultDate": "2024-04-16",
+    "masterable": false
   },
   {
+    "name": "Virox Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenA",
+    "damagePerShot": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
     "buildPrice": 1000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Pets",
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
@@ -6432,9 +6467,60 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": false,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Parts",
+    "imageName": "virox-antigen-b03698a385.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/VizierPredatorKubrowPetPowerSuit",
+    "name": "Vizier Predasite",
+    "health": 710,
+    "shield": 350,
+    "armor": 300,
+    "stamina": 8,
+    "power": 100,
+    "description": "These hard-charging, four-legged predators make formidable companions when in the field.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "vizier-predasite-6334788772.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "Heart of Deimos: Hotfix 29.0.4",
+        "date": "2020-08-27T23:04:50Z",
+        "url": "https://forums.warframe.com/topic/1218017-heart-of-deimos-hotfix-2904/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed script error when Vizier Predasite dies when attempting to heal."
+      }
+    ],
+    "wikiAvailable": true,
+    "introduced": {
+      "name": "Update 29.0",
+      "url": "https://wiki.warframe.com/w/Update_29",
+      "aliases": [
+        "29",
+        "29.0",
+        "Heart of Deimos"
+      ],
+      "parent": "29.0",
+      "date": "2020-08-25"
+    },
+    "masteryReq": 0,
+    "polarities": [
+      "penjaga"
+    ],
+    "wikiaThumbnail": "https://wiki.warframe.com/images/VizierPredasite.png?8430d",
+    "wikiaUrl": "https://wiki.warframe.com/w/Vizier_Predasite",
+    "releaseDate": "2020-08-25",
+    "masterable": true
+  },
+  {
+    "name": "Wanz Stabilizer",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailA",
     "damagePerShot": [
       0,
       0,
@@ -6457,72 +6543,20 @@
       0,
       0
     ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "virox-antigen-b03698a385.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Virox Antigen",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 5,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Parts",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenA"
-  },
-  {
-    "armor": 300,
-    "category": "Pets",
-    "description": "These hard-charging, four-legged predators make formidable companions when in the field.",
-    "health": 710,
-    "imageName": "vizier-predasite-6334788772.png",
-    "introduced": {
-      "name": "Update 29.0",
-      "url": "https://wiki.warframe.com/w/Update_29",
-      "aliases": [
-        "29",
-        "29.0",
-        "Heart of Deimos"
-      ],
-      "parent": "29.0",
-      "date": "2020-08-25"
-    },
-    "masterable": true,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
     "masteryReq": 0,
-    "name": "Vizier Predasite",
-    "patchlogs": [
-      {
-        "name": "Heart of Deimos: Hotfix 29.0.4",
-        "date": "2020-08-27T23:04:50Z",
-        "url": "https://forums.warframe.com/topic/1218017-heart-of-deimos-hotfix-2904/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed script error when Vizier Predasite dies when attempting to heal."
-      }
-    ],
-    "polarities": [
-      "penjaga"
-    ],
-    "power": 100,
-    "productCategory": "KubrowPets",
-    "releaseDate": "2020-08-25",
-    "shield": 350,
-    "stamina": 8,
-    "tradable": false,
-    "type": "Pets",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/VizierPredatorKubrowPetPowerSuit",
-    "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/VizierPredasite.png?8430d",
-    "wikiaUrl": "https://wiki.warframe.com/w/Vizier_Predasite"
-  },
-  {
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartTailABlueprint",
@@ -6577,9 +6611,15 @@
         "drops": []
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Resource",
+    "imageName": "wanz-stabilizer-b88f78047b.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Zarim Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenC",
     "damagePerShot": [
       0,
       0,
@@ -6602,26 +6642,21 @@
       0,
       0
     ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "wanz-stabilizer-b88f78047b.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Wanz Stabilizer",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailA"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
     "buildPrice": 1000,
-    "buildQuantity": 1,
     "buildTime": 60,
-    "category": "Pets",
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterMutagenCBlueprint",
@@ -6674,9 +6709,15 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": false,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
+    "type": "Pet Parts",
+    "imageName": "zarim-mutagen-51b51275db.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "name": "Zubb Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsC",
     "damagePerShot": [
       0,
       0,
@@ -6699,27 +6740,20 @@
       0,
       0
     ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "zarim-mutagen-51b51275db.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Zarim Mutagen",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 5,
     "totalDamage": 0,
-    "tradable": false,
-    "type": "Pet Parts",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenC"
-  },
-  {
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
-    "buildQuantity": 1,
     "buildTime": 86400,
-    "category": "Pets",
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
@@ -6772,44 +6806,10 @@
         "masterable": false
       }
     ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "zubb-bracket-e76af7d4a9.png",
-    "masterable": false,
-    "masteryReq": 0,
-    "name": "Zubb Bracket",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
-    "totalDamage": 0,
-    "tradable": false,
     "type": "Pet Resource",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsC"
+    "imageName": "zubb-bracket-e76af7d4a9.png",
+    "category": "Pets",
+    "tradable": false,
+    "masterable": false
   }
 ]
