@@ -29031,7 +29031,7 @@
         "url": "https://forums.warframe.com/topic/1305880-update-315-angels-of-the-zariman/",
         "additions": "",
         "changes": "Garuda’s Seeking Talons",
-        "fixes": "Fixed Garuda/Garuda Prime’s Talon colors not being saved in other Appearance Slots other than A. \nFixed Garuda/Garuda Prime’s passive damage boost values in HUD alternating between other squad members also playing as her, resulting in incorrect values. \nFixed Garuda Prime’s Dread Mirror losing all its Prime details if it expires while still having the projectile active.\nFixed Garuda��s Ability description appearing outside text box when viewing in German.\nFixed script error related to Garuda’s Seeking Talons. "
+        "fixes": "Fixed Garuda/Garuda Prime’s Talon colors not being saved in other Appearance Slots other than A. \nFixed Garuda/Garuda Prime’s passive damage boost values in HUD alternating between other squad members also playing as her, resulting in incorrect values. \nFixed Garuda Prime’s Dread Mirror losing all its Prime details if it expires while still having the projectile active.\nFixed Garuda’s Ability description appearing outside text box when viewing in German.\nFixed script error related to Garuda’s Seeking Talons. "
       },
       {
         "name": "Garuda Prime: Hotfix 31.3.1",
@@ -103980,7 +103980,7 @@
         "date": "2014-05-30T15:20:05Z",
         "url": "https://forums.warframe.com/topic/238867-hotfix-1351/",
         "additions": "",
-        "changes": "Trinity’s Blessing is now cast-able when in the air.",
+        "changes": "Trinity���s Blessing is now cast-able when in the air.",
         "fixes": ""
       },
       {
@@ -104818,7 +104818,7 @@
         "fixes": ""
       },
       {
-        "name": "Octavia’s Anthem: Update 20.2.0",
+        "name": "Octavia��s Anthem: Update 20.2.0",
         "date": "2017-04-12T18:04:21Z",
         "url": "https://forums.warframe.com/topic/785788-octavia%E2%80%99s-anthem-update-2020/",
         "additions": "",

@@ -363,7 +363,7 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
     "name": "Alloy Plate",
     "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
-    "itemCount": 1700,
+    "itemCount": 1600,
     "parents": [
       "Adrenal Stim",
       "Aegrit",
@@ -10734,7 +10734,6 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DesertWind.png?78581",
     "wikiaUrl": "https://wiki.warframe.com/w/Desert_Wind",
     "introduced": {
       "name": "Update 24.2",
@@ -10931,7 +10930,6 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DesertWind.png?78581",
     "wikiaUrl": "https://wiki.warframe.com/w/Desert_Wind_Prime",
     "introduced": {
       "name": "Hotfix 32.2.5",
@@ -12024,7 +12022,6 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Diwata.png?11963",
     "wikiaUrl": "https://wiki.warframe.com/w/Diwata",
     "introduced": {
       "name": "Update 23.0",
@@ -12229,7 +12226,6 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DiwataPrime.png?5591d",
     "wikiaUrl": "https://wiki.warframe.com/w/Diwata_Prime",
     "introduced": {
       "name": "Hotfix 27.3.6",
@@ -22659,7 +22655,6 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/ExaltedBladeWeapon.png?654f4",
     "wikiaUrl": "https://wiki.warframe.com/w/Exalted_Blade",
     "introduced": {
       "name": "Update 23.0",
@@ -23199,7 +23194,6 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/ExaltedPrimeBlade.png?6ed44",
     "wikiaUrl": "https://wiki.warframe.com/w/Exalted_Prime_Blade",
     "introduced": {
       "name": "Update 23.0",
@@ -23350,7 +23344,6 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/ExaltedUmbraBlade.png?f3047",
     "wikiaUrl": "https://wiki.warframe.com/w/Exalted_Umbra_Blade",
     "introduced": {
       "name": "Update 23.0",
@@ -27862,7 +27855,7 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/ShrineFragment",
     "name": "Fate Pearl",
     "description": "Retrieved from the shores of a sacred fate dream.\n\nLocation: Saya's Visions on Earth",
-    "itemCount": 5,
+    "itemCount": 30,
     "parents": [
       "Amanata",
       "Higasa",
@@ -40564,7 +40557,7 @@
         "date": "2022-09-08T21:23:22Z",
         "url": "https://forums.warframe.com/topic/1321988-veilbreaker-hotfix-3202/",
         "additions": "",
-        "changes": "You must now have a Rank 30 (or Forma��d) Warframe equipped to access Archon Hunts.",
+        "changes": "You must now have a Rank 30 (or Forma’d) Warframe equipped to access Archon Hunts.",
         "fixes": ""
       },
       {
@@ -71376,7 +71369,7 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
     "name": "Nitain Extract",
     "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\n\nLocation: Nightwave Cred Offerings",
-    "itemCount": 3,
+    "itemCount": 5,
     "parents": [
       "<Archwing> Amesha",
       "Atlas Shikoro Helmet",
@@ -101974,6 +101967,7 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ValkyrTalons.png?d8e5f",
     "wikiaUrl": "https://wiki.warframe.com/w/Valkyr_Prime_Talons",
     "introduced": {
       "name": "Update 23.0",
@@ -102133,6 +102127,7 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ValkyrTalons.png?d8e5f",
     "wikiaUrl": "https://wiki.warframe.com/w/Valkyr_Talons",
     "introduced": {
       "name": "Update 23.0",
