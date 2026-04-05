@@ -3860,7 +3860,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagRare",
     "name": "Echo Voca",
     "description": "The quietest and most elusive of Voidtongue utterances. Sought after but never found by Albrecht.\n\nLocation: Albrecht's Laboratories (Deimos)",
-    "itemCount": 1,
+    "itemCount": 2,
     "parents": [
       "Grimoire",
       "Mandonel",
