@@ -231955,18 +231955,15 @@
     "wikiaUrl": "https://wiki.warframe.com/w/Sentient_Incision",
     "transmutable": false,
     "introduced": {
-      "name": "TBA",
-      "url": "https://wiki.warframe.com/w/Upcoming_Features",
+      "name": "Hotfix 42.0.6",
+      "url": "https://wiki.warframe.com/w/Update_42%23Hotfix_42.0.6",
       "aliases": [
-        "TBA",
-        "999",
-        "999.0",
-        "999.0.0"
+        "42.0.6"
       ],
-      "parent": "0.0",
-      "date": "0000-00-00"
+      "parent": "42.0",
+      "date": "2026-04-08"
     },
-    "releaseDate": "0000-00-00",
+    "releaseDate": "2026-04-08",
     "isPrime": false,
     "masterable": false
   },
@@ -292266,18 +292263,15 @@
     "wikiaUrl": "https://wiki.warframe.com/w/Velox_Conclusion",
     "transmutable": false,
     "introduced": {
-      "name": "TBA",
-      "url": "https://wiki.warframe.com/w/Upcoming_Features",
+      "name": "Hotfix 42.0.6",
+      "url": "https://wiki.warframe.com/w/Update_42%23Hotfix_42.0.6",
       "aliases": [
-        "TBA",
-        "999",
-        "999.0",
-        "999.0.0"
+        "42.0.6"
       ],
-      "parent": "0.0",
-      "date": "0000-00-00"
+      "parent": "42.0",
+      "date": "2026-04-08"
     },
-    "releaseDate": "0000-00-00",
+    "releaseDate": "2026-04-08",
     "isPrime": false,
     "masterable": false
   },

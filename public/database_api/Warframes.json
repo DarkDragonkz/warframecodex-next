@@ -10687,6 +10687,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeABronze"
           },
           {
+            "location": "Meso V15 Relic",
+            "type": "Caliban Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso V11 Relic (Exceptional)",
             "type": "Caliban Prime Blueprint",
             "chance": 13,
@@ -10699,6 +10706,13 @@
             "chance": 13,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeABronze"
+          },
+          {
+            "location": "Meso V15 Relic (Exceptional)",
+            "type": "Caliban Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Vanguard M1 Relic (Radiant)",
@@ -10722,6 +10736,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeABronze"
           },
           {
+            "location": "Meso V15 Relic (Flawless)",
+            "type": "Caliban Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso V11 Relic (Radiant)",
             "type": "Caliban Prime Blueprint",
             "chance": 20,
@@ -10734,6 +10755,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeABronze"
+          },
+          {
+            "location": "Meso V15 Relic (Radiant)",
+            "type": "Caliban Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Vanguard M1 Relic (Flawless)",
@@ -10775,6 +10803,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeFBronze"
           },
           {
+            "location": "Meso V15 Relic (Radiant)",
+            "type": "Caliban Prime Chassis Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso Y1 Relic (Radiant)",
             "type": "Caliban Prime Chassis Blueprint",
             "chance": 16.67,
@@ -10794,6 +10829,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeFBronze"
+          },
+          {
+            "location": "Meso V15 Relic (Flawless)",
+            "type": "Caliban Prime Chassis Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso Y1 Relic (Flawless)",
@@ -10817,6 +10859,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeFBronze"
           },
           {
+            "location": "Meso V15 Relic (Exceptional)",
+            "type": "Caliban Prime Chassis Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso Y1 Relic (Exceptional)",
             "type": "Caliban Prime Chassis Blueprint",
             "chance": 23.33,
@@ -10836,6 +10885,13 @@
             "chance": 25.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeFBronze"
+          },
+          {
+            "location": "Meso V15 Relic",
+            "type": "Caliban Prime Chassis Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso Y1 Relic",
@@ -10980,6 +11036,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeCBronze"
           },
           {
+            "location": "Axi C11 Relic (Radiant)",
+            "type": "Caliban Prime Systems Blueprint",
+            "chance": 10,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Vanguard C1 Relic (Radiant)",
             "type": "Caliban Prime Systems Blueprint",
             "chance": 10,
@@ -10992,6 +11055,13 @@
             "chance": 2,
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeCBronze"
+          },
+          {
+            "location": "Axi C11 Relic",
+            "type": "Caliban Prime Systems Blueprint",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": ""
           },
           {
             "location": "Vanguard C1 Relic",
@@ -11008,6 +11078,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeCBronze"
           },
           {
+            "location": "Axi C11 Relic (Exceptional)",
+            "type": "Caliban Prime Systems Blueprint",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": ""
+          },
+          {
             "location": "Vanguard C1 Relic (Exceptional)",
             "type": "Caliban Prime Systems Blueprint",
             "chance": 4,
@@ -11020,6 +11097,13 @@
             "chance": 6,
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeCBronze"
+          },
+          {
+            "location": "Axi C11 Relic (Flawless)",
+            "type": "Caliban Prime Systems Blueprint",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": ""
           },
           {
             "location": "Vanguard C1 Relic (Flawless)",
@@ -33286,7 +33370,7 @@
         "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GrendelPrimeSystemsComponent",
         "name": "Systems",
         "description": "Systems component of the Grendel Prime Warframe.",
-        "primeSellingPrice": 100,
+        "primeSellingPrice": 65,
         "itemCount": 1,
         "imageName": "prime-systems.png",
         "tradable": true,
@@ -33377,7 +33461,7 @@
           }
         ],
         "masterable": false,
-        "ducats": 100
+        "ducats": 65
       }
     ],
     "type": "Warframe",
@@ -33919,11 +34003,25 @@
         "tradable": true,
         "drops": [
           {
+            "location": "Meso E7 Relic (Radiant)",
+            "type": "Gyre Prime Systems Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso V14 Relic (Radiant)",
             "type": "Gyre Prime Systems Blueprint",
             "chance": 16.67,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeCBronze"
+          },
+          {
+            "location": "Meso E7 Relic (Flawless)",
+            "type": "Gyre Prime Systems Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso V14 Relic (Flawless)",
@@ -33933,11 +34031,25 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeCBronze"
           },
           {
+            "location": "Meso E7 Relic (Exceptional)",
+            "type": "Gyre Prime Systems Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso V14 Relic (Exceptional)",
             "type": "Gyre Prime Systems Blueprint",
             "chance": 23.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeCBronze"
+          },
+          {
+            "location": "Meso E7 Relic",
+            "type": "Gyre Prime Systems Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso V14 Relic",
@@ -49236,6 +49348,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionYareliPrimeCBronze"
           },
           {
+            "location": "Lith C14 Relic",
+            "type": "Lavos Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi F3 Relic (Exceptional)",
             "type": "Lavos Prime Blueprint",
             "chance": 13,
@@ -49248,6 +49367,13 @@
             "chance": 13,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionYareliPrimeCBronze"
+          },
+          {
+            "location": "Lith C14 Relic (Exceptional)",
+            "type": "Lavos Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Axi F3 Relic (Flawless)",
@@ -49264,6 +49390,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionYareliPrimeCBronze"
           },
           {
+            "location": "Lith C14 Relic (Flawless)",
+            "type": "Lavos Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi F3 Relic (Radiant)",
             "type": "Lavos Prime Blueprint",
             "chance": 20,
@@ -49276,6 +49409,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionYareliPrimeCBronze"
+          },
+          {
+            "location": "Lith C14 Relic (Radiant)",
+            "type": "Lavos Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           }
         ]
       },
@@ -49294,6 +49434,13 @@
             "chance": 16.67,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeCBronze"
+          },
+          {
+            "location": "Axi D6 Relic (Radiant)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Lith G14 Relic (Radiant)",
@@ -49317,6 +49464,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeCBronze"
           },
           {
+            "location": "Axi D6 Relic (Flawless)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith G14 Relic (Flawless)",
             "type": "Lavos Prime Chassis Blueprint",
             "chance": 20,
@@ -49338,6 +49492,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeCBronze"
           },
           {
+            "location": "Axi D6 Relic (Exceptional)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith G14 Relic (Exceptional)",
             "type": "Lavos Prime Chassis Blueprint",
             "chance": 23.33,
@@ -49357,6 +49518,13 @@
             "chance": 25.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeCBronze"
+          },
+          {
+            "location": "Axi D6 Relic",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Lith G14 Relic",
@@ -49400,6 +49568,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLavosPrimeABronze"
           },
           {
+            "location": "Neo N24 Relic",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi A20 Relic (Exceptional)",
             "type": "Lavos Prime Neuroptics Blueprint",
             "chance": 13,
@@ -49412,6 +49587,13 @@
             "chance": 13,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLavosPrimeABronze"
+          },
+          {
+            "location": "Neo N24 Relic (Exceptional)",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Axi A20 Relic (Flawless)",
@@ -49428,6 +49610,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLavosPrimeABronze"
           },
           {
+            "location": "Neo N24 Relic (Flawless)",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi A20 Relic (Radiant)",
             "type": "Lavos Prime Neuroptics Blueprint",
             "chance": 20,
@@ -49440,6 +49629,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLavosPrimeABronze"
+          },
+          {
+            "location": "Neo N24 Relic (Radiant)",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           }
         ],
         "masterable": false,
@@ -49487,6 +49683,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionCalibanPrimeABronze"
           },
           {
+            "location": "Meso L4 Relic (Radiant)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 10,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith L5 Relic",
             "type": "Lavos Prime Systems Blueprint",
             "chance": 2,
@@ -49506,6 +49709,13 @@
             "chance": 2,
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionCalibanPrimeABronze"
+          },
+          {
+            "location": "Meso L4 Relic",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": ""
           },
           {
             "location": "Lith L5 Relic (Exceptional)",
@@ -49529,6 +49739,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionCalibanPrimeABronze"
           },
           {
+            "location": "Meso L4 Relic (Exceptional)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith L5 Relic (Flawless)",
             "type": "Lavos Prime Systems Blueprint",
             "chance": 6,
@@ -49548,6 +49765,13 @@
             "chance": 6,
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionCalibanPrimeABronze"
+          },
+          {
+            "location": "Meso L4 Relic (Flawless)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": ""
           }
         ],
         "masterable": false,
@@ -88313,8 +88537,9 @@
     "wikiaUrl": "https://wiki.warframe.com/w/Protea%2FPrime",
     "releaseDate": "2024-05-01",
     "isPrime": true,
-    "vaulted": false,
-    "estimatedVaultDate": "2026-02-01",
+    "vaulted": true,
+    "vaultDate": "2026-04-08",
+    "estimatedVaultDate": "2026-04-08",
     "masterable": true
   },
   {
@@ -97220,6 +97445,13 @@
         "ducats": 45,
         "drops": [
           {
+            "location": "Axi Y3 Relic",
+            "type": "Sevagoth Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi Z2 Relic",
             "type": "Sevagoth Prime Blueprint",
             "chance": 11,
@@ -97253,6 +97485,13 @@
             "chance": 11,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeBBronze"
+          },
+          {
+            "location": "Axi Y3 Relic (Exceptional)",
+            "type": "Sevagoth Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Axi Z2 Relic (Exceptional)",
@@ -97290,6 +97529,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeBBronze"
           },
           {
+            "location": "Axi Y3 Relic (Flawless)",
+            "type": "Sevagoth Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi Z2 Relic (Flawless)",
             "type": "Sevagoth Prime Blueprint",
             "chance": 17,
@@ -97323,6 +97569,13 @@
             "chance": 17,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeBBronze"
+          },
+          {
+            "location": "Axi Y3 Relic (Radiant)",
+            "type": "Sevagoth Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Axi Z2 Relic (Radiant)",
@@ -97392,6 +97645,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeDBronze"
           },
           {
+            "location": "Neo S20 Relic (Radiant)",
+            "type": "Sevagoth Prime Chassis Blueprint",
+            "chance": 10,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi S17 Relic",
             "type": "Sevagoth Prime Chassis Blueprint",
             "chance": 2,
@@ -97411,6 +97671,13 @@
             "chance": 2,
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeDBronze"
+          },
+          {
+            "location": "Neo S20 Relic",
+            "type": "Sevagoth Prime Chassis Blueprint",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": ""
           },
           {
             "location": "Axi S17 Relic (Exceptional)",
@@ -97434,6 +97701,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeDBronze"
           },
           {
+            "location": "Neo S20 Relic (Exceptional)",
+            "type": "Sevagoth Prime Chassis Blueprint",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi S17 Relic (Flawless)",
             "type": "Sevagoth Prime Chassis Blueprint",
             "chance": 6,
@@ -97453,6 +97727,13 @@
             "chance": 6,
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeDBronze"
+          },
+          {
+            "location": "Neo S20 Relic (Flawless)",
+            "type": "Sevagoth Prime Chassis Blueprint",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": ""
           }
         ],
         "masterable": false,
@@ -97501,6 +97782,13 @@
             "chance": 16.67,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionCalibanPrimeABronze"
+          },
+          {
+            "location": "Meso L4 Relic (Radiant)",
+            "type": "Sevagoth Prime Neuroptics Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Neo K9 Relic (Radiant)",
@@ -97552,6 +97840,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionCalibanPrimeABronze"
           },
           {
+            "location": "Meso L4 Relic (Flawless)",
+            "type": "Sevagoth Prime Neuroptics Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Neo K9 Relic (Flawless)",
             "type": "Sevagoth Prime Neuroptics Blueprint",
             "chance": 20,
@@ -97601,6 +97896,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionCalibanPrimeABronze"
           },
           {
+            "location": "Meso L4 Relic (Exceptional)",
+            "type": "Sevagoth Prime Neuroptics Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Neo K9 Relic (Exceptional)",
             "type": "Sevagoth Prime Neuroptics Blueprint",
             "chance": 23.33,
@@ -97648,6 +97950,13 @@
             "chance": 25.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionCalibanPrimeABronze"
+          },
+          {
+            "location": "Meso L4 Relic",
+            "type": "Sevagoth Prime Neuroptics Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Neo K9 Relic",
@@ -97702,6 +98011,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothPrimeABronze"
           },
           {
+            "location": "Lith C14 Relic (Radiant)",
+            "type": "Sevagoth Prime Systems Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith D7 Relic (Radiant)",
             "type": "Sevagoth Prime Systems Blueprint",
             "chance": 16.67,
@@ -97742,6 +98058,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothPrimeABronze"
+          },
+          {
+            "location": "Lith C14 Relic (Flawless)",
+            "type": "Sevagoth Prime Systems Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Lith D7 Relic (Flawless)",
@@ -97786,6 +98109,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothPrimeABronze"
           },
           {
+            "location": "Lith C14 Relic (Exceptional)",
+            "type": "Sevagoth Prime Systems Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith D7 Relic (Exceptional)",
             "type": "Sevagoth Prime Systems Blueprint",
             "chance": 23.33,
@@ -97826,6 +98156,13 @@
             "chance": 25.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothPrimeABronze"
+          },
+          {
+            "location": "Lith C14 Relic",
+            "type": "Sevagoth Prime Systems Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Lith D7 Relic",
@@ -113450,6 +113787,257 @@
     "masterable": true
   },
   {
+    "uniqueName": "/Lotus/Powersuits/Werewolf/VorunaPrime",
+    "name": "Voruna Prime",
+    "description": "Splendor and ferocity reach their savage apex in Voruna Prime. Though exalted by Orokin gold, she is more feral than ever.",
+    "health": 455,
+    "shield": 270,
+    "armor": 265,
+    "stamina": 3,
+    "power": 130,
+    "masteryReq": 0,
+    "sprintSpeed": 1.2,
+    "passiveDescription": "Voruna never fights alone. In mission, hold Abilities to call upon each wolf’s unique Passive power.",
+    "abilities": [
+      {
+        "uniqueName": "/Lotus/Powersuits/Werewolf/Abilities/WerewolfShroudAbility",
+        "name": "Shroud Of Dynar",
+        "description": "(TAP) Dynar shrouds Voruna with invisibility and accelerates her speed. Invisibility ends when Voruna attacks. For a short time after invisibility ends, melee attacks have increased Critical Damage, Status Chance, Critical Chance and inflict <DT_SLASH_COLOR>Slash Status Effects. Melee kill an enemy during this time to extend the melee buff once per cast.\n\n(HOLD) Dynar guards Voruna, increasing her Parkour Velocity.",
+        "imageName": "shroud-of-dynar-ce2a7711bd.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/Werewolf/Abilities/WerewolfBiteAbility",
+        "name": "Fangs Of Raksh",
+        "description": "(TAP) Raksh's fangs tear into your enemies. 5 random Status Effects are applied at 10 Stacks each on an enemy. On target's death, spread the Status Effects to other nearby enemies.\n\n(HOLD) Raksh guards Voruna with Status Effect resistance.",
+        "imageName": "fangs-of-raksh-76fa14f541.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/Werewolf/Abilities/WerewolfLeapAbility",
+        "name": "Lycath's Hunt",
+        "description": "(TAP) Lycath hunts to sustain the pack. Enemies killed by melee attacks drop health orbs and enemies killed by headshots drop energy orbs. Increase the duration of Lycath’s hunt by killing enemies affected by 5 or more Status Effects.\n\n(HOLD) Lycath guards Voruna with increased Heavy Attack efficiency.",
+        "imageName": "lycath's-hunt-d38c12a8a0.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/Werewolf/Abilities/WerewolfHowlAbility",
+        "name": "Ulfrun's Descent",
+        "description": "(TAP) Voruna drops to all fours and prepares 5 brutal charges that lock onto enemies. Ulfrun, the most powerful wolf, leads the attack as Voruna dashes toward her target. The pack deals increased damage to targets and nearby enemies that are inflicted by Status Effects. Lethal attacks double the damage of Voruna's remaining charges.\n\n(HOLD) Ulfrun guards Voruna. If Voruna falls during this time, Ulfrun dies in her place.",
+        "imageName": "ulfrun's-descent-f517f81e19.png"
+      }
+    ],
+    "productCategory": "Suits",
+    "buildPrice": 25000,
+    "buildTime": 259200,
+    "skipBuildTimePrice": 50,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeBlueprint",
+        "name": "Blueprint",
+        "description": "Splendor and ferocity reach their savage apex in Voruna Prime. Though exalted by Orokin gold, she is more feral than ever.",
+        "itemCount": 1,
+        "primeSellingPrice": 100,
+        "imageName": "blueprint.png",
+        "tradable": true,
+        "masterable": false,
+        "ducats": 100,
+        "drops": [
+          {
+            "location": "Axi V14 Relic (Radiant)",
+            "type": "Voruna Prime Blueprint",
+            "chance": 10,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Axi V14 Relic",
+            "type": "Voruna Prime Blueprint",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": ""
+          },
+          {
+            "location": "Axi V14 Relic (Exceptional)",
+            "type": "Voruna Prime Blueprint",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": ""
+          },
+          {
+            "location": "Axi V14 Relic (Flawless)",
+            "type": "Voruna Prime Blueprint",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": ""
+          }
+        ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeChassisComponent",
+        "name": "Chassis",
+        "description": "Chassis component of the Voruna Prime Warframe.",
+        "primeSellingPrice": 45,
+        "itemCount": 1,
+        "imageName": "prime-chassis.png",
+        "tradable": true,
+        "drops": [
+          {
+            "location": "Lith N19 Relic",
+            "type": "Voruna Prime Chassis Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Lith N19 Relic (Exceptional)",
+            "type": "Voruna Prime Chassis Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Lith N19 Relic (Flawless)",
+            "type": "Voruna Prime Chassis Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Lith N19 Relic (Radiant)",
+            "type": "Voruna Prime Chassis Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          }
+        ],
+        "masterable": false,
+        "ducats": 45
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "description": "Neuroptics component of the Voruna Prime Warframe.",
+        "primeSellingPrice": 45,
+        "itemCount": 1,
+        "imageName": "prime-neuroptics.png",
+        "tradable": true,
+        "drops": [
+          {
+            "location": "Meso D8 Relic",
+            "type": "Voruna Prime Neuroptics Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Meso D8 Relic (Exceptional)",
+            "type": "Voruna Prime Neuroptics Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Meso D8 Relic (Flawless)",
+            "type": "Voruna Prime Neuroptics Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Meso D8 Relic (Radiant)",
+            "type": "Voruna Prime Neuroptics Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          }
+        ],
+        "masterable": false,
+        "ducats": 45
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
+        "itemCount": 5,
+        "imageName": "orokin-cell-0d237af036.png",
+        "tradable": false,
+        "drops": [],
+        "masterable": false,
+        "type": "Resource"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeSystemsComponent",
+        "name": "Systems",
+        "description": "Systems component of the Voruna Prime Warframe.",
+        "primeSellingPrice": 100,
+        "itemCount": 1,
+        "imageName": "prime-systems.png",
+        "tradable": true,
+        "drops": [
+          {
+            "location": "Neo V11 Relic (Radiant)",
+            "type": "Voruna Prime Systems Blueprint",
+            "chance": 10,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Neo V11 Relic",
+            "type": "Voruna Prime Systems Blueprint",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": ""
+          },
+          {
+            "location": "Neo V11 Relic (Exceptional)",
+            "type": "Voruna Prime Systems Blueprint",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": ""
+          },
+          {
+            "location": "Neo V11 Relic (Flawless)",
+            "type": "Voruna Prime Systems Blueprint",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": ""
+          }
+        ],
+        "masterable": false,
+        "ducats": 100
+      }
+    ],
+    "type": "Warframe",
+    "imageName": "voruna-prime-ffc806f3a8.png",
+    "category": "Warframes",
+    "tradable": false,
+    "wikiAvailable": true,
+    "aura": "vazarin",
+    "conclave": false,
+    "color": 0,
+    "introduced": {
+      "name": "Hotfix 42.0.6",
+      "url": "https://wiki.warframe.com/w/Update_42%23Hotfix_42.0.6",
+      "aliases": [
+        "42.0.6"
+      ],
+      "parent": "42.0",
+      "date": "2026-04-08"
+    },
+    "polarities": [
+      "madurai",
+      "vazarin"
+    ],
+    "sex": "Female",
+    "sprint": 1.2,
+    "wikiaUrl": "https://wiki.warframe.com/w/Voruna%2FPrime",
+    "releaseDate": "2026-04-08",
+    "isPrime": true,
+    "vaulted": false,
+    "estimatedVaultDate": "2028-01-08",
+    "masterable": true
+  },
+  {
     "uniqueName": "/Lotus/Powersuits/Wisp/Wisp",
     "name": "Wisp",
     "description": "Wisp floats between the material and the ethereal. She accesses multiple dimensions to support her allies. Her countenance is mysterious and enigmatic.",
@@ -118323,6 +118911,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeABronze"
           },
           {
+            "location": "Neo V11 Relic",
+            "type": "Xaku Prime Chassis Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi V12 Relic (Exceptional)",
             "type": "Xaku Prime Chassis Blueprint",
             "chance": 13,
@@ -118349,6 +118944,13 @@
             "chance": 13,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeABronze"
+          },
+          {
+            "location": "Neo V11 Relic (Exceptional)",
+            "type": "Xaku Prime Chassis Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Axi V12 Relic (Flawless)",
@@ -118379,6 +118981,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeABronze"
           },
           {
+            "location": "Neo V11 Relic (Flawless)",
+            "type": "Xaku Prime Chassis Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi V12 Relic (Radiant)",
             "type": "Xaku Prime Chassis Blueprint",
             "chance": 20,
@@ -118405,6 +119014,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeABronze"
+          },
+          {
+            "location": "Neo V11 Relic (Radiant)",
+            "type": "Xaku Prime Chassis Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           }
         ],
         "masterable": false,
@@ -118439,6 +119055,13 @@
             "chance": 16.67,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeDBronze"
+          },
+          {
+            "location": "Meso A10 Relic (Radiant)",
+            "type": "Xaku Prime Neuroptics Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso E6 Relic (Radiant)",
@@ -118483,6 +119106,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeDBronze"
           },
           {
+            "location": "Meso A10 Relic (Flawless)",
+            "type": "Xaku Prime Neuroptics Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso E6 Relic (Flawless)",
             "type": "Xaku Prime Neuroptics Blueprint",
             "chance": 20,
@@ -118525,6 +119155,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeDBronze"
           },
           {
+            "location": "Meso A10 Relic (Exceptional)",
+            "type": "Xaku Prime Neuroptics Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso E6 Relic (Exceptional)",
             "type": "Xaku Prime Neuroptics Blueprint",
             "chance": 23.33,
@@ -118565,6 +119202,13 @@
             "chance": 25.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeDBronze"
+          },
+          {
+            "location": "Meso A10 Relic",
+            "type": "Xaku Prime Neuroptics Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso E6 Relic",
@@ -118626,6 +119270,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeDBronze"
           },
           {
+            "location": "Axi S20 Relic",
+            "type": "Xaku Prime Systems Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith A10 Relic",
             "type": "Xaku Prime Systems Blueprint",
             "chance": 11,
@@ -118652,6 +119303,13 @@
             "chance": 13,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeDBronze"
+          },
+          {
+            "location": "Axi S20 Relic (Exceptional)",
+            "type": "Xaku Prime Systems Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Lith A10 Relic (Exceptional)",
@@ -118682,6 +119340,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeDBronze"
           },
           {
+            "location": "Axi S20 Relic (Flawless)",
+            "type": "Xaku Prime Systems Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith A10 Relic (Flawless)",
             "type": "Xaku Prime Systems Blueprint",
             "chance": 17,
@@ -118708,6 +119373,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeDBronze"
+          },
+          {
+            "location": "Axi S20 Relic (Radiant)",
+            "type": "Xaku Prime Systems Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Lith A10 Relic (Radiant)",
@@ -119152,6 +119824,13 @@
         "ducats": 45,
         "drops": [
           {
+            "location": "Meso D8 Relic",
+            "type": "Yareli Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso P17 Relic",
             "type": "Yareli Prime Blueprint",
             "chance": 11,
@@ -119164,6 +119843,13 @@
             "chance": 11,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionYareliPrimeABronze"
+          },
+          {
+            "location": "Meso D8 Relic (Exceptional)",
+            "type": "Yareli Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso P17 Relic (Exceptional)",
@@ -119180,6 +119866,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionYareliPrimeABronze"
           },
           {
+            "location": "Meso D8 Relic (Flawless)",
+            "type": "Yareli Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso P17 Relic (Flawless)",
             "type": "Yareli Prime Blueprint",
             "chance": 17,
@@ -119192,6 +119885,13 @@
             "chance": 17,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionYareliPrimeABronze"
+          },
+          {
+            "location": "Meso D8 Relic (Radiant)",
+            "type": "Yareli Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso P17 Relic (Radiant)",
@@ -119240,6 +119940,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeFBronze"
           },
           {
+            "location": "Neo V11 Relic (Radiant)",
+            "type": "Yareli Prime Chassis Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith A10 Relic (Flawless)",
             "type": "Yareli Prime Chassis Blueprint",
             "chance": 20,
@@ -119259,6 +119966,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeFBronze"
+          },
+          {
+            "location": "Neo V11 Relic (Flawless)",
+            "type": "Yareli Prime Chassis Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Lith A10 Relic (Exceptional)",
@@ -119282,6 +119996,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeFBronze"
           },
           {
+            "location": "Neo V11 Relic (Exceptional)",
+            "type": "Yareli Prime Chassis Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith A10 Relic",
             "type": "Yareli Prime Chassis Blueprint",
             "chance": 25.33,
@@ -119301,6 +120022,13 @@
             "chance": 25.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeFBronze"
+          },
+          {
+            "location": "Neo V11 Relic",
+            "type": "Yareli Prime Chassis Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           }
         ],
         "masterable": false,
@@ -119321,6 +120049,13 @@
             "chance": 10,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeDBronze"
+          },
+          {
+            "location": "Axi Y3 Relic (Radiant)",
+            "type": "Yareli Prime Neuroptics Blueprint",
+            "chance": 10,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Lith Y1 Relic (Radiant)",
@@ -119344,6 +120079,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeDBronze"
           },
           {
+            "location": "Axi Y3 Relic",
+            "type": "Yareli Prime Neuroptics Blueprint",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith Y1 Relic",
             "type": "Yareli Prime Neuroptics Blueprint",
             "chance": 2,
@@ -119365,6 +120107,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeDBronze"
           },
           {
+            "location": "Axi Y3 Relic (Exceptional)",
+            "type": "Yareli Prime Neuroptics Blueprint",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith Y1 Relic (Exceptional)",
             "type": "Yareli Prime Neuroptics Blueprint",
             "chance": 4,
@@ -119384,6 +120133,13 @@
             "chance": 6,
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeDBronze"
+          },
+          {
+            "location": "Axi Y3 Relic (Flawless)",
+            "type": "Yareli Prime Neuroptics Blueprint",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": ""
           },
           {
             "location": "Lith Y1 Relic (Flawless)",

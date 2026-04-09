@@ -15866,6 +15866,26 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageVorunaPrimeBright",
+    "name": "Voruna Prime Glyph - Bright",
+    "description": "A glyph depicting Voruna Prime on a bright background.",
+    "type": "Glyph",
+    "imageName": "voruna-prime-glyph---bright-fd09e4a130.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageVorunaPrimeDark",
+    "name": "Voruna Prime Glyph - Dark",
+    "description": "A glyph depicting Voruna Prime on a dark background.",
+    "type": "Glyph",
+    "imageName": "voruna-prime-glyph---dark-c43cd3b9f4.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCreatorVVhiteAngel",
     "name": "Vvhite Angel Glyph",
     "description": "A Glyph for your profile.",

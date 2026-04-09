@@ -12373,7 +12373,7 @@
     "masteryReq": 17,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.69999999,
+    "omegaAttenuation": 0.75,
     "maxLevelCap": 40,
     "blockingAngle": 50,
     "comboDuration": 5,
@@ -12519,7 +12519,7 @@
     "masteryReq": 17,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.64999998,
+    "omegaAttenuation": 0.69999999,
     "maxLevelCap": 40,
     "blockingAngle": 55,
     "comboDuration": 5,
@@ -12618,6 +12618,7 @@
       "Technocyte Coda"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/CodaMire.png?2ea1f",
     "wikiaUrl": "https://wiki.warframe.com/w/Coda_Mire",
     "introduced": {
       "name": "Update 38.5",
@@ -12667,7 +12668,7 @@
     "masteryReq": 17,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.69999999,
+    "omegaAttenuation": 0.75,
     "maxLevelCap": 40,
     "blockingAngle": 50,
     "comboDuration": 5,
@@ -12768,6 +12769,7 @@
       "Infested"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/CodaMotovore.png?2ea1f",
     "wikiaUrl": "https://wiki.warframe.com/w/Coda_Motovore",
     "introduced": {
       "name": "Update 38.5",
@@ -12817,7 +12819,7 @@
     "masteryReq": 17,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.60000002,
+    "omegaAttenuation": 0.64999998,
     "maxLevelCap": 40,
     "blockingAngle": 55,
     "comboDuration": 5,
@@ -13015,6 +13017,7 @@
       "Infested"
     ],
     "stancePolarity": "naramon",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/CodaPathocyst.png?2ea1f",
     "wikiaUrl": "https://wiki.warframe.com/w/Coda_Pathocyst",
     "introduced": {
       "name": "Update 38.5",
@@ -13268,6 +13271,7 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Corufell.png?5fe41",
     "wikiaUrl": "https://wiki.warframe.com/w/Corufell",
     "introduced": {
       "name": "Update 32.3",
@@ -13540,6 +13544,7 @@
       "Grineer"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Cronus.png?b7485",
     "wikiaUrl": "https://wiki.warframe.com/w/Cronus",
     "introduced": {
       "name": "Vanilla",
@@ -17212,7 +17217,7 @@
     "masteryReq": 8,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 1,
+    "omegaAttenuation": 1.1,
     "blockingAngle": 55,
     "comboDuration": 5,
     "followThrough": 0.69999999,
@@ -17508,7 +17513,7 @@
     "masteryReq": 8,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 1.05,
+    "omegaAttenuation": 1.1,
     "blockingAngle": 60,
     "comboDuration": 5,
     "followThrough": 0.5,
@@ -22042,7 +22047,7 @@
     "masteryReq": 14,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.75,
+    "omegaAttenuation": 0.80000001,
     "blockingAngle": 60,
     "comboDuration": 5,
     "followThrough": 0.5,
@@ -22184,7 +22189,7 @@
       "parent": "38.0",
       "date": "2025-03-19"
     },
-    "disposition": 1,
+    "disposition": 2,
     "releaseDate": "2025-03-19",
     "isPrime": false,
     "masterable": true
@@ -22490,7 +22495,7 @@
     "masteryReq": 13,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.85000002,
+    "omegaAttenuation": 0.89999998,
     "blockingAngle": 60,
     "comboDuration": 5,
     "followThrough": 0.5,
@@ -22520,11 +22525,25 @@
         "tradable": true,
         "drops": [
           {
+            "location": "Axi D6 Relic (Radiant)",
+            "type": "Dual Zoren Prime Blade",
+            "chance": 10,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Neo D9 Relic (Radiant)",
             "type": "Dual Zoren Prime Blade",
             "chance": 10,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLavosPrimeDBronze"
+          },
+          {
+            "location": "Axi D6 Relic",
+            "type": "Dual Zoren Prime Blade",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": ""
           },
           {
             "location": "Neo D9 Relic",
@@ -22534,11 +22553,25 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLavosPrimeDBronze"
           },
           {
+            "location": "Axi D6 Relic (Exceptional)",
+            "type": "Dual Zoren Prime Blade",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": ""
+          },
+          {
             "location": "Neo D9 Relic (Exceptional)",
             "type": "Dual Zoren Prime Blade",
             "chance": 4,
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLavosPrimeDBronze"
+          },
+          {
+            "location": "Axi D6 Relic (Flawless)",
+            "type": "Dual Zoren Prime Blade",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": ""
           },
           {
             "location": "Neo D9 Relic (Flawless)",
@@ -22577,6 +22610,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeDBronze"
           },
           {
+            "location": "Meso A10 Relic",
+            "type": "Dual Zoren Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso X1 Relic",
             "type": "Dual Zoren Prime Blueprint",
             "chance": 11,
@@ -22596,6 +22636,13 @@
             "chance": 13,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeDBronze"
+          },
+          {
+            "location": "Meso A10 Relic (Exceptional)",
+            "type": "Dual Zoren Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso X1 Relic (Exceptional)",
@@ -22619,6 +22666,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeDBronze"
           },
           {
+            "location": "Meso A10 Relic (Flawless)",
+            "type": "Dual Zoren Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso X1 Relic (Flawless)",
             "type": "Dual Zoren Prime Blueprint",
             "chance": 17,
@@ -22638,6 +22692,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeDBronze"
+          },
+          {
+            "location": "Meso A10 Relic (Radiant)",
+            "type": "Dual Zoren Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso X1 Relic (Radiant)",
@@ -22665,11 +22726,25 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeABronze"
           },
           {
+            "location": "Axi S20 Relic (Radiant)",
+            "type": "Dual Zoren Prime Handle",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith E2 Relic (Radiant)",
             "type": "Dual Zoren Prime Handle",
             "chance": 16.67,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeDBronze"
+          },
+          {
+            "location": "Meso D8 Relic (Radiant)",
+            "type": "Dual Zoren Prime Handle",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Neo T10 Relic (Radiant)",
@@ -22686,11 +22761,25 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeABronze"
           },
           {
+            "location": "Axi S20 Relic (Flawless)",
+            "type": "Dual Zoren Prime Handle",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith E2 Relic (Flawless)",
             "type": "Dual Zoren Prime Handle",
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeDBronze"
+          },
+          {
+            "location": "Meso D8 Relic (Flawless)",
+            "type": "Dual Zoren Prime Handle",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Neo T10 Relic (Flawless)",
@@ -22707,11 +22796,25 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeABronze"
           },
           {
+            "location": "Axi S20 Relic (Exceptional)",
+            "type": "Dual Zoren Prime Handle",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith E2 Relic (Exceptional)",
             "type": "Dual Zoren Prime Handle",
             "chance": 23.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeDBronze"
+          },
+          {
+            "location": "Meso D8 Relic (Exceptional)",
+            "type": "Dual Zoren Prime Handle",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Neo T10 Relic (Exceptional)",
@@ -22728,11 +22831,25 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeABronze"
           },
           {
+            "location": "Axi S20 Relic",
+            "type": "Dual Zoren Prime Handle",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith E2 Relic",
             "type": "Dual Zoren Prime Handle",
             "chance": 25.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeDBronze"
+          },
+          {
+            "location": "Meso D8 Relic",
+            "type": "Dual Zoren Prime Handle",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Neo T10 Relic",
@@ -22841,7 +22958,7 @@
       "parent": "38.0",
       "date": "2025-02-12"
     },
-    "disposition": 2,
+    "disposition": 3,
     "releaseDate": "2025-02-12",
     "isPrime": false,
     "vaulted": false,
@@ -26007,6 +26124,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionWukongPrimeABronze"
           },
           {
+            "location": "Neo S20 Relic (Radiant)",
+            "type": "Fang Prime Blade",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Neo S7 Relic (Radiant)",
             "type": "Fang Prime Blade",
             "chance": 16.67,
@@ -26299,6 +26423,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionWukongPrimeABronze"
+          },
+          {
+            "location": "Neo S20 Relic (Flawless)",
+            "type": "Fang Prime Blade",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Neo S7 Relic (Flawless)",
@@ -26595,6 +26726,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionWukongPrimeABronze"
           },
           {
+            "location": "Neo S20 Relic (Exceptional)",
+            "type": "Fang Prime Blade",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Neo S7 Relic (Exceptional)",
             "type": "Fang Prime Blade",
             "chance": 23.33,
@@ -26889,6 +27027,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionWukongPrimeABronze"
           },
           {
+            "location": "Neo S20 Relic",
+            "type": "Fang Prime Blade",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Neo S7 Relic",
             "type": "Fang Prime Blade",
             "chance": 25.33,
@@ -26986,6 +27131,13 @@
             "chance": 16.67,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeABronze"
+          },
+          {
+            "location": "Axi V14 Relic (Radiant)",
+            "type": "Fang Prime Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Axi Y1 Relic (Radiant)",
@@ -27282,6 +27434,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeABronze"
           },
           {
+            "location": "Axi V14 Relic (Flawless)",
+            "type": "Fang Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi Y1 Relic (Flawless)",
             "type": "Fang Prime Blueprint",
             "chance": 20,
@@ -27576,6 +27735,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeABronze"
           },
           {
+            "location": "Axi V14 Relic (Exceptional)",
+            "type": "Fang Prime Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi Y1 Relic (Exceptional)",
             "type": "Fang Prime Blueprint",
             "chance": 23.33,
@@ -27847,6 +28013,13 @@
             "chance": 25.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeABronze"
+          },
+          {
+            "location": "Axi V14 Relic",
+            "type": "Fang Prime Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Axi Y1 Relic",
@@ -31117,7 +31290,7 @@
     "masteryReq": 14,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.64999998,
     "blockingAngle": 60,
     "comboDuration": 5,
     "followThrough": 0.60000002,
@@ -40965,7 +41138,7 @@
     "masteryReq": 7,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 1.1,
+    "omegaAttenuation": 1.15,
     "blockingAngle": 50,
     "comboDuration": 5,
     "followThrough": 0.89999998,
@@ -41392,7 +41565,7 @@
       "parent": "19.5",
       "date": "2016-12-22"
     },
-    "disposition": 3,
+    "disposition": 4,
     "releaseDate": "2016-12-22",
     "isPrime": false,
     "masterable": true
@@ -45301,11 +45474,25 @@
         "tradable": true,
         "drops": [
           {
+            "location": "Lith C14 Relic (Radiant)",
+            "type": "Kestrel Prime Blade",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith D7 Relic (Radiant)",
             "type": "Kestrel Prime Blade",
             "chance": 16.67,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeABronze"
+          },
+          {
+            "location": "Lith C14 Relic (Flawless)",
+            "type": "Kestrel Prime Blade",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Lith D7 Relic (Flawless)",
@@ -45315,11 +45502,25 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeABronze"
           },
           {
+            "location": "Lith C14 Relic (Exceptional)",
+            "type": "Kestrel Prime Blade",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith D7 Relic (Exceptional)",
             "type": "Kestrel Prime Blade",
             "chance": 23.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeABronze"
+          },
+          {
+            "location": "Lith C14 Relic",
+            "type": "Kestrel Prime Blade",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Lith D7 Relic",
@@ -45351,11 +45552,25 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeBBronze"
           },
           {
+            "location": "Neo N24 Relic",
+            "type": "Kestrel Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso P17 Relic (Exceptional)",
             "type": "Kestrel Prime Blueprint",
             "chance": 13,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeBBronze"
+          },
+          {
+            "location": "Neo N24 Relic (Exceptional)",
+            "type": "Kestrel Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso P17 Relic (Flawless)",
@@ -45365,11 +45580,25 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeBBronze"
           },
           {
+            "location": "Neo N24 Relic (Flawless)",
+            "type": "Kestrel Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso P17 Relic (Radiant)",
             "type": "Kestrel Prime Blueprint",
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeBBronze"
+          },
+          {
+            "location": "Neo N24 Relic (Radiant)",
+            "type": "Kestrel Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           }
         ]
       },
@@ -60111,8 +60340,9 @@
     "disposition": 1,
     "releaseDate": "2024-05-01",
     "isPrime": false,
-    "vaulted": false,
-    "estimatedVaultDate": "2026-02-01",
+    "vaulted": true,
+    "vaultDate": "2026-04-08",
+    "estimatedVaultDate": "2026-04-08",
     "masterable": true
   },
   {
@@ -60149,7 +60379,7 @@
     "masteryReq": 0,
     "productCategory": "Pistols",
     "excludeFromCodex": true,
-    "omegaAttenuation": 1.25,
+    "omegaAttenuation": 1.3,
     "type": "Zaw Component",
     "imageName": "ooltha-fbca7e140b.png",
     "category": "Melee",
@@ -60217,7 +60447,7 @@
     "fireRate": 0,
     "masteryReq": 0,
     "productCategory": "Pistols",
-    "omegaAttenuation": 1.25,
+    "omegaAttenuation": 1.3,
     "buildPrice": 5000,
     "buildTime": 3600,
     "skipBuildTimePrice": 25,
@@ -60812,6 +61042,13 @@
         "tradable": true,
         "drops": [
           {
+            "location": "Axi D6 Relic",
+            "type": "Orthos Prime Blade",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi T10 Relic",
             "type": "Orthos Prime Blade",
             "chance": 11,
@@ -60908,6 +61145,13 @@
             "chance": 11,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeBBronze"
+          },
+          {
+            "location": "Axi D6 Relic (Exceptional)",
+            "type": "Orthos Prime Blade",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Axi T10 Relic (Exceptional)",
@@ -61008,6 +61252,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeBBronze"
           },
           {
+            "location": "Axi D6 Relic (Flawless)",
+            "type": "Orthos Prime Blade",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi T10 Relic (Flawless)",
             "type": "Orthos Prime Blade",
             "chance": 17,
@@ -61104,6 +61355,13 @@
             "chance": 17,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeBBronze"
+          },
+          {
+            "location": "Axi D6 Relic (Radiant)",
+            "type": "Orthos Prime Blade",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Axi T10 Relic (Radiant)",
@@ -61254,6 +61512,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionWukongPrimeCBronze"
           },
           {
+            "location": "Axi S20 Relic",
+            "type": "Orthos Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi V3 Relic",
             "type": "Orthos Prime Blueprint",
             "chance": 11,
@@ -61378,6 +61643,13 @@
             "chance": 13,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionWukongPrimeCBronze"
+          },
+          {
+            "location": "Axi S20 Relic (Exceptional)",
+            "type": "Orthos Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Axi V3 Relic (Exceptional)",
@@ -61506,6 +61778,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionWukongPrimeCBronze"
           },
           {
+            "location": "Axi S20 Relic (Flawless)",
+            "type": "Orthos Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi V3 Relic (Flawless)",
             "type": "Orthos Prime Blueprint",
             "chance": 17,
@@ -61630,6 +61909,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionWukongPrimeCBronze"
+          },
+          {
+            "location": "Axi S20 Relic (Radiant)",
+            "type": "Orthos Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Axi V3 Relic (Radiant)",
@@ -61837,6 +62123,13 @@
             "chance": 16.67,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionMesaPrimeCBronze"
+          },
+          {
+            "location": "Meso A10 Relic (Radiant)",
+            "type": "Orthos Prime Handle",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso B1 Relic (Radiant)",
@@ -62070,6 +62363,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionMesaPrimeCBronze"
           },
           {
+            "location": "Meso A10 Relic (Flawless)",
+            "type": "Orthos Prime Handle",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso B1 Relic (Flawless)",
             "type": "Orthos Prime Handle",
             "chance": 20,
@@ -62301,6 +62601,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionMesaPrimeCBronze"
           },
           {
+            "location": "Meso A10 Relic (Exceptional)",
+            "type": "Orthos Prime Handle",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso B1 Relic (Exceptional)",
             "type": "Orthos Prime Handle",
             "chance": 23.33,
@@ -62530,6 +62837,13 @@
             "chance": 25.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionMesaPrimeCBronze"
+          },
+          {
+            "location": "Meso A10 Relic",
+            "type": "Orthos Prime Handle",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso B1 Relic",
@@ -64817,7 +65131,7 @@
     "masteryReq": 9,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 1.3,
+    "omegaAttenuation": 1.35,
     "blockingAngle": 55,
     "comboDuration": 5,
     "followThrough": 0.69999999,
@@ -65135,7 +65449,7 @@
       "parent": "25.7",
       "date": "2019-09-26"
     },
-    "disposition": 4,
+    "disposition": 5,
     "releaseDate": "2019-09-26",
     "isPrime": false,
     "masterable": true
@@ -65773,7 +66087,7 @@
     "fireRate": 0,
     "masteryReq": 0,
     "productCategory": "Pistols",
-    "omegaAttenuation": 0.80000001,
+    "omegaAttenuation": 0.85000002,
     "buildPrice": 5000,
     "buildTime": 3600,
     "skipBuildTimePrice": 25,
@@ -65932,7 +66246,7 @@
     "masteryReq": 0,
     "productCategory": "Pistols",
     "excludeFromCodex": true,
-    "omegaAttenuation": 0.80000001,
+    "omegaAttenuation": 0.85000002,
     "type": "Zaw Component",
     "imageName": "plague-keewar-b1263abc39.png",
     "category": "Melee",
@@ -68846,6 +69160,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze"
           },
           {
+            "location": "Meso L4 Relic",
+            "type": "Quassus Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Neo A15 Relic",
             "type": "Quassus Prime Blueprint",
             "chance": 11,
@@ -68872,6 +69193,13 @@
             "chance": 13,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze"
+          },
+          {
+            "location": "Meso L4 Relic (Exceptional)",
+            "type": "Quassus Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Neo A15 Relic (Exceptional)",
@@ -68902,6 +69230,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze"
           },
           {
+            "location": "Meso L4 Relic (Flawless)",
+            "type": "Quassus Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Neo A15 Relic (Flawless)",
             "type": "Quassus Prime Blueprint",
             "chance": 17,
@@ -68928,6 +69263,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze"
+          },
+          {
+            "location": "Meso L4 Relic (Radiant)",
+            "type": "Quassus Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Neo A15 Relic (Radiant)",
@@ -68976,6 +69318,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGyrePrimeBBronze"
           },
           {
+            "location": "Axi Y3 Relic (Radiant)",
+            "type": "Quassus Prime Handle",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso A8 Relic (Radiant)",
             "type": "Quassus Prime Handle",
             "chance": 16.67,
@@ -69009,6 +69358,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGyrePrimeBBronze"
+          },
+          {
+            "location": "Axi Y3 Relic (Flawless)",
+            "type": "Quassus Prime Handle",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso A8 Relic (Flawless)",
@@ -69046,6 +69402,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGyrePrimeBBronze"
           },
           {
+            "location": "Axi Y3 Relic (Exceptional)",
+            "type": "Quassus Prime Handle",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso A8 Relic (Exceptional)",
             "type": "Quassus Prime Handle",
             "chance": 23.33,
@@ -69079,6 +69442,13 @@
             "chance": 25.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGyrePrimeBBronze"
+          },
+          {
+            "location": "Axi Y3 Relic",
+            "type": "Quassus Prime Handle",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso A8 Relic",
@@ -73491,7 +73861,7 @@
     "masteryReq": 8,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 1.1,
+    "omegaAttenuation": 1.15,
     "blockingAngle": 55,
     "comboDuration": 5,
     "followThrough": 0.60000002,
@@ -73695,9 +74065,298 @@
       "parent": "32.0",
       "date": "2022-11-30"
     },
-    "disposition": 3,
+    "disposition": 4,
     "releaseDate": "2022-11-30",
     "isPrime": false,
+    "masterable": true
+  },
+  {
+    "name": "Sarofang Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Melee/Axe/PrimeVorunaAxeWeapon",
+    "damagePerShot": [
+      66,
+      8.8000002,
+      145.2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "totalDamage": 220,
+    "description": "Voruna Prime's signature axe is adorned with Orokin gold. She personally ensured that the former owners would have no further use for it.",
+    "criticalChance": 0.30000001,
+    "criticalMultiplier": 3,
+    "procChance": 0.30000001,
+    "fireRate": 1.1666667,
+    "masteryReq": 16,
+    "productCategory": "Melee",
+    "slot": 5,
+    "omegaAttenuation": 0.5,
+    "blockingAngle": 55,
+    "comboDuration": 5,
+    "followThrough": 0.60000002,
+    "range": 2.5999999,
+    "slamAttack": 660,
+    "slamRadialDamage": 440,
+    "slamRadius": 8,
+    "slideAttack": 440,
+    "heavyAttackDamage": 1320,
+    "heavySlamAttack": 1100,
+    "heavySlamRadialDamage": 660,
+    "heavySlamRadius": 9,
+    "windUp": 1.1,
+    "buildPrice": 15000,
+    "buildTime": 43200,
+    "skipBuildTimePrice": 50,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SarofangPrimeBlade",
+        "name": "Blade",
+        "description": "A prime weapon-crafting component.",
+        "primeSellingPrice": 100,
+        "itemCount": 1,
+        "imageName": "prime-blade.png",
+        "tradable": true,
+        "drops": [
+          {
+            "location": "Axi S20 Relic (Radiant)",
+            "type": "Sarofang Prime Blade",
+            "chance": 10,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Axi S20 Relic",
+            "type": "Sarofang Prime Blade",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": ""
+          },
+          {
+            "location": "Axi S20 Relic (Exceptional)",
+            "type": "Sarofang Prime Blade",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": ""
+          },
+          {
+            "location": "Axi S20 Relic (Flawless)",
+            "type": "Sarofang Prime Blade",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": ""
+          }
+        ],
+        "masterable": false,
+        "ducats": 100
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/SarofangPrimeBlueprint",
+        "name": "Blueprint",
+        "description": "Voruna Prime's signature axe is adorned with Orokin gold. She personally ensured that the former owners would have no further use for it.",
+        "itemCount": 1,
+        "primeSellingPrice": 45,
+        "imageName": "blueprint.png",
+        "tradable": true,
+        "masterable": false,
+        "ducats": 45,
+        "drops": [
+          {
+            "location": "Meso E7 Relic",
+            "type": "Sarofang Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Meso E7 Relic (Exceptional)",
+            "type": "Sarofang Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Meso E7 Relic (Flawless)",
+            "type": "Sarofang Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Meso E7 Relic (Radiant)",
+            "type": "Sarofang Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          }
+        ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SarofangPrimeHandle",
+        "name": "Handle",
+        "description": "A prime weapon-crafting component.",
+        "primeSellingPrice": 15,
+        "itemCount": 1,
+        "imageName": "prime-handle.png",
+        "tradable": true,
+        "drops": [
+          {
+            "location": "Neo S20 Relic (Radiant)",
+            "type": "Sarofang Prime Handle",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Neo S20 Relic (Flawless)",
+            "type": "Sarofang Prime Handle",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Neo S20 Relic (Exceptional)",
+            "type": "Sarofang Prime Handle",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Neo S20 Relic",
+            "type": "Sarofang Prime Handle",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          }
+        ],
+        "masterable": false,
+        "ducats": 15
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
+        "itemCount": 15,
+        "imageName": "orokin-cell-0d237af036.png",
+        "tradable": false,
+        "drops": [],
+        "masterable": false,
+        "type": "Resource"
+      }
+    ],
+    "type": "Melee",
+    "damage": {
+      "total": 220,
+      "impact": 66,
+      "puncture": 145.2,
+      "slash": 8.8000002,
+      "heat": 0,
+      "cold": 0,
+      "electricity": 0,
+      "toxin": 0,
+      "blast": 0,
+      "radiation": 0,
+      "gas": 0,
+      "magnetic": 0,
+      "viral": 0,
+      "corrosive": 0,
+      "void": 0,
+      "tau": 0,
+      "cinematic": 0,
+      "shieldDrain": 0,
+      "healthDrain": 0,
+      "energyDrain": 0,
+      "true": 0
+    },
+    "imageName": "sarofang-prime-cab6a3b1c3.png",
+    "category": "Melee",
+    "tradable": false,
+    "wikiAvailable": true,
+    "attacks": [
+      {
+        "name": "Normal Attack",
+        "speed": 1.17,
+        "crit_chance": 30,
+        "crit_mult": 3,
+        "status_chance": 30,
+        "damage": {
+          "impact": 66,
+          "slash": 145.2,
+          "puncture": 8.8
+        },
+        "slide": "440"
+      },
+      {
+        "name": "Slam Attack",
+        "speed": 1.17,
+        "crit_chance": 30,
+        "crit_mult": 3,
+        "status_chance": 10,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 8,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 440
+        }
+      },
+      {
+        "name": "Heavy Slam Attack",
+        "speed": 1.17,
+        "crit_chance": 30,
+        "crit_mult": 3,
+        "status_chance": 10,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 9,
+          "reduction": 0.3
+        },
+        "damage": {
+          "blast": 660
+        }
+      }
+    ],
+    "polarities": [
+      "madurai"
+    ],
+    "tags": [
+      "Tenno"
+    ],
+    "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SarofangPrime.png?a466a",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sarofang_Prime",
+    "introduced": {
+      "name": "Hotfix 42.0.6",
+      "url": "https://wiki.warframe.com/w/Update_42%23Hotfix_42.0.6",
+      "aliases": [
+        "42.0.6"
+      ],
+      "parent": "42.0",
+      "date": "2026-04-08"
+    },
+    "disposition": 1,
+    "releaseDate": "2026-04-08",
+    "isPrime": false,
+    "vaulted": false,
+    "estimatedVaultDate": "2028-01-08",
     "masterable": true
   },
   {
@@ -84741,7 +85400,7 @@
     "masteryReq": 14,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.89999998,
+    "omegaAttenuation": 0.94999999,
     "maxLevelCap": 40,
     "blockingAngle": 90,
     "comboDuration": 5,
@@ -89204,6 +89863,7 @@
       "Grineer"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Vastilok.png?fdf3e",
     "wikiaUrl": "https://wiki.warframe.com/w/Vastilok",
     "introduced": {
       "name": "Hotfix 30.5.4",
@@ -89391,6 +90051,7 @@
       "Steel Meridian"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/VaykorSydon.png?1524e",
     "wikiaUrl": "https://wiki.warframe.com/w/Vaykor_Sydon",
     "introduced": {
       "name": "Update: The Silver Grove 2.0",
@@ -89604,6 +90265,7 @@
       "Sentient"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Venato.png?56f40",
     "wikiaUrl": "https://wiki.warframe.com/w/Venato",
     "introduced": {
       "name": "Update 31.0",
@@ -89837,6 +90499,20 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeBBronze"
           },
           {
+            "location": "Meso V15 Relic (Radiant)",
+            "type": "Venato Prime Handle",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Neo N24 Relic (Radiant)",
+            "type": "Venato Prime Handle",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso G9 Relic (Flawless)",
             "type": "Venato Prime Handle",
             "chance": 20,
@@ -89849,6 +90525,20 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeBBronze"
+          },
+          {
+            "location": "Meso V15 Relic (Flawless)",
+            "type": "Venato Prime Handle",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Neo N24 Relic (Flawless)",
+            "type": "Venato Prime Handle",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso G9 Relic (Exceptional)",
@@ -89865,6 +90555,20 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeBBronze"
           },
           {
+            "location": "Meso V15 Relic (Exceptional)",
+            "type": "Venato Prime Handle",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Neo N24 Relic (Exceptional)",
+            "type": "Venato Prime Handle",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso G9 Relic",
             "type": "Venato Prime Handle",
             "chance": 25.33,
@@ -89877,6 +90581,20 @@
             "chance": 25.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeBBronze"
+          },
+          {
+            "location": "Meso V15 Relic",
+            "type": "Venato Prime Handle",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
+            "location": "Neo N24 Relic",
+            "type": "Venato Prime Handle",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           }
         ],
         "masterable": false,
@@ -89978,6 +90696,7 @@
       "Prime"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/VenatoPrime.png?eb0e1",
     "wikiaUrl": "https://wiki.warframe.com/w/Venato_Prime",
     "introduced": {
       "name": "Update 39.1",
@@ -93385,7 +94104,7 @@
         "date": "2022-06-09T14:49:52Z",
         "url": "https://forums.warframe.com/topic/1313506-echoes-of-the-zariman-update-316/",
         "additions": "We wanted to add an investment path towards earning the Refacia Kit for a couple key reasons: 1) prevent new player confusion who have yet to reach that level of lore within Warframe, and 2) having a cosmetic to strive for in the later game.\nWe understand that the artificial colors given are on the subdued side compared to the Infested Palette hot pink and neon green. Our desire is to take the enjoyed bug and turn it into a lore-driven feature that fits within the ecosystem of Warframe for all to enjoy!",
-        "changes": "Updated the Anti-Warframe field (Exolizers in Void Cascade and Kuva Trokarian’s Anti-Warframe Grenades) to no longer nullify Warframe abilities on forced Transference. As mentioned in the Hotfix 31.5.10 notes.\nFixed being unable to use the Melee button to Transference back into Warframe if the ‘Use Abilities on Selection’ option is disabled. \nFixed Warframe animations appearing while customizing the Operator.\nFixed bug where \"player was revived\" message would show in the HUD when a player with a pet equipped activated Last Gasp. Also fixed \"Player is down\" message also showing when being forced back to downed Warframe.\nThere are 7 possible temporary 45 second buffs that apply to both Warframe and Operator (buffs persist between Transference):\nFixed Thrax Legatus enemies being able to inflict Magnetic Status procs on Warframes with a Rank 5 Arcane Nullifier equipped (102% chance to resist Magnetic Status Effects entirely).\nFixed certain Warframes (notably while using Yareli’s Merulina and Sevagoth’s Exalted Shadow) losing functionality and getting stuck in t-pose after entering the Void Cascade Exolizer anti-Warframe bubbles. \nFixed being able to escape Void Angel ground spikes by transferring back to Warframe immediately after being impaled as Client. \nScorpions, Ancients, and Tusk Predators have had their grappling hook mechanic reworked! An age-old enemy mechanic from the early beginnings of Warframe, they’ve been grappling Tenno left and right for years \nFixed significant loading times after the end of Teshin’s mission in The New War. \nReduced the length of the Grendel Chassis Locator Defense mission from 15 waves to 10 waves. As reported here: https://www.reddit.com/r/Warframe/comments/uigpd9/grendel_missions_impossible_now_with_eximus_rework/i7fk209/?utm_source=share&utm_medium=web2x&co\nDisabled Archwing Blink during the detection beams stage in the War Within quest. \nUpdated lighting in the post-New War Orb Vallis. \nChanged all category names in the Inventory to be plural (Warframes, Prime Parts, etc.). ",
+        "changes": "Updated the Anti-Warframe field (Exolizers in Void Cascade and Kuva Trokarian’s Anti-Warframe Grenades) to no longer nullify Warframe abilities on forced Transference. As mentioned in the Hotfix 31.5.10 notes.\nFixed being unable to use the Melee button to Transference back into Warframe if the ‘Use Abilities on Selection’ option is disabled. \nFixed Warframe animations appearing while customizing the Operator.\nFixed bug where \"player was revived\" message would show in the HUD when a player with a pet equipped activated Last Gasp. Also fixed \"Player is down\" message also showing when being forced back to downed Warframe.\nThere are 7 possible temporary 45 second buffs that apply to both Warframe and Operator (buffs persist between Transference):\nFixed Thrax Legatus enemies being able to inflict Magnetic Status procs on Warframes with a Rank 5 Arcane Nullifier equipped (102% chance to resist Magnetic Status Effects entirely).\nFixed certain Warframes (notably while using Yareli’s Merulina and Sevagoth’s Exalted Shadow) losing functionality and getting stuck in t-pose after entering the Void Cascade Exolizer anti-Warframe bubbles. \nFixed being able to escape Void Angel ground spikes by transferring back to Warframe immediately after being impaled as Client. \nScorpions, Ancients, and Tusk Predators have had their grappling hook mechanic reworked! An age-old enemy mechanic from the early beginnings of Warframe, they���ve been grappling Tenno left and right for years \nFixed significant loading times after the end of Teshin’s mission in The New War. \nReduced the length of the Grendel Chassis Locator Defense mission from 15 waves to 10 waves. As reported here: https://www.reddit.com/r/Warframe/comments/uigpd9/grendel_missions_impossible_now_with_eximus_rework/i7fk209/?utm_source=share&utm_medium=web2x&co\nDisabled Archwing Blink during the detection beams stage in the War Within quest. \nUpdated lighting in the post-New War Orb Vallis. \nChanged all category names in the Inventory to be plural (Warframes, Prime Parts, etc.). ",
         "fixes": "Fixed a spoiler character appearing in the final scenes of the War Within and The Sacrifice, causing issues in the cinematics. \nFixed Wukong’s Celestial Twin having the original player loadout instead of just the Paracesis in the final stages of The New War quest. \nFixed frame rate dependent camera shake during the final stage of The New War quest. \nFixed difficulty passing the stage in The War Within mountain pass after the Maw due to Void Blast’s removal. \nFixed Dormizone Warframe display loadout not updating when changed while visiting as Client.\nFixed issue where Client could see Host with duplicate Operator and Warframe after entering Dormizone from Chrysalith.\nFixed the rending of Trees in the background of the Spoiler Camp in The New War Quest during ‘The Aftermath.’ \nFixed map hole in The War Within that was made accessible with Void Sling during the mission Return to the Mountain Pass: Earth. \nFixed the Kestrel’s boomerang sound not stopping if using a Warframe ability during melee attacks. \nFixed the Golden Maws in the War Within quest not detecting Operator in most of the area they are traversing. \nIf you have accidentally purchased the Dormizone Vista Suite Key multiple times, please contact Warframe Support and they will help rectify your standing. \nFixed script error when being detected by lasers in The War Within. \nFixed the description for The New War Firepower Pack overlapping with other UI elements. \nFixed being unable to progress past the turret segment in the For My Brothers stage of The New War quest due to no Sentients spawning.\nFixed crash related to the Mercy kills on Deacon enemies in The New War quest. \nFixed script error when falling out of bounds in The War Within quest. \nNow: Switch to Warframe's original analog stick deadzone mapping."
       },
       {

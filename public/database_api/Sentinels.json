@@ -4681,6 +4681,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionSevagothPrimeABronze"
           },
           {
+            "location": "Neo N24 Relic (Radiant)",
+            "type": "Nautilus Prime Blueprint",
+            "chance": 10,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith N17 Relic",
             "type": "Nautilus Prime Blueprint",
             "chance": 2,
@@ -4700,6 +4707,13 @@
             "chance": 2,
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionSevagothPrimeABronze"
+          },
+          {
+            "location": "Neo N24 Relic",
+            "type": "Nautilus Prime Blueprint",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": ""
           },
           {
             "location": "Lith N17 Relic (Exceptional)",
@@ -4723,6 +4737,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionSevagothPrimeABronze"
           },
           {
+            "location": "Neo N24 Relic (Exceptional)",
+            "type": "Nautilus Prime Blueprint",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": ""
+          },
+          {
             "location": "Lith N17 Relic (Flawless)",
             "type": "Nautilus Prime Blueprint",
             "chance": 6,
@@ -4742,6 +4763,13 @@
             "chance": 6,
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionSevagothPrimeABronze"
+          },
+          {
+            "location": "Neo N24 Relic (Flawless)",
+            "type": "Nautilus Prime Blueprint",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": ""
           }
         ]
       },
@@ -4790,6 +4818,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze"
           },
           {
+            "location": "Neo P10 Relic (Radiant)",
+            "type": "Nautilus Prime Carapace",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Neo W2 Relic (Radiant)",
             "type": "Nautilus Prime Carapace",
             "chance": 16.67,
@@ -4830,6 +4865,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze"
+          },
+          {
+            "location": "Neo P10 Relic (Flawless)",
+            "type": "Nautilus Prime Carapace",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Neo W2 Relic (Flawless)",
@@ -4874,6 +4916,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze"
           },
           {
+            "location": "Neo P10 Relic (Exceptional)",
+            "type": "Nautilus Prime Carapace",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Neo W2 Relic (Exceptional)",
             "type": "Nautilus Prime Carapace",
             "chance": 23.33,
@@ -4914,6 +4963,13 @@
             "chance": 25.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze"
+          },
+          {
+            "location": "Neo P10 Relic",
+            "type": "Nautilus Prime Carapace",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Neo W2 Relic",
@@ -4957,6 +5013,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeBBronze"
           },
           {
+            "location": "Lith N19 Relic (Radiant)",
+            "type": "Nautilus Prime Cerebrum",
+            "chance": 10,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi N13 Relic",
             "type": "Nautilus Prime Cerebrum",
             "chance": 2,
@@ -4976,6 +5039,13 @@
             "chance": 2,
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeBBronze"
+          },
+          {
+            "location": "Lith N19 Relic",
+            "type": "Nautilus Prime Cerebrum",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": ""
           },
           {
             "location": "Axi N13 Relic (Exceptional)",
@@ -4999,6 +5069,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeBBronze"
           },
           {
+            "location": "Lith N19 Relic (Exceptional)",
+            "type": "Nautilus Prime Cerebrum",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": ""
+          },
+          {
             "location": "Axi N13 Relic (Flawless)",
             "type": "Nautilus Prime Cerebrum",
             "chance": 6,
@@ -5018,6 +5095,13 @@
             "chance": 6,
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeBBronze"
+          },
+          {
+            "location": "Lith N19 Relic (Flawless)",
+            "type": "Nautilus Prime Cerebrum",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": ""
           }
         ],
         "masterable": false,
@@ -5065,6 +5149,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionYareliPrimeDBronze"
           },
           {
+            "location": "Meso A10 Relic",
+            "type": "Nautilus Prime Systems",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso V11 Relic",
             "type": "Nautilus Prime Systems",
             "chance": 11,
@@ -5098,6 +5189,13 @@
             "chance": 13,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionYareliPrimeDBronze"
+          },
+          {
+            "location": "Meso A10 Relic (Exceptional)",
+            "type": "Nautilus Prime Systems",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso V11 Relic (Exceptional)",
@@ -5135,6 +5233,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionYareliPrimeDBronze"
           },
           {
+            "location": "Meso A10 Relic (Flawless)",
+            "type": "Nautilus Prime Systems",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": ""
+          },
+          {
             "location": "Meso V11 Relic (Flawless)",
             "type": "Nautilus Prime Systems",
             "chance": 17,
@@ -5168,6 +5273,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionYareliPrimeDBronze"
+          },
+          {
+            "location": "Meso A10 Relic (Radiant)",
+            "type": "Nautilus Prime Systems",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": ""
           },
           {
             "location": "Meso V11 Relic (Radiant)",

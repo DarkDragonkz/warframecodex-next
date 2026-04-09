@@ -363,7 +363,7 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
     "name": "Alloy Plate",
     "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
-    "itemCount": 1000,
+    "itemCount": 1700,
     "parents": [
       "Adrenal Stim",
       "Aegrit",
@@ -859,7 +859,7 @@
     "description": "Caliber Chicks 2 Original Soundtrack to enjoy from the Somachord in your Orbiter.",
     "showInInventory": false,
     "type": "Misc",
-    "imageName": "anna-ki-in-the-g.o.b.-07754218d1.png",
+    "imageName": "anna-ki-in-the-g.o.b-07754218d1.png",
     "category": "Misc",
     "tradable": false,
     "masterable": false
@@ -9099,7 +9099,7 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreBAlloyBItem",
     "name": "Coprite Alloy",
     "description": "Coprun that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
-    "itemCount": 100,
+    "itemCount": 40,
     "parents": [
       "Adlet Core",
       "Ceno Pauldrons",
@@ -9906,7 +9906,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishBPartItem",
     "name": "Cuthol Tendrils",
     "description": "Ostrons extract the toxin and apply it to their weapons when hunting animals.\n\nSource: Cut from Cuthol fish via Fisher Hai-Luk in Cetus (Earth). Catch Cuthol in Plains of Eidolon pond hotspots at Night. Also drops from Thumpers in the Plains of Eidolon.",
-    "itemCount": 5,
+    "itemCount": 2,
     "parents": [
       "Glappid Bait",
       "Granmu Prism",
@@ -28798,7 +28798,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
     "name": "Fish Oil",
     "description": "Used to create absolvents that purify gems.\n\nSource: Cut from all Plains of Eidolon Fish via Fisher Hai-Luk in Cetus (Earth).",
-    "itemCount": 10,
+    "itemCount": 20,
     "parents": [
       "Anspatha Brace",
       "Clapkra Brace",
@@ -29707,6 +29707,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Axi S20 Relic (Radiant)",
+        "type": "Forma Blueprint",
+        "chance": 16.67,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Axi S4 Relic (Radiant)",
         "type": "Forma Blueprint",
         "chance": 16.67,
@@ -29930,6 +29936,12 @@
       },
       {
         "location": "Lith C13 Relic (Radiant)",
+        "type": "Forma Blueprint",
+        "chance": 16.67,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Lith C14 Relic (Radiant)",
         "type": "Forma Blueprint",
         "chance": 16.67,
         "rarity": "Uncommon"
@@ -30433,6 +30445,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Meso A10 Relic (Radiant)",
+        "type": "Forma Blueprint",
+        "chance": 16.67,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Meso A11 Relic (Radiant)",
         "type": "Forma Blueprint",
         "chance": 16.67,
@@ -30560,6 +30578,12 @@
       },
       {
         "location": "Meso E6 Relic (Radiant)",
+        "type": "Forma Blueprint",
+        "chance": 16.67,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Meso E7 Relic (Radiant)",
         "type": "Forma Blueprint",
         "chance": 16.67,
         "rarity": "Uncommon"
@@ -31315,6 +31339,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Neo P10 Relic (Radiant)",
+        "type": "Forma Blueprint",
+        "chance": 16.67,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Neo P5 Relic (Radiant)",
         "type": "Forma Blueprint",
         "chance": 16.67,
@@ -31987,6 +32017,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Axi S20 Relic (Flawless)",
+        "type": "Forma Blueprint",
+        "chance": 20,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Axi S4 Relic (Flawless)",
         "type": "Forma Blueprint",
         "chance": 20,
@@ -32210,6 +32246,12 @@
       },
       {
         "location": "Lith C13 Relic (Flawless)",
+        "type": "Forma Blueprint",
+        "chance": 20,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Lith C14 Relic (Flawless)",
         "type": "Forma Blueprint",
         "chance": 20,
         "rarity": "Uncommon"
@@ -32713,6 +32755,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Meso A10 Relic (Flawless)",
+        "type": "Forma Blueprint",
+        "chance": 20,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Meso A11 Relic (Flawless)",
         "type": "Forma Blueprint",
         "chance": 20,
@@ -32840,6 +32888,12 @@
       },
       {
         "location": "Meso E6 Relic (Flawless)",
+        "type": "Forma Blueprint",
+        "chance": 20,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Meso E7 Relic (Flawless)",
         "type": "Forma Blueprint",
         "chance": 20,
         "rarity": "Uncommon"
@@ -33595,6 +33649,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Neo P10 Relic (Flawless)",
+        "type": "Forma Blueprint",
+        "chance": 20,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Neo P5 Relic (Flawless)",
         "type": "Forma Blueprint",
         "chance": 20,
@@ -34201,6 +34261,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Axi S20 Relic (Exceptional)",
+        "type": "Forma Blueprint",
+        "chance": 23.33,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Axi S4 Relic (Exceptional)",
         "type": "Forma Blueprint",
         "chance": 23.33,
@@ -34424,6 +34490,12 @@
       },
       {
         "location": "Lith C13 Relic (Exceptional)",
+        "type": "Forma Blueprint",
+        "chance": 23.33,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Lith C14 Relic (Exceptional)",
         "type": "Forma Blueprint",
         "chance": 23.33,
         "rarity": "Uncommon"
@@ -34927,6 +34999,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Meso A10 Relic (Exceptional)",
+        "type": "Forma Blueprint",
+        "chance": 23.33,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Meso A11 Relic (Exceptional)",
         "type": "Forma Blueprint",
         "chance": 23.33,
@@ -35054,6 +35132,12 @@
       },
       {
         "location": "Meso E6 Relic (Exceptional)",
+        "type": "Forma Blueprint",
+        "chance": 23.33,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Meso E7 Relic (Exceptional)",
         "type": "Forma Blueprint",
         "chance": 23.33,
         "rarity": "Uncommon"
@@ -35809,6 +35893,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Neo P10 Relic (Exceptional)",
+        "type": "Forma Blueprint",
+        "chance": 23.33,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Neo P5 Relic (Exceptional)",
         "type": "Forma Blueprint",
         "chance": 23.33,
@@ -36409,6 +36499,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Axi S20 Relic",
+        "type": "Forma Blueprint",
+        "chance": 25.33,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Axi S4 Relic",
         "type": "Forma Blueprint",
         "chance": 25.33,
@@ -36632,6 +36728,12 @@
       },
       {
         "location": "Lith C13 Relic",
+        "type": "Forma Blueprint",
+        "chance": 25.33,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Lith C14 Relic",
         "type": "Forma Blueprint",
         "chance": 25.33,
         "rarity": "Uncommon"
@@ -37135,6 +37237,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Meso A10 Relic",
+        "type": "Forma Blueprint",
+        "chance": 25.33,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Meso A11 Relic",
         "type": "Forma Blueprint",
         "chance": 25.33,
@@ -37262,6 +37370,12 @@
       },
       {
         "location": "Meso E6 Relic",
+        "type": "Forma Blueprint",
+        "chance": 25.33,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Meso E7 Relic",
         "type": "Forma Blueprint",
         "chance": 25.33,
         "rarity": "Uncommon"
@@ -38012,6 +38126,12 @@
       },
       {
         "location": "Neo O3 Relic",
+        "type": "Forma Blueprint",
+        "chance": 25.33,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Neo P10 Relic",
         "type": "Forma Blueprint",
         "chance": 25.33,
         "rarity": "Uncommon"
@@ -40564,7 +40684,7 @@
         "date": "2022-09-08T21:23:22Z",
         "url": "https://forums.warframe.com/topic/1321988-veilbreaker-hotfix-3202/",
         "additions": "",
-        "changes": "You must now have a Rank 30 (or Forma���d) Warframe equipped to access Archon Hunts.",
+        "changes": "You must now have a Rank 30 (or Forma’d) Warframe equipped to access Archon Hunts.",
         "fixes": ""
       },
       {
@@ -42196,7 +42316,7 @@
     "description": "Gauss Prime's signature theme music to enjoy from the Somachord in your Orbiter.",
     "showInInventory": false,
     "type": "Misc",
-    "imageName": "gauss-prime-theme\nredline-6371faeef1.png",
+    "imageName": "gauss-prime-themeredline-6371faeef1.png",
     "category": "Misc",
     "tradable": true,
     "masterable": false
@@ -42234,7 +42354,7 @@
     "fireRate": 0,
     "masteryReq": 0,
     "productCategory": "Pistols",
-    "omegaAttenuation": 0.94999999,
+    "omegaAttenuation": 1,
     "primeOmegaAttenuation": 1.1,
     "buildPrice": 5000,
     "buildTime": 3600,
@@ -53939,7 +54059,7 @@
     "description": "Caliber Chicks 2 Original Soundtrack to enjoy from the Somachord in your Orbiter.",
     "showInInventory": false,
     "type": "Misc",
-    "imageName": "i-wanna-be-your-g.o.b.-e5b3da1bb9.png",
+    "imageName": "i-wanna-be-your-g.o.b-e5b3da1bb9.png",
     "category": "Misc",
     "tradable": false,
     "masterable": false
@@ -55494,7 +55614,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishBPartItem",
     "name": "Karkina Antenna",
     "description": "Ground into a powder this substance can makes fires burn hotter for a brief amount of time.\n\nSource: Cut from Karkina fish via Fisher Hai-Luk in Cetus (Earth). Catch Karkina in the Plains of Eidolon ocean at any time of day using Twilight Bait. Also drops from Thumpers in the Plains of Eidolon.",
-    "itemCount": 3,
+    "itemCount": 20,
     "parents": [
       "Fosfor Blau",
       "Norg Bait",
@@ -65014,7 +65134,7 @@
         "date": "2020-05-01T13:21:46Z",
         "url": "https://forums.warframe.com/topic/1189247-warframe-revised-railjack-revisited-part-1-update-274/",
         "additions": "",
-        "changes": "The in-game Market has received a refreshed look with the addition of top level filters:\nYour chosen UI Theme is now reflected when viewing the in-game Market! \nNow that the Market uses Themes you can now see more details about items on hover and can Tab to see Weapon stats.\nMoved Market filters to be grouped with the search bar.\nAdded new starburst FX to the “Thank You for Your Purchase” screen in the in-game Market. Such pizazz!  \nAdded ‘Preview’ button (right-mouse click) to items in your Inventory that will take you to their page in the in-game Market.\nUpdated the Relic Pack Relic contents screen (when purchased in the in-game Market and from Syndicates) ",
+        "changes": "The in-game Market has received a refreshed look with the addition of top level filters:\nYour chosen UI Theme is now reflected when viewing the in-game Market!��\nNow that the Market uses Themes you can now see more details about items on hover and can Tab to see Weapon stats.\nMoved Market filters to be grouped with the search bar.\nAdded new starburst FX to the “Thank You for Your Purchase” screen in the in-game Market. Such pizazz!  \nAdded ‘Preview’ button (right-mouse click) to items in your Inventory that will take you to their page in the in-game Market.\nUpdated the Relic Pack Relic contents screen (when purchased in the in-game Market and from Syndicates) ",
         "fixes": "Improved hitch that would occur when opening the in-game Market. A spinner icon will now appear briefly instead when loading. \nFixed an issue with featured Market items cycling while viewing your profile with the in-game Market open. \nWe removed the ability to purchase them in the bundle to prevent this issue, but they can still be purchased individually in the in-game Market outside of the bundle. \nFixed the icons for the Braton Nocturne Skin and Kintsugi Skin missing its clip in the in-game Market and Arsenal."
       },
       {
@@ -68656,7 +68776,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothRareFishAPartItem",
     "name": "Murkray Liver",
     "description": "An ingredient used in Ostron cooking and medicine.\n\nSource: Cut from Murkray fish via Fisher Hai-Luk in Cetus (Earth). Catch Murkray in Plains of Eidolon ocean hotspots at any time of day using Murkray Bait. Also drops from Thumpers in the Plains of Eidolon.",
-    "itemCount": 5,
+    "itemCount": 2,
     "parents": [
       "Clapkra Brace",
       "Cuthol Bait",
@@ -68918,6 +69038,7 @@
       "Ether Daggers",
       "Excalibur Umbra",
       "Fang",
+      "Follie Sfumato Helmet",
       "Fomorian Disruptor",
       "Fulmin",
       "Furax",
@@ -68983,6 +69104,7 @@
       "Titan Extractor Prime",
       "Tysis",
       "Umbra Forma",
+      "Uriel Asmodion Helmet",
       "Vectis",
       "Viper",
       "Wolf Hood",
@@ -71386,6 +71508,7 @@
       "Corinth",
       "Dante Cantist Helmet",
       "Destreza",
+      "Follie Sfumato Helmet",
       "Frak Stabilizer",
       "Fusilai",
       "Gyre Automaton Helmet",
@@ -71419,6 +71542,7 @@
       "The Silver Grove",
       "Titania Aurai Helmet",
       "Titania Mab Helmet",
+      "Uriel Asmodion Helmet",
       "Vauban Prime",
       "Voruna Anukas Helmet",
       "Wanz Stabilizer",
@@ -72004,7 +72128,18 @@
     "description": "Used to purchase Nightwave's Cred Offerings. Nightwave Creds from past Series can be kept as souvenirs or sold for <CREDITS>Credits.",
     "excludeFromCodex": true,
     "type": "Misc",
-    "imageName": "nora's-mix\ndreams-of-the-dead-cred-892d64dc3c.png",
+    "imageName": "nora's-mixdreams-of-the-dead-cred-892d64dc3c.png",
+    "category": "Misc",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/NoraIntermissionFifteenCreds",
+    "name": "Nora's Mix: Time Tempests Cred",
+    "description": "Used to purchase Nightwave's Cred Offerings. Nightwave Creds from past Series can be kept as souvenirs or sold for <CREDITS>Credits.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "nora's-mix-time-tempests-cred-e11bb72b00.png",
     "category": "Misc",
     "tradable": false,
     "masterable": false
@@ -72024,7 +72159,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishAPartItem",
     "name": "Norg Brain",
     "description": "An Ostron delicacy.\n\nSource: Cut from Norg fish via Fisher Hai-Luk in Cetus (Earth). Catch Norg in the Plains of Eidolon lake at Night using Norg Bait. Also drops from Thumpers in the Plains of Eidolon.",
-    "itemCount": 3,
+    "itemCount": 2,
     "parents": [
       "Glappid Bait",
       "Juttni Brace",
@@ -75085,6 +75220,7 @@
       "Paracesis",
       "Pazza Sugatra",
       "Penta Shock-Camo Skin",
+      "Perigale Prime",
       "Phantasma Prime",
       "Plasma Sword",
       "Protea",
@@ -75102,6 +75238,7 @@
       "Riot-848",
       "Rubico Prime",
       "Sagek Prime",
+      "Sarofang Prime",
       "Saryn",
       "Saryn Prime",
       "Scindo Forest-Camo Skin",
@@ -75166,6 +75303,7 @@
       "Volnus Prime",
       "Volt",
       "Volt Prime",
+      "Voruna Prime",
       "Wisp",
       "Wisp Gaoth Helmet",
       "Wisp Prime",
@@ -77497,6 +77635,7 @@
       "Endura",
       "Evensong",
       "Fersteel Alloy",
+      "Follie Sfumato Helmet",
       "Force Specter",
       "Gammacor",
       "Gazal Machete",
@@ -77557,6 +77696,7 @@
       "Travocyte Alloy",
       "Trux Gyro",
       "Tysis",
+      "Uriel Asmodion Helmet",
       "Venka",
       "Vulkar",
       "Wukong Dasheng Helmet",
@@ -81161,8 +81301,7 @@
     "fireRate": 0,
     "masteryReq": 0,
     "productCategory": "Pistols",
-    "omegaAttenuation": 0.94999999,
-    "primeOmegaAttenuation": 1,
+    "omegaAttenuation": 1,
     "buildPrice": 5000,
     "buildTime": 3600,
     "skipBuildTimePrice": 25,
@@ -82531,6 +82670,7 @@
       "Ether Reaper",
       "Ether Sword",
       "Fersteel Alloy",
+      "Follie Sfumato Helmet",
       "Fragor",
       "Fragor Brokk Skin",
       "Fulmin",
@@ -82602,6 +82742,7 @@
       "Tigris",
       "Tonkor Desert-Camo Skin",
       "Twin Gremlins",
+      "Uriel Asmodion Helmet",
       "Vectis",
       "Venerdo Alloy",
       "Voruna Anukas Helmet",
@@ -86489,7 +86630,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishAPartItem",
     "name": "Sharrac Teeth",
     "description": "These will often adorn ceremonial garb or as a reagent for synthetics.\n\nSource: Cut from Sharrac fish via Fisher Hai-Luk in Cetus (Earth). Catch Sharrac in the Plains of Eidolon ocean at any time of day using Twilight Bait. Also drops from Thumpers in the Plains of Eidolon.",
-    "itemCount": 5,
+    "itemCount": 20,
     "parents": [
       "Ceno Pauldrons",
       "Fosfor Rahd",
@@ -87840,7 +87981,7 @@
     "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
     "excludeFromCodex": true,
     "type": "Captura",
-    "imageName": "solstice-square-stage-scene\n-c74cb2d81a.png",
+    "imageName": "solstice-square-stage-scene-c74cb2d81a.png",
     "category": "Misc",
     "tradable": true,
     "masterable": false
@@ -91490,6 +91631,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Neo P10 Relic",
+        "type": "Trumna Prime Stock",
+        "chance": 11,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Neo P3 Relic",
         "type": "Astilla Prime Stock",
         "chance": 11,
@@ -91934,6 +92081,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Neo P10 Relic (Exceptional)",
+        "type": "Trumna Prime Stock",
+        "chance": 13,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Neo P3 Relic (Exceptional)",
         "type": "Astilla Prime Stock",
         "chance": 13,
@@ -92002,6 +92155,12 @@
       {
         "location": "Axi B3 Relic (Radiant)",
         "type": "Stradavar Prime Stock",
+        "chance": 16.67,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Axi C11 Relic (Radiant)",
+        "type": "Perigale Prime Stock",
         "chance": 16.67,
         "rarity": "Uncommon"
       },
@@ -92186,6 +92345,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Lith N19 Relic (Radiant)",
+        "type": "Vadarya Prime Stock",
+        "chance": 16.67,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Lith N3 Relic (Radiant)",
         "type": "Sybaris Prime Stock",
         "chance": 16.67,
@@ -92312,6 +92477,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Meso E7 Relic (Radiant)",
+        "type": "Cedo Prime Stock",
+        "chance": 16.67,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Meso F2 Relic (Radiant)",
         "type": "Latron Prime Stock",
         "chance": 16.67,
@@ -92356,6 +92527,12 @@
       {
         "location": "Meso K3 Relic (Radiant)",
         "type": "Braton Prime Stock",
+        "chance": 16.67,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Meso L4 Relic (Radiant)",
+        "type": "Burston Prime Stock",
         "chance": 16.67,
         "rarity": "Uncommon"
       },
@@ -93074,6 +93251,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Neo P10 Relic (Flawless)",
+        "type": "Trumna Prime Stock",
+        "chance": 17,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Neo P3 Relic (Flawless)",
         "type": "Astilla Prime Stock",
         "chance": 17,
@@ -93340,6 +93523,12 @@
       {
         "location": "Axi B3 Relic (Flawless)",
         "type": "Stradavar Prime Stock",
+        "chance": 20,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Axi C11 Relic (Flawless)",
+        "type": "Perigale Prime Stock",
         "chance": 20,
         "rarity": "Uncommon"
       },
@@ -93746,6 +93935,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Lith N19 Relic (Flawless)",
+        "type": "Vadarya Prime Stock",
+        "chance": 20,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Lith N3 Relic (Flawless)",
         "type": "Sybaris Prime Stock",
         "chance": 20,
@@ -93950,6 +94145,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Meso E7 Relic (Flawless)",
+        "type": "Cedo Prime Stock",
+        "chance": 20,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Meso F2 Relic (Flawless)",
         "type": "Latron Prime Stock",
         "chance": 20,
@@ -94012,6 +94213,12 @@
       {
         "location": "Meso K3 Relic (Flawless)",
         "type": "Braton Prime Stock",
+        "chance": 20,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Meso L4 Relic (Flawless)",
+        "type": "Burston Prime Stock",
         "chance": 20,
         "rarity": "Uncommon"
       },
@@ -94316,6 +94523,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Neo P10 Relic (Radiant)",
+        "type": "Trumna Prime Stock",
+        "chance": 20,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Neo P2 Relic (Flawless)",
         "type": "Braton Prime Stock",
         "chance": 20,
@@ -94468,6 +94681,12 @@
       {
         "location": "Axi B3 Relic (Exceptional)",
         "type": "Stradavar Prime Stock",
+        "chance": 23.33,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Axi C11 Relic (Exceptional)",
+        "type": "Perigale Prime Stock",
         "chance": 23.33,
         "rarity": "Uncommon"
       },
@@ -94652,6 +94871,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Lith N19 Relic (Exceptional)",
+        "type": "Vadarya Prime Stock",
+        "chance": 23.33,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Lith N3 Relic (Exceptional)",
         "type": "Sybaris Prime Stock",
         "chance": 23.33,
@@ -94778,6 +95003,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Meso E7 Relic (Exceptional)",
+        "type": "Cedo Prime Stock",
+        "chance": 23.33,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Meso F2 Relic (Exceptional)",
         "type": "Latron Prime Stock",
         "chance": 23.33,
@@ -94822,6 +95053,12 @@
       {
         "location": "Meso K3 Relic (Exceptional)",
         "type": "Braton Prime Stock",
+        "chance": 23.33,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Meso L4 Relic (Exceptional)",
+        "type": "Burston Prime Stock",
         "chance": 23.33,
         "rarity": "Uncommon"
       },
@@ -95162,6 +95399,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Axi C11 Relic",
+        "type": "Perigale Prime Stock",
+        "chance": 25.33,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Axi D3 Relic",
         "type": "Braton Prime Stock",
         "chance": 25.33,
@@ -95342,6 +95585,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Lith N19 Relic",
+        "type": "Vadarya Prime Stock",
+        "chance": 25.33,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Lith N3 Relic",
         "type": "Sybaris Prime Stock",
         "chance": 25.33,
@@ -95468,6 +95717,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Meso E7 Relic",
+        "type": "Cedo Prime Stock",
+        "chance": 25.33,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Meso F2 Relic",
         "type": "Latron Prime Stock",
         "chance": 25.33,
@@ -95512,6 +95767,12 @@
       {
         "location": "Meso K3 Relic",
         "type": "Braton Prime Stock",
+        "chance": 25.33,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Meso L4 Relic",
+        "type": "Burston Prime Stock",
         "chance": 25.33,
         "rarity": "Uncommon"
       },
@@ -101974,6 +102235,7 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ValkyrTalons.png?d8e5f",
     "wikiaUrl": "https://wiki.warframe.com/w/Valkyr_Prime_Talons",
     "introduced": {
       "name": "Update 23.0",
@@ -102133,6 +102395,7 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ValkyrTalons.png?d8e5f",
     "wikiaUrl": "https://wiki.warframe.com/w/Valkyr_Talons",
     "introduced": {
       "name": "Update 23.0",

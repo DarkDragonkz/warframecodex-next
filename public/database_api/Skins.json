@@ -45441,6 +45441,66 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Inkblot/InkblotAltHelmet",
     "name": "Follie Sfumato Helmet",
     "description": "This alternate helmet for Follie blends colors the way Follie blends reality.",
+    "buildPrice": 20000,
+    "buildTime": 43200,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Helmets/FollieAltHelmetBlueprint",
+        "name": "Blueprint",
+        "description": "This alternate helmet for Follie blends colors the way Follie blends reality.",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false,
+        "masterable": false,
+        "drops": []
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+        "itemCount": 1500,
+        "imageName": "nano-spores-8933019524.png",
+        "tradable": false,
+        "drops": [],
+        "masterable": false,
+        "type": "Resource"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
+        "name": "Nitain Extract",
+        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\n\nLocation: Nightwave Cred Offerings",
+        "itemCount": 2,
+        "imageName": "nitain-extract-ba7ea3b2cf.png",
+        "tradable": false,
+        "drops": [],
+        "masterable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+        "itemCount": 600,
+        "imageName": "plastids-dabf813edd.png",
+        "tradable": false,
+        "drops": [],
+        "masterable": false,
+        "type": "Resource"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+        "itemCount": 1200,
+        "imageName": "rubedo-b57170a2d4.png",
+        "tradable": false,
+        "drops": [],
+        "masterable": false,
+        "type": "Resource"
+      }
+    ],
     "type": "Skin",
     "imageName": "follie-sfumato-helmet-235376b7ff.png",
     "category": "Skins",
@@ -58132,6 +58192,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeVorunaSyandana",
+    "name": "Hanteler Prime Syandana",
+    "description": "Wear the trophy of victories past with Voruna Prime's signature syandana.",
+    "type": "Skin",
+    "imageName": "hanteler-prime-syandana-4fbcc5d702.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/Arcade/FlappyArcadeItem",
     "name": "Happy Zephyr",
     "description": "Guide Zephyr to safety as she flaps her way through a series of ever more difficult obstacles.",
@@ -60068,6 +60138,17 @@
     "imageName": "heart-of-concrete-honoria-a6945ecbd3.png",
     "category": "Skins",
     "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/TitleVorunaPrime",
+    "name": "Heart Of The Pack Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "heart-of-the-pack-honoria-cf79244966.png",
+    "category": "Skins",
+    "tradable": true,
     "masterable": false
   },
   {
@@ -62409,6 +62490,16 @@
     "description": "A mask attachment for your sentinel pet.",
     "type": "Skin",
     "imageName": "hunhow-sentinel-mask-dc11bcf69e.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Effects/TennoCon2026Ephemera",
+    "name": "Hunhullus Ephemera",
+    "description": "Emulating the colossus of Hull, this ephemera is a reminder of the Tenno's past conflicts.",
+    "type": "Skin",
+    "imageName": "hunhullus-ephemera-5d3ed89636.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -101649,6 +101740,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Effects/PrimeVorunaEphemera",
+    "name": "Okuri Tails Prime Ephemera",
+    "description": "The beast may be adorned, but never tamed. Voruna Prime's signature ephemera.",
+    "type": "Skin",
+    "imageName": "okuri-tails-prime-ephemera-20d29e366b.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Clan/LichKillerBadgeItem",
     "name": "Old Blood Emblem",
     "excludeFromCodex": true,
@@ -102270,7 +102371,6 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtOperatorCalDeluxe",
     "name": "Operator Escuchon Apparel",
-    "excludeFromCodex": true,
     "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
     "type": "Skin",
     "imageName": "operator-escuchon-apparel-a203e7625a.png",
@@ -102281,7 +102381,6 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOperatorCalDeluxe",
     "name": "Operator Escuchon Greaves",
-    "excludeFromCodex": true,
     "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
     "type": "Skin",
     "imageName": "operator-escuchon-greaves-56d93216fe.png",
@@ -102292,7 +102391,6 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOperatorCalDeluxe",
     "name": "Operator Escuchon Hood",
-    "excludeFromCodex": true,
     "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
     "type": "Skin",
     "imageName": "operator-escuchon-hood-f9e92894a2.png",
@@ -102303,7 +102401,6 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOperatorCalDeluxe",
     "name": "Operator Escuchon Pauldrons",
-    "excludeFromCodex": true,
     "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
     "type": "Skin",
     "imageName": "operator-escuchon-pauldrons-a3dc9a86a0.png",
@@ -102314,7 +102411,6 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOperatorCalDeluxe",
     "name": "Operator Escuchon Suit",
-    "excludeFromCodex": true,
     "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
     "type": "Skin",
     "imageName": "operator-escuchon-suit-edc270db4e.png",
@@ -142765,6 +142861,66 @@
     "uniqueName": "/Lotus/Upgrades/Skins/DemonFrame/DemonFrameAltHelmet",
     "name": "Uriel Asmodion Helmet",
     "description": "Don the fearsome horns of a legendary commander. The mere rumor of Uriel’s alternate helmet inspired despair on ancient battlefields.",
+    "buildPrice": 20000,
+    "buildTime": 43200,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Helmets/UrielAltHelmetBlueprint",
+        "name": "Blueprint",
+        "description": "Don the fearsome horns of a legendary commander. The mere rumor of Uriel’s alternate helmet inspired despair on ancient battlefields.",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false,
+        "masterable": false,
+        "drops": []
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+        "itemCount": 1500,
+        "imageName": "nano-spores-8933019524.png",
+        "tradable": false,
+        "drops": [],
+        "masterable": false,
+        "type": "Resource"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
+        "name": "Nitain Extract",
+        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\n\nLocation: Nightwave Cred Offerings",
+        "itemCount": 2,
+        "imageName": "nitain-extract-ba7ea3b2cf.png",
+        "tradable": false,
+        "drops": [],
+        "masterable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+        "itemCount": 600,
+        "imageName": "plastids-dabf813edd.png",
+        "tradable": false,
+        "drops": [],
+        "masterable": false,
+        "type": "Resource"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+        "itemCount": 1200,
+        "imageName": "rubedo-b57170a2d4.png",
+        "tradable": false,
+        "drops": [],
+        "masterable": false,
+        "type": "Resource"
+      }
+    ],
     "type": "Skin",
     "imageName": "uriel-asmodion-helmet-3cfae58b59.png",
     "category": "Skins",
@@ -149773,6 +149929,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Liset/VorunaPrimeHoodOrnament",
+    "name": "Vilkas Prime Sumdali",
+    "description": "Fly howling into battle with Voruna Prime's signature sumdali.",
+    "type": "Skin",
+    "imageName": "vilkas-prime-sumdali-d7a32b3c03.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropOldLocker",
     "name": "Vintage Corpus Locker",
     "description": "Decorate the Orbiter with this miniature replica of an old model Corpus locker.",
@@ -152044,6 +152210,38 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/VorunaPrimeArmArmor",
+    "name": "Voruna Prime Armor",
+    "excludeFromCodex": true,
+    "description": "Default armor set for the Voruna Prime Warframe.",
+    "type": "Skin",
+    "imageName": "voruna-prime-armor-8d992b69af.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Werewolf/VorunaPrimeHelmet",
+    "name": "Voruna Prime Helmet",
+    "description": "The standard issue helmet for the Voruna Prime Warframe.",
+    "type": "Skin",
+    "imageName": "voruna-prime-helmet-eccff2c2a9.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Werewolf/VorunaPrimeSkin",
+    "name": "Voruna Prime Skin",
+    "excludeFromCodex": true,
+    "description": "The standard issue skin for the Voruna Prime Warframe.",
+    "type": "Skin",
+    "imageName": "voruna-prime-skin-d768af2737.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Werewolf/WerewolfSkin",
     "name": "Voruna Skin",
     "excludeFromCodex": true,
@@ -152950,7 +153148,7 @@
     "excludeFromCodex": true,
     "description": "Scrawl art designed by the Ventkids to customize your K-Drive.",
     "type": "Skin",
-    "imageName": "what-the...-2fbd323373.png",
+    "imageName": "what-the-2fbd323373.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
