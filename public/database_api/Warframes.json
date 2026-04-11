@@ -70635,7 +70635,7 @@
         "date": "2015-12-18T16:20:54Z",
         "url": "https://forums.warframe.com/topic/581009-hotfix-1813-spoilers/",
         "additions": "",
-        "changes": "Nezha’s Warding Halo will now be more responsive to enemies entering its radius, damaging them immediately.\nNezha’s Blazing Chakram teleport now costs no energy.",
+        "changes": "Nezha���s Warding Halo will now be more responsive to enemies entering its radius, damaging them immediately.\nNezha’s Blazing Chakram teleport now costs no energy.",
         "fixes": "Fixed Nezha’s Divine Spear not properly impaling enemies with Auras that prevent status effects.\nFixed an error causing Nezha’s Divine Spears to spawn with improper collision, deflecting bullets.\nFixed Nezha’s sash visual FX remaining visible when aiming as a Client.\nFixed Nezha’s Warding Halo dealing no damage to enemies in Conclave.\nFixed damage visual FX not properly appearing for Nezha’s Abilities in Conclave."
       },
       {
@@ -94166,7 +94166,7 @@
         "url": "https://forums.warframe.com/topic/1129207-arbitrations-revisited-hotfix-2576/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Saryn’s Spores costing no Energy when casted if the Venom Dose Augment is equipped.\nFixed Saryn’s Venom Dose Augment’s effects not properly applying to allies as per: https://forums.warframe.com/topic/1127477-saryns-1-with-the-augment-venom-dose-can-be-cast-on-any-ally-without-effect/\nFixed Saryn’s Molt not properly cleansing her of Nox’s sludge."
+        "fixes": "Fixed Saryn’s Spores costing no Energy when casted if the Venom Dose Augment is equipped.\nFixed Saryn’s Venom Dose Augment’s effects not properly applying to allies as per: https://forums.warframe.com/topic/1127477-saryns-1-with-the-augment-venom-dose-can-be-cast-on-any-ally-without-effect/\nFixed Saryn��s Molt not properly cleansing her of Nox’s sludge."
       },
       {
         "name": "Saint of Altra: Update 25.7.0",
