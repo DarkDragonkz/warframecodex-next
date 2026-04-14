@@ -1626,7 +1626,14 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Kahl's Garrison (Chipper), Home",
+            "type": "Afentis Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
@@ -5613,8 +5620,8 @@
         "itemCount": 25,
         "imageName": "heart-noctrul-1d8f552486.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [],
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
@@ -21365,6 +21372,12 @@
         "tradable": false,
         "drops": [
           {
+            "location": "Entrati (Father), Family",
+            "type": "Cedo Barrel",
+            "chance": 100,
+            "rarity": "Common"
+          },
+          {
             "location": "Operation: Orphix Venom, Rotation B",
             "type": "Cedo Barrel",
             "chance": 11.11,
@@ -21394,6 +21407,12 @@
         "tradable": false,
         "masterable": false,
         "drops": [
+          {
+            "location": "Entrati (Father), Friend",
+            "type": "Cedo Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          },
           {
             "location": "Operation: Orphix Venom, Rotation B",
             "type": "Cedo Blueprint",
@@ -21433,6 +21452,12 @@
         "tradable": false,
         "drops": [
           {
+            "location": "Entrati (Father), Family",
+            "type": "Cedo Receiver",
+            "chance": 100,
+            "rarity": "Common"
+          },
+          {
             "location": "Operation: Orphix Venom, Rotation B",
             "type": "Cedo Receiver",
             "chance": 11.11,
@@ -21461,6 +21486,12 @@
         "imageName": "stock.png",
         "tradable": false,
         "drops": [
+          {
+            "location": "Entrati (Father), Family",
+            "type": "Cedo Stock",
+            "chance": 100,
+            "rarity": "Common"
+          },
           {
             "location": "Operation: Orphix Venom, Rotation B",
             "type": "Cedo Stock",
@@ -30083,7 +30114,14 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "The Holdfasts (Cavalero), Guardian",
+            "type": "Felarx Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA",
@@ -35011,7 +35049,7 @@
         "url": "https://forums.warframe.com/topic/679601-specters-of-the-rail-hotfix-13/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed the ‘Vay Hek Frequency Triangulator’ missions appearing for players that still have the key in their inventory.��"
+        "fixes": "Fixed the ‘Vay Hek Frequency Triangulator’ missions appearing for players that still have the key in their inventory. "
       },
       {
         "name": "Hotfix: Lunaro 6",
@@ -45865,6 +45903,14 @@
     "imageName": "nataruk-39097570a7.png",
     "category": "Primary",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Cephalon Simaris, Complete The New War",
+        "type": "Nataruk",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Update 32.2.0: Lua’s Prey",
@@ -57468,7 +57514,14 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "The Holdfasts (Cavalero), Watcher",
+            "type": "Phenmor Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB",
@@ -60200,6 +60253,14 @@
     "imageName": "rakta-cernos-1f148e5ebd.png",
     "category": "Primary",
     "tradable": true,
+    "drops": [
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Rakta Cernos",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Veilbreaker: Update 32",
@@ -62167,6 +62228,14 @@
     "imageName": "sancti-tigris-2b0dd379b8.png",
     "category": "Primary",
     "tradable": true,
+    "drops": [
+      {
+        "location": "New Loka, Flawless",
+        "type": "Sancti Tigris",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Veilbreaker: Update 32",
@@ -63680,6 +63749,14 @@
     "imageName": "secura-penta-63168ca5a8.png",
     "category": "Primary",
     "tradable": true,
+    "drops": [
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Secura Penta",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Veilbreaker: Update 32",
@@ -63868,7 +63945,14 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Cephalon Simaris, Complete Erra (Quest)",
+            "type": "Shedu Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SheduHeavyWeaponChassis",
@@ -64226,7 +64310,14 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Cephalon Simaris",
+            "type": "Simulor Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -64735,6 +64826,14 @@
     "imageName": "sirocco-5e978fb468.png",
     "category": "Primary",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Cephalon Simaris, Complete The New War",
+        "type": "Sirocco",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Update 32.2.0: Lua’s Prey",
@@ -64919,7 +65018,14 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Operational Supply, Collaborator",
+            "type": "Snipetron Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
@@ -69343,6 +69449,14 @@
     "imageName": "strun-12937e9e52.png",
     "category": "Primary",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Conclave, Typhoon",
+        "type": "Strun Conclave Skin",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Veilbreaker: Update 32",
@@ -73093,6 +73207,14 @@
     "imageName": "synoid-simulor-16a8baa8b0.png",
     "category": "Primary",
     "tradable": true,
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Synoid Simulor",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Veilbreaker: Update 32",
@@ -73337,6 +73459,14 @@
     "imageName": "telos-boltor-111b9c4941.png",
     "category": "Primary",
     "tradable": true,
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Telos Boltor",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Update 28: The Deadlock Protocol",
@@ -76469,6 +76599,12 @@
             "type": "Latron Blueprint",
             "chance": 1.03,
             "rarity": "Rare"
+          },
+          {
+            "location": "Conclave, Typhoon",
+            "type": "Latron Conclave Skin",
+            "chance": 100,
+            "rarity": "Common"
           }
         ]
       },
@@ -79748,8 +79884,15 @@
         "itemCount": 1,
         "imageName": "barrel.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Entrati (Father), Associate",
+            "type": "Trumna Barrel Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ],
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/ThanotechRifleBlueprint",
@@ -79759,7 +79902,14 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Entrati (Father), Associate",
+            "type": "Trumna Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ThanotechRifleReceiver",
@@ -79768,8 +79918,15 @@
         "itemCount": 1,
         "imageName": "receiver.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Entrati (Father), Associate",
+            "type": "Trumna Receiver Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ],
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Deimos/SeriglassShard",
@@ -79778,8 +79935,8 @@
         "itemCount": 1,
         "imageName": "seriglass-shard-3317de0afe.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [],
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ThanotechRifleStock",
@@ -79788,8 +79945,15 @@
         "itemCount": 1,
         "imageName": "stock.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Entrati (Father), Associate",
+            "type": "Trumna Stock Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ],
+        "masterable": false
       }
     ],
     "type": "Rifle",
@@ -81267,6 +81431,14 @@
     "imageName": "vaykor-hek-d30f841248.png",
     "category": "Primary",
     "tradable": true,
+    "drops": [
+      {
+        "location": "Steel Meridian, General",
+        "type": "Vaykor Hek",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Veilbreaker: Update 32",
@@ -83932,7 +84104,14 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Cephalon Simaris, Unlock through Daily Tribute",
+            "type": "Zenith Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",

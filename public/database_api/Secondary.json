@@ -368,7 +368,14 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Kahl's Garrison (Chipper), Settlement",
+            "type": "Aegrit Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -3416,7 +3423,14 @@
             "disposition": 5,
             "releaseDate": "2012-10-25",
             "masterable": false,
-            "drops": []
+            "drops": [
+              {
+                "location": "Conclave, Typhoon",
+                "type": "Lato Conclave Skin",
+                "chance": 100,
+                "rarity": "Common"
+              }
+            ]
           },
           {
             "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
@@ -3707,7 +3721,14 @@
             "disposition": 5,
             "releaseDate": "2012-10-25",
             "masterable": false,
-            "drops": []
+            "drops": [
+              {
+                "location": "Conclave, Typhoon",
+                "type": "Lato Conclave Skin",
+                "chance": 100,
+                "rarity": "Common"
+              }
+            ]
           },
           {
             "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
@@ -18118,6 +18139,12 @@
             "type": "Dual Skana Blueprint",
             "chance": 1.03,
             "rarity": "Rare"
+          },
+          {
+            "location": "Conclave, Typhoon",
+            "type": "Dual Skana Conclave Skin",
+            "chance": 100,
+            "rarity": "Common"
           }
         ],
         "wikiAvailable": true,
@@ -19411,6 +19438,14 @@
     "imageName": "aklato-c5ecafca06.png",
     "category": "Secondary",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Conclave, Typhoon",
+        "type": "Aklato Conclave Skin",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Update 20",
@@ -19595,6 +19630,14 @@
         },
         "imageName": "lex-815d312d76.png",
         "tradable": false,
+        "drops": [
+          {
+            "location": "Conclave, Typhoon",
+            "type": "Lex Conclave Skin",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ],
         "wikiAvailable": true,
         "attacks": [
           {
@@ -19644,8 +19687,7 @@
         },
         "disposition": 4,
         "releaseDate": "2012-10-25",
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "name": "Lex",
@@ -19714,6 +19756,14 @@
         },
         "imageName": "lex-815d312d76.png",
         "tradable": false,
+        "drops": [
+          {
+            "location": "Conclave, Typhoon",
+            "type": "Lex Conclave Skin",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ],
         "wikiAvailable": true,
         "attacks": [
           {
@@ -19763,8 +19813,7 @@
         },
         "disposition": 4,
         "releaseDate": "2012-10-25",
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -38277,7 +38326,14 @@
         "disposition": 3,
         "releaseDate": "2014-02-05",
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Conclave, Typhoon",
+            "type": "Akstiletto Conclave Skin",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/AksomatiBlueprint",
@@ -40713,7 +40769,14 @@
         "disposition": 5,
         "releaseDate": "2013-07-26",
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Conclave, Typhoon",
+            "type": "Vasto Conclave Skin",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "name": "Vasto",
@@ -40898,7 +40961,14 @@
         "disposition": 5,
         "releaseDate": "2013-07-26",
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Conclave, Typhoon",
+            "type": "Vasto Conclave Skin",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       }
     ],
     "type": "Dual Pistols",
@@ -46476,7 +46546,14 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Cephalon Simaris, Unlock through Daily Tribute",
+            "type": "Azima Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
@@ -48295,7 +48372,14 @@
         "disposition": 5,
         "releaseDate": "2012-10-25",
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Conclave, Typhoon",
+            "type": "Lato Conclave Skin",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
@@ -52861,8 +52945,8 @@
         "itemCount": 10,
         "imageName": "stellated-necrathene-01f1f64a22.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [],
+        "masterable": false
       }
     ],
     "type": "Pistol",
@@ -55236,6 +55320,14 @@
         },
         "imageName": "cestra-de053fcf83.png",
         "tradable": false,
+        "drops": [
+          {
+            "location": "The Perrin Sequence, Partner",
+            "type": "Secura Dual Cestra",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ],
         "wikiAvailable": true,
         "attacks": [
           {
@@ -55287,8 +55379,7 @@
         },
         "disposition": 5,
         "releaseDate": "2013-11-20",
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "name": "Cestra",
@@ -55357,6 +55448,14 @@
         },
         "imageName": "cestra-de053fcf83.png",
         "tradable": false,
+        "drops": [
+          {
+            "location": "The Perrin Sequence, Partner",
+            "type": "Secura Dual Cestra",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ],
         "wikiAvailable": true,
         "attacks": [
           {
@@ -55408,8 +55507,7 @@
         },
         "disposition": 5,
         "releaseDate": "2013-11-20",
-        "masterable": false,
-        "drops": []
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
@@ -60744,6 +60842,12 @@
             "rarity": "Legendary"
           },
           {
+            "location": "Conclave, Typhoon",
+            "type": "Viper Conclave Skin",
+            "chance": 100,
+            "rarity": "Common"
+          },
+          {
             "location": "Lua/Pavlov (Spy), Rotation C",
             "type": "Coiling Viper",
             "chance": 37.94,
@@ -64244,6 +64348,12 @@
             "type": "Cyclone Kraken",
             "chance": 10.79,
             "rarity": "Uncommon"
+          },
+          {
+            "location": "Conclave, Typhoon",
+            "type": "Kraken Conclave Skin",
+            "chance": 100,
+            "rarity": "Common"
           }
         ],
         "wikiAvailable": true,
@@ -65683,7 +65793,14 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "The Holdfasts (Cavalero), Neutral",
+            "type": "Laetum Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -66663,6 +66780,14 @@
     "imageName": "lex-815d312d76.png",
     "category": "Secondary",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Conclave, Typhoon",
+        "type": "Lex Conclave Skin",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Veilbreaker: Hotfix 32.0.3",
@@ -72873,8 +72998,8 @@
         "itemCount": 55,
         "imageName": "venerdo-alloy-0699ce0e35.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [],
+        "masterable": false
       }
     ],
     "type": "Pistol",
@@ -73142,7 +73267,7 @@
         }
       },
       {
-        "name": "Incarnon Form",
+        "name": "Incarnon Mode Held Damage",
         "speed": 2,
         "crit_chance": 14,
         "crit_mult": 1.6,
@@ -76554,6 +76679,14 @@
     "imageName": "rakta-ballistica-39303c333a.png",
     "category": "Secondary",
     "tradable": true,
+    "drops": [
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Rakta Ballistica",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Empyrean: Update 27",
@@ -77232,6 +77365,14 @@
     "imageName": "sancti-castanas-3d6951c043.png",
     "category": "Secondary",
     "tradable": true,
+    "drops": [
+      {
+        "location": "New Loka, Flawless",
+        "type": "Sancti Castanas",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Update 32.2.0: Lua’s Prey",
@@ -77620,6 +77761,14 @@
     "imageName": "secura-dual-cestra-810e479b60.png",
     "category": "Secondary",
     "tradable": true,
+    "drops": [
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Secura Dual Cestra",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "The Glast Gambit: Update 19.5",
@@ -78024,8 +78173,15 @@
         "itemCount": 1,
         "imageName": "barrel.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Entrati (Father), Acquaintance",
+            "type": "Sepulcrum Barrel Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ],
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/ThanotechPistolBlueprint",
@@ -78035,7 +78191,14 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Entrati (Father), Acquaintance",
+            "type": "Sepulcrum Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ThanotechPistolReceiver",
@@ -78044,8 +78207,15 @@
         "itemCount": 1,
         "imageName": "receiver.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Entrati (Father), Acquaintance",
+            "type": "Sepulcrum Receiver Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ],
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Deimos/SeriglassShard",
@@ -78054,8 +78224,8 @@
         "itemCount": 1,
         "imageName": "seriglass-shard-3317de0afe.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [],
+        "masterable": false
       }
     ],
     "type": "Pistol",
@@ -82400,6 +82570,14 @@
     "imageName": "synoid-gammacor-02823b6001.png",
     "category": "Secondary",
     "tradable": true,
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Synoid Gammacor",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Empyrean: Update 27",
@@ -83212,6 +83390,14 @@
     "imageName": "telos-akbolto-ef8aa48303.png",
     "category": "Secondary",
     "tradable": true,
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Telos Akbolto",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Empyrean: Update 27",
@@ -85747,6 +85933,12 @@
             "rarity": "Legendary"
           },
           {
+            "location": "Conclave, Typhoon",
+            "type": "Viper Conclave Skin",
+            "chance": 100,
+            "rarity": "Common"
+          },
+          {
             "location": "Lua/Pavlov (Spy), Rotation C",
             "type": "Coiling Viper",
             "chance": 37.94,
@@ -85867,6 +86059,12 @@
             "type": "Coiling Viper",
             "chance": 0.03,
             "rarity": "Legendary"
+          },
+          {
+            "location": "Conclave, Typhoon",
+            "type": "Viper Conclave Skin",
+            "chance": 100,
+            "rarity": "Common"
           },
           {
             "location": "Lua/Pavlov (Spy), Rotation C",
@@ -87880,6 +88078,14 @@
     "imageName": "vaykor-marelok-92ed1486f5.png",
     "category": "Secondary",
     "tradable": true,
+    "drops": [
+      {
+        "location": "Steel Meridian, General",
+        "type": "Vaykor Marelok",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Empyrean: Update 27",
@@ -91684,8 +91890,15 @@
         "itemCount": 1,
         "imageName": "barrel.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Entrati (Father), Stranger",
+            "type": "Zymos Barrel Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ],
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/InfUziBlueprint",
@@ -91695,7 +91908,14 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Entrati (Father), Stranger",
+            "type": "Zymos Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfUziWeaponReceiver",
@@ -91704,8 +91924,15 @@
         "itemCount": 1,
         "imageName": "receiver.png",
         "tradable": false,
-        "masterable": false,
-        "drops": []
+        "drops": [
+          {
+            "location": "Entrati (Father), Stranger",
+            "type": "Zymos Receiver Blueprint",
+            "chance": 100,
+            "rarity": "Common"
+          }
+        ],
+        "masterable": false
       }
     ],
     "type": "Pistol",
