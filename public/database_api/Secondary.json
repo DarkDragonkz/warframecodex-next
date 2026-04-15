@@ -5706,7 +5706,7 @@
             "type": "Akbronco Prime Blueprint",
             "chance": 16.67,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
             "location": "Neo W2 Relic (Radiant)",
@@ -5902,7 +5902,7 @@
             "type": "Akbronco Prime Blueprint",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
             "location": "Neo W2 Relic (Flawless)",
@@ -6098,7 +6098,7 @@
             "type": "Akbronco Prime Blueprint",
             "chance": 23.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
             "location": "Neo W2 Relic (Exceptional)",
@@ -6294,7 +6294,7 @@
             "type": "Akbronco Prime Blueprint",
             "chance": 25.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
             "location": "Neo W2 Relic",
@@ -6429,7 +6429,7 @@
                 "type": "Bronco Prime Barrel",
                 "chance": 11,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
               },
               {
                 "location": "Meso N10 Relic",
@@ -6562,7 +6562,7 @@
                 "type": "Bronco Prime Barrel",
                 "chance": 13,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
               },
               {
                 "location": "Meso N10 Relic (Exceptional)",
@@ -6632,7 +6632,7 @@
                 "type": "Bronco Prime Barrel",
                 "chance": 16.67,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
               },
               {
                 "location": "Neo C6 Relic (Radiant)",
@@ -6709,7 +6709,7 @@
                 "type": "Bronco Prime Barrel",
                 "chance": 17,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
               },
               {
                 "location": "Meso N10 Relic (Flawless)",
@@ -6842,14 +6842,14 @@
                 "type": "Bronco Prime Barrel",
                 "chance": 20,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
               },
               {
                 "location": "Meso L4 Relic (Radiant)",
                 "type": "Bronco Prime Barrel",
                 "chance": 20,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
               },
               {
                 "location": "Meso N10 Relic (Radiant)",
@@ -6926,7 +6926,7 @@
                 "type": "Bronco Prime Barrel",
                 "chance": 23.33,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
               },
               {
                 "location": "Neo C6 Relic (Exceptional)",
@@ -6940,7 +6940,7 @@
                 "type": "Bronco Prime Barrel",
                 "chance": 25.33,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
               },
               {
                 "location": "Neo C6 Relic",
@@ -8188,7 +8188,7 @@
                 "type": "Bronco Prime Receiver",
                 "chance": 16.67,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
               },
               {
                 "location": "Neo N6 Relic (Radiant)",
@@ -8454,7 +8454,7 @@
                 "type": "Bronco Prime Receiver",
                 "chance": 20,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
               },
               {
                 "location": "Neo N6 Relic (Flawless)",
@@ -8720,7 +8720,7 @@
                 "type": "Bronco Prime Receiver",
                 "chance": 23.33,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
               },
               {
                 "location": "Neo N6 Relic (Exceptional)",
@@ -8986,7 +8986,7 @@
                 "type": "Bronco Prime Receiver",
                 "chance": 25.33,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
               },
               {
                 "location": "Neo N6 Relic",
@@ -9191,7 +9191,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 11,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Meso N10 Relic",
@@ -9324,7 +9324,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 13,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Meso N10 Relic (Exceptional)",
@@ -9681,7 +9681,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 16.67,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Meso E2 Relic (Radiant)",
@@ -9863,7 +9863,7 @@
             "type": "Bronco Prime Receiver",
             "chance": 16.67,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Neo N6 Relic (Radiant)",
@@ -9982,7 +9982,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 17,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Meso N10 Relic (Flawless)",
@@ -10402,7 +10402,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Meso E2 Relic (Flawless)",
@@ -10444,7 +10444,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Meso N10 Relic (Radiant)",
@@ -10640,7 +10640,7 @@
             "type": "Bronco Prime Receiver",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Neo N6 Relic (Flawless)",
@@ -10997,7 +10997,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 23.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Meso E2 Relic (Exceptional)",
@@ -11179,7 +11179,7 @@
             "type": "Bronco Prime Receiver",
             "chance": 23.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Neo N6 Relic (Exceptional)",
@@ -11522,7 +11522,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 25.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Meso E2 Relic",
@@ -11704,7 +11704,7 @@
             "type": "Bronco Prime Receiver",
             "chance": 25.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Neo N6 Relic",
@@ -11881,7 +11881,7 @@
                 "type": "Bronco Prime Barrel",
                 "chance": 11,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
               },
               {
                 "location": "Meso N10 Relic",
@@ -12014,7 +12014,7 @@
                 "type": "Bronco Prime Barrel",
                 "chance": 13,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
               },
               {
                 "location": "Meso N10 Relic (Exceptional)",
@@ -12084,7 +12084,7 @@
                 "type": "Bronco Prime Barrel",
                 "chance": 16.67,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
               },
               {
                 "location": "Neo C6 Relic (Radiant)",
@@ -12161,7 +12161,7 @@
                 "type": "Bronco Prime Barrel",
                 "chance": 17,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
               },
               {
                 "location": "Meso N10 Relic (Flawless)",
@@ -12294,14 +12294,14 @@
                 "type": "Bronco Prime Barrel",
                 "chance": 20,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
               },
               {
                 "location": "Meso L4 Relic (Radiant)",
                 "type": "Bronco Prime Barrel",
                 "chance": 20,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
               },
               {
                 "location": "Meso N10 Relic (Radiant)",
@@ -12378,7 +12378,7 @@
                 "type": "Bronco Prime Barrel",
                 "chance": 23.33,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
               },
               {
                 "location": "Neo C6 Relic (Exceptional)",
@@ -12392,7 +12392,7 @@
                 "type": "Bronco Prime Barrel",
                 "chance": 25.33,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
               },
               {
                 "location": "Neo C6 Relic",
@@ -13640,7 +13640,7 @@
                 "type": "Bronco Prime Receiver",
                 "chance": 16.67,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
               },
               {
                 "location": "Neo N6 Relic (Radiant)",
@@ -13906,7 +13906,7 @@
                 "type": "Bronco Prime Receiver",
                 "chance": 20,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
               },
               {
                 "location": "Neo N6 Relic (Flawless)",
@@ -14172,7 +14172,7 @@
                 "type": "Bronco Prime Receiver",
                 "chance": 23.33,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
               },
               {
                 "location": "Neo N6 Relic (Exceptional)",
@@ -14438,7 +14438,7 @@
                 "type": "Bronco Prime Receiver",
                 "chance": 25.33,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
               },
               {
                 "location": "Neo N6 Relic",
@@ -14643,7 +14643,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 11,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Meso N10 Relic",
@@ -14776,7 +14776,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 13,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Meso N10 Relic (Exceptional)",
@@ -15133,7 +15133,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 16.67,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Meso E2 Relic (Radiant)",
@@ -15315,7 +15315,7 @@
             "type": "Bronco Prime Receiver",
             "chance": 16.67,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Neo N6 Relic (Radiant)",
@@ -15434,7 +15434,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 17,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Meso N10 Relic (Flawless)",
@@ -15854,7 +15854,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Meso E2 Relic (Flawless)",
@@ -15896,7 +15896,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Meso N10 Relic (Radiant)",
@@ -16092,7 +16092,7 @@
             "type": "Bronco Prime Receiver",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Neo N6 Relic (Flawless)",
@@ -16449,7 +16449,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 23.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Meso E2 Relic (Exceptional)",
@@ -16631,7 +16631,7 @@
             "type": "Bronco Prime Receiver",
             "chance": 23.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Neo N6 Relic (Exceptional)",
@@ -16974,7 +16974,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 25.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Meso E2 Relic",
@@ -17156,7 +17156,7 @@
             "type": "Bronco Prime Receiver",
             "chance": 25.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Neo N6 Relic",
@@ -17237,7 +17237,7 @@
             "type": "Akbronco Prime Link",
             "chance": 11,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Axi C5 Relic",
@@ -17377,7 +17377,7 @@
             "type": "Akbronco Prime Link",
             "chance": 13,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Axi C5 Relic (Exceptional)",
@@ -17517,7 +17517,7 @@
             "type": "Akbronco Prime Link",
             "chance": 17,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Axi C5 Relic (Flawless)",
@@ -17657,7 +17657,7 @@
             "type": "Akbronco Prime Link",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Axi C5 Relic (Radiant)",
@@ -20145,7 +20145,7 @@
                 "type": "Lex Prime Barrel",
                 "chance": 16.67,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
               },
               {
                 "location": "Axi V7 Relic (Radiant)",
@@ -20453,7 +20453,7 @@
                 "type": "Lex Prime Barrel",
                 "chance": 20,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
               },
               {
                 "location": "Axi V7 Relic (Flawless)",
@@ -20761,7 +20761,7 @@
                 "type": "Lex Prime Barrel",
                 "chance": 23.33,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
               },
               {
                 "location": "Axi V7 Relic (Exceptional)",
@@ -21069,7 +21069,7 @@
                 "type": "Lex Prime Barrel",
                 "chance": 25.33,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
               },
               {
                 "location": "Axi V7 Relic",
@@ -22541,7 +22541,7 @@
                 "type": "Lex Prime Receiver",
                 "chance": 16.67,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
               },
               {
                 "location": "Axi E2 Relic (Radiant)",
@@ -22828,7 +22828,7 @@
                 "type": "Lex Prime Receiver",
                 "chance": 20,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
               },
               {
                 "location": "Axi E2 Relic (Flawless)",
@@ -23115,7 +23115,7 @@
                 "type": "Lex Prime Receiver",
                 "chance": 23.33,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
               },
               {
                 "location": "Axi E2 Relic (Exceptional)",
@@ -23402,7 +23402,7 @@
                 "type": "Lex Prime Receiver",
                 "chance": 25.33,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
               },
               {
                 "location": "Axi E2 Relic",
@@ -23949,7 +23949,7 @@
             "type": "Lex Prime Receiver",
             "chance": 16.67,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
           },
           {
             "location": "Axi E2 Relic (Radiant)",
@@ -24096,7 +24096,7 @@
             "type": "Lex Prime Barrel",
             "chance": 16.67,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           },
           {
             "location": "Axi V7 Relic (Radiant)",
@@ -24838,7 +24838,7 @@
             "type": "Lex Prime Receiver",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
           },
           {
             "location": "Axi E2 Relic (Flawless)",
@@ -24985,7 +24985,7 @@
             "type": "Lex Prime Barrel",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           },
           {
             "location": "Axi V7 Relic (Flawless)",
@@ -25713,7 +25713,7 @@
             "type": "Lex Prime Receiver",
             "chance": 23.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
           },
           {
             "location": "Axi E2 Relic (Exceptional)",
@@ -25860,7 +25860,7 @@
             "type": "Lex Prime Barrel",
             "chance": 23.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           },
           {
             "location": "Axi V7 Relic (Exceptional)",
@@ -26525,7 +26525,7 @@
             "type": "Lex Prime Receiver",
             "chance": 25.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
           },
           {
             "location": "Axi E2 Relic",
@@ -26672,7 +26672,7 @@
             "type": "Lex Prime Barrel",
             "chance": 25.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           },
           {
             "location": "Axi V7 Relic",
@@ -27388,7 +27388,7 @@
                 "type": "Lex Prime Barrel",
                 "chance": 16.67,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
               },
               {
                 "location": "Axi V7 Relic (Radiant)",
@@ -27696,7 +27696,7 @@
                 "type": "Lex Prime Barrel",
                 "chance": 20,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
               },
               {
                 "location": "Axi V7 Relic (Flawless)",
@@ -28004,7 +28004,7 @@
                 "type": "Lex Prime Barrel",
                 "chance": 23.33,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
               },
               {
                 "location": "Axi V7 Relic (Exceptional)",
@@ -28312,7 +28312,7 @@
                 "type": "Lex Prime Barrel",
                 "chance": 25.33,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
               },
               {
                 "location": "Axi V7 Relic",
@@ -29784,7 +29784,7 @@
                 "type": "Lex Prime Receiver",
                 "chance": 16.67,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
               },
               {
                 "location": "Axi E2 Relic (Radiant)",
@@ -30071,7 +30071,7 @@
                 "type": "Lex Prime Receiver",
                 "chance": 20,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
               },
               {
                 "location": "Axi E2 Relic (Flawless)",
@@ -30358,7 +30358,7 @@
                 "type": "Lex Prime Receiver",
                 "chance": 23.33,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
               },
               {
                 "location": "Axi E2 Relic (Exceptional)",
@@ -30645,7 +30645,7 @@
                 "type": "Lex Prime Receiver",
                 "chance": 25.33,
                 "rarity": "Uncommon",
-                "uniqueName": ""
+                "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
               },
               {
                 "location": "Axi E2 Relic",
@@ -31192,7 +31192,7 @@
             "type": "Lex Prime Receiver",
             "chance": 16.67,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
           },
           {
             "location": "Axi E2 Relic (Radiant)",
@@ -31339,7 +31339,7 @@
             "type": "Lex Prime Barrel",
             "chance": 16.67,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           },
           {
             "location": "Axi V7 Relic (Radiant)",
@@ -32081,7 +32081,7 @@
             "type": "Lex Prime Receiver",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
           },
           {
             "location": "Axi E2 Relic (Flawless)",
@@ -32228,7 +32228,7 @@
             "type": "Lex Prime Barrel",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           },
           {
             "location": "Axi V7 Relic (Flawless)",
@@ -32956,7 +32956,7 @@
             "type": "Lex Prime Receiver",
             "chance": 23.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
           },
           {
             "location": "Axi E2 Relic (Exceptional)",
@@ -33103,7 +33103,7 @@
             "type": "Lex Prime Barrel",
             "chance": 23.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           },
           {
             "location": "Axi V7 Relic (Exceptional)",
@@ -33768,7 +33768,7 @@
             "type": "Lex Prime Receiver",
             "chance": 25.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
           },
           {
             "location": "Axi E2 Relic",
@@ -33915,7 +33915,7 @@
             "type": "Lex Prime Barrel",
             "chance": 25.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           },
           {
             "location": "Axi V7 Relic",
@@ -49478,7 +49478,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 11,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Meso N10 Relic",
@@ -49611,7 +49611,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 13,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Meso N10 Relic (Exceptional)",
@@ -49681,7 +49681,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 16.67,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Neo C6 Relic (Radiant)",
@@ -49758,7 +49758,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 17,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Meso N10 Relic (Flawless)",
@@ -49891,14 +49891,14 @@
             "type": "Bronco Prime Barrel",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Meso L4 Relic (Radiant)",
             "type": "Bronco Prime Barrel",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Meso N10 Relic (Radiant)",
@@ -49975,7 +49975,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 23.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Neo C6 Relic (Exceptional)",
@@ -49989,7 +49989,7 @@
             "type": "Bronco Prime Barrel",
             "chance": 25.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Neo C6 Relic",
@@ -51237,7 +51237,7 @@
             "type": "Bronco Prime Receiver",
             "chance": 16.67,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Neo N6 Relic (Radiant)",
@@ -51503,7 +51503,7 @@
             "type": "Bronco Prime Receiver",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Neo N6 Relic (Flawless)",
@@ -51769,7 +51769,7 @@
             "type": "Bronco Prime Receiver",
             "chance": 23.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Neo N6 Relic (Exceptional)",
@@ -52035,7 +52035,7 @@
             "type": "Bronco Prime Receiver",
             "chance": 25.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Neo N6 Relic",
@@ -56901,7 +56901,7 @@
             "type": "Epitaph Prime Barrel",
             "chance": 11,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
             "location": "Axi P8 Relic (Exceptional)",
@@ -56943,7 +56943,7 @@
             "type": "Epitaph Prime Barrel",
             "chance": 13,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
             "location": "Axi P8 Relic (Flawless)",
@@ -56985,7 +56985,7 @@
             "type": "Epitaph Prime Barrel",
             "chance": 17,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
             "location": "Axi P8 Relic (Radiant)",
@@ -57027,7 +57027,7 @@
             "type": "Epitaph Prime Barrel",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           }
         ],
         "masterable": false,
@@ -57063,7 +57063,7 @@
             "type": "Epitaph Prime Blueprint",
             "chance": 16.67,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Axi F3 Relic (Radiant)",
@@ -57084,7 +57084,7 @@
             "type": "Epitaph Prime Blueprint",
             "chance": 16.67,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Lith D7 Relic (Radiant)",
@@ -57119,7 +57119,7 @@
             "type": "Epitaph Prime Blueprint",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Axi F3 Relic (Flawless)",
@@ -57140,7 +57140,7 @@
             "type": "Epitaph Prime Blueprint",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Lith D7 Relic (Flawless)",
@@ -57175,7 +57175,7 @@
             "type": "Epitaph Prime Blueprint",
             "chance": 23.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Axi F3 Relic (Exceptional)",
@@ -57196,7 +57196,7 @@
             "type": "Epitaph Prime Blueprint",
             "chance": 23.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Lith D7 Relic (Exceptional)",
@@ -57231,7 +57231,7 @@
             "type": "Epitaph Prime Blueprint",
             "chance": 25.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Axi F3 Relic",
@@ -57252,7 +57252,7 @@
             "type": "Epitaph Prime Blueprint",
             "chance": 25.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeABronze"
           },
           {
             "location": "Lith D7 Relic",
@@ -57309,7 +57309,7 @@
             "type": "Epitaph Prime Receiver",
             "chance": 10,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeBBronze"
           },
           {
             "location": "Neo E4 Relic (Radiant)",
@@ -57337,7 +57337,7 @@
             "type": "Epitaph Prime Receiver",
             "chance": 2,
             "rarity": "Rare",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeBBronze"
           },
           {
             "location": "Neo E4 Relic",
@@ -57365,7 +57365,7 @@
             "type": "Epitaph Prime Receiver",
             "chance": 4,
             "rarity": "Rare",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeBBronze"
           },
           {
             "location": "Neo E4 Relic (Exceptional)",
@@ -57393,7 +57393,7 @@
             "type": "Epitaph Prime Receiver",
             "chance": 6,
             "rarity": "Rare",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeBBronze"
           },
           {
             "location": "Neo E4 Relic (Flawless)",
@@ -63638,7 +63638,7 @@
             "type": "Kompressa Prime Blueprint",
             "chance": 16.67,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Axi Y2 Relic (Flawless)",
@@ -63666,7 +63666,7 @@
             "type": "Kompressa Prime Blueprint",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Axi Y2 Relic (Exceptional)",
@@ -63694,7 +63694,7 @@
             "type": "Kompressa Prime Blueprint",
             "chance": 23.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeCBronze"
           },
           {
             "location": "Axi Y2 Relic",
@@ -63722,7 +63722,7 @@
             "type": "Kompressa Prime Blueprint",
             "chance": 25.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeCBronze"
           }
         ]
       },
@@ -63765,7 +63765,7 @@
             "type": "Kompressa Prime Receiver",
             "chance": 11,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           },
           {
             "location": "Axi A20 Relic (Exceptional)",
@@ -63786,7 +63786,7 @@
             "type": "Kompressa Prime Receiver",
             "chance": 13,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           },
           {
             "location": "Axi A20 Relic (Flawless)",
@@ -63807,7 +63807,7 @@
             "type": "Kompressa Prime Receiver",
             "chance": 17,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           },
           {
             "location": "Axi A20 Relic (Radiant)",
@@ -63828,7 +63828,7 @@
             "type": "Kompressa Prime Receiver",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           }
         ],
         "masterable": false,
@@ -67137,7 +67137,7 @@
             "type": "Lex Prime Barrel",
             "chance": 16.67,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           },
           {
             "location": "Axi V7 Relic (Radiant)",
@@ -67445,7 +67445,7 @@
             "type": "Lex Prime Barrel",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           },
           {
             "location": "Axi V7 Relic (Flawless)",
@@ -67753,7 +67753,7 @@
             "type": "Lex Prime Barrel",
             "chance": 23.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           },
           {
             "location": "Axi V7 Relic (Exceptional)",
@@ -68061,7 +68061,7 @@
             "type": "Lex Prime Barrel",
             "chance": 25.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           },
           {
             "location": "Axi V7 Relic",
@@ -69533,7 +69533,7 @@
             "type": "Lex Prime Receiver",
             "chance": 16.67,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
           },
           {
             "location": "Axi E2 Relic (Radiant)",
@@ -69820,7 +69820,7 @@
             "type": "Lex Prime Receiver",
             "chance": 20,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
           },
           {
             "location": "Axi E2 Relic (Flawless)",
@@ -70107,7 +70107,7 @@
             "type": "Lex Prime Receiver",
             "chance": 23.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
           },
           {
             "location": "Axi E2 Relic (Exceptional)",
@@ -70394,7 +70394,7 @@
             "type": "Lex Prime Receiver",
             "chance": 25.33,
             "rarity": "Uncommon",
-            "uniqueName": ""
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
           },
           {
             "location": "Axi E2 Relic",
