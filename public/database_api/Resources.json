@@ -1285,6 +1285,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartSystemsItem",
     "name": "Bonewidow Capsule",
     "description": "Capsule component for the Bonewidow Necramech.",
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -1359,6 +1363,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartChassisItem",
     "name": "Bonewidow Casing",
     "description": "Casing component for the Bonewidow Necramech.",
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -1433,6 +1441,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartEngineItem",
     "name": "Bonewidow Engine",
     "description": "Engine component for the Bonewidow Necramech.",
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -1507,6 +1519,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartWeaponPodItem",
     "name": "Bonewidow Weapon Pod",
     "description": "Weapon Pod component for the Bonewidow Necramech.",
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -3855,6 +3871,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagRare",
     "name": "Echo Voca",
     "description": "The quietest and most elusive of Voidtongue utterances. Sought after but never found by Albrecht.\n\nLocation: Albrecht's Laboratories (Deimos)",
+    "itemCount": 1,
+    "parents": [
+      "Qorvex"
+    ],
     "type": "Resource",
     "imageName": "echo-voca-32f69b9f58.png",
     "category": "Resources",
@@ -6956,6 +6976,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/EclipseVoidWraithItem",
     "name": "Lua Thrax Plasm",
     "description": "A unique variant of Thrax Plasm harvested during Void Conjunctions on Lua.\n\nLocation: Yuvarium and Circulus on Lua",
+    "itemCount": 50,
+    "parents": [
+      "Voruna"
+    ],
     "type": "Resource",
     "imageName": "lua-thrax-plasm-588b2993b7.png",
     "category": "Resources",
@@ -9344,6 +9368,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriDragonDropItem",
     "name": "Pathos Clamp",
     "description": "The manifestation of Thrax's malevolence that shapes the Orowyrms' outbursts.\n\nLocation: Rewarded upon defeating the Orowyrm in Duviri ",
+    "itemCount": 10,
+    "parents": [
+      "Kullervo"
+    ],
     "type": "Resource",
     "imageName": "pathos-clamp-9b4e5eca68.png",
     "category": "Resources",
@@ -13585,6 +13613,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartSystemsItem",
     "name": "Voidrig Capsule",
     "description": "Capsule component for the Voidrig Necramech.",
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -13678,6 +13710,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartChassisItem",
     "name": "Voidrig Casing",
     "description": "Casing component for the Voidrig Necramech.",
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -13770,6 +13806,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartEngineItem",
     "name": "Voidrig Engine",
     "description": "Engine component for the Voidrig Necramech.",
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -13863,6 +13903,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartWeaponPodItem",
     "name": "Voidrig Weapon Pod",
     "description": "Weapon Pod component for the Voidrig Necramech.",
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
