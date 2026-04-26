@@ -5258,7 +5258,7 @@
         "url": "https://forums.warframe.com/topic/1181462-operation-scarlet-spear-tennogen-2738-27381-27382/",
         "additions": "",
         "changes": "",
-        "fixes": "We made a hasty change in Hotfix 27.3.6 that removed Venari’s Heal aura from affecting Oplinks AND Defense Targets. Firstly, the terminology of calling Venari��s Defense Target healing a ‘fix’ was incorrect, so apologies there on my behalf. It’s correct to say it was a feature for Venari, considering it had its own Tip for it! The change stemmed from our desire to resolve Operation exploits as quickly as possible, and we didn't communicate this properly."
+        "fixes": "We made a hasty change in Hotfix 27.3.6 that removed Venari’s Heal aura from affecting Oplinks AND Defense Targets. Firstly, the terminology of calling Venari���s Defense Target healing a ‘fix’ was incorrect, so apologies there on my behalf. It’s correct to say it was a feature for Venari, considering it had its own Tip for it! The change stemmed from our desire to resolve Operation exploits as quickly as possible, and we didn't communicate this properly."
       },
       {
         "name": "Operation: Scarlet Spear: Titania Prime 27.3.6",
