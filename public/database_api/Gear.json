@@ -2451,6 +2451,17 @@
     "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
     "name": "Fass Residue",
     "description": "A chunk of the wyrm Fass, collected after his explosive death in the Cambion Drift. Used to attract Glutinox on the surface during Vome, Ostimyr at surface hotspots during Fass, and Vitreospina in caves during Fass/Vome.\n\nLocation: Cambion Drift on Deimos while Vome is active",
+    "itemCount": 6,
+    "parents": [
+      "Desus Antigen",
+      "Elasmun Antigen",
+      "Ibexan Antigen",
+      "Iranon Antigen",
+      "Plagen Antigen",
+      "Poxi Antigen",
+      "Tethron Antigen",
+      "Virox Antigen"
+    ],
     "type": "Fish Bait",
     "imageName": "fass-residue-b9d66017f7.png",
     "category": "Gear",
@@ -7218,7 +7229,7 @@
         "date": "2015-02-05T21:08:01Z",
         "url": "https://forums.warframe.com/topic/396379-update-1513/",
         "additions": "",
-        "changes": "Casting Frost’s Snow Globe inside of a Snow Globe you previously created will combine the health of both globes, eliminating the old Globe in the process. This will allow for greater combat visibility as your view won��t be obscured by opaque stacked Snow-Globe walls!",
+        "changes": "Casting Frost’s Snow Globe inside of a Snow Globe you previously created will combine the health of both globes, eliminating the old Globe in the process. This will allow for greater combat visibility as your view won’t be obscured by opaque stacked Snow-Globe walls!",
         "fixes": ""
       },
       {
@@ -9595,6 +9606,17 @@
     "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
     "name": "Vome Residue",
     "description": "A gobbet of raw flesh, fallen from the wyrm Vome in her death spasm. Used to attract Chondricord and Duriod in Cambion Drift cave hotspots during Fass and Vome.\n\nLocation: Cambion Drift on Deimos while Fass is active",
+    "itemCount": 6,
+    "parents": [
+      "Adra Mutagen",
+      "Arioli Mutagen",
+      "Chiten Mutagen",
+      "Elsa Mutagen",
+      "Leptosam Mutagen",
+      "Monachod Mutagen",
+      "Phijar Mutagen",
+      "Zarim Mutagen"
+    ],
     "type": "Fish Bait",
     "imageName": "vome-residue-5a9cb65b4d.png",
     "category": "Gear",
