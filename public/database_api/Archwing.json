@@ -15,25 +15,25 @@
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/SupportDronesAbility",
         "name": "Watchful Swarm",
         "description": "Tiny drones orbit the Warframe or an ally, and intercept enemy fire.",
-        "imageName": "watchful-swarm-f78afef186.png"
+        "imageName": "ArchwingFourSecurity.png"
       },
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/SupportAnchorsAbility",
         "name": "Benevolent Decoy",
         "description": "Creates beacons that draw enemy fire, converting the damage into healing pulses.",
-        "imageName": "benevolent-decoy-404117f751.png"
+        "imageName": "ArchwingFourAnchors.png"
       },
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/SupportWardAbility",
         "name": "Warding Grace",
         "description": "Renders the Warframe and nearby allies immune to Status Effects, while slowing nearby enemies.",
-        "imageName": "warding-grace-7d8d8acd05.png"
+        "imageName": "ArchwingFourBlast.png"
       },
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/SupportEnergyAbility",
         "name": "Vengeful Rush",
         "description": "All damage taken is transformed into Energy, while abilities gain enhanced Range, Duration and Power. Affects the Warframe and nearby allies.",
-        "imageName": "vengeful-rush-6b06d6ca9e.png"
+        "imageName": "ArchwingFourBounty.png"
       }
     ],
     "productCategory": "SpaceSuits",
@@ -58,7 +58,7 @@
         "name": "Harness",
         "description": "Harness component of the Amesha Archwing.",
         "itemCount": 1,
-        "imageName": "amesha-harness.png",
+        "imageName": "GenericArchwingHarness.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -68,7 +68,7 @@
         "name": "Nitain Extract",
         "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\n\nLocation: Nightwave Cred Offerings",
         "itemCount": 4,
-        "imageName": "nitain-extract-ba7ea3b2cf.png",
+        "imageName": "Alertium.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -78,7 +78,7 @@
         "name": "Systems",
         "description": "Systems component of the Amesha Archwing.",
         "itemCount": 1,
-        "imageName": "amesha-systems.png",
+        "imageName": "GenericArchwingSystems.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -88,14 +88,14 @@
         "name": "Wings",
         "description": "Wings component of the Amesha Archwing.",
         "itemCount": 1,
-        "imageName": "amesha-wings.png",
+        "imageName": "GenericArchwingWings.png",
         "tradable": false,
         "masterable": false,
         "drops": []
       }
     ],
     "type": "Archwing",
-    "imageName": "amesha-5bef2b8e0e.png",
+    "imageName": "Amesha.png",
     "category": "Archwing",
     "tradable": false,
     "patchlogs": [
@@ -174,25 +174,25 @@
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/TnTAbility",
         "name": "Bloomer",
         "description": "Fires a high-yield, remotely detonated explosive projectile capable of latching onto targets.",
-        "imageName": "bloomer-b31630f0df.png"
+        "imageName": "ArchwingTwoTNT.png"
       },
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/ExhaustTrailAbility",
         "name": "Core Vent",
         "description": "Vents out the Archwing's propulsion core, confusing enemy projectiles and causing them to detonate.",
-        "imageName": "core-vent-9614e8b27e.png"
+        "imageName": "ArchwingTwoExhaustTrail.png"
       },
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/ArtilleryBarrageAbility",
         "name": "Thumper",
         "description": "Creates a localized storm of punishing explosions.",
-        "imageName": "thumper-118cb7d4de.png"
+        "imageName": "ArchwingTwoArtilleryBarrage.png"
       },
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/BigBoyAbility",
         "name": "Warhead",
         "description": "Launches a plodding missile capable of unleashing a massive explosion.",
-        "imageName": "warhead-924422778e.png"
+        "imageName": "ArchwingTwoBigBoy.png"
       }
     ],
     "productCategory": "SpaceSuits",
@@ -217,78 +217,18 @@
         "name": "Control Module",
         "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
         "itemCount": 5,
-        "buildPrice": 15000,
-        "buildTime": 3600,
-        "skipBuildTimePrice": 2,
-        "buildQuantity": 1,
-        "consumeOnBuild": false,
-        "components": [
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
-            "name": "Alloy Plate",
-            "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
-            "itemCount": 10000,
-            "imageName": "alloy-plate-af5adc4919.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          },
-          {
-            "uniqueName": "/Lotus/Types/Recipes/Components/ControlModuleResourceBlueprint",
-            "name": "Blueprint",
-            "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
-            "itemCount": 1,
-            "imageName": "blueprint.png",
-            "tradable": false,
-            "masterable": false,
-            "drops": []
-          },
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
-            "name": "Ferrite",
-            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
-            "itemCount": 10000,
-            "imageName": "ferrite-cfb542c27b.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false
-          },
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
-            "name": "Nano Spores",
-            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
-            "itemCount": 25000,
-            "imageName": "nano-spores-8933019524.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          },
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
-            "name": "Salvage",
-            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
-            "itemCount": 10000,
-            "imageName": "salvage-b2174bedac.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          }
-        ],
-        "imageName": "control-module-edf6e412c3.png",
+        "imageName": "ControlModule.png",
         "tradable": false,
+        "drops": [],
         "masterable": false,
-        "type": "Resource",
-        "drops": []
+        "type": "Resource"
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingChassisComponent",
         "name": "Harness",
         "description": "Harness component of the Elytron Archwing.",
         "itemCount": 1,
-        "imageName": "elytron-harness.png",
+        "imageName": "GenericArchwingHarness.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -298,7 +238,7 @@
         "name": "Systems",
         "description": "Systems component of the Elytron Archwing.",
         "itemCount": 1,
-        "imageName": "elytron-systems.png",
+        "imageName": "GenericArchwingSystems.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -308,14 +248,14 @@
         "name": "Wings",
         "description": "Wings component of the Elytron Archwing.",
         "itemCount": 1,
-        "imageName": "elytron-wings.png",
+        "imageName": "GenericArchwingWings.png",
         "tradable": false,
         "masterable": false,
         "drops": []
       }
     ],
     "type": "Archwing",
-    "imageName": "elytron-8f63d43729.png",
+    "imageName": "Elytron.png",
     "category": "Archwing",
     "tradable": false,
     "patchlogs": [
@@ -467,25 +407,25 @@
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/GrappleHookAbility",
         "name": "Arch Line",
         "description": "Launch a tethered hook that either pulls enemies close, or pulls the Warframe toward any stationary objects it hooks onto.",
-        "imageName": "arch-line-d3f5f5ff50.png"
+        "imageName": "ItzalRipline.png"
       },
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/CloakingAbility",
         "name": "Penumbra",
         "description": "Activates a cloaking field that hides the Warframe and any nearby allies who remain stationary.",
-        "imageName": "penumbra-692551ee61.png"
+        "imageName": "ArchwingThreeCloaking.png"
       },
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/GravitationalInstabilityAbility",
         "name": "Cosmic Crush",
         "description": "Forms a miniature black hole that sucks in all nearby objects before rupturing in a massive shock wave.",
-        "imageName": "cosmic-crush-504eb0b0e0.png"
+        "imageName": "ArchwingThreeGravInstability.png"
       },
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/DistractionDronesAbility",
         "name": "Fighter Escort",
         "description": "Deploys drones that fight alongside the Warframe, each detonating in a destructive blast when killed.",
-        "imageName": "fighter-escort-b459286e4f.png"
+        "imageName": "ArchwingThreeDistractionDrones.png"
       }
     ],
     "productCategory": "SpaceSuits",
@@ -510,78 +450,18 @@
         "name": "Control Module",
         "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
         "itemCount": 2,
-        "buildPrice": 15000,
-        "buildTime": 3600,
-        "skipBuildTimePrice": 2,
-        "buildQuantity": 1,
-        "consumeOnBuild": false,
-        "components": [
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
-            "name": "Alloy Plate",
-            "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
-            "itemCount": 10000,
-            "imageName": "alloy-plate-af5adc4919.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          },
-          {
-            "uniqueName": "/Lotus/Types/Recipes/Components/ControlModuleResourceBlueprint",
-            "name": "Blueprint",
-            "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
-            "itemCount": 1,
-            "imageName": "blueprint.png",
-            "tradable": false,
-            "masterable": false,
-            "drops": []
-          },
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
-            "name": "Ferrite",
-            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
-            "itemCount": 10000,
-            "imageName": "ferrite-cfb542c27b.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false
-          },
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
-            "name": "Nano Spores",
-            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
-            "itemCount": 25000,
-            "imageName": "nano-spores-8933019524.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          },
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
-            "name": "Salvage",
-            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
-            "itemCount": 10000,
-            "imageName": "salvage-b2174bedac.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          }
-        ],
-        "imageName": "control-module-edf6e412c3.png",
+        "imageName": "ControlModule.png",
         "tradable": false,
+        "drops": [],
         "masterable": false,
-        "type": "Resource",
-        "drops": []
+        "type": "Resource"
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingChassisComponent",
         "name": "Harness",
         "description": "Harness component of the Itzal Archwing.",
         "itemCount": 1,
-        "imageName": "itzal-harness.png",
+        "imageName": "GenericArchwingHarness.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -591,7 +471,7 @@
         "name": "Systems",
         "description": "Systems component of the Itzal Archwing.",
         "itemCount": 1,
-        "imageName": "itzal-systems.png",
+        "imageName": "GenericArchwingSystems.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -601,14 +481,14 @@
         "name": "Wings",
         "description": "Wings component of the Itzal Archwing.",
         "itemCount": 1,
-        "imageName": "itzal-wings.png",
+        "imageName": "GenericArchwingWings.png",
         "tradable": false,
         "masterable": false,
         "drops": []
       }
     ],
     "type": "Archwing",
-    "imageName": "itzal-a120d975d8.png",
+    "imageName": "Itzal.png",
     "category": "Archwing",
     "tradable": false,
     "patchlogs": [
@@ -925,25 +805,25 @@
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/FireShieldAbility",
         "name": "Energy Shell",
         "description": "Forms a protective energy shell around the Warframe",
-        "imageName": "energy-shell-4161409a59.png"
+        "imageName": "ArchwingOneShield.png"
       },
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/FlareCounterMeasureAbility",
         "name": "Disarray",
         "description": "Drops flare beacons confusing incoming guided missiles.",
-        "imageName": "disarray-0a536226ae.png"
+        "imageName": "ArchwingOneChaff.png"
       },
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/MissileVolleyAbility",
         "name": "Seeking Fire",
         "description": "Fires a large volley of homing missiles.",
-        "imageName": "seeking-fire-7bb1aeb759.png"
+        "imageName": "ArchwingOneMissileVolley.png"
       },
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/EMPPushAbility",
         "name": "Repel",
         "description": "The Warframe emits a massive pulse of energy, stunning nearby enemies and sending them flying.",
-        "imageName": "repel-7f65457cfd.png"
+        "imageName": "ArchwingOneEMPPush.png"
       }
     ],
     "productCategory": "SpaceSuits",
@@ -975,7 +855,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 300,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -986,7 +866,7 @@
         "name": "Harness",
         "description": "Harness component of the Odonata Archwing.",
         "itemCount": 1,
-        "imageName": "odonata-harness.png",
+        "imageName": "GenericArchwingHarness.png",
         "tradable": false,
         "drops": [
           {
@@ -1003,7 +883,7 @@
         "name": "Systems",
         "description": "Systems component of the Odonata Archwing.",
         "itemCount": 1,
-        "imageName": "odonata-systems.png",
+        "imageName": "GenericArchwingSystems.png",
         "tradable": false,
         "drops": [
           {
@@ -1020,7 +900,7 @@
         "name": "Wings",
         "description": "Wings component of the Odonata Archwing.",
         "itemCount": 1,
-        "imageName": "odonata-wings.png",
+        "imageName": "GenericArchwingWings.png",
         "tradable": false,
         "drops": [
           {
@@ -1034,7 +914,7 @@
       }
     ],
     "type": "Archwing",
-    "imageName": "odonata-0425304f27.png",
+    "imageName": "Odonata.png",
     "category": "Archwing",
     "tradable": false,
     "patchlogs": [
@@ -1194,25 +1074,25 @@
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/FireShieldAbility",
         "name": "Energy Shell",
         "description": "Forms a protective energy shell around the Warframe",
-        "imageName": "energy-shell-4161409a59.png"
+        "imageName": "ArchwingOneShield.png"
       },
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/FlareCounterMeasureAbility",
         "name": "Disarray",
         "description": "Drops flare beacons confusing incoming guided missiles.",
-        "imageName": "disarray-0a536226ae.png"
+        "imageName": "ArchwingOneChaff.png"
       },
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/MissileVolleyAbility",
         "name": "Seeking Fire",
         "description": "Fires a large volley of homing missiles.",
-        "imageName": "seeking-fire-7bb1aeb759.png"
+        "imageName": "ArchwingOneMissileVolley.png"
       },
       {
         "uniqueName": "/Lotus/Powersuits/Archwing/ArchwingAbilities/EMPPushAbility",
         "name": "Repel",
         "description": "The Warframe emits a massive pulse of energy, stunning nearby enemies and sending them flying.",
-        "imageName": "repel-7f65457cfd.png"
+        "imageName": "ArchwingOneEMPPush.png"
       }
     ],
     "productCategory": "SpaceSuits",
@@ -1381,7 +1261,7 @@
         "description": "Harness component of the Odonata Prime Archwing.",
         "primeSellingPrice": 15,
         "itemCount": 1,
-        "imageName": "prime-odonata-prime-harness.png",
+        "imageName": "GenericArchwingHarnessPrime.png",
         "tradable": true,
         "drops": [
           {
@@ -1561,61 +1441,11 @@
         "name": "Orokin Cell",
         "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
         "itemCount": 1,
-        "buildPrice": 15000,
-        "buildTime": 3600,
-        "skipBuildTimePrice": 2,
-        "buildQuantity": 1,
-        "consumeOnBuild": false,
-        "components": [
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
-            "name": "Alloy Plate",
-            "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
-            "itemCount": 50000,
-            "imageName": "alloy-plate-af5adc4919.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          },
-          {
-            "uniqueName": "/Lotus/Types/Recipes/Components/OrokinCellResourceBlueprint",
-            "name": "Blueprint",
-            "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
-            "itemCount": 1,
-            "imageName": "blueprint.png",
-            "tradable": false,
-            "masterable": false,
-            "drops": []
-          },
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
-            "name": "Nano Spores",
-            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
-            "itemCount": 50000,
-            "imageName": "nano-spores-8933019524.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          },
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
-            "name": "Salvage",
-            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
-            "itemCount": 25000,
-            "imageName": "salvage-b2174bedac.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          }
-        ],
-        "imageName": "orokin-cell-0d237af036.png",
+        "imageName": "ComponentCell.png",
         "tradable": false,
+        "drops": [],
         "masterable": false,
-        "type": "Resource",
-        "drops": []
+        "type": "Resource"
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingSystemsComponent",
@@ -1623,7 +1453,7 @@
         "description": "Systems component of the Odonata Prime Archwing.",
         "primeSellingPrice": 15,
         "itemCount": 1,
-        "imageName": "prime-odonata-prime-systems.png",
+        "imageName": "GenericArchwingSystemsPrime.png",
         "tradable": true,
         "drops": [
           {
@@ -1776,7 +1606,7 @@
         "description": "Wings component of the Odonata Prime Archwing.",
         "primeSellingPrice": 65,
         "itemCount": 1,
-        "imageName": "prime-odonata-prime-wings.png",
+        "imageName": "GenericArchwingWingsPrime.png",
         "tradable": true,
         "drops": [
           {
@@ -1897,7 +1727,7 @@
       }
     ],
     "type": "Archwing",
-    "imageName": "odonata-prime-39baaa7427.png",
+    "imageName": "OdonataPrime.png",
     "category": "Archwing",
     "tradable": true,
     "patchlogs": [

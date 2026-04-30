@@ -4,7 +4,7 @@
     "name": "A Fishing Spear",
     "description": "The barbed prongs on this fishing spear make it easier to catch fish with smooth skin. \n\nObtained from Fisher Hai-Luk in Cetus (Earth). This spear is most effective on the following Plains of Eidolon fish:\nCharc Eel\nCuthol\nGoopolla\nMurkray\nSharrac\nYogwun",
     "type": "Gear",
-    "imageName": "a-fishing-spear-4703d7e589.png",
+    "imageName": "FishingSpearA.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -24,7 +24,7 @@
         "name": "Alloy Plate",
         "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 1000,
-        "imageName": "alloy-plate-af5adc4919.png",
+        "imageName": "AlloyPlate.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -45,7 +45,7 @@
         "name": "Plastids",
         "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
         "itemCount": 500,
-        "imageName": "plastids-dabf813edd.png",
+        "imageName": "ComponentPlastids.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -56,7 +56,7 @@
         "name": "Polymer Bundle",
         "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
         "itemCount": 1500,
-        "imageName": "polymer-bundle-b8d240c368.png",
+        "imageName": "PolymerBundle.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -67,7 +67,7 @@
         "name": "Synthula",
         "description": "Distilled fuel for stims.",
         "itemCount": 2,
-        "imageName": "synthula-c2b5de283b.png",
+        "imageName": "Eventium.png",
         "tradable": false,
         "masterable": false,
         "type": "Resource",
@@ -75,7 +75,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "adrenal-stim-19d3164668.png",
+    "imageName": "AdrenalStim.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -105,7 +105,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 500,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -116,7 +116,7 @@
         "name": "Fersteel Alloy",
         "description": "Ferros that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "itemCount": 40,
-        "imageName": "fersteel-alloy-c11c0e2d3c.png",
+        "imageName": "UncommonOreAAlloyA.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -126,14 +126,14 @@
         "name": "Marquise Veridos",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "itemCount": 2,
-        "imageName": "marquise-veridos-217877dacf.png",
+        "imageName": "UncommonGemACutA.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "advanced-nosam-cutter-e654a1fc03.png",
+    "imageName": "MiningLaserC.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -163,7 +163,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 1200,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -173,7 +173,7 @@
         "name": "Morphics",
         "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
         "itemCount": 1,
-        "imageName": "morphics-657362f875.png",
+        "imageName": "ComponentMorphic.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -184,7 +184,7 @@
         "name": "Plastids",
         "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
         "itemCount": 700,
-        "imageName": "plastids-dabf813edd.png",
+        "imageName": "ComponentPlastids.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -195,7 +195,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 2000,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -203,7 +203,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "air-support-charges-5da379be80.png",
+    "imageName": "LisetAirSupport.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -247,7 +247,7 @@
     "name": "Alpha Corruptor",
     "description": "Inert on its own this corruptor is highly effective if mixed with its Beta counterpart. Properly mixed, these will destabilize Fomorian Reactors much faster than their Stable counterparts. This volatile item cannot be simultaneously equipped with Beta Corruptors. Recommended for Tenno operating as a team.",
     "type": "Gear",
-    "imageName": "alpha-corruptor-39bd40a61e.png",
+    "imageName": "CorruptorYellow.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -277,14 +277,14 @@
         "name": "Moonlight Threshcone",
         "description": "This common plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Threshcone plants that grow on Earth",
         "itemCount": 4,
-        "imageName": "moonlight-threshcone-4b4540893f.png",
+        "imageName": "ForestNightCommon.png",
         "tradable": false,
         "masterable": false,
         "drops": []
       }
     ],
     "type": "Gear",
-    "imageName": "amethyst-antitoxin-8f6837bc33.png",
+    "imageName": "AmethystAntitoxin.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -327,7 +327,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 2500,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -337,7 +337,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 2500,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -348,7 +348,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 2500,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -356,7 +356,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "ancient-protector-specter-56e6443196.png",
+    "imageName": "BallSpawnerAncientHealer.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -376,7 +376,7 @@
         "name": "Antiserum Injector Fragment",
         "description": "A component of the Antiserum Injector.\n\nLocation: Oestrus on Eris",
         "itemCount": 500,
-        "imageName": "fragment-a2cbfde4c7.png",
+        "imageName": "Actuator.png",
         "tradable": false,
         "masterable": false,
         "type": "Resource",
@@ -397,7 +397,7 @@
         "name": "Fieldron",
         "description": "ClanTech weaponized containment field to contain superheated substances.\n\nLocation: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards",
         "itemCount": 2,
-        "imageName": "fieldron-db068da41e.png",
+        "imageName": "CorpusComponent.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -407,7 +407,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 6000,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -418,7 +418,7 @@
         "name": "Tellurium",
         "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.\n\nLocation: Archwing Missions on Uranus",
         "itemCount": 2,
-        "imageName": "tellurium-9236306b55.png",
+        "imageName": "Tellurium.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -426,7 +426,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "antiserum-injector-03ac73f434.png",
+    "imageName": "SyringeStandardFull.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -470,7 +470,7 @@
     "name": "Archgun Deployer",
     "description": "Deploy the selected archwing gun in any atmospheric environment using this gear item.",
     "type": "Gear",
-    "imageName": "archgun-deployer-ba9a462512.png",
+    "imageName": "SummonArchwingGun.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -506,7 +506,7 @@
     "name": "Archwing Launcher",
     "description": "Summons an Archwing for use during free roam missions.",
     "type": "Gear",
-    "imageName": "archwing-launcher-9f2237ab90.png",
+    "imageName": "GenericArchwingSystems.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -582,7 +582,7 @@
     "name": "Atomicycle Summon",
     "description": "Summons an Atomicycle for use in 1999 and free roam missions.",
     "type": "Gear",
-    "imageName": "atomicycle-summon-59e710bce0.png",
+    "imageName": "SummonMotorcycle.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -592,7 +592,7 @@
     "name": "Avichaea Echo-Lure",
     "description": "Entice and attract nearby Avichaea with life-like animal calls.",
     "type": "Gear",
-    "imageName": "avichaea-echo-lure-cfba141dcc.png",
+    "imageName": "LureChipInfestedMergoo.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -610,7 +610,7 @@
     "name": "Avichaea Pheromone Gland",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Avichaea.",
     "type": "Gear",
-    "imageName": "avichaea-pheromone-gland-7eed8af08d.png",
+    "imageName": "RarityBoostInfestedMergoo.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -628,7 +628,7 @@
     "name": "Beckonsnare",
     "description": "Field-and-forget, the Beckonsnare emits an ultrasonic frequency enticing to targeted lifeforms. Upon entering they are comfortably contained within a one-way photon fence for easy collection at your convenience.",
     "type": "Gear",
-    "imageName": "beckonsnare-01830c83f4.png",
+    "imageName": "LandscapeTrapLightGear.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -658,14 +658,14 @@
         "name": "Sunlight Threshcone",
         "description": "This common plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Threshcone plants that grow on Earth",
         "itemCount": 4,
-        "imageName": "sunlight-threshcone-b0e6273f84.png",
+        "imageName": "ForestDayCommon.png",
         "tradable": false,
         "masterable": false,
         "drops": []
       }
     ],
     "type": "Gear",
-    "imageName": "beryl-antitoxin-97b3b580be.png",
+    "imageName": "BerylAntitoxin.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -675,7 +675,7 @@
     "name": "Beta Corruptor",
     "description": "Inert on its own this corruptor is highly effective if mixed with its Alpha counterpart. Properly mixed, these will destabilize Fomorian Reactors much faster than their Stable counterparts. This volatile item cannot be simultaneously equipped with Alpha Corruptors. Recommended for Tenno operating as a team.",
     "type": "Gear",
-    "imageName": "beta-corruptor-b7e4a3985d.png",
+    "imageName": "CorruptorRed.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -705,7 +705,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 250,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -715,7 +715,7 @@
         "name": "Void Traces",
         "description": "A substance used to increase the power within Relics.\n\nLocation: Void Fissure Missions",
         "itemCount": 10,
-        "imageName": "void-traces-9a7f26f348.png",
+        "imageName": "Luminous.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -723,7 +723,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "bleeding-dragon-key-ea57f2428a.png",
+    "imageName": "VaultKeyB.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -733,7 +733,7 @@
     "name": "Bolarola Echo-Lure",
     "description": "Entice and attract nearby Bolarola with life-like animal calls. The Bolarola is most often found around the Mountainous areas of Orb Vallis.",
     "type": "Gear",
-    "imageName": "bolarola-echo-lure-3b734218ec.png",
+    "imageName": "ThemeLureChipSnowArmadillo.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -751,7 +751,7 @@
     "name": "Bolarola Pheromone Synthesizer",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Bolarola.",
     "type": "Gear",
-    "imageName": "bolarola-pheromone-synthesizer-3c3ac6e927.png",
+    "imageName": "RarityBoostSnowArmadillo.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -769,7 +769,7 @@
     "name": "Broad-Spectrum Bait",
     "description": "A simple cocktail of short-chain polymers and contaminants. Easily detected by rudimentary Servofish in the Orb Vallis under all conditions, but ignored by more specialized models. Good for Sapcaddies (found in the lake), and Tinks and Brickies (found in ponds).\n\nObtained from The Business in Fortuna (Venus).",
     "type": "Fish",
-    "imageName": "broad-spectrum-bait-f581a7dabf.png",
+    "imageName": "ContaminantGeneric.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -815,7 +815,7 @@
         "name": "Alloy Plate",
         "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 1500,
-        "imageName": "alloy-plate-af5adc4919.png",
+        "imageName": "AlloyPlate.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -836,7 +836,7 @@
         "name": "Plastids",
         "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
         "itemCount": 500,
-        "imageName": "plastids-dabf813edd.png",
+        "imageName": "ComponentPlastids.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -847,7 +847,7 @@
         "name": "Polymer Bundle",
         "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
         "itemCount": 1000,
-        "imageName": "polymer-bundle-b8d240c368.png",
+        "imageName": "PolymerBundle.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -858,7 +858,7 @@
         "name": "Synthula",
         "description": "Distilled fuel for stims.",
         "itemCount": 2,
-        "imageName": "synthula-c2b5de283b.png",
+        "imageName": "Eventium.png",
         "tradable": false,
         "masterable": false,
         "type": "Resource",
@@ -866,7 +866,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "calcifin-stim-45471f8c86.png",
+    "imageName": "CalcifinStim.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -876,7 +876,7 @@
     "name": "Carpet Bomb",
     "description": "Ordis drops bombs in a line from your position to the beacon you placed.",
     "type": "Gear",
-    "imageName": "carpet-bomb-fe04853180.png",
+    "imageName": "AirSupportCarpetBomb.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -886,7 +886,7 @@
     "name": "Charamote Bait",
     "description": "This bait is synthesized from complex hexophenol that is known to attract Charamotes, a Servofish found in Orb Vallis cave hotspots.\n\nObtained from The Business in Fortuna (Venus).",
     "type": "Fish",
-    "imageName": "charamote-bait-11aa8f0e30.png",
+    "imageName": "ContaminantCaveTierB.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -937,7 +937,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 2500,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -947,7 +947,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 2500,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -958,7 +958,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 2500,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -966,7 +966,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "charger-specter-cf6bc24e29.png",
+    "imageName": "BallSpawnerCharger.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -1006,7 +1006,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 400,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -1016,7 +1016,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 400,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1024,7 +1024,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "cipher-ca2d2c03c6.png",
+    "imageName": "Cipher.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -1256,7 +1256,7 @@
         "name": "Sunlight Dragonlily",
         "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
         "itemCount": 2,
-        "imageName": "sunlight-dragonlily-aaeb487cc1.png",
+        "imageName": "ForestDayUncommon.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -1266,14 +1266,14 @@
         "name": "Sunlight Threshcone",
         "description": "This common plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Threshcone plants that grow on Earth",
         "itemCount": 2,
-        "imageName": "sunlight-threshcone-b0e6273f84.png",
+        "imageName": "ForestDayCommon.png",
         "tradable": false,
         "masterable": false,
         "drops": []
       }
     ],
     "type": "Gear",
-    "imageName": "citrine-antitoxin-31aea48b11.png",
+    "imageName": "CitrineAntitoxin.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -1334,7 +1334,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 2500,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -1344,7 +1344,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 2500,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1355,7 +1355,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 2500,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1363,7 +1363,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "clem-clone-171af8dec5.png",
+    "imageName": "BallSpawnerClem.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -1403,7 +1403,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 500,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1414,7 +1414,7 @@
         "name": "Cryotic",
         "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\n\nLocation: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune",
         "itemCount": 1500,
-        "imageName": "cryotic-0c63ca0f8d.png",
+        "imageName": "ComponentCryotic.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1425,7 +1425,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 1000,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1436,7 +1436,7 @@
         "name": "Synthula",
         "description": "Distilled fuel for stims.",
         "itemCount": 2,
-        "imageName": "synthula-c2b5de283b.png",
+        "imageName": "Eventium.png",
         "tradable": false,
         "masterable": false,
         "type": "Resource",
@@ -1444,7 +1444,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "clotra-stim-350f687072.png",
+    "imageName": "ClotraStim.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -1454,7 +1454,7 @@
     "name": "Codex Scanner",
     "description": "Samples a target of interest for later analysis in your Codex (25 charges).",
     "type": "Gear",
-    "imageName": "codex-scanner-71a0bbc323.png",
+    "imageName": "CodexScanner.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -1562,7 +1562,7 @@
     "name": "Condroc Echo-Lure",
     "description": "Entice and attract nearby Condroc with life-like animal calls. Condroc inhabit the Plains of Eidolon.",
     "type": "Gear",
-    "imageName": "condroc-echo-lure-74707a47ca.png",
+    "imageName": "ThemeLureChipCondroc.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -1580,7 +1580,7 @@
     "name": "Condroc Pheromone Oota",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Condroc.",
     "type": "Gear",
-    "imageName": "condroc-pheromone-oota-eb9dd8c007.png",
+    "imageName": "RarityBoostCondroc.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -1618,7 +1618,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 2500,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -1628,7 +1628,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 2500,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1639,7 +1639,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 2500,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1647,7 +1647,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "corrupted-bombard-specter-34d1c2afa4.png",
+    "imageName": "BallSpawnerCorruptedBombard.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -1675,7 +1675,7 @@
     "name": "Corrupted Heavy Gunner Specter",
     "description": "Deploys a CORRUPTED HEAVY GUNNER unit to fight for you.",
     "type": "Gear",
-    "imageName": "corrupted-heavy-gunner-specter-c9e3ff83da.png",
+    "imageName": "BallSpawnerCorruptedHeavyGunner.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -1715,7 +1715,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 2500,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -1725,7 +1725,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 2500,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1736,7 +1736,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 2500,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1744,7 +1744,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "corrupted-lancer-specter-34ff224423.png",
+    "imageName": "BallSpawnerCorruptedLancer.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -1841,7 +1841,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 500,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1852,7 +1852,7 @@
         "name": "Gallium",
         "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
         "itemCount": 1,
-        "imageName": "gallium-127519dba9.png",
+        "imageName": "ComponentGallium.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1863,7 +1863,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 5000,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1874,7 +1874,7 @@
         "name": "Plastids",
         "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
         "itemCount": 1000,
-        "imageName": "plastids-dabf813edd.png",
+        "imageName": "ComponentPlastids.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1882,7 +1882,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "cosmic-specter-44fe77acde.png",
+    "imageName": "SpecterPlatinum.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -1892,7 +1892,7 @@
     "name": "Cosmic Specter Regiment",
     "description": "An army composed of cosmic-level Specter clones to be used in defense of the clan's Solar Rail. This Specter army will persist for four conflicts.",
     "type": "Specter",
-    "imageName": "cosmic-specter-regiment-eeb377f5d0.png",
+    "imageName": "SpecterArmyPlatinum.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -1902,7 +1902,7 @@
     "name": "Cryptilex Echo-Lure",
     "description": "Entice and attract nearby Cryptilex with life-like animal calls.",
     "type": "Gear",
-    "imageName": "cryptilex-echo-lure-9f155e745b.png",
+    "imageName": "LureChipInfestedMaggot.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -1920,7 +1920,7 @@
     "name": "Cryptilex Pheromone Gland",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Cryptilex.",
     "type": "Gear",
-    "imageName": "cryptilex-pheromone-gland-25dcc4df47.png",
+    "imageName": "RarityBoostInfestedMaggot.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -1958,7 +1958,7 @@
         "name": "Fish Meat",
         "description": "Used as a source of food and to create bait for predatory fish.\n\nSource: Cut from all Plains of Eidolon Fish via Fisher Hai-Luk in Cetus (Earth). ",
         "itemCount": 20,
-        "imageName": "fish-meat-4d31a3c124.png",
+        "imageName": "FishResourceMeat.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -1968,7 +1968,7 @@
         "name": "Goopolla Spleen",
         "description": "Used in Ostron remedies to purify toxins.\n\nSource: Cut from Goopolla fish via Fisher Hai-Luk in Cetus (Earth). Catch Goopolla in the Plains of Eidolon ocean at any time of day. Also drops from Thumpers in the Plains of Eidolon.",
         "itemCount": 10,
-        "imageName": "goopolla-spleen-014c77406f.png",
+        "imageName": "FishResourceFleshTube.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -1978,7 +1978,7 @@
         "name": "Maprico",
         "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 5,
-        "imageName": "maprico-35a9f7f622.png",
+        "imageName": "EidolonFruit.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -1988,14 +1988,14 @@
         "name": "Murkray Liver",
         "description": "An ingredient used in Ostron cooking and medicine.\n\nSource: Cut from Murkray fish via Fisher Hai-Luk in Cetus (Earth). Catch Murkray in Plains of Eidolon ocean hotspots at any time of day using Murkray Bait. Also drops from Thumpers in the Plains of Eidolon.",
         "itemCount": 5,
-        "imageName": "murkray-liver-0db3ce260d.png",
+        "imageName": "FishResourceOrgan.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Fish",
-    "imageName": "cuthol-bait-5122ca8a16.png",
+    "imageName": "FishBaitNightRareB.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -2035,7 +2035,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 250,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -2045,7 +2045,7 @@
         "name": "Void Traces",
         "description": "A substance used to increase the power within Relics.\n\nLocation: Void Fissure Missions",
         "itemCount": 10,
-        "imageName": "void-traces-9a7f26f348.png",
+        "imageName": "Luminous.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2053,7 +2053,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "decaying-dragon-key-317bc29f46.png",
+    "imageName": "VaultKeyC.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -2063,7 +2063,7 @@
     "name": "Desert Skate Specter",
     "description": "Deploys a DESERT SKATE unit to fight for you.",
     "type": "Gear",
-    "imageName": "desert-skate-specter-7a9bd6a25a.png",
+    "imageName": "BallSpawnerSkate.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -2073,7 +2073,7 @@
     "name": "Dreamers",
     "description": "Nora sends enemies to dreamland with a calming tune.",
     "type": "Gear",
-    "imageName": "dreamers-9436949926.png",
+    "imageName": "AirSupportNightwave.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -2109,7 +2109,7 @@
     "name": "Ebisu Spear",
     "description": "Plumb the depths with this crafty fishing spear that's barely detectable to Infested and hybrid/Orokin fish. Due to its Infested aspect, it's one of the only known things that can pass through exocrine. \n\nObtained from Daughter in the Necralisk. This spear is most effective on fish found in the Cambion Drift (Deimos).",
     "type": "Gear",
-    "imageName": "ebisu-spear-22e4c9d648.png",
+    "imageName": "InfestedFishingSpearB.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -2127,7 +2127,7 @@
     "name": "Echo-Lure",
     "description": "Entice and attract nearby wildlife with life-like animal calls.",
     "type": "Gear",
-    "imageName": "echo-lure-7774387e3d.png",
+    "imageName": "AnimalLure.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -2301,7 +2301,7 @@
     "name": "Eros Arrow Skin",
     "description": "Show the enemy how much you care with the adorable Eros Arrow skin.",
     "type": "Gear",
-    "imageName": "eros-arrow-skin-084215de56.png",
+    "imageName": "ErosArrow.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -2365,7 +2365,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 250,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -2375,7 +2375,7 @@
         "name": "Void Traces",
         "description": "A substance used to increase the power within Relics.\n\nLocation: Void Fissure Missions",
         "itemCount": 10,
-        "imageName": "void-traces-9a7f26f348.png",
+        "imageName": "Luminous.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2383,7 +2383,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "extinguished-dragon-key-39b981e8ed.png",
+    "imageName": "VaultKeyA.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -2423,7 +2423,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 1,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2434,7 +2434,7 @@
         "name": "Polymer Bundle",
         "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
         "itemCount": 5,
-        "imageName": "polymer-bundle-b8d240c368.png",
+        "imageName": "PolymerBundle.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2442,7 +2442,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "faithful-void-offering-4c7ad9ead7.png",
+    "imageName": "CorpusCreditCardMedium.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -2451,19 +2451,8 @@
     "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
     "name": "Fass Residue",
     "description": "A chunk of the wyrm Fass, collected after his explosive death in the Cambion Drift. Used to attract Glutinox on the surface during Vome, Ostimyr at surface hotspots during Fass, and Vitreospina in caves during Fass/Vome.\n\nLocation: Cambion Drift on Deimos while Vome is active",
-    "itemCount": 6,
-    "parents": [
-      "Desus Antigen",
-      "Elasmun Antigen",
-      "Ibexan Antigen",
-      "Iranon Antigen",
-      "Plagen Antigen",
-      "Poxi Antigen",
-      "Tethron Antigen",
-      "Virox Antigen"
-    ],
     "type": "Fish Bait",
-    "imageName": "fass-residue-b9d66017f7.png",
+    "imageName": "WyrmBaitInfested.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -2553,7 +2542,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 500,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2564,7 +2553,7 @@
         "name": "Esher Devar",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "itemCount": 1,
-        "imageName": "esher-devar-7ea467cba3.png",
+        "imageName": "CommonGemBCutA.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -2574,7 +2563,7 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "itemCount": 40,
-        "imageName": "pyrotic-alloy-f0abc50ae0.png",
+        "imageName": "CommonOreAAlloyA.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -2584,14 +2573,14 @@
         "name": "Tear Azurite",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "itemCount": 1,
-        "imageName": "tear-azurite-397c0a4ebc.png",
+        "imageName": "CommonGemACutA.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "focused-nosam-cutter-e24cb8232d.png",
+    "imageName": "MiningLaserB.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -2621,7 +2610,7 @@
         "name": "Cryotic",
         "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\n\nLocation: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune",
         "itemCount": 300,
-        "imageName": "cryotic-0c63ca0f8d.png",
+        "imageName": "ComponentCryotic.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2632,7 +2621,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 3500,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2643,7 +2632,7 @@
         "name": "Omega Isotope",
         "description": "Produced by a Fomorian's power core, these particles only appear on or around planets where a Fomorian is present.\n\nLocation: When a Balor Fomorian is threatening a Planet's Relay, enemies on that Planet will drop this resource",
         "itemCount": 4,
-        "imageName": "omega-isotope-e9cee8ed2f.png",
+        "imageName": "OmegaIsotope.png",
         "tradable": false,
         "masterable": false,
         "type": "Resource",
@@ -2651,7 +2640,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "fomorian-disruptor-e9cff95677.png",
+    "imageName": "FomorianDisruptor.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -2689,7 +2678,7 @@
         "name": "Alloy Plate",
         "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 1000,
-        "imageName": "alloy-plate-af5adc4919.png",
+        "imageName": "AlloyPlate.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2819,7 +2808,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 1000,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2830,7 +2819,7 @@
         "name": "Plastids",
         "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
         "itemCount": 1000,
-        "imageName": "plastids-dabf813edd.png",
+        "imageName": "ComponentPlastids.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2841,7 +2830,7 @@
         "name": "Polymer Bundle",
         "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
         "itemCount": 1000,
-        "imageName": "polymer-bundle-b8d240c368.png",
+        "imageName": "PolymerBundle.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2849,7 +2838,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "force-specter-bc1d6fcdc3.png",
+    "imageName": "SpecterGold.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -2859,7 +2848,7 @@
     "name": "Force Specter Regiment",
     "description": "An army composed of force-level Specter clones to be used in defense of the clan's Solar Rail. This Specter army will persist for three conflicts.",
     "type": "Specter",
-    "imageName": "force-specter-regiment-ff308a5dde.png",
+    "imageName": "SpecterArmyGold.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -2889,7 +2878,7 @@
         "name": "Goopolla Spleen",
         "description": "Used in Ostron remedies to purify toxins.\n\nSource: Cut from Goopolla fish via Fisher Hai-Luk in Cetus (Earth). Catch Goopolla in the Plains of Eidolon ocean at any time of day. Also drops from Thumpers in the Plains of Eidolon.",
         "itemCount": 5,
-        "imageName": "goopolla-spleen-014c77406f.png",
+        "imageName": "FishResourceFleshTube.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -2899,7 +2888,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polysaccharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 5,
-        "imageName": "grokdrul-1753a06746.png",
+        "imageName": "Grokdrul.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -2909,7 +2898,7 @@
         "name": "Karkina Antenna",
         "description": "Ground into a powder this substance can makes fires burn hotter for a brief amount of time.\n\nSource: Cut from Karkina fish via Fisher Hai-Luk in Cetus (Earth). Catch Karkina in the Plains of Eidolon ocean at any time of day using Twilight Bait. Also drops from Thumpers in the Plains of Eidolon.",
         "itemCount": 5,
-        "imageName": "karkina-antenna-98c141fdea.png",
+        "imageName": "FishResourceAntenna.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -2919,14 +2908,14 @@
         "name": "Maprico",
         "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 5,
-        "imageName": "maprico-35a9f7f622.png",
+        "imageName": "EidolonFruit.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "fosfor-blau-9e76fea642.png",
+    "imageName": "FlareBlue.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -2936,7 +2925,7 @@
     "name": "Fosfor Rahd",
     "description": "Launch a bright red flare that significantly increases Affinity Range while active.",
     "type": "Gear",
-    "imageName": "fosfor-rahd-e06d7badab.png",
+    "imageName": "FlareRed.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -2973,7 +2962,7 @@
         "name": "Charc Electroplax",
         "description": "Harvested by the Ostron as a catalyst used in their synthetics.\n\nSource: Cut from Charc Eels via Fisher Hai-Luk in Cetus (Earth). Catch Charc Eels in the Plains of Eidolon lake at any time of day. Also drops from Thumpers in the Plains of Eidolon.",
         "itemCount": 5,
-        "imageName": "charc-electroplax-8f1992da29.png",
+        "imageName": "FishResourceGills.png",
         "tradable": false,
         "drops": [
           {
@@ -3032,7 +3021,7 @@
         "name": "Iradite",
         "description": "A mineral valuable to the Ostrons.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 5,
-        "imageName": "iradite-78612a184b.png",
+        "imageName": "Iradite.png",
         "tradable": false,
         "drops": [
           {
@@ -3121,7 +3110,7 @@
         "name": "Maprico",
         "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 5,
-        "imageName": "maprico-35a9f7f622.png",
+        "imageName": "EidolonFruit.png",
         "tradable": false,
         "drops": [
           {
@@ -3204,7 +3193,7 @@
         "name": "Sharrac Teeth",
         "description": "These will often adorn ceremonial garb or as a reagent for synthetics.\n\nSource: Cut from Sharrac fish via Fisher Hai-Luk in Cetus (Earth). Catch Sharrac in the Plains of Eidolon ocean at any time of day using Twilight Bait. Also drops from Thumpers in the Plains of Eidolon.",
         "itemCount": 5,
-        "imageName": "sharrac-teeth-00c5c5e9ae.png",
+        "imageName": "FishResourceTeeth.png",
         "tradable": false,
         "drops": [
           {
@@ -3248,7 +3237,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "fosfor-rahd-450671d05d.png",
+    "imageName": "FlareRed.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -3278,7 +3267,7 @@
         "name": "Cuthol Tendrils",
         "description": "Ostrons extract the toxin and apply it to their weapons when hunting animals.\n\nSource: Cut from Cuthol fish via Fisher Hai-Luk in Cetus (Earth). Catch Cuthol in Plains of Eidolon pond hotspots at Night. Also drops from Thumpers in the Plains of Eidolon.",
         "itemCount": 5,
-        "imageName": "cuthol-tendrils-f364f835f8.png",
+        "imageName": "FishResourceSac.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -3288,7 +3277,7 @@
         "name": "Fish Meat",
         "description": "Used as a source of food and to create bait for predatory fish.\n\nSource: Cut from all Plains of Eidolon Fish via Fisher Hai-Luk in Cetus (Earth). ",
         "itemCount": 10,
-        "imageName": "fish-meat-4d31a3c124.png",
+        "imageName": "FishResourceMeat.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -3298,7 +3287,7 @@
         "name": "Maprico",
         "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 5,
-        "imageName": "maprico-35a9f7f622.png",
+        "imageName": "EidolonFruit.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -3308,14 +3297,14 @@
         "name": "Norg Brain",
         "description": "An Ostron delicacy.\n\nSource: Cut from Norg fish via Fisher Hai-Luk in Cetus (Earth). Catch Norg in the Plains of Eidolon lake at Night using Norg Bait. Also drops from Thumpers in the Plains of Eidolon.",
         "itemCount": 5,
-        "imageName": "norg-brain-c797ecef41.png",
+        "imageName": "FishResourceBrain.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Fish",
-    "imageName": "glappid-bait-9b0055d0c2.png",
+    "imageName": "FishBaitNightLegendary.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -3335,7 +3324,7 @@
     "name": "Glyph Prism",
     "description": "Launches a magnetic prism to display your chosen Glyph. Only one may be deployed at a time, and charges are consumed on use.",
     "type": "Gear",
-    "imageName": "glyph-prism-4a8da0b24c.png",
+    "imageName": "LotusSymbol.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -3363,7 +3352,7 @@
     "name": "Glyph Prism",
     "description": "Launches a magnetic prism to display your chosen Glyph. Only one may be deployed at a time, and charges are unlimited.",
     "type": "Gear",
-    "imageName": "glyph-prism-b84e45cf41.png",
+    "imageName": "LotusSymbol.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -3391,7 +3380,7 @@
     "name": "Grand Finale",
     "description": "Want a more spectacular fireworks display to show your patriotism? Celebrate in style with this single use consumable item.",
     "type": "Gear",
-    "imageName": "grand-finale-7e65f0f60c.png",
+    "imageName": "FireworksCrate.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -3419,7 +3408,7 @@
     "name": "Grustrag Three Beacon",
     "description": "Lures the Grustrag Three out of hiding. One-time use gear item that can only be used in locations where the assassins would normally appear.",
     "type": "Gear",
-    "imageName": "grustrag-three-beacon-7b4873b694.png",
+    "imageName": "AssassinBaitC.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -3459,7 +3448,7 @@
         "name": "Moonlight Jadeleaf",
         "description": "This rare plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Jadeleaf plants that grow on Earth",
         "itemCount": 1,
-        "imageName": "moonlight-jadeleaf-619d6ad934.png",
+        "imageName": "ForestNightRare.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -3469,7 +3458,7 @@
         "name": "Moonlight Threshcone",
         "description": "This common plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Threshcone plants that grow on Earth",
         "itemCount": 15,
-        "imageName": "moonlight-threshcone-4b4540893f.png",
+        "imageName": "ForestNightCommon.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -3479,7 +3468,7 @@
         "name": "Sunlight Jadeleaf",
         "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Jadeleaf plants that grow on Earth",
         "itemCount": 1,
-        "imageName": "sunlight-jadeleaf-db857bb828.png",
+        "imageName": "ForestDayRare.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -3489,14 +3478,14 @@
         "name": "Sunlight Threshcone",
         "description": "This common plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Threshcone plants that grow on Earth",
         "itemCount": 15,
-        "imageName": "sunlight-threshcone-b0e6273f84.png",
+        "imageName": "ForestDayCommon.png",
         "tradable": false,
         "masterable": false,
         "drops": []
       }
     ],
     "type": "Gear",
-    "imageName": "health-restore-(large)-a952d22dba.png",
+    "imageName": "LargeHeal.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -3506,7 +3495,7 @@
     "name": "Health Restore (Small)",
     "description": "Instantly restores 50 Health.",
     "type": "Gear",
-    "imageName": "health-restore-(small)-0783283adb.png",
+    "imageName": "SmallHeal.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -3536,7 +3525,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 250,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -3546,7 +3535,7 @@
         "name": "Void Traces",
         "description": "A substance used to increase the power within Relics.\n\nLocation: Void Fissure Missions",
         "itemCount": 10,
-        "imageName": "void-traces-9a7f26f348.png",
+        "imageName": "Luminous.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -3554,7 +3543,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "hobbled-dragon-key-043e28f450.png",
+    "imageName": "VaultKeyD.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -3564,7 +3553,7 @@
     "name": "Horrasque Echo-Lure",
     "description": "Entice and attract nearby Horrasque with life-like animal calls.",
     "type": "Gear",
-    "imageName": "horrasque-echo-lure-34ef5f162f.png",
+    "imageName": "ThemeLureChipSnowPredator.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -3582,7 +3571,7 @@
     "name": "Horrasque Pheromone Synthesizer",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Horrasque.",
     "type": "Gear",
-    "imageName": "horrasque-pheromone-synthesizer-4641f36433.png",
+    "imageName": "RarityBoostSnowPredator.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -3620,7 +3609,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 1,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -3631,7 +3620,7 @@
         "name": "Polymer Bundle",
         "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
         "itemCount": 5,
-        "imageName": "polymer-bundle-b8d240c368.png",
+        "imageName": "PolymerBundle.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -3639,7 +3628,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "humble-void-offering-b797a1fd4c.png",
+    "imageName": "CorpusCreditCardLow.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -3649,7 +3638,7 @@
     "name": "K-Drive Launcher",
     "description": "Summons a K-Drive for use during free roam missions",
     "type": "Gear",
-    "imageName": "k-drive-launcher-db3b4a1f81.png",
+    "imageName": "SummonHoverboard.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -3677,7 +3666,7 @@
     "name": "Kahl Beacon",
     "description": "Calls Kahl and a retinue of his Brothers to assist you for a limited time. Subsequent uses heal Kahl's squad and add an additional Brother.",
     "type": "Gear",
-    "imageName": "kahl-beacon-6497e71f81.png",
+    "imageName": "AirSupportGrineer.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -3697,7 +3686,7 @@
     "name": "Kaithe Summon",
     "description": "Summon and instantly mount a Kaithe while in free roam missions.",
     "type": "Gear",
-    "imageName": "kaithe-summon-79b5908c0d.png",
+    "imageName": "SummonErsatz.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -3707,7 +3696,7 @@
     "name": "Ki'Teer Fireworks",
     "description": "A bombastic symphony of color.",
     "type": "Gear",
-    "imageName": "ki'teer-fireworks-9d4ec8ac9b.png",
+    "imageName": "BaroFireworks.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -3717,7 +3706,7 @@
     "name": "Kinetic Siphon Trap",
     "description": "Specialized trap for attracting and slowing the movement of synthesis targets.",
     "type": "Gear",
-    "imageName": "kinetic-siphon-trap-bc31be8126.png",
+    "imageName": "HunterTrap.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -3777,7 +3766,7 @@
     "name": "Kriller Bait",
     "description": "This bait is synthesized from Methacalcene-1 that is known to attract Krillers, a Servofish found in Orb Vallis lakes during warm weather.\n\nObtained via The Business in Fortuna (Venus).",
     "type": "Fish",
-    "imageName": "kriller-bait-5415099946.png",
+    "imageName": "ContaminantLakeTierA.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -3795,7 +3784,7 @@
     "name": "Kuaka Echo-Lure",
     "description": "Entice and attract nearby Kuaka with life-like animal calls. Kuaka inhabit the Plains of Eidolon.",
     "type": "Gear",
-    "imageName": "kuaka-echo-lure-2be84edc15.png",
+    "imageName": "ThemeLureChipKuaka.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -3813,7 +3802,7 @@
     "name": "Kuaka Pheromone Oota",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Kuaka.",
     "type": "Gear",
-    "imageName": "kuaka-pheromone-oota-4138584536.png",
+    "imageName": "RarityBoostKuaka.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -3831,7 +3820,7 @@
     "name": "Kubrodon Echo-Lure",
     "description": "Entice and attract nearby Kubrodon with life-like animal calls. The Kubrodon is most often found around the Craters in Orb Vallis.",
     "type": "Gear",
-    "imageName": "kubrodon-echo-lure-1f4dfc1362.png",
+    "imageName": "ThemeLureChipLegendaryKubrow.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -3849,7 +3838,7 @@
     "name": "Kubrodon Pheromone Synthesizer",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Kubrodon.",
     "type": "Gear",
-    "imageName": "kubrodon-pheromone-synthesizer-621fc07c34.png",
+    "imageName": "RarityBoostLegendaryKubrow.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -3887,7 +3876,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 1200,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -3897,7 +3886,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polysaccharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 10,
-        "imageName": "grokdrul-1753a06746.png",
+        "imageName": "Grokdrul.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -3907,14 +3896,14 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 10,
-        "imageName": "nistlepod-d533e543eb.png",
+        "imageName": "NistlebrushItem.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "lanzo-fishing-spear-43427ae15c.png",
+    "imageName": "FishingSpearA.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -3944,7 +3933,7 @@
         "name": "Moonlight Dragonlily",
         "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
         "itemCount": 1,
-        "imageName": "moonlight-dragonlily-1d96fd8309.png",
+        "imageName": "ForestNightUncommon.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -3954,7 +3943,7 @@
         "name": "Moonlight Jadeleaf",
         "description": "This rare plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Jadeleaf plants that grow on Earth",
         "itemCount": 1,
-        "imageName": "moonlight-jadeleaf-619d6ad934.png",
+        "imageName": "ForestNightRare.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -3964,7 +3953,7 @@
         "name": "Sunlight Dragonlily",
         "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
         "itemCount": 1,
-        "imageName": "sunlight-dragonlily-aaeb487cc1.png",
+        "imageName": "ForestDayUncommon.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -3974,14 +3963,14 @@
         "name": "Sunlight Jadeleaf",
         "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Jadeleaf plants that grow on Earth",
         "itemCount": 1,
-        "imageName": "sunlight-jadeleaf-db857bb828.png",
+        "imageName": "ForestDayRare.png",
         "tradable": false,
         "masterable": false,
         "drops": []
       }
     ],
     "type": "Gear",
-    "imageName": "lapis-antitoxin-f03e7dd034.png",
+    "imageName": "LapisAntitoxin.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -4011,7 +4000,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 200,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -4022,7 +4011,7 @@
         "name": "Plastids",
         "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
         "itemCount": 100,
-        "imageName": "plastids-dabf813edd.png",
+        "imageName": "ComponentPlastids.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -4033,7 +4022,7 @@
         "name": "Polymer Bundle",
         "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
         "itemCount": 150,
-        "imageName": "polymer-bundle-b8d240c368.png",
+        "imageName": "PolymerBundle.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -4041,7 +4030,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "loc-pin-f451942964.png",
+    "imageName": "MapMarker.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -4093,7 +4082,7 @@
     "name": "Longwinder Bait",
     "description": "This bait is synthesized from beryzene that is known to attract Longwinders, a Servofish found in Orb Vallis lake hotspots during warm weather.\n\nObtained via The Business in Fortuna (Venus).",
     "type": "Fish",
-    "imageName": "longwinder-bait-7fbf77bcde.png",
+    "imageName": "ContaminantLakeTierB.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -4141,7 +4130,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 10,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -4151,14 +4140,14 @@
         "name": "Iradite",
         "description": "A mineral valuable to the Ostrons.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 10,
-        "imageName": "iradite-78612a184b.png",
+        "imageName": "Iradite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "luminous-dye-407a5ec7eb.png",
+    "imageName": "FishingBoosterBlue.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -4194,7 +4183,7 @@
     "name": "Med-Tower",
     "description": "Ordis delivers a Med-Tower to restore health to nearby allies.",
     "type": "Gear",
-    "imageName": "med-tower-1d032e20b5.png",
+    "imageName": "AirSupportMantis.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -4204,7 +4193,7 @@
     "name": "Mergoo Echo-Lure",
     "description": "Entice and attract nearby Mergoo with life-like animal calls. Mergoo inhabit the Plains of Eidolon.",
     "type": "Gear",
-    "imageName": "mergoo-echo-lure-33076db215.png",
+    "imageName": "ThemeLureChipMergoo.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -4222,7 +4211,7 @@
     "name": "Mergoo Pheromone Oota",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Mergoo.",
     "type": "Gear",
-    "imageName": "mergoo-pheromone-oota-36ec8fc096.png",
+    "imageName": "RarityBoostMergoo.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -4240,7 +4229,7 @@
     "name": "Mirewinder Bait",
     "description": "This bait is composed of aromatic tetraxin that is known to attract Mirewinders, a Servofish found in Orb Vallis cave hotspots.\n\nObtained via The Business in Fortuna (Venus).",
     "type": "Fish",
-    "imageName": "mirewinder-bait-2d5997f5ee.png",
+    "imageName": "ContaminantCaveTierA.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -4268,7 +4257,7 @@
     "name": "Missile Battery",
     "description": "Launches homing missiles",
     "type": "Gear",
-    "imageName": "missile-battery-b9b7cb0c73.png",
+    "imageName": "GenericGear.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -4298,7 +4287,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 2500,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -4308,7 +4297,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 2500,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -4319,7 +4308,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 2500,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -4327,7 +4316,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "moa-specter-910cf97d04.png",
+    "imageName": "BallSpawnerMoa.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -4357,7 +4346,7 @@
         "name": "Fish Meat",
         "description": "Used as a source of food and to create bait for predatory fish.\n\nSource: Cut from all Plains of Eidolon Fish via Fisher Hai-Luk in Cetus (Earth). ",
         "itemCount": 20,
-        "imageName": "fish-meat-4d31a3c124.png",
+        "imageName": "FishResourceMeat.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -4367,7 +4356,7 @@
         "name": "Goopolla Spleen",
         "description": "Used in Ostron remedies to purify toxins.\n\nSource: Cut from Goopolla fish via Fisher Hai-Luk in Cetus (Earth). Catch Goopolla in the Plains of Eidolon ocean at any time of day. Also drops from Thumpers in the Plains of Eidolon.",
         "itemCount": 10,
-        "imageName": "goopolla-spleen-014c77406f.png",
+        "imageName": "FishResourceFleshTube.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -4377,7 +4366,7 @@
         "name": "Mortus Horn",
         "description": "The horn of the Mortus Lungfish is ground down into a powder and used by the Ostrons in herbal remedies.\n\nSource: Cut from Mortus Lungfish via Fisher Hai-Luk in Cetus (Earth). Catch Mortus Lungfish in Plains of Eidolon ponds at any time of day. Also drops from Thumpers in the Plains of Eidolon.",
         "itemCount": 5,
-        "imageName": "mortus-horn-c73d8ed8cc.png",
+        "imageName": "FishResourceHorn.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -4387,14 +4376,14 @@
         "name": "Tralok Eyes",
         "description": "The Ostron boil these into a jelly which forms a strong adhesive when it dries.\n\nSource: Cut from Tralok fish via Fisher Hai-Luk in Cetus (Earth). Catch Tralok in the Plains of Eidolon ocean during the Day. Also drops from Thumpers in the Plains of Eidolon.",
         "itemCount": 5,
-        "imageName": "tralok-eyes-3674188a9a.png",
+        "imageName": "FishResourceEyes.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Fish",
-    "imageName": "murkray-bait-7630721c2d.png",
+    "imageName": "FishBaitBothRare.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -4404,7 +4393,7 @@
     "name": "Narrow-Spectrum Bait",
     "description": "This endochlor/dionium melange attracts both Recasters and Eye-Eyes, Servofish found in Orb Vallis ponds. The Eye-Eye shows up during warm weather and Recasters shows up at Hot Spots during cool weather.\n\nObtained from The Business in Fortuna (Venus).",
     "type": "Fish",
-    "imageName": "narrow-spectrum-bait-073dba06b7.png",
+    "imageName": "ContaminantPondTierA.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -4432,7 +4421,7 @@
     "name": "Necramech Summon",
     "description": "Summon a Necramech to the battlefield.",
     "type": "Gear",
-    "imageName": "necramech-summon-0c66e9064f.png",
+    "imageName": "SummonMech.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -4484,7 +4473,7 @@
     "name": "Nexifera Echo-Lure",
     "description": "Entice and attract nearby Nexifera with life-like animal calls.",
     "type": "Gear",
-    "imageName": "nexifera-echo-lure-183af959d9.png",
+    "imageName": "LureChipThwomp.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -4494,7 +4483,7 @@
     "name": "Nexifera Pheromone Gland",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Nexifera.",
     "type": "Gear",
-    "imageName": "nexifera-pheromone-gland-b5c70c15cf.png",
+    "imageName": "RarityBoostThwomp.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -4524,7 +4513,7 @@
         "name": "Dusklight Sarracenia",
         "description": "This robust, carnivorous plant has adapted to conditions in polluted waters. \n\nLocation: Obtained by gathering Dusklight Sarracenia plants growing in Grineer Shipyards found commonly on Ceres",
         "itemCount": 2,
-        "imageName": "dusklight-sarracenia-6a698a114a.png",
+        "imageName": "CobraLotus.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -4534,7 +4523,7 @@
         "name": "Moonlight Dragonlily",
         "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
         "itemCount": 6,
-        "imageName": "moonlight-dragonlily-1d96fd8309.png",
+        "imageName": "ForestNightUncommon.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -4544,7 +4533,7 @@
         "name": "Morphics",
         "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
         "itemCount": 2,
-        "imageName": "morphics-657362f875.png",
+        "imageName": "ComponentMorphic.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -4555,14 +4544,14 @@
         "name": "Sunlight Threshcone",
         "description": "This common plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Threshcone plants that grow on Earth",
         "itemCount": 12,
-        "imageName": "sunlight-threshcone-b0e6273f84.png",
+        "imageName": "ForestDayCommon.png",
         "tradable": false,
         "masterable": false,
         "drops": []
       }
     ],
     "type": "Gear",
-    "imageName": "nightfall-apothic-6da669d149.png",
+    "imageName": "NightfallApothic.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -4592,7 +4581,7 @@
         "name": "Fish Meat",
         "description": "Used as a source of food and to create bait for predatory fish.\n\nSource: Cut from all Plains of Eidolon Fish via Fisher Hai-Luk in Cetus (Earth). ",
         "itemCount": 20,
-        "imageName": "fish-meat-4d31a3c124.png",
+        "imageName": "FishResourceMeat.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -4602,7 +4591,7 @@
         "name": "Karkina Antenna",
         "description": "Ground into a powder this substance can makes fires burn hotter for a brief amount of time.\n\nSource: Cut from Karkina fish via Fisher Hai-Luk in Cetus (Earth). Catch Karkina in the Plains of Eidolon ocean at any time of day using Twilight Bait. Also drops from Thumpers in the Plains of Eidolon.",
         "itemCount": 5,
-        "imageName": "karkina-antenna-98c141fdea.png",
+        "imageName": "FishResourceAntenna.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -4612,7 +4601,7 @@
         "name": "Maprico",
         "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 5,
-        "imageName": "maprico-35a9f7f622.png",
+        "imageName": "EidolonFruit.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -4622,14 +4611,14 @@
         "name": "Sharrac Teeth",
         "description": "These will often adorn ceremonial garb or as a reagent for synthetics.\n\nSource: Cut from Sharrac fish via Fisher Hai-Luk in Cetus (Earth). Catch Sharrac in the Plains of Eidolon ocean at any time of day using Twilight Bait. Also drops from Thumpers in the Plains of Eidolon.",
         "itemCount": 5,
-        "imageName": "sharrac-teeth-00c5c5e9ae.png",
+        "imageName": "FishResourceTeeth.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Fish",
-    "imageName": "norg-bait-8473be770b.png",
+    "imageName": "FishBaitNightRareA.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -4659,7 +4648,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 500,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -4670,14 +4659,14 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 2000,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "nosam-cutter-382c3e1373.png",
+    "imageName": "MiningLaserA.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -4737,7 +4726,7 @@
     "name": "Omni",
     "description": "An Omni is a multi-use Railjack tool for extinguishing fires, grounding electrical hazards, and repairing hull ruptures. Use outside the Railjack to instantly recall back to the ship.",
     "type": "Gear",
-    "imageName": "omni-4d9f91bb65.png",
+    "imageName": "FireExtinguisher.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -5073,7 +5062,7 @@
     "name": "Omni Ammo Box",
     "description": "Fully restores all ammo types.",
     "type": "Gear",
-    "imageName": "omni-ammo-box-76bbbd27f7.png",
+    "imageName": "GenericGear.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -5223,7 +5212,7 @@
     "name": "On Call Crew",
     "description": "Call in a designated crew member for backup in non-Railjack missions.",
     "type": "Gear",
-    "imageName": "on-call-crew-762be00e7e.png",
+    "imageName": "BallSpawnerCrewmate.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -5251,7 +5240,7 @@
     "name": "Oplink",
     "description": "A device used to manage coordination and resources during Operation Link missions.",
     "type": "Gear",
-    "imageName": "oplink-db95382d29.png",
+    "imageName": "GapwaveTransponder.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -5319,7 +5308,7 @@
     "name": "Orokin Eye",
     "description": "Ordis scans the area for rare items.",
     "type": "Gear",
-    "imageName": "orokin-eye-b2161ba1df.png",
+    "imageName": "AirSupportRareInstinct.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -5347,7 +5336,7 @@
     "name": "Override",
     "description": "Ordis hacks into enemy systems and disrupts security protocols for a short period.",
     "type": "Gear",
-    "imageName": "override-abc0c2614b.png",
+    "imageName": "AirSupportLiset.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -5459,7 +5448,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 1,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -5470,7 +5459,7 @@
         "name": "Polymer Bundle",
         "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
         "itemCount": 5,
-        "imageName": "polymer-bundle-b8d240c368.png",
+        "imageName": "PolymerBundle.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -5478,7 +5467,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "passionate-void-offering-744d173184.png",
+    "imageName": "CorpusCreditCardHigh.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -5508,7 +5497,7 @@
         "name": "Fish Meat",
         "description": "Used as a source of food and to create bait for predatory fish.\n\nSource: Cut from all Plains of Eidolon Fish via Fisher Hai-Luk in Cetus (Earth). ",
         "itemCount": 20,
-        "imageName": "fish-meat-4d31a3c124.png",
+        "imageName": "FishResourceMeat.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -5518,14 +5507,14 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 20,
-        "imageName": "nistlepod-d533e543eb.png",
+        "imageName": "NistlebrushItem.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Fish",
-    "imageName": "peppered-bait-f464233f20.png",
+    "imageName": "FishBaitGeneric.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -5565,7 +5554,7 @@
         "name": "Coprite Alloy",
         "description": "Coprun that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "itemCount": 100,
-        "imageName": "coprite-alloy-dabeb91d39.png",
+        "imageName": "CommonOreBAlloyA.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -5575,7 +5564,7 @@
         "name": "Fersteel Alloy",
         "description": "Ferros that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "itemCount": 80,
-        "imageName": "fersteel-alloy-c11c0e2d3c.png",
+        "imageName": "UncommonOreAAlloyA.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -5585,7 +5574,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polysaccharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 55,
-        "imageName": "grokdrul-1753a06746.png",
+        "imageName": "Grokdrul.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -5595,14 +5584,14 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 70,
-        "imageName": "nistlepod-d533e543eb.png",
+        "imageName": "NistlebrushItem.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "peram-fishing-spear-d2ec5f0ec0.png",
+    "imageName": "FishingSpearC.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -5622,7 +5611,7 @@
         "name": "Alloy Plate",
         "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 10,
-        "imageName": "alloy-plate-af5adc4919.png",
+        "imageName": "AlloyPlate.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -5643,14 +5632,14 @@
         "name": "Iradite",
         "description": "A mineral valuable to the Ostrons.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 10,
-        "imageName": "iradite-78612a184b.png",
+        "imageName": "Iradite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "pharoma-ec205e980f.png",
+    "imageName": "FishingBoosterYellow.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -5680,7 +5669,7 @@
         "name": "Alloy Plate",
         "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 1000,
-        "imageName": "alloy-plate-af5adc4919.png",
+        "imageName": "AlloyPlate.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -5858,7 +5847,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 5000,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -5869,7 +5858,7 @@
         "name": "Polymer Bundle",
         "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
         "itemCount": 750,
-        "imageName": "polymer-bundle-b8d240c368.png",
+        "imageName": "PolymerBundle.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -5880,7 +5869,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 5000,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -5888,7 +5877,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "phase-specter-aec73a6804.png",
+    "imageName": "SpecterSilver.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -5898,7 +5887,7 @@
     "name": "Phase Specter Regiment",
     "description": "An army composed of phase-level Specter clones to be used in defense of the clan's Solar Rail. This Specter army will persist for two conflicts.",
     "type": "Specter",
-    "imageName": "phase-specter-regiment-6545ac7934.png",
+    "imageName": "SpecterArmySilver.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -5971,7 +5960,7 @@
         "name": "Chitinous Husk",
         "description": "A grizzly trophy extracted from the corpse of a Juggernaut.\n\nLocation: Drops from Juggernauts (non-endless Infested Missions) and Deimos Juggernauts (Cambion Drift on Deimos)",
         "itemCount": 1,
-        "imageName": "chitinous-husk-4fa1c54eae.png",
+        "imageName": "JuggernautChitinousHusk.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -5981,7 +5970,7 @@
         "name": "Infected Palpators",
         "description": "A grizzly trophy extracted from the corpse of a Juggernaut.\n\nLocation: Drops from Juggernauts (non-endless Infested Missions) and Deimos Juggernauts (Cambion Drift on Deimos)",
         "itemCount": 1,
-        "imageName": "infected-palpators-b1037deeb7.png",
+        "imageName": "JuggernautPalpators.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -5991,7 +5980,7 @@
         "name": "Pulsating Tubercles",
         "description": "A grizzly trophy extracted from the corpse of a Juggernaut.\n\nLocation: Drops from Juggernauts (non-endless Infested Missions) and Deimos Juggernauts (Cambion Drift on Deimos)",
         "itemCount": 1,
-        "imageName": "pulsating-tubercles-dbe1937491.png",
+        "imageName": "JuggernautTubercles.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -6001,14 +5990,14 @@
         "name": "Severed Bile Sac",
         "description": "A grizzly trophy extracted from the corpse of a Juggernaut.\n\nLocation: Drops from Juggernauts (non-endless Infested Missions) and Deimos Juggernauts (Cambion Drift on Deimos)",
         "itemCount": 1,
-        "imageName": "severed-bile-sac-ddbf9b1e7f.png",
+        "imageName": "JuggernautBileSac.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "pherliac-pods-525b03f2e4.png",
+    "imageName": "BallSpawnerInfestedBait.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -6060,7 +6049,7 @@
     "name": "Pistol Ammo Box",
     "description": "Restores a bunch of pistol ammo.",
     "type": "Gear",
-    "imageName": "pistol-ammo-box-80e937932a.png",
+    "imageName": "GenericGear.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -6070,7 +6059,7 @@
     "name": "Pobbers Echo-Lure",
     "description": "Entice and attract nearby Pobbers with life-like animal calls. The Pobbers is most often found around the Mushroom Fields of Orb Vallis.",
     "type": "Gear",
-    "imageName": "pobbers-echo-lure-143ceab621.png",
+    "imageName": "ThemeLureChipSnowRodent.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -6088,7 +6077,7 @@
     "name": "Pobbers Pheromone Synthesizer",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Pobbers.",
     "type": "Gear",
-    "imageName": "pobbers-pheromone-synthesizer-3ead719ace.png",
+    "imageName": "RarityBoostSnowRodent.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -6116,7 +6105,7 @@
         "name": "Argon Crystal",
         "description": "A Void based radioactive resource that decays every day it is out of the Void.\n\nLocation: Missions in the Void",
         "itemCount": 3,
-        "imageName": "argon-crystal-f099c16dc9.png",
+        "imageName": "ArgonCrystal.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6200,7 +6189,7 @@
             "name": "Chitinous Husk",
             "description": "A grizzly trophy extracted from the corpse of a Juggernaut.\n\nLocation: Drops from Juggernauts (non-endless Infested Missions) and Deimos Juggernauts (Cambion Drift on Deimos)",
             "itemCount": 1,
-            "imageName": "chitinous-husk-4fa1c54eae.png",
+            "imageName": "JuggernautChitinousHusk.png",
             "tradable": false,
             "drops": [],
             "masterable": false
@@ -6210,7 +6199,7 @@
             "name": "Infected Palpators",
             "description": "A grizzly trophy extracted from the corpse of a Juggernaut.\n\nLocation: Drops from Juggernauts (non-endless Infested Missions) and Deimos Juggernauts (Cambion Drift on Deimos)",
             "itemCount": 1,
-            "imageName": "infected-palpators-b1037deeb7.png",
+            "imageName": "JuggernautPalpators.png",
             "tradable": false,
             "drops": [],
             "masterable": false
@@ -6220,7 +6209,7 @@
             "name": "Pulsating Tubercles",
             "description": "A grizzly trophy extracted from the corpse of a Juggernaut.\n\nLocation: Drops from Juggernauts (non-endless Infested Missions) and Deimos Juggernauts (Cambion Drift on Deimos)",
             "itemCount": 1,
-            "imageName": "pulsating-tubercles-dbe1937491.png",
+            "imageName": "JuggernautTubercles.png",
             "tradable": false,
             "drops": [],
             "masterable": false
@@ -6230,21 +6219,21 @@
             "name": "Severed Bile Sac",
             "description": "A grizzly trophy extracted from the corpse of a Juggernaut.\n\nLocation: Drops from Juggernauts (non-endless Infested Missions) and Deimos Juggernauts (Cambion Drift on Deimos)",
             "itemCount": 1,
-            "imageName": "severed-bile-sac-ddbf9b1e7f.png",
+            "imageName": "JuggernautBileSac.png",
             "tradable": false,
             "drops": [],
             "masterable": false
           }
         ],
         "itemCount": 1,
-        "imageName": "pherliac-pods-525b03f2e4.png",
+        "imageName": "BallSpawnerInfestedBait.png",
         "tradable": false,
         "masterable": false,
         "drops": []
       }
     ],
     "type": "Gear",
-    "imageName": "potent-pherliac-pods-79cacb483f.png",
+    "imageName": "BallSpawnerInfestedBait.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -6254,7 +6243,7 @@
     "name": "Predasite Echo-Lure",
     "description": "Entice and attract nearby Predasite with life-like animal calls.",
     "type": "Gear",
-    "imageName": "predasite-echo-lure-298e2510d0.png",
+    "imageName": "LureChipInfestedPredator.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -6272,7 +6261,7 @@
     "name": "Predasite Pheromone Gland",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Predasite.",
     "type": "Gear",
-    "imageName": "predasite-pheromone-gland-e3f6fad121.png",
+    "imageName": "RarityBoostInfestedPredator.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -6310,14 +6299,14 @@
         "name": "Fass Residue",
         "description": "A chunk of the wyrm Fass, collected after his explosive death in the Cambion Drift. Used to attract Glutinox on the surface during Vome, Ostimyr at surface hotspots during Fass, and Vitreospina in caves during Fass/Vome.\n\nLocation: Cambion Drift on Deimos while Vome is active",
         "itemCount": 5,
-        "imageName": "fass-residue-b9d66017f7.png",
+        "imageName": "WyrmBaitInfested.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Fish Bait",
-    "imageName": "processed-fass-residue-4c105e537f.png",
+    "imageName": "WyrmBaitInfestedProcessed.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -6347,14 +6336,14 @@
         "name": "Vome Residue",
         "description": "A gobbet of raw flesh, fallen from the wyrm Vome in her death spasm. Used to attract Chondricord and Duriod in Cambion Drift cave hotspots during Fass and Vome.\n\nLocation: Cambion Drift on Deimos while Fass is active",
         "itemCount": 5,
-        "imageName": "vome-residue-5a9cb65b4d.png",
+        "imageName": "WyrmBaitEntrati.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Fish Bait",
-    "imageName": "processed-vome-residue-a374df3a9c.png",
+    "imageName": "WyrmBaitEntratiProcessed.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -6364,7 +6353,7 @@
     "name": "Railjack Recall",
     "description": "",
     "type": "Gear",
-    "imageName": "railjack-recall-839321b528.png",
+    "imageName": "RailjackRecallItem.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -6394,7 +6383,7 @@
         "name": "Cryptographic Alu",
         "description": "Excess circuitry disposed of during the Razorback manufacturing process, these components only appear in the vicinity of high level outer-orbit Corpus facilities after a Razorback Armada has been launched.\n\nLocation: Corpus Archwing units on Jupiter and Neptune when a Razorback Armada is active",
         "itemCount": 4,
-        "imageName": "cryptographic-alu-b3e2e232ba.png",
+        "imageName": "RazorbackCipherPart.png",
         "tradable": false,
         "masterable": false,
         "type": "Resource",
@@ -6405,7 +6394,7 @@
         "name": "Gallium",
         "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
         "itemCount": 3,
-        "imageName": "gallium-127519dba9.png",
+        "imageName": "ComponentGallium.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6416,7 +6405,7 @@
         "name": "Polymer Bundle",
         "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
         "itemCount": 1500,
-        "imageName": "polymer-bundle-b8d240c368.png",
+        "imageName": "PolymerBundle.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6424,7 +6413,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "razorback-cipher-342ddc8b9d.png",
+    "imageName": "RazorbackCipher.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -6464,7 +6453,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 500,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6475,7 +6464,7 @@
         "name": "Cryotic",
         "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\n\nLocation: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune",
         "itemCount": 1000,
-        "imageName": "cryotic-0c63ca0f8d.png",
+        "imageName": "ComponentCryotic.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6486,7 +6475,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 1500,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6497,7 +6486,7 @@
         "name": "Synthula",
         "description": "Distilled fuel for stims.",
         "itemCount": 2,
-        "imageName": "synthula-c2b5de283b.png",
+        "imageName": "Eventium.png",
         "tradable": false,
         "masterable": false,
         "type": "Resource",
@@ -6505,7 +6494,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "refract-stim-bd804e72f2.png",
+    "imageName": "RefractStim.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -6515,7 +6504,7 @@
     "name": "Remote Observer",
     "description": "Deploys a short-lived remote camera that overrides your Warframe optics",
     "type": "Gear",
-    "imageName": "remote-observer-e8025ceff3.png",
+    "imageName": "GenericComponentPlug.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -6575,7 +6564,7 @@
     "name": "Requiem Ultimatum",
     "description": "Provokes an immediate confrontation with your Kuva Lich or Sister of Parvos: an insult which cannot be ignored.",
     "type": "Gear",
-    "imageName": "requiem-ultimatum-e2acabd8eb.png",
+    "imageName": "NemesisBait.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -6635,7 +6624,7 @@
     "name": "Rifle Ammo Box",
     "description": "Restores a bunch of rifle ammo.",
     "type": "Gear",
-    "imageName": "rifle-ammo-box-71478a5156.png",
+    "imageName": "GenericGear.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -6665,7 +6654,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 2500,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -6675,7 +6664,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 2500,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6686,7 +6675,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 2500,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6694,7 +6683,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "roller-specter-c89e78c415.png",
+    "imageName": "BallSpawnerRoller.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -6714,7 +6703,7 @@
     "name": "Sacred Vessel",
     "description": "A peculiar relic from the tomb of Inaros.",
     "type": "Key",
-    "imageName": "sacred-vessel-4a63a8ad3c.png",
+    "imageName": "SpiritJar.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -6758,7 +6747,7 @@
     "name": "Sawgaw Echo-Lure",
     "description": "Entice and attract nearby Sawgaw with life-like animal calls.",
     "type": "Gear",
-    "imageName": "sawgaw-echo-lure-6985ef801d.png",
+    "imageName": "ThemeLureChipSnowBird.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -6776,7 +6765,7 @@
     "name": "Sawgaw Pheromone Synthesizer",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Sawgaw.",
     "type": "Gear",
-    "imageName": "sawgaw-pheromone-synthesizer-6953d23dbb.png",
+    "imageName": "RarityBoostSnowBird.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -6794,7 +6783,7 @@
     "name": "Scorpion Specter",
     "description": "Deploys a SCORPION EXIMUS unit to fight for you.",
     "type": "Gear",
-    "imageName": "scorpion-specter-bb4bb5de2c.png",
+    "imageName": "MacheteWomanAvatar.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -6804,7 +6793,7 @@
     "name": "Sentry Gun",
     "description": "Ordis delivers an automatic turret that will fire upon nearby visible enemies.",
     "type": "Gear",
-    "imageName": "sentry-gun-664eed7933.png",
+    "imageName": "AirSupportSentryTurret.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -6852,7 +6841,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 2500,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -6862,7 +6851,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 2500,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6873,7 +6862,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 2500,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6881,7 +6870,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "shield-osprey-specter-b42a9aa2de.png",
+    "imageName": "BallSpawnerShieldDrone.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -6891,7 +6880,7 @@
     "name": "Shield Restore (Small)",
     "description": "Instantly restores 50 Shield.",
     "type": "Gear",
-    "imageName": "shield-restore-(small)-f362704116.png",
+    "imageName": "ShieldHeal.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -6921,7 +6910,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 1000,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -6931,7 +6920,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polysaccharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 35,
-        "imageName": "grokdrul-1753a06746.png",
+        "imageName": "Grokdrul.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -6941,7 +6930,7 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 55,
-        "imageName": "nistlepod-d533e543eb.png",
+        "imageName": "NistlebrushItem.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -6951,14 +6940,14 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "itemCount": 40,
-        "imageName": "pyrotic-alloy-f0abc50ae0.png",
+        "imageName": "CommonOreAAlloyA.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "shockprod-fishing-spear-198ae52fbc.png",
+    "imageName": "RobofishSpearB.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -6968,7 +6957,7 @@
     "name": "Shotgun Ammo Box",
     "description": "Restores a bunch of shotgun ammo.",
     "type": "Gear",
-    "imageName": "shotgun-ammo-box-6ef66247ea.png",
+    "imageName": "GenericGear.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -6978,7 +6967,7 @@
     "name": "Sniper Ammo Box",
     "description": "Restores a bunch of sniper ammo.",
     "type": "Gear",
-    "imageName": "sniper-ammo-box-27eaff02e9.png",
+    "imageName": "GenericGear.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -6988,7 +6977,7 @@
     "name": "Snow Globe",
     "description": "Frost deep freezes any vapor and moisture in the area, creating a protective sphere with brief invulnerability to boost its strength.",
     "type": "Gear",
-    "imageName": "snow-globe-1353db36d4.png",
+    "imageName": "FrostSnowGlobe.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -7304,7 +7293,7 @@
     "name": "Spari Spear",
     "description": "Plumb the depths with this crafty fishing spear that's barely detectable to Infested and hybrid/Orokin fish. Due to its Infested aspect, it's one of the only known things that can pass through exocrine. \n\nObtained from Daughter in the Necralisk. This spear is most effective on fish found in the Cambion Drift (Deimos).",
     "type": "Gear",
-    "imageName": "spari-spear-5e91b362b1.png",
+    "imageName": "InfestedFishingSpearA.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -7367,7 +7356,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 2500,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -7378,7 +7367,7 @@
         "name": "Polymer Bundle",
         "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
         "itemCount": 300,
-        "imageName": "polymer-bundle-b8d240c368.png",
+        "imageName": "PolymerBundle.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -7386,7 +7375,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "squad-ammo-restore-(large)-c540880451.png",
+    "imageName": "LargeTeamAmmoSingle.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -7416,7 +7405,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 600,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -7426,7 +7415,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 600,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -7434,7 +7423,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "squad-ammo-restore-(medium)-ef89ea5b44.png",
+    "imageName": "TotemAmmo.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -7444,7 +7433,7 @@
     "name": "Squad Ammo Restore (Medium)",
     "description": "Restores 2x Primary and Secondary Ammo Pick Up Amount every 15s for 60s.",
     "type": "Gear",
-    "imageName": "squad-ammo-restore-(medium)-48ca74e84b.png",
+    "imageName": "TotemAmmo.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -7474,7 +7463,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 7200,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -7485,7 +7474,7 @@
         "name": "Polymer Bundle",
         "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
         "itemCount": 900,
-        "imageName": "polymer-bundle-b8d240c368.png",
+        "imageName": "PolymerBundle.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -7493,7 +7482,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "squad-ammo-restore-(small)-0b715e92b4.png",
+    "imageName": "TotemAmmo.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -7536,7 +7525,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 3000,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -7547,7 +7536,7 @@
         "name": "Polymer Bundle",
         "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
         "itemCount": 500,
-        "imageName": "polymer-bundle-b8d240c368.png",
+        "imageName": "PolymerBundle.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -7555,7 +7544,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "squad-energy-restore-(large)-ead7220099.png",
+    "imageName": "LargeTeamEnergySingle.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -7575,7 +7564,7 @@
         "name": "Alloy Plate",
         "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 150,
-        "imageName": "alloy-plate-af5adc4919.png",
+        "imageName": "AlloyPlate.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -7596,14 +7585,14 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 600,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "squad-energy-restore-(medium)-04549d9bdf.png",
+    "imageName": "TotemEnergy.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -7633,7 +7622,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 9000,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -7644,7 +7633,7 @@
         "name": "Polymer Bundle",
         "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
         "itemCount": 900,
-        "imageName": "polymer-bundle-b8d240c368.png",
+        "imageName": "PolymerBundle.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -7652,7 +7641,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "squad-energy-restore-(small)-ac888f2030.png",
+    "imageName": "TotemEnergy.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -7689,7 +7678,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 600,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -7700,7 +7689,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 4000,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -7708,7 +7697,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "squad-health-restore-(large)-6daf564f89.png",
+    "imageName": "LargeTeamHealSingle.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -7738,7 +7727,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 500,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -7748,7 +7737,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 600,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -7756,7 +7745,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "squad-health-restore-(medium)-f1fb8abeb6.png",
+    "imageName": "TotemHealth.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -7766,7 +7755,7 @@
     "name": "Squad Health Restore (Small)",
     "description": "Restores Health to all squad members. Pulses 30 Health every 7.5s for 30s.",
     "type": "Gear",
-    "imageName": "squad-health-restore-(small)-c123ec9e94.png",
+    "imageName": "TeamHeal.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -7795,7 +7784,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 108000,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [
           {
@@ -7915,7 +7904,7 @@
         "name": "Polymer Bundle",
         "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
         "itemCount": 1800,
-        "imageName": "polymer-bundle-b8d240c368.png",
+        "imageName": "PolymerBundle.png",
         "tradable": false,
         "drops": [
           {
@@ -8056,7 +8045,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "squad-health-restore-(small)-988e717658.png",
+    "imageName": "TotemHealth.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -8076,7 +8065,7 @@
         "name": "Alloy Plate",
         "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 1000,
-        "imageName": "alloy-plate-af5adc4919.png",
+        "imageName": "AlloyPlate.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -8104,14 +8093,14 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 2500,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "squad-shield-restore-(large)-eea970f3b8.png",
+    "imageName": "LargeTeamShieldSingle.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -8131,7 +8120,7 @@
         "name": "Alloy Plate",
         "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 150,
-        "imageName": "alloy-plate-af5adc4919.png",
+        "imageName": "AlloyPlate.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -8152,14 +8141,14 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 600,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "squad-shield-restore-(medium)-8925fcd46e.png",
+    "imageName": "TotemShield.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -8189,7 +8178,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 14400,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -8197,7 +8186,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "squad-shield-restore-(small)-eaebc7eaf2.png",
+    "imageName": "TotemShield.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -8207,7 +8196,7 @@
     "name": "Stable Corruptor",
     "description": "Injected into a Fomorian Reactor this corruptor will imbalance the fuels. Critically imbalanced reactors will eventually implode, destroy the ship. Slow but effective, recommended for Solo Tenno.",
     "type": "Gear",
-    "imageName": "stable-corruptor-ddd1221a1c.png",
+    "imageName": "CorruptorCombined.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -8217,7 +8206,7 @@
     "name": "Stalker Beacon",
     "description": "Lures the Stalker out of hiding. One-time use gear item that can only be used in locations where the assassin would normally appear.",
     "type": "Gear",
-    "imageName": "stalker-beacon-529c90ceb0.png",
+    "imageName": "AssassinBait.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -8247,7 +8236,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 2500,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -8257,7 +8246,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 2500,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -8268,7 +8257,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 2500,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -8276,7 +8265,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "stalker-specter-5bbbb3f731.png",
+    "imageName": "Stalker.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -8286,7 +8275,7 @@
     "name": "Starburst",
     "description": "Celebrate the holiday with fireworks! Light up the sky with this single use consumable item.",
     "type": "Gear",
-    "imageName": "starburst-60fd8a1649.png",
+    "imageName": "FireworksSingle.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -8306,7 +8295,7 @@
     "name": "Stover Echo-Lure",
     "description": "Entice and attract nearby Stovers with life-like animal calls.",
     "type": "Gear",
-    "imageName": "stover-echo-lure-6dca4ddb7a.png",
+    "imageName": "ThemeLureChipOrokinKubrow.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -8324,7 +8313,7 @@
     "name": "Stover Pheromone Synthesizer",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Stover.",
     "type": "Gear",
-    "imageName": "stover-pheromone-synthesizer-7196401270.png",
+    "imageName": "RarityBoostOrokinKubrow.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -8362,7 +8351,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 1000,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -8372,7 +8361,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polysaccharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 35,
-        "imageName": "grokdrul-1753a06746.png",
+        "imageName": "Grokdrul.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -8382,7 +8371,7 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 55,
-        "imageName": "nistlepod-d533e543eb.png",
+        "imageName": "NistlebrushItem.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -8392,14 +8381,14 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "itemCount": 40,
-        "imageName": "pyrotic-alloy-f0abc50ae0.png",
+        "imageName": "CommonOreAAlloyA.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "stunna-fishing-spear-28626dea62.png",
+    "imageName": "RobofishSpearC.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -8439,7 +8428,7 @@
             "name": "Circuits",
             "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
             "itemCount": 500,
-            "imageName": "circuits-5e77d8b169.png",
+            "imageName": "ComponentCircuits.png",
             "tradable": false,
             "drops": [],
             "masterable": false,
@@ -8450,7 +8439,7 @@
             "name": "Fersteel Alloy",
             "description": "Ferros that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
             "itemCount": 40,
-            "imageName": "fersteel-alloy-c11c0e2d3c.png",
+            "imageName": "UncommonOreAAlloyA.png",
             "tradable": false,
             "drops": [],
             "masterable": false
@@ -8460,14 +8449,14 @@
             "name": "Marquise Veridos",
             "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
             "itemCount": 2,
-            "imageName": "marquise-veridos-217877dacf.png",
+            "imageName": "UncommonGemACutA.png",
             "tradable": false,
             "drops": [],
             "masterable": false
           }
         ],
         "itemCount": 1,
-        "imageName": "advanced-nosam-cutter-e654a1fc03.png",
+        "imageName": "MiningLaserC.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -8487,7 +8476,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 1000,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -8498,7 +8487,7 @@
         "name": "Marquise Veridos",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "itemCount": 2,
-        "imageName": "marquise-veridos-217877dacf.png",
+        "imageName": "UncommonGemACutA.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -8508,14 +8497,14 @@
         "name": "Travocyte Alloy",
         "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "itemCount": 30,
-        "imageName": "travocyte-alloy-c984bd7ebd.png",
+        "imageName": "SolarisCommonOreAAlloy.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "sunpoint-plasma-drill-119394f591.png",
+    "imageName": "MiningLaserSolarisC.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -8555,7 +8544,7 @@
         "name": "Frostleaf",
         "description": "This resilient plant provides a natural food source in frigid areas of the Origin system. \n\nLocation: Obtained by gathering Frostleaf plants that grow on Venus, Neptune, and Pluto",
         "itemCount": 8,
-        "imageName": "frostleaf-528659b4f2.png",
+        "imageName": "WildGingerB.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -8565,7 +8554,7 @@
         "name": "Morphics",
         "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
         "itemCount": 2,
-        "imageName": "morphics-657362f875.png",
+        "imageName": "ComponentMorphic.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -8576,7 +8565,7 @@
         "name": "Sunlight Jadeleaf",
         "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Jadeleaf plants that grow on Earth",
         "itemCount": 2,
-        "imageName": "sunlight-jadeleaf-db857bb828.png",
+        "imageName": "ForestDayRare.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -8586,14 +8575,14 @@
         "name": "Vestan Moss",
         "description": "One of the few known plant species able to thrive on asteroids in deep space. \n\nLocation: Obtained by gathering Vestan Moss plants that grow on Mercury, Saturn, and Sedna",
         "itemCount": 12,
-        "imageName": "vestan-moss-5ab747944b.png",
+        "imageName": "MossGroundCoverA.png",
         "tradable": false,
         "masterable": false,
         "drops": []
       }
     ],
     "type": "Gear",
-    "imageName": "sunrise-apothic-d3e465d4f9.png",
+    "imageName": "SunriseApothic.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -8613,7 +8602,7 @@
     "name": "Synathid Bait",
     "description": "This bait is synthesized from specialized A-disulphex-A compounds that are known to attract Synathid, a legendarily rare Servofish found only in Orb Vallis cave hotspots.\n\nObtained from The Business in Fortuna (Venus).",
     "type": "Fish",
-    "imageName": "synathid-bait-5ee5e369f7.png",
+    "imageName": "ContaminantCaveTierC.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -8631,7 +8620,7 @@
     "name": "Synthesis Scanner",
     "description": "Synthesize a genetic data of the target and uploads it to the Sanctuary.",
     "type": "Gear",
-    "imageName": "synthesis-scanner-930b38d795.png",
+    "imageName": "LibraryScanner.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -8795,7 +8784,7 @@
     "name": "Thermian Rpg",
     "description": "Deploys a Thermian RPG",
     "type": "Gear",
-    "imageName": "thermian-rpg-8874da6009.png",
+    "imageName": "SummonThermianRPG.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -8825,7 +8814,7 @@
         "name": "Moonlight Dragonlily",
         "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
         "itemCount": 2,
-        "imageName": "moonlight-dragonlily-1d96fd8309.png",
+        "imageName": "ForestNightUncommon.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -8835,14 +8824,14 @@
         "name": "Moonlight Threshcone",
         "description": "This common plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Threshcone plants that grow on Earth",
         "itemCount": 2,
-        "imageName": "moonlight-threshcone-4b4540893f.png",
+        "imageName": "ForestNightCommon.png",
         "tradable": false,
         "masterable": false,
         "drops": []
       }
     ],
     "type": "Gear",
-    "imageName": "topaz-antitoxin-b182e25a67.png",
+    "imageName": "TopazAntitoxin.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -8852,7 +8841,7 @@
     "name": "Tranq Rifle",
     "description": "Tranquilizes animals for the purpose of safe relocation.",
     "type": "Gear",
-    "imageName": "tranq-rifle-e6ee74829c.png",
+    "imageName": "TranqRifle.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -8950,7 +8939,7 @@
     "name": "Tromyzon Bait",
     "description": "This bait is synthesized from long-chain LS-74 compounds that are known to attract Tromyzon, a Servofish found in Orb Vallis pond hotspots during cool weather.\n\nObtained from The Business in Fortuna (Venus).",
     "type": "Fish",
-    "imageName": "tromyzon-bait-bf80689de6.png",
+    "imageName": "ContaminantPondTierB.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -8988,7 +8977,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 1000,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -8998,7 +8987,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polysaccharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 35,
-        "imageName": "grokdrul-1753a06746.png",
+        "imageName": "Grokdrul.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -9008,7 +8997,7 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 55,
-        "imageName": "nistlepod-d533e543eb.png",
+        "imageName": "NistlebrushItem.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -9018,14 +9007,14 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "itemCount": 40,
-        "imageName": "pyrotic-alloy-f0abc50ae0.png",
+        "imageName": "CommonOreAAlloyA.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "tulok-fishing-spear-9dea5e1b37.png",
+    "imageName": "FishingSpearB.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -9055,7 +9044,7 @@
         "name": "Lunar Pitcher",
         "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
         "itemCount": 6,
-        "imageName": "lunar-pitcher-f17f7c3873.png",
+        "imageName": "ZenPitcher.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -9065,7 +9054,7 @@
         "name": "Moonlight Jadeleaf",
         "description": "This rare plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Jadeleaf plants that grow on Earth",
         "itemCount": 2,
-        "imageName": "moonlight-jadeleaf-619d6ad934.png",
+        "imageName": "ForestNightRare.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -9075,7 +9064,7 @@
         "name": "Morphics",
         "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
         "itemCount": 2,
-        "imageName": "morphics-657362f875.png",
+        "imageName": "ComponentMorphic.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -9086,14 +9075,14 @@
         "name": "Ruk's Claw",
         "description": "This plant was introduced to arid regions across the Origin System, for its ability to collect moisture in harsh environments. \n\nLocation: Obtained by gathering Ruk's Claw plants that grow on Mars",
         "itemCount": 6,
-        "imageName": "ruk's-claw-e1bc050e85.png",
+        "imageName": "GftPlantRuksClawMature.png",
         "tradable": false,
         "masterable": false,
         "drops": []
       }
     ],
     "type": "Gear",
-    "imageName": "twilight-apothic-a494928ce5.png",
+    "imageName": "TwilightApothic.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -9123,7 +9112,7 @@
         "name": "Fish Meat",
         "description": "Used as a source of food and to create bait for predatory fish.\n\nSource: Cut from all Plains of Eidolon Fish via Fisher Hai-Luk in Cetus (Earth). ",
         "itemCount": 20,
-        "imageName": "fish-meat-4d31a3c124.png",
+        "imageName": "FishResourceMeat.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -9133,7 +9122,7 @@
         "name": "Fish Oil",
         "description": "Used to create absolvents that purify gems.\n\nSource: Cut from all Plains of Eidolon Fish via Fisher Hai-Luk in Cetus (Earth).",
         "itemCount": 10,
-        "imageName": "fish-oil-74fd9aeeac.png",
+        "imageName": "FishResourceOil.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -9143,7 +9132,7 @@
         "name": "Maprico",
         "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 1,
-        "imageName": "maprico-35a9f7f622.png",
+        "imageName": "EidolonFruit.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -9153,14 +9142,14 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 10,
-        "imageName": "nistlepod-d533e543eb.png",
+        "imageName": "NistlebrushItem.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Fish",
-    "imageName": "twilight-bait-0b35277ebc.png",
+    "imageName": "FishBaitBothUncommon.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -9170,7 +9159,7 @@
     "name": "Undazoa Echo-Lure",
     "description": "Entice and attract nearby Undazoa with life-like animal calls.",
     "type": "Gear",
-    "imageName": "undazoa-echo-lure-09028af94c.png",
+    "imageName": "LureChipZongro.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -9198,7 +9187,7 @@
     "name": "Undazoa Pheromone Gland",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Undazoa.",
     "type": "Gear",
-    "imageName": "undazoa-pheromone-gland-eacb6a0988.png",
+    "imageName": "RarityBoostZongro.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -9327,7 +9316,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 5000,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -9337,7 +9326,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 7500,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -9345,7 +9334,7 @@
       }
     ],
     "type": "Gear",
-    "imageName": "vapor-specter-33ee06cbed.png",
+    "imageName": "SpecterBronze.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -9365,7 +9354,7 @@
     "name": "Vapor Specter Regiment",
     "description": "An army composed of vapor-level Specter clones to be used in defense of the clan's Solar Rail. This Specter army will persist for one conflict.",
     "type": "Specter",
-    "imageName": "vapor-specter-regiment-e4876ca6d0.png",
+    "imageName": "SpecterArmyBronze.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -9395,7 +9384,7 @@
         "name": "Karkina Antenna",
         "description": "Ground into a powder this substance can makes fires burn hotter for a brief amount of time.\n\nSource: Cut from Karkina fish via Fisher Hai-Luk in Cetus (Earth). Catch Karkina in the Plains of Eidolon ocean at any time of day using Twilight Bait. Also drops from Thumpers in the Plains of Eidolon.",
         "itemCount": 3,
-        "imageName": "karkina-antenna-98c141fdea.png",
+        "imageName": "FishResourceAntenna.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -9405,7 +9394,7 @@
         "name": "Maprico",
         "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 15,
-        "imageName": "maprico-35a9f7f622.png",
+        "imageName": "EidolonFruit.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -9415,7 +9404,7 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.\n\nLocation: Plains of Eidolon on Earth",
         "itemCount": 15,
-        "imageName": "nistlepod-d533e543eb.png",
+        "imageName": "NistlebrushItem.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -9425,14 +9414,14 @@
         "name": "Norg Brain",
         "description": "An Ostron delicacy.\n\nSource: Cut from Norg fish via Fisher Hai-Luk in Cetus (Earth). Catch Norg in the Plains of Eidolon lake at Night using Norg Bait. Also drops from Thumpers in the Plains of Eidolon.",
         "itemCount": 3,
-        "imageName": "norg-brain-c797ecef41.png",
+        "imageName": "FishResourceBrain.png",
         "tradable": false,
         "drops": [],
         "masterable": false
       }
     ],
     "type": "Gear",
-    "imageName": "vasca-curative-ba34924b77.png",
+    "imageName": "CatbrowVampireDisinfect.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -9468,7 +9457,7 @@
     "name": "Vasca Kavat Echo-Lure",
     "description": "Entice and attract nearby Vasca Kavat with life-like animal calls. Vasca Kavat roam the Plains of Eidolon at night.",
     "type": "Gear",
-    "imageName": "vasca-kavat-echo-lure-2dc28d63f9.png",
+    "imageName": "ThemeLureChipVampireKavat.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -9486,7 +9475,7 @@
     "name": "Vasca Kavat Pheromone Oota",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Vasca Kavat.",
     "type": "Gear",
-    "imageName": "vasca-kavat-pheromone-oota-547b841f6e.png",
+    "imageName": "RarityBoostVampireKavat.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -9524,7 +9513,7 @@
         "name": "Moonlight Dragonlily",
         "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
         "itemCount": 4,
-        "imageName": "moonlight-dragonlily-1d96fd8309.png",
+        "imageName": "ForestNightUncommon.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -9534,7 +9523,7 @@
         "name": "Moonlight Jadeleaf",
         "description": "This rare plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Jadeleaf plants that grow on Earth",
         "itemCount": 4,
-        "imageName": "moonlight-jadeleaf-619d6ad934.png",
+        "imageName": "ForestNightRare.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -9544,7 +9533,7 @@
         "name": "Sunlight Dragonlily",
         "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
         "itemCount": 4,
-        "imageName": "sunlight-dragonlily-aaeb487cc1.png",
+        "imageName": "ForestDayUncommon.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -9554,14 +9543,14 @@
         "name": "Sunlight Jadeleaf",
         "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Jadeleaf plants that grow on Earth",
         "itemCount": 4,
-        "imageName": "sunlight-jadeleaf-db857bb828.png",
+        "imageName": "ForestDayRare.png",
         "tradable": false,
         "masterable": false,
         "drops": []
       }
     ],
     "type": "Gear",
-    "imageName": "vermillion-antitoxin-909020727c.png",
+    "imageName": "VermillionAntitoxin.png",
     "category": "Gear",
     "tradable": false,
     "masterable": false
@@ -9571,7 +9560,7 @@
     "name": "Virmink Echo-Lure",
     "description": "Entice and attract nearby Virmink with life-like animal calls. The Virmink is most often found around the Lakes in Orb Vallis.",
     "type": "Gear",
-    "imageName": "virmink-echo-lure-1b44131435.png",
+    "imageName": "ThemeLureChipSnowCritter.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -9589,7 +9578,7 @@
     "name": "Virmink Pheromone Synthesizer",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Virmink.",
     "type": "Gear",
-    "imageName": "virmink-pheromone-synthesizer-9140089ca0.png",
+    "imageName": "RarityBoostSnowCritter.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -9606,19 +9595,8 @@
     "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
     "name": "Vome Residue",
     "description": "A gobbet of raw flesh, fallen from the wyrm Vome in her death spasm. Used to attract Chondricord and Duriod in Cambion Drift cave hotspots during Fass and Vome.\n\nLocation: Cambion Drift on Deimos while Fass is active",
-    "itemCount": 6,
-    "parents": [
-      "Adra Mutagen",
-      "Arioli Mutagen",
-      "Chiten Mutagen",
-      "Elsa Mutagen",
-      "Leptosam Mutagen",
-      "Monachod Mutagen",
-      "Phijar Mutagen",
-      "Zarim Mutagen"
-    ],
     "type": "Fish Bait",
-    "imageName": "vome-residue-5a9cb65b4d.png",
+    "imageName": "WyrmBaitEntrati.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -9672,7 +9650,7 @@
     "name": "Vortex",
     "description": "Creates a whirling mass of energy that violently attracts nearby enemies, crushing their atoms into a tiny spec of matter.",
     "type": "Gear",
-    "imageName": "vortex-ebadd098b6.png",
+    "imageName": "VaubanVortex.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -10272,7 +10250,7 @@
     "name": "Vulpaphyla Echo-Lure",
     "description": "Entice and attract nearby Vulpaphyla with life-like animal calls.",
     "type": "Gear",
-    "imageName": "vulpaphyla-echo-lure-63a3453161.png",
+    "imageName": "LureChipInfestedCritter.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -10290,7 +10268,7 @@
     "name": "Vulpaphyla Pheromone Gland",
     "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Vulpaphyla.",
     "type": "Gear",
-    "imageName": "vulpaphyla-pheromone-gland-7b572e3534.png",
+    "imageName": "RarityBoostInfestedCritter.png",
     "category": "Gear",
     "tradable": false,
     "drops": [
@@ -10308,7 +10286,7 @@
     "name": "Wolf Beacon",
     "description": "Lures the Wolf out of hiding. One-time use gear item that can only be used in locations where the assassin would normally appear.",
     "type": "Gear",
-    "imageName": "wolf-beacon-500f515d6c.png",
+    "imageName": "AssassinBaitD.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [
@@ -10328,7 +10306,7 @@
     "name": "Zanuka Hunter Beacon",
     "description": "Lures the Zanuka Hunter out of hiding. One-time use gear item that can only be used in locations where the assassin would normally appear.",
     "type": "Gear",
-    "imageName": "zanuka-hunter-beacon-ba5429cafc.png",
+    "imageName": "AssassinBaitB.png",
     "category": "Gear",
     "tradable": false,
     "patchlogs": [

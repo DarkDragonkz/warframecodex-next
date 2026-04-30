@@ -4,7 +4,7 @@
     "name": "Amniophysi",
     "description": "These fish hatch out of translucent pods formed in caverns below the Infested landscape. They hover to feed.",
     "type": "Fish",
-    "imageName": "amniophysi-0cb67aedd3.png",
+    "imageName": "InfestedCommonD.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -32,7 +32,7 @@
     "name": "Amniophysi",
     "description": "These fish hatch out of translucent pods formed in caverns below the Infested landscape. They hover to feed.",
     "type": "Fish",
-    "imageName": "amniophysi-a0ee0c1c56.png",
+    "imageName": "InfestedCommonD.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -60,7 +60,7 @@
     "name": "Amniophysi",
     "description": "These fish hatch out of translucent pods formed in caverns below the Infested landscape. They hover to feed.",
     "type": "Fish",
-    "imageName": "amniophysi-29dbdd28d7.png",
+    "imageName": "InfestedCommonD.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -88,7 +88,7 @@
     "name": "Aquapulmo",
     "description": "These fish were purposefully contaminated with the Infestation as an Entrati 'experiment'. They feed off the organic deposits in cave systems.",
     "type": "Fish",
-    "imageName": "aquapulmo-61d5a76760.png",
+    "imageName": "HybridRareA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -116,7 +116,7 @@
     "name": "Aquapulmo",
     "description": "These fish were purposefully contaminated with the Infestation as an Entrati 'experiment'. They feed off the organic deposits in cave systems.",
     "type": "Fish",
-    "imageName": "aquapulmo-d5ed2712eb.png",
+    "imageName": "HybridRareA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -144,7 +144,7 @@
     "name": "Aquapulmo",
     "description": "These fish were purposefully contaminated with the Infestation as an Entrati 'experiment'. They feed off the organic deposits in cave systems.",
     "type": "Fish",
-    "imageName": "aquapulmo-d5580b0819.png",
+    "imageName": "HybridRareA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -172,7 +172,7 @@
     "name": "Barbisteo",
     "description": "As ravenous as the Infestation itself, this fish feeds on the remains of others. It shuns the light, preferring an enclosed cave environment.",
     "type": "Fish",
-    "imageName": "barbisteo-91980eabd3.png",
+    "imageName": "InfestedCommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -200,7 +200,7 @@
     "name": "Barbisteo",
     "description": "As ravenous as the Infestation itself, this fish feeds on the remains of others. It shuns the light, preferring an enclosed cave environment.",
     "type": "Fish",
-    "imageName": "barbisteo-77828bbc81.png",
+    "imageName": "InfestedCommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -228,7 +228,7 @@
     "name": "Barbisteo",
     "description": "As ravenous as the Infestation itself, this fish feeds on the remains of others. It shuns the light, preferring an enclosed cave environment.",
     "type": "Fish",
-    "imageName": "barbisteo-d20a7ef07f.png",
+    "imageName": "InfestedCommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -256,7 +256,7 @@
     "name": "Boot",
     "description": "Synthetic fibers and a molded foam insole were the basis for what was once a robust and comfortable combat boot. Now, it's a home for tiny aquatic organisms.",
     "type": "Fish",
-    "imageName": "boot-0dd345cd9e.png",
+    "imageName": "GrineerBoot.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -500,7 +500,7 @@
     "name": "Brickie",
     "description": "Developed to perform remote construction and maintenance routines. It can be found in ponds around Venus.",
     "type": "Fish",
-    "imageName": "brickie-d5d50ddd26.png",
+    "imageName": "CorpusClearUncommonFishA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -544,7 +544,7 @@
     "name": "Brickie",
     "description": "Developed to perform remote construction and maintenance routines. It can be found in ponds around Venus.",
     "type": "Fish",
-    "imageName": "brickie-affc4ca8ec.png",
+    "imageName": "CorpusClearUncommonFishALarge.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -588,7 +588,7 @@
     "name": "Brickie",
     "description": "Developed to perform remote construction and maintenance routines. It can be found in ponds around Venus.",
     "type": "Fish",
-    "imageName": "brickie-6b2374664c.png",
+    "imageName": "CorpusClearUncommonFishAMedium.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -632,7 +632,7 @@
     "name": "Charamote",
     "description": "Its primary function is to reconstruct the bio-material used to regenerate Orokin structures. It can be found in cave pools on Venus.",
     "type": "Fish",
-    "imageName": "charamote-0028ef9778.png",
+    "imageName": "OrokinBothRareFishA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -680,7 +680,7 @@
     "name": "Charamote",
     "description": "Its primary function is to reconstruct the bio-material used to regenerate Orokin structures. It can be found in cave pools on Venus.",
     "type": "Fish",
-    "imageName": "charamote-cd17f73411.png",
+    "imageName": "OrokinBothRareFishALarge.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -728,7 +728,7 @@
     "name": "Charamote",
     "description": "Its primary function is to reconstruct the bio-material used to regenerate Orokin structures. It can be found in cave pools on Venus.",
     "type": "Fish",
-    "imageName": "charamote-cad57d9c13.png",
+    "imageName": "OrokinBothRareFishAMedium.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -776,7 +776,7 @@
     "name": "Charc Eel",
     "description": "Discharges electricity from luminous glands along its flanks to stun its prey.",
     "type": "Fish",
-    "imageName": "charc-eel-ed606319e9.png",
+    "imageName": "FishItemBothCommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -804,7 +804,7 @@
     "name": "Charc Eel",
     "description": "Discharges electricity from luminous glands along its flanks to stun its prey.",
     "type": "Fish",
-    "imageName": "charc-eel-99892ece44.png",
+    "imageName": "FishItemBothCommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -832,7 +832,7 @@
     "name": "Charc Eel",
     "description": "Discharges electricity from luminous glands along its flanks to stun its prey.",
     "type": "Fish",
-    "imageName": "charc-eel-e812718821.png",
+    "imageName": "FishItemBothCommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -860,7 +860,7 @@
     "name": "Chondricord",
     "description": "A triumph of Orokin bio-engineering, these hardy fish have adapted to the Deimos environment and seem oddly resistant to Infestation. They thrive in cave environments.",
     "type": "Fish",
-    "imageName": "chondricord-0e9f50aad5.png",
+    "imageName": "OrokinUncommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -888,7 +888,7 @@
     "name": "Chondricord",
     "description": "A triumph of Orokin bio-engineering, these hardy fish have adapted to the Deimos environment and seem oddly resistant to Infestation. They thrive in cave environments.",
     "type": "Fish",
-    "imageName": "chondricord-5969651509.png",
+    "imageName": "OrokinUncommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -916,7 +916,7 @@
     "name": "Chondricord",
     "description": "A triumph of Orokin bio-engineering, these hardy fish have adapted to the Deimos environment and seem oddly resistant to Infestation. They thrive in cave environments.",
     "type": "Fish",
-    "imageName": "chondricord-e8163d33a2.png",
+    "imageName": "OrokinUncommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -945,7 +945,7 @@
     "description": "While the Vallis coolant has kept this finely engineered Corpus tactical boot remarkably well preserved, it is, nonetheless, entirely worthless.",
     "excludeFromCodex": true,
     "type": "Fish",
-    "imageName": "crewman's-boot-fd15bdb752.png",
+    "imageName": "CorpusBoot.png",
     "category": "Fish",
     "tradable": true,
     "masterable": false
@@ -956,7 +956,7 @@
     "description": "While the Vallis coolant has kept this finely engineered Corpus tactical boot remarkably well preserved, it is, nonetheless, entirely worthless.",
     "excludeFromCodex": true,
     "type": "Fish",
-    "imageName": "crewman's-boot-4a98ae6dce.png",
+    "imageName": "CorpusBoot.png",
     "category": "Fish",
     "tradable": true,
     "masterable": false
@@ -966,7 +966,7 @@
     "name": "Cryptosuctus",
     "description": "Formerly Orokin scavengers, these fish succumbed to the Infestation long ago and now greedily feast on floating spores. They are found all over the surface of Deimos.",
     "type": "Fish",
-    "imageName": "cryptosuctus-85aabfaec3.png",
+    "imageName": "InfestedCommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1002,7 +1002,7 @@
     "name": "Cryptosuctus",
     "description": "Formerly Orokin scavengers, these fish succumbed to the Infestation long ago and now greedily feast on floating spores. They are found all over the surface of Deimos.",
     "type": "Fish",
-    "imageName": "cryptosuctus-668f61741c.png",
+    "imageName": "InfestedCommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1038,7 +1038,7 @@
     "name": "Cryptosuctus",
     "description": "Formerly Orokin scavengers, these fish succumbed to the Infestation long ago and now greedily feast on floating spores. They are found all over the surface of Deimos.",
     "type": "Fish",
-    "imageName": "cryptosuctus-5943cb825f.png",
+    "imageName": "InfestedCommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1074,7 +1074,7 @@
     "name": "Cuthol",
     "description": "A grotesque crustacean that produces a potent, paralyzing toxin from its tentacles.",
     "type": "Fish",
-    "imageName": "cuthol-12ec7f7e6d.png",
+    "imageName": "FishItemNightRareB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1174,7 +1174,7 @@
     "name": "Cuthol",
     "description": "A grotesque crustacean that produces a potent, paralyzing toxin from its tentacles.",
     "type": "Fish",
-    "imageName": "cuthol-ed7e870744.png",
+    "imageName": "FishItemNightRareB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1274,7 +1274,7 @@
     "name": "Cuthol",
     "description": "A grotesque crustacean that produces a potent, paralyzing toxin from its tentacles.",
     "type": "Fish",
-    "imageName": "cuthol-a4ceed9630.png",
+    "imageName": "FishItemNightRareB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1374,7 +1374,7 @@
     "name": "Duroid",
     "description": "A living fossil hearkening back to the Orokin era, this elusive fish hides below the surface of Exocrine pools in the deepest caverns it can find. Unlike Infested fish breeds, it has no ability to hover.",
     "type": "Fish",
-    "imageName": "duroid-4f4f64600e.png",
+    "imageName": "OrokinRareA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1402,7 +1402,7 @@
     "name": "Duroid",
     "description": "A living fossil hearkening back to the Orokin era, this elusive fish hides below the surface of Exocrine pools in the deepest caverns it can find. Unlike Infested fish breeds, it has no ability to hover.",
     "type": "Fish",
-    "imageName": "duroid-3d6365e18a.png",
+    "imageName": "OrokinRareA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1430,7 +1430,7 @@
     "name": "Duroid",
     "description": "A living fossil hearkening back to the Orokin era, this elusive fish hides below the surface of Exocrine pools in the deepest caverns it can find. Unlike Infested fish breeds, it has no ability to hover.",
     "type": "Fish",
-    "imageName": "duroid-cb6525992e.png",
+    "imageName": "OrokinRareA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1458,7 +1458,7 @@
     "name": "Echowinder",
     "description": "Used to record visual data in the aqua systems and transmits the telemetrics to the Research Station. It can be found in the lake on Venus.",
     "type": "Fish",
-    "imageName": "echowinder-6be71ef923.png",
+    "imageName": "CorpusWarmCommonFishA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1486,7 +1486,7 @@
     "name": "Echowinder",
     "description": "Used to record visual data in the aqua systems and transmits the telemetrics to the Research Station. It can be found in the lake on Venus.",
     "type": "Fish",
-    "imageName": "echowinder-648bbfadca.png",
+    "imageName": "CorpusWarmCommonFishALarge.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1514,7 +1514,7 @@
     "name": "Echowinder",
     "description": "Used to record visual data in the aqua systems and transmits the telemetrics to the Research Station. It can be found in the lake on Venus.",
     "type": "Fish",
-    "imageName": "echowinder-ae26bf66f1.png",
+    "imageName": "CorpusWarmCommonFishAMedium.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1542,7 +1542,7 @@
     "name": "Eye-Eye",
     "description": "A surveillance drone that monitors any activity that disturbs the waters. It can be found in ponds around Venus.",
     "type": "Fish",
-    "imageName": "eye-eye-e2867fb4dd.png",
+    "imageName": "CorpusClearCommonFishA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1586,7 +1586,7 @@
     "name": "Eye-Eye",
     "description": "A surveillance drone that monitors any activity that disturbs the waters. It can be found in ponds around Venus.",
     "type": "Fish",
-    "imageName": "eye-eye-1cf8a3c1a4.png",
+    "imageName": "CorpusCoolUncommonFishALarge.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1630,7 +1630,7 @@
     "name": "Eye-Eye",
     "description": "A surveillance drone that monitors any activity that disturbs the waters. It can be found in ponds around Venus.",
     "type": "Fish",
-    "imageName": "eye-eye-19b0c4f50b.png",
+    "imageName": "CorpusClearCommonFishAMedium.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1674,7 +1674,7 @@
     "name": "Flagellocanth",
     "description": "These specimens were originally parasites, breeding inside the wyrm-guts of Fass and scattered across Deimos in the debris of his explosive demise. They are drawn to his light.",
     "type": "Fish",
-    "imageName": "flagellocanth-1a21be3dc8.png",
+    "imageName": "InfestedRareA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1734,7 +1734,7 @@
     "name": "Flagellocanth",
     "description": "These specimens were originally parasites, breeding inside the wyrm-guts of Fass and scattered across Deimos in the debris of his explosive demise. They are drawn to his light.",
     "type": "Fish",
-    "imageName": "flagellocanth-0c7f3f2b2e.png",
+    "imageName": "InfestedRareA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1794,7 +1794,7 @@
     "name": "Flagellocanth",
     "description": "These specimens were originally parasites, breeding inside the wyrm-guts of Fass and scattered across Deimos in the debris of his explosive demise. They are drawn to his light.",
     "type": "Fish",
-    "imageName": "flagellocanth-25625ea0f9.png",
+    "imageName": "InfestedRareA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1854,7 +1854,7 @@
     "name": "Glappid",
     "description": "The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.",
     "type": "Fish",
-    "imageName": "glappid-82da3aa166.png",
+    "imageName": "FishItemNightLegendaryFishA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1896,7 +1896,7 @@
     "name": "Glappid",
     "description": "The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.",
     "type": "Fish",
-    "imageName": "glappid-e8e37a1d74.png",
+    "imageName": "FishItemNightLegendaryFishA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1938,7 +1938,7 @@
     "name": "Glappid",
     "description": "The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.",
     "type": "Fish",
-    "imageName": "glappid-dd785240b0.png",
+    "imageName": "FishItemNightLegendaryFishA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -1980,7 +1980,7 @@
     "name": "Glutinox",
     "description": "These hefty fish are cannibalistic. They rise by Vome's light to absorb rare gases, retreating when Fass ascends to devour their smaller kin in their lairs.",
     "type": "Fish",
-    "imageName": "glutinox-82c1a2932d.png",
+    "imageName": "InfestedUncommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2008,7 +2008,7 @@
     "name": "Glutinox",
     "description": "These hefty fish are cannibalistic. They rise by Vome's light to absorb rare gases, retreating when Fass ascends to devour their smaller kin in their lairs.",
     "type": "Fish",
-    "imageName": "glutinox-78e101beeb.png",
+    "imageName": "InfestedUncommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2036,7 +2036,7 @@
     "name": "Glutinox",
     "description": "These hefty fish are cannibalistic. They rise by Vome's light to absorb rare gases, retreating when Fass ascends to devour their smaller kin in their lairs.",
     "type": "Fish",
-    "imageName": "glutinox-e7a5334fbe.png",
+    "imageName": "InfestedUncommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2064,7 +2064,7 @@
     "name": "Goopolla",
     "description": "A predatory fish that is attracted to the scent of blood.",
     "type": "Fish",
-    "imageName": "goopolla-a0d28445c5.png",
+    "imageName": "FishItemBothCommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2142,7 +2142,7 @@
     "name": "Goopolla",
     "description": "A predatory fish that is attracted to the scent of blood.",
     "type": "Fish",
-    "imageName": "goopolla-e847cd3f79.png",
+    "imageName": "FishItemBothCommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2220,7 +2220,7 @@
     "name": "Goopolla",
     "description": "A predatory fish that is attracted to the scent of blood.",
     "type": "Fish",
-    "imageName": "goopolla-6a04117c92.png",
+    "imageName": "FishItemBothCommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2299,7 +2299,7 @@
     "description": "Haav prefer to swim near the surface. Duviri citizens often mistake them for logs, which can be startling when Haav show their fangs.",
     "excludeFromCodex": true,
     "type": "Fish",
-    "imageName": "haav-e56bb8389e.png",
+    "imageName": "DuviriFishC.png",
     "category": "Fish",
     "tradable": true,
     "masterable": false
@@ -2310,7 +2310,7 @@
     "description": "Some theorize that Duviri stands upon the shell of a giant Inaak. Naturally, some wonder what the giant Inaak stands upon. The answer, of course, is other Inaaks, all the way down.",
     "excludeFromCodex": true,
     "type": "Fish",
-    "imageName": "inaak-138cb0ebae.png",
+    "imageName": "DuviriFishA.png",
     "category": "Fish",
     "tradable": true,
     "masterable": false
@@ -2320,7 +2320,7 @@
     "name": "Karkina",
     "description": "A crustacean that hunts during the twilight hours.",
     "type": "Fish",
-    "imageName": "karkina-304229f833.png",
+    "imageName": "FishItemBothUncommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2392,7 +2392,7 @@
     "name": "Karkina",
     "description": "A crustacean that hunts during the twilight hours.",
     "type": "Fish",
-    "imageName": "karkina-a166e9d8cc.png",
+    "imageName": "FishItemBothUncommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2464,7 +2464,7 @@
     "name": "Karkina",
     "description": "A crustacean that hunts during the twilight hours.",
     "type": "Fish",
-    "imageName": "karkina-9a9ecb473a.png",
+    "imageName": "FishItemBothUncommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2536,7 +2536,7 @@
     "name": "Khut-Khut",
     "description": "A poisonous fish protected by a hardened carapace around its skull.",
     "type": "Fish",
-    "imageName": "khut-khut-d02c18bfdc.png",
+    "imageName": "FishItemDayCommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2600,7 +2600,7 @@
     "name": "Khut-Khut",
     "description": "A poisonous fish protected by a hardened carapace around its skull.",
     "type": "Fish",
-    "imageName": "khut-khut-7d8708ba74.png",
+    "imageName": "FishItemDayCommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2664,7 +2664,7 @@
     "name": "Khut-Khut",
     "description": "A poisonous fish protected by a hardened carapace around its skull.",
     "type": "Fish",
-    "imageName": "khut-khut-0a5024b1b0.png",
+    "imageName": "FishItemDayCommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2728,7 +2728,7 @@
     "name": "Kriller",
     "description": "Identifies organic threats to Corpus operations in the Aqua Systems and eliminates them. It can be found in the lake on Venus.",
     "type": "Fish",
-    "imageName": "kriller-d416809163.png",
+    "imageName": "CorpusStormUncommonFishA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2762,7 +2762,7 @@
     "name": "Kriller",
     "description": "Identifies organic threats to Corpus operations in the Aqua Systems and eliminates them. It can be found in the lake on Venus.",
     "type": "Fish",
-    "imageName": "kriller-f8505c6348.png",
+    "imageName": "CorpusStormUncommonFishALarge.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2796,7 +2796,7 @@
     "name": "Kriller",
     "description": "Identifies organic threats to Corpus operations in the Aqua Systems and eliminates them. It can be found in the lake on Venus.",
     "type": "Fish",
-    "imageName": "kriller-996c682f31.png",
+    "imageName": "CorpusStormUncommonFishAMedium.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2830,7 +2830,7 @@
     "name": "Kymaeros",
     "description": "The Infestation has suborned these fish to its own purposes, using them as antibodies to repel the non-Infested. They swim through and above the Exocrine found on Deimos’ surface.",
     "type": "Fish",
-    "imageName": "kymaeros-c0a69ab3e7.png",
+    "imageName": "InfestedCommonC.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2866,7 +2866,7 @@
     "name": "Kymaeros",
     "description": "The Infestation has suborned these fish to its own purposes, using them as antibodies to repel the non-Infested. They swim through and above the Exocrine found on Deimos’ surface.",
     "type": "Fish",
-    "imageName": "kymaeros-f66e2f45d4.png",
+    "imageName": "InfestedCommonC.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2902,7 +2902,7 @@
     "name": "Kymaeros",
     "description": "The Infestation has suborned these fish to its own purposes, using them as antibodies to repel the non-Infested. They swim through and above the Exocrine found on Deimos’ surface.",
     "type": "Fish",
-    "imageName": "kymaeros-0d4fbd60b8.png",
+    "imageName": "InfestedCommonC.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2938,7 +2938,7 @@
     "name": "Lobotriscid",
     "description": "A muscular, three-tailed fish, the Lobotriscid trawls through Exocrine vapor across the surface of Deimos when Vome is dominant.",
     "type": "Fish",
-    "imageName": "lobotriscid-dede58f209.png",
+    "imageName": "InfestedCommonE.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -2990,7 +2990,7 @@
     "name": "Lobotriscid",
     "description": "A muscular, three-tailed fish, the Lobotriscid trawls through Exocrine vapor across the surface of Deimos when Vome is dominant.",
     "type": "Fish",
-    "imageName": "lobotriscid-4a6239bcd0.png",
+    "imageName": "InfestedCommonE.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3042,7 +3042,7 @@
     "name": "Lobotriscid",
     "description": "A muscular, three-tailed fish, the Lobotriscid trawls through Exocrine vapor across the surface of Deimos when Vome is dominant.",
     "type": "Fish",
-    "imageName": "lobotriscid-55062846dd.png",
+    "imageName": "InfestedCommonE.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3094,7 +3094,7 @@
     "name": "Longwinder",
     "description": "Repairs leaks and clear blockages within the aqua systems. It can be found in the lake on Venus.",
     "type": "Fish",
-    "imageName": "longwinder-25c6b4b458.png",
+    "imageName": "SolarisWarmRareFishA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3150,7 +3150,7 @@
     "name": "Longwinder",
     "description": "Repairs leaks and clear blockages within the aqua systems. It can be found in the lake on Venus.",
     "type": "Fish",
-    "imageName": "longwinder-b76ed131d5.png",
+    "imageName": "SolarisWarmRareFishALarge.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3206,7 +3206,7 @@
     "name": "Longwinder",
     "description": "Repairs leaks and clear blockages within the aqua systems. It can be found in the lake on Venus.",
     "type": "Fish",
-    "imageName": "longwinder-07e6a65fad.png",
+    "imageName": "SolarisWarmRareFishAMedium.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3262,7 +3262,7 @@
     "name": "Mawfish",
     "description": "Its gaping maw allows it to scoop up smaller fish as it swims by them.",
     "type": "Fish",
-    "imageName": "mawfish-54b22a0ace.png",
+    "imageName": "FishItemDayCommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3334,7 +3334,7 @@
     "name": "Mawfish",
     "description": "Its gaping maw allows it to scoop up smaller fish as it swims by them.",
     "type": "Fish",
-    "imageName": "mawfish-448d80958a.png",
+    "imageName": "FishItemDayCommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3406,7 +3406,7 @@
     "name": "Mawfish",
     "description": "Its gaping maw allows it to scoop up smaller fish as it swims by them.",
     "type": "Fish",
-    "imageName": "mawfish-afb1faf5ef.png",
+    "imageName": "FishItemDayCommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3478,7 +3478,7 @@
     "name": "Mirewinder",
     "description": "Surveys the water for impurities. It can be found in cave pools on Venus.",
     "type": "Fish",
-    "imageName": "mirewinder-a5b961a6d9.png",
+    "imageName": "CorpusBothUncommonFishA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3520,7 +3520,7 @@
     "name": "Mirewinder",
     "description": "Surveys the water for impurities. It can be found in cave pools on Venus.",
     "type": "Fish",
-    "imageName": "mirewinder-29a1571292.png",
+    "imageName": "CorpusBothUncommonFishALarge.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3562,7 +3562,7 @@
     "name": "Mirewinder",
     "description": "Surveys the water for impurities. It can be found in cave pools on Venus.",
     "type": "Fish",
-    "imageName": "mirewinder-bcc768b733.png",
+    "imageName": "CorpusBothUncommonFishAMedium.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3604,7 +3604,7 @@
     "name": "Mortus Lungfish",
     "description": "Displays blood-spattered pattern on its scales and has its ribs exposed through open cavities along both flanks. When predators approach it lies still at the bottom of the sand banks, disguised as a carcass in hopes of being ignored.",
     "type": "Fish",
-    "imageName": "mortus-lungfish-44fa9c46ae.png",
+    "imageName": "FishItemDayUncommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3632,7 +3632,7 @@
     "name": "Mortus Lungfish",
     "description": "Displays blood-spattered pattern on its scales and has its ribs exposed through open cavities along both flanks. When predators approach it lies still at the bottom of the sand banks, disguised as a carcass in hopes of being ignored.",
     "type": "Fish",
-    "imageName": "mortus-lungfish-793b26f4c8.png",
+    "imageName": "FishItemDayUncommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3660,7 +3660,7 @@
     "name": "Mortus Lungfish",
     "description": "Displays blood-spattered pattern on its scales and has its ribs exposed through open cavities along both flanks. When predators approach it lies still at the bottom of the sand banks, disguised as a carcass in hopes of being ignored.",
     "type": "Fish",
-    "imageName": "mortus-lungfish-300b4ee45a.png",
+    "imageName": "FishItemDayUncommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3688,7 +3688,7 @@
     "name": "Murkray",
     "description": "A cunning hunter that hides within the mud at the bottom of the ocean and ambushes passing prey.",
     "type": "Fish",
-    "imageName": "murkray-b2191b6a7e.png",
+    "imageName": "FishItemBothRareA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3780,7 +3780,7 @@
     "name": "Murkray",
     "description": "A cunning hunter that hides within the mud at the bottom of the ocean and ambushes passing prey.",
     "type": "Fish",
-    "imageName": "murkray-e871775304.png",
+    "imageName": "FishItemBothRareA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3872,7 +3872,7 @@
     "name": "Murkray",
     "description": "A cunning hunter that hides within the mud at the bottom of the ocean and ambushes passing prey.",
     "type": "Fish",
-    "imageName": "murkray-697f0501dd.png",
+    "imageName": "FishItemBothRareA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3964,7 +3964,7 @@
     "name": "Myxostomata",
     "description": "This exceptionally rare breed of fish is almost extinct, as its gilded Orokin flesh has a special savor for predators. It warily conceals itself in caves. ",
     "type": "Fish",
-    "imageName": "myxostomata-ad9f92c3b5.png",
+    "imageName": "OrokinLegendaryA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -3992,7 +3992,7 @@
     "name": "Myxostomata",
     "description": "This exceptionally rare breed of fish is almost extinct, as its gilded Orokin flesh has a special savor for predators. It warily conceals itself in caves. ",
     "type": "Fish",
-    "imageName": "myxostomata-e771081e3a.png",
+    "imageName": "OrokinLegendaryA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4020,7 +4020,7 @@
     "name": "Myxostomata",
     "description": "This exceptionally rare breed of fish is almost extinct, as its gilded Orokin flesh has a special savor for predators. It warily conceals itself in caves. ",
     "type": "Fish",
-    "imageName": "myxostomata-9a6e69540d.png",
+    "imageName": "OrokinLegendaryA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4049,7 +4049,7 @@
     "description": "The Namaes has evolved the ability to tense its tail muscles and use its tail as a fearsome weapon.",
     "excludeFromCodex": true,
     "type": "Fish",
-    "imageName": "namaes-32db21c8cd.png",
+    "imageName": "DuviriFishD.png",
     "category": "Fish",
     "tradable": true,
     "masterable": false
@@ -4059,7 +4059,7 @@
     "name": "Norg",
     "description": "This fish inhabits the shallows and feeds of crabs and other small crustaceans. When threatened it forces air into its brain to give it the impression of being much bigger than it normally is.",
     "type": "Fish",
-    "imageName": "norg-fb3d6e5b85.png",
+    "imageName": "FishItemNightRareA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4203,7 +4203,7 @@
     "name": "Norg",
     "description": "This fish inhabits the shallows and feeds of crabs and other small crustaceans. When threatened it forces air into its brain to give it the impression of being much bigger than it normally is.",
     "type": "Fish",
-    "imageName": "norg-181afe1501.png",
+    "imageName": "FishItemNightRareA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4347,7 +4347,7 @@
     "name": "Norg",
     "description": "This fish inhabits the shallows and feeds of crabs and other small crustaceans. When threatened it forces air into its brain to give it the impression of being much bigger than it normally is.",
     "type": "Fish",
-    "imageName": "norg-8f4a227307.png",
+    "imageName": "FishItemNightRareA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4491,7 +4491,7 @@
     "name": "Ostimyr",
     "description": "Crammed with redundant, mutated internal organs, this pungent fish mingles Orokin and Infested ancestry. It is confined to the Exocrine and is only active by the light of the Wyrm Fass.",
     "type": "Fish",
-    "imageName": "ostimyr-3d54ff4970.png",
+    "imageName": "HybridUncommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4519,7 +4519,7 @@
     "name": "Ostimyr",
     "description": "Crammed with redundant, mutated internal organs, this pungent fish mingles Orokin and Infested ancestry. It is confined to the Exocrine and is only active by the light of the Wyrm Fass.",
     "type": "Fish",
-    "imageName": "ostimyr-9bcbae2435.png",
+    "imageName": "HybridUncommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4547,7 +4547,7 @@
     "name": "Ostimyr",
     "description": "Crammed with redundant, mutated internal organs, this pungent fish mingles Orokin and Infested ancestry. It is confined to the Exocrine and is only active by the light of the Wyrm Fass.",
     "type": "Fish",
-    "imageName": "ostimyr-d6d7e9d75c.png",
+    "imageName": "HybridUncommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4575,7 +4575,7 @@
     "name": "Recaster",
     "description": "Facilitates long-distance communication between robotics deployed in the aqua systems. It can be found in the ponds around Venus.",
     "type": "Fish",
-    "imageName": "recaster-d41e0afb08.png",
+    "imageName": "SolarisClearRareFishA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4611,7 +4611,7 @@
     "name": "Recaster",
     "description": "Facilitates long-distance communication between robotics deployed in the aqua systems. It can be found in the ponds around Venus.",
     "type": "Fish",
-    "imageName": "recaster-367393121f.png",
+    "imageName": "SolarisClearRareFishALarge.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4647,7 +4647,7 @@
     "name": "Recaster",
     "description": "Facilitates long-distance communication between robotics deployed in the aqua systems. It can be found in the ponds around Venus.",
     "type": "Fish",
-    "imageName": "recaster-13854c62a7.png",
+    "imageName": "SolarisClearRareFishAMedium.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4683,7 +4683,7 @@
     "name": "Sapcaddy",
     "description": "Collects fluid samples in the aqua system for the Research Station. It can be found in lakes around Venus.",
     "type": "Fish",
-    "imageName": "sapcaddy-eb65cbd6bc.png",
+    "imageName": "CorpusCoolCommonFishA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4733,7 +4733,7 @@
     "name": "Sapcaddy",
     "description": "Collects fluid samples in the aqua system for the Research Station. It can be found in lakes around Venus.",
     "type": "Fish",
-    "imageName": "sapcaddy-be52e6bb1f.png",
+    "imageName": "CorpusCoolCommonFishALarge.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4783,7 +4783,7 @@
     "name": "Sapcaddy",
     "description": "Collects fluid samples in the aqua system for the Research Station. It can be found in lakes around Venus.",
     "type": "Fish",
-    "imageName": "sapcaddy-ff868b6d9c.png",
+    "imageName": "CorpusCoolCommonFishAMedium.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4833,7 +4833,7 @@
     "name": "Scrubber",
     "description": "Analyzes the growth of microbes dwelling in the aqua systems to monitor toxicity levels. It can be found in cave pools on Venus.",
     "type": "Fish",
-    "imageName": "scrubber-39bc6f06ea.png",
+    "imageName": "SolarisBothCommonFishA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4861,7 +4861,7 @@
     "name": "Scrubber",
     "description": "Analyzes the growth of microbes dwelling in the aqua systems to monitor toxicity levels. It can be found in cave pools on Venus.",
     "type": "Fish",
-    "imageName": "scrubber-c2cad828e4.png",
+    "imageName": "CorpusStormCommonFishALarge.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4889,7 +4889,7 @@
     "name": "Scrubber",
     "description": "Analyzes the growth of microbes dwelling in the aqua systems to monitor toxicity levels. It can be found in cave pools on Venus.",
     "type": "Fish",
-    "imageName": "scrubber-17312d7f8f.png",
+    "imageName": "CorpusStormCommonFishAMedium.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -4918,7 +4918,7 @@
     "description": "The Seonn's ability to flare its neck and hood makes it impossible for most predators to swallow, but the Golden Maw can overcome its defense.",
     "excludeFromCodex": true,
     "type": "Fish",
-    "imageName": "seonn-038659974f.png",
+    "imageName": "DuviriFishE.png",
     "category": "Fish",
     "tradable": true,
     "masterable": false
@@ -4928,7 +4928,7 @@
     "name": "Sharrac",
     "description": "While rarely venturing from the deepest waters of the plains, the Sharrac is a fearsome predator who will prey on unwary Ostrons swimming alone.",
     "type": "Fish",
-    "imageName": "sharrac-61e61aea41.png",
+    "imageName": "FishItemBothUncommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5008,7 +5008,7 @@
     "name": "Sharrac",
     "description": "While rarely venturing from the deepest waters of the plains, the Sharrac is a fearsome predator who will prey on unwary Ostrons swimming alone.",
     "type": "Fish",
-    "imageName": "sharrac-40d7978d90.png",
+    "imageName": "FishItemBothUncommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5088,7 +5088,7 @@
     "name": "Sharrac",
     "description": "While rarely venturing from the deepest waters of the plains, the Sharrac is a fearsome predator who will prey on unwary Ostrons swimming alone.",
     "type": "Fish",
-    "imageName": "sharrac-fec7e2a609.png",
+    "imageName": "FishItemBothUncommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5169,7 +5169,7 @@
     "description": "You're catching a lot of these. Are you stocking up?",
     "excludeFromCodex": true,
     "type": "Fish",
-    "imageName": "stocking-00d5be1791.png",
+    "imageName": "GrineerBoot.png",
     "category": "Fish",
     "tradable": true,
     "masterable": false
@@ -5179,7 +5179,7 @@
     "name": "Synathid",
     "description": "Monitors environmental fluctuations. It can be found in the cave pools on Venus.",
     "type": "Fish",
-    "imageName": "synathid-ce1b89b0b4.png",
+    "imageName": "OrokinClearLegendaryFishA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5219,7 +5219,7 @@
     "name": "Synathid",
     "description": "Monitors environmental fluctuations. It can be found in the cave pools on Venus.",
     "type": "Fish",
-    "imageName": "synathid-1d37e1a177.png",
+    "imageName": "OrokinClearLegendaryFishALarge.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5259,7 +5259,7 @@
     "name": "Synathid",
     "description": "Monitors environmental fluctuations. It can be found in the cave pools on Venus.",
     "type": "Fish",
-    "imageName": "synathid-468180a529.png",
+    "imageName": "OrokinClearLegendaryFishAMedium.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5299,7 +5299,7 @@
     "name": "Tink",
     "description": "Repairs robotics that have broken down in the aqua systems. It can be found in ponds around Venus.",
     "type": "Fish",
-    "imageName": "tink-7a7a0685cd.png",
+    "imageName": "SolarisCoolCommonFishA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5351,7 +5351,7 @@
     "name": "Tink",
     "description": "Repairs robotics that have broken down in the aqua systems. It can be found in ponds around Venus.",
     "type": "Fish",
-    "imageName": "tink-d2d5d38fe3.png",
+    "imageName": "SolarisStormUncommonFishALarge.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5403,7 +5403,7 @@
     "name": "Tink",
     "description": "Repairs robotics that have broken down in the aqua systems. It can be found in ponds around Venus.",
     "type": "Fish",
-    "imageName": "tink-2006e685e2.png",
+    "imageName": "SolarisStormUncommonFishAMedium.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5455,7 +5455,7 @@
     "name": "Tralok",
     "description": "Strong, predatory fish with eyes that can pierce the darkest shadows.",
     "type": "Fish",
-    "imageName": "tralok-198318bae8.png",
+    "imageName": "FishItemDayUncommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5527,7 +5527,7 @@
     "name": "Tralok",
     "description": "Strong, predatory fish with eyes that can pierce the darkest shadows.",
     "type": "Fish",
-    "imageName": "tralok-3a421c2e99.png",
+    "imageName": "FishItemDayUncommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5599,7 +5599,7 @@
     "name": "Tralok",
     "description": "Strong, predatory fish with eyes that can pierce the darkest shadows.",
     "type": "Fish",
-    "imageName": "tralok-b4ecadea1c.png",
+    "imageName": "FishItemDayUncommonA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5671,7 +5671,7 @@
     "name": "Tromyzon",
     "description": "Programmed to break down chemical byproducts leaked into the aqua system. It can be found in ponds around Venus.",
     "type": "Fish",
-    "imageName": "tromyzon-f1dde9aec6.png",
+    "imageName": "OrokinCoolRareFishA.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5719,7 +5719,7 @@
     "name": "Tromyzon",
     "description": "Programmed to break down chemical byproducts leaked into the aqua system. It can be found in ponds around Venus.",
     "type": "Fish",
-    "imageName": "tromyzon-ae017d1a40.png",
+    "imageName": "OrokinCoolRareFishALarge.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5767,7 +5767,7 @@
     "name": "Tromyzon",
     "description": "Programmed to break down chemical byproducts leaked into the aqua system. It can be found in ponds around Venus.",
     "type": "Fish",
-    "imageName": "tromyzon-831d6b8651.png",
+    "imageName": "OrokinCoolRareFishAMedium.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5815,7 +5815,7 @@
     "name": "Vitreospina",
     "description": "Whatever higher functions this fish once had have been consumed, leaving it a mere automaton of metal and flesh. It ekes out a primitive existence in cave systems.",
     "type": "Fish",
-    "imageName": "vitreospina-990b006317.png",
+    "imageName": "HybridUncommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5843,7 +5843,7 @@
     "name": "Vitreospina",
     "description": "Whatever higher functions this fish once had have been consumed, leaving it a mere automaton of metal and flesh. It ekes out a primitive existence in cave systems.",
     "type": "Fish",
-    "imageName": "vitreospina-4d9237695a.png",
+    "imageName": "HybridUncommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5871,7 +5871,7 @@
     "name": "Vitreospina",
     "description": "Whatever higher functions this fish once had have been consumed, leaving it a mere automaton of metal and flesh. It ekes out a primitive existence in cave systems.",
     "type": "Fish",
-    "imageName": "vitreospina-c6c179e43d.png",
+    "imageName": "HybridUncommonB.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5900,7 +5900,7 @@
     "description": "The Golden Maw finds Xirans exceptionally delicious.",
     "excludeFromCodex": true,
     "type": "Fish",
-    "imageName": "xiran-186ddc07e3.png",
+    "imageName": "DuviriFishB.png",
     "category": "Fish",
     "tradable": true,
     "masterable": false
@@ -5910,7 +5910,7 @@
     "name": "Yogwun",
     "description": "This slow fish meanders through the waters and is often preyed upon by larger predators.",
     "type": "Fish",
-    "imageName": "yogwun-479a2bd447.png",
+    "imageName": "FishItemDayCommonC.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -5982,7 +5982,7 @@
     "name": "Yogwun",
     "description": "This slow fish meanders through the waters and is often preyed upon by larger predators.",
     "type": "Fish",
-    "imageName": "yogwun-99d3cb7191.png",
+    "imageName": "FishItemDayCommonC.png",
     "category": "Fish",
     "tradable": true,
     "drops": [
@@ -6054,7 +6054,7 @@
     "name": "Yogwun",
     "description": "This slow fish meanders through the waters and is often preyed upon by larger predators.",
     "type": "Fish",
-    "imageName": "yogwun-1f0eb08609.png",
+    "imageName": "FishItemDayCommonC.png",
     "category": "Fish",
     "tradable": true,
     "drops": [

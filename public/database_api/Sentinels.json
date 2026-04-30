@@ -20,7 +20,7 @@
         "name": "Alloy Plate",
         "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 1000,
-        "imageName": "alloy-plate-af5adc4919.png",
+        "imageName": "AlloyPlate.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -41,7 +41,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 400,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -52,7 +52,7 @@
         "name": "Control Module",
         "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
         "itemCount": 3,
-        "imageName": "control-module-edf6e412c3.png",
+        "imageName": "ControlModule.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -63,7 +63,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 1500,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -71,7 +71,7 @@
       }
     ],
     "type": "Sentinel",
-    "imageName": "carrier-f4e5806f6e.png",
+    "imageName": "Carrier.png",
     "category": "Sentinels",
     "tradable": false,
     "patchlogs": [
@@ -689,7 +689,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 15,
         "itemCount": 1,
-        "imageName": "prime-carapace.png",
+        "imageName": "GenericWarframePrimeChassis.png",
         "tradable": true,
         "drops": [
           {
@@ -842,7 +842,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 65,
         "itemCount": 1,
-        "imageName": "prime-cerebrum.png",
+        "imageName": "GenericWarframePrimeHelmet.png",
         "tradable": true,
         "drops": [
           {
@@ -1022,7 +1022,7 @@
         "name": "Orokin Cell",
         "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
         "itemCount": 6,
-        "imageName": "orokin-cell-0d237af036.png",
+        "imageName": "ComponentCell.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1034,7 +1034,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 15,
         "itemCount": 1,
-        "imageName": "prime-systems.png",
+        "imageName": "GenericWarframePrimeSystem.png",
         "tradable": true,
         "drops": [
           {
@@ -1267,7 +1267,7 @@
       }
     ],
     "type": "Sentinel",
-    "imageName": "carrier-prime-7e84bae628.png",
+    "imageName": "CarrierPrime.png",
     "category": "Sentinels",
     "tradable": true,
     "patchlogs": [
@@ -1346,7 +1346,7 @@
         "name": "Alloy Plate",
         "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 500,
-        "imageName": "alloy-plate-af5adc4919.png",
+        "imageName": "AlloyPlate.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1367,7 +1367,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 400,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1378,7 +1378,7 @@
         "name": "Control Module",
         "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
         "itemCount": 1,
-        "imageName": "control-module-edf6e412c3.png",
+        "imageName": "ControlModule.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1389,7 +1389,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 200,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -1397,7 +1397,7 @@
       }
     ],
     "type": "Sentinel",
-    "imageName": "dethcube-c0fb93fb8c.png",
+    "imageName": "Dethcube.png",
     "category": "Sentinels",
     "tradable": false,
     "patchlogs": [
@@ -1722,7 +1722,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 45,
         "itemCount": 1,
-        "imageName": "prime-carapace.png",
+        "imageName": "GenericWarframePrimeChassis.png",
         "tradable": true,
         "drops": [
           {
@@ -1959,7 +1959,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 65,
         "itemCount": 1,
-        "imageName": "prime-cerebrum.png",
+        "imageName": "GenericWarframePrimeHelmet.png",
         "tradable": true,
         "drops": [
           {
@@ -2111,7 +2111,7 @@
         "name": "Orokin Cell",
         "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
         "itemCount": 6,
-        "imageName": "orokin-cell-0d237af036.png",
+        "imageName": "ComponentCell.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2123,7 +2123,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 15,
         "itemCount": 1,
-        "imageName": "prime-systems.png",
+        "imageName": "GenericWarframePrimeSystem.png",
         "tradable": true,
         "drops": [
           {
@@ -2356,7 +2356,7 @@
       }
     ],
     "type": "Sentinel",
-    "imageName": "dethcube-prime-568b4f3c87.png",
+    "imageName": "DethcubePrime.png",
     "category": "Sentinels",
     "tradable": true,
     "patchlogs": [
@@ -2434,7 +2434,7 @@
         "name": "Alloy Plate",
         "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 600,
-        "imageName": "alloy-plate-af5adc4919.png",
+        "imageName": "AlloyPlate.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2445,7 +2445,7 @@
         "name": "Argon Crystal",
         "description": "A Void based radioactive resource that decays every day it is out of the Void.\n\nLocation: Missions in the Void",
         "itemCount": 2,
-        "imageName": "argon-crystal-f099c16dc9.png",
+        "imageName": "ArgonCrystal.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2466,7 +2466,7 @@
         "name": "Plastids",
         "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
         "itemCount": 350,
-        "imageName": "plastids-dabf813edd.png",
+        "imageName": "ComponentPlastids.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2477,7 +2477,7 @@
         "name": "Polymer Bundle",
         "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
         "itemCount": 500,
-        "imageName": "polymer-bundle-b8d240c368.png",
+        "imageName": "PolymerBundle.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2485,7 +2485,7 @@
       }
     ],
     "type": "Sentinel",
-    "imageName": "diriga-b51a3dc56d.png",
+    "imageName": "Diriga.png",
     "category": "Sentinels",
     "tradable": false,
     "patchlogs": [
@@ -2625,7 +2625,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 3500,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2636,7 +2636,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on max Rank Warframes, Companions and Weapons.",
         "itemCount": 2,
-        "imageName": "forma-778e068bc2.png",
+        "imageName": "GenericComponent.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -2646,7 +2646,7 @@
         "name": "Mutagen Mass",
         "description": "This living mass can produce weaponized toxins for weaponry.\n\nLocation: Clan Research (Bio Lab in the Dojo) and Infested Outbreak Invasion Rewards",
         "itemCount": 6,
-        "imageName": "mutagen-mass-17e29a3c73.png",
+        "imageName": "InfestedComponent.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -2656,7 +2656,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 30000,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2664,7 +2664,7 @@
       }
     ],
     "type": "Sentinel",
-    "imageName": "djinn-95bb8b0ef8.png",
+    "imageName": "Djinn.png",
     "category": "Sentinels",
     "tradable": false,
     "patchlogs": [
@@ -2886,7 +2886,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 5000,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -2896,7 +2896,7 @@
         "name": "Fieldron",
         "description": "ClanTech weaponized containment field to contain superheated substances.\n\nLocation: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards",
         "itemCount": 10,
-        "imageName": "fieldron-db068da41e.png",
+        "imageName": "CorpusComponent.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -2906,7 +2906,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on max Rank Warframes, Companions and Weapons.",
         "itemCount": 1,
-        "imageName": "forma-778e068bc2.png",
+        "imageName": "GenericComponent.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -2916,7 +2916,7 @@
         "name": "Oxium",
         "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\n\nLocation: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
         "itemCount": 300,
-        "imageName": "oxium-5f4e4dfeac.png",
+        "imageName": "ComponentOxium.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2924,7 +2924,7 @@
       }
     ],
     "type": "Sentinel",
-    "imageName": "helios-8cacabc9a2.png",
+    "imageName": "Helios.png",
     "category": "Sentinels",
     "tradable": false,
     "patchlogs": [
@@ -3541,7 +3541,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 15,
         "itemCount": 1,
-        "imageName": "prime-carapace.png",
+        "imageName": "GenericWarframePrimeChassis.png",
         "tradable": true,
         "drops": [
           {
@@ -3834,7 +3834,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 100,
         "itemCount": 1,
-        "imageName": "prime-cerebrum.png",
+        "imageName": "GenericWarframePrimeHelmet.png",
         "tradable": true,
         "drops": [
           {
@@ -4014,7 +4014,7 @@
         "name": "Orokin Cell",
         "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
         "itemCount": 6,
-        "imageName": "orokin-cell-0d237af036.png",
+        "imageName": "ComponentCell.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -4026,7 +4026,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 45,
         "itemCount": 1,
-        "imageName": "prime-systems.png",
+        "imageName": "GenericWarframePrimeSystem.png",
         "tradable": true,
         "drops": [
           {
@@ -4203,7 +4203,7 @@
       }
     ],
     "type": "Sentinel",
-    "imageName": "helios-prime-7bd311ccae.png",
+    "imageName": "HeliosPrime.png",
     "category": "Sentinels",
     "tradable": true,
     "patchlogs": [
@@ -4371,7 +4371,7 @@
         "name": "Carapace",
         "description": "A sentinel-crafting component.",
         "itemCount": 1,
-        "imageName": "carapace.png",
+        "imageName": "GenericWarframeChassis.png",
         "tradable": false,
         "drops": [
           {
@@ -4430,7 +4430,7 @@
         "name": "Cerebrum",
         "description": "A sentinel-crafting component.",
         "itemCount": 1,
-        "imageName": "cerebrum.png",
+        "imageName": "GenericWarframeHelmet.png",
         "tradable": false,
         "drops": [
           {
@@ -4489,7 +4489,7 @@
         "name": "Nullstones",
         "description": "Nullstones do not conform to several laws of physics, making them highly prized for optimizing sensitive components.\n\nLocation: Railjack Missions",
         "itemCount": 5,
-        "imageName": "nullstones-bcb7543ba8.png",
+        "imageName": "RailjackComponentNullstones.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -4499,7 +4499,7 @@
         "name": "Systems",
         "description": "A sentinel-crafting component.",
         "itemCount": 1,
-        "imageName": "systems.png",
+        "imageName": "GenericWarframeSystem.png",
         "tradable": false,
         "drops": [
           {
@@ -4555,7 +4555,7 @@
       }
     ],
     "type": "Sentinel",
-    "imageName": "nautilus-b1bfae3524.png",
+    "imageName": "EmpyreanSentinel.png",
     "category": "Sentinels",
     "tradable": false,
     "patchlogs": [
@@ -4779,7 +4779,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 15,
         "itemCount": 1,
-        "imageName": "prime-carapace.png",
+        "imageName": "GenericWarframePrimeChassis.png",
         "tradable": true,
         "drops": [
           {
@@ -4988,7 +4988,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 100,
         "itemCount": 1,
-        "imageName": "prime-cerebrum.png",
+        "imageName": "GenericWarframePrimeHelmet.png",
         "tradable": true,
         "drops": [
           {
@@ -5112,7 +5112,7 @@
         "name": "Orokin Cell",
         "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
         "itemCount": 6,
-        "imageName": "orokin-cell-0d237af036.png",
+        "imageName": "ComponentCell.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -5124,7 +5124,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 45,
         "itemCount": 1,
-        "imageName": "prime-systems.png",
+        "imageName": "GenericWarframePrimeSystem.png",
         "tradable": true,
         "drops": [
           {
@@ -5301,7 +5301,7 @@
       }
     ],
     "type": "Sentinel",
-    "imageName": "nautilus-prime-710cc92335.png",
+    "imageName": "NautilusPrime.png",
     "category": "Sentinels",
     "tradable": true,
     "wikiAvailable": true,
@@ -5351,7 +5351,7 @@
         "name": "Axidrol Alloy",
         "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "itemCount": 45,
-        "imageName": "axidrol-alloy-1c1aae73ee.png",
+        "imageName": "SolarisCommonOreBAlloy.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -5378,7 +5378,7 @@
         "name": "Goblite Tears",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "itemCount": 15,
-        "imageName": "goblite-tears-db33ec8568.png",
+        "imageName": "SolarisUncommonGemACut.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -5388,7 +5388,7 @@
         "name": "Longwinder Lathe Coagulant",
         "description": "A liquid that mixes with coolant fluid to produce a resilient gel that repairs leaks.\n\nSource: Dismantled from Longwinder servofish via The Business in Fortuna (Venus). Catch Longwinder in Orb Vallis lake hotspots during Warm weather.",
         "itemCount": 10,
-        "imageName": "longwinder-lathe-coagulant-6e430abe78.png",
+        "imageName": "FishPartLatheCoogulant.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -5398,14 +5398,14 @@
         "name": "Scrap",
         "description": "A sample of sprockets, gyros and wires.\n\nSource: Dismantled from all Orb Vallis servofish via The Business in Fortuna (Venus).",
         "itemCount": 40,
-        "imageName": "scrap-683ea4a2e9.png",
+        "imageName": "FishPartScrap.png",
         "tradable": false,
         "masterable": false,
         "drops": []
       }
     ],
     "type": "Sentinel",
-    "imageName": "oxylus-9cb847b2e4.png",
+    "imageName": "Oxylus.png",
     "category": "Sentinels",
     "tradable": false,
     "patchlogs": [
@@ -5487,7 +5487,7 @@
     "description": "A rare jewel of the void. How could anything so beautiful be crafted for stealth?",
     "productCategory": "Sentinels",
     "type": "Sentinel",
-    "imageName": "prisma-shade-25398bfb4c.png",
+    "imageName": "PrismaShade.png",
     "category": "Sentinels",
     "tradable": true,
     "patchlogs": [
@@ -5553,7 +5553,7 @@
         "name": "Alloy Plate",
         "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 500,
-        "imageName": "alloy-plate-af5adc4919.png",
+        "imageName": "AlloyPlate.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -5574,7 +5574,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 400,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -5585,7 +5585,7 @@
         "name": "Control Module",
         "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
         "itemCount": 1,
-        "imageName": "control-module-edf6e412c3.png",
+        "imageName": "ControlModule.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -5596,7 +5596,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 200,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -5604,7 +5604,7 @@
       }
     ],
     "type": "Sentinel",
-    "imageName": "shade-fae1390837.png",
+    "imageName": "Shade.png",
     "category": "Sentinels",
     "tradable": false,
     "patchlogs": [
@@ -6001,7 +6001,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 100,
         "itemCount": 1,
-        "imageName": "prime-carapace.png",
+        "imageName": "GenericWarframePrimeChassis.png",
         "tradable": true,
         "drops": [
           {
@@ -6126,7 +6126,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 15,
         "itemCount": 1,
-        "imageName": "prime-cerebrum.png",
+        "imageName": "GenericWarframePrimeHelmet.png",
         "tradable": true,
         "drops": [
           {
@@ -6362,7 +6362,7 @@
         "name": "Orokin Cell",
         "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
         "itemCount": 6,
-        "imageName": "orokin-cell-0d237af036.png",
+        "imageName": "ComponentCell.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6374,7 +6374,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 45,
         "itemCount": 1,
-        "imageName": "prime-systems.png",
+        "imageName": "GenericWarframePrimeSystem.png",
         "tradable": true,
         "drops": [
           {
@@ -6551,7 +6551,7 @@
       }
     ],
     "type": "Sentinel",
-    "imageName": "shade-prime-53572a63b2.png",
+    "imageName": "ShadePrime.png",
     "category": "Sentinels",
     "tradable": true,
     "wikiAvailable": true,
@@ -6613,7 +6613,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 500,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -6623,7 +6623,7 @@
         "name": "Neurodes",
         "description": "Biotech sensor organ harvested from Infested entities.\n\nLocation: Earth, Lua, Eris, and Deimos",
         "itemCount": 1,
-        "imageName": "neurodes-c027fd4a28.png",
+        "imageName": "ComponentNeurode.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -6633,7 +6633,7 @@
         "name": "Rubedo",
         "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
         "itemCount": 200,
-        "imageName": "rubedo-b57170a2d4.png",
+        "imageName": "ComponentRubedo.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6641,7 +6641,7 @@
       }
     ],
     "type": "Sentinel",
-    "imageName": "taxon-99ef68d98a.png",
+    "imageName": "Taxon.png",
     "category": "Sentinels",
     "tradable": false,
     "patchlogs": [
@@ -6755,7 +6755,7 @@
         "name": "Alloy Plate",
         "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 500,
-        "imageName": "alloy-plate-af5adc4919.png",
+        "imageName": "AlloyPlate.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6776,7 +6776,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 400,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6787,7 +6787,7 @@
         "name": "Control Module",
         "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
         "itemCount": 1,
-        "imageName": "control-module-edf6e412c3.png",
+        "imageName": "ControlModule.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6798,7 +6798,7 @@
         "name": "Nano Spores",
         "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
         "itemCount": 200,
-        "imageName": "nano-spores-8933019524.png",
+        "imageName": "ComponentNanospores.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6806,7 +6806,7 @@
       }
     ],
     "type": "Sentinel",
-    "imageName": "wyrm-7593567ef4.png",
+    "imageName": "Wyrm.png",
     "category": "Sentinels",
     "tradable": false,
     "patchlogs": [
@@ -7251,7 +7251,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 15,
         "itemCount": 1,
-        "imageName": "prime-carapace.png",
+        "imageName": "GenericWarframePrimeChassis.png",
         "tradable": true,
         "drops": [
           {
@@ -7320,7 +7320,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 15,
         "itemCount": 1,
-        "imageName": "prime-cerebrum.png",
+        "imageName": "GenericWarframePrimeHelmet.png",
         "tradable": true,
         "drops": [
           {
@@ -7388,7 +7388,7 @@
         "name": "Orokin Cell",
         "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
         "itemCount": 6,
-        "imageName": "orokin-cell-0d237af036.png",
+        "imageName": "ComponentCell.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -7400,7 +7400,7 @@
         "description": "A prime sentinel-crafting component.",
         "primeSellingPrice": 45,
         "itemCount": 1,
-        "imageName": "prime-systems.png",
+        "imageName": "GenericWarframePrimeSystem.png",
         "tradable": true,
         "drops": [
           {
@@ -7465,7 +7465,7 @@
       }
     ],
     "type": "Sentinel",
-    "imageName": "wyrm-prime-62d6263c3e.png",
+    "imageName": "WyrmPrime.png",
     "category": "Sentinels",
     "tradable": true,
     "patchlogs": [

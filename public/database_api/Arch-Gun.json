@@ -52,7 +52,7 @@
         "description": "A weapon-crafting component.",
         "excludeFromCodex": true,
         "itemCount": 1,
-        "imageName": "barrel.png",
+        "imageName": "GenericGunBarrel.png",
         "tradable": false,
         "drops": [
           {
@@ -135,7 +135,7 @@
         "description": "This mushroom is as plain as plain can be. Take it to Nightcap in the airlock for further information.\n\nLocation: Deepmines Bounties on Venus",
         "excludeFromCodex": true,
         "itemCount": 5,
-        "imageName": "dull-button-c660fcc44a.png",
+        "imageName": "MushroomIconPlain.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -146,7 +146,7 @@
         "description": "A weapon-crafting component.",
         "excludeFromCodex": true,
         "itemCount": 1,
-        "imageName": "receiver.png",
+        "imageName": "GenericGunReceiver.png",
         "tradable": false,
         "drops": [
           {
@@ -182,7 +182,7 @@
         "description": "A weapon-crafting component.",
         "excludeFromCodex": true,
         "itemCount": 1,
-        "imageName": "stock.png",
+        "imageName": "GenericGunStock.png",
         "tradable": false,
         "drops": [
           {
@@ -237,7 +237,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "arbucep-6cabdc8f25.png",
+    "imageName": "NokkoArchGun.png",
     "category": "Arch-Gun",
     "tradable": false,
     "wikiAvailable": true,
@@ -528,31 +528,224 @@
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunBarrelItem",
         "name": "Cortege Barrel",
         "description": "A Necramech weapon-crafting component.",
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem",
+            "name": "Adramal Alloy",
+            "description": "Purged of spores and contaminants, this alloy is highly versatile.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+            "itemCount": 80,
+            "imageName": "DeimosCommonOreAAlloy.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechArchGunBarrelBlueprint",
+            "name": "Blueprint",
+            "description": "A Necramech weapon-crafting component.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": [
+              {
+                "location": "NecraLoid (Loid), Clearance Modus",
+                "type": "Cortege Barrel Blueprint",
+                "chance": 100,
+                "rarity": "Common"
+              }
+            ]
+          },
+          {
+            "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponBarrelItem",
+            "name": "Damaged Necramech Weapon Barrel",
+            "description": "The damaged barrel of a heavy-duty Necramech weapon.\n\nLocation: Isolation Vault and Arcana Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+            "itemCount": 1,
+            "imageName": "DamagedEntratiMechGunBarrel.png",
+            "tradable": true,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAAlloyAItem",
+            "name": "Fersteel Alloy",
+            "description": "Ferros that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 20,
+            "imageName": "UncommonOreAAlloyA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
+            "name": "Spinal Core Section",
+            "description": "Many delicate and complex nerve fibers are housed in the jointed vertebrae, which are one of the creature's most resilient parts. Found from Vitreospina fish known to eke out a primitive existence in cave systems.\n\nSource: Cut from Vitreospina and Chondricord fish via Daughter in the Necralisk (Deimos). Catch Vitreospina in Cambion Drift caves during Fass and Vome, and Chondricord in Cambion Drift cave hotspots during Fass and Vome. Also drops from Isolation Vault Bounties and Sagiant Entrati Caskets in the Cambion Drift.",
+            "itemCount": 20,
+            "imageName": "DeimosOrokinFishBPart.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 1,
-        "imageName": "barrel.png",
+        "imageName": "RepairedEntratiMechGunBarrel.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunReceiverItem",
         "name": "Cortege Receiver",
         "description": "A Necramech weapon-crafting component.",
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechArchGunReceiverBlueprint",
+            "name": "Blueprint",
+            "description": "A Necramech weapon-crafting component.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": [
+              {
+                "location": "NecraLoid (Loid), Clearance Modus",
+                "type": "Cortege Receiver Blueprint",
+                "chance": 100,
+                "rarity": "Common"
+              }
+            ]
+          },
+          {
+            "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponReceiverItem",
+            "name": "Damaged Necramech Weapon Receiver",
+            "description": "A broken frame that can be used in the construction of a Necramech weapon.\n\nLocation: Isolation Vault and Arcana Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+            "itemCount": 1,
+            "imageName": "DamagedEntratiMechGunReceiver.png",
+            "tradable": true,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem",
+            "name": "Devolved Namalon",
+            "description": "Retrieved from its Infested state, restored to worth and utility.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+            "itemCount": 80,
+            "imageName": "DeimosUncommonOreAAlloy.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem",
+            "name": "Tink Dissipator Coil",
+            "description": "Discharges excess heat and energy through the casing.\n\nSource: Dismantled from Tink servofish via The Business in Fortuna (Venus). Catch Tink in Orb Vallis ponds during Cold weather.",
+            "itemCount": 15,
+            "imageName": "FishPartDissipatorCoil.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemACutItem",
+            "name": "Trapezium Xenorhast",
+            "description": "Facets gleam with the un-light of the Void.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+            "itemCount": 10,
+            "imageName": "DeimosEidolonGemACut.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "itemCount": 1,
-        "imageName": "receiver.png",
+        "imageName": "RepairedEntratiMechGunReceiver.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunStockItem",
         "name": "Cortege Stock",
         "description": "A Necramech weapon-crafting component.",
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechArchGunStockBlueprint",
+            "name": "Blueprint",
+            "description": "A Necramech weapon-crafting component.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": [
+              {
+                "location": "NecraLoid (Loid), Clearance Modus",
+                "type": "Cortege Stock Blueprint",
+                "chance": 100,
+                "rarity": "Common"
+              }
+            ]
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemBCutItem",
+            "name": "Cabochon Embolos",
+            "description": "Convex and smooth, worked as a lens or for ornament.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+            "itemCount": 10,
+            "imageName": "DeimosEidolonGemBCut.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponStockItem",
+            "name": "Damaged Necramech Weapon Stock",
+            "description": "The fractured back portion of a large Necramech weapon.\n\nLocation: Isolation Vault and Arcana Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+            "itemCount": 1,
+            "imageName": "DamagedEntratiMechGunStock.png",
+            "tradable": true,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/ConcentratedGas",
+            "name": "Hexenon",
+            "description": "A reagent commonly used to produce highly combustible fuel.\n\nLocation: Jupiter",
+            "itemCount": 250,
+            "imageName": "ComponentConcentratedGas.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBAlloyItem",
+            "name": "Tempered Bapholite",
+            "description": "Fused with its inert Infested tendrils into a durable alloy.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+            "itemCount": 80,
+            "imageName": "DeimosCommonOreBAlloy.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "itemCount": 1,
-        "imageName": "stock.png",
+        "imageName": "RepairedEntratiMechGunStock.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Arch-Gun",
@@ -579,7 +772,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "cortege-9af4117990.png",
+    "imageName": "ThanotechArchGun.png",
     "category": "Arch-Gun",
     "tradable": false,
     "patchlogs": [
@@ -753,7 +946,7 @@
         "name": "Argon Crystal",
         "description": "A Void based radioactive resource that decays every day it is out of the Void.\n\nLocation: Missions in the Void",
         "itemCount": 2,
-        "imageName": "argon-crystal-f099c16dc9.png",
+        "imageName": "ArgonCrystal.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -764,7 +957,7 @@
         "name": "Barrel",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "barrel.png",
+        "imageName": "GenericGunBarrel.png",
         "tradable": false,
         "drops": [
           {
@@ -791,7 +984,7 @@
         "name": "Receiver",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "receiver.png",
+        "imageName": "GenericGunReceiver.png",
         "tradable": false,
         "drops": [
           {
@@ -808,7 +1001,7 @@
         "name": "Stock",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "stock.png",
+        "imageName": "GenericGunStock.png",
         "tradable": false,
         "drops": [
           {
@@ -845,7 +1038,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "corvas-13db9b551f.png",
+    "imageName": "Corvas.png",
     "category": "Arch-Gun",
     "tradable": false,
     "patchlogs": [
@@ -1046,7 +1239,7 @@
         "description": "An Archwing weapon-crafting component.",
         "primeSellingPrice": 100,
         "itemCount": 1,
-        "imageName": "prime-barrel.png",
+        "imageName": "GenericGunPrimeBarrel.png",
         "tradable": true,
         "drops": [
           {
@@ -1351,11 +1544,61 @@
         "name": "Orokin Cell",
         "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
         "itemCount": 10,
-        "imageName": "orokin-cell-0d237af036.png",
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+            "name": "Alloy Plate",
+            "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
+            "itemCount": 50000,
+            "imageName": "AlloyPlate.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/OrokinCellResourceBlueprint",
+            "name": "Blueprint",
+            "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "itemCount": 50000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "itemCount": 25000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
+        "imageName": "ComponentCell.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorvasPrimeReceiver",
@@ -1363,7 +1606,7 @@
         "description": "An Archwing weapon-crafting component.",
         "primeSellingPrice": 15,
         "itemCount": 1,
-        "imageName": "prime-receiver.png",
+        "imageName": "GenericGunPrimeReceiver.png",
         "tradable": true,
         "drops": [
           {
@@ -1600,7 +1843,7 @@
         "description": "An Archwing weapon-crafting component.",
         "primeSellingPrice": 15,
         "itemCount": 1,
-        "imageName": "prime-stock.png",
+        "imageName": "GenericGunPrimeStock.png",
         "tradable": true,
         "drops": [
           {
@@ -1800,7 +2043,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "corvas-prime-3a5514ae24.png",
+    "imageName": "CorvasPrime.png",
     "category": "Arch-Gun",
     "tradable": true,
     "patchlogs": [
@@ -1953,7 +2196,7 @@
         "name": "Barrel",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "barrel.png",
+        "imageName": "GenericGunBarrel.png",
         "tradable": false,
         "drops": [
           {
@@ -1980,7 +2223,7 @@
         "name": "Receiver",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "receiver.png",
+        "imageName": "GenericGunReceiver.png",
         "tradable": false,
         "drops": [
           {
@@ -1997,7 +2240,7 @@
         "name": "Stock",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "stock.png",
+        "imageName": "GenericGunStock.png",
         "tradable": false,
         "drops": [
           {
@@ -2014,7 +2257,7 @@
         "name": "Tellurium",
         "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.\n\nLocation: Archwing Missions on Uranus",
         "itemCount": 2,
-        "imageName": "tellurium-9236306b55.png",
+        "imageName": "Tellurium.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2045,7 +2288,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "cyngas-842f5f0899.png",
+    "imageName": "Cyngas.png",
     "category": "Arch-Gun",
     "tradable": false,
     "patchlogs": [
@@ -2182,18 +2425,78 @@
         "name": "Control Module",
         "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
         "itemCount": 2,
-        "imageName": "control-module-edf6e412c3.png",
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+            "name": "Alloy Plate",
+            "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
+            "itemCount": 10000,
+            "imageName": "AlloyPlate.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/ControlModuleResourceBlueprint",
+            "name": "Blueprint",
+            "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
+        "imageName": "ControlModule.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchHeavyPistolsBarrel",
         "name": "Decurion Barrel",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 2,
-        "imageName": "decurion-barrel.png",
+        "imageName": "GenericGunBarrel.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -2203,7 +2506,7 @@
         "name": "Decurion Receiver",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 2,
-        "imageName": "decurion-receiver.png",
+        "imageName": "GenericGunReceiver.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -2233,7 +2536,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "dual-decurion-2c12e236ac.png",
+    "imageName": "DualDecurion.png",
     "category": "Arch-Gun",
     "tradable": false,
     "patchlogs": [
@@ -2391,7 +2694,7 @@
         "name": "Argon Crystal",
         "description": "A Void based radioactive resource that decays every day it is out of the Void.\n\nLocation: Missions in the Void",
         "itemCount": 2,
-        "imageName": "argon-crystal-f099c16dc9.png",
+        "imageName": "ArgonCrystal.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2402,7 +2705,7 @@
         "name": "Barrel",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "barrel.png",
+        "imageName": "GenericGunBarrel.png",
         "tradable": false,
         "drops": [
           {
@@ -2429,7 +2732,7 @@
         "name": "Limbs",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "limbs.png",
+        "imageName": "GenericGunStock.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -2439,7 +2742,7 @@
         "name": "Stock",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "stock.png",
+        "imageName": "GenericGunReceiver.png",
         "tradable": false,
         "drops": [
           {
@@ -2476,7 +2779,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "fluctus-1e012e3298.png",
+    "imageName": "Fluctus.png",
     "category": "Arch-Gun",
     "tradable": false,
     "patchlogs": [
@@ -2743,17 +3046,1610 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on max Rank Warframes, Companions and Weapons.",
         "itemCount": 1,
-        "imageName": "forma-778e068bc2.png",
+        "buildPrice": 35000,
+        "buildTime": 82800,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/FormaBlueprint",
+            "name": "Blueprint",
+            "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on max Rank Warframes, Companions and Weapons.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+            "name": "Morphics",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "itemCount": 1,
+            "imageName": "ComponentMorphic.png",
+            "tradable": false,
+            "drops": [
+              {
+                "location": "Neptune/Cephalon Capture (Conclave), Rotation B",
+                "type": "Morphics",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Annihilation (Conclave), Rotation B",
+                "type": "Morphics",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
+                "type": "Morphics",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Lunaro (Conclave), Rotation B",
+                "type": "Morphics",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Team Annihilation (Conclave), Rotation B",
+                "type": "Morphics",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
+                "type": "Morphics",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
+                "type": "Morphics",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+                "type": "Morphics",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "The Holdfasts (Hombask), Fallen",
+                "type": "Tarnished Morphics",
+                "chance": 100,
+                "rarity": "Common"
+              },
+              {
+                "location": "Mars/Gradivus (Caches), Rotation C",
+                "type": "Morphics",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Mercury/Neruda (Caches), Rotation C",
+                "type": "Morphics",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Mercury/Terminus (Caches), Rotation C",
+                "type": "Morphics",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Ishtar (Caches), Rotation C",
+                "type": "Morphics",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation A",
+                "type": "2X Morphics",
+                "chance": 2.01,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B",
+                "type": "2X Morphics",
+                "chance": 2.01,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Mars/Gradivus (Caches), Rotation C",
+                "type": "2X Morphics",
+                "chance": 5.5,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Mercury/Neruda (Caches), Rotation C",
+                "type": "2X Morphics",
+                "chance": 5.5,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Mercury/Terminus (Caches), Rotation C",
+                "type": "2X Morphics",
+                "chance": 5.5,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Venus/Ishtar (Caches), Rotation C",
+                "type": "2X Morphics",
+                "chance": 5.5,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation A",
+                "type": "2X Morphics",
+                "chance": 8.33,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B",
+                "type": "2X Morphics",
+                "chance": 8.33,
+                "rarity": "Rare"
+              }
+            ],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+            "name": "Neural Sensors",
+            "description": "Implanted neural-link for controlling augmentations. Grineer design.\n\nLocation: Jupiter",
+            "itemCount": 1,
+            "imageName": "NeuralSensor.png",
+            "tradable": false,
+            "drops": [
+              {
+                "location": "Neptune/Cephalon Capture (Conclave), Rotation B",
+                "type": "Neural Sensors",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Annihilation (Conclave), Rotation B",
+                "type": "Neural Sensors",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
+                "type": "Neural Sensors",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Lunaro (Conclave), Rotation B",
+                "type": "Neural Sensors",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Team Annihilation (Conclave), Rotation B",
+                "type": "Neural Sensors",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
+                "type": "Neural Sensors",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
+                "type": "Neural Sensors",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+                "type": "Neural Sensors",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation B",
+                "type": "2X Neural Sensors",
+                "chance": 10.42,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Deimos/Formido (Caches), Rotation C",
+                "type": "Neural Sensors",
+                "chance": 19.36,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Kuva Fortress/Dakata (Caches), Rotation C",
+                "type": "2X Neural Sensors",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Deimos/Formido (Caches), Rotation C",
+                "type": "2X Neural Sensors",
+                "chance": 3.76,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation B",
+                "type": "2X Neural Sensors",
+                "chance": 4.03,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Raptor Mt",
+                "type": "Neural Sensors",
+                "chance": 5,
+                "rarity": "Common"
+              },
+              {
+                "location": "Raptor Ns",
+                "type": "Neural Sensors",
+                "chance": 5,
+                "rarity": "Common"
+              },
+              {
+                "location": "Raptor Rv",
+                "type": "Neural Sensors",
+                "chance": 5,
+                "rarity": "Common"
+              },
+              {
+                "location": "Raptor",
+                "type": "Neural Sensors",
+                "chance": 50,
+                "rarity": "Common"
+              }
+            ],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+            "name": "Neurodes",
+            "description": "Biotech sensor organ harvested from Infested entities.\n\nLocation: Earth, Lua, Eris, and Deimos",
+            "itemCount": 1,
+            "imageName": "ComponentNeurode.png",
+            "tradable": false,
+            "drops": [
+              {
+                "location": "Neptune/Cephalon Capture (Conclave), Rotation B",
+                "type": "Neurodes",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Annihilation (Conclave), Rotation B",
+                "type": "Neurodes",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
+                "type": "Neurodes",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Lunaro (Conclave), Rotation B",
+                "type": "Neurodes",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Team Annihilation (Conclave), Rotation B",
+                "type": "Neurodes",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
+                "type": "Neurodes",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
+                "type": "Neurodes",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+                "type": "Neurodes",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Kuva Fortress/Dakata (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 10.79,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Lua/Plato (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 10.82,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Lua/Plato (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 10.82,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Earth/Cervantes (Caches), Rotation B",
+                "type": "Neurodes",
+                "chance": 12.18,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Neptune/Halimede (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 12.58,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Neptune/Thalassa (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 12.58,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Pluto/Charon (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 12.58,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Pluto/Cypress (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 12.58,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Sedna/Phithale (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 12.58,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Sedna/Rusalka (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 12.58,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Uranus/Portia (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 12.58,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Ceres/Ker (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Ceres/Thon (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Earth/Cervantes (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Jupiter/Adrastea (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Jupiter/Carpo (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Mars/Gradivus (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Mercury/Neruda (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Mercury/Terminus (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Saturn/Calypso (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Saturn/Pallene (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Ishtar (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Deimos/Formido (Caches), Rotation B",
+                "type": "Neurodes",
+                "chance": 15.18,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Eris/Candiru (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 15.49,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Eris/Candiru (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 15.49,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Eris/Lepis (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 15.49,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Eris/Lepis (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 15.49,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Eris/Naeglar (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 15.49,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Eris/Naeglar (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 15.49,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Eris/Psoro (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 15.49,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Eris/Psoro (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 15.49,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Eris/Viver (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 15.49,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Eris/Viver (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 15.49,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A",
+                "type": "Neurodes",
+                "chance": 16.67,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B",
+                "type": "Neurodes",
+                "chance": 16.67,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C",
+                "type": "Neurodes",
+                "chance": 16.67,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A",
+                "type": "Neurodes",
+                "chance": 16.67,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B",
+                "type": "Neurodes",
+                "chance": 16.67,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C",
+                "type": "Neurodes",
+                "chance": 16.67,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Void/Stribog (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 18.88,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Kuva Larvling",
+                "type": "Neurodes",
+                "chance": 2.5,
+                "rarity": "Common"
+              },
+              {
+                "location": "Saturn Six Fugitive",
+                "type": "Neurodes",
+                "chance": 2.5,
+                "rarity": "Common"
+              },
+              {
+                "location": "Zealot Baptizer",
+                "type": "Neurodes",
+                "chance": 2.5,
+                "rarity": "Common"
+              },
+              {
+                "location": "Zealot Herald",
+                "type": "Neurodes",
+                "chance": 2.5,
+                "rarity": "Common"
+              },
+              {
+                "location": "Zealot Proselytizer",
+                "type": "Neurodes",
+                "chance": 2.5,
+                "rarity": "Common"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A",
+                "type": "Neurodes",
+                "chance": 20,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B",
+                "type": "Neurodes",
+                "chance": 20,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C",
+                "type": "Neurodes",
+                "chance": 20,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A",
+                "type": "Neurodes",
+                "chance": 20,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B",
+                "type": "Neurodes",
+                "chance": 20,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C",
+                "type": "Neurodes",
+                "chance": 20,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Leekter",
+                "type": "Neurodes",
+                "chance": 25,
+                "rarity": "Common"
+              },
+              {
+                "location": "Shik Tal",
+                "type": "Neurodes",
+                "chance": 25,
+                "rarity": "Common"
+              },
+              {
+                "location": "Void/Marduk (Caches), Rotation C",
+                "type": "Neurodes",
+                "chance": 25.29,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Neptune/Halimede (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Neptune/Thalassa (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Pluto/Charon (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Pluto/Cypress (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Sedna/Phithale (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Sedna/Rusalka (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Uranus/Portia (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Void/Stribog (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A",
+                "type": "Neurodes",
+                "chance": 33.33,
+                "rarity": "Common"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B",
+                "type": "Neurodes",
+                "chance": 33.33,
+                "rarity": "Common"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C",
+                "type": "Neurodes",
+                "chance": 33.33,
+                "rarity": "Common"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A",
+                "type": "Neurodes",
+                "chance": 33.33,
+                "rarity": "Common"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B",
+                "type": "Neurodes",
+                "chance": 33.33,
+                "rarity": "Common"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C",
+                "type": "Neurodes",
+                "chance": 33.33,
+                "rarity": "Common"
+              },
+              {
+                "location": "Ceres/Ker (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 4.4,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Ceres/Thon (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 4.4,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Jupiter/Adrastea (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 4.4,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Jupiter/Carpo (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 4.4,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Saturn/Calypso (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 4.4,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Saturn/Pallene (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 4.4,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Deimos/Formido (Caches), Rotation B",
+                "type": "2X Neurodes",
+                "chance": 4.42,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Mars/Gradivus (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 5.5,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Mercury/Neruda (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 5.5,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Mercury/Terminus (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 5.5,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Venus/Ishtar (Caches), Rotation C",
+                "type": "2X Neurodes",
+                "chance": 5.5,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Vem Tabook",
+                "type": "Neurodes",
+                "chance": 50,
+                "rarity": "Common"
+              }
+            ],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+            "name": "Orokin Cell",
+            "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
+            "itemCount": 1,
+            "imageName": "ComponentCell.png",
+            "tradable": false,
+            "drops": [
+              {
+                "location": "Neptune/Cephalon Capture (Conclave), Rotation B",
+                "type": "Orokin Cell",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Annihilation (Conclave), Rotation B",
+                "type": "Orokin Cell",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
+                "type": "Orokin Cell",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Lunaro (Conclave), Rotation B",
+                "type": "Orokin Cell",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Team Annihilation (Conclave), Rotation B",
+                "type": "Orokin Cell",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
+                "type": "Orokin Cell",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
+                "type": "Orokin Cell",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+                "type": "Orokin Cell",
+                "chance": 0.25,
+                "rarity": "Legendary"
+              },
+              {
+                "location": "Brachiolyst Disperser",
+                "type": "Orokin Cell",
+                "chance": 0.26,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Brachiolyst",
+                "type": "Orokin Cell",
+                "chance": 0.26,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Amalgam Arca Heqet",
+                "type": "Orokin Cell",
+                "chance": 0.27,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Amalgam Arca Kucumatz",
+                "type": "Orokin Cell",
+                "chance": 0.27,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Amalgam Cinder Machinist",
+                "type": "Orokin Cell",
+                "chance": 0.27,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Amalgam Phase Moa",
+                "type": "Orokin Cell",
+                "chance": 0.27,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Amalgam Swarm Satyr",
+                "type": "Orokin Cell",
+                "chance": 0.27,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Amalgam Alkonost",
+                "type": "Orokin Cell",
+                "chance": 0.38,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Amalgam Heqet",
+                "type": "Orokin Cell",
+                "chance": 0.38,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Amalgam Kucumatz",
+                "type": "Orokin Cell",
+                "chance": 0.38,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Amalgam Machinist",
+                "type": "Orokin Cell",
+                "chance": 0.38,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Amalgam Moa",
+                "type": "Orokin Cell",
+                "chance": 0.38,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Amalgam Osprey",
+                "type": "Orokin Cell",
+                "chance": 0.38,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Amalgam Satyr",
+                "type": "Orokin Cell",
+                "chance": 0.38,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Aurax Culveri Moa",
+                "type": "Orokin Cell",
+                "chance": 0.38,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Aurax Polaris Moa",
+                "type": "Orokin Cell",
+                "chance": 0.38,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Demolyst Heqet",
+                "type": "Orokin Cell",
+                "chance": 0.38,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Demolyst Machinist",
+                "type": "Orokin Cell",
+                "chance": 0.38,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Demolyst Moa",
+                "type": "Orokin Cell",
+                "chance": 0.38,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Demolyst Osprey",
+                "type": "Orokin Cell",
+                "chance": 0.38,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Demolyst Satyr",
+                "type": "Orokin Cell",
+                "chance": 0.38,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Mimic",
+                "type": "Orokin Cell",
+                "chance": 0.65,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Aerolyst",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Ambulas",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Archimedean Itzam",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Battalyst",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Conculyst",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Decaying Battalyst",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Decaying Conculyst",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Erra",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Hunhow",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Ortholyst",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Protector Stalker",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Shadow Stalker",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Stalker",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Summulyst",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Symbilyst",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Typholyst",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Tyro Conculyst",
+                "type": "Orokin Cell",
+                "chance": 1.29,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 10.42,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Kuva Fortress/Dakata (Caches), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 10.79,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Lua/Plato (Caches), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 10.82,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Lua/Plato (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 10.82,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Neptune/Halimede (Caches), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 12.58,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Neptune/Thalassa (Caches), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 12.58,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Pluto/Charon (Caches), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 12.58,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Pluto/Cypress (Caches), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 12.58,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Sedna/Phithale (Caches), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 12.58,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Sedna/Rusalka (Caches), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 12.58,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Uranus/Portia (Caches), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 12.58,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Hallowed Flame Endurance Caches, Rotation B",
+                "type": "2X Orokin Cell",
+                "chance": 12.65,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Hallowed Flame Mission Caches, Rotation B",
+                "type": "Orokin Cell",
+                "chance": 12.65,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Ceres/Ker (Caches), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Ceres/Thon (Caches), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Jupiter/Adrastea (Caches), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Jupiter/Carpo (Caches), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Saturn/Calypso (Caches), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Saturn/Pallene (Caches), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 15.1,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A",
+                "type": "Orokin Cell",
+                "chance": 16.67,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B",
+                "type": "Orokin Cell",
+                "chance": 16.67,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 16.67,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A",
+                "type": "Orokin Cell",
+                "chance": 16.67,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B",
+                "type": "Orokin Cell",
+                "chance": 16.67,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 16.67,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Deimos/Formido (Caches), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 19.36,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Alad V",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Artificer",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Captain Vor",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Cinderthresh Hyena",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Councilor Vay Hek",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "General Sargas Ruk",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Gyre Hyena",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Hyena Ln2",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Hyena Ng",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Hyena Pb",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Hyena Th",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Icemire Hyena",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "J3 Jordas Golem",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Jackal",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Janus Captain Vor",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Jordas Golem",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Kela De Thaym",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Lephantis",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Lt Lech Kril",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Mutalist Alad V",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Phorid",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Rabbleback Hyena",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "The Sergeant",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Tyl Regor",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Vay Hek Terra Frame",
+                "type": "Orokin Cell",
+                "chance": 2.58,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A",
+                "type": "Orokin Cell",
+                "chance": 20,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B",
+                "type": "Orokin Cell",
+                "chance": 20,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 20,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A",
+                "type": "Orokin Cell",
+                "chance": 20,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B",
+                "type": "Orokin Cell",
+                "chance": 20,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 20,
+                "rarity": "Uncommon"
+              },
+              {
+                "location": "Kuva Fortress/Dakata (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Neptune/Halimede (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Neptune/Thalassa (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Pluto/Charon (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Pluto/Cypress (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Sedna/Phithale (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Sedna/Rusalka (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Uranus/Portia (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Void/Stribog (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 3.67,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Deimos/Formido (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 3.76,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A",
+                "type": "Orokin Cell",
+                "chance": 33.33,
+                "rarity": "Common"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B",
+                "type": "Orokin Cell",
+                "chance": 33.33,
+                "rarity": "Common"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 33.33,
+                "rarity": "Common"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A",
+                "type": "Orokin Cell",
+                "chance": 33.33,
+                "rarity": "Common"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B",
+                "type": "Orokin Cell",
+                "chance": 33.33,
+                "rarity": "Common"
+              },
+              {
+                "location": "Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C",
+                "type": "Orokin Cell",
+                "chance": 33.33,
+                "rarity": "Common"
+              },
+              {
+                "location": "Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 4.03,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Ceres/Ker (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 4.4,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Ceres/Thon (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 4.4,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Jupiter/Adrastea (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 4.4,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Jupiter/Carpo (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 4.4,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Saturn/Calypso (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 4.4,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Saturn/Pallene (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 4.4,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Void/Marduk (Caches), Rotation C",
+                "type": "2X Orokin Cell",
+                "chance": 4.42,
+                "rarity": "Rare"
+              },
+              {
+                "location": "Corrupted Vor",
+                "type": "Orokin Cell",
+                "chance": 50,
+                "rarity": "Common"
+              }
+            ],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
+        "imageName": "GenericComponent.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
         "name": "Oxium",
         "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\n\nLocation: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
         "itemCount": 3500,
-        "imageName": "oxium-5f4e4dfeac.png",
+        "imageName": "ComponentOxium.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2764,7 +4660,7 @@
         "name": "Salvage",
         "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
         "itemCount": 6000,
-        "imageName": "salvage-b2174bedac.png",
+        "imageName": "ComponentSalvage.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2775,7 +4671,7 @@
         "name": "Tellurium",
         "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.\n\nLocation: Archwing Missions on Uranus",
         "itemCount": 5,
-        "imageName": "tellurium-9236306b55.png",
+        "imageName": "Tellurium.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -2806,7 +4702,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "grattler-ce089ce28a.png",
+    "imageName": "Grattler.png",
     "category": "Arch-Gun",
     "tradable": false,
     "patchlogs": [
@@ -3072,7 +4968,7 @@
         "name": "Circuits",
         "description": "Various electronic components.\n\nLocation: Venus, Ceres, and the Kuva Fortress",
         "itemCount": 300,
-        "imageName": "circuits-5e77d8b169.png",
+        "imageName": "ComponentCircuits.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -3083,7 +4979,7 @@
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
         "itemCount": 1500,
-        "imageName": "ferrite-cfb542c27b.png",
+        "imageName": "ComponentFerrite.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -3093,18 +4989,78 @@
         "name": "Morphics",
         "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
         "itemCount": 2,
-        "imageName": "morphics-657362f875.png",
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/MorphicsResourceBlueprint",
+            "name": "Blueprint",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+            "name": "Polymer Bundle",
+            "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
+            "itemCount": 5000,
+            "imageName": "PolymerBundle.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
+        "imageName": "ComponentMorphic.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
         "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
         "itemCount": 150,
-        "imageName": "polymer-bundle-b8d240c368.png",
+        "imageName": "PolymerBundle.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -3135,7 +5091,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "imperator-06651a85cb.png",
+    "imageName": "Imperator.png",
     "category": "Arch-Gun",
     "tradable": false,
     "patchlogs": [
@@ -3448,7 +5404,7 @@
         "name": "Barrel",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "barrel.png",
+        "imageName": "GenericGunBarrel.png",
         "tradable": true,
         "drops": [
           {
@@ -3482,7 +5438,7 @@
         "name": "Receiver",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "receiver.png",
+        "imageName": "GenericGunReceiver.png",
         "tradable": true,
         "drops": [
           {
@@ -3499,7 +5455,7 @@
         "name": "Tellurium",
         "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.\n\nLocation: Archwing Missions on Uranus",
         "itemCount": 10,
-        "imageName": "tellurium-9236306b55.png",
+        "imageName": "Tellurium.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -3530,7 +5486,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "imperator-vandal-11d120197b.png",
+    "imageName": "ImperatorVandal.png",
     "category": "Arch-Gun",
     "tradable": true,
     "patchlogs": [
@@ -3769,7 +5725,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "kuva-ayanga-191784ae00.png",
+    "imageName": "GrnHeavyGrenadeLauncher.png",
     "category": "Arch-Gun",
     "tradable": false,
     "patchlogs": [
@@ -4003,7 +5959,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "kuva-grattler-57e1150f75.png",
+    "imageName": "KuvaGrattler.png",
     "category": "Arch-Gun",
     "tradable": false,
     "patchlogs": [
@@ -4149,7 +6105,7 @@
         "name": "Crisma Toroid",
         "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Crisma Toroids by defeating the Profit-Taker Orb on the Orb Vallis (Venus).",
         "itemCount": 2,
-        "imageName": "crisma-toroid-8fe557490c.png",
+        "imageName": "CrpArachnoidPowerCoreCamper.png",
         "tradable": false,
         "masterable": false,
         "drops": []
@@ -4159,17 +6115,44 @@
         "name": "Radiant Zodian",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "itemCount": 5,
-        "imageName": "radiant-zodian-0b4daa36b7.png",
+        "buildPrice": 10000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 3,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisEidolonGemACutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemAItem",
+            "name": "Zodian",
+            "description": "A blue gem that radiates astral energy.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and the Exploiter Orb. This Rare Gem can only be mined by the Advanced Nosam Cutter or Sunpoint Plasma Drill.",
+            "itemCount": 3,
+            "imageName": "SolarisEidolonGemA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
+        "imageName": "SolarisEidolonGemACut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEcosynthAnalyzerItem",
         "name": "Synathid Ecosynth Analyzer",
         "description": "A processing unit that efficiently monitors environmental data.\n\nSource: Dismantled from Synathid servofish via The Business in Fortuna (Venus). Catch Synathid in Orb Vallis cave hotspots during any weather. Also drops from the Exploiter Orb in the Orb Vallis.",
         "itemCount": 5,
-        "imageName": "synathid-ecosynth-analyzer-7d16a973c9.png",
+        "imageName": "FishPartEcosynthAnalyzer.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -4179,10 +6162,59 @@
         "name": "Venerdo Alloy",
         "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "itemCount": 80,
-        "imageName": "venerdo-alloy-0699ce0e35.png",
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisUncommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+            "name": "Gallium",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "itemCount": 2,
+            "imageName": "ComponentGallium.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "itemCount": 300,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreItem",
+            "name": "Venerol",
+            "description": "A precious metal forged from coolant byproducts.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "itemCount": 20,
+            "imageName": "SolarisUncommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
+        "imageName": "SolarisUncommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Arch-Gun",
@@ -4209,7 +6241,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "larkspur-75e75160ee.png",
+    "imageName": "ShieldFrameArchGun.png",
     "category": "Arch-Gun",
     "tradable": false,
     "patchlogs": [
@@ -4444,7 +6476,7 @@
         "description": "An Archwing weapon-crafting component.",
         "primeSellingPrice": 100,
         "itemCount": 1,
-        "imageName": "prime-barrel.png",
+        "imageName": "GenericGunPrimeBarrel.png",
         "tradable": true,
         "drops": [
           {
@@ -4833,11 +6865,61 @@
         "name": "Orokin Cell",
         "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
         "itemCount": 10,
-        "imageName": "orokin-cell-0d237af036.png",
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+            "name": "Alloy Plate",
+            "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
+            "itemCount": 50000,
+            "imageName": "AlloyPlate.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/OrokinCellResourceBlueprint",
+            "name": "Blueprint",
+            "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "itemCount": 50000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "itemCount": 25000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
+        "imageName": "ComponentCell.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LarkspurPrimeReceiver",
@@ -4845,7 +6927,7 @@
         "description": "An Archwing weapon-crafting component.",
         "primeSellingPrice": 45,
         "itemCount": 1,
-        "imageName": "prime-receiver.png",
+        "imageName": "GenericGunPrimeReceiver.png",
         "tradable": true,
         "drops": [
           {
@@ -5054,7 +7136,7 @@
         "description": "An Archwing weapon-crafting component.",
         "primeSellingPrice": 45,
         "itemCount": 1,
-        "imageName": "prime-stock.png",
+        "imageName": "GenericGunPrimeStock.png",
         "tradable": true,
         "drops": [
           {
@@ -5282,7 +7364,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "larkspur-prime-2320f70a2f.png",
+    "imageName": "LarkspurPrime.png",
     "category": "Arch-Gun",
     "tradable": true,
     "wikiAvailable": true,
@@ -5354,7 +7436,7 @@
     },
     "disposition": 2,
     "releaseDate": "2023-03-15",
-    "isPrime": false,
+    "isPrime": true,
     "vaulted": true,
     "vaultDate": "2025-02-12",
     "estimatedVaultDate": "2025-02-12",
@@ -5412,7 +7494,7 @@
         "name": "Barrel",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "barrel.png",
+        "imageName": "GenericGunBarrel.png",
         "tradable": false,
         "drops": [
           {
@@ -5482,7 +7564,7 @@
         "name": "Echo Voca",
         "description": "The quietest and most elusive of Voidtongue utterances. Sought after but never found by Albrecht.\n\nLocation: Albrecht's Laboratories (Deimos)",
         "itemCount": 2,
-        "imageName": "echo-voca-32f69b9f58.png",
+        "imageName": "EntratiLabDogTagRare.png",
         "tradable": false,
         "drops": [],
         "masterable": false
@@ -5492,7 +7574,7 @@
         "name": "Receiver",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "receiver.png",
+        "imageName": "GenericGunReceiver.png",
         "tradable": false,
         "drops": [
           {
@@ -5521,7 +7603,7 @@
         "name": "Stock",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "stock.png",
+        "imageName": "GenericGunStock.png",
         "tradable": false,
         "drops": [
           {
@@ -5570,7 +7652,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "mandonel-e7a5f57785.png",
+    "imageName": "TnConcreteArchgun.png",
     "category": "Arch-Gun",
     "tradable": false,
     "isPrime": false,
@@ -5641,7 +7723,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "mausolon-483fb60c57.png",
+    "imageName": "ThanotechLongGun.png",
     "category": "Arch-Gun",
     "tradable": false,
     "patchlogs": [
@@ -5886,33 +7968,226 @@
         "name": "Morgha Barrel",
         "description": "A Necramech weapon-crafting component.",
         "excludeFromCodex": true,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem",
+            "name": "Adramal Alloy",
+            "description": "Purged of spores and contaminants, this alloy is highly versatile.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+            "itemCount": 80,
+            "imageName": "DeimosCommonOreAAlloy.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechGrenadeLauncherBarrelBlueprint",
+            "name": "Blueprint",
+            "description": "A Necramech weapon-crafting component.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": [
+              {
+                "location": "NecraLoid (Loid), Clearance Modus",
+                "type": "Morgha Barrel Blueprint",
+                "chance": 100,
+                "rarity": "Common"
+              }
+            ]
+          },
+          {
+            "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponBarrelItem",
+            "name": "Damaged Necramech Weapon Barrel",
+            "description": "The damaged barrel of a heavy-duty Necramech weapon.\n\nLocation: Isolation Vault and Arcana Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+            "itemCount": 1,
+            "imageName": "DamagedEntratiMechGunBarrel.png",
+            "tradable": true,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAAlloyAItem",
+            "name": "Fersteel Alloy",
+            "description": "Ferros that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 20,
+            "imageName": "UncommonOreAAlloyA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
+            "name": "Spinal Core Section",
+            "description": "Many delicate and complex nerve fibers are housed in the jointed vertebrae, which are one of the creature's most resilient parts. Found from Vitreospina fish known to eke out a primitive existence in cave systems.\n\nSource: Cut from Vitreospina and Chondricord fish via Daughter in the Necralisk (Deimos). Catch Vitreospina in Cambion Drift caves during Fass and Vome, and Chondricord in Cambion Drift cave hotspots during Fass and Vome. Also drops from Isolation Vault Bounties and Sagiant Entrati Caskets in the Cambion Drift.",
+            "itemCount": 20,
+            "imageName": "DeimosOrokinFishBPart.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 1,
-        "imageName": "barrel.png",
+        "imageName": "RepairedEntratiMechGunBarrel.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherReceiverItem",
         "name": "Morgha Receiver",
         "description": "A Necramech weapon-crafting component.",
         "excludeFromCodex": true,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechGrenadeLauncherReceiverBlueprint",
+            "name": "Blueprint",
+            "description": "A Necramech weapon-crafting component.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": [
+              {
+                "location": "NecraLoid (Loid), Clearance Modus",
+                "type": "Morgha Receiver Blueprint",
+                "chance": 100,
+                "rarity": "Common"
+              }
+            ]
+          },
+          {
+            "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponReceiverItem",
+            "name": "Damaged Necramech Weapon Receiver",
+            "description": "A broken frame that can be used in the construction of a Necramech weapon.\n\nLocation: Isolation Vault and Arcana Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+            "itemCount": 1,
+            "imageName": "DamagedEntratiMechGunReceiver.png",
+            "tradable": true,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem",
+            "name": "Devolved Namalon",
+            "description": "Retrieved from its Infested state, restored to worth and utility.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+            "itemCount": 80,
+            "imageName": "DeimosUncommonOreAAlloy.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem",
+            "name": "Tink Dissipator Coil",
+            "description": "Discharges excess heat and energy through the casing.\n\nSource: Dismantled from Tink servofish via The Business in Fortuna (Venus). Catch Tink in Orb Vallis ponds during Cold weather.",
+            "itemCount": 15,
+            "imageName": "FishPartDissipatorCoil.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemACutItem",
+            "name": "Trapezium Xenorhast",
+            "description": "Facets gleam with the un-light of the Void.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+            "itemCount": 10,
+            "imageName": "DeimosEidolonGemACut.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "itemCount": 1,
-        "imageName": "receiver.png",
+        "imageName": "RepairedEntratiMechGunReceiver.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherStockItem",
         "name": "Morgha Stock",
         "description": "A Necramech weapon-crafting component.",
         "excludeFromCodex": true,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechGrenadeLauncherStockBlueprint",
+            "name": "Blueprint",
+            "description": "A Necramech weapon-crafting component.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": [
+              {
+                "location": "NecraLoid (Loid), Clearance Modus",
+                "type": "Morgha Stock Blueprint",
+                "chance": 100,
+                "rarity": "Common"
+              }
+            ]
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemBCutItem",
+            "name": "Cabochon Embolos",
+            "description": "Convex and smooth, worked as a lens or for ornament.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+            "itemCount": 10,
+            "imageName": "DeimosEidolonGemBCut.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponStockItem",
+            "name": "Damaged Necramech Weapon Stock",
+            "description": "The fractured back portion of a large Necramech weapon.\n\nLocation: Isolation Vault and Arcana Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+            "itemCount": 1,
+            "imageName": "DamagedEntratiMechGunStock.png",
+            "tradable": true,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/ConcentratedGas",
+            "name": "Hexenon",
+            "description": "A reagent commonly used to produce highly combustible fuel.\n\nLocation: Jupiter",
+            "itemCount": 250,
+            "imageName": "ComponentConcentratedGas.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBAlloyItem",
+            "name": "Tempered Bapholite",
+            "description": "Fused with its inert Infested tendrils into a durable alloy.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+            "itemCount": 80,
+            "imageName": "DeimosCommonOreBAlloy.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "itemCount": 1,
-        "imageName": "stock.png",
+        "imageName": "RepairedEntratiMechGunStock.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Arch-Gun",
@@ -5939,7 +8214,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "morgha-40068b33ff.png",
+    "imageName": "ThanoTechGrenadeLauncher.png",
     "category": "Arch-Gun",
     "tradable": false,
     "patchlogs": [
@@ -6128,7 +8403,7 @@
         "name": "Barrel",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "barrel.png",
+        "imageName": "GenericGunBarrel.png",
         "tradable": false,
         "drops": [
           {
@@ -6155,7 +8430,7 @@
         "name": "Receiver",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "receiver.png",
+        "imageName": "GenericGunReceiver.png",
         "tradable": false,
         "drops": [
           {
@@ -6190,7 +8465,7 @@
         "name": "Stock",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "stock.png",
+        "imageName": "GenericGunStock.png",
         "tradable": false,
         "drops": [
           {
@@ -6207,7 +8482,7 @@
         "name": "Tellurium",
         "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.\n\nLocation: Archwing Missions on Uranus",
         "itemCount": 2,
-        "imageName": "tellurium-9236306b55.png",
+        "imageName": "Tellurium.png",
         "tradable": false,
         "drops": [],
         "masterable": false,
@@ -6238,7 +8513,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "phaedra-629ac9ffc2.png",
+    "imageName": "Phaedra.png",
     "category": "Arch-Gun",
     "tradable": false,
     "patchlogs": [
@@ -6396,7 +8671,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "prisma-dual-decurions-e4d5a8cf9e.png",
+    "imageName": "PrismaDualDecurion.png",
     "category": "Arch-Gun",
     "tradable": true,
     "patchlogs": [
@@ -6525,7 +8800,7 @@
         "name": "Barrel",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "barrel.png",
+        "imageName": "GenericGunBarrel.png",
         "tradable": false,
         "drops": [
           {
@@ -6552,18 +8827,78 @@
         "name": "Control Module",
         "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
         "itemCount": 2,
-        "imageName": "control-module-edf6e412c3.png",
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+            "name": "Alloy Plate",
+            "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
+            "itemCount": 10000,
+            "imageName": "AlloyPlate.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/ControlModuleResourceBlueprint",
+            "name": "Blueprint",
+            "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
+        "imageName": "ControlModule.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchRailgunReceiver",
         "name": "Receiver",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "receiver.png",
+        "imageName": "GenericGunReceiver.png",
         "tradable": false,
         "drops": [
           {
@@ -6580,7 +8915,7 @@
         "name": "Stock",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
-        "imageName": "stock.png",
+        "imageName": "GenericGunStock.png",
         "tradable": false,
         "drops": [
           {
@@ -6617,7 +8952,7 @@
       "energyDrain": 0,
       "true": 0
     },
-    "imageName": "velocitus-218fe8d40e.png",
+    "imageName": "Velocitus.png",
     "category": "Arch-Gun",
     "tradable": false,
     "patchlogs": [
