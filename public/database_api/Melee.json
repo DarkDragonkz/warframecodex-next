@@ -3953,7 +3953,7 @@
         "date": "2017-09-12T14:29:16Z",
         "url": "https://forums.warframe.com/topic/841802-hydroid-prime-hotfix-2171/",
         "additions": "",
-        "changes": "Tweaked the Arca Titron’s handle to be longer.��",
+        "changes": "Tweaked the Arca Titron’s handle to be longer. ",
         "fixes": ""
       }
     ],
@@ -20734,7 +20734,7 @@
       0
     ],
     "totalDamage": 200,
-    "description": "Heavy attacks briefly transform the Corufell into a Gunblade. After the Gunblade fires, the Corufell returns to its Heavy Scythe state. Its transformation is fastest in Citrine’s hands.",
+    "description": "Heavy attacks briefly transform the Corufell into a Gunblade. After the Gunblade fires, the Corufell returns to its Heavy Scythe state. Its transformation is fastest in Citrine's hands.",
     "criticalChance": 0.25999999,
     "criticalMultiplier": 2.4000001,
     "procChance": 0.13999999,
@@ -20783,7 +20783,7 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/GunScytheBlueprint",
         "name": "Blueprint",
-        "description": "Heavy attacks briefly transform the Corufell into a Gunblade. After the Gunblade fires, the Corufell returns to its Heavy Scythe state. Its transformation is fastest in Citrine’s hands.",
+        "description": "Heavy attacks briefly transform the Corufell into a Gunblade. After the Gunblade fires, the Corufell returns to its Heavy Scythe state. Its transformation is fastest in Citrine's hands.",
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
@@ -36053,6 +36053,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAAlloyAItem",
         "name": "Auroxium Alloy",
         "description": "Auron that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+        "itemCount": 20,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -36102,7 +36103,6 @@
             "type": "Resource"
           }
         ],
-        "itemCount": 20,
         "imageName": "RareOreAAlloyA.png",
         "tradable": false,
         "masterable": false,
@@ -36374,6 +36374,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAAlloyAItem",
         "name": "Auroxium Alloy",
         "description": "Auron that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+        "itemCount": 20,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -36423,7 +36424,6 @@
             "type": "Resource"
           }
         ],
-        "itemCount": 20,
         "imageName": "RareOreAAlloyA.png",
         "tradable": false,
         "masterable": false,
@@ -64936,7 +64936,7 @@
       0
     ],
     "totalDamage": 210,
-    "description": "With heightened agility and power the Kestrel Prime’s heavy attacks easily knock down foes, ensuring none shall stand before it.",
+    "description": "With heightened agility and power the Kestrel Prime's heavy attacks easily knock down foes, ensuring none shall stand before it.",
     "criticalChance": 0.2,
     "criticalMultiplier": 2.2,
     "procChance": 0.39999998,
@@ -65036,7 +65036,7 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/KestrelPrimeBlueprint",
         "name": "Blueprint",
-        "description": "With heightened agility and power the Kestrel Prime’s heavy attacks easily knock down foes, ensuring none shall stand before it.",
+        "description": "With heightened agility and power the Kestrel Prime's heavy attacks easily knock down foes, ensuring none shall stand before it.",
         "itemCount": 1,
         "primeSellingPrice": 45,
         "imageName": "blueprint.png",
@@ -66782,6 +66782,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAAlloyAItem",
         "name": "Auroxium Alloy",
         "description": "Auron that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+        "itemCount": 25,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -66831,7 +66832,6 @@
             "type": "Resource"
           }
         ],
-        "itemCount": 25,
         "imageName": "RareOreAAlloyA.png",
         "tradable": false,
         "masterable": false,
@@ -67215,6 +67215,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemACutItem",
         "name": "Radiant Zodian",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 6,
         "buildPrice": 10000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -67242,7 +67243,6 @@
             "masterable": false
           }
         ],
-        "itemCount": 6,
         "imageName": "SolarisEidolonGemACut.png",
         "tradable": false,
         "masterable": false,
@@ -121462,6 +121462,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAAlloyAItem",
         "name": "Auroxium Alloy",
         "description": "Auron that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+        "itemCount": 100,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -121511,7 +121512,6 @@
             "type": "Resource"
           }
         ],
-        "itemCount": 100,
         "imageName": "RareOreAAlloyA.png",
         "tradable": false,
         "masterable": false,
@@ -121531,6 +121531,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem",
         "name": "Hespazym Alloy",
         "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 100,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -121580,7 +121581,6 @@
             "type": "Resource"
           }
         ],
-        "itemCount": 100,
         "imageName": "SolarisRareOreAAlloy.png",
         "tradable": false,
         "masterable": false,
@@ -131047,6 +131047,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAAlloyAItem",
         "name": "Auroxium Alloy",
         "description": "Auron that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+        "itemCount": 20,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -131096,7 +131097,6 @@
             "type": "Resource"
           }
         ],
-        "itemCount": 20,
         "imageName": "RareOreAAlloyA.png",
         "tradable": false,
         "masterable": false,
@@ -131368,6 +131368,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAAlloyAItem",
         "name": "Auroxium Alloy",
         "description": "Auron that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+        "itemCount": 20,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -131417,7 +131418,6 @@
             "type": "Resource"
           }
         ],
-        "itemCount": 20,
         "imageName": "RareOreAAlloyA.png",
         "tradable": false,
         "masterable": false,

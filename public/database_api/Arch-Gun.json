@@ -6114,6 +6114,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemACutItem",
         "name": "Radiant Zodian",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 5,
         "buildPrice": 10000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -6141,7 +6142,6 @@
             "masterable": false
           }
         ],
-        "itemCount": 5,
         "imageName": "SolarisEidolonGemACut.png",
         "tradable": false,
         "masterable": false,
@@ -6161,6 +6161,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
         "name": "Venerdo Alloy",
         "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 80,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -6210,7 +6211,6 @@
             "drops": []
           }
         ],
-        "itemCount": 80,
         "imageName": "SolarisUncommonOreAAlloy.png",
         "tradable": false,
         "masterable": false,

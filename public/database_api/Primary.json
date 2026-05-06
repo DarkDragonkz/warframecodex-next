@@ -1950,7 +1950,7 @@
       0
     ],
     "totalDamage": 62,
-    "description": "Gyre’s signature weapon has two fire modes. Primary fire shocks enemies with electrical orbs. Alternate fire is a large ball of electricity that sticks to any surface and pulses <DT_ELECTRICITY_COLOR>Electricity before it explodes. In Gyre's hands, the weapon has a small amount of multishot.",
+    "description": "Gyre's signature weapon has two fire modes. Primary fire shocks enemies with electrical orbs. Alternate fire is a large ball of electricity that sticks to any surface and pulses <DT_ELECTRICITY_COLOR>Electricity before it explodes. In Gyre's hands, the weapon has a small amount of multishot.",
     "criticalChance": 0.14,
     "criticalMultiplier": 2.2,
     "procChance": 0.30000001,
@@ -1996,7 +1996,7 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/GyreRifleWeaponBlueprint",
         "name": "Blueprint",
-        "description": "Gyre’s signature weapon has two fire modes. Primary fire shocks enemies with electrical orbs. Alternate fire is a large ball of electricity that sticks to any surface and pulses <DT_ELECTRICITY_COLOR>Electricity before it explodes. In Gyre's hands, the weapon has a small amount of multishot.",
+        "description": "Gyre's signature weapon has two fire modes. Primary fire shocks enemies with electrical orbs. Alternate fire is a large ball of electricity that sticks to any surface and pulses <DT_ELECTRICITY_COLOR>Electricity before it explodes. In Gyre's hands, the weapon has a small amount of multishot.",
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
@@ -10791,6 +10791,7 @@
         "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
         "name": "Carbides",
         "description": "Resilient components used to reinforce the plated sheets of metal strapped to Grineer Ships.\n\nLocation: Eximus units in the Grineer Shipyard Tileset, and Railjack missions in Earth, Saturn, and Veil Proximas",
+        "itemCount": 800,
         "buildPrice": 1000,
         "buildTime": 120,
         "skipBuildTimePrice": 5,
@@ -10840,7 +10841,6 @@
             "type": "Resource"
           }
         ],
-        "itemCount": 800,
         "imageName": "RailjackComponentCarbides.png",
         "tradable": false,
         "masterable": false,
@@ -11308,6 +11308,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
         "name": "Heart Noctrul",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 25,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -11335,7 +11336,6 @@
             "drops": []
           }
         ],
-        "itemCount": 25,
         "imageName": "SolarisCommonGemBCut.png",
         "tradable": false,
         "masterable": false,
@@ -69714,7 +69714,7 @@
       0
     ],
     "totalDamage": 77,
-    "description": "The Kuva Sobek’s exceptional Reload Speed, Critical Chance, and Status Chance make it a natural fit for the Kuva Lich’s dominant spirit.",
+    "description": "The Kuva Sobek's exceptional Reload Speed, Critical Chance, and Status Chance make it a natural fit for the Kuva Lich's dominant spirit.",
     "criticalChance": 0.20999999,
     "criticalMultiplier": 2.3,
     "procChance": 0.20999998,
@@ -69739,7 +69739,7 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/KuvaWeapons/KuvaSobekBlueprint",
         "name": "Blueprint",
-        "description": "The Kuva Sobek’s exceptional Reload Speed, Critical Chance, and Status Chance make it a natural fit for the Kuva Lich’s dominant spirit.",
+        "description": "The Kuva Sobek's exceptional Reload Speed, Critical Chance, and Status Chance make it a natural fit for the Kuva Lich's dominant spirit.",
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
@@ -78202,7 +78202,7 @@
       0
     ],
     "totalDamage": 173,
-    "description": "A golden version of Garuda’s versatile crossbow, as fashioned by the Orokin’s finest weaponsmiths. Alt-fire to let loose a barrage of bolts. All bolts have a chance to cause <DT_SLASH_COLOR>Slash Status, and Headshot kills have a chance to increase Reload Speed. When wielded by Garuda the Nagantaka gains a slight Punch Through.",
+    "description": "A golden version of Garuda's versatile crossbow, as fashioned by the Orokin's finest weaponsmiths. Alt-fire to let loose a barrage of bolts. All bolts have a chance to cause <DT_SLASH_COLOR>Slash Status, and Headshot kills have a chance to increase Reload Speed. When wielded by Garuda the Nagantaka gains a slight Punch Through.",
     "criticalChance": 0.25,
     "criticalMultiplier": 2.3,
     "procChance": 0.38999999,
@@ -78463,7 +78463,7 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/NagantakaPrimeBlueprint",
         "name": "Blueprint",
-        "description": "A golden version of Garuda’s versatile crossbow, as fashioned by the Orokin’s finest weaponsmiths. Alt-fire to let loose a barrage of bolts. All bolts have a chance to cause <DT_SLASH_COLOR>Slash Status, and Headshot kills have a chance to increase Reload Speed. When wielded by Garuda the Nagantaka gains a slight Punch Through.",
+        "description": "A golden version of Garuda's versatile crossbow, as fashioned by the Orokin's finest weaponsmiths. Alt-fire to let loose a barrage of bolts. All bolts have a chance to cause <DT_SLASH_COLOR>Slash Status, and Headshot kills have a chance to increase Reload Speed. When wielded by Garuda the Nagantaka gains a slight Punch Through.",
         "itemCount": 1,
         "primeSellingPrice": 100,
         "imageName": "blueprint.png",

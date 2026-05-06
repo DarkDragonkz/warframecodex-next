@@ -108,7 +108,8 @@
     "description": "Sinewy and metallic, possessed of great elastic strength.\n\nLocation: Cambion Drift (Deimos) from Yellow Mining Lesions, Spitia Infested Cysts, and Rolizor Infested Cysts.",
     "itemCount": 20,
     "parents": [
-      "Adramal Alloy"
+      "Adramal Alloy",
+      "Xaku Kintsu Helmet"
     ],
     "type": "Gem",
     "imageName": "DeimosCommonOreA.png",
@@ -1284,6 +1285,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartSystemsItem",
     "name": "Bonewidow Capsule",
     "description": "Capsule component for the Bonewidow Necramech.",
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -1358,6 +1363,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartChassisItem",
     "name": "Bonewidow Casing",
     "description": "Casing component for the Bonewidow Necramech.",
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -1432,6 +1441,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartEngineItem",
     "name": "Bonewidow Engine",
     "description": "Engine component for the Bonewidow Necramech.",
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -1506,6 +1519,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartWeaponPodItem",
     "name": "Bonewidow Weapon Pod",
     "description": "Weapon Pod component for the Bonewidow Necramech.",
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -1706,6 +1723,19 @@
     "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidHungerItem",
     "name": "Calda Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Calda Toroids from enemies located at the Enrichment Labs in the Orb Vallis and from Scyto Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
+    "itemCount": 2,
+    "parents": [
+      "Haztech Apparel",
+      "Haztech Cuirass",
+      "Kubrodon Ventkid Apparel",
+      "Kubrodon Ventkid Cuirass",
+      "Outrider Cuirass",
+      "Smelter Apparel",
+      "Smelter Cuirass",
+      "Vent Pobber Ventkid Apparel",
+      "Vent Pobber Ventkid Cuirass",
+      "Vent Rat Cuirass"
+    ],
     "type": "Resource",
     "imageName": "CrpArachnoidPowerCoreHunger.png",
     "category": "Resources",
@@ -1776,6 +1806,10 @@
     "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
     "name": "Carbides",
     "description": "Resilient components used to reinforce the plated sheets of metal strapped to Grineer Ships.\n\nLocation: Eximus units in the Grineer Shipyard Tileset, and Railjack missions in Earth, Saturn, and Veil Proximas",
+    "itemCount": 2000,
+    "parents": [
+      "Protea Telema Helmet"
+    ],
     "buildPrice": 1000,
     "buildTime": 120,
     "skipBuildTimePrice": 5,
@@ -1923,6 +1957,14 @@
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/CetusWispItem",
     "name": "Cetus Wisp",
     "description": "Most common at night, these stone lifeforms are drawn to shorelines touched by the Eidolon. They linger around lakes on the Plains of Eidolon at all hours. Their origin remains mysterious.\n\nLocation: Plains of Eidolon on Earth",
+    "itemCount": 5,
+    "parents": [
+      "Zauba Apparel",
+      "Zauba Cuirass",
+      "Zauba Greaves",
+      "Zauba Mask",
+      "Zauba Pauldrons"
+    ],
     "type": "Resource",
     "imageName": "CetusWisp.png",
     "category": "Resources",
@@ -2327,6 +2369,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem",
     "name": "Condroc Wing",
     "description": "The talon on a condroc's wing is sharp enough to tear through bone.\n\nLocation: Plains of Eidolon on Earth",
+    "itemCount": 5,
+    "parents": [
+      "Naberus Ephemera"
+    ],
     "type": "Resource",
     "imageName": "BirdOfPreyPartItem.png",
     "category": "Resources",
@@ -3117,6 +3163,13 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
     "name": "Damaged Necramech Pod",
     "description": "A modular component for a Necramech. It's damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+    "itemCount": 1,
+    "parents": [
+      "Loid Sentinel Mask",
+      "Loid Sentinel Skin",
+      "Loid Sentinel Tail",
+      "Loid Sentinel Wing"
+    ],
     "type": "Resource",
     "imageName": "DamagedMechPartSystems.png",
     "category": "Resources",
@@ -3818,6 +3871,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagRare",
     "name": "Echo Voca",
     "description": "The quietest and most elusive of Voidtongue utterances. Sought after but never found by Albrecht.\n\nLocation: Albrecht's Laboratories (Deimos)",
+    "itemCount": 1,
+    "parents": [
+      "Qorvex"
+    ],
     "type": "Resource",
     "imageName": "EntratiLabDogTagRare.png",
     "category": "Resources",
@@ -4065,6 +4122,11 @@
     "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB",
     "name": "Entrati Lanthorn",
     "description": "A ceremonial beacon used to map Void locations on to real space.\n\nLocation: Albrecht's Laboratories (Deimos) and Zariman",
+    "itemCount": 5,
+    "parents": [
+      "Raptwing Ephemera",
+      "Seraphayre Ephemera"
+    ],
     "type": "Resource",
     "imageName": "ZarimanMiscItemB.png",
     "category": "Resources",
@@ -4652,7 +4714,7 @@
     "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
     "name": "Fieldron",
     "description": "ClanTech weaponized containment field to contain superheated substances.\n\nLocation: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards",
-    "itemCount": 10,
+    "itemCount": 2,
     "parents": [
       "Antiserum Injector",
       "Helios"
@@ -5297,6 +5359,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
     "name": "Gorgaricus Spore",
     "description": "The reproductive spore of the giant Vallis fungi is highly coveted for the complex chemical compounds it contains.\n\nLocation: Orb Vallis on Venus",
+    "itemCount": 60,
+    "parents": [
+      "Puppeteer"
+    ],
     "type": "Resource",
     "imageName": "VenusCoconut.png",
     "category": "Resources",
@@ -5729,7 +5795,13 @@
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "itemCount": 1,
     "parents": [
-      "Exceptional Sentient Core"
+      "Caliban Cranion Helmet",
+      "Exceptional Sentient Core",
+      "Vahd Apparel",
+      "Vahd Cuirass",
+      "Vahd Greaves",
+      "Vahd Mask",
+      "Vahd Pauldrons"
     ],
     "buildPrice": 10000,
     "buildTime": 60,
@@ -5818,6 +5890,22 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem",
     "name": "Hespazym Alloy",
     "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+    "itemCount": 50,
+    "parents": [
+      "Haztech Greaves",
+      "Haztech Mask",
+      "Kubrodon Ventkid Greaves",
+      "Kubrodon Ventkid Mask",
+      "Outrider Greaves",
+      "Outrider Mask",
+      "Smelter Greaves",
+      "Smelter Mask",
+      "Styanax Gerousic Helmet",
+      "Vent Pobber Ventkid Greaves",
+      "Vent Pobber Ventkid Mask",
+      "Vent Rat Greaves",
+      "Vent Rat Mask"
+    ],
     "buildPrice": 1000,
     "buildTime": 60,
     "skipBuildTimePrice": 5,
@@ -6502,6 +6590,10 @@
     "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem",
     "name": "Komms",
     "description": "A component used in secure Grineer communication networks.\n\nLocation: Railjack missions in Earth, Saturn, and Veil Proximas",
+    "itemCount": 4,
+    "parents": [
+      "Protea Telema Helmet"
+    ],
     "buildPrice": 1000,
     "buildTime": 120,
     "skipBuildTimePrice": 5,
@@ -6884,6 +6976,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/EclipseVoidWraithItem",
     "name": "Lua Thrax Plasm",
     "description": "A unique variant of Thrax Plasm harvested during Void Conjunctions on Lua.\n\nLocation: Yuvarium and Circulus on Lua",
+    "itemCount": 50,
+    "parents": [
+      "Voruna"
+    ],
     "type": "Resource",
     "imageName": "EclipseVoidWraithItem.png",
     "category": "Resources",
@@ -7002,6 +7098,7 @@
     "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
     "itemCount": 6,
     "parents": [
+      "Seeding Step Ephemera",
       "Twilight Apothic"
     ],
     "type": "Plant",
@@ -7199,6 +7296,10 @@
     "itemCount": 2,
     "parents": [
       "Advanced Nosam Cutter",
+      "Loid Sentinel Mask",
+      "Loid Sentinel Skin",
+      "Loid Sentinel Tail",
+      "Loid Sentinel Wing",
       "Sunpoint Plasma Drill"
     ],
     "buildPrice": 2500,
@@ -7358,7 +7459,7 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
     "name": "Moonlight Dragonlily",
     "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
-    "itemCount": 10,
+    "itemCount": 6,
     "parents": [
       "Lapis Antitoxin",
       "Nightfall Apothic",
@@ -7903,6 +8004,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
     "name": "Mytocardia Spore",
     "description": "A fungal body prized for its varied uses.\n\nLocation: Orb Vallis on Venus",
+    "itemCount": 120,
+    "parents": [
+      "Hang Tenno"
+    ],
     "type": "Resource",
     "imageName": "FungusHeart.png",
     "category": "Resources",
@@ -8244,7 +8349,8 @@
     "description": "Nullstones do not conform to several laws of physics, making them highly prized for optimizing sensitive components.\n\nLocation: Railjack Missions",
     "itemCount": 5,
     "parents": [
-      "Nautilus"
+      "Nautilus",
+      "Protea Mavv Helmet"
     ],
     "type": "Resource",
     "imageName": "RailjackComponentNullstones.png",
@@ -9262,6 +9368,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriDragonDropItem",
     "name": "Pathos Clamp",
     "description": "The manifestation of Thrax's malevolence that shapes the Orowyrms' outbursts.\n\nLocation: Rewarded upon defeating the Orowyrm in Duviri ",
+    "itemCount": 10,
+    "parents": [
+      "Kullervo"
+    ],
     "type": "Resource",
     "imageName": "DuviriWyrmsoul.png",
     "category": "Resources",
@@ -9522,6 +9632,12 @@
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "itemCount": 1,
     "parents": [
+      "Ceno Apparel",
+      "Ceno Cuirass",
+      "Ceno Greaves",
+      "Ceno Helmet",
+      "Ceno Pauldrons",
+      "Eidolon Ephemera",
       "Exceptional Sentient Core"
     ],
     "buildPrice": 10000,
@@ -9891,7 +10007,11 @@
     "description": "These scarce, hovering relics of the Orokin era can still be found monitoring the isolation vaults deep beneath the surface of Deimos.\n\nLocation: Cambion Drift on Deimos",
     "itemCount": 4,
     "parents": [
-      "Bonewidow Capsule"
+      "Bonewidow Capsule",
+      "Loid Sentinel Mask",
+      "Loid Sentinel Skin",
+      "Loid Sentinel Tail",
+      "Loid Sentinel Wing"
     ],
     "type": "Resource",
     "imageName": "EntratiWisp.png",
@@ -10463,6 +10583,15 @@
     "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidWraithItem",
     "name": "Sola Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Sola Toroids from enemies located at the Temple of Profit in the Orb Vallis and from Kyta Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
+    "itemCount": 5,
+    "parents": [
+      "Haztech Greaves",
+      "Kubrodon Ventkid Greaves",
+      "Outrider Greaves",
+      "Smelter Greaves",
+      "Vent Pobber Ventkid Greaves",
+      "Vent Rat Greaves"
+    ],
     "type": "Resource",
     "imageName": "CrpArachnoidPowerCoreWraith.png",
     "category": "Resources",
@@ -10565,7 +10694,8 @@
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "itemCount": 6,
     "parents": [
-      "Bonewidow Capsule"
+      "Bonewidow Capsule",
+      "Styanax Agogean Helmet"
     ],
     "buildPrice": 5000,
     "buildTime": 60,
@@ -10951,7 +11081,7 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
     "name": "Sunlight Dragonlily",
     "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
-    "itemCount": 10,
+    "itemCount": 4,
     "parents": [
       "Citrine Antitoxin",
       "Lapis Antitoxin",
@@ -11519,6 +11649,11 @@
     "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
     "name": "Thermal Sludge",
     "description": "A by-product from the Weeping Towers terraforming processes.\n\nLocation: Orb Vallis on Venus",
+    "itemCount": 75,
+    "parents": [
+      "Greedy Milk",
+      "Puppeteer"
+    ],
     "type": "Resource",
     "imageName": "Coolant.png",
     "category": "Resources",
@@ -11605,6 +11740,13 @@
     "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem",
     "name": "Thrax Plasm",
     "description": "Found in the remnants of Thrax Void manifestations, this plasm has several surprisingly practical applications.\n\nLocation: Zariman",
+    "itemCount": 300,
+    "parents": [
+      "Gyre Automaton Helmet",
+      "Raptwing Ephemera",
+      "Seraphayre Ephemera",
+      "Styanax Gerousic Helmet"
+    ],
     "type": "Resource",
     "imageName": "VoidWraithItem.png",
     "category": "Resources",
@@ -12152,7 +12294,8 @@
     "description": "This highly malleable metal was exploited in great quantities by the Orokin and can now only be found within space rock.\n\nLocation: Railjack Missions",
     "itemCount": 750,
     "parents": [
-      "Bonewidow Engine"
+      "Bonewidow Engine",
+      "Protea Mavv Helmet"
     ],
     "type": "Resource",
     "imageName": "RailjackComponentTitanium.png",
@@ -12913,6 +13056,15 @@
     "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidMicroidItem",
     "name": "Vega Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Vega Toroids from enemies located at the Spaceport in the Orb Vallis and from Mite Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
+    "itemCount": 5,
+    "parents": [
+      "Haztech Pauldrons",
+      "Kubrodon Ventkid Pauldrons",
+      "Outrider Pauldrons",
+      "Smelter Pauldrons",
+      "Vent Pobber Ventkid Pauldrons",
+      "Vent Rat Pauldrons"
+    ],
     "type": "Resource",
     "imageName": "CrpArachnoidPowerCoreMicroid.png",
     "category": "Resources",
@@ -12991,6 +13143,25 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
     "name": "Venerdo Alloy",
     "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+    "itemCount": 40,
+    "parents": [
+      "Haztech Apparel",
+      "Haztech Cuirass",
+      "Haztech Pauldrons",
+      "Kubrodon Ventkid Apparel",
+      "Kubrodon Ventkid Cuirass",
+      "Kubrodon Ventkid Pauldrons",
+      "Outrider Cuirass",
+      "Outrider Pauldrons",
+      "Smelter Apparel",
+      "Smelter Cuirass",
+      "Smelter Pauldrons",
+      "Vent Pobber Ventkid Apparel",
+      "Vent Pobber Ventkid Cuirass",
+      "Vent Pobber Ventkid Pauldrons",
+      "Vent Rat Cuirass",
+      "Vent Rat Pauldrons"
+    ],
     "buildPrice": 1000,
     "buildTime": 60,
     "skipBuildTimePrice": 5,
@@ -13225,6 +13396,12 @@
     "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA",
     "name": "Voidgel Orb",
     "description": "A sample of ambient Void energy distilled into a neutral state.\n\nLocation: Zariman",
+    "itemCount": 45,
+    "parents": [
+      "Gyre Automaton Helmet",
+      "Raptwing Ephemera",
+      "Seraphayre Ephemera"
+    ],
     "type": "Resource",
     "imageName": "ZarimanMiscItemA.png",
     "category": "Resources",
@@ -13347,6 +13524,11 @@
     "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/VoidAngelItem",
     "name": "Voidplume Pinion",
     "description": "A Void Angel's living feather, ripped out in combat.\n\nLocation: Zariman",
+    "itemCount": 5,
+    "parents": [
+      "Raptwing Ephemera",
+      "Seraphayre Ephemera"
+    ],
     "type": "Resource",
     "imageName": "VoidAngelItem.png",
     "category": "Resources",
@@ -13431,6 +13613,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartSystemsItem",
     "name": "Voidrig Capsule",
     "description": "Capsule component for the Voidrig Necramech.",
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -13524,6 +13710,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartChassisItem",
     "name": "Voidrig Casing",
     "description": "Casing component for the Voidrig Necramech.",
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -13616,6 +13806,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartEngineItem",
     "name": "Voidrig Engine",
     "description": "Engine component for the Voidrig Necramech.",
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -13709,6 +13903,10 @@
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartWeaponPodItem",
     "name": "Voidrig Weapon Pod",
     "description": "Weapon Pod component for the Voidrig Necramech.",
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,

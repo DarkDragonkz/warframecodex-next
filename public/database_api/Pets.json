@@ -188,6 +188,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
         "name": "Venerdo Alloy",
         "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 25,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -237,7 +238,6 @@
             "drops": []
           }
         ],
-        "itemCount": 25,
         "imageName": "SolarisUncommonOreAAlloy.png",
         "tradable": false,
         "masterable": false,
@@ -428,6 +428,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
         "name": "Heart Noctrul",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 5,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -455,7 +456,6 @@
             "drops": []
           }
         ],
-        "itemCount": 5,
         "imageName": "SolarisCommonGemBCut.png",
         "tradable": false,
         "masterable": false,
@@ -619,6 +619,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
         "name": "Smooth Phasmin",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 15,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -646,7 +647,6 @@
             "drops": []
           }
         ],
-        "itemCount": 15,
         "imageName": "SolarisCommonGemACut.png",
         "tradable": false,
         "masterable": false,
@@ -1153,6 +1153,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemBCutItem",
         "name": "Marquise Thyst",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 2,
         "buildPrice": 10000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -1180,7 +1181,6 @@
             "masterable": false
           }
         ],
-        "itemCount": 2,
         "imageName": "SolarisEidolonGemBCut.png",
         "tradable": false,
         "masterable": false,
@@ -2054,6 +2054,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
         "name": "Smooth Phasmin",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 15,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -2081,7 +2082,6 @@
             "drops": []
           }
         ],
-        "itemCount": 15,
         "imageName": "SolarisCommonGemACut.png",
         "tradable": false,
         "masterable": false,
@@ -2653,6 +2653,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem",
         "name": "Hespazym Alloy",
         "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 20,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -2702,7 +2703,6 @@
             "type": "Resource"
           }
         ],
-        "itemCount": 20,
         "imageName": "SolarisRareOreAAlloy.png",
         "tradable": false,
         "masterable": false,
@@ -3050,6 +3050,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
         "name": "Venerdo Alloy",
         "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 40,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -3099,7 +3100,6 @@
             "drops": []
           }
         ],
-        "itemCount": 40,
         "imageName": "SolarisUncommonOreAAlloy.png",
         "tradable": false,
         "masterable": false,
@@ -3195,6 +3195,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
         "name": "Smooth Phasmin",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 5,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -3222,7 +3223,6 @@
             "drops": []
           }
         ],
-        "itemCount": 5,
         "imageName": "SolarisCommonGemACut.png",
         "tradable": false,
         "masterable": false,
@@ -3804,6 +3804,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAAlloyAItem",
         "name": "Auroxium Alloy",
         "description": "Auron that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+        "itemCount": 20,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -3853,7 +3854,6 @@
             "type": "Resource"
           }
         ],
-        "itemCount": 20,
         "imageName": "RareOreAAlloyA.png",
         "tradable": false,
         "masterable": false,
@@ -4016,6 +4016,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
         "name": "Venerdo Alloy",
         "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 40,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -4065,7 +4066,6 @@
             "drops": []
           }
         ],
-        "itemCount": 40,
         "imageName": "SolarisUncommonOreAAlloy.png",
         "tradable": false,
         "masterable": false,
@@ -4494,6 +4494,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
         "name": "Heart Noctrul",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 20,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -4521,7 +4522,6 @@
             "drops": []
           }
         ],
-        "itemCount": 20,
         "imageName": "SolarisCommonGemBCut.png",
         "tradable": false,
         "masterable": false,
@@ -4674,6 +4674,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
         "name": "Heart Noctrul",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 15,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -4701,7 +4702,6 @@
             "drops": []
           }
         ],
-        "itemCount": 15,
         "imageName": "SolarisCommonGemBCut.png",
         "tradable": false,
         "masterable": false,
@@ -4711,6 +4711,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
         "name": "Venerdo Alloy",
         "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 25,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -4760,7 +4761,6 @@
             "drops": []
           }
         ],
-        "itemCount": 25,
         "imageName": "SolarisUncommonOreAAlloy.png",
         "tradable": false,
         "masterable": false,
@@ -4845,6 +4845,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
         "name": "Heart Noctrul",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 10,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -4872,7 +4873,6 @@
             "drops": []
           }
         ],
-        "itemCount": 10,
         "imageName": "SolarisCommonGemBCut.png",
         "tradable": false,
         "masterable": false,
@@ -4953,6 +4953,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
         "name": "Venerdo Alloy",
         "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 30,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -5002,7 +5003,6 @@
             "drops": []
           }
         ],
-        "itemCount": 30,
         "imageName": "SolarisUncommonOreAAlloy.png",
         "tradable": false,
         "masterable": false,
@@ -5087,6 +5087,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem",
         "name": "Hespazym Alloy",
         "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 10,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -5136,7 +5137,6 @@
             "type": "Resource"
           }
         ],
-        "itemCount": 10,
         "imageName": "SolarisRareOreAAlloy.png",
         "tradable": false,
         "masterable": false,
@@ -5183,6 +5183,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
         "name": "Venerdo Alloy",
         "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 25,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -5232,7 +5233,6 @@
             "drops": []
           }
         ],
-        "itemCount": 25,
         "imageName": "SolarisUncommonOreAAlloy.png",
         "tradable": false,
         "masterable": false,
@@ -5576,6 +5576,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
         "name": "Heart Noctrul",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 5,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -5603,7 +5604,6 @@
             "drops": []
           }
         ],
-        "itemCount": 5,
         "imageName": "SolarisCommonGemBCut.png",
         "tradable": false,
         "masterable": false,
@@ -5816,6 +5816,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
         "name": "Venerdo Alloy",
         "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 20,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -5865,7 +5866,6 @@
             "drops": []
           }
         ],
-        "itemCount": 20,
         "imageName": "SolarisUncommonOreAAlloy.png",
         "tradable": false,
         "masterable": false,
@@ -6385,6 +6385,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
         "name": "Smooth Phasmin",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 10,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -6412,7 +6413,6 @@
             "drops": []
           }
         ],
-        "itemCount": 10,
         "imageName": "SolarisCommonGemACut.png",
         "tradable": false,
         "masterable": false,
@@ -7678,6 +7678,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
         "name": "Smooth Phasmin",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 20,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -7705,7 +7706,6 @@
             "drops": []
           }
         ],
-        "itemCount": 20,
         "imageName": "SolarisCommonGemACut.png",
         "tradable": false,
         "masterable": false,
@@ -7859,6 +7859,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
         "name": "Heart Noctrul",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 5,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -7886,7 +7887,6 @@
             "drops": []
           }
         ],
-        "itemCount": 5,
         "imageName": "SolarisCommonGemBCut.png",
         "tradable": false,
         "masterable": false,
