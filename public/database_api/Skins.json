@@ -1687,6 +1687,14 @@
     "imageName": "AklexConclaveSkin.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Conclave, Typhoon",
+        "type": "Aklex Conclave Skin",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
@@ -7118,6 +7126,14 @@
     "imageName": "JadelightEphemeraC.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Operational Supply, Champion",
+        "type": "Aspirus Apex Ephemera",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
@@ -7128,6 +7144,14 @@
     "imageName": "JadelightEphemeraB.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Operational Supply, Defender",
+        "type": "Aspirus Emergent Ephemera",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
@@ -7138,6 +7162,14 @@
     "imageName": "JadelightEphemeraA.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Operational Supply, Collaborator",
+        "type": "Aspirus Ephemera",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
@@ -24975,6 +25007,14 @@
     "imageName": "NecramechHelmetB.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Operational Supply, Champion",
+        "type": "Cryptanaut Necramech Helmet",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Update 29.6.0: Orphix Venom!",
@@ -35053,6 +35093,14 @@
     "imageName": "ScarletSpearPlanetDeco.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Operational Supply, Neutral",
+        "type": "Earth Console",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
@@ -61739,6 +61787,14 @@
     "imageName": "PlushyHemocyte.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Operational Supply, Neutral",
+        "type": "Hemocyte Floof",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
@@ -92355,6 +92411,14 @@
     "imageName": "ScarletSpearAsteroidsDeco.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Operational Supply, Neutral",
+        "type": "Murex Console",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
@@ -113565,6 +113629,14 @@
     "imageName": "InfestedShoulderArmour.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Operational Supply, Champion",
+        "type": "Protosomid Shoulder Guard",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Wukong Prime: Update 25.3.0",
@@ -131778,7 +131850,6 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
         "name": "Star Amarast",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
-        "itemCount": 10,
         "buildPrice": 5000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -131806,6 +131877,7 @@
             "drops": []
           }
         ],
+        "itemCount": 10,
         "imageName": "SolarisRareGemACut.png",
         "tradable": false,
         "masterable": false,

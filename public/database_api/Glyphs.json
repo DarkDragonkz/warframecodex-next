@@ -6574,6 +6574,14 @@
     "imageName": "PlagueStar.png",
     "category": "Glyphs",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Operational Supply, Neutral",
+        "type": "Hemocyte Glyph",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {

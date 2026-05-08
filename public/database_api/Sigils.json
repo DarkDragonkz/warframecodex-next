@@ -1845,6 +1845,14 @@
     "imageName": "HemocyteSigil.png",
     "category": "Sigils",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Operational Supply, Neutral",
+        "type": "Hemocyte Sigil",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {

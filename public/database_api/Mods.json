@@ -1450,6 +1450,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Aegis Gale (Hildryn)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Aegis Gale (Hildryn)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AegisGaleMod.png?f7f66",
     "wikiaUrl": "https://wiki.warframe.com/w/Aegis_Gale",
@@ -25184,6 +25198,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Cataclysmic Gate (Wisp)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "New Loka, Flawless",
+        "type": "Cataclysmic Gate (Wisp)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Cataclysmic_Gate",
     "transmutable": false,
@@ -30469,6 +30497,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Coil Recharge (Gyre)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Coil Recharge (Gyre)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/CoilRechargeMod.png?a2cda",
     "wikiaUrl": "https://wiki.warframe.com/w/Coil_Recharge",
@@ -34087,6 +34129,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Conductive Sphere (Gyre)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Conductive Sphere (Gyre)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ConductiveSphereMod.png?81f61",
     "wikiaUrl": "https://wiki.warframe.com/w/Conductive_Sphere",
@@ -41933,6 +41989,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Dark Propagation (Sevagoth)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Dark Propagation (Sevagoth)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/DarkPropagationMod.png?4378f",
     "wikiaUrl": "https://wiki.warframe.com/w/Dark_Propagation",
@@ -56911,7 +56981,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eterna undefined Relic",
+        "location": "Requiem ETERNA Relic",
         "type": "Fass",
         "chance": 9.5,
         "rarity": "Rare"
@@ -70328,6 +70398,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Fused Crucible (Qorvex)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Steel Meridian, General",
+        "type": "Fused Crucible (Qorvex)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/FusedCrucibleMod.png?81f61",
     "wikiaUrl": "https://wiki.warframe.com/w/Fused_Crucible",
@@ -72118,6 +72202,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Gastro (Grendel)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Steel Meridian, General",
+        "type": "Gastro (Grendel)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/GastroMod.png?88249",
     "wikiaUrl": "https://wiki.warframe.com/w/Gastro",
@@ -99524,6 +99622,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Jade's Judgment (Jade)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Jade's Judgment (Jade)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Jade%27sJudgmentMod.png?bc6e9",
     "wikiaUrl": "https://wiki.warframe.com/w/Jade's_Judgment",
@@ -100430,7 +100542,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eterna undefined Relic",
+        "location": "Requiem ETERNA Relic",
         "type": "Jahu",
         "chance": 9.5,
         "rarity": "Rare"
@@ -101516,7 +101628,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eterna undefined Relic",
+        "location": "Requiem ETERNA Relic",
         "type": "Khra",
         "chance": 9.5,
         "rarity": "Rare"
@@ -115259,6 +115371,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "New Loka, Flawless",
+        "type": "Lingering Transmutation (Lavos)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Lingering Transmutation (Lavos)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/LingeringTransmutationMod.png?bc3bd",
     "wikiaUrl": "https://wiki.warframe.com/w/Lingering_Transmutation",
@@ -115987,7 +116113,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eterna undefined Relic",
+        "location": "Requiem ETERNA Relic",
         "type": "Lohk",
         "chance": 9.5,
         "rarity": "Rare"
@@ -147846,7 +147972,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eterna undefined Relic",
+        "location": "Requiem ETERNA Relic",
         "type": "Netra",
         "chance": 9.5,
         "rarity": "Rare"
@@ -153877,6 +154003,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Omikuji's Fortune (Koumei)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "New Loka, Flawless",
+        "type": "Omikuji's Fortune (Koumei)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Omikuji%27sFortuneMod.png?81f61",
     "wikiaUrl": "https://wiki.warframe.com/w/Omikuji's_Fortune",
@@ -183305,6 +183445,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Prey of Dynar (Voruna)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Steel Meridian, General",
+        "type": "Prey of Dynar (Voruna)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PreyofDynarMod.png?88249",
     "wikiaUrl": "https://wiki.warframe.com/w/Prey_of_Dynar",
@@ -189989,6 +190143,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Prismatic Companion (Citrine)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Steel Meridian, General",
+        "type": "Prismatic Companion (Citrine)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PrismaticCompanionMod.png?bc6e9",
     "wikiaUrl": "https://wiki.warframe.com/w/Prismatic_Companion",
@@ -197711,6 +197879,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Razor Mortar (Caliban)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Razor Mortar (Caliban)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Razor_Mortar",
     "transmutable": false,
@@ -211085,6 +211267,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Reverse Rotorswell (Gyre)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Reverse Rotorswell (Gyre)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ReverseRotorswellMod.png?82c22",
     "wikiaUrl": "https://wiki.warframe.com/w/Reverse_Rotorswell",
@@ -223728,7 +223924,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eterna undefined Relic",
+        "location": "Requiem ETERNA Relic",
         "type": "Ris",
         "chance": 9.5,
         "rarity": "Rare"
@@ -262595,6 +262791,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Spectral Spirit (Dagath)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Spectral Spirit (Dagath)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SpectralSpiritMod.png?150f1",
     "wikiaUrl": "https://wiki.warframe.com/w/Spectral_Spirit",
@@ -283620,6 +283830,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Teleport Rush (Ash)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Teleport Rush (Ash)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/FatalTeleportMod.png?76602",
     "wikiaUrl": "https://wiki.warframe.com/w/Fatal_Teleport",
@@ -284077,6 +284301,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Temporal Artillery (Protea)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Temporal Artillery (Protea)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TemporalArtilleryMod.png?4378f",
     "wikiaUrl": "https://wiki.warframe.com/w/Temporal_Artillery",
@@ -285339,6 +285577,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Tharros Lethality (Styanax)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "New Loka, Flawless",
+        "type": "Tharros Lethality (Styanax)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TharrosLethalityMod.png?82c22",
     "wikiaUrl": "https://wiki.warframe.com/w/Tharros_Lethality",
@@ -295392,6 +295644,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Untime Rift (Xaku)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Steel Meridian, General",
+        "type": "Untime Rift (Xaku)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/UntimeRiftMod.png?82c22",
     "wikiaUrl": "https://wiki.warframe.com/w/Untime_Rift",
@@ -305920,6 +306186,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "New Loka, Flawless",
+        "type": "Volatile Recompense (Kullervo)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Steel Meridian, General",
+        "type": "Volatile Recompense (Kullervo)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/VolatileRecompenseMod.png?bc6e9",
     "wikiaUrl": "https://wiki.warframe.com/w/Volatile_Recompense",
@@ -306402,7 +306682,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eterna undefined Relic",
+        "location": "Requiem ETERNA Relic",
         "type": "Vome",
         "chance": 9.5,
         "rarity": "Rare"
@@ -309587,6 +309867,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Wrecking Wall (Qorvex)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Steel Meridian, General",
+        "type": "Wrecking Wall (Qorvex)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/WreckingWallMod.png?464dd",
     "wikiaUrl": "https://wiki.warframe.com/w/Wrecking_Wall",
@@ -309657,7 +309951,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eterna undefined Relic",
+        "location": "Requiem ETERNA Relic",
         "type": "Xata",
         "chance": 9.5,
         "rarity": "Rare"

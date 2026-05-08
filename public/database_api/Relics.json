@@ -437242,7 +437242,109 @@
       }
     ],
     "locations": [],
-    "rewards": [],
+    "rewards": [
+      {
+        "rarity": "Rare",
+        "chance": 9.5,
+        "item": {
+          "name": "Lohk",
+          "uniqueName": "",
+          "warframeMarket": {
+            "id": "5dbe9b0b7ea27b0ffe3ca26e",
+            "urlName": "lohk"
+          }
+        }
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.5,
+        "item": {
+          "name": "Xata",
+          "uniqueName": "",
+          "warframeMarket": {
+            "id": "5dbe9b127ea27b0ffe3ca285",
+            "urlName": "xata"
+          }
+        }
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.5,
+        "item": {
+          "name": "Jahu",
+          "uniqueName": "",
+          "warframeMarket": {
+            "id": "5dbe9b107ea27b0ffe3ca27c",
+            "urlName": "jahu"
+          }
+        }
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.5,
+        "item": {
+          "name": "Vome",
+          "uniqueName": "",
+          "warframeMarket": {
+            "id": "5dbe9b0e7ea27b0ffe3ca277",
+            "urlName": "vome"
+          }
+        }
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.5,
+        "item": {
+          "name": "Ris",
+          "uniqueName": "",
+          "warframeMarket": {
+            "id": "5dbe9b127ea27b0ffe3ca282",
+            "urlName": "ris"
+          }
+        }
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.5,
+        "item": {
+          "name": "Fass",
+          "uniqueName": "",
+          "warframeMarket": {
+            "id": "5dbe9b0e7ea27b0ffe3ca278",
+            "urlName": "fass"
+          }
+        }
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.5,
+        "item": {
+          "name": "Netra",
+          "uniqueName": "",
+          "warframeMarket": {
+            "id": "5dbe9b127ea27b0ffe3ca283",
+            "urlName": "netra"
+          }
+        }
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.5,
+        "item": {
+          "name": "Khra",
+          "uniqueName": "",
+          "warframeMarket": {
+            "id": "5dbe9b097ea27b0ffe3ca26c",
+            "urlName": "khra"
+          }
+        }
+      }
+    ],
+    "marketInfo": {
+      "id": "69c52958bb986142bb6e02bb",
+      "urlName": "requiem_eterna_relic"
+    },
+    "vaulted": true,
     "masterable": false
   },
   {

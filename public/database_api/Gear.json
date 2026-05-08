@@ -3711,7 +3711,7 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Cephalon Simaris, Kinetic Siphon Trap x 10",
+        "location": "Cephalon Simaris, Kinetic Siphon Trap x 10\n",
         "type": "Kinetic Siphon Trap x 10",
         "chance": 100,
         "rarity": "Common"
@@ -4873,6 +4873,12 @@
         "type": "Omni Forma Blueprint",
         "chance": 1,
         "rarity": "Rare"
+      },
+      {
+        "location": "Operational Supply, Champion",
+        "type": "Omni Forma*",
+        "chance": 100,
+        "rarity": "Common"
       },
       {
         "location": "Temporal Archimedea Legendary Rewards",
@@ -8625,7 +8631,7 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Cephalon Simaris, Synthesis Scanner x 25",
+        "location": "Cephalon Simaris, Synthesis Scanner x 25\n",
         "type": "Synthesis Scanner x 25",
         "chance": 100,
         "rarity": "Common"
