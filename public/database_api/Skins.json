@@ -23997,7 +23997,7 @@
         "url": "https://forums.warframe.com/topic/289522-update-1420-avalanche-offensive/",
         "additions": "",
         "changes": "",
-        "fixes": "Update 14.2.0: Avalanche Offensive Psa: The Launcher May Require You To Enter Your Windows Administrator Password To Update Your Firewall Rules.Avalanche Offensive Is On Until Monday @ 12 Noon Edt! Avalanche Offensivedefeat The Corpus Arctic Eximus!A Message From Cantis Of The Red Veil Resistance:Here'S What You'Ll Need To Dogo Forth And Take Down The Corpus Arctic Eximus, Tenno!Additions:Weapon Balance Changes:     • Grakata    • Castanas    • Ogris    • Torid    • Penta    • Lanka    • Vectis    • Vulkar    • Angstrum:    • Acrid:    • Attica:    • Spectra & Flux Rifle:    • Snipetron (+Vandal):    • Torid Changes:    • All Launchers:Key Hosting Improvements:Changes:Fixes:"
+        "fixes": "Update 14.2.0: Avalanche Offensive��Psa: The Launcher May Require You To Enter Your Windows Administrator Password To Update Your Firewall Rules.Avalanche Offensive Is On Until Monday @ 12 Noon Edt! Avalanche Offensivedefeat The Corpus Arctic Eximus!A Message From Cantis Of The Red Veil Resistance:Here'S What You'Ll Need To Dogo Forth And Take Down The Corpus Arctic Eximus, Tenno!Additions:Weapon Balance Changes:     • Grakata    • Castanas    • Ogris    • Torid    • Penta    • Lanka    • Vectis    • Vulkar    • Angstrum:    • Acrid:    • Attica:    • Spectra & Flux Rifle:    • Snipetron (+Vandal):    • Torid Changes:    • All Launchers:Key Hosting Improvements:Changes:Fixes:"
       },
       {
         "name": "Hotfix 14.1.1",
@@ -39441,7 +39441,7 @@
         "date": "2020-02-04T18:58:30Z",
         "url": "https://forums.warframe.com/topic/1166021-empyrean-kuva-lich-changes-2710-27101/",
         "additions": "",
-        "changes": "Fixed Lich ‘Ruse’ clones displaying the default Excalibur Helmet on their shoulder instead of the same Warframe Helmet as their owner. ",
+        "changes": "Fixed Lich ���Ruse’ clones displaying the default Excalibur Helmet on their shoulder instead of the same Warframe Helmet as their owner. ",
         "fixes": ""
       },
       {
@@ -53722,7 +53722,7 @@
         "url": "https://forums.warframe.com/topic/1299619-update-3110-echoes-of-war/",
         "additions": "100 Grineer Forest and Ocean themed Decorations have been added! We’ve got water pumps, turbine blades, cloning machinery and much more!",
         "changes": "The majestic Eros Ephemera has returned, along with the Neon Eros Wings decoration and Eros Arrow Skin, and don’t miss out on three brand-new seasonal Glyphs; Star Days Ordis, Yareli, and Grineer Glyph.\nMade some lighting updates to the Grineer Sealab tileset. \nImproved frequency of rare tiles that almost never appear in some Grineer Shipyard tileset mission types.\nImproved the colors in the waterfall FX in the Grineer Forest tileset. \nMade improvements and fixes to out-of-bounds & AI pathing in the Grineer Shipyards tileset. ",
-        "fixes": "Fixed Grineer Exo Skold Crewships being manned by Kosma troops instead of Exo troops.\nFixed some places where players could get stuck/hung up on geometry in the Grineer Galleon tileset.\nFixed Clients seeing Armored Vault health bar grayed out in the ‘Weaken the Grineer Foothold’ Plains of Eidolon Bounty.��\nFixed case of escaping the Grineer Settlement tileset bounds. \nFixed the Grineer pod launcher cannon not working in Grineer-to-Corpus ship Invasion / Crossfire missions.\nFixed light flickering issues near one of the windows in the Grineer Sealab tileset. "
+        "fixes": "Fixed Grineer Exo Skold Crewships being manned by Kosma troops instead of Exo troops.\nFixed some places where players could get stuck/hung up on geometry in the Grineer Galleon tileset.\nFixed Clients seeing Armored Vault health bar grayed out in the ‘Weaken the Grineer Foothold’ Plains of Eidolon Bounty. \nFixed case of escaping the Grineer Settlement tileset bounds. \nFixed the Grineer pod launcher cannon not working in Grineer-to-Corpus ship Invasion / Crossfire missions.\nFixed light flickering issues near one of the windows in the Grineer Sealab tileset. "
       },
       {
         "name": "The New War: Hotfix 31.0.11",
@@ -135127,7 +135127,7 @@
         "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
         "date": "2016-05-27T21:20:29Z",
         "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
-        "additions": "The fourth round of TennoGen Skins are available now!\n��    An indicator has been added to the HUD (beside your Shield stats) to display how many allies are in range of your Tenno for your shared Tenno Affinity. This allows for better indication if you’re in range of your squad to ensure you’re getting the shared Tenno Affinity, and to increase communication and awareness of where your squad is on the map. ",
+        "additions": "The fourth round of TennoGen Skins are available now!\n•    An indicator has been added to the HUD (beside your Shield stats) to display how many allies are in range of your Tenno for your shared Tenno Affinity. This allows for better indication if you’re in range of your squad to ensure you’re getting the shared Tenno Affinity, and to increase communication and awareness of where your squad is on the map. ",
         "changes": "Update 18.13.0: Tennogen, Passives, & Reworks:\n•    Updated textures on the Volt AMP TennoGen skin.\n•    Tweaked Nova TennoGen skins to equip nicer on Nova Prime as per: https://forums.warframe.com/topic/629240-nova-tennogen-cygni-skin-and-nova-prime-model-issues/",
         "fixes": ""
       },
