@@ -39441,7 +39441,7 @@
         "date": "2020-02-04T18:58:30Z",
         "url": "https://forums.warframe.com/topic/1166021-empyrean-kuva-lich-changes-2710-27101/",
         "additions": "",
-        "changes": "Fixed Lich ‘Ruse’ clones displaying the default Excalibur Helmet on their shoulder instead of the same Warframe Helmet as their owner. ",
+        "changes": "Fixed Lich ���Ruse’ clones displaying the default Excalibur Helmet on their shoulder instead of the same Warframe Helmet as their owner. ",
         "fixes": ""
       },
       {
@@ -150500,7 +150500,7 @@
         "url": "https://forums.warframe.com/topic/1314484-echoes-of-the-zariman-hotfix-3162/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed stretched embers in the Verv Ephemera.��\nFixed the Verv Ephemera not scaling with Archwing. "
+        "fixes": "Fixed stretched embers in the Verv Ephemera. \nFixed the Verv Ephemera not scaling with Archwing. "
       },
       {
         "name": "Update 31.1.0: Echoes of War",

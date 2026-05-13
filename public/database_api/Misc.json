@@ -65247,7 +65247,7 @@
         "url": "https://forums.warframe.com/topic/1332685-lua%E2%80%99s-prey-hotfix-3222/",
         "additions": "",
         "changes": "Yesterday, we took down the bundle shortly after the launch of Lua’s Prey as there was an issue with the UI not accounting for the price of each individual Warframe Slot (incorrectly showing that 2x Warframe Slots costs 20 Platinum, which is the the cost of 1). So we have fixed that issue across the board, and have re-enabled the Bundle to be purchased in the in-game Market. ",
-        "fixes": "Fixed being able to gift the new bundles in the in-game Market more than once to someone who already owns the bundle.\nFixed the “Several items in this package are cosmetics for items which you do not own. Purchase anyway?” pop-up occurring when attempting to purchase the Golden Mend Collection in the in-game Market even after completing The New War Quest. "
+        "fixes": "Fixed being able to gift the new bundles in the in-game Market more than once to someone who already owns the bundle.\nFixed the “Several items in this package are cosmetics for items which you do not own. Purchase anyway?” pop-up occurring when attempting to purchase the Golden Mend Collection in the in-game Market even after completing The New War Quest.��"
       },
       {
         "name": "Lua’s Prey: Hotfix 32.2.1",
