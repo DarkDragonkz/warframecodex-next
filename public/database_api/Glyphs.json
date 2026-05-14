@@ -4036,6 +4036,46 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLineOrion",
+    "name": "Dueling Orion Glyph",
+    "description": "A glyph that cuts through tenebrous shadows.",
+    "type": "Glyph",
+    "imageName": "LineOrionGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLineRyoku",
+    "name": "Dueling Ryoku Glyph",
+    "description": "A glyph that is waiting in the dark.",
+    "type": "Glyph",
+    "imageName": "LineRyokuGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLineSirius",
+    "name": "Dueling Sirius Glyph",
+    "description": "A glyph seen from a distant star.",
+    "type": "Glyph",
+    "imageName": "LineSiriusGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLineVena",
+    "name": "Dueling Vena Glyph",
+    "description": "A glyph that celebrates the miracle of blood.",
+    "type": "Glyph",
+    "imageName": "LineVenaGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDyanaCsmythe",
     "name": "Dyana.Csmythe Glyph",
     "description": "A Glyph for your profile.",
@@ -9063,7 +9103,7 @@
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Xmas2021MaggotGlyph",
     "name": "Maggot Prime Tennobaum Glyph",
-    "description": "Maggot’s little mouth was drawn up like a bow, and his infested charm even spread through the snow.",
+    "description": "Maggot's little mouth was drawn up like a bow, and his infested charm even spread through the snow.",
     "type": "Glyph",
     "imageName": "GlyphXmas2021Maggot.png",
     "category": "Glyphs",
