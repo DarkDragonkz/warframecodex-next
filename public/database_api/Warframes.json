@@ -15163,7 +15163,7 @@
         "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
         "additions": "",
         "changes": "*Similar to the Ember Pyraxis Attachments, the Revenant Mephisto Skin has a removable Syandana (more so a cape in this scenario) that can be equipped on either normal Revenant or Revenant Mephisto Skin. This Syandana is Exclusive to Revenant just as other Deluxe Skins attachments are exclusive to them. Please note that the “energy beard” on the original Revenant Helmet gets removed when the Mephisto Syandana is equipped due to excessive clipping. One could say we had to clip the beard.\nFor a long time now we’ve had a precedent with a handful of Warframe Skins where the “None” option for Attachments (and sometimes Syandanas) was removed if certain Skins, Primes, etc were equipped. This applied to Warframes such as Ember Prime/Pyraxis Skin, Frost, Mag Prime, Oberon, Volt, etc.\nWe now usher in a new “None” era! All Warframes and Warframe Skins that previously did not have the ‘None’ option will have a “None” Attachment or Syandana option, giving you even MORE customization flexibility. This means you can remove details such as any attachments on Ember Pyraxis, Mag Prime, the list goes on and on! In addition, Banshee, Frost and Oberon's default Shoulder Armor can now be equipped on Prime versions of the Warframe.",
-        "fixes": "Fixed Ember’s Immolation HUD meter not functioning after dying/Reviving until you Operator Transference. "
+        "fixes": "Fixed Ember’s Immolation HUD meter not functioning after dying/Reviving until you Operator Transference.��"
       },
       {
         "name": "Update 30.5: Sisters of Parvos",
@@ -32611,7 +32611,7 @@
         "url": "https://forums.warframe.com/topic/1332685-lua%E2%80%99s-prey-hotfix-3222/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed script error with Grendel���s Feast. "
+        "fixes": "Fixed script error with Grendel’s Feast. "
       },
       {
         "name": "Lua’s Prey: Hotfix 32.2.1",
@@ -40098,7 +40098,7 @@
         "url": "https://forums.warframe.com/topic/1172454-warframe-revised-update-2720/",
         "additions": "",
         "changes": "Hydroid: 200 to 225\nHydroid Prime: 250 to 275",
-        "fixes": "Fixed a map hole that was only accessible if you were in Hydroid’s Undertow. Like that one scene in X-Men when that one dude is disintegrated into water and slips off the table in a watery terrifying massacre…"
+        "fixes": "Fixed a map hole that was only accessible if you were in Hydroid���s Undertow. Like that one scene in X-Men when that one dude is disintegrated into water and slips off the table in a watery terrifying massacre…"
       },
       {
         "name": "Empyrean: Prime Vault 27.1.1",
@@ -59706,7 +59706,7 @@
         "date": "2016-01-13T22:55:58Z",
         "url": "https://forums.warframe.com/topic/594267-update-183/",
         "additions": "",
-        "changes": "Mag \nThe Scindo series, Gram, Galatine, Magistar, Fragor and Jat Kittag have had their damage and Stance damage increased in Conclave.\nFixed a bug preventing Mag’s Bullet Attractor Ability from pulling in projectiles as per:  https://forums.warframe.com/index.php?/topic/568459-u18-bug-report-megathread/page-34#entry6612761",
+        "changes": "Mag \nThe Scindo series, Gram, Galatine, Magistar, Fragor and Jat Kittag have had their damage and Stance damage increased in Conclave.\nFixed a bug preventing Mag��s Bullet Attractor Ability from pulling in projectiles as per:  https://forums.warframe.com/index.php?/topic/568459-u18-bug-report-megathread/page-34#entry6612761",
         "fixes": ""
       },
       {
@@ -89673,7 +89673,7 @@
         "date": "2018-10-12T13:56:43Z",
         "url": "https://forums.warframe.com/topic/1016610-chimera-update-2310/",
         "additions": "",
-        "changes": "Revenant’s Reave wall width is now affected by Range Mods.\nRevenant’s Reave now also sheds Status Effects on cast and applies them to targets it hits.\nFixed Revenant's Thralls not granting Affinity when killed. \nFixed Revenant’s Danse Macabre being able to damage Nullifier bubbles (and then killing the Nullifier).\nFixed enemies affected by Revenant’s Enthrall and then a Radiation Status Effect being able to enthrall the Defense target, preventing the wave from ever ending.\nFixed Revenant Reave not using Modded Health/Shield steal values.\nFixed Revenant’s Reave Abilities page not properly showing the Modded Health/Shield steal values.\nFixed Revenant’s Thrall death pillars blocking projectiles.\nFixed various Syandana clipping issues with Revenant.",
+        "changes": "Revenant’s Reave wall width is now affected by Range Mods.\nRevenant’s Reave now also sheds Status Effects on cast and applies them to targets it hits.\nFixed Revenant's Thralls not granting Affinity when killed. \nFixed Revenant’s Danse Macabre being able to damage Nullifier bubbles (and then killing the Nullifier).\nFixed enemies affected by Revenant���s Enthrall and then a Radiation Status Effect being able to enthrall the Defense target, preventing the wave from ever ending.\nFixed Revenant Reave not using Modded Health/Shield steal values.\nFixed Revenant’s Reave Abilities page not properly showing the Modded Health/Shield steal values.\nFixed Revenant’s Thrall death pillars blocking projectiles.\nFixed various Syandana clipping issues with Revenant.",
         "fixes": "Fixed Stalker and Zanuka unable to target players after being Enthralled by Revenant or Chaos'd by Nyx, even after Ability expires.\nFixed the Revenant Warframe Blueprint not appearing in the Codex as a reward under any Eidolon variant."
       },
       {
