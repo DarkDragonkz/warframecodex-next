@@ -15163,7 +15163,7 @@
         "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
         "additions": "",
         "changes": "*Similar to the Ember Pyraxis Attachments, the Revenant Mephisto Skin has a removable Syandana (more so a cape in this scenario) that can be equipped on either normal Revenant or Revenant Mephisto Skin. This Syandana is Exclusive to Revenant just as other Deluxe Skins attachments are exclusive to them. Please note that the “energy beard” on the original Revenant Helmet gets removed when the Mephisto Syandana is equipped due to excessive clipping. One could say we had to clip the beard.\nFor a long time now we’ve had a precedent with a handful of Warframe Skins where the “None” option for Attachments (and sometimes Syandanas) was removed if certain Skins, Primes, etc were equipped. This applied to Warframes such as Ember Prime/Pyraxis Skin, Frost, Mag Prime, Oberon, Volt, etc.\nWe now usher in a new “None” era! All Warframes and Warframe Skins that previously did not have the ‘None’ option will have a “None” Attachment or Syandana option, giving you even MORE customization flexibility. This means you can remove details such as any attachments on Ember Pyraxis, Mag Prime, the list goes on and on! In addition, Banshee, Frost and Oberon's default Shoulder Armor can now be equipped on Prime versions of the Warframe.",
-        "fixes": "Fixed Ember’s Immolation HUD meter not functioning after dying/Reviving until you Operator Transference. "
+        "fixes": "Fixed Ember’s Immolation HUD meter not functioning after dying/Reviving until you Operator Transference.��"
       },
       {
         "name": "Update 30.5: Sisters of Parvos",
@@ -82580,7 +82580,7 @@
         "date": "2015-02-05T21:08:01Z",
         "url": "https://forums.warframe.com/topic/396379-update-1513/",
         "additions": "Loot waypoints can now be set for Syndicate Medallions, Oberon Blueprints and Stalker weapon Blueprints.  These waypoint markers will be much clearer in what you’re alerting your squadmates of.",
-        "changes": "Oberon’s Hallowed Ground will no longer create a second AoE effect on a second cast when the Hallowed Eruption Mod is equipped.\nOberon’s Smite Infusion",
+        "changes": "Oberon’s Hallowed Ground will no longer create a second AoE effect on a second cast when the Hallowed Eruption Mod is equipped.\nOberon��s Smite Infusion",
         "fixes": "Fixed an issue caused by Oberon dying and respawning mid-duration of Hallowed Ground."
       },
       {
