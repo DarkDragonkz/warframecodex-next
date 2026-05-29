@@ -82580,7 +82580,7 @@
         "date": "2015-02-05T21:08:01Z",
         "url": "https://forums.warframe.com/topic/396379-update-1513/",
         "additions": "Loot waypoints can now be set for Syndicate Medallions, Oberon Blueprints and Stalker weapon Blueprints.  These waypoint markers will be much clearer in what you’re alerting your squadmates of.",
-        "changes": "Oberon’s Hallowed Ground will no longer create a second AoE effect on a second cast when the Hallowed Eruption Mod is equipped.\nOberon��s Smite Infusion",
+        "changes": "Oberon’s Hallowed Ground will no longer create a second AoE effect on a second cast when the Hallowed Eruption Mod is equipped.\nOberon’s Smite Infusion",
         "fixes": "Fixed an issue caused by Oberon dying and respawning mid-duration of Hallowed Ground."
       },
       {
@@ -85446,7 +85446,7 @@
         "url": "https://forums.warframe.com/topic/782477-octavias-anthem-hotfix-2009/",
         "additions": "",
         "changes": "Octavia'S Anthem: Hotfix 20.0.9:",
-        "fixes": "Fixed performance issues when Octavia's Resonator has a Mallet attached to it and teleports to get closer to her.\nFixed Nezha’s Warding Halo Augment applying to Octavia’s Mallet and Resonator.\nFixed the Hulta Leg Guards clipping through Octavia’s legs. "
+        "fixes": "Fixed performance issues when Octavia's Resonator has a Mallet attached to it and teleports to get closer to her.\nFixed Nezha’s Warding Halo Augment applying to Octavia���s Mallet and Resonator.\nFixed the Hulta Leg Guards clipping through Octavia’s legs. "
       },
       {
         "name": "Octavia's Anthem: Hotfix 20.0.8",
