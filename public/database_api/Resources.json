@@ -7368,7 +7368,7 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenPitcherPlantItem",
     "name": "Lunar Pitcher",
     "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
-    "itemCount": 50,
+    "itemCount": 6,
     "parents": [
       "Seeding Step Ephemera",
       "Twilight Apothic"

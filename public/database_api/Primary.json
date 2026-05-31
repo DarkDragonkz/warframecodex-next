@@ -58339,8 +58339,8 @@
         "status_chance": 16,
         "charge_time": 1.2,
         "shot_type": "Projectile",
-        "shot_speed": 60,
-        "flight": 60,
+        "shot_speed": 80,
+        "flight": 80,
         "damage": {
           "impact": 56
         }
@@ -77996,7 +77996,7 @@
         "date": "2016-05-27T21:20:29Z",
         "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
         "additions": "",
-        "changes": "•    Changed the Fatal Acceleration Mod to display a Drakgoon instead of a Tigris.",
+        "changes": "• ��  Changed the Fatal Acceleration Mod to display a Drakgoon instead of a Tigris.",
         "fixes": ""
       },
       {
