@@ -10969,6 +10969,7 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/DesertWind.png?78581",
     "wikiaUrl": "https://wiki.warframe.com/w/Desert_Wind",
     "introduced": {
       "name": "Update 24.2",
@@ -11165,6 +11166,7 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/DesertWind.png?78581",
     "wikiaUrl": "https://wiki.warframe.com/w/Desert_Wind_Prime",
     "introduced": {
       "name": "Hotfix 32.2.5",
@@ -12271,6 +12273,7 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Diwata.png?11963",
     "wikiaUrl": "https://wiki.warframe.com/w/Diwata",
     "introduced": {
       "name": "Update 23.0",
@@ -12475,6 +12478,7 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/DiwataPrime.png?5591d",
     "wikiaUrl": "https://wiki.warframe.com/w/Diwata_Prime",
     "introduced": {
       "name": "Hotfix 27.3.6",
@@ -27959,6 +27963,7 @@
       "Hextra Gyro",
       "Lehan Core",
       "Needlenose",
+      "Pax Bolt",
       "Rattleguts",
       "Tremor",
       "Zipfire",
@@ -56169,7 +56174,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishBPartItem",
     "name": "Karkina Antenna",
     "description": "Ground into a powder this substance can makes fires burn hotter for a brief amount of time.\n\nSource: Cut from Karkina fish via Fisher Hai-Luk in Cetus (Earth). Catch Karkina in the Plains of Eidolon ocean at any time of day using Twilight Bait. Also drops from Thumpers in the Plains of Eidolon.",
-    "itemCount": 3,
+    "itemCount": 20,
     "parents": [
       "Fosfor Blau",
       "Norg Bait",
@@ -57318,11 +57323,12 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishThermalLaserItem",
     "name": "Kriller Thermal Laser",
     "description": "A weapon that discharges lasers over short distances.\n\nSource: Dismantled from Kriller servofish via The Business in Fortuna (Venus). Catch Kriller in the Orb Vallis lake during Warm weather. Also drops from resource containers across the Orb Vallis.",
-    "itemCount": 5,
+    "itemCount": 10,
     "parents": [
       "Beaky",
       "Dink-A-Donk",
       "Gaze",
+      "Pax Soar",
       "Runway",
       "Slapneedle",
       "Swiftfire",
@@ -63281,6 +63287,7 @@
       "Kubrodon Ventkid Pauldrons",
       "Outrider Pauldrons",
       "Oxylus",
+      "Pax Charge",
       "Smelter Pauldrons",
       "Suo Brace",
       "Tazicor",
@@ -67678,6 +67685,7 @@
       "Kubrodon Ventkid Mask",
       "Outrider Cuirass",
       "Outrider Mask",
+      "Pax Soar",
       "Plaga Brace",
       "Smelter Apparel",
       "Smelter Cuirass",
@@ -68549,11 +68557,12 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishParralelBiodeItem",
     "name": "Mirewinder Parallel Biode",
     "description": "Controls the electrical flow throughout the circuitry within robotic organisms.\n\nSource: Dismantled from Mirewinder servofish via The Business in Fortuna (Venus). Catch Mirewinder in Orb Vallis caves during any weather. Also drops from resource containers across the Orb Vallis.",
-    "itemCount": 5,
+    "itemCount": 10,
     "parents": [
       "Bad Baby",
       "Bashrack",
       "Dorma Hound",
+      "Pax Charge",
       "Tyli Gyro"
     ],
     "type": "Fish Part",
@@ -80192,6 +80201,8 @@
       "Lega Prism",
       "Outrider Mask",
       "Outrider Pauldrons",
+      "Pax Bolt",
+      "Pax Charge",
       "Smelter Mask",
       "Smelter Pauldrons",
       "Vent Pobber Ventkid Mask",
@@ -87499,7 +87510,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishAPartItem",
     "name": "Sharrac Teeth",
     "description": "These will often adorn ceremonial garb or as a reagent for synthetics.\n\nSource: Cut from Sharrac fish via Fisher Hai-Luk in Cetus (Earth). Catch Sharrac in the Plains of Eidolon ocean at any time of day using Twilight Bait. Also drops from Thumpers in the Plains of Eidolon.",
-    "itemCount": 5,
+    "itemCount": 20,
     "parents": [
       "Ceno Pauldrons",
       "Fosfor Rahd",
@@ -98192,6 +98203,7 @@
       "Kubrodon Ventkid Mask",
       "Larkspur",
       "Outrider Mask",
+      "Pax Soar",
       "Smelter Mask",
       "Splat",
       "Vent Pobber Ventkid Mask",
@@ -100589,6 +100601,7 @@
       "Kubrodon Ventkid Greaves",
       "Nepheri",
       "Outrider Greaves",
+      "Pax Bolt",
       "Propa Scaffold",
       "Smelter Greaves",
       "Vent Pobber Ventkid Greaves",
@@ -103383,6 +103396,7 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ValkyrTalons.png?d8e5f",
     "wikiaUrl": "https://wiki.warframe.com/w/Valkyr_Prime_Talons",
     "introduced": {
       "name": "Update 23.0",
@@ -103542,6 +103556,7 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ValkyrTalons.png?d8e5f",
     "wikiaUrl": "https://wiki.warframe.com/w/Valkyr_Talons",
     "introduced": {
       "name": "Update 23.0",
@@ -104859,6 +104874,7 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/WhipclawIcon%28xWhite%29.png?4c89a",
     "wikiaUrl": "https://wiki.warframe.com/w/Whipclaw",
     "introduced": {
       "name": "Update 38.5",
@@ -104975,6 +104991,7 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/WhipclawIcon%28xWhite%29.png?4c89a",
     "wikiaUrl": "https://wiki.warframe.com/w/Whipclaw_Prime",
     "introduced": {
       "name": "Update 38.5",
