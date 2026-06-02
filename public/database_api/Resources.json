@@ -5549,7 +5549,6 @@
       "Hextra Gyro",
       "Lambeo Moa",
       "Nychus Moa",
-      "Pax Bolt",
       "Phazor Gyro",
       "Puppeteer",
       "Rattleguts",
@@ -7369,7 +7368,7 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenPitcherPlantItem",
     "name": "Lunar Pitcher",
     "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
-    "itemCount": 50,
+    "itemCount": 6,
     "parents": [
       "Seeding Step Ephemera",
       "Twilight Apothic"
@@ -7746,7 +7745,7 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
     "name": "Moonlight Dragonlily",
     "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
-    "itemCount": 10,
+    "itemCount": 6,
     "parents": [
       "Lapis Antitoxin",
       "Nightfall Apothic",
@@ -8334,7 +8333,6 @@
       "Kreska",
       "Munit Gyro",
       "Para Moa",
-      "Pax Charge",
       "Step Tens",
       "Thugs",
       "Twin Kavats"
@@ -11489,7 +11487,7 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
     "name": "Sunlight Dragonlily",
     "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
-    "itemCount": 10,
+    "itemCount": 4,
     "parents": [
       "Citrine Antitoxin",
       "Lapis Antitoxin",
@@ -11868,7 +11866,6 @@
       "Highbrow",
       "Hothead",
       "Jonsin Bracket",
-      "Pax Soar",
       "Tian Bracket",
       "Zip"
     ],
