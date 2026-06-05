@@ -86093,7 +86093,7 @@
         "url": "https://forums.warframe.com/topic/1272505-sisters-of-parvos-hotfix-3054/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed the Tenet Grigori’s disc not being destroyed on client. "
+        "fixes": "Fixed the Tenet Grigori���s disc not being destroyed on client. "
       }
     ],
     "wikiAvailable": true,
@@ -90792,7 +90792,7 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/NewWar/SentJointedScytheBlueprint",
         "name": "Blueprint",
-        "description": "Caliban���s signature scythe, forged from a limb wrenched off a fallen Eidolon centuries ago. 50% increased Melee Combo Counter Chance when wielded by Caliban.",
+        "description": "Caliban’s signature scythe, forged from a limb wrenched off a fallen Eidolon centuries ago. 50% increased Melee Combo Counter Chance when wielded by Caliban.",
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
