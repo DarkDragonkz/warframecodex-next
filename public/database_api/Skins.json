@@ -111670,7 +111670,7 @@
         "date": "2014-10-24T12:52:08Z",
         "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
         "additions": "",
-        "changes": "Tenno, with Archwing comes a whole new way to move, play and experience Warframe.  The Solar System��s vastness has much to be explored, and even more to be destroyed! Potentially lurking in the depths of space are the most feared enemy of all: BUGS. Only able to be destroyed upon being observed, this species thrives off going unreported.",
+        "changes": "Tenno, with Archwing comes a whole new way to move, play and experience Warframe.  The Solar System’s vastness has much to be explored, and even more to be destroyed! Potentially lurking in the depths of space are the most feared enemy of all: BUGS. Only able to be destroyed upon being observed, this species thrives off going unreported.",
         "fixes": ""
       },
       {
@@ -132414,7 +132414,6 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
         "name": "Star Amarast",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
-        "itemCount": 10,
         "buildPrice": 5000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -132442,6 +132441,7 @@
             "drops": []
           }
         ],
+        "itemCount": 10,
         "imageName": "SolarisRareGemACut.png",
         "tradable": false,
         "masterable": false,
