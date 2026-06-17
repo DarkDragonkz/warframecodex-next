@@ -5549,7 +5549,6 @@
       "Hextra Gyro",
       "Lambeo Moa",
       "Nychus Moa",
-      "Pax Bolt",
       "Phazor Gyro",
       "Puppeteer",
       "Rattleguts",
@@ -7369,7 +7368,7 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenPitcherPlantItem",
     "name": "Lunar Pitcher",
     "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
-    "itemCount": 6,
+    "itemCount": 50,
     "parents": [
       "Seeding Step Ephemera",
       "Twilight Apothic"
@@ -8334,7 +8333,6 @@
       "Kreska",
       "Munit Gyro",
       "Para Moa",
-      "Pax Charge",
       "Step Tens",
       "Thugs",
       "Twin Kavats"
@@ -11868,7 +11866,6 @@
       "Highbrow",
       "Hothead",
       "Jonsin Bracket",
-      "Pax Soar",
       "Tian Bracket",
       "Zip"
     ],
