@@ -5326,8 +5326,9 @@
     "wikiaUrl": "https://wiki.warframe.com/w/Nautilus%2FPrime",
     "releaseDate": "2024-08-21",
     "isPrime": true,
-    "vaulted": false,
-    "estimatedVaultDate": "2026-05-21",
+    "vaulted": true,
+    "vaultDate": "2026-06-17",
+    "estimatedVaultDate": "2026-06-17",
     "masterable": true
   },
   {

@@ -23997,7 +23997,7 @@
         "url": "https://forums.warframe.com/topic/289522-update-1420-avalanche-offensive/",
         "additions": "",
         "changes": "",
-        "fixes": "Update 14.2.0: Avalanche Offensive��Psa: The Launcher May Require You To Enter Your Windows Administrator Password To Update Your Firewall Rules.Avalanche Offensive Is On Until Monday @ 12 Noon Edt! Avalanche Offensivedefeat The Corpus Arctic Eximus!A Message From Cantis Of The Red Veil Resistance:Here'S What You'Ll Need To Dogo Forth And Take Down The Corpus Arctic Eximus, Tenno!Additions:Weapon Balance Changes:     • Grakata    • Castanas    • Ogris    • Torid    • Penta    • Lanka    • Vectis    • Vulkar    • Angstrum:    • Acrid:    • Attica:    • Spectra & Flux Rifle:    • Snipetron (+Vandal):    • Torid Changes:    • All Launchers:Key Hosting Improvements:Changes:Fixes:"
+        "fixes": "Update 14.2.0: Avalanche Offensive Psa: The Launcher May Require You To Enter Your Windows Administrator Password To Update Your Firewall Rules.Avalanche Offensive Is On Until Monday @ 12 Noon Edt! Avalanche Offensivedefeat The Corpus Arctic Eximus!A Message From Cantis Of The Red Veil Resistance:Here'S What You'Ll Need To Dogo Forth And Take Down The Corpus Arctic Eximus, Tenno!Additions:Weapon Balance Changes:     • Grakata    • Castanas    • Ogris    • Torid    • Penta    • Lanka    • Vectis    • Vulkar    • Angstrum:    • Acrid:    • Attica:    • Spectra & Flux Rifle:    • Snipetron (+Vandal):    • Torid Changes:    • All Launchers:Key Hosting Improvements:Changes:Fixes:"
       },
       {
         "name": "Hotfix 14.1.1",
@@ -30958,7 +30958,7 @@
         "date": "2020-03-05T15:32:32Z",
         "url": "https://forums.warframe.com/topic/1172454-warframe-revised-update-2720/",
         "additions": "Trading is an essential part of Warframe and we felt it important to inform players on how to proceed with trading in a safe manner. All players will be presented with the “Trading Policy” window when trading for the first time ever (Mastery Rank 2 players who have just unlocked trading), and for the first time since downloading the update. This applies to any instance of trading in the Dojo and in Maroo’s Bazaar. Once you’ve accepted the Policy you may access it from the “Trading Policy” button when trading if desired. ",
-        "changes": "Fixed Clients experiencing infinite loading when attempting to load into the Dojo from the Star Chart with the Host.\nFixed Railjack Configure UI screen overlapping with the Trading window when invited and accepting to trade in the Dojos. This also fixes being unable to accept invites while on the Intrinsics menu. \nFixed selecting the Companion loadout in the Railjack Arsenal starting from a black screen and moving to the Companion station in the Dojo. \nAdded a ‘Forge All’ button on the Payload screen in Dojos. (As mentioned in RJ Changes) \nOptimized lighting across many Dojo rooms.\nUpdated naming conventions for Dojo Decorations. For example: “Small Topiary Bush�� is now “Topiary Bush (Small)”. ",
+        "changes": "Fixed Clients experiencing infinite loading when attempting to load into the Dojo from the Star Chart with the Host.\nFixed Railjack Configure UI screen overlapping with the Trading window when invited and accepting to trade in the Dojos. This also fixes being unable to accept invites while on the Intrinsics menu. \nFixed selecting the Companion loadout in the Railjack Arsenal starting from a black screen and moving to the Companion station in the Dojo. \nAdded a ‘Forge All’ button on the Payload screen in Dojos. (As mentioned in RJ Changes) \nOptimized lighting across many Dojo rooms.\nUpdated naming conventions for Dojo Decorations. For example: “Small Topiary Bush” is now “Topiary Bush (Small)”. ",
         "fixes": "Fixed players in Towns, Relays and Dojos sometimes staying as blue Excalibur (loading) until they moved.\nFixed rooms in the Dojo showing as “Insufficient Space” despite not overlapping with the Observatory, even with larger amounts of space given. "
       },
       {
@@ -43682,6 +43682,78 @@
     "tradable": false,
     "drops": [
       {
+        "location": "Bladeswarm Basilisk",
+        "type": "Defensive Fire",
+        "chance": 0.15,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Bladeswarm Cannon Battery",
+        "type": "Defensive Fire",
+        "chance": 0.15,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Bladeswarm Crewship",
+        "type": "Defensive Fire",
+        "chance": 0.15,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Bladeswarm Dreg",
+        "type": "Defensive Fire",
+        "chance": 0.15,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Bladeswarm Gox",
+        "type": "Defensive Fire",
+        "chance": 0.15,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Bladeswarm Outrider",
+        "type": "Defensive Fire",
+        "chance": 0.15,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Bladeswarm Ramsled",
+        "type": "Defensive Fire",
+        "chance": 0.15,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Bladeswarm Weaver",
+        "type": "Defensive Fire",
+        "chance": 0.15,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Cannon Battery",
+        "type": "Defensive Fire",
+        "chance": 0.15,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Corpus Cargo Ship",
+        "type": "Defensive Fire",
+        "chance": 0.15,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Elite Bladeswarm Basilisk",
+        "type": "Defensive Fire",
+        "chance": 0.15,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Elite Bladeswarm Weaver",
+        "type": "Defensive Fire",
+        "chance": 0.15,
+        "rarity": "Rare"
+      },
+      {
         "location": "Orm Basilisk",
         "type": "Defensive Fire",
         "chance": 0.15,
@@ -43772,13 +43844,241 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Asteroid Raknoid",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bladeswarm Basilisk",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bladeswarm Cannon Battery",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bladeswarm Crewship",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bladeswarm Dreg",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bladeswarm Gox",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bladeswarm Outrider",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bladeswarm Ramsled",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bladeswarm Weaver",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bloodfrenzy Dreg",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bloodfrenzy Elite Outrider",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bloodfrenzy Exo Cutter",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bloodfrenzy Gox",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bloodfrenzy Harpi",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bloodfrenzy Orm Gox",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bloodfrenzy Raptor",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bloodfrenzy Trencher",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Cannon Battery",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Corpus Cargo Ship",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Corpus Mining Turret",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Corpus Ramsled",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Dreg",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Bladeswarm Basilisk",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Bladeswarm Weaver",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Exo Cutter",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Exo Flak",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Exo Taktis",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Orm Harpi",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Orm Weaver",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Exo Carabus",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Exo Cutter",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Exo Flak",
         "type": "Fire Suppression",
         "chance": 3.79,
         "rarity": "Uncommon"
       },
       {
+        "location": "Exo Outrider",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Hellion Dargyn",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Kosma Ramsled",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Orm Basilisk",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Orm Harpi",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Orm Ranger",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Orm Weaver",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Taro Crewship",
         "type": "Fire Suppression",
         "chance": 3.79,
         "rarity": "Uncommon"
@@ -57326,6 +57626,14 @@
     "imageName": "GrokdrulContainer.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Surah",
+        "type": "Grokdrul Drum Decoration",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
@@ -68990,6 +69298,14 @@
     "imageName": "IraditeContainer.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Surah",
+        "type": "Iradite Formation Decoration",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
@@ -73891,7 +74207,7 @@
         "date": "2021-07-06T15:02:10Z",
         "url": "https://forums.warframe.com/topic/1269749-update-305-sisters-of-parvos/",
         "additions": "",
-        "changes": "Your Sister then begins her reign over the Star Chat by influencing nodes as her own, but she won’t let you walk into her Sector easily. To help with matchmaking, we have made influence nodes consistent across all Lich and Sister levels. Venus is where Sisters of Parvos start at Rank 1! Once in an influenced node, the Sister’s Hound is released! While these Hounds pose a much harder battle than Kuva Lich Thralls, the Murmur progress is significantly greater. In addition, Hound Mercy Kills can award you Requiem Relics! As a typical Corpus, your Sister will steal any earned Credits from the mission.\nLich Kills Player\nOn Kill:\nOn Headshot Kill:\nOn Melee Kill: \nOn Kill:\nOn Headshot Kill:\nOn Melee Kill: \nOn Melee Kill:\nAdds a more defined ramp up using ‘On Kill’ instead of On Crit (which frequently meant 0 to ‘Max’ in one swing hitting 3 enemies). \nKilling Blow",
+        "changes": "Your Sister then begins her reign over the Star Chat by influencing nodes as her own, but she won’t let you walk into her Sector easily. To help with matchmaking, we have made influence nodes consistent across all Lich and Sister levels. Venus is where Sisters of Parvos start at Rank 1! Once in an influenced node, the Sister’s Hound is released! While these Hounds pose a much harder battle than Kuva Lich Thralls, the Murmur progress is significantly greater. In addition, Hound Mercy Kills can award you Requiem Relics! As a typical Corpus, your Sister will steal any earned Credits from the mission.\nLich Kills Player\nOn Kill:\nOn Headshot Kill:\nOn Melee Kill:��\nOn Kill:\nOn Headshot Kill:\nOn Melee Kill: \nOn Melee Kill:\nAdds a more defined ramp up using ‘On Kill’ instead of On Crit (which frequently meant 0 to ‘Max’ in one swing hitting 3 enemies). \nKilling Blow",
         "fixes": ""
       },
       {
@@ -75551,6 +75867,318 @@
         "tradable": false,
         "drops": [
           {
+            "location": "Ancient Maggot",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Ancient Protector",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Ancient Undying Flyer",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bladeswarm Bailiff",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bladeswarm Derivator",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bladeswarm Eviscerator",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bladeswarm Power Carrier",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bladeswarm Roller Sentry",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bladeswarm Scrambus",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bladeswarm Shield Osprey",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bladeswarm Sniper Crewman",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Bailiff",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Crewman",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Expired",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Hyena",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Machinist",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Optio",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Powerclaw",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Trencher",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Vertec",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Brood Mother",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Deimos Leaper",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Electric Crawler",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Elite Bursa",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Butcher",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Elite Lancer",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Eviscerator",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Gokstad Officer",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Raider Carver",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Raider Eviscerator",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Raider",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Roller Sentry",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Juggernaut",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Leaper",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Mine Osprey",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Nauseous Crawler",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Orm Crewman",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Orm Detron Crewman",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Orm Nemes",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Orm Nullifier Crewman",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Orm Railgun Moa",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Orm Shield Osprey",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Orm Stropha Crewman",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Orm Tech",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Ratel",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Ryoku Shadow Clone Master",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Scavenger Drone",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Swarm Mutalist Moa",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Tar Mutalist Moa",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Toxic Crawler",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Sister",
+            "type": "Tellurium",
+            "chance": 0.18,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Deimos Saxum Rex",
+            "type": "Tellurium",
+            "chance": 0.18,
+            "rarity": "Rare"
+          },
+          {
             "location": "Exo Butcher",
             "type": "Tellurium",
             "chance": 0.18,
@@ -75728,6 +76356,36 @@
             "location": "Kosma Supressor",
             "type": "Tellurium",
             "chance": 0.18,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Mawbound Director",
+            "type": "Tellurium",
+            "chance": 0.18,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Ravenous Golden Maw",
+            "type": "Tellurium",
+            "chance": 0.18,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Ryoku",
+            "type": "Tellurium",
+            "chance": 0.18,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Vena",
+            "type": "Tellurium",
+            "chance": 0.18,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Comet Shredder Captain",
+            "type": "Tellurium",
+            "chance": 0.51,
             "rarity": "Rare"
           },
           {
@@ -97260,6 +97918,14 @@
     "imageName": "NistlepodContainer.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Surah",
+        "type": "Nistlebrush Decoration",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
@@ -111670,7 +112336,7 @@
         "date": "2014-10-24T12:52:08Z",
         "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
         "additions": "",
-        "changes": "Tenno, with Archwing comes a whole new way to move, play and experience Warframe.  The Solar System��s vastness has much to be explored, and even more to be destroyed! Potentially lurking in the depths of space are the most feared enemy of all: BUGS. Only able to be destroyed upon being observed, this species thrives off going unreported.",
+        "changes": "Tenno, with Archwing comes a whole new way to move, play and experience Warframe.  The Solar System’s vastness has much to be explored, and even more to be destroyed! Potentially lurking in the depths of space are the most feared enemy of all: BUGS. Only able to be destroyed upon being observed, this species thrives off going unreported.",
         "fixes": ""
       },
       {
@@ -112089,6 +112755,26 @@
     "imageName": "ColorPickerStardust.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Uranus/The Kuva Wytch (Skirmish)",
+        "type": "Pride Blueprint",
+        "chance": 14.29,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Uranus/The Kuva Wytch (Skirmish)",
+        "type": "Pride Blade Blueprint",
+        "chance": 14.29,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Uranus/The Kuva Wytch (Skirmish)",
+        "type": "Pride Handle Blueprint",
+        "chance": 14.29,
+        "rarity": "Uncommon"
+      }
+    ],
     "patchlogs": [
       {
         "name": "Veilbreaker: Update 32",
@@ -130019,7 +130705,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Sister Of Parvos (Ascension Hard Mode)",
+        "location": "Sister Of Parvos (Ascension Mode Steel Path)",
         "type": "Arcane Ice Storm",
         "chance": 20,
         "rarity": "Uncommon"
@@ -132414,7 +133100,6 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
         "name": "Star Amarast",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
-        "itemCount": 10,
         "buildPrice": 5000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -132442,6 +133127,7 @@
             "drops": []
           }
         ],
+        "itemCount": 10,
         "imageName": "SolarisRareGemACut.png",
         "tradable": false,
         "masterable": false,
@@ -138163,6 +138849,14 @@
     "imageName": "VenusTreeContainer.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Solaris United (Smokefinger), Cove",
+        "type": "Tepa Decoration",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
@@ -139659,6 +140353,14 @@
     "imageName": "CoolantContainer.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "Solaris United (Smokefinger), Cove",
+        "type": "Thermal Sludge Cannister Decoration",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
@@ -149794,6 +150496,318 @@
         "tradable": false,
         "drops": [
           {
+            "location": "Ancient Maggot",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Ancient Protector",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Ancient Undying Flyer",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bladeswarm Bailiff",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bladeswarm Derivator",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bladeswarm Eviscerator",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bladeswarm Power Carrier",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bladeswarm Roller Sentry",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bladeswarm Scrambus",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bladeswarm Shield Osprey",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bladeswarm Sniper Crewman",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Bailiff",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Crewman",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Expired",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Hyena",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Machinist",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Optio",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Powerclaw",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Trencher",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Vertec",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Brood Mother",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Deimos Leaper",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Electric Crawler",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Elite Bursa",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Butcher",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Elite Lancer",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Eviscerator",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Gokstad Officer",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Raider Carver",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Raider Eviscerator",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Raider",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Roller Sentry",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Juggernaut",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Leaper",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Mine Osprey",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Nauseous Crawler",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Orm Crewman",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Orm Detron Crewman",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Orm Nemes",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Orm Nullifier Crewman",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Orm Railgun Moa",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Orm Shield Osprey",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Orm Stropha Crewman",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Orm Tech",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Ratel",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Ryoku Shadow Clone Master",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Scavenger Drone",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Swarm Mutalist Moa",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Tar Mutalist Moa",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Toxic Crawler",
+            "type": "Tellurium",
+            "chance": 0.03,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Bloodfrenzy Sister",
+            "type": "Tellurium",
+            "chance": 0.18,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Deimos Saxum Rex",
+            "type": "Tellurium",
+            "chance": 0.18,
+            "rarity": "Rare"
+          },
+          {
             "location": "Exo Butcher",
             "type": "Tellurium",
             "chance": 0.18,
@@ -149971,6 +150985,36 @@
             "location": "Kosma Supressor",
             "type": "Tellurium",
             "chance": 0.18,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Mawbound Director",
+            "type": "Tellurium",
+            "chance": 0.18,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Ravenous Golden Maw",
+            "type": "Tellurium",
+            "chance": 0.18,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Ryoku",
+            "type": "Tellurium",
+            "chance": 0.18,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Vena",
+            "type": "Tellurium",
+            "chance": 0.18,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Comet Shredder Captain",
+            "type": "Tellurium",
+            "chance": 0.51,
             "rarity": "Rare"
           },
           {
@@ -159305,6 +160349,14 @@
     "imageName": "ZARxFlowerBouquetC.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Flowers",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
@@ -160189,6 +161241,14 @@
     "imageName": "ZARxPrpPlanterClipOnLargeA.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Planter (Hanging)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
@@ -160199,6 +161259,14 @@
     "imageName": "ZARxPrpPlanterMedC.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Planter (High-Rise, Small)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
@@ -160209,6 +161277,14 @@
     "imageName": "ZARxPrpPlanterTroughStraight.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Planter (Straight)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
@@ -160219,6 +161295,14 @@
     "imageName": "ZARxPrpPlanterWallMountedA.png",
     "category": "Skins",
     "tradable": false,
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Planter (Wall Mounted)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "masterable": false
   },
   {
