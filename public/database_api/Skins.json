@@ -74207,7 +74207,7 @@
         "date": "2021-07-06T15:02:10Z",
         "url": "https://forums.warframe.com/topic/1269749-update-305-sisters-of-parvos/",
         "additions": "",
-        "changes": "Your Sister then begins her reign over the Star Chat by influencing nodes as her own, but she won’t let you walk into her Sector easily. To help with matchmaking, we have made influence nodes consistent across all Lich and Sister levels. Venus is where Sisters of Parvos start at Rank 1! Once in an influenced node, the Sister’s Hound is released! While these Hounds pose a much harder battle than Kuva Lich Thralls, the Murmur progress is significantly greater. In addition, Hound Mercy Kills can award you Requiem Relics! As a typical Corpus, your Sister will steal any earned Credits from the mission.\nLich Kills Player\nOn Kill:\nOn Headshot Kill:\nOn Melee Kill:��\nOn Kill:\nOn Headshot Kill:\nOn Melee Kill: \nOn Melee Kill:\nAdds a more defined ramp up using ‘On Kill’ instead of On Crit (which frequently meant 0 to ‘Max’ in one swing hitting 3 enemies). \nKilling Blow",
+        "changes": "Your Sister then begins her reign over the Star Chat by influencing nodes as her own, but she won’t let you walk into her Sector easily. To help with matchmaking, we have made influence nodes consistent across all Lich and Sister levels. Venus is where Sisters of Parvos start at Rank 1! Once in an influenced node, the Sister’s Hound is released! While these Hounds pose a much harder battle than Kuva Lich Thralls, the Murmur progress is significantly greater. In addition, Hound Mercy Kills can award you Requiem Relics! As a typical Corpus, your Sister will steal any earned Credits from the mission.\nLich Kills Player\nOn Kill:\nOn Headshot Kill:\nOn Melee Kill: \nOn Kill:\nOn Headshot Kill:\nOn Melee Kill: \nOn Melee Kill:\nAdds a more defined ramp up using ‘On Kill’ instead of On Crit (which frequently meant 0 to ‘Max’ in one swing hitting 3 enemies). \nKilling Blow",
         "fixes": ""
       },
       {
@@ -133100,6 +133100,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
         "name": "Star Amarast",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 10,
         "buildPrice": 5000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -133127,7 +133128,6 @@
             "drops": []
           }
         ],
-        "itemCount": 10,
         "imageName": "SolarisRareGemACut.png",
         "tradable": false,
         "masterable": false,

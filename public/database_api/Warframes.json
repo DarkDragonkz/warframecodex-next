@@ -5337,7 +5337,7 @@
         "date": "2018-03-01T18:20:15Z",
         "url": "https://forums.warframe.com/topic/928296-shrine-of-the-eidolon-update-22140/",
         "additions": "",
-        "changes": "Fixed Atlas��� Rubble not having any physics, which resulted in Rubble floating in the air if that Petrified enemy died there.\nFixed ‘ARMOR’ not being localized in Atlas’ custom HUD.",
+        "changes": "Fixed Atlas’ Rubble not having any physics, which resulted in Rubble floating in the air if that Petrified enemy died there.\nFixed ‘ARMOR’ not being localized in Atlas’ custom HUD.",
         "fixes": ""
       },
       {
@@ -118260,7 +118260,7 @@
         "url": "https://forums.warframe.com/topic/1207002-the-steel-path-inaros-prime-2820-28201/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed hearing Client Wukong Iron Staff FX sounds when the Wukong is far enough that you shouldn't hear it.\nFixed Meso K3 Uncommon tier rewarding ‘Wukong Prime Chassis’ instead of the intentional ‘Wukong Prime Chassis Blueprint’."
+        "fixes": "Fixed hearing Client Wukong Iron Staff FX sounds when the Wukong is far enough that you shouldn't hear it.\nFixed Meso K3 Uncommon tier rewarding ‘Wukong Prime Chassis�� instead of the intentional ‘Wukong Prime Chassis Blueprint’."
       },
       {
         "name": "The Steel Path: Update 28.1.0",
