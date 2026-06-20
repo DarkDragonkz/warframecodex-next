@@ -39441,7 +39441,7 @@
         "date": "2020-02-04T18:58:30Z",
         "url": "https://forums.warframe.com/topic/1166021-empyrean-kuva-lich-changes-2710-27101/",
         "additions": "",
-        "changes": "Fixed Lich ‘Ruse’ clones displaying the default Excalibur Helmet on their shoulder instead of the same Warframe Helmet as their owner. ",
+        "changes": "Fixed Lich ���Ruse’ clones displaying the default Excalibur Helmet on their shoulder instead of the same Warframe Helmet as their owner. ",
         "fixes": ""
       },
       {
@@ -76870,7 +76870,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/PaxDuviricus/KullervoDeluxeBodyBlades",
     "name": "Kullervo Apostate Baneful Blades",
-    "description": "Kullervo Apostate’s signature adornment.",
+    "description": "Kullervo Apostate��s signature adornment.",
     "type": "Skin",
     "imageName": "KullervoDeluxeSkin.png",
     "category": "Skins",
