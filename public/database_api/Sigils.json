@@ -4705,7 +4705,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/InfLichVanquishedSigil",
     "name": "Vanquished Coda Sigil",
-    "description": "The show’s over. This sigil marks the end of a Technocyte Coda’s career of music and mayhem.",
+    "description": "The show's over. This sigil marks the end of a Technocyte Coda's career of music and mayhem.",
     "type": "Sigil",
     "imageName": "VanquishedSigil.png",
     "category": "Sigils",
@@ -4728,7 +4728,7 @@
     "excludeFromCodex": true,
     "description": "A sigil that celebrates Vauban’s ingenuity.",
     "type": "Sigil",
-    "imageName": "VaubanSigil.png",
+    "imageName": "HeirloomVaubanSigilSumo.png",
     "category": "Sigils",
     "tradable": false,
     "masterable": false
@@ -4738,7 +4738,7 @@
     "name": "Vauban Heirloom Sigil",
     "description": "A sigil that celebrates Vauban's legacy.",
     "type": "Sigil",
-    "imageName": "VaubanHeirloomSigil.png",
+    "imageName": "HeirloomVaubanSigil.png",
     "category": "Sigils",
     "tradable": false,
     "masterable": false

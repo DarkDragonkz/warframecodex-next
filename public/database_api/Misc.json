@@ -6285,6 +6285,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Secondary/BallisticaIncarnonUnlocker",
+    "name": "Ballistica Incarnon Genesis",
+    "description": "Awaken this weapon's ability to fire cross-shaped projectiles high in <DT_SLASH_COLOR> Slash Damage in Incarnon Form.",
+    "excludeFromCodex": true,
+    "type": "Equipment Adapter",
+    "imageName": "BallisticaIncarnonAdapter.png",
+    "category": "Misc",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "name": "Bashrack",
     "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Clip/SUModularCritICapIClipPart",
     "damagePerShot": [
@@ -7633,7 +7644,7 @@
     "fireRate": 0,
     "masteryReq": 0,
     "productCategory": "Pistols",
-    "omegaAttenuation": 0.69999999,
+    "omegaAttenuation": 0.75,
     "primeOmegaAttenuation": 1.1,
     "buildPrice": 5000,
     "buildTime": 3600,
@@ -7846,6 +7857,18 @@
     "description": "For saving a specimen of this species.",
     "type": "Conservation Tag",
     "imageName": "AnimalTagInfestedMaggotRare.png",
+    "category": "Misc",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/SongItems/CelestialClashSongItem",
+    "name": "Celestial Clash",
+    "description": "Jade Shadows: Constellations music to enjoy from the Somachord in your Orbiter.",
+    "excludeFromCodex": true,
+    "showInInventory": false,
+    "type": "Misc",
+    "imageName": "CelestialClashSongItemStoreIcon.png",
     "category": "Misc",
     "tradable": false,
     "masterable": false
@@ -11190,6 +11213,17 @@
     "excludeFromCodex": true,
     "type": "Equipment Adapter",
     "imageName": "DespairIncarnonAdapter.png",
+    "category": "Misc",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Melee/DestrezaIncarnonUnlocker",
+    "name": "Destreza Incarnon Genesis",
+    "description": "Awaken this weapon's ability to summon ghostly rapiers that fly forth upon Heavy Attacks, while Heavy Attack kills grant <DT_PUNCTURE_COLOR> Puncture Damage in Incarnon Form.",
+    "excludeFromCodex": true,
+    "type": "Equipment Adapter",
+    "imageName": "DestrezaIncarnonAdapter.png",
     "category": "Misc",
     "tradable": false,
     "masterable": false
@@ -27963,7 +27997,6 @@
       "Hextra Gyro",
       "Lehan Core",
       "Needlenose",
-      "Pax Bolt",
       "Rattleguts",
       "Tremor",
       "Zipfire",
@@ -42545,6 +42578,7 @@
       "naramon"
     ],
     "tags": [
+      "Tenno",
       "Prime"
     ],
     "stancePolarity": "madurai",
@@ -57493,12 +57527,11 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishThermalLaserItem",
     "name": "Kriller Thermal Laser",
     "description": "A weapon that discharges lasers over short distances.\n\nSource: Dismantled from Kriller servofish via The Business in Fortuna (Venus). Catch Kriller in the Orb Vallis lake during Warm weather. Also drops from resource containers across the Orb Vallis.",
-    "itemCount": 10,
+    "itemCount": 5,
     "parents": [
       "Beaky",
       "Dink-A-Donk",
       "Gaze",
-      "Pax Soar",
       "Runway",
       "Slapneedle",
       "Swiftfire",
@@ -59220,7 +59253,7 @@
         "url": "https://forums.warframe.com/topic/897989-plains-of-eidolon-update-2280-hotfix-22801/",
         "additions": "",
         "changes": "",
-        "fixes": "Kuva Fortress Vignette\nFixed Nova being able to Worm Hole her way out of the Kuva Fortress tileset on Dakata.��"
+        "fixes": "Kuva Fortress Vignette\nFixed Nova being able to Worm Hole her way out of the Kuva Fortress tileset on Dakata. "
       },
       {
         "name": "Plains of Eidolon: Hotfix 22.6.1",
@@ -61521,6 +61554,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/PhotoBooth/JadeShadows/PhotoboothTileJS2GarShipInterior",
+    "name": "Kuva Wytch Scene",
+    "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+    "excludeFromCodex": true,
+    "type": "Captura",
+    "imageName": "JS2GarShipInterior.png",
+    "category": "Misc",
+    "tradable": true,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceCathedral1799ProtoframeRoom",
     "name": "La Cathédrale Scene",
     "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
@@ -61823,7 +61867,8 @@
       "madurai"
     ],
     "tags": [
-      "Tenno"
+      "Tenno",
+      "Prime"
     ],
     "stancePolarity": "zenurik",
     "wikiaThumbnail": "https://wiki.warframe.com/images/Landslide130%28xWhite%29.png?8bc68",
@@ -63457,7 +63502,6 @@
       "Kubrodon Ventkid Pauldrons",
       "Outrider Pauldrons",
       "Oxylus",
-      "Pax Charge",
       "Smelter Pauldrons",
       "Suo Brace",
       "Tazicor",
@@ -67855,7 +67899,6 @@
       "Kubrodon Ventkid Mask",
       "Outrider Cuirass",
       "Outrider Mask",
-      "Pax Soar",
       "Plaga Brace",
       "Smelter Apparel",
       "Smelter Cuirass",
@@ -68727,12 +68770,11 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishParralelBiodeItem",
     "name": "Mirewinder Parallel Biode",
     "description": "Controls the electrical flow throughout the circuitry within robotic organisms.\n\nSource: Dismantled from Mirewinder servofish via The Business in Fortuna (Venus). Catch Mirewinder in Orb Vallis caves during any weather. Also drops from resource containers across the Orb Vallis.",
-    "itemCount": 10,
+    "itemCount": 5,
     "parents": [
       "Bad Baby",
       "Bashrack",
       "Dorma Hound",
-      "Pax Charge",
       "Tyli Gyro"
     ],
     "type": "Fish Part",
@@ -73595,6 +73637,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Melee/ObexIncarnonUnlocker",
+    "name": "Obex Incarnon Genesis",
+    "description": "Awaken this weapon's ability to perform a large radial attack for each Finisher hit in Incarnon Form.",
+    "excludeFromCodex": true,
+    "type": "Equipment Adapter",
+    "imageName": "ObexIncarnonAdapter.png",
+    "category": "Misc",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/SongItems/OctaviaPrimeSongItem",
     "name": "Octavia Prime Theme",
     "description": "Octavia Prime's signature theme music to enjoy from the Somachord in your Orbiter.",
@@ -75906,6 +75959,7 @@
     "parents": [
       "<Archwing> Odonata Prime",
       "Acceltra Prime",
+      "Afentis Prime",
       "Afuris",
       "Akbolto",
       "Akbronco",
@@ -75949,6 +76003,7 @@
       "Ash Prime",
       "Astilla Prime",
       "Athodai",
+      "Athodai Prime",
       "Atlas",
       "Atlas Prime",
       "Atlas Shikoro Helmet",
@@ -76163,6 +76218,7 @@
       "Sicarus Prime",
       "Silva & Aegis Prime",
       "Simulor",
+      "Sirius & Orion",
       "Skiajati",
       "Smoking Body Ephemera",
       "Soma Forest-Camo Skin",
@@ -76171,6 +76227,7 @@
       "Stradavar Prime",
       "Strun Prime",
       "Styanax",
+      "Styanax Prime",
       "Styanax Synmora Helmet",
       "Sybaris Prime",
       "Tantu Sugatra",
@@ -79590,6 +79647,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/PhotoBooth/JadeShadows/PhotoboothTileJS2Hub",
+    "name": "Pontis Tower Scene",
+    "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+    "excludeFromCodex": true,
+    "type": "Captura",
+    "imageName": "JS2Hub.png",
+    "category": "Misc",
+    "tradable": true,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/Railjack/RailjackNacelleLeftFeatureItem",
     "name": "Port Nacelle",
     "description": "",
@@ -80371,8 +80439,6 @@
       "Lega Prism",
       "Outrider Mask",
       "Outrider Pauldrons",
-      "Pax Bolt",
-      "Pax Charge",
       "Smelter Mask",
       "Smelter Pauldrons",
       "Vent Pobber Ventkid Mask",
@@ -84223,6 +84289,18 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/SongItems/SacredLightSongItem",
+    "name": "Sacred Light",
+    "description": "Jade Shadows: Constellations music to enjoy from the Somachord in your Orbiter.",
+    "excludeFromCodex": true,
+    "showInInventory": false,
+    "type": "Misc",
+    "imageName": "SacredLightSongItemStoreIcon.png",
+    "category": "Misc",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
     "name": "Salvage",
     "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
@@ -86605,6 +86683,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/PhotoBooth/JadeShadows/PhotoboothTileJS2AshShipInterior",
+    "name": "Scoria's Angel Scene",
+    "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+    "excludeFromCodex": true,
+    "type": "Captura",
+    "imageName": "JS2AshShipInterior.png",
+    "category": "Misc",
+    "tradable": true,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
     "name": "Scrap",
     "description": "A sample of sprockets, gyros and wires.\n\nSource: Dismantled from all Orb Vallis servofish via The Business in Fortuna (Venus).",
@@ -87668,7 +87757,8 @@
       "madurai"
     ],
     "tags": [
-      "Tenno"
+      "Tenno",
+      "Prime"
     ],
     "stancePolarity": "zenurik",
     "wikiaThumbnail": "https://wiki.warframe.com/images/BladeStorm130%28xWhite%29.png?b11c5",
@@ -87984,7 +88074,8 @@
       "madurai"
     ],
     "tags": [
-      "Tenno"
+      "Tenno",
+      "Prime"
     ],
     "stancePolarity": "zenurik",
     "wikiaThumbnail": "https://wiki.warframe.com/images/ShatteredLash130%28xWhite%29.png?aa5a1",
@@ -98201,6 +98292,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Secondary/StugIncarnonUnlocker",
+    "name": "Stug Incarnon Genesis",
+    "description": "Awaken this weapon's ability to unleash a chaotic maelstrom of bouncing corrosive blobs in Incarnon Form.",
+    "excludeFromCodex": true,
+    "type": "Equipment Adapter",
+    "imageName": "StugIncarnonAdapter.png",
+    "category": "Misc",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/Solaris/AnimalTagPobbersRare",
     "name": "Subterranean Pobber Tag",
     "description": "For saving a specimen of this subspecies.",
@@ -98577,7 +98679,6 @@
       "Kubrodon Ventkid Mask",
       "Larkspur",
       "Outrider Mask",
-      "Pax Soar",
       "Smelter Mask",
       "Splat",
       "Vent Pobber Ventkid Mask",
@@ -99759,18 +99860,6 @@
     "imageName": "IntFailureMITW.png",
     "category": "Misc",
     "tradable": true,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/SongItems/TheAwakeningSongItem",
-    "name": "The Awakening",
-    "description": "",
-    "excludeFromCodex": true,
-    "showInInventory": false,
-    "type": "Misc",
-    "imageName": "AwakeningSongItemStoreIcon.png",
-    "category": "Misc",
-    "tradable": false,
     "masterable": false
   },
   {
@@ -101317,7 +101406,6 @@
       "Kubrodon Ventkid Greaves",
       "Nepheri",
       "Outrider Greaves",
-      "Pax Bolt",
       "Propa Scaffold",
       "Smelter Greaves",
       "Vent Pobber Ventkid Greaves",
@@ -104542,6 +104630,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Primary/VectisIncarnonUnlocker",
+    "name": "Vectis Incarnon Genesis",
+    "description": "Awaken this weapon's ability to fire slowing projectiles that explode upon headshots in Incarnon Form. Transforms on Alt Fire while unscoped.",
+    "excludeFromCodex": true,
+    "type": "Equipment Adapter",
+    "imageName": "VectisIncarnonAdapter.png",
+    "category": "Misc",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/MiscItems/LibraryScannerScanSpeedUpgrade",
     "name": "Vector-Thread Widget",
     "description": "Reduces the time required to scan a target with the Synthesis Scanner.",
@@ -105704,7 +105803,8 @@
       "vazarin"
     ],
     "tags": [
-      "Tenno"
+      "Tenno",
+      "Prime"
     ],
     "stancePolarity": "zenurik",
     "wikiaThumbnail": "https://wiki.warframe.com/images/WhipclawIcon%28xWhite%29.png?4c89a",
@@ -106297,6 +106397,17 @@
     "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
     "type": "Captura",
     "imageName": "YareliPrimeEndPose.png",
+    "category": "Misc",
+    "tradable": true,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/SongItems/YareliPrimeSongItem",
+    "name": "Yareli Prime Theme \"Waverider\"",
+    "description": "Yareli Prime Theme 'Waverider'",
+    "showInInventory": false,
+    "type": "Misc",
+    "imageName": "YareliPrimeSongItemStoreIcon.png",
     "category": "Misc",
     "tradable": true,
     "masterable": false

@@ -224,8 +224,8 @@
         "shot_speed": 60,
         "flight": 60,
         "damage": {
-          "impact": 14.9,
-          "slash": 119.2,
+          "impact": 29.8,
+          "slash": 104.3,
           "puncture": 14.9
         }
       },
@@ -3067,7 +3067,7 @@
     "masteryReq": 0,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 1.05,
+    "omegaAttenuation": 1.1,
     "blockingAngle": 55,
     "comboDuration": 5,
     "followThrough": 0.69999999,
@@ -12375,6 +12375,7 @@
       "Infested"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/CodaCaustacyst.png?f76ee",
     "wikiaUrl": "https://wiki.warframe.com/w/Coda_Caustacyst",
     "introduced": {
       "name": "Update 38.5",
@@ -12571,7 +12572,7 @@
     "masteryReq": 17,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.69999999,
+    "omegaAttenuation": 0.75,
     "maxLevelCap": 40,
     "blockingAngle": 55,
     "comboDuration": 5,
@@ -12720,7 +12721,7 @@
     "masteryReq": 17,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.75,
+    "omegaAttenuation": 0.80000001,
     "maxLevelCap": 40,
     "blockingAngle": 50,
     "comboDuration": 5,
@@ -12832,7 +12833,7 @@
       "parent": "38.0",
       "date": "2025-03-19"
     },
-    "disposition": 1,
+    "disposition": 2,
     "releaseDate": "2025-03-19",
     "isPrime": false,
     "masterable": true
@@ -13119,7 +13120,7 @@
     "masteryReq": 8,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 1,
+    "omegaAttenuation": 1.05,
     "blockingAngle": 65,
     "comboDuration": 5,
     "followThrough": 0.40000001,
@@ -23191,7 +23192,7 @@
     "masteryReq": 0,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 1.1,
+    "omegaAttenuation": 1.15,
     "blockingAngle": 55,
     "comboDuration": 5,
     "followThrough": 0.60000002,
@@ -23395,7 +23396,7 @@
       "parent": "33.0",
       "date": "2023-04-26"
     },
-    "disposition": 3,
+    "disposition": 4,
     "releaseDate": "2023-04-26",
     "isPrime": false,
     "masterable": true
@@ -31615,7 +31616,7 @@
     "masteryReq": 14,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.64999998,
+    "omegaAttenuation": 0.80000001,
     "blockingAngle": 60,
     "comboDuration": 5,
     "followThrough": 0.60000002,
@@ -31848,7 +31849,7 @@
       "parent": "41.0",
       "date": "2025-12-10"
     },
-    "disposition": 1,
+    "disposition": 2,
     "releaseDate": "2025-12-10",
     "isPrime": false,
     "vaulted": false,
@@ -41256,7 +41257,7 @@
     "masteryReq": 12,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 1,
+    "omegaAttenuation": 1.05,
     "blockingAngle": 65,
     "comboDuration": 5,
     "followThrough": 0.40000001,
@@ -45887,7 +45888,7 @@
     "masteryReq": 11,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.75,
     "blockingAngle": 55,
     "comboDuration": 5,
     "followThrough": 0.69999999,
@@ -48894,7 +48895,7 @@
     "masteryReq": 13,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.64999998,
+    "omegaAttenuation": 0.69999999,
     "blockingAngle": 60,
     "comboDuration": 5,
     "followThrough": 0.60000002,
@@ -50316,7 +50317,7 @@
     "masteryReq": 13,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.69999999,
     "maxLevelCap": 40,
     "blockingAngle": 90,
     "comboDuration": 5,
@@ -65365,7 +65366,7 @@
     "masteryReq": 10,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.60000002,
+    "omegaAttenuation": 0.64999998,
     "maxLevelCap": 40,
     "blockingAngle": 55,
     "comboDuration": 5,
@@ -67035,7 +67036,7 @@
     "fireRate": 0,
     "masteryReq": 0,
     "productCategory": "Pistols",
-    "omegaAttenuation": 0.60000002,
+    "omegaAttenuation": 0.64999998,
     "buildPrice": 5000,
     "buildTime": 3600,
     "skipBuildTimePrice": 25,
@@ -67201,7 +67202,7 @@
     "masteryReq": 0,
     "productCategory": "Pistols",
     "excludeFromCodex": true,
-    "omegaAttenuation": 0.60000002,
+    "omegaAttenuation": 0.64999998,
     "type": "Zaw Component",
     "imageName": "InfestedTipOne.png",
     "category": "Melee",
@@ -67716,6 +67717,247 @@
     "masterable": true
   },
   {
+    "name": "Pride",
+    "uniqueName": "/Lotus/Weapons/Tenno/Melee/HeavyScythe/TnOrionSiriusScythe/TnSiriusScytheWeapon",
+    "damagePerShot": [
+      0,
+      125,
+      125,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "totalDamage": 250,
+    "description": "The pride of one that knows their worth. Sirius' signature Heavy Scythe.",
+    "criticalChance": 0.15000001,
+    "criticalMultiplier": 2,
+    "procChance": 0.35000002,
+    "fireRate": 1.2,
+    "masteryReq": 14,
+    "productCategory": "Melee",
+    "slot": 5,
+    "omegaAttenuation": 0.5,
+    "blockingAngle": 65,
+    "comboDuration": 5,
+    "followThrough": 0.40000001,
+    "range": 2.8,
+    "slamAttack": 750,
+    "slamRadialDamage": 500,
+    "slamRadius": 8,
+    "slideAttack": 500,
+    "heavyAttackDamage": 4500,
+    "heavySlamAttack": 1250,
+    "heavySlamRadialDamage": 750,
+    "heavySlamRadius": 9,
+    "windUp": 1,
+    "buildPrice": 20000,
+    "buildTime": 43200,
+    "skipBuildTimePrice": 50,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SiriusScytheBlade",
+        "name": "Blade",
+        "description": "The blade component of the Pride.",
+        "itemCount": 1,
+        "imageName": "GenericWeaponBlade.png",
+        "tradable": false,
+        "drops": [
+          {
+            "location": "Uranus/The Kuva Wytch (Skirmish)",
+            "type": "Pride Blade Blueprint",
+            "chance": 14.29,
+            "rarity": "Uncommon"
+          }
+        ],
+        "masterable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/SiriusScytheBlueprint",
+        "name": "Blueprint",
+        "description": "The pride of one that knows their worth. Sirius' signature Heavy Scythe.",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false,
+        "masterable": false,
+        "drops": [
+          {
+            "location": "Uranus/The Kuva Wytch (Skirmish)",
+            "type": "Pride Blueprint",
+            "chance": 14.29,
+            "rarity": "Uncommon"
+          }
+        ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SiriusScytheHandle",
+        "name": "Handle",
+        "description": "The handle component of the Pride.",
+        "itemCount": 1,
+        "imageName": "GenericWeaponHilt.png",
+        "tradable": false,
+        "drops": [
+          {
+            "location": "Uranus/The Kuva Wytch (Skirmish)",
+            "type": "Pride Handle Blueprint",
+            "chance": 14.29,
+            "rarity": "Uncommon"
+          }
+        ],
+        "masterable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/OrionScytheBlade",
+        "name": "Wrath Blade",
+        "description": "The blade component of the Wrath.",
+        "itemCount": 1,
+        "imageName": "GenericWeaponBlade.png",
+        "tradable": false,
+        "drops": [],
+        "masterable": false
+      }
+    ],
+    "type": "Melee",
+    "damage": {
+      "total": 250,
+      "impact": 0,
+      "puncture": 125,
+      "slash": 125,
+      "heat": 0,
+      "cold": 0,
+      "electricity": 0,
+      "toxin": 0,
+      "blast": 0,
+      "radiation": 0,
+      "gas": 0,
+      "magnetic": 0,
+      "viral": 0,
+      "corrosive": 0,
+      "void": 0,
+      "tau": 0,
+      "cinematic": 0,
+      "shieldDrain": 0,
+      "healthDrain": 0,
+      "energyDrain": 0,
+      "true": 0
+    },
+    "imageName": "TnSiriusScytheWeapon.png",
+    "category": "Melee",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "Veilbreaker: Update 32",
+        "date": "2022-09-07T15:00:11Z",
+        "url": "https://forums.warframe.com/topic/1321162-veilbreaker-update-32/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Pride Community Display "
+      },
+      {
+        "name": "Gara Prime: Hotfix 30.3.5",
+        "date": "2021-06-10T19:47:41Z",
+        "url": "https://forums.warframe.com/topic/1267287-gara-prime-hotfix-3035/",
+        "additions": "",
+        "changes": "Updated Color Palette titles for Smoke and Pride to be consistent with other Palette titles.",
+        "fixes": ""
+      },
+      {
+        "name": "The Jovian Concord: Hotfix 25.2.3",
+        "date": "2019-06-25T18:04:46Z",
+        "url": "https://forums.warframe.com/topic/1105676-the-jovian-concord-hotfix-2523/",
+        "additions": "",
+        "changes": "Show your Warframe Pride with this exclusive Glyph you can display in your Profile! ",
+        "fixes": ""
+      }
+    ],
+    "wikiAvailable": true,
+    "attacks": [
+      {
+        "name": "Normal Attack",
+        "speed": 1.2,
+        "crit_chance": 15,
+        "crit_mult": 2,
+        "status_chance": 35,
+        "damage": {
+          "slash": 125,
+          "puncture": 125
+        },
+        "slide": "500"
+      },
+      {
+        "name": "Slam Attack",
+        "speed": 1,
+        "crit_chance": 15,
+        "crit_mult": 2,
+        "status_chance": 10,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 8,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 500
+        }
+      },
+      {
+        "name": "Heavy Slam Attack",
+        "speed": 1,
+        "crit_chance": 15,
+        "crit_mult": 2,
+        "status_chance": 10,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 9,
+          "reduction": 0.3
+        },
+        "damage": {
+          "blast": 750
+        }
+      }
+    ],
+    "polarities": [
+      "madurai"
+    ],
+    "tags": [
+      "Tenno"
+    ],
+    "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Pride.png?917b2",
+    "wikiaUrl": "https://wiki.warframe.com/w/Pride",
+    "introduced": {
+      "name": "Update 43.0",
+      "url": "https://wiki.warframe.com/w/Update_43%3A_Jade_Shadows%3A_Constellations",
+      "aliases": [
+        "43",
+        "43.0",
+        "Jade Shadows: Constellations"
+      ],
+      "parent": "43.0",
+      "date": "2026-06-17"
+    },
+    "disposition": 1,
+    "releaseDate": "2026-06-17",
+    "isPrime": false,
+    "masterable": true
+  },
+  {
     "name": "Prisma Dual Cleavers",
     "uniqueName": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/PrismaDualCleavers",
     "damagePerShot": [
@@ -68217,7 +68459,7 @@
     "masteryReq": 12,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.89999998,
+    "omegaAttenuation": 0.94999999,
     "blockingAngle": 60,
     "comboDuration": 5,
     "followThrough": 0.60000002,
@@ -69760,7 +70002,7 @@
     "masteryReq": 13,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.85000002,
+    "omegaAttenuation": 0.89999998,
     "blockingAngle": 55,
     "comboDuration": 5,
     "followThrough": 0.69999999,
@@ -75026,7 +75268,7 @@
     "masteryReq": 16,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.64999998,
     "blockingAngle": 55,
     "comboDuration": 5,
     "followThrough": 0.60000002,
@@ -81584,7 +81826,7 @@
     "masteryReq": 12,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.60000002,
+    "omegaAttenuation": 0.75,
     "blockingAngle": 45,
     "comboDuration": 5,
     "followThrough": 0.5,
@@ -83191,7 +83433,7 @@
     "masteryReq": 9,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.94999999,
     "blockingAngle": 70,
     "comboDuration": 5,
     "followThrough": 0.60000002,
@@ -83456,7 +83698,7 @@
       "parent": "38.0",
       "date": "2025-04-17"
     },
-    "disposition": 1,
+    "disposition": 3,
     "releaseDate": "2025-04-17",
     "isPrime": false,
     "masterable": true
@@ -88638,7 +88880,7 @@
     "masteryReq": 9,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.85000002,
     "blockingAngle": 60,
     "comboDuration": 5,
     "followThrough": 0.60000002,
@@ -88852,6 +89094,7 @@
       "Grineer"
     ],
     "stancePolarity": "naramon",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Tonkkatt.png?363a0",
     "wikiaUrl": "https://wiki.warframe.com/w/Tonkkatt",
     "introduced": {
       "name": "Hotfix 38.5.11",
@@ -88862,7 +89105,7 @@
       "parent": "38.0",
       "date": "2025-04-17"
     },
-    "disposition": 1,
+    "disposition": 2,
     "releaseDate": "2025-04-17",
     "isPrime": false,
     "masterable": true
@@ -89490,6 +89733,7 @@
       "Grineer"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/TwinBasolk.png?ad177",
     "wikiaUrl": "https://wiki.warframe.com/w/Twin_Basolk",
     "introduced": {
       "name": "Update 17.8",
@@ -91407,7 +91651,7 @@
     "masteryReq": 14,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.60000002,
     "blockingAngle": 60,
     "comboDuration": 5,
     "followThrough": 0.60000002,
@@ -93403,7 +93647,7 @@
     "masteryReq": 13,
     "productCategory": "Melee",
     "slot": 5,
-    "omegaAttenuation": 1.05,
+    "omegaAttenuation": 1.1,
     "blockingAngle": 60,
     "comboDuration": 10,
     "followThrough": 0.60000002,
@@ -100117,6 +100361,163 @@
     "masterable": true
   },
   {
+    "name": "War Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeWar/PrimeWarWeapon",
+    "damagePerShot": [
+      194.40001,
+      32.399998,
+      43.199989,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "totalDamage": 270,
+    "description": "The blade of the world-destroyer reaches its apotheosis, severing conflict itself. In forging this weapon, you have brought unrealized dreams to their ultimate conclusion.",
+    "criticalChance": 0.25999999,
+    "criticalMultiplier": 3.2,
+    "procChance": 0.31999999,
+    "fireRate": 0.91666669,
+    "masteryReq": 15,
+    "productCategory": "Melee",
+    "slot": 5,
+    "omegaAttenuation": 0.5,
+    "blockingAngle": 55,
+    "comboDuration": 5,
+    "followThrough": 0.60000002,
+    "range": 3.2,
+    "slamAttack": 810,
+    "slamRadialDamage": 540,
+    "slamRadius": 8,
+    "slideAttack": 540,
+    "heavyAttackDamage": 1620,
+    "heavySlamAttack": 1350,
+    "heavySlamRadialDamage": 810,
+    "heavySlamRadius": 9,
+    "windUp": 1.1,
+    "type": "Melee",
+    "damage": {
+      "total": 270,
+      "impact": 194.40001,
+      "puncture": 43.199989,
+      "slash": 32.399998,
+      "heat": 0,
+      "cold": 0,
+      "electricity": 0,
+      "toxin": 0,
+      "blast": 0,
+      "radiation": 0,
+      "gas": 0,
+      "magnetic": 0,
+      "viral": 0,
+      "corrosive": 0,
+      "void": 0,
+      "tau": 0,
+      "cinematic": 0,
+      "shieldDrain": 0,
+      "healthDrain": 0,
+      "energyDrain": 0,
+      "true": 0
+    },
+    "imageName": "WarPrime.png",
+    "category": "Melee",
+    "tradable": false,
+    "wikiAvailable": true,
+    "attacks": [
+      {
+        "name": "Normal Attack",
+        "speed": 0.917,
+        "crit_chance": 26,
+        "crit_mult": 3.2,
+        "status_chance": 32,
+        "damage": {
+          "impact": 194.4,
+          "slash": 43.2,
+          "puncture": 32.4
+        },
+        "slam": {
+          "damage": "540.00",
+          "radial": {
+            "damage": "0.00",
+            "radius": null
+          }
+        }
+      },
+      {
+        "name": "Slam Attack",
+        "speed": 0.917,
+        "crit_chance": 26,
+        "crit_mult": 3.2,
+        "status_chance": 10,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 8,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 500
+        }
+      },
+      {
+        "name": "Heavy Slam Attack",
+        "speed": 0.917,
+        "crit_chance": 26,
+        "crit_mult": 3.2,
+        "status_chance": 10,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 9,
+          "reduction": 0.3
+        },
+        "damage": {
+          "blast": 810
+        }
+      }
+    ],
+    "polarities": [
+      "naramon"
+    ],
+    "tags": [
+      "Sentient",
+      "Prime"
+    ],
+    "stancePolarity": "vazarin",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/WarPrime.png?e3f3a",
+    "wikiaUrl": "https://wiki.warframe.com/w/War_Prime",
+    "introduced": {
+      "name": "Update 43.0",
+      "url": "https://wiki.warframe.com/w/Update_43%3A_Jade_Shadows%3A_Constellations",
+      "aliases": [
+        "43",
+        "43.0",
+        "Jade Shadows: Constellations"
+      ],
+      "parent": "43.0",
+      "date": "2026-06-17"
+    },
+    "disposition": 1,
+    "releaseDate": "2026-06-17",
+    "isPrime": true,
+    "vaulted": false,
+    "estimatedVaultDate": "2028-03-17",
+    "masterable": true
+  },
+  {
     "name": "Wolf Sledge",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Hammer/ThrowingHammer",
     "damagePerShot": [
@@ -100419,6 +100820,221 @@
     },
     "disposition": 4,
     "releaseDate": "2019-02-27",
+    "isPrime": false,
+    "masterable": true
+  },
+  {
+    "name": "Wrath",
+    "uniqueName": "/Lotus/Weapons/Tenno/Melee/HeavyScythe/TnOrionSiriusScythe/TnOrionScytheWeapon",
+    "damagePerShot": [
+      0,
+      44,
+      176,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "totalDamage": 220,
+    "description": "The wrath of one who knows revenge is all about timing. Orion's signature Heavy Scythe.",
+    "criticalChance": 0.30000001,
+    "criticalMultiplier": 2,
+    "procChance": 0.14999998,
+    "fireRate": 1.2,
+    "masteryReq": 14,
+    "productCategory": "Melee",
+    "slot": 5,
+    "omegaAttenuation": 0.5,
+    "blockingAngle": 65,
+    "comboDuration": 5,
+    "followThrough": 0.40000001,
+    "range": 2.8,
+    "slamAttack": 660,
+    "slamRadialDamage": 440,
+    "slamRadius": 8,
+    "slideAttack": 440,
+    "heavyAttackDamage": 3960,
+    "heavySlamAttack": 1100,
+    "heavySlamRadialDamage": 660,
+    "heavySlamRadius": 9,
+    "windUp": 1,
+    "buildPrice": 20000,
+    "buildTime": 43200,
+    "skipBuildTimePrice": 50,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/OrionScytheBlade",
+        "name": "Blade",
+        "description": "The blade component of the Wrath.",
+        "itemCount": 1,
+        "imageName": "GenericWeaponBlade.png",
+        "tradable": false,
+        "drops": [
+          {
+            "location": "Uranus/Scoria's Angel (Skirmish)",
+            "type": "Wrath Blade Blueprint",
+            "chance": 14.29,
+            "rarity": "Uncommon"
+          }
+        ],
+        "masterable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/OrionScytheBlueprint",
+        "name": "Blueprint",
+        "description": "The wrath of one who knows revenge is all about timing. Orion's signature Heavy Scythe.",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false,
+        "masterable": false,
+        "drops": [
+          {
+            "location": "Uranus/Scoria's Angel (Skirmish)",
+            "type": "Wrath Blueprint",
+            "chance": 14.29,
+            "rarity": "Uncommon"
+          }
+        ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/OrionScytheHandle",
+        "name": "Handle",
+        "description": "The handle component of the Wrath.",
+        "itemCount": 1,
+        "imageName": "GenericWeaponHilt.png",
+        "tradable": false,
+        "drops": [
+          {
+            "location": "Uranus/Scoria's Angel (Skirmish)",
+            "type": "Wrath Handle Blueprint",
+            "chance": 14.29,
+            "rarity": "Uncommon"
+          }
+        ],
+        "masterable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SiriusScytheBlade",
+        "name": "Pride Blade",
+        "description": "The blade component of the Pride.",
+        "itemCount": 1,
+        "imageName": "GenericWeaponBlade.png",
+        "tradable": false,
+        "drops": [],
+        "masterable": false
+      }
+    ],
+    "type": "Melee",
+    "damage": {
+      "total": 220,
+      "impact": 0,
+      "puncture": 176,
+      "slash": 44,
+      "heat": 0,
+      "cold": 0,
+      "electricity": 0,
+      "toxin": 0,
+      "blast": 0,
+      "radiation": 0,
+      "gas": 0,
+      "magnetic": 0,
+      "viral": 0,
+      "corrosive": 0,
+      "void": 0,
+      "tau": 0,
+      "cinematic": 0,
+      "shieldDrain": 0,
+      "healthDrain": 0,
+      "energyDrain": 0,
+      "true": 0
+    },
+    "imageName": "TnOrionScytheWeapon.png",
+    "category": "Melee",
+    "tradable": false,
+    "wikiAvailable": true,
+    "attacks": [
+      {
+        "name": "Normal Attack",
+        "speed": 1.2,
+        "crit_chance": 30,
+        "crit_mult": 2,
+        "status_chance": 15,
+        "damage": {
+          "slash": 176,
+          "puncture": 44
+        },
+        "slide": "500"
+      },
+      {
+        "name": "Slam Attack",
+        "speed": 1,
+        "crit_chance": 30,
+        "crit_mult": 2,
+        "status_chance": 10,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 8,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 440
+        }
+      },
+      {
+        "name": "Heavy Slam Attack",
+        "speed": 1,
+        "crit_chance": 30,
+        "crit_mult": 2,
+        "status_chance": 10,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 9,
+          "reduction": 0.3
+        },
+        "damage": {
+          "blast": 660
+        }
+      }
+    ],
+    "polarities": [
+      "madurai"
+    ],
+    "tags": [
+      "Tenno"
+    ],
+    "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Wrath.png?ff3cf",
+    "wikiaUrl": "https://wiki.warframe.com/w/Wrath",
+    "introduced": {
+      "name": "Update 43.0",
+      "url": "https://wiki.warframe.com/w/Update_43%3A_Jade_Shadows%3A_Constellations",
+      "aliases": [
+        "43",
+        "43.0",
+        "Jade Shadows: Constellations"
+      ],
+      "parent": "43.0",
+      "date": "2026-06-17"
+    },
+    "disposition": 1,
+    "releaseDate": "2026-06-17",
     "isPrime": false,
     "masterable": true
   },

@@ -2940,6 +2940,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/JadeShadowsPart2Mission/Gameplay/Resources/GarudaFavor",
+    "name": "Crimson Talent",
+    "description": "A weighty token from Orion's broken future. \n\nSource: Support Vena against Ryoku (Scoria's Angel, Uranus Proxima)",
+    "type": "Resource",
+    "imageName": "OrionCoinResource.png",
+    "category": "Resources",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareGemAItem",
     "name": "Crimzian",
     "description": "A blood-red gem.\n\nLocation: Plains of Eidolon (Earth) from Blue Mining Veins and Thumpers",
@@ -4113,6 +4123,16 @@
         "fixes": "Cabochon Embolos "
       }
     ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/JadeShadowsPart2Mission/Gameplay/Resources/AshFavor",
+    "name": "Emerald Talent",
+    "description": "A heavy token from Sirius' tortured future.\n\nSource: Support Ryoku against Vena (The Kuva Wytch, Uranus Proxima)",
+    "type": "Resource",
+    "imageName": "SiriusCoinResource.png",
+    "category": "Resources",
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5549,7 +5569,6 @@
       "Hextra Gyro",
       "Lambeo Moa",
       "Nychus Moa",
-      "Pax Bolt",
       "Phazor Gyro",
       "Puppeteer",
       "Rattleguts",
@@ -6267,6 +6286,116 @@
         "rarity": "Uncommon"
       }
     ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/JadeShadowsPart2Mission/Gameplay/Resources/HunhowTrinketMiscItem",
+    "name": "Hunhow's Trinket",
+    "description": "The Blueprint for an unidentified item. Perhaps some ancient piece of Old War decor.",
+    "excludeFromCodex": true,
+    "buildPrice": 15000,
+    "buildTime": 43200,
+    "skipBuildTimePrice": 50,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\n\nLocation: Missions in the Void",
+        "itemCount": 1,
+        "imageName": "ArgonCrystal.png",
+        "tradable": false,
+        "drops": [],
+        "masterable": false,
+        "type": "Resource"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/HunhowTrinketBlueprint",
+        "name": "Blueprint",
+        "description": "The Blueprint for an unidentified item. Perhaps some ancient piece of Old War decor.",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false,
+        "masterable": false,
+        "drops": []
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
+        "name": "Nitain Extract",
+        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\n\nLocation: Nightwave Cred Offerings",
+        "itemCount": 5,
+        "imageName": "Alertium.png",
+        "tradable": false,
+        "drops": [],
+        "masterable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
+        "itemCount": 1,
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+            "name": "Alloy Plate",
+            "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
+            "itemCount": 50000,
+            "imageName": "AlloyPlate.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/OrokinCellResourceBlueprint",
+            "name": "Blueprint",
+            "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "itemCount": 50000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "itemCount": 25000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
+        "imageName": "ComponentCell.png",
+        "tradable": false,
+        "masterable": false,
+        "type": "Resource",
+        "drops": []
+      }
+    ],
+    "type": "Resource",
+    "imageName": "HunhowTrinket.png",
+    "category": "Resources",
+    "tradable": false,
     "masterable": false
   },
   {
@@ -8346,7 +8475,6 @@
       "Kreska",
       "Munit Gyro",
       "Para Moa",
-      "Pax Charge",
       "Step Tens",
       "Thugs",
       "Twin Kavats"
@@ -11892,7 +12020,6 @@
       "Highbrow",
       "Hothead",
       "Jonsin Bracket",
-      "Pax Soar",
       "Tian Bracket",
       "Zip"
     ],

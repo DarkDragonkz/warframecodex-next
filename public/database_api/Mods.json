@@ -88,22 +88,22 @@
     "levelStats": [
       {
         "stats": [
-          "Passive Augment: Nidus gains an additional 50 max stacks of Mutation. Undying has a 30s cooldown."
-        ]
-      },
-      {
-        "stats": [
-          "Passive Augment: Nidus gains an additional 100 max stacks of Mutation. Undying has a 30s cooldown."
-        ]
-      },
-      {
-        "stats": [
           "Passive Augment: Nidus gains an additional 150 max stacks of Mutation. Undying has a 30s cooldown."
         ]
       },
       {
         "stats": [
           "Passive Augment: Nidus gains an additional 200 max stacks of Mutation. Undying has a 30s cooldown."
+        ]
+      },
+      {
+        "stats": [
+          "Passive Augment: Nidus gains an additional 250 max stacks of Mutation. Undying has a 30s cooldown."
+        ]
+      },
+      {
+        "stats": [
+          "Passive Augment: Nidus gains an additional 300 max stacks of Mutation. Undying has a 30s cooldown."
         ]
       }
     ],
@@ -126,7 +126,7 @@
       }
     ],
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/AbundantMutationMod.png?f757b",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/AbundantMutationMod.png?81fe5",
     "wikiaUrl": "https://wiki.warframe.com/w/Abundant_Mutation",
     "transmutable": false,
     "introduced": {
@@ -8937,8 +8937,8 @@
     "name": "Archgun Riven Mod",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -18732,22 +18732,22 @@
     "levelStats": [
       {
         "stats": [
-          "Frost gains +|CHANCE|% Critical Chance and +|DAMAGE|% Critical Damage against frozen enemies."
+          "Frost gains +130% Critical Chance and +29% Critical Damage against frozen enemies."
         ]
       },
       {
         "stats": [
-          "Frost gains +|CHANCE|% Critical Chance and +|DAMAGE|% Critical Damage against frozen enemies."
+          "Frost gains +150% Critical Chance and +50% Critical Damage against frozen enemies."
         ]
       },
       {
         "stats": [
-          "Frost gains +|CHANCE|% Critical Chance and +|DAMAGE|% Critical Damage against frozen enemies."
+          "Frost gains +175% Critical Chance and +75% Critical Damage against frozen enemies."
         ]
       },
       {
         "stats": [
-          "Frost gains +|CHANCE|% Critical Chance and +|DAMAGE|% Critical Damage against frozen enemies."
+          "Frost gains +200% Critical Chance and +100% Critical Damage against frozen enemies."
         ]
       }
     ],
@@ -28949,84 +28949,6 @@
       "date": "2017-06-07"
     },
     "releaseDate": "2017-06-07",
-    "isPrime": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/StaffCmbOneMeleeTree",
-    "name": "Clashing Forest",
-    "polarity": "madurai",
-    "rarity": "Uncommon",
-    "baseDrain": -2,
-    "fusionLimit": 3,
-    "compatName": "Staves",
-    "type": "Stance Mod",
-    "description": "Arcing strikes and focused combos.",
-    "imageName": "StaffCombo1a.jpg",
-    "category": "Mods",
-    "tradable": true,
-    "drops": [
-      {
-        "location": "Corrupted Ancient",
-        "type": "Clashing Forest",
-        "chance": 0.17,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Duviri/Endless: Tier 1 (Normal)",
-        "type": "Clashing Forest",
-        "chance": 0.67,
-        "rarity": "Legendary"
-      },
-      {
-        "location": "Duviri/Endless: Tier 3 (Normal)",
-        "type": "Clashing Forest",
-        "chance": 0.67,
-        "rarity": "Legendary"
-      }
-    ],
-    "patchlogs": [
-      {
-        "name": "Update 28: The Deadlock Protocol",
-        "date": "2020-06-11T17:29:49Z",
-        "url": "https://forums.warframe.com/topic/1199557-update-28-the-deadlock-protocol/",
-        "additions": "",
-        "changes": "The Earth to Mars Junction now awards the Iron Phoenix Stance, and the Earth to Venus Junction now awards the Clashing Forest Stance.",
-        "fixes": ""
-      },
-      {
-        "name": "Hotfix 17.0.4",
-        "date": "2015-08-06T14:48:33Z",
-        "url": "https://forums.warframe.com/topic/504855-hotfix-1704/",
-        "additions": "",
-        "changes": "Reduced the damage of the first and last hit on the Clashing Forest / Skyward Limb combo attack.",
-        "fixes": ""
-      },
-      {
-        "name": "Update 13: Dark Sectors",
-        "date": "2014-04-10T05:28:14Z",
-        "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
-        "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
-        "changes": "",
-        "fixes": ""
-      }
-    ],
-    "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/ClashingForestMod.png?11ec3",
-    "wikiaUrl": "https://wiki.warframe.com/w/Clashing_Forest",
-    "transmutable": true,
-    "introduced": {
-      "name": "Update 13.0",
-      "url": "https://wiki.warframe.com/w/Update_13%23Update_13.0",
-      "aliases": [
-        "Update 13",
-        "13",
-        "13.0"
-      ],
-      "parent": "13.0",
-      "date": "2014-04-09"
-    },
-    "releaseDate": "2014-04-09",
     "isPrime": false,
     "masterable": false
   },
@@ -91639,7 +91561,7 @@
         "url": "https://forums.warframe.com/topic/1070992-buried-debts-update-2450/",
         "additions": "",
         "changes": "",
-        "fixes": "Nidus Night Hunter Skin by Mz-3\nFixed a script error when accessing Konzu’s Bounty board after completing an Eidolon Hunt."
+        "fixes": "Nidus Night Hunter Skin by Mz-3\nFixed a script error when accessing Konzu���s Bounty board after completing an Eidolon Hunt."
       },
       {
         "name": "Fortuna: Hotfix 24.2.7 + 24.2.7.1",
@@ -106154,37 +106076,37 @@
     "levelStats": [
       {
         "stats": [
-          "+20% Melee Damage On Heavy Attack",
+          "+20% Melee Damage on Heavy Attack",
           "+10% Heavy Attack Wind Up Speed"
         ]
       },
       {
         "stats": [
-          "+40% Melee Damage On Heavy Attack",
+          "+40% Melee Damage on Heavy Attack",
           "+20% Heavy Attack Wind Up Speed"
         ]
       },
       {
         "stats": [
-          "+60% Melee Damage On Heavy Attack",
+          "+60% Melee Damage on Heavy Attack",
           "+30% Heavy Attack Wind Up Speed"
         ]
       },
       {
         "stats": [
-          "+80% Melee Damage On Heavy Attack",
+          "+80% Melee Damage on Heavy Attack",
           "+40% Heavy Attack Wind Up Speed"
         ]
       },
       {
         "stats": [
-          "+100% Melee Damage On Heavy Attack",
+          "+100% Melee Damage on Heavy Attack",
           "+50% Heavy Attack Wind Up Speed"
         ]
       },
       {
         "stats": [
-          "+120% Melee Damage On Heavy Attack",
+          "+120% Melee Damage on Heavy Attack",
           "+60% Heavy Attack Wind Up Speed"
         ]
       }
@@ -106757,8 +106679,8 @@
     "name": "Kitgun Riven Mod",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -117156,6 +117078,60 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Powersuits/Koumei/KoumeiStringsAugmentCard",
+    "name": "Kumihimo Loading",
+    "polarity": "zenurik",
+    "rarity": "Rare",
+    "baseDrain": 6,
+    "fusionLimit": 3,
+    "compatName": "Koumei",
+    "type": "Warframe Mod",
+    "levelStats": [
+      {
+        "stats": [
+          "Kumihimo Augment: <LOWER_IS_BETTER>12 kills with weapons affected by Koumei's Passive give a loaded die that always rolls 6. Hold to cast empowered Kumihimo and consume all dice."
+        ]
+      },
+      {
+        "stats": [
+          "Kumihimo Augment: <LOWER_IS_BETTER>10 kills with weapons affected by Koumei's Passive give a loaded die that always rolls 6. Hold to cast empowered Kumihimo and consume all dice."
+        ]
+      },
+      {
+        "stats": [
+          "Kumihimo Augment: <LOWER_IS_BETTER>8 kills with weapons affected by Koumei's Passive give a loaded die that always rolls 6. Hold to cast empowered Kumihimo and consume all dice."
+        ]
+      },
+      {
+        "stats": [
+          "Kumihimo Augment: <LOWER_IS_BETTER>6 kills with weapons affected by Koumei's Passive give a loaded die that always rolls 6. Hold to cast empowered Kumihimo and consume all dice."
+        ]
+      }
+    ],
+    "imageName": "KoumeiStringsAugmentCard.jpg",
+    "category": "Mods",
+    "isAugment": true,
+    "tradable": true,
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/KumihimoLoadingMod.png?84272",
+    "wikiaUrl": "https://wiki.warframe.com/w/Kumihimo_Loading",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 43.0",
+      "url": "https://wiki.warframe.com/w/Update_43%3A_Jade_Shadows%3A_Constellations",
+      "aliases": [
+        "43",
+        "43.0",
+        "Jade Shadows: Constellations"
+      ],
+      "parent": "43.0",
+      "date": "2026-06-17"
+    },
+    "releaseDate": "2026-06-17",
+    "isPrime": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Powersuits/Infestation/InfestTendrilsAugmentCard",
     "name": "Larva Burst",
     "polarity": "zenurik",
@@ -117167,22 +117143,22 @@
     "levelStats": [
       {
         "stats": [
-          "Larva Augment: Reactivate Larva to detonate and deal 300 <DT_POISON_COLOR>Toxin Damage in a 2m radius. This damage stacks for every enemy grabbed by the Larva."
+          "Larva Augment: Reactivate Larva to detonate and deal 300 <DT_POISON_COLOR>Toxin Damage in a 2m radius. This damage and Status Effect stacks for every enemy grabbed by the Larva."
         ]
       },
       {
         "stats": [
-          "Larva Augment: Reactivate Larva to detonate and deal 400 <DT_POISON_COLOR>Toxin Damage in a 4m radius. This damage stacks for every enemy grabbed by the Larva."
+          "Larva Augment: Reactivate Larva to detonate and deal 400 <DT_POISON_COLOR>Toxin Damage in a 4m radius. This damage and Status Effect stacks for every enemy grabbed by the Larva."
         ]
       },
       {
         "stats": [
-          "Larva Augment: Reactivate Larva to detonate and deal 500 <DT_POISON_COLOR>Toxin Damage in a 6m radius. This damage stacks for every enemy grabbed by the Larva."
+          "Larva Augment: Reactivate Larva to detonate and deal 500 <DT_POISON_COLOR>Toxin Damage in a 6m radius. This damage and Status Effect stacks for every enemy grabbed by the Larva."
         ]
       },
       {
         "stats": [
-          "Larva Augment: Reactivate Larva to detonate and deal 600 <DT_POISON_COLOR>Toxin Damage in a 8m radius. This damage stacks for every enemy grabbed by the Larva."
+          "Larva Augment: Reactivate Larva to detonate and deal 600 <DT_POISON_COLOR>Toxin Damage in a 8m radius. This damage and Status Effect stacks for every enemy grabbed by the Larva."
         ]
       }
     ],
@@ -117231,7 +117207,7 @@
       }
     ],
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/LarvaBurstMod.png?625a3",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/LarvaBurstMod.png?a729d",
     "wikiaUrl": "https://wiki.warframe.com/w/Larva_Burst",
     "transmutable": false,
     "introduced": {
@@ -123523,116 +123499,6 @@
     "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarSlideBoostMod",
-    "name": "Maglev",
-    "polarity": "naramon",
-    "rarity": "Uncommon",
-    "baseDrain": 6,
-    "fusionLimit": 5,
-    "isUtility": true,
-    "compatName": "WARFRAME",
-    "type": "Warframe Mod",
-    "levelStats": [
-      {
-        "stats": [
-          "+5% Slide",
-          "-5% Friction"
-        ]
-      },
-      {
-        "stats": [
-          "+10% Slide",
-          "-10% Friction"
-        ]
-      },
-      {
-        "stats": [
-          "+15% Slide",
-          "-15% Friction"
-        ]
-      },
-      {
-        "stats": [
-          "+20% Slide",
-          "-20% Friction"
-        ]
-      },
-      {
-        "stats": [
-          "+25% Slide",
-          "-25% Friction"
-        ]
-      },
-      {
-        "stats": [
-          "+30% Slide",
-          "-30% Friction"
-        ]
-      }
-    ],
-    "imageName": "SlideResistanceDecreaseMod.jpg",
-    "category": "Mods",
-    "isAugment": true,
-    "tradable": true,
-    "drops": [
-      {
-        "location": "Corrupted Ancient",
-        "type": "Maglev",
-        "chance": 0.17,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Duviri/Endless: Tier 1 (Normal)",
-        "type": "Maglev",
-        "chance": 0.67,
-        "rarity": "Legendary"
-      },
-      {
-        "location": "Duviri/Endless: Tier 3 (Normal)",
-        "type": "Maglev",
-        "chance": 0.67,
-        "rarity": "Legendary"
-      }
-    ],
-    "patchlogs": [
-      {
-        "name": "Update 17.10.0",
-        "date": "2015-11-04T23:21:00Z",
-        "url": "https://forums.warframe.com/topic/556384-update-17100/",
-        "additions": "",
-        "changes": "Maglev Mod has been removed from PvP.",
-        "fixes": ""
-      },
-      {
-        "name": "Update 17: Echoes Of The Sentient",
-        "date": "2015-07-31T15:09:25Z",
-        "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
-        "additions": "",
-        "changes": "Maglev",
-        "fixes": ""
-      }
-    ],
-    "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/MaglevMod.png?9c65d",
-    "wikiaUrl": "https://wiki.warframe.com/w/Maglev",
-    "transmutable": false,
-    "introduced": {
-      "name": "Update 10.0",
-      "url": "https://wiki.warframe.com/w/Update_10%23Update_10.0",
-      "aliases": [
-        "Update 10",
-        "10",
-        "10.0"
-      ],
-      "parent": "10.0",
-      "date": "2013-09-13"
-    },
-    "releaseDate": "2013-09-13",
-    "isPrime": false,
-    "masterable": false,
-    "isExilus": true
   },
   {
     "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarSlideBoostModBeginner",
@@ -131073,8 +130939,8 @@
     "name": "Melee Riven Mod",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "upgradeEntries": [
       {
         "tag": "WeaponMeleeDamageMod",
@@ -156392,6 +156258,60 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Powersuits/Pagemaster/PagemasterBookAugment1Card",
+    "name": "Noctua Swarm",
+    "polarity": "zenurik",
+    "rarity": "Rare",
+    "baseDrain": 6,
+    "fusionLimit": 3,
+    "compatName": "Dante",
+    "type": "Warframe Mod",
+    "levelStats": [
+      {
+        "stats": [
+          "Noctua Augment: Alternate Fire releases Paragrimms that swarm 8m around the point of aim for 6s, silencing enemies and stealing their Energy for allies."
+        ]
+      },
+      {
+        "stats": [
+          "Noctua Augment: Alternate Fire releases Paragrimms that swarm 8m around the point of aim for 9s, silencing enemies and stealing their Energy for allies."
+        ]
+      },
+      {
+        "stats": [
+          "Noctua Augment: Alternate Fire releases Paragrimms that swarm 8m around the point of aim for 12s, silencing enemies and stealing their Energy for allies."
+        ]
+      },
+      {
+        "stats": [
+          "Noctua Augment: Alternate Fire releases Paragrimms that swarm 8m around the point of aim for 15s, silencing enemies and stealing their Energy for allies."
+        ]
+      }
+    ],
+    "imageName": "PagemasterBookAugment1Card.jpg",
+    "category": "Mods",
+    "isAugment": true,
+    "tradable": true,
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/NoctuaSwarmMod.png?84272",
+    "wikiaUrl": "https://wiki.warframe.com/w/Noctua_Swarm",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 43.0",
+      "url": "https://wiki.warframe.com/w/Update_43%3A_Jade_Shadows%3A_Constellations",
+      "aliases": [
+        "43",
+        "43.0",
+        "Jade Shadows: Constellations"
+      ],
+      "parent": "43.0",
+      "date": "2026-06-17"
+    },
+    "releaseDate": "2026-06-17",
+    "isPrime": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Melee/Beginner/WeaponFreezeDamageModBeginner",
     "name": "North Wind",
     "polarity": "vazarin",
@@ -170405,8 +170325,8 @@
     "name": "Pistol Riven Mod",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -191418,6 +191338,79 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingWeaponElectricityDamageModExpert",
+    "name": "Primed Electrified Barrel",
+    "polarity": "naramon",
+    "rarity": "Legendary",
+    "baseDrain": 4,
+    "fusionLimit": 10,
+    "excludeFromCodex": true,
+    "compatName": "Archgun",
+    "type": "Arch-Gun Mod",
+    "levelStats": [
+      {
+        "stats": [
+          "+17% <DT_ELECTRICITY_COLOR>Electricity"
+        ]
+      },
+      {
+        "stats": [
+          "+34% <DT_ELECTRICITY_COLOR>Electricity"
+        ]
+      },
+      {
+        "stats": [
+          "+51% <DT_ELECTRICITY_COLOR>Electricity"
+        ]
+      },
+      {
+        "stats": [
+          "+68% <DT_ELECTRICITY_COLOR>Electricity"
+        ]
+      },
+      {
+        "stats": [
+          "+85% <DT_ELECTRICITY_COLOR>Electricity"
+        ]
+      },
+      {
+        "stats": [
+          "+102% <DT_ELECTRICITY_COLOR>Electricity"
+        ]
+      },
+      {
+        "stats": [
+          "+119% <DT_ELECTRICITY_COLOR>Electricity"
+        ]
+      },
+      {
+        "stats": [
+          "+136% <DT_ELECTRICITY_COLOR>Electricity"
+        ]
+      },
+      {
+        "stats": [
+          "+153% <DT_ELECTRICITY_COLOR>Electricity"
+        ]
+      },
+      {
+        "stats": [
+          "+170% <DT_ELECTRICITY_COLOR>Electricity"
+        ]
+      },
+      {
+        "stats": [
+          "+187% <DT_ELECTRICITY_COLOR>Electricity"
+        ]
+      }
+    ],
+    "imageName": "ArchwingWeaponElectricityDamageModRifle.jpg",
+    "category": "Mods",
+    "tradable": true,
+    "isPrime": true,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorpusExpert",
     "name": "Primed Expel Corpus",
     "polarity": "madurai",
@@ -198753,179 +198746,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarPowerToHealthOnDeathMod",
-    "name": "Quick Thinking",
-    "polarity": "vazarin",
-    "rarity": "Rare",
-    "baseDrain": 10,
-    "fusionLimit": 5,
-    "compatName": "WARFRAME",
-    "type": "Warframe Mod",
-    "levelStats": [
-      {
-        "stats": [
-          "Drains Energy to stop Lethal Damage with +40% Efficiency."
-        ]
-      },
-      {
-        "stats": [
-          "Drains Energy to stop Lethal Damage with +80% Efficiency."
-        ]
-      },
-      {
-        "stats": [
-          "Drains Energy to stop Lethal Damage with +120% Efficiency."
-        ]
-      },
-      {
-        "stats": [
-          "Drains Energy to stop Lethal Damage with +160% Efficiency."
-        ]
-      },
-      {
-        "stats": [
-          "Drains Energy to stop Lethal Damage with +200% Efficiency."
-        ]
-      },
-      {
-        "stats": [
-          "Drains Energy to stop Lethal Damage with +240% Efficiency."
-        ]
-      }
-    ],
-    "imageName": "AvatarQuickThinkingMod.jpg",
-    "category": "Mods",
-    "isAugment": true,
-    "tradable": true,
-    "drops": [
-      {
-        "location": "Corrupted Ancient",
-        "type": "Quick Thinking",
-        "chance": 0.03,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Duviri/Endless: Tier 6 (Normal)",
-        "type": "Quick Thinking",
-        "chance": 1.03,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Duviri/Endless: Tier 4 (Normal)",
-        "type": "Quick Thinking",
-        "chance": 1.49,
-        "rarity": "Rare"
-      }
-    ],
-    "patchlogs": [
-      {
-        "name": "Update 31.5: Angels of the Zariman",
-        "date": "2022-04-27T15:02:06Z",
-        "url": "https://forums.warframe.com/topic/1305880-update-315-angels-of-the-zariman/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Quick Thinking damage ejecting players from Yareli’s Merulina. \nThis also fixes getting kicked off other vehicles when you are at 2hp and take any damage (even shield only) despite having Quick Thinking equipped."
-      },
-      {
-        "name": "Wukong Prime: Hotfix 25.3.2 + 25.3.2.1",
-        "date": "2019-07-12T15:14:26Z",
-        "url": "https://forums.warframe.com/topic/1110370-wukong-prime-hotfix-2532-25321/",
-        "additions": "",
-        "changes": "Wukong’s Celestial Twin no longer utilizes Quick Thinking to fix the Twin living indefinitely. ",
-        "fixes": ""
-      },
-      {
-        "name": "Buried Debts: Update 24.4.0",
-        "date": "2019-03-08T02:01:23Z",
-        "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Quick Thinking allowing multiple damage hits while knocked down."
-      },
-      {
-        "name": "Fortuna: Hotfix 24.2.12",
-        "date": "2019-01-30T20:11:23Z",
-        "url": "https://forums.warframe.com/topic/1058298-fortuna-hotfix-24212/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a loss of functionality when K-driving with Quick Thinking equipped."
-      },
-      {
-        "name": "Fortuna: The Profit-Taker - Update 24.2",
-        "date": "2018-12-18T13:59:14Z",
-        "url": "https://forums.warframe.com/topic/1044890-fortuna-the-profit-taker-update-242/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed getting Transferred back to Operator if your Warframes reaches 2HP, regardless of being invulnerable (Quick Thinking)."
-      },
-      {
-        "name": "Chains of Harrow: Update 21.3.0",
-        "date": "2017-08-02T21:28:54Z",
-        "url": "https://forums.warframe.com/topic/826127-chains-of-harrow-update-2130/",
-        "additions": "",
-        "changes": "Reduced the frequency that Quick Thinking can stagger lock a player. This is actually undoing a bug fix where Quick Thinking wasn't staggering players as often as it was intended to, but this is the new intention now! Essentially Quick Thinking is back to the way it was pre Update 21.",
-        "fixes": ""
-      },
-      {
-        "name": "Update 17.10.0",
-        "date": "2015-11-04T23:21:00Z",
-        "url": "https://forums.warframe.com/topic/556384-update-17100/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed the Quick Thinking Mod not properly taking damage reduction into account before removing energy from a Client."
-      },
-      {
-        "name": "Hotfix 14.6.1",
-        "date": "2014-09-11T21:03:05Z",
-        "url": "https://forums.warframe.com/topic/308432-hotfix-1461/",
-        "additions": "",
-        "changes": "The 14.6.0 fix resolves issues where Rage + Quick Thinking gave effective permanent invulnerability because energy was being added to pool that was never dealt to player. With this change in mind, the combination of Rage and Quick Thinking may seem less efficient as before due to no longer giving effective invulnerability. The scope of this change is being monitored to ensure the usefulness of these Mods as a combination.",
-        "fixes": ""
-      },
-      {
-        "name": "Hotfix 14.0.8",
-        "date": "2014-07-23T22:39:59Z",
-        "url": "https://forums.warframe.com/topic/272088-hotfix-1408/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Quick Thinking not working as described or intended."
-      },
-      {
-        "name": "Update 11.6.0",
-        "date": "2014-01-08T22:33:40Z",
-        "url": "https://forums.warframe.com/topic/161101-update-1160/",
-        "additions": "",
-        "changes": "-  Increased stagger threshold and made stagger only occur on big hits instead of on accumulated damage; this should prevent situations where Quick Thinking would save you only to let you get knocked down and killed again.",
-        "fixes": ""
-      },
-      {
-        "name": "Update 11.1.0",
-        "date": "2013-11-27T22:50:48Z",
-        "url": "https://forums.warframe.com/topic/139326-update-1110/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Reduced effectiveness of the interaction between Rage/Quick Thinking mods to prevent indefinite immortality in all game modes."
-      }
-    ],
-    "wikiAvailable": true,
-    "wikiaUrl": "https://wiki.warframe.com/w/Quick_Thinking",
-    "transmutable": true,
-    "introduced": {
-      "name": "Update 10.0",
-      "url": "https://wiki.warframe.com/w/Update_10%23Update_10.0",
-      "aliases": [
-        "Update 10",
-        "10",
-        "10.0"
-      ],
-      "parent": "10.0",
-      "date": "2013-09-13"
-    },
-    "releaseDate": "2013-09-13",
-    "isPrime": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarPowerToHealthOnDeathModBeginner",
     "name": "Quick Thinking",
     "polarity": "vazarin",
@@ -205721,7 +205541,7 @@
         "name": "Warframe Update 22: Plains of Eidolon",
         "date": "2017-10-12T22:00:20Z",
         "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
-        "additions": "Augur Reach (Warframe)��",
+        "additions": "Augur Reach (Warframe) ",
         "changes": "",
         "fixes": ""
       },
@@ -214603,6 +214423,60 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Powersuits/Nokko/NokkoRerootAugmentCard",
+    "name": "Reroot Rampage",
+    "polarity": "zenurik",
+    "rarity": "Rare",
+    "baseDrain": 6,
+    "fusionLimit": 3,
+    "compatName": "Nokko",
+    "type": "Warframe Mod",
+    "levelStats": [
+      {
+        "stats": [
+          "Reroot Augment: Collecting Reroot orbs summons additional Sprodlings inflicting 175 <DT_POISON_COLOR> Toxin Damage with increased Critical Chance each hit."
+        ]
+      },
+      {
+        "stats": [
+          "Reroot Augment: Collecting Reroot orbs summons additional Sprodlings inflicting 200 <DT_POISON_COLOR> Toxin Damage with increased Critical Chance each hit."
+        ]
+      },
+      {
+        "stats": [
+          "Reroot Augment: Collecting Reroot orbs summons additional Sprodlings inflicting 225 <DT_POISON_COLOR> Toxin Damage with increased Critical Chance each hit."
+        ]
+      },
+      {
+        "stats": [
+          "Reroot Augment: Collecting Reroot orbs summons additional Sprodlings inflicting 250 <DT_POISON_COLOR> Toxin Damage with increased Critical Chance each hit."
+        ]
+      }
+    ],
+    "imageName": "NokkoRerootAugmentCard.jpg",
+    "category": "Mods",
+    "isAugment": true,
+    "tradable": true,
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RerootRampageMod.png?84272",
+    "wikiaUrl": "https://wiki.warframe.com/w/Reroot_Rampage",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 43.0",
+      "url": "https://wiki.warframe.com/w/Update_43%3A_Jade_Shadows%3A_Constellations",
+      "aliases": [
+        "43",
+        "43.0",
+        "Jade Shadows: Constellations"
+      ],
+      "parent": "43.0",
+      "date": "2026-06-17"
+    },
+    "releaseDate": "2026-06-17",
+    "isPrime": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarDamageResistanceStun",
     "name": "Resilient Focus",
     "polarity": "vazarin",
@@ -217247,6 +217121,60 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Powersuits/Temple/TemplePassiveAugment1Card",
+    "name": "Rhythm Guard",
+    "polarity": "zenurik",
+    "rarity": "Rare",
+    "baseDrain": 6,
+    "fusionLimit": 3,
+    "compatName": "Temple",
+    "type": "Warframe Mod",
+    "levelStats": [
+      {
+        "stats": [
+          "Passive Augment: Gain 25 Overguard when using an Ability on the Backbeat. Amount doubles up to 400 per Beat, but resets if the Beat is missed."
+        ]
+      },
+      {
+        "stats": [
+          "Passive Augment: Gain 50 Overguard when using an Ability on the Backbeat. Amount doubles up to 800 per Beat, but resets if the Beat is missed."
+        ]
+      },
+      {
+        "stats": [
+          "Passive Augment: Gain 75 Overguard when using an Ability on the Backbeat. Amount doubles up to 1200 per Beat, but resets if the Beat is missed."
+        ]
+      },
+      {
+        "stats": [
+          "Passive Augment: Gain 100 Overguard when using an Ability on the Backbeat. Amount doubles up to 1600 per Beat, but resets if the Beat is missed."
+        ]
+      }
+    ],
+    "imageName": "TemplePassiveAugment1Card.jpg",
+    "category": "Mods",
+    "isAugment": true,
+    "tradable": true,
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RhythmGuardMod.png?84272",
+    "wikiaUrl": "https://wiki.warframe.com/w/Rhythm_Guard",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 43.0",
+      "url": "https://wiki.warframe.com/w/Update_43%3A_Jade_Shadows%3A_Constellations",
+      "aliases": [
+        "43",
+        "43.0",
+        "Jade Shadows: Constellations"
+      ],
+      "parent": "43.0",
+      "date": "2026-06-17"
+    },
+    "releaseDate": "2026-06-17",
+    "isPrime": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Intermediate/WeaponRifleConvertAmmoModIntermediate",
     "name": "Rifle Ammo Mutation",
     "polarity": "naramon",
@@ -218538,8 +218466,8 @@
     "name": "Rifle Riven Mod",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -251283,8 +251211,8 @@
     "name": "Shotgun Riven Mod",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -289417,22 +289345,22 @@
     "levelStats": [
       {
         "stats": [
-          "Virulence Augment: Hitting 4 enemies with Virulence grants 70% Primary Weapon Critical Chance for 9s."
+          "Virulence Augment: Hitting 4 enemies with Virulence grants 125% Primary Weapon Critical Chance for 9s."
         ]
       },
       {
         "stats": [
-          "Virulence Augment: Hitting 4 enemies with Virulence grants 85% Primary Weapon Critical Chance for 11s."
+          "Virulence Augment: Hitting 4 enemies with Virulence grants 150% Primary Weapon Critical Chance for 11s."
         ]
       },
       {
         "stats": [
-          "Virulence Augment: Hitting 4 enemies with Virulence grants 100% Primary Weapon Critical Chance for 13s."
+          "Virulence Augment: Hitting 4 enemies with Virulence grants 175% Primary Weapon Critical Chance for 13s."
         ]
       },
       {
         "stats": [
-          "Virulence Augment: Hitting 4 enemies with Virulence grants 120% Primary Weapon Critical Chance for 15s."
+          "Virulence Augment: Hitting 4 enemies with Virulence grants 200% Primary Weapon Critical Chance for 15s."
         ]
       }
     ],
@@ -289455,7 +289383,7 @@
       }
     ],
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/TeemingVirulenceMod.png?181fd",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/TeemingVirulenceMod.png?5e7a1",
     "wikiaUrl": "https://wiki.warframe.com/w/Teeming_Virulence",
     "transmutable": false,
     "introduced": {
@@ -301241,8 +301169,8 @@
     "name": "Unfused Artifact",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301268,8 +301196,8 @@
     "name": "Unfused Artifact",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301295,8 +301223,8 @@
     "name": "Unfused Artifact",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301323,8 +301251,8 @@
     "name": "Unfused Artifact",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301351,8 +301279,8 @@
     "name": "Unfused Artifact",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301379,8 +301307,8 @@
     "name": "Unfused Artifact",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301407,8 +301335,8 @@
     "name": "Unfused Artifact",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301435,8 +301363,8 @@
     "name": "Unfused Artifact",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301463,8 +301391,8 @@
     "name": "Unfused Artifact",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301491,8 +301419,8 @@
     "name": "Unfused Artifact",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -316317,8 +316245,8 @@
     "name": "Zaw Riven Mod",
     "polarity": "universal",
     "rarity": "Common",
-    "baseDrain": 0,
-    "fusionLimit": 0,
+    "baseDrain": 2,
+    "fusionLimit": 452,
     "upgradeEntries": [
       {
         "tag": "WeaponMeleeDamageMod",

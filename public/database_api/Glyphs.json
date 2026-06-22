@@ -10,16 +10,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2026CommunityArtShowcaseGlyph",
-    "name": "[Ph] Tennocon 2026 - Community Art Showcase Glyph",
-    "description": "[PH] community art showcase desc. ",
-    "type": "Glyph",
-    "imageName": "TennoCon2026CommunityArtShowcase.png",
-    "category": "Glyphs",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImage13angTV",
     "name": "13angtv Glyph",
     "description": "A Glyph for your profile.",
@@ -86,6 +76,16 @@
     "description": "A Glyph for your profile.",
     "type": "Glyph",
     "imageName": "AHR.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAbsoluteCinemaGlyph",
+    "name": "Absolute Cinema Glyph",
+    "description": "Stalker is absolutely stunned by your deeds. Created by Community artist ibumuc.",
+    "type": "Glyph",
+    "imageName": "AbsoluteCinemaGlyph.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -423,6 +423,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageArborealKeyGlyph",
+    "name": "Arborealkey Glyph",
+    "description": "arborealkey - Official TennoCon Cosplayer Glyph",
+    "type": "Glyph",
+    "imageName": "ArborealKeyGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/NewWar2021Glyph",
     "name": "Archon Nira Glyph",
     "description": "A Glyph for your profile.",
@@ -449,6 +459,16 @@
     "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
     "type": "Glyph",
     "imageName": "ArthurAccoladeGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageArthurInTheFridgeGlyph",
+    "name": "Arthur In The Fridge Glyph",
+    "description": "Arthur is trapped in the fridge! Will you let him out? Created by Community artist ibumuc.",
+    "type": "Glyph",
+    "imageName": "ArthurInTheFridgeGlyph.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -1168,6 +1188,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBlinkGlyph",
+    "name": "Blink Glyph",
+    "description": "Blink - Official TennoCon Cosplayer Glyph",
+    "type": "Glyph",
+    "imageName": "BlinkGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphMuckneyE",
     "name": "Blood Lotus Glyph",
     "description": "A Glyph for your profile.",
@@ -1770,6 +1800,16 @@
     "description": "A Glyph for your profile.",
     "type": "Glyph",
     "imageName": "Char.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageChassisGlyph",
+    "name": "Chassis Glyph",
+    "description": "Another Harrow Chassis just dropped! Created by Community artist ibumuc.",
+    "type": "Glyph",
+    "imageName": "ChassisGlyph.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -3458,6 +3498,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageDanteDeluxe",
+    "name": "Dante Tytonis Glyph",
+    "description": "A glyph depicting Dante Tytonis.",
+    "type": "Glyph",
+    "imageName": "DanteDeluxeAvatar.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDanteGlyph",
     "name": "Dante's Delight Glyph",
     "description": "A glyph depicting Dante engaged in one of his preferred pastimes.",
@@ -4071,6 +4121,16 @@
     "description": "A glyph that celebrates the miracle of blood.",
     "type": "Glyph",
     "imageName": "LineVenaGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDumpItGlyph",
+    "name": "Dump It Glyph",
+    "description": "Albrecht is making the call. Dump it. Created by Community artist ibumuc.",
+    "type": "Glyph",
+    "imageName": "DumpItGlyph.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -7606,6 +7666,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageKalymosConeGlyph",
+    "name": "Kalymos Cone Glyph",
+    "description": "A glyph of Kavat Kalymos wearing a traffic cone decoration, created by Community artist ibumuc.",
+    "type": "Glyph",
+    "imageName": "KalymosConeGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKaoiji",
     "name": "Kaoiji Glyph",
     "description": "A Glyph for your profile.",
@@ -8761,6 +8831,16 @@
     "description": "A Glyph for your profile.",
     "type": "Glyph",
     "imageName": "GlyphMuckney01.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLotusChangeOfPlansGlyph",
+    "name": "Lotus Change Of Plans Glyph",
+    "description": "Change of plans, Tenno! Created by Community artist ibumuc.",
+    "type": "Glyph",
+    "imageName": "LotusChangeOfPlansGlyph.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -13110,6 +13190,36 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSingingLotusGlyph",
+    "name": "Singing Lotus Community Glyph",
+    "description": "A motherly hum, a celestial tune. Created by community artist cyanfacade.",
+    "type": "Glyph",
+    "imageName": "SingingLotusGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageSiriusOrionBright",
+    "name": "Sirius & Orion Glyph - Bright",
+    "description": "A glyph depicting Sirius & Orion on a bright background.",
+    "type": "Glyph",
+    "imageName": "SiriusOrionAvatarBright.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageSiriusOrionDark",
+    "name": "Sirius & Orion Glyph - Dark",
+    "description": "A glyph depicting Sirius & Orion on a dark background.",
+    "type": "Glyph",
+    "imageName": "SiriusOrionAvatarDark.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphSkiGauss",
     "name": "Ski Gauss Glyph",
     "description": "A festive glyph.",
@@ -13806,6 +13916,26 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageStyanaxPrimeBright",
+    "name": "Styanax Prime Glyph - Bright",
+    "description": "A glyph depicting Styanax Prime on a bright background.",
+    "type": "Glyph",
+    "imageName": "StyanaxPrimeAvatarBright.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageStyanaxPrimeDark",
+    "name": "Styanax Prime Glyph - Dark",
+    "description": "A glyph depicting Styanax Prime on a dark background.",
+    "type": "Glyph",
+    "imageName": "StyanaxPrimeAvatarDark.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageStyanaxAltBBright",
     "name": "Styanax Synmora Glyph - Bright",
     "description": "A glyph depicting Styanax Synmora on a bright background.",
@@ -14425,6 +14555,16 @@
     "description": "This award recognizes a Cosplay with primo workmanship. ",
     "type": "Glyph",
     "imageName": "TennoCon2026CosplayBestWorkmanship.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2026CommunityArtShowcaseGlyph",
+    "name": "Tennocon 2026 Community Art Showcase Glyph",
+    "description": "Thank you for your contributions to the TennoCon 2026 Community Art Showcase. ",
+    "type": "Glyph",
+    "imageName": "TennoCon2026CommunityArtShowcase.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -16106,6 +16246,16 @@
     "excludeFromCodex": true,
     "type": "Glyph",
     "imageName": "TennoChronicler.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMadrinas",
+    "name": "Warframe X Madrinas Glyph",
+    "description": "Stay hydrated, Tenno!",
+    "type": "Glyph",
+    "imageName": "ImageMadrinasGlyph.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false

@@ -2376,7 +2376,6 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Volt",
     "name": "Amir's Hairstyle",
-    "excludeFromCodex": true,
     "description": "For that 'couldn't sleep, too wired' look.",
     "type": "Skin",
     "imageName": "Hair1999Volt.png",
@@ -3320,7 +3319,6 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Mag",
     "name": "Aoi's Hairstyle",
-    "excludeFromCodex": true,
     "description": "Aoi's daring, angular cut, the apex of street style.",
     "type": "Skin",
     "imageName": "Hair1999Mag.png",
@@ -6299,7 +6297,6 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Excalibur",
     "name": "Arthur's Hairstyle",
-    "excludeFromCodex": true,
     "description": "Floppy locks, for a classic 90s Emo look.",
     "type": "Skin",
     "imageName": "Hair1999Excalibur.png",
@@ -6343,6 +6340,17 @@
     "description": "Body art can convey that which brings you peace or drives your spirit.",
     "type": "Skin",
     "imageName": "TattooTennoG.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/HunhowHonoria/TitleSiriusOrion",
+    "name": "As One Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -7139,7 +7147,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Effects/JadeLightEphemeraB",
     "name": "Aspirus Emergent Ephemera",
-    "description": "An even more radiant evolution of the Aspirus Ephemera, created with vestiges over Jade’s volatile motes.",
+    "description": "An even more radiant evolution of the Aspirus Ephemera, created with vestiges over Jade's volatile motes.",
     "type": "Skin",
     "imageName": "JadelightEphemeraB.png",
     "category": "Skins",
@@ -10601,7 +10609,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Clan/JadeShadowsEventBadgeItem",
     "name": "Belly Of The Beast Emblem",
-    "description": "An emblem available to clan members who kept Jade’s Volatile Motes out of the hands of Parvos Granum in Operation: Belly of the Beast.",
+    "description": "An emblem available to clan members who kept Jade's Volatile Motes out of the hands of Parvos Granum in Operation: Belly of the Beast.",
     "type": "Skin",
     "imageName": "JadeEmblem.png",
     "category": "Skins",
@@ -10727,6 +10735,66 @@
     "description": "Standard holster for Blade and Whips.",
     "type": "Skin",
     "imageName": "SwordWhipBackDefault.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/CaliberChicks/AshGeminiCaliberChicksRifleSkin",
+    "name": "Bladeswarm Braton Skin",
+    "description": "This covert rifle skin is bestowed upon new initiates into the Scoria order as proof they have completed their training.",
+    "type": "Skin",
+    "imageName": "CaliberChicksAshGeminiRifleSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneAshGemini",
+    "name": "Bladeswarm Domestik Drone",
+    "description": "This drone eradicates dust and dirt with quiet efficiency.",
+    "type": "Ship Decoration",
+    "imageName": "LisetPropCleaningDroneAshGemini.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Daggers/AshGeminiDaggerSkin",
+    "name": "Bladeswarm Karyst Skin",
+    "description": "This Karyst skin bears the markings of a long forgotten assassin's order, the Scoria.",
+    "type": "Skin",
+    "imageName": "AshGeminiDaggerSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Throwable/AshGeminiKunaiSkin",
+    "name": "Bladeswarm Kunai Skin",
+    "description": "Strike silently with this subtle Kunai skin.",
+    "type": "Skin",
+    "imageName": "AshGeminiKunaiSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetSkinAshGemini",
+    "name": "Bladeswarm Liset Skin",
+    "description": "Slip into battle like a shadow.",
+    "type": "Skin",
+    "imageName": "LisetAshGemini.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Weapons/LongGuns/AshGeminiVectisSkin",
+    "name": "Bladeswarm Vectis Skin",
+    "description": "This Vectis skin's camouflage is designed for long stakeouts, an essential part of any assassin's toolkit. ",
+    "type": "Skin",
+    "imageName": "AshGeminiVectisSkin.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -10974,6 +11042,56 @@
     "description": "Splices the genes in your pet Kavat to change the color of its fur.",
     "type": "Fur Color",
     "imageName": "HyekkaFurB.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Pistols/GarudaGeminiBallisticaSkin",
+    "name": "Bloodfrenzy Ballistica Skin",
+    "description": "This skin for the Ballistica embodies the philosophy that if your weapon is clean, you're not using it properly.",
+    "type": "Skin",
+    "imageName": "GarudaGeminiBallisticaSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneGarudaGemini",
+    "name": "Bloodfrenzy Domestik Drone",
+    "description": "This drone might leave the Orbiter's floors even more of a mess than it found them.",
+    "type": "Ship Decoration",
+    "imageName": "LisetPropCleaningDroneGarudaGemini.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetSkinGarudaGemini",
+    "name": "Bloodfrenzy Liset Skin",
+    "description": "Fly into the next battle covered in what remains of the last.",
+    "type": "Skin",
+    "imageName": "LisetGarudaGemini.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Weapons/LongGuns/GarudaGeminiNagantakaSkin",
+    "name": "Bloodfrenzy Nagantaka Skin",
+    "description": "A bloodthirsty Nagantaka skin for those who prefer to use a crossbow at close range.",
+    "type": "Skin",
+    "imageName": "GarudaGeminiNagantakaSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Claws/GarudaGeminiClawsSkin",
+    "name": "Bloodfrenzy Venka Skin",
+    "description": "Send a gruesome message about the fate of all who encounter these claws with this skin for the Venka.",
+    "type": "Skin",
+    "imageName": "GarudaGeminiClawsSkin.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -18389,6 +18507,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/JS2MAshPoster",
+    "name": "Cloning 101 Poster",
+    "description": "Many problems can be solved by the ability to be in two places at once. Many other problems are created this way. Faint traces of Efervon imply the artist may have had a mechanical hand.",
+    "excludeFromCodex": true,
+    "type": "Ship Decoration",
+    "imageName": "JS2MAshPoster.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyMergooCommon",
     "name": "Coastal Mergoo Floof",
     "description": "They're the squeezy little fellas from the Plains of Eidolon! Take them home today!",
@@ -18746,6 +18875,288 @@
     ],
     "type": "Color Palette",
     "imageName": "ColorPickerD.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerPrideItemA",
+    "name": "Colors Of Pride",
+    "description": "A set of colors to celebrate Pride.",
+    "hexColours": [
+      {
+        "value": "0x00FE0000"
+      },
+      {
+        "value": "0x00FF0C0C"
+      },
+      {
+        "value": "0x00FF1C1C"
+      },
+      {
+        "value": "0x00FF2A2A"
+      },
+      {
+        "value": "0x00FF3A3A"
+      },
+      {
+        "value": "0x00DE7E7E"
+      },
+      {
+        "value": "0x00DE8082"
+      },
+      {
+        "value": "0x00DF8788"
+      },
+      {
+        "value": "0x00DF8E8D"
+      },
+      {
+        "value": "0x00E09693"
+      },
+      {
+        "value": "0x00E56969"
+      },
+      {
+        "value": "0x00E76F6C"
+      },
+      {
+        "value": "0x00E7756F"
+      },
+      {
+        "value": "0x00E87B72"
+      },
+      {
+        "value": "0x00E88075"
+      },
+      {
+        "value": "0x00FE7E00"
+      },
+      {
+        "value": "0x00FF840B"
+      },
+      {
+        "value": "0x00FF8915"
+      },
+      {
+        "value": "0x00FF9124"
+      },
+      {
+        "value": "0x00FF9730"
+      },
+      {
+        "value": "0x00F7983A"
+      },
+      {
+        "value": "0x00F99D3C"
+      },
+      {
+        "value": "0x00F9A33F"
+      },
+      {
+        "value": "0x00FAA842"
+      },
+      {
+        "value": "0x00FBB047"
+      },
+      {
+        "value": "0x00F2A961"
+      },
+      {
+        "value": "0x00F2AF66"
+      },
+      {
+        "value": "0x00F3B46B"
+      },
+      {
+        "value": "0x00F4BA70"
+      },
+      {
+        "value": "0x00F4C075"
+      },
+      {
+        "value": "0x00F5E80B"
+      },
+      {
+        "value": "0x00F4E820"
+      },
+      {
+        "value": "0x00F4E835"
+      },
+      {
+        "value": "0x00F3E845"
+      },
+      {
+        "value": "0x00F3E954"
+      },
+      {
+        "value": "0x00EFDF56"
+      },
+      {
+        "value": "0x00EFE162"
+      },
+      {
+        "value": "0x00EFE16E"
+      },
+      {
+        "value": "0x00EEE279"
+      },
+      {
+        "value": "0x00EEE283"
+      },
+      {
+        "value": "0x00F7ED99"
+      },
+      {
+        "value": "0x00F7EDA2"
+      },
+      {
+        "value": "0x00F6EEAB"
+      },
+      {
+        "value": "0x00F6EFB5"
+      },
+      {
+        "value": "0x00F5EFBF"
+      },
+      {
+        "value": "0x0014802B"
+      },
+      {
+        "value": "0x00188640"
+      },
+      {
+        "value": "0x001A9045"
+      },
+      {
+        "value": "0x001B9548"
+      },
+      {
+        "value": "0x001E9E4D"
+      },
+      {
+        "value": "0x0048A35B"
+      },
+      {
+        "value": "0x004FB364"
+      },
+      {
+        "value": "0x0053BC69"
+      },
+      {
+        "value": "0x0057C76F"
+      },
+      {
+        "value": "0x005DD476"
+      },
+      {
+        "value": "0x0070D585"
+      },
+      {
+        "value": "0x0078E48E"
+      },
+      {
+        "value": "0x0082F79A"
+      },
+      {
+        "value": "0x0090FFA7"
+      },
+      {
+        "value": "0x009EFFB2"
+      },
+      {
+        "value": "0x002F48B2"
+      },
+      {
+        "value": "0x003A51B4"
+      },
+      {
+        "value": "0x003F55B4"
+      },
+      {
+        "value": "0x004C60B6"
+      },
+      {
+        "value": "0x005669B8"
+      },
+      {
+        "value": "0x002175AF"
+      },
+      {
+        "value": "0x00267DB9"
+      },
+      {
+        "value": "0x002D85C2"
+      },
+      {
+        "value": "0x00358ECB"
+      },
+      {
+        "value": "0x004097D3"
+      },
+      {
+        "value": "0x0086A2F1"
+      },
+      {
+        "value": "0x0094ADF2"
+      },
+      {
+        "value": "0x00A0B7F6"
+      },
+      {
+        "value": "0x00ADC2FC"
+      },
+      {
+        "value": "0x00B8CBFF"
+      },
+      {
+        "value": "0x00582E98"
+      },
+      {
+        "value": "0x005E3899"
+      },
+      {
+        "value": "0x006741A0"
+      },
+      {
+        "value": "0x006F4CA6"
+      },
+      {
+        "value": "0x007956AD"
+      },
+      {
+        "value": "0x007E54BD"
+      },
+      {
+        "value": "0x00855CC3"
+      },
+      {
+        "value": "0x00916ACC"
+      },
+      {
+        "value": "0x009C77D4"
+      },
+      {
+        "value": "0x00AD8DDE"
+      },
+      {
+        "value": "0x00AC7BDE"
+      },
+      {
+        "value": "0x00B789E5"
+      },
+      {
+        "value": "0x00C092EF"
+      },
+      {
+        "value": "0x00C99AF9"
+      },
+      {
+        "value": "0x00D4AAFF"
+      }
+    ],
+    "type": "Color Palette",
+    "imageName": "ColorPickerStardust.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -20142,6 +20553,16 @@
         "fixes": "Fixed the Constella Syandana's jagged collision on some Warframes."
       }
     ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/JS2HunhowStare2in1Display",
+    "name": "Constellations Fusion Display",
+    "description": "Reality is merely a point of view in this lenticular display illustrating the conflict between what is and what could have been.",
+    "type": "Ship Decoration",
+    "imageName": "JS2HunhowStare2in1Display.png",
+    "category": "Skins",
+    "tradable": false,
     "masterable": false
   },
   {
@@ -26541,6 +26962,37 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/DanteDeluxeArmArmor",
+    "name": "Dante Tytonis Feathered Pauldron",
+    "excludeFromCodex": true,
+    "description": "Default armor for Dante Tytonis.",
+    "type": "Skin",
+    "imageName": "DanteDeluxeDefaultArmArmour.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Pagemaster/PagemasterDeluxeHelmet",
+    "name": "Dante Tytonis Helmet",
+    "description": "Dante Tytonis' signature helmet.",
+    "type": "Skin",
+    "imageName": "DanteDeluxeHelmet.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Pagemaster/PagemasterDeluxeSkin",
+    "name": "Dante Tytonis Skin",
+    "description": "Knowledge glides on dark wings, silent and sure. Dante Tytonis knows wisdom is power.",
+    "type": "Skin",
+    "imageName": "DanteDeluxeSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyHorrasqueCommon",
     "name": "Dappled Horrasque Floof",
     "description": "They're the squeezy little fellas from the ranges of the Vallis! Take them home today!",
@@ -26973,6 +27425,36 @@
     "description": "A skilled rider repurposes the Void’s mark for their Kaithe.",
     "type": "Skin",
     "imageName": "HorseFearEphemera.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeStyanaxArmor/PrimeStyanaxCArmor",
+    "name": "Daurus Prime Chest Plate",
+    "description": "This proud panoply declares the wearer's bravery on the field of battle.",
+    "type": "Skin",
+    "imageName": "StyanaxPrimeArmourC.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeStyanaxArmor/PrimeStyanaxLArmor",
+    "name": "Daurus Prime Leg Plates",
+    "description": "This proud panoply declares the wearer's bravery on the field of battle.",
+    "type": "Skin",
+    "imageName": "StyanaxPrimeArmourL.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeStyanaxArmor/PrimeStyanaxAArmor",
+    "name": "Daurus Prime Shoulder Plates",
+    "description": "This proud panoply declares the wearer's bravery on the field of battle.",
+    "type": "Skin",
+    "imageName": "StyanaxPrimeArmourA.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -33163,6 +33645,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneGrineer",
+    "name": "Domestik Soag Drone",
+    "description": "Grineer cleaning technology: no less efficient than the Corpus, though significantly more obtrusive.",
+    "type": "Ship Decoration",
+    "imageName": "LisetPropCleaningDroneGrineer.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneTwitch",
     "name": "Domestik Verv Drone",
     "description": "A stylish upgrade to your Orbiter's sanitation needs.",
@@ -33936,7 +34428,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultA",
     "name": "Drifter Zariman Hood",
-    "description": "The Drifter’s Zariman hood. Still intact after all these years.",
+    "description": "The Drifter's Zariman hood. Still intact after all these years.",
     "type": "Skin",
     "imageName": "HoodAdultA.png",
     "category": "Skins",
@@ -33946,7 +34438,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultA",
     "name": "Drifter Zariman Pants",
-    "description": "The Drifter’s Zariman pants. Still intact after all these years.",
+    "description": "The Drifter's Zariman pants. Still intact after all these years.",
     "type": "Skin",
     "imageName": "LeggingsAdultA.png",
     "category": "Skins",
@@ -33956,7 +34448,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultA",
     "name": "Drifter Zariman Sleeves",
-    "description": "The Drifter’s Zariman sleeves and gloves. Still intact after all these years.",
+    "description": "The Drifter's Zariman sleeves and gloves. Still intact after all these years.",
     "type": "Skin",
     "imageName": "SleevesAdultA.png",
     "category": "Skins",
@@ -33966,7 +34458,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultA",
     "name": "Drifter Zariman Suit",
-    "description": "The Drifter’s Zariman suit. Still intact after all these years.",
+    "description": "The Drifter's Zariman suit. Still intact after all these years.",
     "type": "Skin",
     "imageName": "BodySuitAdultA.png",
     "category": "Skins",
@@ -36079,7 +36571,6 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Nyx",
     "name": "Eleanor's Hairstyle",
-    "excludeFromCodex": true,
     "description": "Eleanor's signature flowing locks, tightly bound up.",
     "type": "Skin",
     "imageName": "Hair1999Nyx.png",
@@ -36635,7 +37126,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Crowns/HeirloomEmberCrown",
     "name": "Ember Heirloom Signa",
-    "description": "Delight in the heat of battle with Ember Heirloom’s Signa.",
+    "description": "Delight in the heat of battle with Ember Heirloom's Signa.",
     "type": "Skin",
     "imageName": "HeirloomEmberCrown.png",
     "category": "Skins",
@@ -37175,7 +37666,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraF",
     "name": "Embracer Ephemera",
-    "description": "“Baby 'til you come back with something\nI know I'll never let it go”\n\nEarned by defeating a Technocyte Coda.",
+    "description": "'Baby 'til you come back with something\nI know I'll never let it go'\n\nEarned by defeating a Technocyte Coda.",
     "type": "Skin",
     "imageName": "InfestedLichEphemeraF.png",
     "category": "Skins",
@@ -43057,6 +43548,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/HunhowHonoria/TitleMesa",
+    "name": "Feelin' Lucky Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWFeiSyandana",
     "name": "Fei Syandana",
     "description": "A syandana for your Warframe, designed by malaya and Jadie.",
@@ -46576,6 +47078,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/HunhowHonoria/TitleMag",
+    "name": "Force Of Nature Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneJ",
     "name": "Forest Grey",
     "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
@@ -48289,6 +48802,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Pagemaster/PagemasterDeluxeWarfanSkin",
+    "name": "Gallistrix Warfan Skin",
+    "description": "Death soars swiftly closer with Dante Tytonis' signature feathered warfan skin.",
+    "type": "Skin",
+    "imageName": "DanteDeluxeWarfanSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Game/CatbrowPet/Colors/PrimeCatbrowPetColorSecondaryA",
     "name": "Gallium Ash",
     "description": "Splices the genes in your pet Kavat to change the color of its fur.",
@@ -49609,6 +50132,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaPrimeClawsSkin",
+    "name": "Garuda Prime Talons Skin",
+    "excludeFromCodex": true,
+    "description": "The standard issue skin for the Garuda Prime Talons.",
+    "type": "Skin",
+    "imageName": "GarudaPrimeClaws.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Garuda/SWSakhuraHelmet",
     "name": "Garuda Sakhura Helmet",
     "description": "A helmet for the Garuda Warframe, designed by kakarrot2812.",
@@ -49694,6 +50228,28 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Garuda/SWSuccessorClawsSkin",
+    "name": "Garuda Successor Talons Skin",
+    "excludeFromCodex": true,
+    "description": "A unique skin for Garuda's talons, designed by prosetisen.",
+    "type": "Skin",
+    "imageName": "SWGarudaSuccessorClawsSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaClawsSkin",
+    "name": "Garuda Talons Skin",
+    "excludeFromCodex": true,
+    "description": "The standard issue skin for Garuda's talons.",
+    "type": "Skin",
+    "imageName": "GarudaMeleeClaws.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Garuda/SWGarudaTengushinHelmet",
     "name": "Garuda Tengushin Helmet",
     "description": "A helmet for the Garuda Warframe, designed by Lubox.",
@@ -49724,6 +50280,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Garuda/SWGarudaTengushinClawsSkin",
+    "name": "Garuda Tengushin Talons Skin",
+    "excludeFromCodex": true,
+    "description": "A unique skin for Garuda's talons, designed by Lubox.",
+    "type": "Skin",
+    "imageName": "SWGarudaTengushinClawsSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Garuda/SWTiamatHelmet",
     "name": "Garuda Tiamat Helmet",
     "description": "A helmet for the Garuda Warframe, designed by Vulbjorn.",
@@ -49751,6 +50318,17 @@
         "fixes": ""
       }
     ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Garuda/SWTiamatClawsSkin",
+    "name": "Garuda Tiamat Talons Skin",
+    "excludeFromCodex": true,
+    "description": "A unique skin for Garuda's talons, designed by Vulbjorn.",
+    "type": "Skin",
+    "imageName": "SWGarudaTiamatClawsSkin.png",
+    "category": "Skins",
+    "tradable": false,
     "masterable": false
   },
   {
@@ -61194,7 +61772,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraC",
     "name": "Heart-Beat Ephemera",
-    "description": "“In this heart break\nI'll be here fighting for you”\n\nEarned by defeating a Technocyte Coda.",
+    "description": "'In this heart break\nI'll be here fighting for you'\n\nEarned by defeating a Technocyte Coda.",
     "type": "Skin",
     "imageName": "InfestedLichEphemeraC.png",
     "category": "Skins",
@@ -61204,7 +61782,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraA",
     "name": "Heart-Throb Ephemera",
-    "description": "“Time will show the way, And I'll mend the heart you've broken”\n\nEarned by defeating a Technocyte Coda.",
+    "description": "'Time will show the way, And I'll mend the heart you've broken'\n\nEarned by defeating a Technocyte Coda.",
     "type": "Skin",
     "imageName": "InfestedLichEphemeraA.png",
     "category": "Skins",
@@ -62600,6 +63178,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/AnimalLoverTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/Titles/ArcaneCollectorTitle",
     "name": "Honoria",
     "description": "An Honoria for your profile.",
@@ -62678,6 +63267,28 @@
   },
   {
     "uniqueName": "/Lotus/Types/Items/Titles/CompleteDescendiaWispTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/CompleteEDAMaxTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/CompleteETAMaxTitle",
     "name": "Honoria",
     "description": "An Honoria for your profile.",
     "excludeFromCodex": true,
@@ -62831,6 +63442,50 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/DuviriKingQuestTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/DuviriQueenQuestTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/EidolonHunterTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/FisherTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Fish",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": true,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/Titles/FollieHuntCompleteTitle",
     "name": "Honoria",
     "description": "An Honoria for your profile.",
@@ -62898,6 +63553,28 @@
   },
   {
     "uniqueName": "/Lotus/Types/Items/Titles/HunhullsKillerTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/IncarnonMasteryTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/JadeShadows2Title",
     "name": "Honoria",
     "description": "An Honoria for your profile.",
     "excludeFromCodex": true,
@@ -63194,6 +63871,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/OrbHunterTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/Titles/PeritaHardModeSoloTitle",
     "name": "Honoria",
     "description": "An Honoria for your profile.",
@@ -63206,6 +63894,39 @@
   },
   {
     "uniqueName": "/Lotus/Types/Items/Titles/PeritaHardModeTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/RailjackAshTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/RailjackGarudaTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/ReferAFriendTitle",
     "name": "Honoria",
     "description": "An Honoria for your profile.",
     "excludeFromCodex": true,
@@ -63411,6 +64132,17 @@
     "imageName": "LisetPropOperatorHoodDisplayDefault.png",
     "category": "Skins",
     "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/TitleStyanaxPrime",
+    "name": "Hoplite Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": true,
     "masterable": false
   },
   {
@@ -70763,6 +71495,53 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SiriusOrionBothSyandana",
+    "name": "Jade's Victory Syandana",
+    "description": "Fury tempered. Pride soothed. This unity was hard-won, and all the more precious for it.",
+    "buildPrice": 20000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 1,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Syandanas/SiriusOrionBothSyandanaBlueprint",
+        "name": "Blueprint",
+        "description": "Fury tempered. Pride soothed. This unity was hard-won, and all the more precious for it.",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false,
+        "masterable": false,
+        "drops": []
+      },
+      {
+        "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SiriusOrionLeftSyandana",
+        "name": "Orion's Swaddle Syandana",
+        "description": "Swaddling cloth of the infant Orion, torn in ecstatic fury.",
+        "itemCount": 1,
+        "imageName": "SiriusOrionLeftSyandana.png",
+        "tradable": false,
+        "masterable": false,
+        "drops": []
+      },
+      {
+        "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SiriusOrionRightSyandana",
+        "name": "Sirius' Swaddle Syandana",
+        "description": "Swaddling cloth of the infant Sirius, worn as a ragged badge of honor.",
+        "itemCount": 1,
+        "imageName": "SiriusOrionRightSyandana.png",
+        "tradable": false,
+        "masterable": false,
+        "drops": []
+      }
+    ],
+    "type": "Skin",
+    "imageName": "SiriusOrionBothSyandana.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorXmasMidB",
     "name": "Jadeleaf Green",
     "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
@@ -71765,6 +72544,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Crowns/GarudaBloodCrown",
+    "name": "Karotic Signa",
+    "description": "A bloodstained gaze washes all in red.",
+    "type": "Skin",
+    "imageName": "ProtoGarudaCrown.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/RevenantKavatArmor",
     "name": "Kasha Kavat Armor",
     "description": "The signature kavat armor of Revenant.",
@@ -72531,6 +73320,17 @@
         "fixes": "including Volt Prime, Odonata Prime, Edo Prime Armor and the Kazeru Prime Sugatra. Plus, stock up on discounted Platinum and get Exclusive Gear available only through Prime Access!\nModify your Warframe with the Edo Prime Armor and Kazeru Prime Sugatra. Add Exclusive Volt Prime Avatars to your online presence! Speed up your in-game progress with 90-Day Affinity and Credit Boosters."
       }
     ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/HunhowHonoria/TitleDanteDeluxe",
+    "name": "Keeper Of Secrets Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
     "masterable": false
   },
   {
@@ -77690,6 +78490,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Crowns/ProtoAshCrown",
+    "name": "Kyzen Signa",
+    "description": "Ancient assassin techniques meet future technology.",
+    "type": "Skin",
+    "imageName": "ProtoAshCrown.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Events/AcolyteStalkerMios",
     "name": "Lacera Scorn Skin",
     "description": "A unique skin for the Lacera used by the Stalker's Acolyte, Mania.",
@@ -77782,6 +78592,16 @@
     "description": "A small plant with splayed, lanceolate leaves. ",
     "type": "Ship Decoration",
     "imageName": "DuvxZarimanPlantB.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeStyanaxSyandana",
+    "name": "Lanex Prime Syandana",
+    "description": "A syandana of gold and ethereal glory, for intimidation on the battlefield or celebration in the victory parade.",
+    "type": "Skin",
+    "imageName": "StyanaxPrimeSyandana.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -80036,7 +80856,6 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Trinity",
     "name": "Lettie's Hairstyle",
-    "excludeFromCodex": true,
     "description": "Lettie's classic vintage pompadour.",
     "type": "Skin",
     "imageName": "Hair1999Trinity.png",
@@ -81654,7 +82473,6 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Loid",
     "name": "Loid's Hairstyle",
-    "excludeFromCodex": true,
     "description": "The elegant, well-maintained tresses of a gentleman's gentleman.",
     "type": "Skin",
     "imageName": "Hair1999Loid.png",
@@ -86361,7 +87179,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraG",
     "name": "Lovestruck Ephemera",
-    "description": "“I'm getting stronger but I still feel the pain”\n\nEarned by defeating a Technocyte Coda.",
+    "description": "'I'm getting stronger but I still feel the pain'\n\nEarned by defeating a Technocyte Coda.",
     "type": "Skin",
     "imageName": "InfestedLichEphemeraG.png",
     "category": "Skins",
@@ -86893,7 +87711,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraD",
     "name": "Luv-Byte Ephemera",
-    "description": "“With a flicker of hope on the darkest of days\nNow it feels like the end is near”\n\nEarned by defeating a Technocyte Coda.",
+    "description": "'With a flicker of hope on the darkest of days\nNow it feels like the end is near'\n\nEarned by defeating a Technocyte Coda.",
     "type": "Skin",
     "imageName": "InfestedLichEphemeraD.png",
     "category": "Skins",
@@ -88678,6 +89496,17 @@
     "excludeFromCodex": true,
     "type": "Ship Decoration",
     "imageName": "RusalkaMedals.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/GuardianTitle",
+    "name": "Make Your Own Fate Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -93507,106 +94336,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Upgrades/Skins/Armor/Halloween2014Wings/Halloween2014ArmArmor",
-    "name": "Naberus",
-    "description": "Strike fear into the hearts of your enemies by cladding your Warframe in this ancient battle attire.",
-    "type": "Skin",
-    "imageName": "Halloween2014AArmor.png",
-    "category": "Skins",
-    "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Echoes of Veilbreaker: Update 32.1",
-        "date": "2022-11-02T15:00:14Z",
-        "url": "https://forums.warframe.com/topic/1329684-echoes-of-veilbreaker-update-321/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed the Balor Fomorian Alert not appearing in Navigation while Nights of Naberus is live. "
-      },
-      {
-        "name": "Veilbreaker: Revenant Prime: Hotfix 32.0.9",
-        "date": "2022-10-05T17:59:06Z",
-        "url": "https://forums.warframe.com/topic/1327014-veilbreaker-revenant-prime-hotfix-3209/",
-        "additions": "",
-        "changes": "The Nights of Naberus, the Origin System’s annual celebration of Orokin immortality (and all things macabre) has returned! This year, there are new items to earn with your Mother Tokens, including Decorations for your Orbiter and much more!\n*We added these Plague Star rewards to Daughter’s Naberus Offerings as the event will not be rerun this year. We did the same in 2020, since there was quite a bit of a gap between Plague Star runs.\nVisit Daughter on Deimos all month long to trade your Mother Tokens for the full spread of offerings. You can also save up to 25% on Day of the Dead bundles from previous years. Log-in and join us in celebrating the Nights of Naberus today!",
-        "fixes": ""
-      },
-      {
-        "name": "Nora's Mix Volume 1: Update 31.2.0 + 31.2.0.1",
-        "date": "2022-03-16T17:58:08Z",
-        "url": "https://forums.warframe.com/topic/1302788-noras-mix-volume-1-update-3120-31201/",
-        "additions": "",
-        "changes": "Naberus Ephemera ",
-        "fixes": ""
-      },
-      {
-        "name": "Update 30.9.0: Prime Resurgence",
-        "date": "2021-11-11T13:33:32Z",
-        "url": "https://forums.warframe.com/topic/1286070-update-3090-prime-resurgence/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed normal Star Chart nodes being locked after an Event expires (e.g. Necralisk after Night of Naberus)."
-      },
-      {
-        "name": "Nights of Naberus: Hotfix 30.8.2",
-        "date": "2021-10-13T19:53:31Z",
-        "url": "https://forums.warframe.com/topic/1283941-nights-of-naberus-hotfix-3082/",
-        "additions": "",
-        "changes": "Nights Of Naberus: Hotfix 30.8.2:",
-        "fixes": ""
-      },
-      {
-        "name": "Nights of Naberus: Hotfix 30.8.1",
-        "date": "2021-10-06T19:47:19Z",
-        "url": "https://forums.warframe.com/topic/1283279-nights-of-naberus-hotfix-3081/",
-        "additions": "",
-        "changes": "Nights Of Naberus: Hotfix 30.8.1:",
-        "fixes": ""
-      },
-      {
-        "name": "Nights of Naberus: Update 30.8.0",
-        "date": "2021-10-04T18:05:14Z",
-        "url": "https://forums.warframe.com/topic/1283036-nights-of-naberus-update-3080/",
-        "additions": "",
-        "changes": "Nights Of Naberus: Update 30.8.0:\nDaughter has dressed for the occasion in her most gruesome Naberus accoutrements and set up a shop full of festive wares in the Necralisk on Deimos.\nStop by for a visit and exchange Mother Tokens for all-new Naberus treats like the monstrously macabre Nyctalus Ephemera! Daughter’s offerings have been expanded this year to include additional Customizations, as well as Blueprints for some delightfully devilish Weapons.\nNaberus Rewards include:\nWhen Nights of Naberus begins, check out the new Gruesome Glyph Bundle in the in-game Market, as well as an assortment of returning Day of the Dead Customizations including discounted Skins, Syandanas and Armor. And add some festive fearfulness to your Fashion Frame with a traditional Dullahan Mask and Halloween Color Palette, available for 1 Credit each!",
-        "fixes": ""
-      },
-      {
-        "name": "Heart of Deimos: Nezha Prime: 29.3.0 + 29.3.0.1",
-        "date": "2020-10-27T17:59:01Z",
-        "url": "https://forums.warframe.com/topic/1232841-heart-of-deimos-nezha-prime-2930-29301/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed missing Daughter Naberus VO lines."
-      },
-      {
-        "name": "Heart of Deimos: Hotfix: 29.2.4: NIGHTS OF NABERUS!",
-        "date": "2020-10-15T18:43:58Z",
-        "url": "https://forums.warframe.com/topic/1231382-heart-of-deimos-hotfix-2924-nights-of-naberus/",
-        "additions": "",
-        "changes": "",
-        "fixes": "On Naberus, beauty is banished. Rot and monstrosity hold sway. And Daughter couldn’t be more excited!\nTo get everyone in the Naberus spirit, she’ll be dressing up in Morbid costume and offering exclusive, limited-time rewards available for purchase through her special Naberus-themed store in the Necralisk.\nListen to a gruesome tale narrated by Grandmother in the comfort of your Orbiter with a creepy Naberus-themed decoration, or enjoy an assortment of Glyphs, Emblems, Skins and Blueprints "
-      },
-      {
-        "name": "Empyrean: Ivara Prime 27.0.11 - 27.0.11.3",
-        "date": "2020-01-16T18:22:26Z",
-        "url": "https://forums.warframe.com/topic/1162207-empyrean-ivara-prime-27011-270113/",
-        "additions": "",
-        "changes": "Fixed overzealous particle sizes on the Naberus, Corposant Prime, and Spore Ephemeras when in Archwing.",
-        "fixes": ""
-      },
-      {
-        "name": "Octavia's Anthem: Update 20",
-        "date": "2017-03-24T19:46:02Z",
-        "url": "https://forums.warframe.com/topic/776642-octavias-anthem-update-20/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed the asymmetry of the Naberus Shoulder Armor on Loki’s Knave Deluxe skin."
-      }
-    ],
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Effects/BatsEphemera",
     "name": "Naberus Ephemera",
     "description": "A warrior walks, alone in crowds\nCompanion to moon and mist and bat\nWith a vision grim the mind enshrouds\nThis fearsome, deathborne aristocrat.",
@@ -93680,6 +94409,16 @@
     "description": "A vampiric look for Lotus to wear during the ancient festival of death and mischief.",
     "type": "Skin",
     "imageName": "HalloweenLotusSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Armor/Halloween2014Wings/Halloween2014ArmArmor",
+    "name": "Naberus Shoulder Armor",
+    "description": "Strike fear into the hearts of your enemies by cladding your Warframe in this ancient battle attire.",
+    "type": "Skin",
+    "imageName": "Halloween2014AArmor.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -97966,6 +98705,16 @@
         "fixes": ""
       }
     ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Grimoire/PagemasterDeluxeGrimoireSkin",
+    "name": "Noctua Lophos",
+    "description": "The dark feathers of Dante Tytonis' Exalted Tome lift arcane secrets to the skies.",
+    "type": "Skin",
+    "imageName": "DanteDeluxeGrimoireSkin.png",
+    "category": "Skins",
+    "tradable": false,
     "masterable": false
   },
   {
@@ -103611,6 +104360,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/OllieRacerTitle",
+    "name": "Ollie's Biggest Fan Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/Arcade/OlliesCrashCourseArcadeItem",
     "name": "Ollie's Crash Course Ludoplex Rom",
     "description": "Play Ollie's Crash Course on your Ludoplex. A Ludoplex may be acquired from Cephalon Simaris on a relay.",
@@ -104939,7 +105699,7 @@
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerOrion",
-    "name": "Orion Color Palette",
+    "name": "Orion",
     "description": "Unlocks a ruthless set of colors representing Orion.",
     "hexColours": [
       {
@@ -105215,6 +105975,51 @@
     ],
     "type": "Color Palette",
     "imageName": "ColorPickerOrion.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/JadeShadows2OrionPoster",
+    "name": "Orion Alone Display",
+    "description": "This display honors Orion, the burning heart. Schooled in vengeance, the only love he knows is death.",
+    "type": "Ship Decoration",
+    "imageName": "JadeShadows2OrionPoster.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/SiriusOrion/OrionHelmet",
+    "name": "Orion Helmet",
+    "description": "The standard issue helmet for the Orion Warframe.",
+    "type": "Skin",
+    "imageName": "OrionHelmet.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/SiriusOrion/OrionSkin",
+    "name": "Orion Skin",
+    "excludeFromCodex": true,
+    "description": "The standard issue skin for the Orion Warframe.",
+    "type": "Skin",
+    "imageName": "Orion.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SiriusOrionLeftSyandana",
+    "name": "Orion's Swaddle Syandana",
+    "description": "Swaddling cloth of the infant Orion, torn in ecstatic fury.",
+    "itemCount": 1,
+    "parents": [
+      "Jade's Victory Syandana"
+    ],
+    "type": "Skin",
+    "imageName": "SiriusOrionLeftSyandana.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -110963,7 +111768,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraE",
     "name": "Pins-N-Needles Ephemera",
-    "description": "“I thought I could take\nMore than I really can”\n\nEarned by defeating a Technocyte Coda.",
+    "description": "'I thought I could take\nMore than I really can'\n\nEarned by defeating a Technocyte Coda.",
     "type": "Skin",
     "imageName": "InfestedLichEphemeraE.png",
     "category": "Skins",
@@ -111017,6 +111822,17 @@
         "rarity": "Common"
       }
     ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/HunhowHonoria/TitleNidus",
+    "name": "Plague-Bearer Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
     "masterable": false
   },
   {
@@ -112473,334 +113289,6 @@
     "imageName": "CaliberChicksCorgi.png",
     "category": "Skins",
     "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerPrideItemA",
-    "name": "Pride",
-    "description": "A set of colors to celebrate Pride.",
-    "hexColours": [
-      {
-        "value": "0x00FE0000"
-      },
-      {
-        "value": "0x00FF0C0C"
-      },
-      {
-        "value": "0x00FF1C1C"
-      },
-      {
-        "value": "0x00FF2A2A"
-      },
-      {
-        "value": "0x00FF3A3A"
-      },
-      {
-        "value": "0x00DE7E7E"
-      },
-      {
-        "value": "0x00DE8082"
-      },
-      {
-        "value": "0x00DF8788"
-      },
-      {
-        "value": "0x00DF8E8D"
-      },
-      {
-        "value": "0x00E09693"
-      },
-      {
-        "value": "0x00E56969"
-      },
-      {
-        "value": "0x00E76F6C"
-      },
-      {
-        "value": "0x00E7756F"
-      },
-      {
-        "value": "0x00E87B72"
-      },
-      {
-        "value": "0x00E88075"
-      },
-      {
-        "value": "0x00FE7E00"
-      },
-      {
-        "value": "0x00FF840B"
-      },
-      {
-        "value": "0x00FF8915"
-      },
-      {
-        "value": "0x00FF9124"
-      },
-      {
-        "value": "0x00FF9730"
-      },
-      {
-        "value": "0x00F7983A"
-      },
-      {
-        "value": "0x00F99D3C"
-      },
-      {
-        "value": "0x00F9A33F"
-      },
-      {
-        "value": "0x00FAA842"
-      },
-      {
-        "value": "0x00FBB047"
-      },
-      {
-        "value": "0x00F2A961"
-      },
-      {
-        "value": "0x00F2AF66"
-      },
-      {
-        "value": "0x00F3B46B"
-      },
-      {
-        "value": "0x00F4BA70"
-      },
-      {
-        "value": "0x00F4C075"
-      },
-      {
-        "value": "0x00F5E80B"
-      },
-      {
-        "value": "0x00F4E820"
-      },
-      {
-        "value": "0x00F4E835"
-      },
-      {
-        "value": "0x00F3E845"
-      },
-      {
-        "value": "0x00F3E954"
-      },
-      {
-        "value": "0x00EFDF56"
-      },
-      {
-        "value": "0x00EFE162"
-      },
-      {
-        "value": "0x00EFE16E"
-      },
-      {
-        "value": "0x00EEE279"
-      },
-      {
-        "value": "0x00EEE283"
-      },
-      {
-        "value": "0x00F7ED99"
-      },
-      {
-        "value": "0x00F7EDA2"
-      },
-      {
-        "value": "0x00F6EEAB"
-      },
-      {
-        "value": "0x00F6EFB5"
-      },
-      {
-        "value": "0x00F5EFBF"
-      },
-      {
-        "value": "0x0014802B"
-      },
-      {
-        "value": "0x00188640"
-      },
-      {
-        "value": "0x001A9045"
-      },
-      {
-        "value": "0x001B9548"
-      },
-      {
-        "value": "0x001E9E4D"
-      },
-      {
-        "value": "0x0048A35B"
-      },
-      {
-        "value": "0x004FB364"
-      },
-      {
-        "value": "0x0053BC69"
-      },
-      {
-        "value": "0x0057C76F"
-      },
-      {
-        "value": "0x005DD476"
-      },
-      {
-        "value": "0x0070D585"
-      },
-      {
-        "value": "0x0078E48E"
-      },
-      {
-        "value": "0x0082F79A"
-      },
-      {
-        "value": "0x0090FFA7"
-      },
-      {
-        "value": "0x009EFFB2"
-      },
-      {
-        "value": "0x002F48B2"
-      },
-      {
-        "value": "0x003A51B4"
-      },
-      {
-        "value": "0x003F55B4"
-      },
-      {
-        "value": "0x004C60B6"
-      },
-      {
-        "value": "0x005669B8"
-      },
-      {
-        "value": "0x002175AF"
-      },
-      {
-        "value": "0x00267DB9"
-      },
-      {
-        "value": "0x002D85C2"
-      },
-      {
-        "value": "0x00358ECB"
-      },
-      {
-        "value": "0x004097D3"
-      },
-      {
-        "value": "0x0086A2F1"
-      },
-      {
-        "value": "0x0094ADF2"
-      },
-      {
-        "value": "0x00A0B7F6"
-      },
-      {
-        "value": "0x00ADC2FC"
-      },
-      {
-        "value": "0x00B8CBFF"
-      },
-      {
-        "value": "0x00582E98"
-      },
-      {
-        "value": "0x005E3899"
-      },
-      {
-        "value": "0x006741A0"
-      },
-      {
-        "value": "0x006F4CA6"
-      },
-      {
-        "value": "0x007956AD"
-      },
-      {
-        "value": "0x007E54BD"
-      },
-      {
-        "value": "0x00855CC3"
-      },
-      {
-        "value": "0x00916ACC"
-      },
-      {
-        "value": "0x009C77D4"
-      },
-      {
-        "value": "0x00AD8DDE"
-      },
-      {
-        "value": "0x00AC7BDE"
-      },
-      {
-        "value": "0x00B789E5"
-      },
-      {
-        "value": "0x00C092EF"
-      },
-      {
-        "value": "0x00C99AF9"
-      },
-      {
-        "value": "0x00D4AAFF"
-      }
-    ],
-    "type": "Color Palette",
-    "imageName": "ColorPickerStardust.png",
-    "category": "Skins",
-    "tradable": false,
-    "drops": [
-      {
-        "location": "Uranus/The Kuva Wytch (Skirmish)",
-        "type": "Pride Blueprint",
-        "chance": 14.29,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Uranus/The Kuva Wytch (Skirmish)",
-        "type": "Pride Blade Blueprint",
-        "chance": 14.29,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Uranus/The Kuva Wytch (Skirmish)",
-        "type": "Pride Handle Blueprint",
-        "chance": 14.29,
-        "rarity": "Uncommon"
-      }
-    ],
-    "patchlogs": [
-      {
-        "name": "Veilbreaker: Update 32",
-        "date": "2022-09-07T15:00:11Z",
-        "url": "https://forums.warframe.com/topic/1321162-veilbreaker-update-32/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Pride Community Display "
-      },
-      {
-        "name": "Gara Prime: Hotfix 30.3.5",
-        "date": "2021-06-10T19:47:41Z",
-        "url": "https://forums.warframe.com/topic/1267287-gara-prime-hotfix-3035/",
-        "additions": "",
-        "changes": "Updated Color Palette titles for Smoke and Pride to be consistent with other Palette titles.",
-        "fixes": ""
-      },
-      {
-        "name": "The Jovian Concord: Hotfix 25.2.3",
-        "date": "2019-06-25T18:04:46Z",
-        "url": "https://forums.warframe.com/topic/1105676-the-jovian-concord-hotfix-2523/",
-        "additions": "",
-        "changes": "Show your Warframe Pride with this exclusive Glyph you can display in your Profile! ",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -115967,7 +116455,6 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Quincy",
     "name": "Quincy's Hairstyle",
-    "excludeFromCodex": true,
     "description": "Braids and beads embody the marksman's pride.",
     "type": "Skin",
     "imageName": "Hair1999Quincy.png",
@@ -117333,6 +117820,17 @@
     "description": "Breakage reflects a heroic past.",
     "type": "Skin",
     "imageName": "KahlHelmetDamagedWithMask.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/JS2MGarudaPoster",
+    "name": "Relationship Goals Poster",
+    "description": "For the expression of extremely normal and measured feelings toward the object of your affection. Faint traces of Efervon imply the artist may have had a mechanical hand.",
+    "excludeFromCodex": true,
+    "type": "Ship Decoration",
+    "imageName": "JS2MGarudaPoster.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -119608,7 +120106,6 @@
     "uniqueName": "/Lotus/Types/Items/ShipDecos/CommunityRoatheDisplay",
     "name": "Roathe And Uriel Community Display",
     "description": "A display featuring the Heretic of Xata, and the demon, Uriel. Art by EnergyFalcon (Salt).",
-    "showInInventory": false,
     "type": "Ship Decoration",
     "imageName": "CommunityRoatheDisplay.png",
     "category": "Skins",
@@ -121176,7 +121673,6 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Rusalka",
     "name": "Rusalka's Hairstyle",
-    "excludeFromCodex": true,
     "description": "Major Rusalka's splendid hair, carefully plaited to keep it from entangling in her mechanical arm.",
     "type": "Skin",
     "imageName": "Hair1999Rusalka.png",
@@ -121190,6 +121686,48 @@
     "description": "Scratches mean nothing to this rough and ready Atomicycle livery.",
     "type": "Skin",
     "imageName": "MotorcycleRustSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryRyokuEmote",
+    "name": "Ryoku Gemini Emote",
+    "description": "Switch between Ash and Ryoku's Gemini Skin with the Ryoku Gemini Emote, even during missions.",
+    "excludeFromCodex": true,
+    "type": "Emotes",
+    "imageName": "GeminiAshEmote.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Ninja/AshGeminiSkin",
+    "name": "Ryoku Gemini Skin",
+    "description": "The keenest blade is a well-ordered mind. Equal parts killer and mentor, Ryoku gives voice to the silent assassin, Ash.",
+    "type": "Skin",
+    "imageName": "AshGeminiSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Ninja/AshGeminiAux",
+    "name": "Ryoku's Cowl",
+    "excludeFromCodex": true,
+    "description": "Ryoku's signature headgear.",
+    "type": "Skin",
+    "imageName": "AshGeminiAux.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Ash",
+    "name": "Ryoku's Hairstyle",
+    "description": "Ryoku's signature hairstyle.",
+    "type": "Skin",
+    "imageName": "Hair1999Ash.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -123557,6 +124095,17 @@
     "description": "During the Orokin era, those who bore this symbol inspired both admiration and fear. The jewel that adorned the Scoria, alumnae of the Orokin school of political assassination, is now yours to wear. Details of the school's ethos can be found in Ash's section of the Leverian.",
     "type": "Skin",
     "imageName": "ScoriaDiadem.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/HunhowHonoria/TitleAsh",
+    "name": "Scoria's Saint Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -126244,7 +126793,7 @@
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerSirius",
-    "name": "Sirius Color Palette",
+    "name": "Sirius",
     "description": "Unlocks a disciplined set of colors representing Sirius.",
     "hexColours": [
       {
@@ -126520,6 +127069,156 @@
     ],
     "type": "Color Palette",
     "imageName": "ColorPickerSirius.png",
+    "category": "Skins",
+    "tradable": false,
+    "drops": [
+      {
+        "location": "Uranus/Scoria's Angel (Skirmish)",
+        "type": "Sirius & Orion Blueprint",
+        "chance": 14.29,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Uranus/Scoria's Angel (Skirmish)",
+        "type": "Sirius & Orion Chassis Blueprint",
+        "chance": 14.29,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Uranus/Scoria's Angel (Skirmish)",
+        "type": "Sirius & Orion Neuroptics Blueprint",
+        "chance": 14.29,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Uranus/Scoria's Angel (Skirmish)",
+        "type": "Sirius & Orion Systems Blueprint",
+        "chance": 14.29,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Uranus/The Kuva Wytch (Skirmish)",
+        "type": "Sirius & Orion Blueprint",
+        "chance": 14.29,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Uranus/The Kuva Wytch (Skirmish)",
+        "type": "Sirius & Orion Chassis Blueprint",
+        "chance": 14.29,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Uranus/The Kuva Wytch (Skirmish)",
+        "type": "Sirius & Orion Neuroptics Blueprint",
+        "chance": 14.29,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Uranus/The Kuva Wytch (Skirmish)",
+        "type": "Sirius & Orion Systems Blueprint",
+        "chance": 14.29,
+        "rarity": "Uncommon"
+      }
+    ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/SiriusOrion/SiriusOrionAgileAnims",
+    "name": "Sirius & Orion Agile Animation Set",
+    "excludeFromCodex": true,
+    "description": "The Agile Animation Set for Sirius & Orion.",
+    "type": "Skin",
+    "imageName": "OrionAgile.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/SiriusOrion/UnlockSiriusOrionAgile",
+    "name": "Sirius & Orion Agile Animation Set",
+    "description": "This item lets you use Sirius & Orion's agile animation set with any Warframe of your choosing.",
+    "excludeFromCodex": true,
+    "type": "Skin",
+    "imageName": "OrionAgile.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/SiriusOrion/SiriusOrionNobleAnims",
+    "name": "Sirius & Orion Noble Animation Set",
+    "excludeFromCodex": true,
+    "description": "The Noble Animation Set for Sirius & Orion.",
+    "type": "Skin",
+    "imageName": "SiriusNoble.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/SiriusOrion/UnlockSiriusOrionNoble",
+    "name": "Sirius & Orion Noble Animation Set",
+    "description": "This item lets you use Sirius & Orion's noble animation set with any Warframe of your choosing.",
+    "excludeFromCodex": true,
+    "type": "Skin",
+    "imageName": "SiriusNoble.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardSiriusOrion",
+    "name": "Sirius & Orion Prex",
+    "description": "The Scions of Crimson and Emerald",
+    "type": "Ship Decoration",
+    "imageName": "TarotCardSiriusOrion.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/JadeShadows2SiriusPoster",
+    "name": "Sirius Alone Display",
+    "description": "This display honors Sirius, the lonely star. Raised in shadow. Trained with dignity.",
+    "excludeFromCodex": true,
+    "type": "Ship Decoration",
+    "imageName": "JadeShadows2SiriusPoster.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/SiriusOrion/SiriusHelmet",
+    "name": "Sirius Helmet",
+    "description": "The standard issue helmet for the Sirius Warframe.",
+    "type": "Skin",
+    "imageName": "SiriusHelmet.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/SiriusOrion/SiriusSkin",
+    "name": "Sirius Skin",
+    "excludeFromCodex": true,
+    "description": "The standard issue skin for the Sirius Warframe.",
+    "type": "Skin",
+    "imageName": "Sirius.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SiriusOrionRightSyandana",
+    "name": "Sirius' Swaddle Syandana",
+    "description": "Swaddling cloth of the infant Sirius, worn as a ragged badge of honor.",
+    "itemCount": 1,
+    "parents": [
+      "Jade's Victory Syandana"
+    ],
+    "type": "Skin",
+    "imageName": "SiriusOrionRightSyandana.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -126817,7 +127516,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Kubrows/Armor/PacifistKubrowArmor",
     "name": "Sloughi Kubrow Armor",
-    "description": "Kurbrow armor for Baruuk’s loyal beast.",
+    "description": "Kubrow armor for Baruuk's loyal beast.",
     "type": "Skin",
     "imageName": "KubrowArmorPacifist.png",
     "category": "Skins",
@@ -129041,7 +129740,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraH",
     "name": "Soul-Eye Ephemera",
-    "description": "“I keep thinking I see you\nAnd there's nobody there”\n\nEarned by defeating a Technocyte Coda.",
+    "description": "'I keep thinking I see you\nAnd there's nobody there'\n\nEarned by defeating a Technocyte Coda.",
     "type": "Skin",
     "imageName": "InfestedLichEphemeraH.png",
     "category": "Skins",
@@ -130150,6 +130849,16 @@
     "description": "Enchant any staff with this skin",
     "type": "Skin",
     "imageName": "StavesVoluSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/JadeShadows2FightPoster",
+    "name": "Stay Together Display",
+    "description": "This display celebrates the best of both worlds, and the worst of each. United or divided, they are two sides of the same whole.",
+    "type": "Ship Decoration",
+    "imageName": "JadeShadows2FightPoster.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -131638,6 +132347,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/HunhowHonoria/TitleVolt",
+    "name": "Strikes Twice Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternA",
     "name": "Striped Fur Pattern",
     "description": "A striped fur pattern for your Kubrow.",
@@ -131653,6 +132373,17 @@
     "description": "An intricate fur pattern for your Kavat.",
     "type": "Fur Pattern",
     "imageName": "KavatFurPatternB.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Emotes/ClanCollaborativeEmote",
+    "name": "Strong United",
+    "description": "Kick it up high! When used together with up to four clanmates, each will perform a unique move before joining together in a final pose.",
+    "excludeFromCodex": true,
+    "type": "Emotes",
+    "imageName": "ClanEmote.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -132018,6 +132749,37 @@
     "description": "Shield of the Innocent",
     "type": "Ship Decoration",
     "imageName": "TarotCardStyanax.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Hoplite/StyanaxPrimeHelmetNoCloth",
+    "name": "Styanax Prime Bare Helmet",
+    "description": "Styanax Prime's helmet, stripped down and ready to enter the melee.",
+    "type": "Skin",
+    "imageName": "StyanaxPrimeHelmetNoCloth.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Hoplite/StyanaxPrimeHelmet",
+    "name": "Styanax Prime Helmet",
+    "description": "The standard issue helmet for the Styanax Prime Warframe.",
+    "type": "Skin",
+    "imageName": "StyanaxPrimeHelmet.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Hoplite/StyanaxPrimeSkin",
+    "name": "Styanax Prime Skin",
+    "excludeFromCodex": true,
+    "description": "The standard issue skin for the Styanax Prime Warframe.",
+    "type": "Skin",
+    "imageName": "StyanaxPrime.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -132667,6 +133429,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/CaliburChicksHighScoreTitle",
+    "name": "Supreme Operative Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LotusPointMeleeDangle",
     "name": "Suraka Sugatra",
     "description": "Expressing the martial finesse and skill of its master, the Suraka Sugatra uses an ancient Tenno ceremonial design.",
@@ -133151,6 +133924,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Effects/AshGeminiEphemera",
+    "name": "Syndir Ephemera",
+    "description": "Obscure the identity of the killer within with this translucent ephemera. The mark of a Scoria assassin.",
+    "type": "Skin",
+    "imageName": "AshGeminiEphemera.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TnSmallBatteryCape",
     "name": "Synkra Syandana",
     "excludeFromCodex": true,
@@ -133324,7 +134107,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraB",
     "name": "Tail Feather Ephemera",
-    "description": "“Please stay\nDon't put out the flame and run away”\n\nEarned by defeating a Technocyte Coda.",
+    "description": "'Please stay\nDon't put out the flame and run away'\n\nEarned by defeating a Technocyte Coda.",
     "type": "Skin",
     "imageName": "InfestedLichEphemeraB.png",
     "category": "Skins",
@@ -138628,6 +139411,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2026DigitalItemDisplay",
+    "name": "Tennocon 2026 Pin Display",
+    "description": "Use this display to mark the arrival of TennoCon 2026.",
+    "type": "Ship Decoration",
+    "imageName": "Tennocon2026DigitalItemDisplay.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/Emotes/Tennocon2024EmoteAlt",
     "name": "Tennocon Crt Emote",
     "description": "Bestowed upon those who joined together in celebration at the TennoCon Relay.",
@@ -139051,6 +139844,27 @@
     "description": "You will honor Styanax when you display these cherished armaments.",
     "type": "Ship Decoration",
     "imageName": "StyanaxSpearShieldDeco.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropStyanaxPrimeSpearShieldDeco",
+    "name": "Tharros & Axios Prime Decoration",
+    "description": "The exalted armaments of Styanax Prime, ready for place of pride in your Orbiter.",
+    "type": "Ship Decoration",
+    "imageName": "LisetPrimeStyanaxPrimeSpearShieldDeco.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/HunhowHonoria/TitleExcalibur",
+    "name": "The Awoken Sword Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -139932,6 +140746,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyDeepSpaceBronze",
+    "name": "The Steel Path - Railjack",
+    "description": "A signifier of piloting the Railjack through the Steel Path.",
+    "type": "Ship Decoration",
+    "imageName": "DeepSpaceTrophyBronze.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophySaturnBronze",
     "name": "The Steel Path - Saturn",
     "description": "A signifier of walking The Steel Path on Saturn",
@@ -140158,6 +140982,16 @@
     "description": "Awarded for completing The Steel Path: Pluto.",
     "type": "Emotes",
     "imageName": "EmotePluto.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Emotes/HardmodeDeepSpaceEmote",
+    "name": "The Steel Path: Railjack",
+    "description": "Awarded for piloting the Railjack through the Steel Path.",
+    "type": "Emotes",
+    "imageName": "EmoteDeepSpace.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -144105,6 +144939,16 @@
         "fixes": "Twilight Colour Picker!Other Additions:"
       }
     ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/LisetPropJS2Crib",
+    "name": "Twin Bassinet Decoration",
+    "description": "Keep sneaky little babies eternally safe with this Orokin-era bassinet for two.",
+    "type": "Ship Decoration",
+    "imageName": "LisetPropJS2Crib.png",
+    "category": "Skins",
+    "tradable": false,
     "masterable": false
   },
   {
@@ -150009,6 +150853,59 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryWytchEmote",
+    "name": "Vena Gemini Emote",
+    "description": "Switch between Garuda and Vena's Gemini Skin with the Vena Gemini Emote, even during missions.",
+    "excludeFromCodex": true,
+    "type": "Emotes",
+    "imageName": "GeminiGarudaEmote.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaGeminiSkin",
+    "name": "Vena Gemini Skin",
+    "description": "Vena, the Wytch, emerges from a doomed future to put a sadistic smile on Garuda. Revel in the blood of all those who stand against her. ",
+    "type": "Skin",
+    "imageName": "GarudaGeminiSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaGeminiChest",
+    "name": "Vena's Bolero",
+    "excludeFromCodex": true,
+    "description": "Vena's signature bolero.",
+    "type": "Skin",
+    "imageName": "GarudaGeminiAux.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Garuda",
+    "name": "Vena's Hairstyle",
+    "description": "Vena's signature hairstyle.",
+    "type": "Skin",
+    "imageName": "Hair1999Garuda.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaGeminiClawsSkin",
+    "name": "Vena's Talons",
+    "excludeFromCodex": true,
+    "description": "Vena's signature talons.",
+    "type": "Skin",
+    "imageName": "GarudaGeminiClaws.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Khora/VenariPrimeSkin",
     "name": "Venari Prime Skin",
     "excludeFromCodex": true,
@@ -152037,6 +152934,17 @@
     "description": "For the Kavat that turns up the heat on its quarry.",
     "type": "Skin",
     "imageName": "KavatArmorVermillion.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2026CosplayDisplay",
+    "name": "Verminia Cosplay Community Display",
+    "description": "An otherworldly witch, Brewer of Hues. Inspired by the Lotus, she brewed and stitched an outfit befit. A Display designed by the community artist Luckygoblinnn.",
+    "excludeFromCodex": true,
+    "type": "Ship Decoration",
+    "imageName": "TennoCon2026CosplayDisplay.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -154123,6 +155031,16 @@
     "description": "They're the squeezy little fellas from the Cambion Drift! Take them home today!",
     "type": "Ship Decoration",
     "imageName": "PlushInfestedMergooRare.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Effects/GarudaBloodEphemera",
+    "name": "Viserakta Ephemera",
+    "description": "Bathe in the life essence of your enemies.",
+    "type": "Skin",
+    "imageName": "GarudaBloodEphemera.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -156758,6 +157676,17 @@
         "fixes": ""
       }
     ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/KRacerTitle",
+    "name": "Wave Rider Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
     "masterable": false
   },
   {
