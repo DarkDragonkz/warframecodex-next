@@ -78164,7 +78164,7 @@
         "url": "https://forums.warframe.com/topic/298960-update-145-operation-cryotic-front/",
         "additions": "",
         "changes": "• In an effort to compensate for more useful attribution of XP when triggering a chain reaction with Molecular Prime, the main XP is attributed to whoever started the chain reaction. Before, Nova would take the bulk of the attribution. Now,  the \"weapon and instigator\" carry through the whole explosion chain ( if Player A casts Molecular Prime and Player B blows up the room, Player B gets the kills and XP). Similarly, if Player A casts Molecular Prime to Crowd-Control and then use their slowed state to get a nice bow-shot, Player B get weapon XP.\n• Fixed some of the cases where two Nova's casting Molecular Prime would have unexpected results (explosion range and strength were always determined by the Nova who cast most recently).",
-        "fixes": "��� Fixed Dendra armor colour not updating until you leave the attachments part of the Arsenal. This should also fix Ember’s FX, Nova’s helmets, Frost’s jets, Ember Prime’s flaming Mohawk, and the Silva & Aegis."
+        "fixes": "• Fixed Dendra armor colour not updating until you leave the attachments part of the Arsenal. This should also fix Ember’s FX, Nova’s helmets, Frost’s jets, Ember Prime’s flaming Mohawk, and the Silva & Aegis."
       },
       {
         "name": "Hotfix 13.9.1",
@@ -93338,7 +93338,7 @@
         "date": "2021-09-08T16:58:55Z",
         "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
         "additions": "",
-        "changes": "Fixed Rhino’s Rhino Stomp perpetually stunning both Kuva Liches and Sisters of Parvos.",
+        "changes": "Fixed Rhino���s Rhino Stomp perpetually stunning both Kuva Liches and Sisters of Parvos.",
         "fixes": "Fixed a script error related to Rhino’s Iron Skin.\nFixed a script error when casting Rhino’s Roar ability."
       },
       {
