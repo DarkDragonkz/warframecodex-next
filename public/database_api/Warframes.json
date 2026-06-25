@@ -17673,7 +17673,7 @@
         "url": "https://forums.warframe.com/topic/117806-update-1030-hump-day/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed missing damage number reports for clients during Ember���s Overheat ability.\nFixed Osprey's not being affected by Ember’s Fireblast (even when flying right through the effects).\nFixed Ember’s Fireblast light FX being independent of its power duration."
+        "fixes": "Fixed missing damage number reports for clients during Ember’s Overheat ability.\nFixed Osprey's not being affected by Ember’s Fireblast (even when flying right through the effects).\nFixed Ember’s Fireblast light FX being independent of its power duration."
       },
       {
         "name": "Hotfix 10.1.3",
@@ -20954,7 +20954,7 @@
         "url": "https://forums.warframe.com/topic/925435-shrine-of-the-eidolon-hotfix-22134/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Arcanes working inconsistently on Exalted Abilities (Excalibur’s Exalted Blade, etc) or Weapon Abilities (Titania’s Razorwing, etc)."
+        "fixes": "Fixed Arcanes working inconsistently on Exalted Abilities (Excalibur��s Exalted Blade, etc) or Weapon Abilities (Titania’s Razorwing, etc)."
       },
       {
         "name": "Plains of Eidolon: Hotfix 22.11.1",
@@ -30762,7 +30762,7 @@
         "url": "https://forums.warframe.com/topic/1224002-heart-of-deimos-hotfix-2908-29081/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Garuda’s Talons not being visible on the End of Mission screen."
+        "fixes": "Fixed Garuda���s Talons not being visible on the End of Mission screen."
       },
       {
         "name": "Heart of Deimos: Hotfix 29.0.7",
@@ -61572,7 +61572,7 @@
         "url": "https://forums.warframe.com/topic/393115-update-15120/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed an issue with Mesa��s kills with Peacemaker not accounting properly as kills from the Warframe. This should rectify issues with suit XP not being earned at full value."
+        "fixes": "Fixed an issue with Mesa’s kills with Peacemaker not accounting properly as kills from the Warframe. This should rectify issues with suit XP not being earned at full value."
       },
       {
         "name": "Update 15.9",
@@ -71024,7 +71024,7 @@
         "url": "https://forums.warframe.com/topic/635136-update-1880/",
         "additions": "",
         "changes": "",
-        "fixes": "•    Fixed Nezha’s Blazing Chakram repeatably knocking down Ambulas."
+        "fixes": "•    Fixed Nezha��s Blazing Chakram repeatably knocking down Ambulas."
       },
       {
         "name": "Update 18.6",
@@ -93338,7 +93338,7 @@
         "date": "2021-09-08T16:58:55Z",
         "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
         "additions": "",
-        "changes": "Fixed Rhino���s Rhino Stomp perpetually stunning both Kuva Liches and Sisters of Parvos.",
+        "changes": "Fixed Rhino’s Rhino Stomp perpetually stunning both Kuva Liches and Sisters of Parvos.",
         "fixes": "Fixed a script error related to Rhino’s Iron Skin.\nFixed a script error when casting Rhino’s Roar ability."
       },
       {
