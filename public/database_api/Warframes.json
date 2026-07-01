@@ -800,7 +800,7 @@
         "date": "2016-01-13T22:55:58Z",
         "url": "https://forums.warframe.com/topic/594267-update-183/",
         "additions": "",
-        "changes": "Ash \nAsh's Bladestorm range has been increased from 8m to 10m in Conclave.\nAsh��s Smoke Shadow Augment Mod now affects ally NPCs.",
+        "changes": "Ash \nAsh's Bladestorm range has been increased from 8m to 10m in Conclave.\nAsh’s Smoke Shadow Augment Mod now affects ally NPCs.",
         "fixes": ""
       },
       {
@@ -40453,7 +40453,7 @@
         "date": "2017-08-29T17:55:46Z",
         "url": "https://forums.warframe.com/topic/836927-hydroid-prime-update-2160/",
         "additions": "",
-        "changes": "Hydroid Prime: Update 21.6.0:\nWith the introduction of Hydroid Prime comes two additional Prime weapons suited for a deadly ocean king:\nWith Hydroid Prime bubbling up from the depths, the following Prime items and their Relics have entered the Prime Vault:\nHydroid���s Undertow now displays an ability counter of how many enemies are currently submerged.",
+        "changes": "Hydroid Prime: Update 21.6.0:\nWith the introduction of Hydroid Prime comes two additional Prime weapons suited for a deadly ocean king:\nWith Hydroid Prime bubbling up from the depths, the following Prime items and their Relics have entered the Prime Vault:\nHydroid’s Undertow now displays an ability counter of how many enemies are currently submerged.",
         "fixes": "Fixed being able to Corrosive Status Effect yourself with Hydroid’s Corroding Barrage Augment if hit at the start of casting Undertow."
       },
       {
@@ -103691,7 +103691,7 @@
         "date": "2013-09-06T18:30:21Z",
         "url": "https://forums.warframe.com/topic/102835-update-98/",
         "additions": "",
-        "changes": "Trinity: https://forums.warframe.com/index.php?/topic/102830-trinity-98-feedback-thread/\nUpdated sound for Trinity’s Well of Life ability.\nPvP Dueling – Trinity can now effectively target opponents with all abilities.",
+        "changes": "Trinity: https://forums.warframe.com/index.php?/topic/102830-trinity-98-feedback-thread/\nUpdated sound for Trinity’s Well of Life ability.\nPvP Dueling ��� Trinity can now effectively target opponents with all abilities.",
         "fixes": "Fixed FX being applied incorrectly while Trinity’s Blessing ability is active, and FX lingering on clients.\nFixed Trinity's Link tendrils not going away when all targets are dead or out of range.\nFix a number of issues with Trinity's powers in PVP. Blessing / EnergyVampire / Well of Life should all work correctly for valid targets in PvP."
       },
       {
