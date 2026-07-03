@@ -5733,6 +5733,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
+            "location": "Neo V12 Relic (Radiant)",
+            "type": "Akbronco Prime Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
+          },
+          {
             "location": "Neo W2 Relic (Radiant)",
             "type": "Akbronco Prime Blueprint",
             "chance": 16.67,
@@ -5934,6 +5941,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
+          },
+          {
+            "location": "Neo V12 Relic (Flawless)",
+            "type": "Akbronco Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
           },
           {
             "location": "Neo W2 Relic (Flawless)",
@@ -6139,6 +6153,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
+            "location": "Neo V12 Relic (Exceptional)",
+            "type": "Akbronco Prime Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
+          },
+          {
             "location": "Neo W2 Relic (Exceptional)",
             "type": "Akbronco Prime Blueprint",
             "chance": 23.33,
@@ -6340,6 +6361,13 @@
             "chance": 25.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
+          },
+          {
+            "location": "Neo V12 Relic",
+            "type": "Akbronco Prime Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
           },
           {
             "location": "Neo W2 Relic",

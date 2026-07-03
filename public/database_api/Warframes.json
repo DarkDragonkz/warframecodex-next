@@ -800,7 +800,7 @@
         "date": "2016-01-13T22:55:58Z",
         "url": "https://forums.warframe.com/topic/594267-update-183/",
         "additions": "",
-        "changes": "Ash \nAsh's Bladestorm range has been increased from 8m to 10m in Conclave.\nAsh’s Smoke Shadow Augment Mod now affects ally NPCs.",
+        "changes": "Ash \nAsh's Bladestorm range has been increased from 8m to 10m in Conclave.\nAsh��s Smoke Shadow Augment Mod now affects ally NPCs.",
         "fixes": ""
       },
       {
@@ -15270,7 +15270,7 @@
         "date": "2020-11-19T23:39:27Z",
         "url": "https://forums.warframe.com/topic/1236257-update-295-deimos-arcana/",
         "additions": "",
-        "changes": "In Round 1, we made the distinction between Grasp of Lohk’s ‘Grab Range’ and ‘Target Range’. We then increased its ‘Grab Range’ and left ‘Target Range’ untouched due to “firing range experiments being a bit too wild for Round 1”. As we���ve continued testing, this has held true. In any instance where we’ve increased it, even slightly, we neared a state that we had already established was undesirable due to its encouragement of an ‘inactive’ way of playing (Ember’s “World on Fire” comes to mind before it was changed to “Inferno”). As a result, ‘Target Range’ will continue to remain untouched for this round.",
+        "changes": "In Round 1, we made the distinction between Grasp of Lohk’s ‘Grab Range’ and ‘Target Range’. We then increased its ‘Grab Range’ and left ‘Target Range’ untouched due to “firing range experiments being a bit too wild for Round 1”. As we’ve continued testing, this has held true. In any instance where we’ve increased it, even slightly, we neared a state that we had already established was undesirable due to its encouragement of an ‘inactive’ way of playing (Ember’s “World on Fire” comes to mind before it was changed to “Inferno”). As a result, ‘Target Range’ will continue to remain untouched for this round.",
         "fixes": ""
       },
       {
@@ -51284,7 +51284,7 @@
         "url": "https://forums.warframe.com/topic/503583-hotfix-1703/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed the Kulstar’s secondary fire hitting enemies outside of Limbo��s rift while Limbo is riftwalking."
+        "fixes": "Fixed the Kulstar’s secondary fire hitting enemies outside of Limbo’s rift while Limbo is riftwalking."
       },
       {
         "name": "Update 17: Echoes Of The Sentient",
@@ -115109,6 +115109,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
+            "location": "Neo V12 Relic (Radiant)",
+            "type": "Voruna Prime Systems Blueprint",
+            "chance": 10,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
+          },
+          {
             "location": "Lith V11 Relic",
             "type": "Voruna Prime Systems Blueprint",
             "chance": 2,
@@ -115121,6 +115128,13 @@
             "chance": 2,
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
+          },
+          {
+            "location": "Neo V12 Relic",
+            "type": "Voruna Prime Systems Blueprint",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
           },
           {
             "location": "Lith V11 Relic (Exceptional)",
@@ -115137,6 +115151,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
+            "location": "Neo V12 Relic (Exceptional)",
+            "type": "Voruna Prime Systems Blueprint",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
+          },
+          {
             "location": "Lith V11 Relic (Flawless)",
             "type": "Voruna Prime Systems Blueprint",
             "chance": 6,
@@ -115149,6 +115170,13 @@
             "chance": 6,
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
+          },
+          {
+            "location": "Neo V12 Relic (Flawless)",
+            "type": "Voruna Prime Systems Blueprint",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
           }
         ],
         "masterable": false,
@@ -120081,6 +120109,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
+            "location": "Neo V12 Relic",
+            "type": "Xaku Prime Chassis Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
+          },
+          {
             "location": "Axi V12 Relic (Exceptional)",
             "type": "Xaku Prime Chassis Blueprint",
             "chance": 13,
@@ -120121,6 +120156,13 @@
             "chance": 13,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
+          },
+          {
+            "location": "Neo V12 Relic (Exceptional)",
+            "type": "Xaku Prime Chassis Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
           },
           {
             "location": "Axi V12 Relic (Flawless)",
@@ -120165,6 +120207,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
+            "location": "Neo V12 Relic (Flawless)",
+            "type": "Xaku Prime Chassis Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
+          },
+          {
             "location": "Axi V12 Relic (Radiant)",
             "type": "Xaku Prime Chassis Blueprint",
             "chance": 20,
@@ -120205,6 +120254,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
+          },
+          {
+            "location": "Neo V12 Relic (Radiant)",
+            "type": "Xaku Prime Chassis Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
           }
         ],
         "masterable": false,
@@ -121229,6 +121285,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
+            "location": "Neo V12 Relic (Radiant)",
+            "type": "Yareli Prime Chassis Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
+          },
+          {
             "location": "Lith A10 Relic (Flawless)",
             "type": "Yareli Prime Chassis Blueprint",
             "chance": 20,
@@ -121262,6 +121325,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
+          },
+          {
+            "location": "Neo V12 Relic (Flawless)",
+            "type": "Yareli Prime Chassis Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
           },
           {
             "location": "Lith A10 Relic (Exceptional)",
@@ -121299,6 +121369,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
+            "location": "Neo V12 Relic (Exceptional)",
+            "type": "Yareli Prime Chassis Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
+          },
+          {
             "location": "Lith A10 Relic",
             "type": "Yareli Prime Chassis Blueprint",
             "chance": 25.33,
@@ -121332,6 +121409,13 @@
             "chance": 25.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
+          },
+          {
+            "location": "Neo V12 Relic",
+            "type": "Yareli Prime Chassis Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
           }
         ],
         "masterable": false,

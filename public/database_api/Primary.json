@@ -35295,6 +35295,121 @@
     "masterable": true
   },
   {
+    "name": "Haalvu",
+    "uniqueName": "/Lotus/Weapons/Sentients/SentOctaMiniGun/SentOctaMiniGun",
+    "damagePerShot": [
+      23.4,
+      23.4,
+      43.200001,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "totalDamage": 90,
+    "description": "Deliver a ruthless barrage of Sentient artillery from this instrument of death. Alt-fire splits the weapon apart into 8 separate rifles, expanding its devastation by tracking up to 4 targets at once, while consuming more ammo per shot.",
+    "criticalChance": 0.22,
+    "criticalMultiplier": 2.2,
+    "procChance": 0.22000003,
+    "fireRate": 15.000001,
+    "masteryReq": 8,
+    "productCategory": "LongGuns",
+    "slot": 1,
+    "accuracy": 100,
+    "omegaAttenuation": 0.5,
+    "noise": "Alarming",
+    "trigger": "Auto",
+    "magazineSize": 200,
+    "reloadTime": 13.833333,
+    "multishot": 1,
+    "type": "Rifle",
+    "damage": {
+      "total": 90,
+      "impact": 23.4,
+      "puncture": 43.200001,
+      "slash": 23.4,
+      "heat": 0,
+      "cold": 0,
+      "electricity": 0,
+      "toxin": 0,
+      "blast": 0,
+      "radiation": 0,
+      "gas": 0,
+      "magnetic": 0,
+      "viral": 0,
+      "corrosive": 0,
+      "void": 0,
+      "tau": 0,
+      "cinematic": 0,
+      "shieldDrain": 0,
+      "healthDrain": 0,
+      "energyDrain": 0,
+      "true": 0
+    },
+    "imageName": "TnoOctaMiniGun.png",
+    "category": "Primary",
+    "tradable": false,
+    "wikiAvailable": true,
+    "attacks": [
+      {
+        "name": "Normal Attack",
+        "speed": 15,
+        "crit_chance": 22,
+        "crit_mult": 2.2,
+        "status_chance": 22,
+        "shot_type": "Hit-Scan",
+        "damage": {
+          "impact": 23.4,
+          "slash": 43.2,
+          "puncture": 23.4
+        }
+      },
+      {
+        "name": "Alt-Fire",
+        "speed": 15,
+        "crit_chance": 0,
+        "crit_mult": 2,
+        "status_chance": 20,
+        "shot_type": "Hit-Scan",
+        "damage": {}
+      }
+    ],
+    "tags": [
+      "Sentient"
+    ],
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Haalvu.png?c2ddd",
+    "wikiaUrl": "https://wiki.warframe.com/w/Haalvu",
+    "introduced": {
+      "name": "TBA",
+      "url": "https://wiki.warframe.com/w/Upcoming_Features",
+      "aliases": [
+        "TBA",
+        "999",
+        "999.0",
+        "999.0.0"
+      ],
+      "parent": "0.0",
+      "date": "0000-00-00"
+    },
+    "disposition": 1,
+    "releaseDate": "0000-00-00",
+    "isPrime": false,
+    "masterable": true
+  },
+  {
     "name": "Harpak",
     "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrnHarpoonGun/GrnHarpoonGun",
     "damagePerShot": [
@@ -51001,6 +51116,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
+            "location": "Neo V12 Relic (Radiant)",
+            "type": "Paris Prime Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
+          },
+          {
             "location": "Neo Z1 Relic (Radiant)",
             "type": "Paris Prime Blueprint",
             "chance": 16.67,
@@ -51223,6 +51345,13 @@
             "chance": 20,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
+          },
+          {
+            "location": "Neo V12 Relic (Flawless)",
+            "type": "Paris Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
           },
           {
             "location": "Neo Z1 Relic (Flawless)",
@@ -51449,6 +51578,13 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           },
           {
+            "location": "Neo V12 Relic (Exceptional)",
+            "type": "Paris Prime Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
+          },
+          {
             "location": "Neo Z1 Relic (Exceptional)",
             "type": "Paris Prime Blueprint",
             "chance": 23.33,
@@ -51671,6 +51807,13 @@
             "chance": 25.33,
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
+          },
+          {
+            "location": "Neo V12 Relic",
+            "type": "Paris Prime Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze"
           },
           {
             "location": "Neo Z1 Relic",

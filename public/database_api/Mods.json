@@ -8938,7 +8938,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -11579,6 +11579,12 @@
       },
       {
         "location": "Bloodfrenzy Orm Gox",
+        "type": "Artillery Cheap Shot",
+        "chance": 0.15,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Bloodfrenzy Ramsled",
         "type": "Artillery Cheap Shot",
         "chance": 0.15,
         "rarity": "Rare"
@@ -23072,6 +23078,12 @@
       },
       {
         "location": "Bloodfrenzy Orm Gox",
+        "type": "Breach Quanta",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bloodfrenzy Ramsled",
         "type": "Breach Quanta",
         "chance": 3.79,
         "rarity": "Uncommon"
@@ -62650,6 +62662,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Bloodfrenzy Ramsled",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Bloodfrenzy Raptor",
         "type": "Fire Suppression",
         "chance": 3.79,
@@ -65145,6 +65163,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Bloodfrenzy Ramsled",
+        "type": "Flow Burn",
+        "chance": 1.66,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Bloodfrenzy Raptor",
         "type": "Flow Burn",
         "chance": 1.66,
@@ -65856,6 +65880,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Bloodfrenzy Ramsled",
+        "type": "Flow Burn",
+        "chance": 1.66,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Bloodfrenzy Raptor",
         "type": "Flow Burn",
         "chance": 1.66,
@@ -66419,6 +66449,12 @@
       },
       {
         "location": "Bloodfrenzy Orm Gox",
+        "type": "Flow Burn",
+        "chance": 1.66,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Bloodfrenzy Ramsled",
         "type": "Flow Burn",
         "chance": 1.66,
         "rarity": "Uncommon"
@@ -106680,7 +106716,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -117112,6 +117148,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Kumihimo Loading (Koumei)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "New Loka, Flawless",
+        "type": "Kumihimo Loading (Koumei)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/KumihimoLoadingMod.png?84272",
     "wikiaUrl": "https://wiki.warframe.com/w/Kumihimo_Loading",
@@ -130940,7 +130990,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "upgradeEntries": [
       {
         "tag": "WeaponMeleeDamageMod",
@@ -156292,6 +156342,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Noctua Swarm (Dante)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Noctua Swarm (Dante)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/NoctuaSwarmMod.png?84272",
     "wikiaUrl": "https://wiki.warframe.com/w/Noctua_Swarm",
@@ -161266,6 +161330,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Bloodfrenzy Ramsled",
+        "type": "Orgone Tuning Matrix",
+        "chance": 1.66,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Bloodfrenzy Raptor",
         "type": "Orgone Tuning Matrix",
         "chance": 1.66,
@@ -164503,6 +164573,12 @@
       },
       {
         "location": "Bloodfrenzy Orm Gox",
+        "type": "Particle Ram",
+        "chance": 0.15,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Bloodfrenzy Ramsled",
         "type": "Particle Ram",
         "chance": 0.15,
         "rarity": "Rare"
@@ -170326,7 +170402,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -191407,6 +191483,22 @@
     "imageName": "ArchwingWeaponElectricityDamageModRifle.jpg",
     "category": "Mods",
     "tradable": true,
+    "wikiAvailable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Primed_Electrified_Barrel",
+    "transmutable": false,
+    "introduced": {
+      "name": "TBA",
+      "url": "https://wiki.warframe.com/w/Upcoming_Features",
+      "aliases": [
+        "TBA",
+        "999",
+        "999.0",
+        "999.0.0"
+      ],
+      "parent": "0.0",
+      "date": "0000-00-00"
+    },
+    "releaseDate": "0000-00-00",
     "isPrime": true,
     "masterable": false
   },
@@ -203428,6 +203520,7 @@
       }
     ],
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RazorMortarMod.png?bc6e9",
     "wikiaUrl": "https://wiki.warframe.com/w/Razor_Mortar",
     "transmutable": false,
     "introduced": {
@@ -214457,6 +214550,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Reroot Rampage (Nokko)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Reroot Rampage (Nokko)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RerootRampageMod.png?84272",
     "wikiaUrl": "https://wiki.warframe.com/w/Reroot_Rampage",
@@ -217155,6 +217262,20 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "drops": [
+      {
+        "location": "New Loka, Flawless",
+        "type": "Rhythm Guard (Temple)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Steel Meridian, General",
+        "type": "Rhythm Guard (Temple)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RhythmGuardMod.png?84272",
     "wikiaUrl": "https://wiki.warframe.com/w/Rhythm_Guard",
@@ -218467,7 +218588,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -244425,6 +244546,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Bloodfrenzy Ramsled",
+        "type": "Shatter Burst",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Bloodfrenzy Raptor",
         "type": "Shatter Burst",
         "chance": 3.79,
@@ -251212,7 +251339,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -301170,7 +301297,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301197,7 +301324,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301224,7 +301351,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301252,7 +301379,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301280,7 +301407,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301308,7 +301435,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301336,7 +301463,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301364,7 +301491,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301392,7 +301519,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -301420,7 +301547,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -316246,7 +316373,7 @@
     "polarity": "universal",
     "rarity": "Common",
     "baseDrain": 2,
-    "fusionLimit": 384,
+    "fusionLimit": 524,
     "upgradeEntries": [
       {
         "tag": "WeaponMeleeDamageMod",

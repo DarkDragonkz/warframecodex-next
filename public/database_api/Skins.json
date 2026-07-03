@@ -44436,6 +44436,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Bloodfrenzy Ramsled",
+        "type": "Fire Suppression",
+        "chance": 3.79,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Bloodfrenzy Raptor",
         "type": "Fire Suppression",
         "chance": 3.79,
@@ -79018,7 +79024,7 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Axio Gox",
+        "location": "Axio Gox (Level 0 - 70)",
         "type": "Lavan Engines Mk Ii",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -79088,6 +79094,12 @@
         "location": "Pluto/Khufu Envoy (Skirmish), Rotation A",
         "type": "Lavan Engines Mk Iii",
         "chance": 14.29,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Axio Gox (Level 71 - 100)",
+        "type": "Lavan Engines Mk Iii",
+        "chance": 2.5,
         "rarity": "Uncommon"
       },
       {
@@ -79267,7 +79279,7 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Axio Gox",
+        "location": "Axio Gox (Level 0 - 70)",
         "type": "Lavan Plating Mk Ii",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -79349,6 +79361,12 @@
         "location": "Pluto/Obol Crossing (Skirmish), Rotation B",
         "type": "Lavan Plating Mk Iii",
         "chance": 18.18,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Axio Gox (Level 71 - 100)",
+        "type": "Lavan Plating Mk Iii",
+        "chance": 2.5,
         "rarity": "Uncommon"
       },
       {
@@ -79510,7 +79528,7 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Axio Gox",
+        "location": "Axio Gox (Level 0 - 70)",
         "type": "Lavan Reactor Mk Ii",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -79580,6 +79598,12 @@
         "location": "Pluto/Khufu Envoy (Skirmish), Rotation A",
         "type": "Lavan Reactor Mk Iii",
         "chance": 14.29,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Axio Gox (Level 71 - 100)",
+        "type": "Lavan Reactor Mk Iii",
+        "chance": 2.5,
         "rarity": "Uncommon"
       },
       {
@@ -79759,7 +79783,7 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Axio Gox",
+        "location": "Axio Gox (Level 0 - 70)",
         "type": "Lavan Shield Array Mk Ii",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -79841,6 +79865,12 @@
         "location": "Pluto/Obol Crossing (Skirmish), Rotation B",
         "type": "Lavan Shield Array Mk Iii",
         "chance": 18.18,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Axio Gox (Level 71 - 100)",
+        "type": "Lavan Shield Array Mk Iii",
+        "chance": 2.5,
         "rarity": "Uncommon"
       },
       {
@@ -153447,7 +153477,7 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Axio Gox",
+        "location": "Axio Gox (Level 0 - 70)",
         "type": "Vidar Engines Mk Ii",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -153535,6 +153565,12 @@
         "location": "Pluto/Obol Crossing (Skirmish), Rotation B",
         "type": "Vidar Engines Mk Iii",
         "chance": 18.18,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Axio Gox (Level 71 - 100)",
+        "type": "Vidar Engines Mk Iii",
+        "chance": 2.5,
         "rarity": "Uncommon"
       },
       {
@@ -153732,7 +153768,7 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Axio Gox",
+        "location": "Axio Gox (Level 0 - 70)",
         "type": "Vidar Plating Mk Ii",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -153832,6 +153868,12 @@
         "location": "Veil Proxima/Lu-Yan (Skirmish), Rotation B",
         "type": "Vidar Plating Mk Iii",
         "chance": 17.14,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Axio Gox (Level 71 - 100)",
+        "type": "Vidar Plating Mk Iii",
+        "chance": 2.5,
         "rarity": "Uncommon"
       },
       {
@@ -154017,7 +154059,7 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Axio Gox",
+        "location": "Axio Gox (Level 0 - 70)",
         "type": "Vidar Reactor Mk Ii",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -154105,6 +154147,12 @@
         "location": "Pluto/Obol Crossing (Skirmish), Rotation C",
         "type": "Vidar Reactor Mk Iii",
         "chance": 14.63,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Axio Gox (Level 71 - 100)",
+        "type": "Vidar Reactor Mk Iii",
+        "chance": 2.5,
         "rarity": "Uncommon"
       },
       {
@@ -154302,7 +154350,7 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Axio Gox",
+        "location": "Axio Gox (Level 0 - 70)",
         "type": "Vidar Shield Array Mk Ii",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -154402,6 +154450,12 @@
         "location": "Veil Proxima/Lu-Yan (Skirmish), Rotation B",
         "type": "Vidar Shield Array Mk Iii",
         "chance": 17.14,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Axio Gox (Level 71 - 100)",
+        "type": "Vidar Shield Array Mk Iii",
+        "chance": 2.5,
         "rarity": "Uncommon"
       },
       {
@@ -158517,6 +158571,12 @@
       },
       {
         "location": "Wolf Of Saturn Six",
+        "type": "Wolf Sledge Motor",
+        "chance": 25,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Wolf Of Saturn Six",
         "type": "Wolf Sledge Head",
         "chance": 25,
         "rarity": "Uncommon"
@@ -158524,12 +158584,6 @@
       {
         "location": "Wolf Of Saturn Six",
         "type": "Wolf Sledge Handle",
-        "chance": 25,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Wolf Of Saturn Six",
-        "type": "Wolf Sledge Motor",
         "chance": 25,
         "rarity": "Uncommon"
       }
@@ -165630,13 +165684,13 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Elite Kosma Outrider",
+        "location": "Elite Kosma Outrider (Level 0 - 50)",
         "type": "Zetki Engines Mk I",
         "chance": 11.11,
         "rarity": "Uncommon"
       },
       {
-        "location": "Elite Taro Weaver",
+        "location": "Elite Taro Weaver (Level 0 - 50)",
         "type": "Zetki Engines Mk I",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -165655,13 +165709,13 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Elite Gyre Outrider",
+        "location": "Elite Gyre Outrider (Level 0 - 50)",
         "type": "Zetki Engines Mk Ii",
         "chance": 11.11,
         "rarity": "Uncommon"
       },
       {
-        "location": "Elite Axio Weaver",
+        "location": "Elite Axio Weaver (Level 0 - 70)",
         "type": "Zetki Engines Mk Ii",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -165680,7 +165734,7 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Elite Exo Outrider",
+        "location": "Elite Exo Outrider (Level 0 - 50)",
         "type": "Zetki Engines Mk Iii",
         "chance": 11.11,
         "rarity": "Uncommon"
@@ -165704,13 +165758,37 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Elite Orm Weaver",
+        "location": "Elite Axio Weaver (Level 71 - 100)",
+        "type": "Zetki Engines Mk Iii",
+        "chance": 2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Orm Weaver (Level 71 - 100)",
+        "type": "Zetki Engines Mk Iii",
+        "chance": 2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Taro Weaver (Level 51 - 100)",
+        "type": "Zetki Engines Mk Iii",
+        "chance": 2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Vorac Weaver (Level 71 - 100)",
+        "type": "Zetki Engines Mk Iii",
+        "chance": 2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Orm Weaver (Level 0 - 70)",
         "type": "Zetki Engines Mk Iii",
         "chance": 2.5,
         "rarity": "Uncommon"
       },
       {
-        "location": "Elite Vorac Weaver",
+        "location": "Elite Vorac Weaver (Level 0 - 70)",
         "type": "Zetki Engines Mk Iii",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -165732,6 +165810,24 @@
         "type": "Zetki Engines Mk Iii",
         "chance": 8,
         "rarity": "Rare"
+      },
+      {
+        "location": "Elite Exo Outrider (Level 51 - 100)",
+        "type": "Zetki Engines Mk Iii",
+        "chance": 8.89,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Elite Gyre Outrider (Level 51 - 100)",
+        "type": "Zetki Engines Mk Iii",
+        "chance": 8.89,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Elite Kosma Outrider (Level 51 - 100)",
+        "type": "Zetki Engines Mk Iii",
+        "chance": 8.89,
+        "rarity": "Rare"
       }
     ],
     "masterable": false
@@ -165747,13 +165843,13 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Elite Kosma Outrider",
+        "location": "Elite Kosma Outrider (Level 0 - 50)",
         "type": "Zetki Plating Mk I",
         "chance": 11.11,
         "rarity": "Uncommon"
       },
       {
-        "location": "Elite Taro Weaver",
+        "location": "Elite Taro Weaver (Level 0 - 50)",
         "type": "Zetki Plating Mk I",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -165772,13 +165868,13 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Elite Gyre Outrider",
+        "location": "Elite Gyre Outrider (Level 0 - 50)",
         "type": "Zetki Plating Mk Ii",
         "chance": 11.11,
         "rarity": "Uncommon"
       },
       {
-        "location": "Elite Axio Weaver",
+        "location": "Elite Axio Weaver (Level 0 - 70)",
         "type": "Zetki Plating Mk Ii",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -165797,7 +165893,7 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Elite Exo Outrider",
+        "location": "Elite Exo Outrider (Level 0 - 50)",
         "type": "Zetki Plating Mk Iii",
         "chance": 11.11,
         "rarity": "Uncommon"
@@ -165821,13 +165917,37 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Elite Orm Weaver",
+        "location": "Elite Axio Weaver (Level 71 - 100)",
+        "type": "Zetki Plating Mk Iii",
+        "chance": 2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Orm Weaver (Level 71 - 100)",
+        "type": "Zetki Plating Mk Iii",
+        "chance": 2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Taro Weaver (Level 51 - 100)",
+        "type": "Zetki Plating Mk Iii",
+        "chance": 2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Vorac Weaver (Level 71 - 100)",
+        "type": "Zetki Plating Mk Iii",
+        "chance": 2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Orm Weaver (Level 0 - 70)",
         "type": "Zetki Plating Mk Iii",
         "chance": 2.5,
         "rarity": "Uncommon"
       },
       {
-        "location": "Elite Vorac Weaver",
+        "location": "Elite Vorac Weaver (Level 0 - 70)",
         "type": "Zetki Plating Mk Iii",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -165848,6 +165968,24 @@
         "location": "Veil Proxima/Sabmir Cloud (Skirmish), Rotation C",
         "type": "Zetki Plating Mk Iii",
         "chance": 8,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Elite Exo Outrider (Level 51 - 100)",
+        "type": "Zetki Plating Mk Iii",
+        "chance": 8.89,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Elite Gyre Outrider (Level 51 - 100)",
+        "type": "Zetki Plating Mk Iii",
+        "chance": 8.89,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Elite Kosma Outrider (Level 51 - 100)",
+        "type": "Zetki Plating Mk Iii",
+        "chance": 8.89,
         "rarity": "Rare"
       }
     ],
@@ -165892,13 +166030,13 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Elite Kosma Outrider",
+        "location": "Elite Kosma Outrider (Level 0 - 50)",
         "type": "Zetki Reactor Mk I",
         "chance": 11.11,
         "rarity": "Uncommon"
       },
       {
-        "location": "Elite Taro Weaver",
+        "location": "Elite Taro Weaver (Level 0 - 50)",
         "type": "Zetki Reactor Mk I",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -165917,13 +166055,13 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Elite Gyre Outrider",
+        "location": "Elite Gyre Outrider (Level 0 - 50)",
         "type": "Zetki Reactor Mk Ii",
         "chance": 11.11,
         "rarity": "Uncommon"
       },
       {
-        "location": "Elite Axio Weaver",
+        "location": "Elite Axio Weaver (Level 0 - 70)",
         "type": "Zetki Reactor Mk Ii",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -165942,7 +166080,7 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Elite Exo Outrider",
+        "location": "Elite Exo Outrider (Level 0 - 50)",
         "type": "Zetki Reactor Mk Iii",
         "chance": 11.11,
         "rarity": "Uncommon"
@@ -165966,13 +166104,37 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Elite Orm Weaver",
+        "location": "Elite Axio Weaver (Level 71 - 100)",
+        "type": "Zetki Reactor Mk Iii",
+        "chance": 2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Orm Weaver (Level 71 - 100)",
+        "type": "Zetki Reactor Mk Iii",
+        "chance": 2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Taro Weaver (Level 51 - 100)",
+        "type": "Zetki Reactor Mk Iii",
+        "chance": 2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Vorac Weaver (Level 71 - 100)",
+        "type": "Zetki Reactor Mk Iii",
+        "chance": 2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Orm Weaver (Level 0 - 70)",
         "type": "Zetki Reactor Mk Iii",
         "chance": 2.5,
         "rarity": "Uncommon"
       },
       {
-        "location": "Elite Vorac Weaver",
+        "location": "Elite Vorac Weaver (Level 0 - 70)",
         "type": "Zetki Reactor Mk Iii",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -165994,6 +166156,24 @@
         "type": "Zetki Reactor Mk Iii",
         "chance": 8,
         "rarity": "Rare"
+      },
+      {
+        "location": "Elite Exo Outrider (Level 51 - 100)",
+        "type": "Zetki Reactor Mk Iii",
+        "chance": 8.89,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Elite Gyre Outrider (Level 51 - 100)",
+        "type": "Zetki Reactor Mk Iii",
+        "chance": 8.89,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Elite Kosma Outrider (Level 51 - 100)",
+        "type": "Zetki Reactor Mk Iii",
+        "chance": 8.89,
+        "rarity": "Rare"
       }
     ],
     "masterable": false
@@ -166009,13 +166189,13 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Elite Kosma Outrider",
+        "location": "Elite Kosma Outrider (Level 0 - 50)",
         "type": "Zetki Shield Array Mk I",
         "chance": 11.11,
         "rarity": "Uncommon"
       },
       {
-        "location": "Elite Taro Weaver",
+        "location": "Elite Taro Weaver (Level 0 - 50)",
         "type": "Zetki Shield Array Mk I",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -166034,13 +166214,13 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Elite Gyre Outrider",
+        "location": "Elite Gyre Outrider (Level 0 - 50)",
         "type": "Zetki Shield Array Mk Ii",
         "chance": 11.11,
         "rarity": "Uncommon"
       },
       {
-        "location": "Elite Axio Weaver",
+        "location": "Elite Axio Weaver (Level 0 - 70)",
         "type": "Zetki Shield Array Mk Ii",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -166059,7 +166239,7 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Elite Exo Outrider",
+        "location": "Elite Exo Outrider (Level 0 - 50)",
         "type": "Zetki Shield Array Mk Iii",
         "chance": 11.11,
         "rarity": "Uncommon"
@@ -166083,13 +166263,37 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Elite Orm Weaver",
+        "location": "Elite Axio Weaver (Level 71 - 100)",
+        "type": "Zetki Shield Array Mk Iii",
+        "chance": 2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Orm Weaver (Level 71 - 100)",
+        "type": "Zetki Shield Array Mk Iii",
+        "chance": 2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Taro Weaver (Level 51 - 100)",
+        "type": "Zetki Shield Array Mk Iii",
+        "chance": 2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Vorac Weaver (Level 71 - 100)",
+        "type": "Zetki Shield Array Mk Iii",
+        "chance": 2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Orm Weaver (Level 0 - 70)",
         "type": "Zetki Shield Array Mk Iii",
         "chance": 2.5,
         "rarity": "Uncommon"
       },
       {
-        "location": "Elite Vorac Weaver",
+        "location": "Elite Vorac Weaver (Level 0 - 70)",
         "type": "Zetki Shield Array Mk Iii",
         "chance": 2.5,
         "rarity": "Uncommon"
@@ -166110,6 +166314,24 @@
         "location": "Veil Proxima/Sabmir Cloud (Skirmish), Rotation C",
         "type": "Zetki Shield Array Mk Iii",
         "chance": 8,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Elite Exo Outrider (Level 51 - 100)",
+        "type": "Zetki Shield Array Mk Iii",
+        "chance": 8.89,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Elite Gyre Outrider (Level 51 - 100)",
+        "type": "Zetki Shield Array Mk Iii",
+        "chance": 8.89,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Elite Kosma Outrider (Level 51 - 100)",
+        "type": "Zetki Shield Array Mk Iii",
+        "chance": 8.89,
         "rarity": "Rare"
       }
     ],
