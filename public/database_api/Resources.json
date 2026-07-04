@@ -1054,7 +1054,7 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
     "name": "Axidrol Alloy",
     "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
-    "itemCount": 30,
+    "itemCount": 45,
     "parents": [
       "Alcrom Core",
       "Bad Baby",
@@ -4876,7 +4876,7 @@
     "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
     "name": "Fieldron",
     "description": "ClanTech weaponized containment field to contain superheated substances.\n\nLocation: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards",
-    "itemCount": 7,
+    "itemCount": 10,
     "parents": [
       "Amprex",
       "Antiserum Injector",
@@ -8228,7 +8228,7 @@
     "uniqueName": "/Lotus/Types/Items/Research/BioComponent",
     "name": "Mutagen Mass",
     "description": "This living mass can produce weaponized toxins for weaponry.\n\nLocation: Clan Research (Bio Lab in the Dojo) and Infested Outbreak Invasion Rewards",
-    "itemCount": 5,
+    "itemCount": 6,
     "parents": [
       "Acrid",
       "Bubonico",
@@ -8835,7 +8835,7 @@
     "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem",
     "name": "Nullstones",
     "description": "Nullstones do not conform to several laws of physics, making them highly prized for optimizing sensitive components.\n\nLocation: Railjack Missions",
-    "itemCount": 1,
+    "itemCount": 5,
     "parents": [
       "Basmu",
       "Nautilus",

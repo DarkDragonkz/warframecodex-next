@@ -7551,6 +7551,27 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "introduced": {
+      "name": "Update 13.7",
+      "url": "https://wiki.warframe.com/w/Update_13%23Update_13.7",
+      "aliases": [
+        "13.7.0",
+        "13.7"
+      ],
+      "parent": "13.7",
+      "date": "2014-06-11"
+    },
+    "masteryReq": 0,
+    "polarities": [
+      "penjaga",
+      "penjaga",
+      "penjaga",
+      "penjaga"
+    ],
+    "wikiaThumbnail": "https://wiki.warframe.com/images/WyrmPrime.png?35ced",
+    "wikiaUrl": "https://wiki.warframe.com/w/Wyrm%2FPrime",
+    "releaseDate": "2014-06-11",
     "isPrime": true,
     "vaulted": true,
     "vaultDate": "2016-05-17",

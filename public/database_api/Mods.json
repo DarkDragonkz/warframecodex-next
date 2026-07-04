@@ -850,6 +850,21 @@
         "fixes": "Fixed the Adaptation Mod sometimes making players completely invincible."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/AdaptationMod.png?5f44a",
+    "wikiaUrl": "https://wiki.warframe.com/w/Adaptation",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 23.10",
+      "url": "https://wiki.warframe.com/w/Update_23%23Update_23.10",
+      "aliases": [
+        "23.10",
+        "23.10.0"
+      ],
+      "parent": "23.10",
+      "date": "2018-10-12"
+    },
+    "releaseDate": "2018-10-12",
     "isPrime": false,
     "masterable": false
   },
@@ -6420,6 +6435,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/AmmoDrumMod.png?905e5",
+    "wikiaUrl": "https://wiki.warframe.com/w/Ammo_Drum",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -8691,6 +8721,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/AntitoxinMod.png?96dd4",
+    "wikiaUrl": "https://wiki.warframe.com/w/Antitoxin",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -9281,6 +9327,21 @@
     "imageName": "OmegaModIndistinctUnveiled.jpg",
     "category": "Mods",
     "tradable": false,
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ArchgunRivenMod.png?c488c",
+    "wikiaUrl": "https://wiki.warframe.com/w/Archgun_Riven_Mod",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 24.8",
+      "url": "https://wiki.warframe.com/w/Update_24%23Update_24.8",
+      "aliases": [
+        "24.8",
+        "24.8.0"
+      ],
+      "parent": "24.8",
+      "date": "2019-04-24"
+    },
+    "releaseDate": "2019-04-24",
     "isPrime": false,
     "masterable": false
   },
@@ -10900,6 +10961,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ArrowMutationMod.png?e49ae",
+    "wikiaUrl": "https://wiki.warframe.com/w/Arrow_Mutation",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 9.3",
+      "url": "https://wiki.warframe.com/w/Update_9%23Update_9.3",
+      "aliases": [
+        "9.3",
+        "9.3.0"
+      ],
+      "parent": "9.3",
+      "date": "2013-07-26"
+    },
+    "releaseDate": "2013-07-26",
     "isPrime": false,
     "masterable": false
   },
@@ -11158,6 +11234,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ArrowMutationMod.png?e49ae",
+    "wikiaUrl": "https://wiki.warframe.com/w/Arrow_Mutation",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 9.3",
+      "url": "https://wiki.warframe.com/w/Update_9%23Update_9.3",
+      "aliases": [
+        "9.3",
+        "9.3.0"
+      ],
+      "parent": "9.3",
+      "date": "2013-07-26"
+    },
+    "releaseDate": "2013-07-26",
     "isPrime": false,
     "masterable": false
   },
@@ -14515,6 +14606,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/AviatorMod.png?c9b54",
+    "wikiaUrl": "https://wiki.warframe.com/w/Aviator",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 11.9",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.9",
+      "aliases": [
+        "11.9.0",
+        "11.9"
+      ],
+      "parent": "11.9",
+      "date": "2014-01-29"
+    },
+    "releaseDate": "2014-01-29",
     "isPrime": false,
     "masterable": false
   },
@@ -14692,6 +14798,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/AviatorMod.png?c9b54",
+    "wikiaUrl": "https://wiki.warframe.com/w/Aviator",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 11.9",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.9",
+      "aliases": [
+        "11.9.0",
+        "11.9"
+      ],
+      "parent": "11.9",
+      "date": "2014-01-29"
+    },
+    "releaseDate": "2014-01-29",
     "isPrime": false,
     "masterable": false
   },
@@ -17007,6 +17128,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/BarrelDiffusionMod.png?23904",
+    "wikiaUrl": "https://wiki.warframe.com/w/Barrel_Diffusion",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -18236,6 +18372,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/BerserkerFuryMod.png?9d9cb",
+    "wikiaUrl": "https://wiki.warframe.com/w/Berserker_Fury",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 10.0",
+      "url": "https://wiki.warframe.com/w/Update_10%23Update_10.0",
+      "aliases": [
+        "Update 10",
+        "10",
+        "10.0"
+      ],
+      "parent": "10.0",
+      "date": "2013-09-13"
+    },
+    "releaseDate": "2013-09-13",
     "isPrime": false,
     "masterable": false
   },
@@ -24347,6 +24499,20 @@
         "rarity": "Common"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Butcher%27sRevelryMod.png?0e677",
+    "wikiaUrl": "https://wiki.warframe.com/w/Butcher's_Revelry",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 30.7",
+      "url": "https://wiki.warframe.com/w/Update_30%23Update_30.7",
+      "aliases": [
+        "30.7"
+      ],
+      "parent": "30.7",
+      "date": "2021-09-08"
+    },
+    "releaseDate": "2021-09-08",
     "isPrime": false,
     "masterable": false
   },
@@ -26895,6 +27061,21 @@
         "rarity": "Rare"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Charged_Chamber",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -28456,6 +28637,21 @@
         "fixes": "Chilling Grasp"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ChillingGraspMod.png?3f2b7",
+    "wikiaUrl": "https://wiki.warframe.com/w/Chilling_Grasp",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -29102,6 +29298,22 @@
         "rarity": "Rare"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/CleanseCorpusMod.png?8a925",
+    "wikiaUrl": "https://wiki.warframe.com/w/Cleanse_Corpus",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 9.0",
+      "url": "https://wiki.warframe.com/w/Update_9%23Update_9.0",
+      "aliases": [
+        "Update 9",
+        "9",
+        "9.0"
+      ],
+      "parent": "9.0",
+      "date": "2013-07-13"
+    },
+    "releaseDate": "2013-07-13",
     "isPrime": false,
     "masterable": false
   },
@@ -29716,6 +29928,22 @@
         "rarity": "Rare"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/CleanseGrineerMod.png?0218c",
+    "wikiaUrl": "https://wiki.warframe.com/w/Cleanse_Grineer",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 9.0",
+      "url": "https://wiki.warframe.com/w/Update_9%23Update_9.0",
+      "aliases": [
+        "Update 9",
+        "9",
+        "9.0"
+      ],
+      "parent": "9.0",
+      "date": "2013-07-13"
+    },
+    "releaseDate": "2013-07-13",
     "isPrime": false,
     "masterable": false
   },
@@ -30354,6 +30582,22 @@
         "rarity": "Rare"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/CleanseInfestedMod.png?8aa87",
+    "wikiaUrl": "https://wiki.warframe.com/w/Cleanse_Infested",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 9.0",
+      "url": "https://wiki.warframe.com/w/Update_9%23Update_9.0",
+      "aliases": [
+        "Update 9",
+        "9",
+        "9.0"
+      ],
+      "parent": "9.0",
+      "date": "2013-07-13"
+    },
+    "releaseDate": "2013-07-13",
     "isPrime": false,
     "masterable": false
   },
@@ -32490,6 +32734,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/CompanionWeaponRivenMod.png?c488c",
+    "wikiaUrl": "https://wiki.warframe.com/w/Companion_Weapon_Riven_Mod",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 25.7",
+      "url": "https://wiki.warframe.com/w/Update_25%23Update_25.7",
+      "aliases": [
+        "25.7",
+        "Saint of Altra"
+      ],
+      "parent": "25.7",
+      "date": "2019-08-29"
+    },
+    "releaseDate": "2019-08-29",
     "isPrime": false,
     "masterable": false
   },
@@ -33778,6 +34037,22 @@
         "rarity": "Rare"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ConcussionRoundsMod.png?235da",
+    "wikiaUrl": "https://wiki.warframe.com/w/Concussion_Rounds",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -35510,6 +35785,22 @@
         "fixes": "Contagious Spread"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ContagiousSpreadMod.png?d5957",
+    "wikiaUrl": "https://wiki.warframe.com/w/Contagious_Spread",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -37571,6 +37862,21 @@
         "fixes": "Convulsion"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ConvulsionMod.png?a9fc5",
+    "wikiaUrl": "https://wiki.warframe.com/w/Convulsion",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -43960,6 +44266,21 @@
         "rarity": "Rare"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/DeepFreezeMod.png?5173b",
+    "wikiaUrl": "https://wiki.warframe.com/w/Deep_Freeze",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -45912,6 +46233,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/DiamondSkinMod.png?c1f10",
+    "wikiaUrl": "https://wiki.warframe.com/w/Diamond_Skin",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -47426,6 +47763,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/DisruptorMod.png?06aa9",
+    "wikiaUrl": "https://wiki.warframe.com/w/Disruptor",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -49324,6 +49677,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/EagleEyeMod.png?9d387",
+    "wikiaUrl": "https://wiki.warframe.com/w/Eagle_Eye",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -49390,6 +49759,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/EagleEyeMod.png?9d387",
+    "wikiaUrl": "https://wiki.warframe.com/w/Eagle_Eye",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -52345,6 +52730,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/EnemySenseMod.png?e6f3b",
+    "wikiaUrl": "https://wiki.warframe.com/w/Enemy_Sense",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -52746,6 +53146,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/EnergyChannelMod.png?e624b",
+    "wikiaUrl": "https://wiki.warframe.com/w/Energy_Channel",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -52925,6 +53341,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/EnergyChannelMod.png?e624b",
+    "wikiaUrl": "https://wiki.warframe.com/w/Energy_Channel",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -62307,6 +62739,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/FinishingTouchMod.png?6f512",
+    "wikiaUrl": "https://wiki.warframe.com/w/Finishing_Touch",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 10.0",
+      "url": "https://wiki.warframe.com/w/Update_10%23Update_10.0",
+      "aliases": [
+        "Update 10",
+        "10",
+        "10.0"
+      ],
+      "parent": "10.0",
+      "date": "2013-09-13"
+    },
+    "releaseDate": "2013-09-13",
     "isPrime": false,
     "masterable": false
   },
@@ -62390,6 +62838,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/FinishingTouchMod.png?6f512",
+    "wikiaUrl": "https://wiki.warframe.com/w/Finishing_Touch",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 10.0",
+      "url": "https://wiki.warframe.com/w/Update_10%23Update_10.0",
+      "aliases": [
+        "Update 10",
+        "10",
+        "10.0"
+      ],
+      "parent": "10.0",
+      "date": "2013-09-13"
+    },
+    "releaseDate": "2013-09-13",
     "isPrime": false,
     "masterable": false
   },
@@ -64321,6 +64785,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/FlameRepellentMod.png?1759f",
+    "wikiaUrl": "https://wiki.warframe.com/w/Flame_Repellent",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -64610,6 +65090,21 @@
         "fixes": "Vauban’s Flechette Orb Damage multiplier now scales based on average enemy level in range."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/FlechetteMod.png?57770",
+    "wikiaUrl": "https://wiki.warframe.com/w/Flechette",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -79344,6 +79839,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/GunslingerMod.png?24f31",
+    "wikiaUrl": "https://wiki.warframe.com/w/Gunslinger",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -80764,6 +81274,20 @@
         "fixes": "Handspring [Warframe]: Quicker recovery after being knocked down."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/HandspringMod.png?7c75d",
+    "wikiaUrl": "https://wiki.warframe.com/w/Handspring",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 7.10",
+      "url": "https://wiki.warframe.com/w/Update_7%23Update_7.10",
+      "aliases": [
+        "7.10"
+      ],
+      "parent": "7.10",
+      "date": "2013-05-03"
+    },
+    "releaseDate": "2013-05-03",
     "isPrime": false,
     "masterable": false
   },
@@ -81195,6 +81719,20 @@
         "fixes": "Handspring [Warframe]: Quicker recovery after being knocked down."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/HandspringMod.png?7c75d",
+    "wikiaUrl": "https://wiki.warframe.com/w/Handspring",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 7.10",
+      "url": "https://wiki.warframe.com/w/Update_7%23Update_7.10",
+      "aliases": [
+        "7.10"
+      ],
+      "parent": "7.10",
+      "date": "2013-05-03"
+    },
+    "releaseDate": "2013-05-03",
     "isPrime": false,
     "masterable": false
   },
@@ -82102,6 +82640,22 @@
         "rarity": "Rare"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/HawkEyeMod.png?eb4d5",
+    "wikiaUrl": "https://wiki.warframe.com/w/Hawk_Eye",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -82296,6 +82850,22 @@
         "rarity": "Rare"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/HawkEyeMod.png?eb4d5",
+    "wikiaUrl": "https://wiki.warframe.com/w/Hawk_Eye",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -83068,6 +83638,21 @@
         "fixes": "Health Conversion: Picking up Health Orbs grants up to 450 armor, stacking up to 3 times. Taking damage will consume a stack after 2 seconds."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/HealthConversionMod.png?be441",
+    "wikiaUrl": "https://wiki.warframe.com/w/Health_Conversion",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 18.5",
+      "url": "https://wiki.warframe.com/w/Update_18%23Update_18.5",
+      "aliases": [
+        "18.5.0",
+        "18.5"
+      ],
+      "parent": "18.5",
+      "date": "2016-03-04"
+    },
+    "releaseDate": "2016-03-04",
     "isPrime": false,
     "masterable": false
   },
@@ -84853,6 +85438,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/HeavyImpactMod.png?be441",
+    "wikiaUrl": "https://wiki.warframe.com/w/Heavy_Impact",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 9.0",
+      "url": "https://wiki.warframe.com/w/Update_9%23Update_9.0",
+      "aliases": [
+        "Update 9",
+        "9",
+        "9.0"
+      ],
+      "parent": "9.0",
+      "date": "2013-07-13"
+    },
+    "releaseDate": "2013-07-13",
     "isPrime": false,
     "masterable": false
   },
@@ -86625,6 +87226,21 @@
         "rarity": "Rare"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Hell%27sChamberMod.png?18c38",
+    "wikiaUrl": "https://wiki.warframe.com/w/Hell's_Chamber",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -87588,6 +88204,21 @@
         "fixes": "Hellfire"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/HellfireMod.png?fdeac",
+    "wikiaUrl": "https://wiki.warframe.com/w/Hellfire",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -90174,6 +90805,21 @@
         "fixes": "Fixed Hornet Strike not affecting DOT from the Acrid"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/HornetStrikeMod.png?37dcd",
+    "wikiaUrl": "https://wiki.warframe.com/w/Hornet_Strike",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -95538,6 +96184,21 @@
         "fixes": "Incendiary Coat"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/IncendiaryCoatMod.png?3f46e",
+    "wikiaUrl": "https://wiki.warframe.com/w/Incendiary_Coat",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -98130,6 +98791,22 @@
         "fixes": "Infected Clip"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/InfectedClipMod.png?60a48",
+    "wikiaUrl": "https://wiki.warframe.com/w/Infected_Clip",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -100072,6 +100749,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/InsulationMod.png?55377",
+    "wikiaUrl": "https://wiki.warframe.com/w/Insulation",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -101318,6 +102011,21 @@
         "fixes": "Changed Focus mod name to \"Intensify\"Changes:"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/IntensifyMod.png?9a7bb",
+    "wikiaUrl": "https://wiki.warframe.com/w/Intensify",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -101908,6 +102616,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/IntruderMod.png?66938",
+    "wikiaUrl": "https://wiki.warframe.com/w/Intruder",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 10.0",
+      "url": "https://wiki.warframe.com/w/Update_10%23Update_10.0",
+      "aliases": [
+        "Update 10",
+        "10",
+        "10.0"
+      ],
+      "parent": "10.0",
+      "date": "2013-09-13"
+    },
+    "releaseDate": "2013-09-13",
     "isPrime": false,
     "masterable": false
   },
@@ -104203,6 +104927,22 @@
         "rarity": "Legendary"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/JaggedEdgeMod.png?36b4c",
+    "wikiaUrl": "https://wiki.warframe.com/w/Jagged_Edge",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -117110,6 +117850,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/KitgunRivenMod.png?c488c",
+    "wikiaUrl": "https://wiki.warframe.com/w/Kitgun_Riven_Mod",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 24.0",
+      "url": "https://wiki.warframe.com/w/Update_24%23Update_24.0",
+      "aliases": [
+        "24",
+        "24.0",
+        "Fortuna"
+      ],
+      "parent": "24.0",
+      "date": "2018-11-08"
+    },
+    "releaseDate": "2018-11-08",
     "isPrime": false,
     "masterable": false
   },
@@ -118895,6 +119651,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/LightningDashMod.png?b530b",
+    "wikiaUrl": "https://wiki.warframe.com/w/Lightning_Dash",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 17.0",
+      "url": "https://wiki.warframe.com/w/Update_17%23Update_17.0",
+      "aliases": [
+        "Update 17",
+        "17.0",
+        "17"
+      ],
+      "parent": "17.0",
+      "date": "2015-07-31"
+    },
+    "releaseDate": "2015-07-31",
     "isPrime": false,
     "masterable": false
   },
@@ -119477,6 +120249,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/LightningRodMod.png?2e1b9",
+    "wikiaUrl": "https://wiki.warframe.com/w/Lightning_Rod",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -124139,6 +124927,22 @@
         "rarity": "Rare"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/MagneticRushMod.png?b1076",
+    "wikiaUrl": "https://wiki.warframe.com/w/Magnetic_Rush",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 38.0",
+      "url": "https://wiki.warframe.com/w/Update_38%23Update_38.0",
+      "aliases": [
+        "38",
+        "38.0",
+        "Warframe: 1999"
+      ],
+      "parent": "38.0",
+      "date": "2024-12-13"
+    },
+    "releaseDate": "2024-12-13",
     "isPrime": false,
     "masterable": false
   },
@@ -124200,6 +125004,22 @@
         "rarity": "Rare"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/MagneticStrafeMod.png?a42be",
+    "wikiaUrl": "https://wiki.warframe.com/w/Magnetic_Strafe",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 38.0",
+      "url": "https://wiki.warframe.com/w/Update_38%23Update_38.0",
+      "aliases": [
+        "38",
+        "38.0",
+        "Warframe: 1999"
+      ],
+      "parent": "38.0",
+      "date": "2024-12-13"
+    },
+    "releaseDate": "2024-12-13",
     "isPrime": false,
     "masterable": false
   },
@@ -126579,6 +127399,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/MasterThiefMod.png?35cd9",
+    "wikiaUrl": "https://wiki.warframe.com/w/Master_Thief",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -126986,6 +127822,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/MasterThiefMod.png?35cd9",
+    "wikiaUrl": "https://wiki.warframe.com/w/Master_Thief",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -129611,6 +130463,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/MeleeProwessMod.png?6889e",
+    "wikiaUrl": "https://wiki.warframe.com/w/Melee_Prowess",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -130288,6 +131156,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/MeleeProwessMod.png?6889e",
+    "wikiaUrl": "https://wiki.warframe.com/w/Melee_Prowess",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -141402,6 +142286,24 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/MeleeRivenMod.png?c488c",
+    "wikiaUrl": "https://wiki.warframe.com/w/Melee_Riven_Mod",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 21.0",
+      "url": "https://wiki.warframe.com/w/Update_21%23Update_21.0",
+      "aliases": [
+        "Update 21",
+        "21.0",
+        "21",
+        "CH",
+        "Chains of Harrow"
+      ],
+      "parent": "21.0",
+      "date": "2017-06-29"
+    },
+    "releaseDate": "2017-06-29",
     "isPrime": false,
     "masterable": false
   },
@@ -143074,6 +143976,21 @@
         "fixes": "Fixed the Amalgam Argonak Metal Auger Mod not removing Armor with Dagger attacks."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/MetalAugerMod.png?a8f4c",
+    "wikiaUrl": "https://wiki.warframe.com/w/Metal_Auger",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -146369,6 +147286,21 @@
         "fixes": "Molten Impact"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/MoltenImpactMod.png?74e14",
+    "wikiaUrl": "https://wiki.warframe.com/w/Molten_Impact",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -155326,6 +156258,21 @@
         "rarity": "Rare"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/NoReturnMod.png?54db1",
+    "wikiaUrl": "https://wiki.warframe.com/w/No_Return",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -158049,6 +158996,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/NorthWindMod.png?35552",
+    "wikiaUrl": "https://wiki.warframe.com/w/North_Wind",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -160724,6 +161686,21 @@
         "fixes": "Fixed ability to equip Amalgam Organ Shatter on Arch-Melee weapons."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/OrganShatterMod.png?ffc15",
+    "wikiaUrl": "https://wiki.warframe.com/w/Organ_Shatter",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -163693,6 +164670,22 @@
         "fixes": "-Gamepad: Jump moved back to A (need Wallrun Toggle controls for this to work) / Crouch moved back to R3 (may move back to B later) / Parry moved to LB so you can hold it while keeping full move & look controls / Use moved to X & reload moved to B (until I can move it on X, shared with Use)\n-Fixe Power Use back to LB / Parry moved to Dpad Up (until I get a free face button) / Weapon Swap moved back to Y"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ParryMod.png?d27cf",
+    "wikiaUrl": "https://wiki.warframe.com/w/Parry",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 10.0",
+      "url": "https://wiki.warframe.com/w/Update_10%23Update_10.0",
+      "aliases": [
+        "Update 10",
+        "10",
+        "10.0"
+      ],
+      "parent": "10.0",
+      "date": "2013-09-13"
+    },
+    "releaseDate": "2013-09-13",
     "isPrime": false,
     "masterable": false
   },
@@ -164083,6 +165076,22 @@
         "fixes": "-Gamepad: Jump moved back to A (need Wallrun Toggle controls for this to work) / Crouch moved back to R3 (may move back to B later) / Parry moved to LB so you can hold it while keeping full move & look controls / Use moved to X & reload moved to B (until I can move it on X, shared with Use)\n-Fixe Power Use back to LB / Parry moved to Dpad Up (until I get a free face button) / Weapon Swap moved back to Y"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ParryMod.png?d27cf",
+    "wikiaUrl": "https://wiki.warframe.com/w/Parry",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 10.0",
+      "url": "https://wiki.warframe.com/w/Update_10%23Update_10.0",
+      "aliases": [
+        "Update 10",
+        "10",
+        "10.0"
+      ],
+      "parent": "10.0",
+      "date": "2013-09-13"
+    },
+    "releaseDate": "2013-09-13",
     "isPrime": false,
     "masterable": false
   },
@@ -164448,6 +165457,22 @@
         "fixes": "-Gamepad: Jump moved back to A (need Wallrun Toggle controls for this to work) / Crouch moved back to R3 (may move back to B later) / Parry moved to LB so you can hold it while keeping full move & look controls / Use moved to X & reload moved to B (until I can move it on X, shared with Use)\n-Fixe Power Use back to LB / Parry moved to Dpad Up (until I get a free face button) / Weapon Swap moved back to Y"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ParryMod.png?d27cf",
+    "wikiaUrl": "https://wiki.warframe.com/w/Parry",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 10.0",
+      "url": "https://wiki.warframe.com/w/Update_10%23Update_10.0",
+      "aliases": [
+        "Update 10",
+        "10",
+        "10.0"
+      ],
+      "parent": "10.0",
+      "date": "2013-09-13"
+    },
+    "releaseDate": "2013-09-13",
     "isPrime": false,
     "masterable": false
   },
@@ -165478,6 +166503,22 @@
         "fixes": "Pathogen Rounds"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/PathogenRoundsMod.png?dc526",
+    "wikiaUrl": "https://wiki.warframe.com/w/Pathogen_Rounds",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -167688,6 +168729,21 @@
         "rarity": "Rare"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/PiercingHitMod.png?38d09",
+    "wikiaUrl": "https://wiki.warframe.com/w/Piercing_Hit",
+    "transmutable": false,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -168845,6 +169901,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/PistolAmmoMutationMod.png?0dc4c",
+    "wikiaUrl": "https://wiki.warframe.com/w/Pistol_Ammo_Mutation",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 9.3",
+      "url": "https://wiki.warframe.com/w/Update_9%23Update_9.3",
+      "aliases": [
+        "9.3",
+        "9.3.0"
+      ],
+      "parent": "9.3",
+      "date": "2013-07-26"
+    },
+    "releaseDate": "2013-07-26",
     "isPrime": false,
     "masterable": false
   },
@@ -180779,6 +181850,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/PistolRivenMod.png?d0f91",
+    "wikiaUrl": "https://wiki.warframe.com/w/Pistol_Riven_Mod",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 19.5",
+      "url": "https://wiki.warframe.com/w/Update_19%23Update_19.5",
+      "aliases": [
+        "19.5.0",
+        "19.5"
+      ],
+      "parent": "19.5",
+      "date": "2016-12-22"
+    },
+    "releaseDate": "2016-12-22",
     "isPrime": false,
     "masterable": false
   },
@@ -182853,6 +183939,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/PointStrikeMod.png?a7647",
+    "wikiaUrl": "https://wiki.warframe.com/w/Point_Strike",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -185071,6 +186172,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/PowerThrowMod.png?54195",
+    "wikiaUrl": "https://wiki.warframe.com/w/Power_Throw",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 10.0",
+      "url": "https://wiki.warframe.com/w/Update_10%23Update_10.0",
+      "aliases": [
+        "Update 10",
+        "10",
+        "10.0"
+      ],
+      "parent": "10.0",
+      "date": "2013-09-13"
+    },
+    "releaseDate": "2013-09-13",
     "isPrime": false,
     "masterable": false
   },
@@ -188920,6 +190037,21 @@
         "fixes": "Pressure Point mod buff (20% base)."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/PressurePointMod.png?d9969",
+    "wikiaUrl": "https://wiki.warframe.com/w/Pressure_Point",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -191324,6 +192456,20 @@
     "imageName": "ArchwingDamageAfterReloadMod.jpg",
     "category": "Mods",
     "tradable": true,
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/PrimedDeadlyEfficiencyMod.png?c8e7b",
+    "wikiaUrl": "https://wiki.warframe.com/w/Primed_Deadly_Efficiency",
+    "transmutable": false,
+    "introduced": {
+      "name": "Hotfix 36.0.4",
+      "url": "https://wiki.warframe.com/w/Update_36%23Hotfix_36.0.4",
+      "aliases": [
+        "36.0.4"
+      ],
+      "parent": "36.0",
+      "date": "2024-06-26"
+    },
+    "releaseDate": "2024-06-26",
     "isPrime": true,
     "masterable": false
   },
@@ -193810,6 +194956,22 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/PrimedRedirectionMod.png?05aa6",
+    "wikiaUrl": "https://wiki.warframe.com/w/Primed_Redirection",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 35.0",
+      "url": "https://wiki.warframe.com/w/Update_35%23Update_35.0",
+      "aliases": [
+        "35",
+        "35.0",
+        "Whispers in the Wall"
+      ],
+      "parent": "35.0",
+      "date": "2023-12-13"
+    },
+    "releaseDate": "2023-12-13",
     "isPrime": true,
     "masterable": false
   },
@@ -195065,6 +196227,20 @@
     "imageName": "PistolRecoilReductionMod.jpg",
     "category": "Mods",
     "tradable": true,
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/PrimedSteadyHandsMod.png?35d54",
+    "wikiaUrl": "https://wiki.warframe.com/w/Primed_Steady_Hands",
+    "transmutable": false,
+    "introduced": {
+      "name": "Hotfix 38.5.7",
+      "url": "https://wiki.warframe.com/w/Update_38%23Hotfix_38.5.7",
+      "aliases": [
+        "38.5.7"
+      ],
+      "parent": "38.0",
+      "date": "2025-04-03"
+    },
+    "releaseDate": "2025-04-03",
     "isPrime": true,
     "masterable": false
   },
@@ -197809,6 +198985,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ProvokedMod.png?4be45",
+    "wikiaUrl": "https://wiki.warframe.com/w/Provoked",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 10.0",
+      "url": "https://wiki.warframe.com/w/Update_10%23Update_10.0",
+      "aliases": [
+        "Update 10",
+        "10",
+        "10.0"
+      ],
+      "parent": "10.0",
+      "date": "2013-09-13"
+    },
+    "releaseDate": "2013-09-13",
     "isPrime": false,
     "masterable": false
   },
@@ -201167,6 +202359,21 @@
         "fixes": "639 French updates from ap0k41yp5, Flamby, Jupiter87a, Kolo, Ln_Fridfromedisailleur and RageSeeker."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Rage",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -201615,6 +202822,21 @@
         "fixes": "639 French updates from ap0k41yp5, Flamby, Jupiter87a, Kolo, Ln_Fridfromedisailleur and RageSeeker."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Rage",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -203929,6 +205151,22 @@
         "rarity": "Legendary"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RazorShotMod.png?0ceca",
+    "wikiaUrl": "https://wiki.warframe.com/w/Razor_Shot",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -204938,6 +206176,22 @@
         "fixes": "Fix cases where Reach, Focus, and Continuity Mods were not affecting many Warframe abilities"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ReachMod.png?3bb77",
+    "wikiaUrl": "https://wiki.warframe.com/w/Reach",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -208222,6 +209476,21 @@
         "fixes": "Fixed mod card sorting so that like-named cards are grouped properly (Sentinel Redirection separate from Warframe Redirection)."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RedirectionMod.png?e62e9",
+    "wikiaUrl": "https://wiki.warframe.com/w/Redirection",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -209357,6 +210626,22 @@
         "fixes": "Fixed Brightness, Contrast, Local Reflections and Tutorials Enabled not taking effect"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ReflectionMod.png?01c07",
+    "wikiaUrl": "https://wiki.warframe.com/w/Reflection",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 10.0",
+      "url": "https://wiki.warframe.com/w/Update_10%23Update_10.0",
+      "aliases": [
+        "Update 10",
+        "10",
+        "10.0"
+      ],
+      "parent": "10.0",
+      "date": "2013-09-13"
+    },
+    "releaseDate": "2013-09-13",
     "isPrime": false,
     "masterable": false
   },
@@ -210122,6 +211407,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ReflexCoilMod.png?17f7e",
+    "wikiaUrl": "https://wiki.warframe.com/w/Reflex_Coil",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -210922,6 +212222,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ReflexCoilMod.png?17f7e",
+    "wikiaUrl": "https://wiki.warframe.com/w/Reflex_Coil",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -211697,6 +213012,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ReflexCoilMod.png?17f7e",
+    "wikiaUrl": "https://wiki.warframe.com/w/Reflex_Coil",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -216056,6 +217386,20 @@
         "fixes": "Retribution [Warframe]: Chance to do electrical damage when shield struck by melee enemies."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RetributionMod.png?4e6a9",
+    "wikiaUrl": "https://wiki.warframe.com/w/Retribution",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 7.10",
+      "url": "https://wiki.warframe.com/w/Update_7%23Update_7.10",
+      "aliases": [
+        "7.10"
+      ],
+      "parent": "7.10",
+      "date": "2013-05-03"
+    },
+    "releaseDate": "2013-05-03",
     "isPrime": false,
     "masterable": false
   },
@@ -216487,6 +217831,20 @@
         "fixes": "Retribution [Warframe]: Chance to do electrical damage when shield struck by melee enemies."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RetributionMod.png?4e6a9",
+    "wikiaUrl": "https://wiki.warframe.com/w/Retribution",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 7.10",
+      "url": "https://wiki.warframe.com/w/Update_7%23Update_7.10",
+      "aliases": [
+        "7.10"
+      ],
+      "parent": "7.10",
+      "date": "2013-05-03"
+    },
+    "releaseDate": "2013-05-03",
     "isPrime": false,
     "masterable": false
   },
@@ -217584,6 +218942,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RifleAmmoMutationMod.png?8ffa9",
+    "wikiaUrl": "https://wiki.warframe.com/w/Rifle_Ammo_Mutation",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 9.3",
+      "url": "https://wiki.warframe.com/w/Update_9%23Update_9.3",
+      "aliases": [
+        "9.3",
+        "9.3.0"
+      ],
+      "parent": "9.3",
+      "date": "2013-07-26"
+    },
+    "releaseDate": "2013-07-26",
     "isPrime": false,
     "masterable": false
   },
@@ -218104,6 +219477,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RifleAptitudeMod.png?5be43",
+    "wikiaUrl": "https://wiki.warframe.com/w/Rifle_Aptitude",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -218248,6 +219637,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RifleAptitudeMod.png?5be43",
+    "wikiaUrl": "https://wiki.warframe.com/w/Rifle_Aptitude",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -218367,6 +219772,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RifleAptitudeMod.png?5be43",
+    "wikiaUrl": "https://wiki.warframe.com/w/Rifle_Aptitude",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -228984,6 +230405,23 @@
         "fixes": "Fixed ability to obtain the Verglas Sentinel Riven from a Rifle Riven Mod as opposed to the intended Companion Weapon Riven Mod."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RifleRivenMod.png?c488c",
+    "wikiaUrl": "https://wiki.warframe.com/w/Rifle_Riven_Mod",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 19.0",
+      "url": "https://wiki.warframe.com/w/Update_19%23Update_19.0",
+      "aliases": [
+        "Update 19",
+        "19",
+        "19.0",
+        "The War Within"
+      ],
+      "parent": "19.0",
+      "date": "2016-11-11"
+    },
+    "releaseDate": "2016-11-11",
     "isPrime": false,
     "masterable": false
   },
@@ -231520,6 +232958,22 @@
         "fixes": "Fixed issue with German version of game that affected players who received certain mod (Rupture) causing all mission rewards to not be received."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RuptureMod.png?a98e2",
+    "wikiaUrl": "https://wiki.warframe.com/w/Rupture",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -234279,6 +235733,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RushMod.png?12b7b",
+    "wikiaUrl": "https://wiki.warframe.com/w/Rush",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -236910,6 +238379,22 @@
         "rarity": "Common"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SawtoothClipMod.png?8b878",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sawtooth_Clip",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -239502,6 +240987,21 @@
         "fixes": "639 French updates from ap0k41yp5, Flamby, Jupiter87a, Kolo, Ln_Fridfromedisailleur and RageSeeker."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SeekerMod.png?fb041",
+    "wikiaUrl": "https://wiki.warframe.com/w/Seeker",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -240307,6 +241807,21 @@
         "fixes": "Fixed the Seeker and Seeking Force mods so that their puncture amount increases with each level, instead of every other level."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SeekingForceMod.png?f7d73",
+    "wikiaUrl": "https://wiki.warframe.com/w/Seeking_Force",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -243167,6 +244682,21 @@
         "fixes": "Fixed Serration mod not affecting Torid damage"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SerrationMod.png?0b8ff",
+    "wikiaUrl": "https://wiki.warframe.com/w/Serration",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -245444,6 +246974,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ShellCompressionMod.png?60d69",
+    "wikiaUrl": "https://wiki.warframe.com/w/Shell_Compression",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -247137,6 +248682,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ShockAbsorbersMod.png?4f22f",
+    "wikiaUrl": "https://wiki.warframe.com/w/Shock_Absorbers",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 9.0",
+      "url": "https://wiki.warframe.com/w/Update_9%23Update_9.0",
+      "aliases": [
+        "Update 9",
+        "9",
+        "9.0"
+      ],
+      "parent": "9.0",
+      "date": "2013-07-13"
+    },
+    "releaseDate": "2013-07-13",
     "isPrime": false,
     "masterable": false
   },
@@ -249059,6 +250620,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ShockingTouchMod.png?79483",
+    "wikiaUrl": "https://wiki.warframe.com/w/Shocking_Touch",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -250162,6 +251738,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ShotgunAmmoMutationMod.png?ef449",
+    "wikiaUrl": "https://wiki.warframe.com/w/Shotgun_Ammo_Mutation",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 9.3",
+      "url": "https://wiki.warframe.com/w/Update_9%23Update_9.3",
+      "aliases": [
+        "9.3",
+        "9.3.0"
+      ],
+      "parent": "9.3",
+      "date": "2013-07-26"
+    },
+    "releaseDate": "2013-07-26",
     "isPrime": false,
     "masterable": false
   },
@@ -251017,6 +252608,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ShotgunBarrageMod.png?0d69e",
+    "wikiaUrl": "https://wiki.warframe.com/w/Shotgun_Barrage",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -261080,6 +262686,21 @@
         "fixes": "Teshin’s Steel Path Honors will now have a Weekly item for you to purchase! There are 8 items total, meaning that every 8 weeks the store will reset and allow you purchase anew. Look forward to things like an Umbra Forma Blueprint, Shotgun Riven Mod, and more!"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ShotgunRivenMod.png?c488c",
+    "wikiaUrl": "https://wiki.warframe.com/w/Shotgun_Riven_Mod",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 19.5",
+      "url": "https://wiki.warframe.com/w/Update_19%23Update_19.5",
+      "aliases": [
+        "19.5.0",
+        "19.5"
+      ],
+      "parent": "19.5",
+      "date": "2016-12-22"
+    },
+    "releaseDate": "2016-12-22",
     "isPrime": false,
     "masterable": false
   },
@@ -261757,6 +263378,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ShotgunSavvyMod.png?10dc0",
+    "wikiaUrl": "https://wiki.warframe.com/w/Shotgun_Savvy",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -263503,6 +265140,22 @@
         "rarity": "Uncommon"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ShredderMod.png?26626",
+    "wikiaUrl": "https://wiki.warframe.com/w/Shredder",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -267464,6 +269117,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SniperAmmoMutationMod.png?b16f6",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sniper_Ammo_Mutation",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 9.3",
+      "url": "https://wiki.warframe.com/w/Update_9%23Update_9.3",
+      "aliases": [
+        "9.3",
+        "9.3.0"
+      ],
+      "parent": "9.3",
+      "date": "2013-07-26"
+    },
+    "releaseDate": "2013-07-26",
     "isPrime": false,
     "masterable": false
   },
@@ -269737,6 +271405,21 @@
         "fixes": "•    Fixed Panthera’s alt fire consuming less ammo when equipped with a fire rate increase mod. (Speed Trigger, etc.)"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SpeedTriggerMod.png?a9c65",
+    "wikiaUrl": "https://wiki.warframe.com/w/Speed_Trigger",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -271404,6 +273087,21 @@
         "fixes": "Fixed an issue with Split Chamber and the Quanta resulting in a face explosion when fired, projectiles from the same ‘shot’ will no longer collide with each other."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SplitChamberMod.png?32e76",
+    "wikiaUrl": "https://wiki.warframe.com/w/Split_Chamber",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -273154,6 +274852,22 @@
         "fixes": "Unlisted 14.0.7 fix: Fixed Kubrow Starter Packs not giving 6 DNA Stabilizers, but only giving 1. Anyone who purchased a Kubrow Starter Pack before this hotfix is being retroactively compensated in a script. This Script will add 5 DNA Stabilizers for every 1 Kubrow Starter Pack purchased."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/StabilizerMod.png?614fe",
+    "wikiaUrl": "https://wiki.warframe.com/w/Stabilizer",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 10.0",
+      "url": "https://wiki.warframe.com/w/Update_10%23Update_10.0",
+      "aliases": [
+        "Update 10",
+        "10",
+        "10.0"
+      ],
+      "parent": "10.0",
+      "date": "2013-09-13"
+    },
+    "releaseDate": "2013-09-13",
     "isPrime": false,
     "masterable": false
   },
@@ -275247,6 +276961,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SteadyHandsMod.png?87a93",
+    "wikiaUrl": "https://wiki.warframe.com/w/Steady_Hands",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 10.0",
+      "url": "https://wiki.warframe.com/w/Update_10%23Update_10.0",
+      "aliases": [
+        "Update 10",
+        "10",
+        "10.0"
+      ],
+      "parent": "10.0",
+      "date": "2013-09-13"
+    },
+    "releaseDate": "2013-09-13",
     "isPrime": false,
     "masterable": false
   },
@@ -276697,6 +278427,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SteelFiberMod.png?c6055",
+    "wikiaUrl": "https://wiki.warframe.com/w/Steel_Fiber",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -277527,6 +279272,21 @@
         "fixes": "Update 7: \"Stormbringer\""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/StormbringerMod.png?7215d",
+    "wikiaUrl": "https://wiki.warframe.com/w/Stormbringer",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -282793,6 +284553,21 @@
         "fixes": "These 16 Necramech Mods are a mix of familiar Warframe Mods (Necramech Stretch, Necramech Intensify, Necramech Vitality, etc) as well as new Mod types specifically for the Necramech (Necramech Thrusters, Necramech Blitz, Necramech Refuel, etc)."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/StretchMod.png?a3428",
+    "wikiaUrl": "https://wiki.warframe.com/w/Stretch",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -283365,6 +285140,21 @@
         "rarity": "Legendary"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SunderingStrikeMod.png?5ae8b",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sundering_Strike",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -283475,6 +285265,21 @@
         "rarity": "Legendary"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SunderingStrikeMod.png?5ae8b",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sundering_Strike",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -284377,6 +286182,22 @@
         "fixes": "Fixed Sure Footed mod that was not working on clients."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SureFootedMod.png?7b780",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sure_Footed",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 9.0",
+      "url": "https://wiki.warframe.com/w/Update_9%23Update_9.0",
+      "aliases": [
+        "Update 9",
+        "9",
+        "9.0"
+      ],
+      "parent": "9.0",
+      "date": "2013-07-13"
+    },
+    "releaseDate": "2013-07-13",
     "isPrime": false,
     "masterable": false
   },
@@ -284468,6 +286289,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SureShotMod.png?d1631",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sure_Shot",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -284594,6 +286431,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SureShotMod.png?d1631",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sure_Shot",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -284695,6 +286548,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SureShotMod.png?d1631",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sure_Shot",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 11.0",
+      "url": "https://wiki.warframe.com/w/Update_11%23Update_11.0",
+      "aliases": [
+        "11",
+        "11.0",
+        "Update 11"
+      ],
+      "parent": "11.0",
+      "date": "2013-11-20"
+    },
+    "releaseDate": "2013-11-20",
     "isPrime": false,
     "masterable": false
   },
@@ -285045,6 +286914,21 @@
         "fixes": "Fixed not being able to progress in The War Within quest due to Void Dash not hitting certain enemies if you had Surging Dash equipped on your Warframe as per: https://forums.warframe.com/topic/901382-not-able-to-finish-war-within-finally-boss-missions-with-focus-naramon/\nFixed overlapping Radius values displaying on the Surging Dash description. "
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SurgingDashMod.png?886ea",
+    "wikiaUrl": "https://wiki.warframe.com/w/Surging_Dash",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 15.6",
+      "url": "https://wiki.warframe.com/w/Update_15%23Update_15.6",
+      "aliases": [
+        "15.6.0",
+        "15.6"
+      ],
+      "parent": "15.6",
+      "date": "2014-12-11"
+    },
+    "releaseDate": "2014-12-11",
     "isPrime": false,
     "masterable": false
   },
@@ -285435,6 +287319,20 @@
         "rarity": "Common"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SwiftBiteMod.png?376d7",
+    "wikiaUrl": "https://wiki.warframe.com/w/Swift_Bite",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 30.9",
+      "url": "https://wiki.warframe.com/w/Update_30%23Update_30.9",
+      "aliases": [
+        "30.9"
+      ],
+      "parent": "30.9",
+      "date": "2021-11-11"
+    },
+    "releaseDate": "2021-11-11",
     "isPrime": false,
     "masterable": false
   },
@@ -288753,6 +290651,21 @@
         "fixes": "Target Cracker"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/TargetCrackerMod.png?5e9ec",
+    "wikiaUrl": "https://wiki.warframe.com/w/Target_Cracker",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -291847,6 +293760,20 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/TheRelentlessLostMod.png?88df7",
+    "wikiaUrl": "https://wiki.warframe.com/w/The_Relentless_Lost",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 30.9",
+      "url": "https://wiki.warframe.com/w/Update_30%23Update_30.9",
+      "aliases": [
+        "30.9"
+      ],
+      "parent": "30.9",
+      "date": "2021-11-11"
+    },
+    "releaseDate": "2021-11-11",
     "isPrime": false,
     "masterable": false
   },
@@ -292955,6 +294882,21 @@
         "rarity": "Common"
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Thief%27sWitMod.png?ffe7d",
+    "wikiaUrl": "https://wiki.warframe.com/w/Thief's_Wit",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -293828,6 +295770,20 @@
         "fixes": "Thunderbolt [Paris]: Chance for arrows to explode."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ThunderboltMod.png?c7ff8",
+    "wikiaUrl": "https://wiki.warframe.com/w/Thunderbolt",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 7.10",
+      "url": "https://wiki.warframe.com/w/Update_7%23Update_7.10",
+      "aliases": [
+        "7.10"
+      ],
+      "parent": "7.10",
+      "date": "2013-05-03"
+    },
+    "releaseDate": "2013-05-03",
     "isPrime": false,
     "masterable": false
   },
@@ -294045,6 +296001,20 @@
         "fixes": "Thunderbolt [Paris]: Chance for arrows to explode."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ThunderboltMod.png?c7ff8",
+    "wikiaUrl": "https://wiki.warframe.com/w/Thunderbolt",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 7.10",
+      "url": "https://wiki.warframe.com/w/Update_7%23Update_7.10",
+      "aliases": [
+        "7.10"
+      ],
+      "parent": "7.10",
+      "date": "2013-05-03"
+    },
+    "releaseDate": "2013-05-03",
     "isPrime": false,
     "masterable": false
   },
@@ -297297,6 +299267,21 @@
         "fixes": "Fixed an issue where weapons that had a max ammo override would not be affected by ammo max mods, like the AkZani not being affected by Trick Mag."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/TrickMagMod.png?3a586",
+    "wikiaUrl": "https://wiki.warframe.com/w/Trick_Mag",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -299006,6 +300991,21 @@
         "fixes": "True Steel mod buff (doubled)."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/TrueSteelMod.png?ef2ba",
+    "wikiaUrl": "https://wiki.warframe.com/w/True_Steel",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -302422,6 +304422,20 @@
         "fixes": "Fixed crash with Xaku’s Grasp of Lohk while using the Vampiric Grasp Augment Mod. "
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/VampiricGraspMod.png?d674d",
+    "wikiaUrl": "https://wiki.warframe.com/w/Vampiric_Grasp",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 30.9",
+      "url": "https://wiki.warframe.com/w/Update_30%23Update_30.9",
+      "aliases": [
+        "30.9"
+      ],
+      "parent": "30.9",
+      "date": "2021-11-11"
+    },
+    "releaseDate": "2021-11-11",
     "isPrime": false,
     "masterable": false
   },
@@ -306841,6 +308855,21 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/VitalSenseMod.png?b8493",
+    "wikiaUrl": "https://wiki.warframe.com/w/Vital_Sense",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -310792,6 +312821,21 @@
         "fixes": "Fixed an issue with Defense rewards giving Maxed Vitality mods."
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/VitalityMod.png?ac1e5",
+    "wikiaUrl": "https://wiki.warframe.com/w/Vitality",
+    "transmutable": true,
+    "introduced": {
+      "name": "Vanilla",
+      "url": "https://wiki.warframe.com/w/Closed_Beta_Updates%23Vanilla",
+      "aliases": [
+        "0",
+        "0.0"
+      ],
+      "parent": "0.0",
+      "date": "2012-10-25"
+    },
+    "releaseDate": "2012-10-25",
     "isPrime": false,
     "masterable": false
   },
@@ -314283,6 +316327,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/WarmCoatMod.png?1fb10",
+    "wikiaUrl": "https://wiki.warframe.com/w/Warm_Coat",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -314416,6 +316476,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/WarmCoatMod.png?1fb10",
+    "wikiaUrl": "https://wiki.warframe.com/w/Warm_Coat",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 8.0",
+      "url": "https://wiki.warframe.com/w/Update_8%23Update_8.0",
+      "aliases": [
+        "8",
+        "8.0",
+        "Update 8"
+      ],
+      "parent": "8.0",
+      "date": "2013-05-23"
+    },
+    "releaseDate": "2013-05-23",
     "isPrime": false,
     "masterable": false
   },
@@ -315233,6 +317309,22 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/WhirlwindMod.png?7e03b",
+    "wikiaUrl": "https://wiki.warframe.com/w/Whirlwind",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 10.0",
+      "url": "https://wiki.warframe.com/w/Update_10%23Update_10.0",
+      "aliases": [
+        "Update 10",
+        "10",
+        "10.0"
+      ],
+      "parent": "10.0",
+      "date": "2013-09-13"
+    },
+    "releaseDate": "2013-09-13",
     "isPrime": false,
     "masterable": false
   },
@@ -326760,6 +328852,24 @@
         "fixes": ""
       }
     ],
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ZawRivenMod.png?c488c",
+    "wikiaUrl": "https://wiki.warframe.com/w/Zaw_Riven_Mod",
+    "transmutable": true,
+    "introduced": {
+      "name": "Update 21.0",
+      "url": "https://wiki.warframe.com/w/Update_21%23Update_21.0",
+      "aliases": [
+        "Update 21",
+        "21.0",
+        "21",
+        "CH",
+        "Chains of Harrow"
+      ],
+      "parent": "21.0",
+      "date": "2017-06-29"
+    },
+    "releaseDate": "2017-06-29",
     "isPrime": false,
     "masterable": false
   },

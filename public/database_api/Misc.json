@@ -363,7 +363,7 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
     "name": "Alloy Plate",
     "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
-    "itemCount": 1700,
+    "itemCount": 600,
     "parents": [
       "Adrenal Stim",
       "Aegrit",
@@ -2886,6 +2886,7 @@
       "parent": "29.0",
       "date": "2020-08-25"
     },
+    "exaltedSlot": "Arch-Gun",
     "disposition": 1,
     "releaseDate": "2020-08-25",
     "masterable": false
@@ -3371,6 +3372,7 @@
       "parent": "23.0",
       "date": "2018-06-15"
     },
+    "exaltedSlot": "Primary",
     "disposition": 3,
     "releaseDate": "2018-06-15",
     "masterable": false
@@ -3578,6 +3580,7 @@
       "parent": "27.0",
       "date": "2019-12-17"
     },
+    "exaltedSlot": "Primary",
     "disposition": 3,
     "releaseDate": "2019-12-17",
     "vaulted": false,
@@ -6153,6 +6156,7 @@
       "parent": "24.4",
       "date": "2019-03-08"
     },
+    "exaltedSlot": "Secondary",
     "disposition": 3,
     "releaseDate": "2019-03-08",
     "masterable": false
@@ -6278,6 +6282,7 @@
       "parent": "32.0",
       "date": "2023-03-15"
     },
+    "exaltedSlot": "Secondary",
     "disposition": 3,
     "releaseDate": "2023-03-15",
     "vaulted": false,
@@ -7568,37 +7573,6 @@
     "imageName": "CorpAmpSet1BarrelPartA.png",
     "category": "Misc",
     "tradable": false,
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Normal Attack",
-        "speed": 2.67,
-        "crit_chance": 34,
-        "crit_mult": 2.2,
-        "status_chance": 10,
-        "shot_type": "Hit-Scan",
-        "damage": {
-          "void": 1460
-        }
-      }
-    ],
-    "tags": [
-      "Sentient"
-    ],
-    "wikiaThumbnail": "https://wiki.warframe.com/images/CanticPrism.png?decca",
-    "wikiaUrl": "https://wiki.warframe.com/w/Cantic_Prism",
-    "introduced": {
-      "name": "Update 24.2",
-      "url": "https://wiki.warframe.com/w/Update_24%23Update_24.2",
-      "aliases": [
-        "24.2",
-        "24.2.0"
-      ],
-      "parent": "24.2",
-      "date": "2018-12-18"
-    },
-    "disposition": 3,
-    "releaseDate": "2018-12-18",
     "masterable": false
   },
   {
@@ -11003,6 +10977,7 @@
       "parent": "24.2",
       "date": "2018-12-18"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2018-12-18",
     "masterable": false
@@ -11198,6 +11173,7 @@
       "parent": "32.0",
       "date": "2022-12-14"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2022-12-14",
     "vaulted": false,
@@ -11429,6 +11405,7 @@
       "parent": "23.0",
       "date": "2018-06-15"
     },
+    "exaltedSlot": "Secondary",
     "disposition": 3,
     "releaseDate": "2018-06-15",
     "masterable": false
@@ -11613,6 +11590,7 @@
       "parent": "23.0",
       "date": "2018-06-15"
     },
+    "exaltedSlot": "Secondary",
     "disposition": 3,
     "releaseDate": "2018-06-15",
     "vaulted": false,
@@ -11871,68 +11849,6 @@
         "fixes": ""
       }
     ],
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Direct Hit",
-        "speed": 1,
-        "crit_chance": 3,
-        "crit_mult": 1.5,
-        "status_chance": 37,
-        "shot_type": "Projectile",
-        "damage": {
-          "impact": 15
-        }
-      },
-      {
-        "name": "Explosion",
-        "speed": 1,
-        "crit_chance": 3,
-        "crit_mult": 1.5,
-        "status_chance": 37,
-        "shot_type": "AoE",
-        "falloff": {
-          "start": 0,
-          "end": 7,
-          "reduction": 0.6
-        },
-        "damage": {
-          "void": 6600
-        }
-      },
-      {
-        "name": "Explosive Fragments",
-        "speed": 1,
-        "crit_chance": 10,
-        "crit_mult": 2,
-        "status_chance": 37,
-        "falloff": {
-          "start": 0,
-          "end": 3,
-          "reduction": 1
-        },
-        "damage": {
-          "void": 300
-        }
-      }
-    ],
-    "tags": [
-      "Sentient"
-    ],
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DissicScaffold.png?9c69b",
-    "wikiaUrl": "https://wiki.warframe.com/w/Dissic_Scaffold",
-    "introduced": {
-      "name": "Update 24.2",
-      "url": "https://wiki.warframe.com/w/Update_24%23Update_24.2",
-      "aliases": [
-        "24.2",
-        "24.2.0"
-      ],
-      "parent": "24.2",
-      "date": "2018-12-18"
-    },
-    "disposition": 3,
-    "releaseDate": "2018-12-18",
     "masterable": false
   },
   {
@@ -12317,6 +12233,7 @@
       "parent": "23.0",
       "date": "2018-06-15"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2018-06-15",
     "masterable": false
@@ -12519,6 +12436,7 @@
       "parent": "27.3",
       "date": "2020-03-31"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2020-03-31",
     "vaulted": false,
@@ -22989,6 +22907,7 @@
       "parent": "23.0",
       "date": "2018-06-15"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2018-06-15",
     "masterable": false
@@ -23529,6 +23448,7 @@
       "parent": "23.0",
       "date": "2018-06-15"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2018-06-15",
     "masterable": false
@@ -23680,6 +23600,7 @@
       "parent": "23.0",
       "date": "2018-06-15"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2018-06-15",
     "masterable": false
@@ -23828,60 +23749,6 @@
         "fixes": ""
       }
     ],
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Direct Hit",
-        "speed": 1,
-        "crit_chance": 17,
-        "crit_mult": 1.9,
-        "status_chance": 33,
-        "shot_type": "Projectile",
-        "shot_speed": 80,
-        "flight": 80,
-        "falloff": {
-          "start": 40,
-          "end": 60,
-          "reduction": 0.825
-        },
-        "damage": {
-          "impact": 200
-        }
-      },
-      {
-        "name": "Explosion",
-        "speed": 1,
-        "crit_chance": 17,
-        "crit_mult": 1.9,
-        "status_chance": 33,
-        "shot_type": "AoE",
-        "falloff": {
-          "start": 0,
-          "end": 2.5,
-          "reduction": 0.3
-        },
-        "damage": {
-          "void": 2600
-        }
-      }
-    ],
-    "tags": [
-      "Sentient"
-    ],
-    "wikiaThumbnail": "https://wiki.warframe.com/images/ExardScaffold.png?0bd80",
-    "wikiaUrl": "https://wiki.warframe.com/w/Exard_Scaffold",
-    "introduced": {
-      "name": "Update 24.2",
-      "url": "https://wiki.warframe.com/w/Update_24%23Update_24.2",
-      "aliases": [
-        "24.2",
-        "24.2.0"
-      ],
-      "parent": "24.2",
-      "date": "2018-12-18"
-    },
-    "disposition": 3,
-    "releaseDate": "2018-12-18",
     "masterable": false
   },
   {
@@ -39590,7 +39457,7 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
     "name": "Forma",
     "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on max Rank Warframes, Companions and Weapons.",
-    "itemCount": 1,
+    "itemCount": 2,
     "parents": [
       "<Archwing> Knux",
       "Ack & Brunt",
@@ -42589,6 +42456,7 @@
       "parent": "31.0",
       "date": "2022-03-28"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2022-03-28",
     "masterable": false
@@ -42764,6 +42632,7 @@
       "parent": "24.0",
       "date": "2018-11-08"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2018-11-08",
     "masterable": false
@@ -43773,6 +43642,7 @@
       "parent": "36.0",
       "date": "2024-06-18"
     },
+    "exaltedSlot": "Secondary",
     "disposition": 3,
     "releaseDate": "2024-06-18",
     "masterable": false
@@ -44121,56 +43991,6 @@
         "fixes": "Fixed being able to fire the Granmu Prism faster than intended by using Void Blast cancels."
       }
     ],
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Direct Hit",
-        "speed": 1,
-        "crit_chance": 26,
-        "crit_mult": 2,
-        "status_chance": 12,
-        "shot_type": "Projectile",
-        "damage": {
-          "void": 1000
-        }
-      },
-      {
-        "name": "Explosion",
-        "speed": 1,
-        "crit_chance": 26,
-        "crit_mult": 2,
-        "status_chance": 12,
-        "shot_type": "AoE",
-        "falloff": {
-          "start": 0,
-          "end": 3.5,
-          "reduction": 0.3
-        },
-        "damage": {
-          "void": 1400
-        }
-      }
-    ],
-    "tags": [
-      "Sentient"
-    ],
-    "wikiaThumbnail": "https://wiki.warframe.com/images/GranmuPrism.png?cfe20",
-    "wikiaUrl": "https://wiki.warframe.com/w/Granmu_Prism",
-    "introduced": {
-      "name": "Update 22.0",
-      "url": "https://wiki.warframe.com/w/Update_22%23Update_22.0",
-      "aliases": [
-        "Update 22",
-        "22.0",
-        "22",
-        "Plains of Eidolon",
-        "PoE"
-      ],
-      "parent": "22.0",
-      "date": "2017-10-12"
-    },
-    "disposition": 3,
-    "releaseDate": "2017-10-12",
     "masterable": false
   },
   {
@@ -55551,6 +55371,7 @@
       "parent": "23.0",
       "date": "2018-06-15"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2018-06-15",
     "masterable": false
@@ -55805,6 +55626,7 @@
       "parent": "25.3",
       "date": "2019-07-06"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2019-07-06",
     "vaulted": false,
@@ -56044,6 +55866,7 @@
       "parent": "29.5",
       "date": "2020-11-19"
     },
+    "exaltedSlot": "Arch-Melee",
     "disposition": 1,
     "releaseDate": "2020-11-19",
     "masterable": false
@@ -57318,37 +57141,6 @@
         "fixes": "Fixed the Klamora Prism fire FX not tracking while firing as the Client."
       }
     ],
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Normal Attack",
-        "speed": 12,
-        "crit_chance": 38,
-        "crit_mult": 2.4,
-        "status_chance": 10,
-        "shot_type": "Hit-Scan",
-        "damage": {
-          "void": 600
-        }
-      }
-    ],
-    "tags": [
-      "Sentient"
-    ],
-    "wikiaThumbnail": "https://wiki.warframe.com/images/KlamoraPrism.png?b4b73",
-    "wikiaUrl": "https://wiki.warframe.com/w/Klamora_Prism",
-    "introduced": {
-      "name": "Update 24.2",
-      "url": "https://wiki.warframe.com/w/Update_24%23Update_24.2",
-      "aliases": [
-        "24.2",
-        "24.2.0"
-      ],
-      "parent": "24.2",
-      "date": "2018-12-18"
-    },
-    "disposition": 3,
-    "releaseDate": "2018-12-18",
     "masterable": false
   },
   {
@@ -57471,40 +57263,6 @@
         "fixes": "Fixed the Operator Amp Energy Regeneration rate being much faster for Clients when using an Amp that has the Klebrik Scaffold."
       }
     ],
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Normal Attack",
-        "speed": 12,
-        "crit_chance": 16,
-        "crit_mult": 1.6,
-        "status_chance": 14,
-        "shot_type": "Hit-Scan",
-        "damage": {
-          "void": 320
-        }
-      }
-    ],
-    "tags": [
-      "Sentient"
-    ],
-    "wikiaThumbnail": "https://wiki.warframe.com/images/KlebrikScaffold.png?e74aa",
-    "wikiaUrl": "https://wiki.warframe.com/w/Klebrik_Scaffold",
-    "introduced": {
-      "name": "Update 22.0",
-      "url": "https://wiki.warframe.com/w/Update_22%23Update_22.0",
-      "aliases": [
-        "Update 22",
-        "22.0",
-        "22",
-        "Plains of Eidolon",
-        "PoE"
-      ],
-      "parent": "22.0",
-      "date": "2017-10-12"
-    },
-    "disposition": 3,
-    "releaseDate": "2017-10-12",
     "masterable": false
   },
   {
@@ -61762,6 +61520,7 @@
       "parent": "38.0",
       "date": "2025-03-19"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2025-03-19",
     "masterable": false
@@ -61878,6 +61637,7 @@
       "parent": "38.0",
       "date": "2025-03-19"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2025-03-19",
     "vaulted": false,
@@ -62074,37 +61834,6 @@
         "fixes": "Fixed the Lega Prism Amp FX lingering for Clients. "
       }
     ],
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Normal Attack",
-        "speed": 7.5,
-        "crit_chance": 8,
-        "crit_mult": 1.6,
-        "status_chance": 34,
-        "shot_type": "Hit-Scan",
-        "damage": {
-          "void": 600
-        }
-      }
-    ],
-    "tags": [
-      "Sentient"
-    ],
-    "wikiaThumbnail": "https://wiki.warframe.com/images/LegaPrism.png?30eff",
-    "wikiaUrl": "https://wiki.warframe.com/w/Lega_Prism",
-    "introduced": {
-      "name": "Update 24.2",
-      "url": "https://wiki.warframe.com/w/Update_24%23Update_24.2",
-      "aliases": [
-        "24.2",
-        "24.2.0"
-      ],
-      "parent": "24.2",
-      "date": "2018-12-18"
-    },
-    "disposition": 3,
-    "releaseDate": "2018-12-18",
     "masterable": false
   },
   {
@@ -63488,7 +63217,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishLatheCoogulantItem",
     "name": "Longwinder Lathe Coagulant",
     "description": "A liquid that mixes with coolant fluid to produce a resilient gel that repairs leaks.\n\nSource: Dismantled from Longwinder servofish via The Business in Fortuna (Venus). Catch Longwinder in Orb Vallis lake hotspots during Warm weather.",
-    "itemCount": 5,
+    "itemCount": 10,
     "parents": [
       "Cantic Prism",
       "Exard Scaffold",
@@ -69549,40 +69278,6 @@
     "imageName": "SentTrainingAmpBarrel.png",
     "category": "Misc",
     "tradable": false,
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Normal Attack",
-        "speed": 12,
-        "crit_chance": 20,
-        "crit_mult": 1.5,
-        "status_chance": 0,
-        "shot_type": "Hit-Scan",
-        "damage": {
-          "void": 240
-        }
-      }
-    ],
-    "tags": [
-      "Sentient"
-    ],
-    "wikiaThumbnail": "https://wiki.warframe.com/images/MoteAmp.png?a1576",
-    "wikiaUrl": "https://wiki.warframe.com/w/Mote_Amp",
-    "introduced": {
-      "name": "Update 22.0",
-      "url": "https://wiki.warframe.com/w/Update_22%23Update_22.0",
-      "aliases": [
-        "Update 22",
-        "22.0",
-        "22",
-        "Plains of Eidolon",
-        "PoE"
-      ],
-      "parent": "22.0",
-      "date": "2017-10-12"
-    },
-    "disposition": 3,
-    "releaseDate": "2017-10-12",
     "masterable": false
   },
   {
@@ -71579,6 +71274,7 @@
       "parent": "38.0",
       "date": "2024-12-13"
     },
+    "exaltedSlot": "Primary",
     "disposition": 4,
     "releaseDate": "2024-12-13",
     "masterable": false
@@ -72824,6 +72520,7 @@
       "parent": "35.0",
       "date": "2024-03-27"
     },
+    "exaltedSlot": "Secondary",
     "disposition": 1,
     "releaseDate": "2024-03-27",
     "masterable": false
@@ -78049,41 +77746,6 @@
         "fixes": ""
       }
     ],
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Normal Attack",
-        "speed": 2,
-        "crit_chance": 14,
-        "crit_mult": 1.6,
-        "status_chance": 18,
-        "charge_time": 0.8,
-        "shot_type": "Hit-Scan",
-        "damage": {
-          "void": 9000
-        }
-      }
-    ],
-    "tags": [
-      "Sentient"
-    ],
-    "wikiaThumbnail": "https://wiki.warframe.com/images/PenchaScaffold.png?99559",
-    "wikiaUrl": "https://wiki.warframe.com/w/Pencha_Scaffold",
-    "introduced": {
-      "name": "Update 22.0",
-      "url": "https://wiki.warframe.com/w/Update_22%23Update_22.0",
-      "aliases": [
-        "Update 22",
-        "22.0",
-        "22",
-        "Plains of Eidolon",
-        "PoE"
-      ],
-      "parent": "22.0",
-      "date": "2017-10-12"
-    },
-    "disposition": 3,
-    "releaseDate": "2017-10-12",
     "masterable": false
   },
   {
@@ -78318,53 +77980,6 @@
         "fixes": ""
       }
     ],
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Direct Hit",
-        "speed": 1.67,
-        "crit_chance": 34,
-        "crit_mult": 2.6,
-        "status_chance": 12,
-        "shot_type": "Projectile",
-        "damage": {
-          "void": 3000
-        }
-      },
-      {
-        "name": "Explosion",
-        "speed": 1.67,
-        "crit_chance": 34,
-        "crit_mult": 2.6,
-        "status_chance": 12,
-        "shot_type": "AoE",
-        "falloff": {
-          "start": 0,
-          "end": 5,
-          "reduction": 0.3
-        },
-        "damage": {
-          "void": 1100
-        }
-      }
-    ],
-    "tags": [
-      "Sentient"
-    ],
-    "wikiaThumbnail": "https://wiki.warframe.com/images/PhahdScaffold.png?6c46f",
-    "wikiaUrl": "https://wiki.warframe.com/w/Phahd_Scaffold",
-    "introduced": {
-      "name": "Update 23.4",
-      "url": "https://wiki.warframe.com/w/Update_23%23Update_23.4",
-      "aliases": [
-        "23.4",
-        "23.4.0"
-      ],
-      "parent": "23.4",
-      "date": "2018-08-16"
-    },
-    "disposition": 3,
-    "releaseDate": "2018-08-16",
     "masterable": false
   },
   {
@@ -79936,42 +79551,6 @@
         "fixes": "Fixed misaligned Certus Brace and Propa Scaffold when building an Amp."
       }
     ],
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Explosion",
-        "speed": 2,
-        "crit_chance": 30,
-        "crit_mult": 2,
-        "status_chance": 0,
-        "shot_type": "AoE",
-        "falloff": {
-          "start": 0,
-          "end": 8,
-          "reduction": 0.7
-        },
-        "damage": {
-          "void": 9000
-        }
-      }
-    ],
-    "tags": [
-      "Sentient"
-    ],
-    "wikiaThumbnail": "https://wiki.warframe.com/images/PropaScaffold.png?efa7f",
-    "wikiaUrl": "https://wiki.warframe.com/w/Propa_Scaffold",
-    "introduced": {
-      "name": "Update 24.2",
-      "url": "https://wiki.warframe.com/w/Update_24%23Update_24.2",
-      "aliases": [
-        "24.2",
-        "24.2.0"
-      ],
-      "parent": "24.2",
-      "date": "2018-12-18"
-    },
-    "disposition": 3,
-    "releaseDate": "2018-12-18",
     "masterable": false
   },
   {
@@ -80619,40 +80198,6 @@
         "fixes": ""
       }
     ],
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Normal Attack",
-        "speed": 5.67,
-        "crit_chance": 30,
-        "crit_mult": 2,
-        "status_chance": 4,
-        "shot_type": "Projectile",
-        "damage": {
-          "void": 1000
-        }
-      }
-    ],
-    "tags": [
-      "Sentient"
-    ],
-    "wikiaThumbnail": "https://wiki.warframe.com/images/RahnPrism.png?bd439",
-    "wikiaUrl": "https://wiki.warframe.com/w/Rahn_Prism",
-    "introduced": {
-      "name": "Update 22.0",
-      "url": "https://wiki.warframe.com/w/Update_22%23Update_22.0",
-      "aliases": [
-        "Update 22",
-        "22.0",
-        "22",
-        "Plains of Eidolon",
-        "PoE"
-      ],
-      "parent": "22.0",
-      "date": "2017-10-12"
-    },
-    "disposition": 3,
-    "releaseDate": "2017-10-12",
     "masterable": false
   },
   {
@@ -82286,40 +81831,6 @@
         "fixes": ""
       }
     ],
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Normal Attack",
-        "speed": 2,
-        "crit_chance": 38,
-        "crit_mult": 2.6,
-        "status_chance": 10,
-        "shot_type": "Hit-Scan",
-        "damage": {
-          "void": 3000
-        }
-      }
-    ],
-    "tags": [
-      "Sentient"
-    ],
-    "wikiaThumbnail": "https://wiki.warframe.com/images/RaplakPrism.png?360b6",
-    "wikiaUrl": "https://wiki.warframe.com/w/Raplak_Prism",
-    "introduced": {
-      "name": "Update 22.0",
-      "url": "https://wiki.warframe.com/w/Update_22%23Update_22.0",
-      "aliases": [
-        "Update 22",
-        "22.0",
-        "22",
-        "Plains of Eidolon",
-        "PoE"
-      ],
-      "parent": "22.0",
-      "date": "2017-10-12"
-    },
-    "disposition": 3,
-    "releaseDate": "2017-10-12",
     "masterable": false
   },
   {
@@ -82869,6 +82380,7 @@
       "parent": "23.0",
       "date": "2018-06-15"
     },
+    "exaltedSlot": "Secondary",
     "disposition": 3,
     "releaseDate": "2018-06-15",
     "masterable": false
@@ -83074,6 +82586,7 @@
       "parent": "24.2",
       "date": "2018-12-18"
     },
+    "exaltedSlot": "Secondary",
     "disposition": 3,
     "releaseDate": "2018-12-18",
     "vaulted": false,
@@ -87402,6 +86915,7 @@
       "parent": "30.0",
       "date": "2021-04-13"
     },
+    "exaltedSlot": "Melee",
     "disposition": 1,
     "releaseDate": "2021-04-13",
     "masterable": false
@@ -87553,6 +87067,7 @@
       "parent": "30.0",
       "date": "2021-04-13"
     },
+    "exaltedSlot": "Melee",
     "disposition": 1,
     "releaseDate": "2021-04-13",
     "vaulted": false,
@@ -87668,6 +87183,7 @@
       "parent": "38.0",
       "date": "2025-03-19"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2025-03-19",
     "masterable": false
@@ -87782,6 +87298,7 @@
       "parent": "38.0",
       "date": "2025-03-19"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2025-03-19",
     "vaulted": false,
@@ -87973,6 +87490,7 @@
       "parent": "38.0",
       "date": "2025-03-19"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2025-03-19",
     "masterable": false
@@ -88099,6 +87617,7 @@
       "parent": "38.0",
       "date": "2025-03-19"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2025-03-19",
     "vaulted": false,
@@ -88277,56 +87796,6 @@
         "fixes": "Fixed amps built using Shwaak Prism and Shraksun Scaffold not passing through Volt’s Electric Shield."
       }
     ],
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Direct Hit",
-        "speed": 1.33,
-        "crit_chance": 20,
-        "crit_mult": 2,
-        "status_chance": 20,
-        "shot_type": "Projectile",
-        "damage": {
-          "void": 3000
-        }
-      },
-      {
-        "name": "Explosion",
-        "speed": 1.33,
-        "crit_chance": 20,
-        "crit_mult": 2,
-        "status_chance": 30,
-        "shot_type": "AoE",
-        "falloff": {
-          "start": 0,
-          "end": 5,
-          "reduction": 0.4
-        },
-        "damage": {
-          "void": 4500
-        }
-      }
-    ],
-    "tags": [
-      "Sentient"
-    ],
-    "wikiaThumbnail": "https://wiki.warframe.com/images/ShraksunScaffold.png?768ad",
-    "wikiaUrl": "https://wiki.warframe.com/w/Shraksun_Scaffold",
-    "introduced": {
-      "name": "Update 22.0",
-      "url": "https://wiki.warframe.com/w/Update_22%23Update_22.0",
-      "aliases": [
-        "Update 22",
-        "22.0",
-        "22",
-        "Plains of Eidolon",
-        "PoE"
-      ],
-      "parent": "22.0",
-      "date": "2017-10-12"
-    },
-    "disposition": 3,
-    "releaseDate": "2017-10-12",
     "masterable": false
   },
   {
@@ -88582,47 +88051,6 @@
         "fixes": "Fixed amps built using Shwaak Prism and Shraksun Scaffold not passing through Volt’s Electric Shield."
       }
     ],
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Normal Attack",
-        "speed": 1.33,
-        "crit_chance": 10,
-        "crit_mult": 1.6,
-        "status_chance": 20,
-        "shot_type": "Projectile",
-        "shot_speed": 80,
-        "flight": 80,
-        "falloff": {
-          "start": 15,
-          "end": 30,
-          "reduction": 0.5357
-        },
-        "damage": {
-          "void": 3500
-        }
-      }
-    ],
-    "tags": [
-      "Sentient"
-    ],
-    "wikiaThumbnail": "https://wiki.warframe.com/images/ShwaakPrism.png?29bee",
-    "wikiaUrl": "https://wiki.warframe.com/w/Shwaak_Prism",
-    "introduced": {
-      "name": "Update 22.0",
-      "url": "https://wiki.warframe.com/w/Update_22%23Update_22.0",
-      "aliases": [
-        "Update 22",
-        "22.0",
-        "22",
-        "Plains of Eidolon",
-        "PoE"
-      ],
-      "parent": "22.0",
-      "date": "2017-10-12"
-    },
-    "disposition": 3,
-    "releaseDate": "2017-10-12",
     "masterable": false
   },
   {
@@ -89766,57 +89194,6 @@
         "fixes": "Fixed inability to Chat Link Kitgun weapons made with the new Infested chambers Vermisplicer and Sporelacer."
       }
     ],
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Normal Attack",
-        "speed": 0,
-        "crit_chance": 0,
-        "crit_mult": 0,
-        "status_chance": 0,
-        "shot_type": "Projectile",
-        "shot_speed": 50,
-        "flight": 50,
-        "falloff": {
-          "start": 8,
-          "end": 16,
-          "reduction": 0
-        },
-        "damage": {}
-      },
-      {
-        "name": "Explosion",
-        "speed": 0,
-        "crit_chance": 0,
-        "crit_mult": 0,
-        "status_chance": 0,
-        "shot_type": "AoE",
-        "falloff": {
-          "start": 0,
-          "end": 2.1,
-          "reduction": 0.2
-        },
-        "damage": {}
-      }
-    ],
-    "tags": [
-      "Infested"
-    ],
-    "exilusPolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Sporelacer.png?8af9a",
-    "wikiaUrl": "https://wiki.warframe.com/w/Sporelacer_(Primary)",
-    "introduced": {
-      "name": "Update 29.5",
-      "url": "https://wiki.warframe.com/w/Update_29%23Update_29.5",
-      "aliases": [
-        "29.5",
-        "29.5.0"
-      ],
-      "parent": "29.5",
-      "date": "2020-11-19"
-    },
-    "disposition": 1,
-    "releaseDate": "2020-11-19",
     "masterable": false
   },
   {
@@ -104222,6 +103599,7 @@
       "parent": "23.0",
       "date": "2018-06-15"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2018-06-15",
     "masterable": false
@@ -104381,6 +103759,7 @@
       "parent": "23.0",
       "date": "2018-06-15"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2018-06-15",
     "masterable": false
@@ -105029,43 +104408,6 @@
         "fixes": ""
       }
     ],
-    "wikiAvailable": true,
-    "attacks": [
-      {
-        "name": "Normal Attack",
-        "speed": 0,
-        "crit_chance": 0,
-        "crit_mult": 0,
-        "status_chance": 0,
-        "shot_type": "Hit-Scan",
-        "damage": {}
-      },
-      {
-        "name": "Tendril",
-        "speed": 0,
-        "crit_chance": 0,
-        "crit_mult": 0,
-        "status_chance": 0,
-        "shot_type": "Hit-Scan",
-        "damage": {}
-      }
-    ],
-    "tags": [],
-    "exilusPolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Vermisplicer.png?759c9",
-    "wikiaUrl": "https://wiki.warframe.com/w/Vermisplicer_(Primary)",
-    "introduced": {
-      "name": "Update 29.5",
-      "url": "https://wiki.warframe.com/w/Update_29%23Update_29.5",
-      "aliases": [
-        "29.5",
-        "29.5.0"
-      ],
-      "parent": "29.5",
-      "date": "2020-11-19"
-    },
-    "disposition": 4,
-    "releaseDate": "2020-11-19",
     "masterable": false
   },
   {
@@ -105707,6 +105049,7 @@
       "parent": "38.0",
       "date": "2025-03-19"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2025-03-19",
     "masterable": false
@@ -105824,6 +105167,7 @@
       "parent": "38.0",
       "date": "2025-03-19"
     },
+    "exaltedSlot": "Melee",
     "disposition": 3,
     "releaseDate": "2025-03-19",
     "vaulted": false,
