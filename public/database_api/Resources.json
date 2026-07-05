@@ -1054,7 +1054,7 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
     "name": "Axidrol Alloy",
     "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
-    "itemCount": 45,
+    "itemCount": 30,
     "parents": [
       "Alcrom Core",
       "Bad Baby",
@@ -4438,7 +4438,7 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBCutAItem",
     "name": "Esher Devar",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
-    "itemCount": 10,
+    "itemCount": 1,
     "parents": [
       "Cryotra",
       "Focused Nosam Cutter",
@@ -4876,7 +4876,7 @@
     "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
     "name": "Fieldron",
     "description": "ClanTech weaponized containment field to contain superheated substances.\n\nLocation: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards",
-    "itemCount": 10,
+    "itemCount": 2,
     "parents": [
       "Amprex",
       "Antiserum Injector",
@@ -5777,7 +5777,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
     "name": "Grokdrul",
     "description": "A noxious mix of polysaccharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.\n\nLocation: Plains of Eidolon on Earth",
-    "itemCount": 40,
+    "itemCount": 55,
     "parents": [
       "Fosfor Blau",
       "Kronsh",
@@ -6561,7 +6561,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem",
     "name": "Iradite",
     "description": "A mineral valuable to the Ostrons.\n\nLocation: Plains of Eidolon on Earth",
-    "itemCount": 50,
+    "itemCount": 5,
     "parents": [
       "Cela Bracket",
       "Fosfor Rahd",
@@ -7577,7 +7577,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
     "name": "Maprico",
     "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.\n\nLocation: Plains of Eidolon on Earth",
-    "itemCount": 2,
+    "itemCount": 15,
     "parents": [
       "Cuthol Bait",
       "Dehtat",
@@ -7713,7 +7713,7 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemACutAItem",
     "name": "Marquise Veridos",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
-    "itemCount": 10,
+    "itemCount": 2,
     "parents": [
       "Advanced Nosam Cutter",
       "Cyath",
@@ -7887,7 +7887,7 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
     "name": "Moonlight Dragonlily",
     "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
-    "itemCount": 10,
+    "itemCount": 6,
     "parents": [
       "Lapis Antitoxin",
       "Nightfall Apothic",
@@ -8228,7 +8228,7 @@
     "uniqueName": "/Lotus/Types/Items/Research/BioComponent",
     "name": "Mutagen Mass",
     "description": "This living mass can produce weaponized toxins for weaponry.\n\nLocation: Clan Research (Bio Lab in the Dojo) and Infested Outbreak Invasion Rewards",
-    "itemCount": 6,
+    "itemCount": 5,
     "parents": [
       "Acrid",
       "Bubonico",
@@ -8693,7 +8693,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
     "name": "Nistlepod",
     "description": "Used by the Nistlebrush to trap and kill prey.\n\nLocation: Plains of Eidolon on Earth",
-    "itemCount": 25,
+    "itemCount": 15,
     "parents": [
       "Balla",
       "Dokrahm",
@@ -8835,7 +8835,7 @@
     "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem",
     "name": "Nullstones",
     "description": "Nullstones do not conform to several laws of physics, making them highly prized for optimizing sensitive components.\n\nLocation: Railjack Missions",
-    "itemCount": 5,
+    "itemCount": 1,
     "parents": [
       "Basmu",
       "Nautilus",
@@ -11641,7 +11641,7 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
     "name": "Sunlight Dragonlily",
     "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
-    "itemCount": 10,
+    "itemCount": 4,
     "parents": [
       "Citrine Antitoxin",
       "Lapis Antitoxin",
@@ -11717,7 +11717,7 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemACutAItem",
     "name": "Tear Azurite",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
-    "itemCount": 10,
+    "itemCount": 1,
     "parents": [
       "Balla",
       "Focused Nosam Cutter",
