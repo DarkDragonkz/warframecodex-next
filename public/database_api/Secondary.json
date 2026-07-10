@@ -54547,7 +54547,8 @@
         "crit_mult": 3,
         "status_chance": 20,
         "shot_type": "Projectile",
-        "shot_speed": 0,
+        "shot_speed": 50,
+        "flight": 50,
         "damage": {
           "impact": 3,
           "slash": 9,
@@ -59118,6 +59119,8 @@
         "crit_mult": 2,
         "status_chance": 26,
         "shot_type": "Projectile",
+        "shot_speed": 40,
+        "flight": 40,
         "damage": {
           "electricity": 100
         }
@@ -59479,6 +59482,8 @@
         "crit_mult": 2,
         "status_chance": 26,
         "shot_type": "Projectile",
+        "shot_speed": 40,
+        "flight": 40,
         "damage": {
           "electricity": 100
         }
@@ -65773,7 +65778,7 @@
         "url": "https://forums.warframe.com/topic/1311547-zephyr-chroma-prime-vault-hotfix-31510-315101/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed the Laetum’s Evolution V perk ‘Reaper's Plenty’ applying its ammo efficiency to all equipped weapons, instead of just the Laetum as intended. "
+        "fixes": "Fixed the Laetum��s Evolution V perk ‘Reaper's Plenty’ applying its ammo efficiency to all equipped weapons, instead of just the Laetum as intended. "
       },
       {
         "name": "Zephyr & Chroma Prime Vault: Hotfix 31.5.9",

@@ -30141,7 +30141,8 @@
         "status_chance": 30,
         "charge_time": 0.6,
         "shot_type": "Projectile",
-        "shot_speed": 0,
+        "shot_speed": 90,
+        "flight": 90,
         "damage": {
           "impact": 100,
           "slash": 100,
@@ -30529,36 +30530,32 @@
         "crit_mult": 1.8,
         "status_chance": 32,
         "shot_type": "Hit-Scan",
-        "shot_speed": 1,
-        "flight": 1,
         "damage": {
           "puncture": 8,
           "corrosive": 20
         }
       },
       {
-        "name": "Alternate",
+        "name": "Alt-Fire",
         "speed": 2,
         "crit_chance": 16,
         "crit_mult": 1.8,
         "status_chance": 32,
         "shot_type": "Projectile",
-        "shot_speed": 1,
-        "flight": 1,
+        "shot_speed": 40,
+        "flight": 40,
         "damage": {
           "puncture": 4,
           "corrosive": 12
         }
       },
       {
-        "name": "Radial",
+        "name": "Alt-Fire Radial Attack",
         "speed": 1,
         "crit_chance": 16,
         "crit_mult": 1.8,
         "status_chance": 32,
         "shot_type": "AoE",
-        "shot_speed": 1,
-        "flight": 1,
         "falloff": {
           "start": 0,
           "end": 8,
@@ -30770,7 +30767,7 @@
         "crit_mult": 2.2,
         "status_chance": 38,
         "charge_time": 1.2,
-        "shot_type": "Projectile",
+        "shot_type": "AoE",
         "falloff": {
           "start": 0.9,
           "end": 4,
@@ -50335,7 +50332,7 @@
         "url": "https://forums.warframe.com/topic/1253565-update-29100-corpus-proxima-the-new-railjack/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Paris Prime’s emissive colors not applying to the bow. As reported here: https://www.reddit.com/r/Warframe/comments/kvnu75/paris_prime_holes_dont_light_up_properly_instead/ "
+        "fixes": "Fixed Paris Prime’s emissive colors not applying to the bow. As reported here: https://www.reddit.com/r/Warframe/comments/kvnu75/paris_prime_holes_dont_light_up_properly_instead/��"
       },
       {
         "name": "Orphix Venom: Hotfix 29.6.5",

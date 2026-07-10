@@ -1756,7 +1756,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidHungerItem",
     "name": "Calda Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Calda Toroids from enemies located at the Enrichment Labs in the Orb Vallis and from Scyto Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
-    "itemCount": 3,
+    "itemCount": 2,
     "parents": [
       "Dissic Scaffold",
       "Exard Scaffold",
@@ -1843,7 +1843,7 @@
     "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
     "name": "Carbides",
     "description": "Resilient components used to reinforce the plated sheets of metal strapped to Grineer Ships.\n\nLocation: Eximus units in the Grineer Shipyard Tileset, and Railjack missions in Earth, Saturn, and Veil Proximas",
-    "itemCount": 800,
+    "itemCount": 2000,
     "parents": [
       "Basmu",
       "Protea Telema Helmet"
@@ -2419,7 +2419,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem",
     "name": "Condroc Wing",
     "description": "The talon on a condroc's wing is sharp enough to tear through bone.\n\nLocation: Plains of Eidolon on Earth",
-    "itemCount": 15,
+    "itemCount": 5,
     "parents": [
       "Ekwana Ii Jai",
       "Ekwana Ii Ruhang",
@@ -4258,7 +4258,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB",
     "name": "Entrati Lanthorn",
     "description": "A ceremonial beacon used to map Void locations on to real space.\n\nLocation: Albrecht's Laboratories (Deimos) and Zariman",
-    "itemCount": 10,
+    "itemCount": 5,
     "parents": [
       "Alternox",
       "Ekhein",
@@ -4438,7 +4438,7 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBCutAItem",
     "name": "Esher Devar",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
-    "itemCount": 1,
+    "itemCount": 10,
     "parents": [
       "Cryotra",
       "Focused Nosam Cutter",
@@ -4876,7 +4876,7 @@
     "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
     "name": "Fieldron",
     "description": "ClanTech weaponized containment field to contain superheated substances.\n\nLocation: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards",
-    "itemCount": 2,
+    "itemCount": 7,
     "parents": [
       "Amprex",
       "Antiserum Injector",
@@ -5562,13 +5562,14 @@
     "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
     "name": "Gorgaricus Spore",
     "description": "The reproductive spore of the giant Vallis fungi is highly coveted for the complex chemical compounds it contains.\n\nLocation: Orb Vallis on Venus",
-    "itemCount": 20,
+    "itemCount": 60,
     "parents": [
       "Beaky",
       "Dink-A-Donk",
       "Hextra Gyro",
       "Lambeo Moa",
       "Nychus Moa",
+      "Pax Bolt",
       "Phazor Gyro",
       "Puppeteer",
       "Rattleguts",
@@ -5777,7 +5778,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
     "name": "Grokdrul",
     "description": "A noxious mix of polysaccharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.\n\nLocation: Plains of Eidolon on Earth",
-    "itemCount": 55,
+    "itemCount": 40,
     "parents": [
       "Fosfor Blau",
       "Kronsh",
@@ -6127,7 +6128,7 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem",
     "name": "Hespazym Alloy",
     "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
-    "itemCount": 30,
+    "itemCount": 50,
     "parents": [
       "Dissic Scaffold",
       "Exard Scaffold",
@@ -6561,7 +6562,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem",
     "name": "Iradite",
     "description": "A mineral valuable to the Ostrons.\n\nLocation: Plains of Eidolon on Earth",
-    "itemCount": 5,
+    "itemCount": 50,
     "parents": [
       "Cela Bracket",
       "Fosfor Rahd",
@@ -7510,7 +7511,7 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenPitcherPlantItem",
     "name": "Lunar Pitcher",
     "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
-    "itemCount": 6,
+    "itemCount": 50,
     "parents": [
       "Seeding Step Ephemera",
       "Twilight Apothic"
@@ -7577,7 +7578,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
     "name": "Maprico",
     "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.\n\nLocation: Plains of Eidolon on Earth",
-    "itemCount": 15,
+    "itemCount": 2,
     "parents": [
       "Cuthol Bait",
       "Dehtat",
@@ -7713,7 +7714,7 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemACutAItem",
     "name": "Marquise Veridos",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
-    "itemCount": 2,
+    "itemCount": 20,
     "parents": [
       "Advanced Nosam Cutter",
       "Cyath",
@@ -7887,7 +7888,7 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
     "name": "Moonlight Dragonlily",
     "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
-    "itemCount": 6,
+    "itemCount": 10,
     "parents": [
       "Lapis Antitoxin",
       "Nightfall Apothic",
@@ -8463,7 +8464,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
     "name": "Mytocardia Spore",
     "description": "A fungal body prized for its varied uses.\n\nLocation: Orb Vallis on Venus",
-    "itemCount": 20,
+    "itemCount": 120,
     "parents": [
       "Catchmoon",
       "Deepbreath",
@@ -8475,6 +8476,7 @@
       "Kreska",
       "Munit Gyro",
       "Para Moa",
+      "Pax Charge",
       "Step Tens",
       "Thugs",
       "Twin Kavats"
@@ -8693,7 +8695,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
     "name": "Nistlepod",
     "description": "Used by the Nistlebrush to trap and kill prey.\n\nLocation: Plains of Eidolon on Earth",
-    "itemCount": 15,
+    "itemCount": 25,
     "parents": [
       "Balla",
       "Dokrahm",
@@ -8835,7 +8837,7 @@
     "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem",
     "name": "Nullstones",
     "description": "Nullstones do not conform to several laws of physics, making them highly prized for optimizing sensitive components.\n\nLocation: Railjack Missions",
-    "itemCount": 1,
+    "itemCount": 2,
     "parents": [
       "Basmu",
       "Nautilus",
@@ -11124,7 +11126,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidWraithItem",
     "name": "Sola Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Sola Toroids from enemies located at the Temple of Profit in the Orb Vallis and from Kyta Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
-    "itemCount": 3,
+    "itemCount": 5,
     "parents": [
       "Cela Bracket",
       "Certus Brace",
@@ -11641,7 +11643,7 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
     "name": "Sunlight Dragonlily",
     "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
-    "itemCount": 4,
+    "itemCount": 10,
     "parents": [
       "Citrine Antitoxin",
       "Lapis Antitoxin",
@@ -11717,7 +11719,7 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemACutAItem",
     "name": "Tear Azurite",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
-    "itemCount": 1,
+    "itemCount": 10,
     "parents": [
       "Balla",
       "Focused Nosam Cutter",
@@ -12020,6 +12022,7 @@
       "Highbrow",
       "Hothead",
       "Jonsin Bracket",
+      "Pax Soar",
       "Tian Bracket",
       "Zip"
     ],
@@ -12251,7 +12254,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
     "name": "Thermal Sludge",
     "description": "A by-product from the Weeping Towers terraforming processes.\n\nLocation: Orb Vallis on Venus",
-    "itemCount": 20,
+    "itemCount": 75,
     "parents": [
       "Aegron Gyro",
       "Bad Baby",
@@ -12361,7 +12364,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem",
     "name": "Thrax Plasm",
     "description": "Found in the remnants of Thrax Void manifestations, this plasm has several surprisingly practical applications.\n\nLocation: Zariman",
-    "itemCount": 600,
+    "itemCount": 300,
     "parents": [
       "Aeolak",
       "Alternox",
@@ -13873,7 +13876,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidMicroidItem",
     "name": "Vega Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Vega Toroids from enemies located at the Spaceport in the Orb Vallis and from Mite Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
-    "itemCount": 3,
+    "itemCount": 5,
     "parents": [
       "Cantic Prism",
       "Haztech Pauldrons",
@@ -13964,7 +13967,7 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
     "name": "Venerdo Alloy",
     "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
-    "itemCount": 30,
+    "itemCount": 40,
     "parents": [
       "Adlet Core",
       "Arc Twelve",
@@ -14234,7 +14237,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA",
     "name": "Voidgel Orb",
     "description": "A sample of ambient Void energy distilled into a neutral state.\n\nLocation: Zariman",
-    "itemCount": 30,
+    "itemCount": 45,
     "parents": [
       "Felarx",
       "Gyre Automaton Helmet",
@@ -14364,7 +14367,7 @@
     "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/VoidAngelItem",
     "name": "Voidplume Pinion",
     "description": "A Void Angel's living feather, ripped out in combat.\n\nLocation: Zariman",
-    "itemCount": 10,
+    "itemCount": 5,
     "parents": [
       "Felarx",
       "Innodem",

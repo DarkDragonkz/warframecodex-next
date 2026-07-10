@@ -363,7 +363,7 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
     "name": "Alloy Plate",
     "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
-    "itemCount": 600,
+    "itemCount": 350,
     "parents": [
       "Adrenal Stim",
       "Aegrit",
@@ -901,7 +901,7 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/SentientFragmentLootItem",
     "name": "Anomaly Shard",
     "description": "A shard ripped from a Sentient Anomaly in the Veil Proxima. Little Duck is known to trade these for other exotic goods somewhere in Fortuna on Venus.\n\nLocation: Murex ships found in Veil Proxima nodes marked with a special flashing icon (Railjack)",
-    "itemCount": 5,
+    "itemCount": 2,
     "parents": [
       "Caliban Cranion Helmet",
       "Venato"
@@ -3669,7 +3669,7 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAAlloyAItem",
     "name": "Auroxium Alloy",
     "description": "Auron that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
-    "itemCount": 40,
+    "itemCount": 50,
     "parents": [
       "Ceno Helmet",
       "Ekwana Jai Ii",
@@ -7045,7 +7045,7 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/Eidolonium",
     "name": "Breath Of The Eidolon",
     "description": "A gas found solely on the Plains of Eidolon, refined to its purest form. \n\nLocation: Plains of Eidolon Bounties on Earth",
-    "itemCount": 3,
+    "itemCount": 10,
     "parents": [
       "Ceno Apparel",
       "Ceno Cuirass",
@@ -8122,7 +8122,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishSaganModuleItem",
     "name": "Charamote Sagan Module",
     "description": "A device used to reconstruct degenerated matter into Orokin bio-material.\n\nSource: Dismantled from Charamote servofish via The Business in Fortuna (Venus). Catch Charamote in Orb Vallis cave hotspots during any weather. Also drops from the Exploiter Orb in the Orb Vallis.",
-    "itemCount": 5,
+    "itemCount": 6,
     "parents": [
       "Caliban Cranion Helmet",
       "Cryotra",
@@ -9256,7 +9256,7 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreBAlloyBItem",
     "name": "Coprite Alloy",
     "description": "Coprun that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
-    "itemCount": 40,
+    "itemCount": 200,
     "parents": [
       "Adlet Core",
       "Ceno Pauldrons",
@@ -27860,6 +27860,7 @@
       "Hextra Gyro",
       "Lehan Core",
       "Needlenose",
+      "Pax Bolt",
       "Rattleguts",
       "Tremor",
       "Zipfire",
@@ -29121,7 +29122,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
     "name": "Fish Scales",
     "description": "A material used in tailoring clothes and cultivating synthetics.\n\nSource: Cut from all Plains of Eidolon Fish via Fisher Hai-Luk in Cetus (Earth).",
-    "itemCount": 15,
+    "itemCount": 20,
     "parents": [
       "Balla",
       "Ceno Apparel",
@@ -39457,7 +39458,7 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
     "name": "Forma",
     "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on max Rank Warframes, Companions and Weapons.",
-    "itemCount": 2,
+    "itemCount": 1,
     "parents": [
       "<Archwing> Knux",
       "Ack & Brunt",
@@ -53264,7 +53265,7 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
     "name": "Heart Noctrul",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
-    "itemCount": 5,
+    "itemCount": 8,
     "parents": [
       "Aegron Gyro",
       "Battacor",
@@ -56197,7 +56198,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishBPartItem",
     "name": "Karkina Antenna",
     "description": "Ground into a powder this substance can makes fires burn hotter for a brief amount of time.\n\nSource: Cut from Karkina fish via Fisher Hai-Luk in Cetus (Earth). Catch Karkina in the Plains of Eidolon ocean at any time of day using Twilight Bait. Also drops from Thumpers in the Plains of Eidolon.",
-    "itemCount": 3,
+    "itemCount": 20,
     "parents": [
       "Fosfor Blau",
       "Norg Bait",
@@ -57281,11 +57282,12 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishThermalLaserItem",
     "name": "Kriller Thermal Laser",
     "description": "A weapon that discharges lasers over short distances.\n\nSource: Dismantled from Kriller servofish via The Business in Fortuna (Venus). Catch Kriller in the Orb Vallis lake during Warm weather. Also drops from resource containers across the Orb Vallis.",
-    "itemCount": 5,
+    "itemCount": 10,
     "parents": [
       "Beaky",
       "Dink-A-Donk",
       "Gaze",
+      "Pax Soar",
       "Runway",
       "Slapneedle",
       "Swiftfire",
@@ -63217,7 +63219,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishLatheCoogulantItem",
     "name": "Longwinder Lathe Coagulant",
     "description": "A liquid that mixes with coolant fluid to produce a resilient gel that repairs leaks.\n\nSource: Dismantled from Longwinder servofish via The Business in Fortuna (Venus). Catch Longwinder in Orb Vallis lake hotspots during Warm weather.",
-    "itemCount": 10,
+    "itemCount": 15,
     "parents": [
       "Cantic Prism",
       "Exard Scaffold",
@@ -63227,6 +63229,7 @@
       "Kubrodon Ventkid Pauldrons",
       "Outrider Pauldrons",
       "Oxylus",
+      "Pax Charge",
       "Smelter Pauldrons",
       "Suo Brace",
       "Tazicor",
@@ -67624,6 +67627,7 @@
       "Kubrodon Ventkid Mask",
       "Outrider Cuirass",
       "Outrider Mask",
+      "Pax Soar",
       "Plaga Brace",
       "Smelter Apparel",
       "Smelter Cuirass",
@@ -68495,11 +68499,12 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishParralelBiodeItem",
     "name": "Mirewinder Parallel Biode",
     "description": "Controls the electrical flow throughout the circuitry within robotic organisms.\n\nSource: Dismantled from Mirewinder servofish via The Business in Fortuna (Venus). Catch Mirewinder in Orb Vallis caves during any weather. Also drops from resource containers across the Orb Vallis.",
-    "itemCount": 5,
+    "itemCount": 10,
     "parents": [
       "Bad Baby",
       "Bashrack",
       "Dorma Hound",
+      "Pax Charge",
       "Tyli Gyro"
     ],
     "type": "Fish Part",
@@ -69125,7 +69130,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishBPartItem",
     "name": "Mortus Horn",
     "description": "The horn of the Mortus Lungfish is ground down into a powder and used by the Ostrons in herbal remedies.\n\nSource: Cut from Mortus Lungfish via Fisher Hai-Luk in Cetus (Earth). Catch Mortus Lungfish in Plains of Eidolon ponds at any time of day. Also drops from Thumpers in the Plains of Eidolon.",
-    "itemCount": 5,
+    "itemCount": 20,
     "parents": [
       "Ceno Greaves",
       "Ekwana Ii Jai",
@@ -70027,7 +70032,7 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/NarmerBountyResource",
     "name": "Narmer Isoplast",
     "description": "An adaptive Sentient base component responsible for communication flows. Used extensively in the Narmer invasion. A valuable commodity for both The Quills and Vox Solaris.\n\nLocation: Narmer Bounties in the Plains of Eidolon (Earth) and Orb Vallis (Venus)",
-    "itemCount": 10,
+    "itemCount": 5,
     "parents": [
       "Caliban Cranion Helmet",
       "Korumm",
@@ -72114,7 +72119,7 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
     "name": "Nitain Extract",
     "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\n\nLocation: Nightwave Cred Offerings",
-    "itemCount": 1,
+    "itemCount": 2,
     "parents": [
       "<Archwing> Amesha",
       "Atlas Shikoro Helmet",
@@ -79861,7 +79866,7 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAAlloyAItem",
     "name": "Pyrotic Alloy",
     "description": "Pyrol that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
-    "itemCount": 40,
+    "itemCount": 300,
     "parents": [
       "Balla",
       "Ceno Greaves",
@@ -80015,7 +80020,7 @@
     "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemACutItem",
     "name": "Radiant Zodian",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
-    "itemCount": 3,
+    "itemCount": 10,
     "parents": [
       "Cantic Prism",
       "Haztech Mask",
@@ -80028,6 +80033,8 @@
       "Lega Prism",
       "Outrider Mask",
       "Outrider Pauldrons",
+      "Pax Bolt",
+      "Pax Charge",
       "Smelter Mask",
       "Smelter Pauldrons",
       "Vent Pobber Ventkid Mask",
@@ -87309,7 +87316,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishAPartItem",
     "name": "Sharrac Teeth",
     "description": "These will often adorn ceremonial garb or as a reagent for synthetics.\n\nSource: Cut from Sharrac fish via Fisher Hai-Luk in Cetus (Earth). Catch Sharrac in the Plains of Eidolon ocean at any time of day using Twilight Bait. Also drops from Thumpers in the Plains of Eidolon.",
-    "itemCount": 5,
+    "itemCount": 20,
     "parents": [
       "Ceno Pauldrons",
       "Fosfor Rahd",
@@ -98059,13 +98066,14 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEcosynthAnalyzerItem",
     "name": "Synathid Ecosynth Analyzer",
     "description": "A processing unit that efficiently monitors environmental data.\n\nSource: Dismantled from Synathid servofish via The Business in Fortuna (Venus). Catch Synathid in Orb Vallis cave hotspots during any weather. Also drops from the Exploiter Orb in the Orb Vallis.",
-    "itemCount": 5,
+    "itemCount": 15,
     "parents": [
       "Haztech Mask",
       "Helstrum",
       "Kubrodon Ventkid Mask",
       "Larkspur",
       "Outrider Mask",
+      "Pax Soar",
       "Smelter Mask",
       "Splat",
       "Vent Pobber Ventkid Mask",
@@ -100501,7 +100509,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishAPartItem",
     "name": "Tralok Eyes",
     "description": "The Ostron boil these into a jelly which forms a strong adhesive when it dries.\n\nSource: Cut from Tralok fish via Fisher Hai-Luk in Cetus (Earth). Catch Tralok in the Plains of Eidolon ocean during the Day. Also drops from Thumpers in the Plains of Eidolon.",
-    "itemCount": 5,
+    "itemCount": 20,
     "parents": [
       "Ekwana Ii Ruhang",
       "Murkray Bait",
@@ -100782,7 +100790,7 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEntroplasmaItem",
     "name": "Tromyzon Entroplasma",
     "description": "A solvent that reconstitutes waste product from the Weeping Towers into degenerated matter.\n\nSource: Dismantled from Tromyzon servofish via The Business in Fortuna (Venus). Catch Tromyzon in Orb Vallis Pond Hotspots during Cold weather. Also drops from the Exploiter Orb in the Orb Vallis.",
-    "itemCount": 5,
+    "itemCount": 15,
     "parents": [
       "Atheca Gyro",
       "Battacor",
@@ -100793,6 +100801,7 @@
       "Kubrodon Ventkid Greaves",
       "Nepheri",
       "Outrider Greaves",
+      "Pax Bolt",
       "Propa Scaffold",
       "Smelter Greaves",
       "Vent Pobber Ventkid Greaves",
