@@ -110919,7 +110919,7 @@
         "date": "2020-03-05T15:32:32Z",
         "url": "https://forums.warframe.com/topic/1172454-warframe-revised-update-2720/",
         "additions": "",
-        "changes": "Fixed being equipped with your Parazon or completely unarmed if you use the Crafting Forge in your Railjack while your Omni Tool or Scanner is equipped. \nRequiem Murmurs from failing a Kuva Lich Parazon stab will now again be shared with the entire squad! \nFixed Clients unable to use the ESC pause menu after Parazon stabbing a Kuva Lich.\nFixed becoming stuck on a Rampart after Parazon stabbing your Kuva Lich on it. As reported here: https://forums.warframe.com/topic/1156040-stuck-in-rampart-after-using-the-parazon-on-nearby-enemy-investigating/\nFixed more instances where Parazon Finishers were applying your Melee weapon’s attack speed with equipped Melee mods in Kuva Lich controlled missions.��",
+        "changes": "Fixed being equipped with your Parazon or completely unarmed if you use the Crafting Forge in your Railjack while your Omni Tool or Scanner is equipped. \nRequiem Murmurs from failing a Kuva Lich Parazon stab will now again be shared with the entire squad! \nFixed Clients unable to use the ESC pause menu after Parazon stabbing a Kuva Lich.\nFixed becoming stuck on a Rampart after Parazon stabbing your Kuva Lich on it. As reported here: https://forums.warframe.com/topic/1156040-stuck-in-rampart-after-using-the-parazon-on-nearby-enemy-investigating/\nFixed more instances where Parazon Finishers were applying your Melee weapon’s attack speed with equipped Melee mods in Kuva Lich controlled missions. ",
         "fixes": "Fixed Arch-Gun not re-equipping after Parazon Finishers and instead equipping Melee weapon. "
       },
       {
@@ -133903,7 +133903,6 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
         "name": "Star Amarast",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
-        "itemCount": 10,
         "buildPrice": 5000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -133931,6 +133930,7 @@
             "drops": []
           }
         ],
+        "itemCount": 10,
         "imageName": "SolarisRareGemACut.png",
         "tradable": false,
         "masterable": false,
