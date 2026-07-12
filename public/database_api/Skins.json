@@ -133903,6 +133903,7 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
         "name": "Star Amarast",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+        "itemCount": 10,
         "buildPrice": 5000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -133930,7 +133931,6 @@
             "drops": []
           }
         ],
-        "itemCount": 10,
         "imageName": "SolarisRareGemACut.png",
         "tradable": false,
         "masterable": false,
@@ -143277,7 +143277,7 @@
         "url": "https://forums.warframe.com/topic/1146388-rising-tide-hotfix-2612/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed the ‘Ordis Volume’ slider option applying to Cy Transmission volume. Cy Transmission volume are now affected by the ‘Transmission Volume’ slider."
+        "fixes": "Fixed the ��Ordis Volume’ slider option applying to Cy Transmission volume. Cy Transmission volume are now affected by the ‘Transmission Volume’ slider."
       },
       {
         "name": "Saint of Altra: Update 25.7.0",
