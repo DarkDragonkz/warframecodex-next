@@ -2220,6 +2220,26 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysErraGlyph",
+    "name": "Community Dog Days Erra Glyph",
+    "description": "A community glyph by SpaceWaifu depicting Erra loathing his time at the beach.",
+    "type": "Glyph",
+    "imageName": "DogDaysErraGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysGareshGlyph",
+    "name": "Community Dog Days Executioner Garesh Glyph",
+    "description": "A community glyph by SpaceWaifu depicting Executioner Garesh celebrating his kill score.",
+    "type": "Glyph",
+    "imageName": "DogDaysGareshGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGamingDogDaysGrendel",
     "name": "Community Dog Days Grendel Glyph",
     "description": "A community glyph by CheruuAx depicting Grendel enjoying a feast.",
@@ -2245,6 +2265,16 @@
     "description": "A community glyph by ChickenDrawsDogs depicting Hydroid diving for the win.",
     "type": "Glyph",
     "imageName": "DogDaysHydroidGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysKelaGlyph",
+    "name": "Community Dog Days Kela De Thaym Glyph",
+    "description": "A community glyph by SpaceWaifu depicting Kela De Thaym enjoying the summer vibes.",
+    "type": "Glyph",
+    "imageName": "DogDaysKelaGlyph.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -2285,6 +2315,16 @@
     "description": "A community glyph by ChickenDrawsDogs depicting Nova utilizing her abilities to win a Lob Blob fight.",
     "type": "Glyph",
     "imageName": "DogDaysNovaGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysRusalkaGlyph",
+    "name": "Community Dog Days Rusalka Glyph",
+    "description": "A community glyph by SpaceWaifu depicting Rusalka taking a break and enjoying a summer drink.",
+    "type": "Glyph",
+    "imageName": "DogDaysRusalkaGlyph.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -9339,6 +9379,16 @@
     "description": "A glyph depicting Mesa on a dark background.",
     "type": "Glyph",
     "imageName": "GunslingerAvatarDark.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/HeirloomMesaGlyph",
+    "name": "Mesa Heirloom Glyph",
+    "description": "These guns don't miss.",
+    "type": "Glyph",
+    "imageName": "MesaHeirloomGylph.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false

@@ -13319,6 +13319,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Daybreak/DaybreakBubonicoSkin",
+    "name": "Bubonico Daybreak Skin",
+    "description": "This skin for the Bubonico graces the Infestation with the light of day.",
+    "type": "Skin",
+    "imageName": "DaybreakBubonicoSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooGrineerA",
     "name": "Bulwark Ink",
     "description": "Body art can convey that which brings you peace or drives your spirit.",
@@ -26681,6 +26691,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/DaybreakDamanMeleeDangle",
+    "name": "Daman Daybreak Sugatra",
+    "description": "This bright sugatra marks the last dawn your enemies will ever see.",
+    "type": "Skin",
+    "imageName": "DaybreakDamanSugatra.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/PrimeMeleeDangle",
     "name": "Daman Prime Sugatra",
     "description": "A rare jewel from the old empire. Daman Sugatra Prime is crafted from some of the most scarce resources in the System.",
@@ -27475,6 +27495,16 @@
     "description": "Like the morning’s first light, this Shawzin will wake the spirit within. Play this instrument by equipping and using the included Shawzin Emote.",
     "type": "Ship Decoration",
     "imageName": "MandolinGradientDeco.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Scarves/UmbraDaxDaybreakSyandana",
+    "name": "Dax Daybreak Syandana",
+    "description": "Bring the early light of Sol to this late-Orokin Dax Syandana.",
+    "type": "Skin",
+    "imageName": "UmbraDaxDaybreakSyandana.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -33484,6 +33514,16 @@
     "description": "Whether you’re a commoner or a king, this diligent drone will keep your home spotless.",
     "type": "Ship Decoration",
     "imageName": "DuviriCleaningDrone.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneDaybreak",
+    "name": "Domestik Daybreak Drone",
+    "description": "This drone polishes the Orbiter's floors to luminous brilliance.",
+    "type": "Ship Decoration",
+    "imageName": "LisetPropCleaningDroneDaybreak.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -75746,6 +75786,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Yareli/KompressaDaybreakSkin",
+    "name": "Kompressa Daybreak Skin",
+    "description": "This skin for the Kompressa captures the first light of dawn across the ocean.",
+    "type": "Skin",
+    "imageName": "DaybreakKompressaSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWKonvalystEyeAcc",
     "name": "Konvalyst Oculus",
     "description": "A unique oculus, designed by lukinu_u.",
@@ -89419,6 +89469,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Daybreak/DaybreakMagistarSkin",
+    "name": "Magistar Daybreak Skin",
+    "description": "Visit brilliant wrath upon enemies with this skin for the Magistar.",
+    "type": "Skin",
+    "imageName": "DaybreakMagistarSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Contests/Pistols/MagnusDakila",
     "name": "Magnus Dakila Skin",
     "description": "A prize-winning skin for the Magnus, designed by MaaYuu.",
@@ -91585,6 +91645,349 @@
     "description": "A unique skin for the Mesa Warframe, designed by Faven.",
     "type": "Skin",
     "imageName": "MesaSWGraxx.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerMesaHeirloom",
+    "name": "Mesa Heirloom",
+    "description": "A rodeo of colors honoring Mesa's legacy.",
+    "hexColours": [
+      {
+        "value": "0x00F1584A"
+      },
+      {
+        "value": "0x00F25D50"
+      },
+      {
+        "value": "0x00F26255"
+      },
+      {
+        "value": "0x00F2665A"
+      },
+      {
+        "value": "0x00F26B5E"
+      },
+      {
+        "value": "0x00F26F63"
+      },
+      {
+        "value": "0x00F27468"
+      },
+      {
+        "value": "0x00F2786D"
+      },
+      {
+        "value": "0x00F27D72"
+      },
+      {
+        "value": "0x00F28177"
+      },
+      {
+        "value": "0x00F2857C"
+      },
+      {
+        "value": "0x00F28A80"
+      },
+      {
+        "value": "0x00F28E85"
+      },
+      {
+        "value": "0x00F2938A"
+      },
+      {
+        "value": "0x00F2978F"
+      },
+      {
+        "value": "0x00C10808"
+      },
+      {
+        "value": "0x00C20C0C"
+      },
+      {
+        "value": "0x00C21010"
+      },
+      {
+        "value": "0x00C21313"
+      },
+      {
+        "value": "0x00C21717"
+      },
+      {
+        "value": "0x00C21B1B"
+      },
+      {
+        "value": "0x00C21F1F"
+      },
+      {
+        "value": "0x00C22323"
+      },
+      {
+        "value": "0x00C22727"
+      },
+      {
+        "value": "0x00C22B2B"
+      },
+      {
+        "value": "0x00C22F2F"
+      },
+      {
+        "value": "0x00C23232"
+      },
+      {
+        "value": "0x00C23636"
+      },
+      {
+        "value": "0x00C23A3A"
+      },
+      {
+        "value": "0x00C23E3E"
+      },
+      {
+        "value": "0x00443930"
+      },
+      {
+        "value": "0x0045392F"
+      },
+      {
+        "value": "0x0045382D"
+      },
+      {
+        "value": "0x0045362B"
+      },
+      {
+        "value": "0x00453529"
+      },
+      {
+        "value": "0x00453427"
+      },
+      {
+        "value": "0x00453324"
+      },
+      {
+        "value": "0x00453222"
+      },
+      {
+        "value": "0x00453120"
+      },
+      {
+        "value": "0x0045301E"
+      },
+      {
+        "value": "0x00171211"
+      },
+      {
+        "value": "0x00171110"
+      },
+      {
+        "value": "0x00171110"
+      },
+      {
+        "value": "0x0017100F"
+      },
+      {
+        "value": "0x0017100E"
+      },
+      {
+        "value": "0x00170F0E"
+      },
+      {
+        "value": "0x00170F0D"
+      },
+      {
+        "value": "0x00170E0C"
+      },
+      {
+        "value": "0x00170D0B"
+      },
+      {
+        "value": "0x00170D0B"
+      },
+      {
+        "value": "0x006C6C6C"
+      },
+      {
+        "value": "0x00707070"
+      },
+      {
+        "value": "0x00757575"
+      },
+      {
+        "value": "0x007A7A7A"
+      },
+      {
+        "value": "0x00808080"
+      },
+      {
+        "value": "0x00858585"
+      },
+      {
+        "value": "0x008A8A8A"
+      },
+      {
+        "value": "0x008F8F8F"
+      },
+      {
+        "value": "0x00949494"
+      },
+      {
+        "value": "0x00999999"
+      },
+      {
+        "value": "0x00D68A6C"
+      },
+      {
+        "value": "0x00D68565"
+      },
+      {
+        "value": "0x00D6805E"
+      },
+      {
+        "value": "0x00D67C58"
+      },
+      {
+        "value": "0x00D67751"
+      },
+      {
+        "value": "0x00D6724B"
+      },
+      {
+        "value": "0x00D66E45"
+      },
+      {
+        "value": "0x00D6693E"
+      },
+      {
+        "value": "0x00D66538"
+      },
+      {
+        "value": "0x00D66031"
+      },
+      {
+        "value": "0x00FD8800"
+      },
+      {
+        "value": "0x00FC8A08"
+      },
+      {
+        "value": "0x00FC8E0F"
+      },
+      {
+        "value": "0x00FC9117"
+      },
+      {
+        "value": "0x00FC951E"
+      },
+      {
+        "value": "0x00FC9826"
+      },
+      {
+        "value": "0x00FC9C2D"
+      },
+      {
+        "value": "0x00FC9F35"
+      },
+      {
+        "value": "0x00FCA33D"
+      },
+      {
+        "value": "0x00FCA644"
+      },
+      {
+        "value": "0x00F95D00"
+      },
+      {
+        "value": "0x00FA6008"
+      },
+      {
+        "value": "0x00FA650F"
+      },
+      {
+        "value": "0x00FA6A16"
+      },
+      {
+        "value": "0x00FA6F1E"
+      },
+      {
+        "value": "0x00FA7325"
+      },
+      {
+        "value": "0x00FA782D"
+      },
+      {
+        "value": "0x00FA7D34"
+      },
+      {
+        "value": "0x00FA823C"
+      },
+      {
+        "value": "0x00FA8643"
+      }
+    ],
+    "type": "Color Palette",
+    "imageName": "ColorPickerMesaHeirloom.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/MesaHeirloomPoncho",
+    "name": "Mesa Heirloom Duster",
+    "excludeFromCodex": true,
+    "description": "Mesa Heirloom's signature duster.",
+    "type": "Skin",
+    "imageName": "MesaHeirloomPoncho.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/MesaHeirloomHelmet",
+    "name": "Mesa Heirloom Helmet",
+    "description": "Mesa Heirloom's signature helmet.",
+    "type": "Skin",
+    "imageName": "MesaHeirloomHelmet.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardMesaHeirloom",
+    "name": "Mesa Heirloom Prex",
+    "description": "The notorious gunslinger.",
+    "type": "Ship Decoration",
+    "imageName": "TarotCardMesaHeirloom.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/MesaHeirloomArmGunSkin",
+    "name": "Mesa Heirloom Regulators Skin",
+    "description": "Mesa Heirloom's signature Regulators.",
+    "type": "Skin",
+    "imageName": "MesaHeirloomArmGunSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Crowns/HeirloomMesaCrown",
+    "name": "Mesa Heirloom Signa",
+    "description": "Mesa Heirloom's signature signa reveals a dazzling hidden side to the vagabond enforcer.",
+    "type": "Skin",
+    "imageName": "MesaHeirloomCrown.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/MesaHeirloomSkin",
+    "name": "Mesa Heirloom Skin",
+    "description": "The legendary gunslinger. The notorious heartbreaker. Better call the undertaker, 'cause Mesa Heirloom just sauntered into town.",
+    "type": "Skin",
+    "imageName": "MesaHeirloomSkin.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -104424,6 +104827,17 @@
     "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleLyoricBridge",
     "name": "On That Far Shore Forlorn Honoria",
     "description": "An Honoria for your profile.",
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/DogDaysTitle",
+    "name": "On This Beach Of An Earth Honoria",
+    "description": "An Honoria for your profile.",
+    "excludeFromCodex": true,
     "type": "Misc",
     "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
@@ -143277,7 +143691,7 @@
         "url": "https://forums.warframe.com/topic/1146388-rising-tide-hotfix-2612/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed the ��Ordis Volume’ slider option applying to Cy Transmission volume. Cy Transmission volume are now affected by the ‘Transmission Volume’ slider."
+        "fixes": "Fixed the ‘Ordis Volume’ slider option applying to Cy Transmission volume. Cy Transmission volume are now affected by the ‘Transmission Volume’ slider."
       },
       {
         "name": "Saint of Altra: Update 25.7.0",

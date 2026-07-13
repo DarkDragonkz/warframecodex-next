@@ -2683,6 +2683,16 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomMesaSigil",
+    "name": "Mesa Heirloom Sigil",
+    "description": "Mesa Heirloom's sigil warns outlaws their time has come.",
+    "type": "Sigil",
+    "imageName": "HeirloomMesaSigil.png",
+    "category": "Sigils",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MonquisSigil",
     "name": "Monquis Sigil",
     "description": "This is a unique sigil depicting a mysterious creature of ancient Earth.",
