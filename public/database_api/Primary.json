@@ -35453,6 +35453,10 @@
         "damage": {}
       }
     ],
+    "polarities": [
+      "madurai",
+      "madurai"
+    ],
     "tags": [
       "Sentient"
     ],
@@ -48314,6 +48318,7 @@
         "crit_chance": 24,
         "crit_mult": 2.6,
         "status_chance": 30,
+        "shot_type": "AoE",
         "falloff": {
           "start": 0,
           "end": 4.6,
