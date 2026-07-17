@@ -40248,7 +40248,7 @@
         "url": "https://forums.warframe.com/topic/813247-chains-of-harrow-hotfix-2104/",
         "additions": "",
         "changes": "After completing the Chains of Harrow quest, visit Palladino in Iron Wake to purchase your Donda for a small Ducat fee. Shiny for a shiny!\nIncreased the amount of Energy returned to the Operator by killing enemies in the Chains of Harrow quest fight from 15 to 30.\nAn objective text will now indicate when a certain mechanic is invulnerable in the Chains of Harrow boss fight.\nIncreased the hit box size of a certain mechanic when invulnerable in the Chains of Harrow boss fight.\nRed Veil Fanatics now have objective markers on them in the Chains of Harrow boss fight.",
-        "fixes": "Fixed Harrow’s Thurible Channeling not being cancellable with \"use selected ability button.\"\nFixed Harrow’s Thurible remaining in his hand if he enters gets downed while Channeling Thurible.\nFixed not receiving the buff after channeling Harrow’s Thurible if a context action is used.\nFixed Harrow’s Penance not respecting the duration cap on the initial cast.\nFixed Harrow’s front cloth clipping through his legs during his Agile animation.\nFixed Emotes being disabled for everybody when a Harrow is Channeling his Thurible.\nFixed a script error when casting Harrow’s Thurible or Covenant."
+        "fixes": "Fixed Harrow’s Thurible Channeling not being cancellable with \"use selected ability button.\"\nFixed Harrow���s Thurible remaining in his hand if he enters gets downed while Channeling Thurible.\nFixed not receiving the buff after channeling Harrow’s Thurible if a context action is used.\nFixed Harrow’s Penance not respecting the duration cap on the initial cast.\nFixed Harrow’s front cloth clipping through his legs during his Agile animation.\nFixed Emotes being disabled for everybody when a Harrow is Channeling his Thurible.\nFixed a script error when casting Harrow’s Thurible or Covenant."
       },
       {
         "name": "Chains of Harrow: Hotfix 21.0.3",
@@ -83790,7 +83790,7 @@
         "url": "https://forums.warframe.com/topic/1096333-the-jovian-concord-hotfix-2503/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed parts of Nyx’s Absorb ability that weren’t applying Energy colors."
+        "fixes": "Fixed parts of Nyx’s Absorb ability that weren��t applying Energy colors."
       },
       {
         "name": "The Jovian Concord: Hotfix 25.0.2 + 25.0.2.1",
@@ -91077,7 +91077,7 @@
         "date": "2017-03-24T22:41:18Z",
         "url": "https://forums.warframe.com/topic/776780-octavia%E2%80%99s-anthem-hotfix-2002/",
         "additions": "",
-        "changes": "Octavia��S Anthem: Hotfix 20.0.2:",
+        "changes": "Octavia’S Anthem: Hotfix 20.0.2:",
         "fixes": "Fixed casting a new Octavia Resonator not attaching to a Mallet if a Resonator is already attached to a Mallet.\nFixed Octavia’s Mallet not appearing for Clients in Conclave."
       },
       {
@@ -109758,7 +109758,7 @@
         "url": "https://forums.warframe.com/topic/424333-hotfix-1603/",
         "additions": "",
         "changes": "",
-        "fixes": "Trinity’s Well of Life will no longer waste energy on invulnerable targets.\nVay Hek is no longer vulnerable to Trinity’s Energy Vampire (like other bosses).\nFixed Trinity’s Well of Life inadvertently causing damage to certain enemies.\nFixed Trinity’s Well of Life and other powers for clients targeting invulnerable enemies after Mag’s Bullet Attractor had expired."
+        "fixes": "Trinity’s Well of Life will no longer waste energy on invulnerable targets.\nVay Hek is no longer vulnerable to Trinity’s Energy Vampire (like other bosses).\nFixed Trinity���s Well of Life inadvertently causing damage to certain enemies.\nFixed Trinity’s Well of Life and other powers for clients targeting invulnerable enemies after Mag’s Bullet Attractor had expired."
       },
       {
         "name": "Update 15.13",
@@ -119128,7 +119128,7 @@
         "date": "2016-08-19T17:32:55Z",
         "url": "https://forums.warframe.com/topic/688644-the-silver-grove/",
         "additions": "",
-        "changes": "Decreased duration of Volt’s Shield in Conclave\nRemoved duration reduction and reduced Energy drain when picking up Volt’s Shield in Conclave",
+        "changes": "Decreased duration of Volt’s Shield in Conclave\nRemoved duration reduction and reduced Energy drain when picking up Volt���s Shield in Conclave",
         "fixes": "Fixed Volt’s Discharge not applying diminishing returns to duration. "
       },
       {
