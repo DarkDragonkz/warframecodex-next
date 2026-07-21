@@ -7887,7 +7887,7 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
     "name": "Moonlight Dragonlily",
     "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
-    "itemCount": 10,
+    "itemCount": 6,
     "parents": [
       "Lapis Antitoxin",
       "Nightfall Apothic",
@@ -11641,7 +11641,7 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
     "name": "Sunlight Dragonlily",
     "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
-    "itemCount": 10,
+    "itemCount": 4,
     "parents": [
       "Citrine Antitoxin",
       "Lapis Antitoxin",
