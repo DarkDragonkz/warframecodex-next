@@ -363,7 +363,7 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
     "name": "Alloy Plate",
     "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
-    "itemCount": 600,
+    "itemCount": 1000,
     "parents": [
       "Adrenal Stim",
       "Akvasto Forest-Camo Skin",
@@ -63475,7 +63475,7 @@
         "url": "https://forums.warframe.com/topic/635136-update-1880/",
         "additions": "",
         "changes": "",
-        "fixes": "•��   Fixed a game freeze when logging out while in the ‘Customize Interior’ screen for the Liset."
+        "fixes": "•    Fixed a game freeze when logging out while in the ‘Customize Interior’ screen for the Liset."
       },
       {
         "name": "Update 18.7.0",
