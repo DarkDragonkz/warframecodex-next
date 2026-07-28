@@ -217,71 +217,11 @@
         "name": "Control Module",
         "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
         "itemCount": 5,
-        "buildPrice": 15000,
-        "buildTime": 3600,
-        "skipBuildTimePrice": 2,
-        "buildQuantity": 1,
-        "consumeOnBuild": false,
-        "components": [
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
-            "name": "Alloy Plate",
-            "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
-            "itemCount": 10000,
-            "imageName": "AlloyPlate.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          },
-          {
-            "uniqueName": "/Lotus/Types/Recipes/Components/ControlModuleResourceBlueprint",
-            "name": "Blueprint",
-            "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
-            "itemCount": 1,
-            "imageName": "blueprint.png",
-            "tradable": false,
-            "masterable": false,
-            "drops": []
-          },
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
-            "name": "Ferrite",
-            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
-            "itemCount": 10000,
-            "imageName": "ComponentFerrite.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false
-          },
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
-            "name": "Nano Spores",
-            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
-            "itemCount": 25000,
-            "imageName": "ComponentNanospores.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          },
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
-            "name": "Salvage",
-            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
-            "itemCount": 10000,
-            "imageName": "ComponentSalvage.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          }
-        ],
         "imageName": "ControlModule.png",
         "tradable": false,
+        "drops": [],
         "masterable": false,
-        "type": "Resource",
-        "drops": []
+        "type": "Resource"
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingChassisComponent",
@@ -510,71 +450,11 @@
         "name": "Control Module",
         "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
         "itemCount": 2,
-        "buildPrice": 15000,
-        "buildTime": 3600,
-        "skipBuildTimePrice": 2,
-        "buildQuantity": 1,
-        "consumeOnBuild": false,
-        "components": [
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
-            "name": "Alloy Plate",
-            "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
-            "itemCount": 10000,
-            "imageName": "AlloyPlate.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          },
-          {
-            "uniqueName": "/Lotus/Types/Recipes/Components/ControlModuleResourceBlueprint",
-            "name": "Blueprint",
-            "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
-            "itemCount": 1,
-            "imageName": "blueprint.png",
-            "tradable": false,
-            "masterable": false,
-            "drops": []
-          },
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
-            "name": "Ferrite",
-            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
-            "itemCount": 10000,
-            "imageName": "ComponentFerrite.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false
-          },
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
-            "name": "Nano Spores",
-            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
-            "itemCount": 25000,
-            "imageName": "ComponentNanospores.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          },
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
-            "name": "Salvage",
-            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
-            "itemCount": 10000,
-            "imageName": "ComponentSalvage.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          }
-        ],
         "imageName": "ControlModule.png",
         "tradable": false,
+        "drops": [],
         "masterable": false,
-        "type": "Resource",
-        "drops": []
+        "type": "Resource"
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingChassisComponent",
@@ -1561,61 +1441,11 @@
         "name": "Orokin Cell",
         "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
         "itemCount": 1,
-        "buildPrice": 15000,
-        "buildTime": 3600,
-        "skipBuildTimePrice": 2,
-        "buildQuantity": 1,
-        "consumeOnBuild": false,
-        "components": [
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
-            "name": "Alloy Plate",
-            "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
-            "itemCount": 50000,
-            "imageName": "AlloyPlate.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          },
-          {
-            "uniqueName": "/Lotus/Types/Recipes/Components/OrokinCellResourceBlueprint",
-            "name": "Blueprint",
-            "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
-            "itemCount": 1,
-            "imageName": "blueprint.png",
-            "tradable": false,
-            "masterable": false,
-            "drops": []
-          },
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
-            "name": "Nano Spores",
-            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
-            "itemCount": 50000,
-            "imageName": "ComponentNanospores.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          },
-          {
-            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
-            "name": "Salvage",
-            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
-            "itemCount": 25000,
-            "imageName": "ComponentSalvage.png",
-            "tradable": false,
-            "drops": [],
-            "masterable": false,
-            "type": "Resource"
-          }
-        ],
         "imageName": "ComponentCell.png",
         "tradable": false,
+        "drops": [],
         "masterable": false,
-        "type": "Resource",
-        "drops": []
+        "type": "Resource"
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingSystemsComponent",
