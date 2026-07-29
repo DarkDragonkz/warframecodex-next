@@ -420731,808 +420731,7 @@
     "imageName": "RelicNeoA.png",
     "category": "Relics",
     "tradable": true,
-    "locations": [
-      {
-        "rarity": "Legendary",
-        "chance": 0.42,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.5,
-        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.5,
-        "location": "Deimos/Cambion Drift (Level 30 - 40 Isolation Vault), Rotation B"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.5,
-        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.5,
-        "location": "Deimos/Cambion Drift (Level 40 - 50 Isolation Vault), Rotation A"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.58,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.67,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1,
-        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1,
-        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Ceres/Seimeni (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Earth/Coba (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Eris/Akkad (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Europa/Larzac (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Jupiter/Sinai (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Mars/Kadesh (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Pluto/Sechura (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Sedna/Sangeru (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Venus/Romula (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Deimos/Armatus (Disruption), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Ixodes (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Kala-Azar (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Phalan (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Sporid (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Xini (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Lua/StöFler (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Lua/Yuvarium (Survival), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Neptune/Proteus (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Neptune/Yursa (Defection), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Pluto/Cerberus (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Pluto/Outer Terminus (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Pluto/Peregrine Axis (Skirmish), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Saturn/Caracol (Defection), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Sedna/Berehynia (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Sedna/Hydron (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Uranus/Bianca (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Uranus/Miranda (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Uranus/Stephano (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Ceres/Draco (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Europa/Lillith (Excavation), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Europa/Paimon (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Europa/Valefor (Excavation), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Europa/Zagan (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Jupiter/Cameria (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Jupiter/Elara (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Jupiter/Io (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Mars/Wahiba (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Phobos/Zeugma (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Saturn/Helene (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Saturn/Piscinas (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Saturn/Titan (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Sedna/Camenae (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.92,
-        "location": "Höllvania/Hell-Scrub: Scaldra (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.92,
-        "location": "Höllvania/Hell-Scrub: Techrot (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 12.5,
-        "location": "Deimos/Terrorem (Survival), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 12.5,
-        "location": "Void/Mithra (Interception), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 12.5,
-        "location": "Void/Mot (Survival), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 13.56,
-        "location": "Uranus/Ur (Disruption), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Eris/Zabala (Survival), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Europa/Ose (Interception), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Jupiter/Callisto (Interception), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Lua/Apollo (Disruption), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Saturn/Rhea (Interception), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Sedna/Kappa (Disruption), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Uranus/Umbriel (Interception), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Uranus/Ur (Disruption), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 15.86,
-        "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2,
-        "location": "Veil Proxima/Flexa (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2,
-        "location": "Veil Proxima/H-2 Cloud (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2,
-        "location": "Veil Proxima/Nsu Grid (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2,
-        "location": "Veil Proxima/R-9 Cloud (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Another Betrayer, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Family Reunion, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Hot Mess, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Phobos/Opik (Rush), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Recover The Orokin Archive, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Sunkiller, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Table For Two, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "The Aftermath, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Time's Up, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.05,
-        "location": "Void/Ani (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.41,
-        "location": "Pluto/Profit Margin (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.41,
-        "location": "Pluto/Seven Sirens (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.5,
-        "location": "Void Storm (Pluto)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Eris/Cyath (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Eris/Gnathos (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Kuva Fortress/Pago (Spy), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Neptune/Nereid (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Pluto/Oceanum (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Sedna/Kelpie (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Sedna/Tikoloshe (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Uranus/Rosalind (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.33,
-        "location": "Zariman/Everview Arc (Void Flood), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.33,
-        "location": "Zariman/Oro Works (Void Armageddon), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.33,
-        "location": "Zariman/Tuvul Commons (Void Cascade), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Arc Silver (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Calabash (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Erato (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Lu-Yan (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Numina (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Sabmir Cloud (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.55,
-        "location": "Pluto/Khufu Envoy (Skirmish), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.76,
-        "location": "Lua/Circulus (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.8,
-        "location": "Veil Proxima/Flexa (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.8,
-        "location": "Veil Proxima/H-2 Cloud (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.8,
-        "location": "Veil Proxima/Nsu Grid (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.8,
-        "location": "Veil Proxima/R-9 Cloud (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 5.56,
-        "location": "Jupiter/Ganymede (Disruption), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 5.8,
-        "location": "Mars/Tyana Pass (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.06,
-        "location": "Pluto/Fenton's Field (Skirmish), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.06,
-        "location": "Pluto/Obol Crossing (Skirmish), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.09,
-        "location": "Void/Ani (Survival), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Europa/Paimon (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Jupiter/Io (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Mars/Tyana Pass (Defense), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Saturn/Helene (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Sedna/Camenae (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Void/Aten (Mobile Defense)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Void/Marduk (Sabotage)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Void/Oxomoco (Exterminate)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Void/Ukko (Capture)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.32,
-        "location": "Elite Sanctuary Onslaught, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.49,
-        "location": "Void/Belenus (Defense), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Eris/Hymeno (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Eris/Nimus (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Europa/Cholistan (Excavation), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Kuva Fortress/Taveuni (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Lua/Tycho (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Neptune/Despina (Excavation), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Neptune/Kelashin (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Pluto/Hieracon (Excavation), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Pluto/Palus (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Sedna/Amarna (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Sedna/Scylla (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Sedna/Selkie (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Sedna/Yemaja (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Uranus/Assur (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Uranus/Cupid (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Uranus/Ophelia (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.14,
-        "location": "Europa/Ose (Interception), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.14,
-        "location": "Jupiter/Callisto (Interception), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.14,
-        "location": "Saturn/Rhea (Interception), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.14,
-        "location": "Uranus/Umbriel (Interception), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.5,
-        "location": "Deimos/Cambire (Alchemy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.5,
-        "location": "Deimos/Munio (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.5,
-        "location": "Deimos/Persto (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.69,
-        "location": "Eris/Oestrus (Infested Salvage), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 8.33,
-        "location": "Faceoff: Single Squad (Steel Path), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 8.33,
-        "location": "Faceoff: Single Squad, Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 8.33,
-        "location": "Faceoff: Squad VS Squad (Steel Path), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 8.33,
-        "location": "Faceoff: Squad VS Squad, Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.09,
-        "location": "Sanctuary Onslaught, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.09,
-        "location": "Void/Belenus (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.09,
-        "location": "Void/Mithra (Interception), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.09,
-        "location": "Void/Mot (Survival), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.35,
-        "location": "Höllvania/Hell-Scrub: Scaldra (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.35,
-        "location": "Höllvania/Hell-Scrub: Techrot (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.56,
-        "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.68,
-        "location": "Void/Belenus (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.9,
-        "location": "Höllvania/Solstice Square (Defense), Rotation B"
-      }
-    ],
+    "locations": [],
     "rewards": [
       {
         "rarity": "Rare",
@@ -421611,7 +420810,7 @@
       "id": "69d6782ab3984cc97e241760",
       "urlName": "neo_v11_relic"
     },
-    "vaulted": false,
+    "vaulted": true,
     "masterable": false
   },
   {
@@ -421622,808 +420821,7 @@
     "imageName": "RelicNeoB.png",
     "category": "Relics",
     "tradable": true,
-    "locations": [
-      {
-        "rarity": "Legendary",
-        "chance": 0.42,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.5,
-        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.5,
-        "location": "Deimos/Cambion Drift (Level 30 - 40 Isolation Vault), Rotation B"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.5,
-        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.5,
-        "location": "Deimos/Cambion Drift (Level 40 - 50 Isolation Vault), Rotation A"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.58,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.67,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1,
-        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1,
-        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Ceres/Seimeni (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Earth/Coba (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Eris/Akkad (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Europa/Larzac (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Jupiter/Sinai (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Mars/Kadesh (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Pluto/Sechura (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Sedna/Sangeru (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Venus/Romula (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Deimos/Armatus (Disruption), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Ixodes (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Kala-Azar (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Phalan (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Sporid (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Xini (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Lua/StöFler (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Lua/Yuvarium (Survival), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Neptune/Proteus (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Neptune/Yursa (Defection), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Pluto/Cerberus (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Pluto/Outer Terminus (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Pluto/Peregrine Axis (Skirmish), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Saturn/Caracol (Defection), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Sedna/Berehynia (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Sedna/Hydron (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Uranus/Bianca (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Uranus/Miranda (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Uranus/Stephano (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Ceres/Draco (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Europa/Lillith (Excavation), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Europa/Paimon (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Europa/Valefor (Excavation), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Europa/Zagan (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Jupiter/Cameria (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Jupiter/Elara (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Jupiter/Io (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Mars/Wahiba (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Phobos/Zeugma (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Saturn/Helene (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Saturn/Piscinas (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Saturn/Titan (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Sedna/Camenae (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.92,
-        "location": "Höllvania/Hell-Scrub: Scaldra (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.92,
-        "location": "Höllvania/Hell-Scrub: Techrot (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 12.5,
-        "location": "Deimos/Terrorem (Survival), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 12.5,
-        "location": "Void/Mithra (Interception), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 12.5,
-        "location": "Void/Mot (Survival), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 13.56,
-        "location": "Uranus/Ur (Disruption), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Eris/Zabala (Survival), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Europa/Ose (Interception), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Jupiter/Callisto (Interception), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Lua/Apollo (Disruption), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Saturn/Rhea (Interception), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Sedna/Kappa (Disruption), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Uranus/Umbriel (Interception), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Uranus/Ur (Disruption), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 15.86,
-        "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2,
-        "location": "Veil Proxima/Flexa (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2,
-        "location": "Veil Proxima/H-2 Cloud (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2,
-        "location": "Veil Proxima/Nsu Grid (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2,
-        "location": "Veil Proxima/R-9 Cloud (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Another Betrayer, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Family Reunion, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Hot Mess, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Phobos/Opik (Rush), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Recover The Orokin Archive, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Sunkiller, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Table For Two, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "The Aftermath, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Time's Up, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.05,
-        "location": "Void/Ani (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.41,
-        "location": "Pluto/Profit Margin (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.41,
-        "location": "Pluto/Seven Sirens (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.5,
-        "location": "Void Storm (Pluto)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Eris/Cyath (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Eris/Gnathos (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Kuva Fortress/Pago (Spy), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Neptune/Nereid (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Pluto/Oceanum (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Sedna/Kelpie (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Sedna/Tikoloshe (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Uranus/Rosalind (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.33,
-        "location": "Zariman/Everview Arc (Void Flood), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.33,
-        "location": "Zariman/Oro Works (Void Armageddon), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.33,
-        "location": "Zariman/Tuvul Commons (Void Cascade), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Arc Silver (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Calabash (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Erato (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Lu-Yan (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Numina (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Sabmir Cloud (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.55,
-        "location": "Pluto/Khufu Envoy (Skirmish), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.76,
-        "location": "Lua/Circulus (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.8,
-        "location": "Veil Proxima/Flexa (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.8,
-        "location": "Veil Proxima/H-2 Cloud (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.8,
-        "location": "Veil Proxima/Nsu Grid (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.8,
-        "location": "Veil Proxima/R-9 Cloud (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 5.56,
-        "location": "Jupiter/Ganymede (Disruption), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 5.8,
-        "location": "Mars/Tyana Pass (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.06,
-        "location": "Pluto/Fenton's Field (Skirmish), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.06,
-        "location": "Pluto/Obol Crossing (Skirmish), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.09,
-        "location": "Void/Ani (Survival), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Europa/Paimon (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Jupiter/Io (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Mars/Tyana Pass (Defense), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Saturn/Helene (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Sedna/Camenae (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Void/Aten (Mobile Defense)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Void/Marduk (Sabotage)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Void/Oxomoco (Exterminate)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Void/Ukko (Capture)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.32,
-        "location": "Elite Sanctuary Onslaught, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.49,
-        "location": "Void/Belenus (Defense), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Eris/Hymeno (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Eris/Nimus (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Europa/Cholistan (Excavation), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Kuva Fortress/Taveuni (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Lua/Tycho (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Neptune/Despina (Excavation), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Neptune/Kelashin (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Pluto/Hieracon (Excavation), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Pluto/Palus (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Sedna/Amarna (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Sedna/Scylla (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Sedna/Selkie (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Sedna/Yemaja (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Uranus/Assur (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Uranus/Cupid (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Uranus/Ophelia (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.14,
-        "location": "Europa/Ose (Interception), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.14,
-        "location": "Jupiter/Callisto (Interception), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.14,
-        "location": "Saturn/Rhea (Interception), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.14,
-        "location": "Uranus/Umbriel (Interception), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.5,
-        "location": "Deimos/Cambire (Alchemy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.5,
-        "location": "Deimos/Munio (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.5,
-        "location": "Deimos/Persto (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.69,
-        "location": "Eris/Oestrus (Infested Salvage), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 8.33,
-        "location": "Faceoff: Single Squad (Steel Path), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 8.33,
-        "location": "Faceoff: Single Squad, Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 8.33,
-        "location": "Faceoff: Squad VS Squad (Steel Path), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 8.33,
-        "location": "Faceoff: Squad VS Squad, Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.09,
-        "location": "Sanctuary Onslaught, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.09,
-        "location": "Void/Belenus (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.09,
-        "location": "Void/Mithra (Interception), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.09,
-        "location": "Void/Mot (Survival), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.35,
-        "location": "Höllvania/Hell-Scrub: Scaldra (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.35,
-        "location": "Höllvania/Hell-Scrub: Techrot (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.56,
-        "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.68,
-        "location": "Void/Belenus (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.9,
-        "location": "Höllvania/Solstice Square (Defense), Rotation B"
-      }
-    ],
+    "locations": [],
     "rewards": [
       {
         "rarity": "Rare",
@@ -422502,7 +420900,7 @@
       "id": "69d6782ab3984cc97e241760",
       "urlName": "neo_v11_relic"
     },
-    "vaulted": false,
+    "vaulted": true,
     "masterable": false
   },
   {
@@ -422513,808 +420911,7 @@
     "imageName": "RelicNeoD.png",
     "category": "Relics",
     "tradable": true,
-    "locations": [
-      {
-        "rarity": "Legendary",
-        "chance": 0.42,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.5,
-        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.5,
-        "location": "Deimos/Cambion Drift (Level 30 - 40 Isolation Vault), Rotation B"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.5,
-        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.5,
-        "location": "Deimos/Cambion Drift (Level 40 - 50 Isolation Vault), Rotation A"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.58,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.67,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1,
-        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1,
-        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Ceres/Seimeni (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Earth/Coba (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Eris/Akkad (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Europa/Larzac (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Jupiter/Sinai (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Mars/Kadesh (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Pluto/Sechura (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Sedna/Sangeru (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Venus/Romula (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Deimos/Armatus (Disruption), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Ixodes (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Kala-Azar (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Phalan (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Sporid (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Xini (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Lua/StöFler (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Lua/Yuvarium (Survival), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Neptune/Proteus (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Neptune/Yursa (Defection), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Pluto/Cerberus (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Pluto/Outer Terminus (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Pluto/Peregrine Axis (Skirmish), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Saturn/Caracol (Defection), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Sedna/Berehynia (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Sedna/Hydron (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Uranus/Bianca (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Uranus/Miranda (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Uranus/Stephano (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Ceres/Draco (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Europa/Lillith (Excavation), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Europa/Paimon (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Europa/Valefor (Excavation), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Europa/Zagan (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Jupiter/Cameria (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Jupiter/Elara (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Jupiter/Io (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Mars/Wahiba (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Phobos/Zeugma (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Saturn/Helene (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Saturn/Piscinas (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Saturn/Titan (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Sedna/Camenae (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.92,
-        "location": "Höllvania/Hell-Scrub: Scaldra (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.92,
-        "location": "Höllvania/Hell-Scrub: Techrot (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 12.5,
-        "location": "Deimos/Terrorem (Survival), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 12.5,
-        "location": "Void/Mithra (Interception), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 12.5,
-        "location": "Void/Mot (Survival), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 13.56,
-        "location": "Uranus/Ur (Disruption), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Eris/Zabala (Survival), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Europa/Ose (Interception), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Jupiter/Callisto (Interception), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Lua/Apollo (Disruption), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Saturn/Rhea (Interception), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Sedna/Kappa (Disruption), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Uranus/Umbriel (Interception), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Uranus/Ur (Disruption), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 15.86,
-        "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2,
-        "location": "Veil Proxima/Flexa (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2,
-        "location": "Veil Proxima/H-2 Cloud (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2,
-        "location": "Veil Proxima/Nsu Grid (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2,
-        "location": "Veil Proxima/R-9 Cloud (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Another Betrayer, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Family Reunion, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Hot Mess, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Phobos/Opik (Rush), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Recover The Orokin Archive, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Sunkiller, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Table For Two, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "The Aftermath, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Time's Up, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.05,
-        "location": "Void/Ani (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.41,
-        "location": "Pluto/Profit Margin (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.41,
-        "location": "Pluto/Seven Sirens (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.5,
-        "location": "Void Storm (Pluto)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Eris/Cyath (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Eris/Gnathos (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Kuva Fortress/Pago (Spy), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Neptune/Nereid (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Pluto/Oceanum (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Sedna/Kelpie (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Sedna/Tikoloshe (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Uranus/Rosalind (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.33,
-        "location": "Zariman/Everview Arc (Void Flood), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.33,
-        "location": "Zariman/Oro Works (Void Armageddon), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.33,
-        "location": "Zariman/Tuvul Commons (Void Cascade), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Arc Silver (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Calabash (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Erato (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Lu-Yan (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Numina (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Sabmir Cloud (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.55,
-        "location": "Pluto/Khufu Envoy (Skirmish), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.76,
-        "location": "Lua/Circulus (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.8,
-        "location": "Veil Proxima/Flexa (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.8,
-        "location": "Veil Proxima/H-2 Cloud (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.8,
-        "location": "Veil Proxima/Nsu Grid (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.8,
-        "location": "Veil Proxima/R-9 Cloud (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 5.56,
-        "location": "Jupiter/Ganymede (Disruption), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 5.8,
-        "location": "Mars/Tyana Pass (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.06,
-        "location": "Pluto/Fenton's Field (Skirmish), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.06,
-        "location": "Pluto/Obol Crossing (Skirmish), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.09,
-        "location": "Void/Ani (Survival), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Europa/Paimon (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Jupiter/Io (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Mars/Tyana Pass (Defense), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Saturn/Helene (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Sedna/Camenae (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Void/Aten (Mobile Defense)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Void/Marduk (Sabotage)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Void/Oxomoco (Exterminate)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Void/Ukko (Capture)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.32,
-        "location": "Elite Sanctuary Onslaught, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.49,
-        "location": "Void/Belenus (Defense), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Eris/Hymeno (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Eris/Nimus (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Europa/Cholistan (Excavation), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Kuva Fortress/Taveuni (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Lua/Tycho (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Neptune/Despina (Excavation), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Neptune/Kelashin (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Pluto/Hieracon (Excavation), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Pluto/Palus (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Sedna/Amarna (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Sedna/Scylla (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Sedna/Selkie (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Sedna/Yemaja (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Uranus/Assur (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Uranus/Cupid (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Uranus/Ophelia (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.14,
-        "location": "Europa/Ose (Interception), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.14,
-        "location": "Jupiter/Callisto (Interception), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.14,
-        "location": "Saturn/Rhea (Interception), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.14,
-        "location": "Uranus/Umbriel (Interception), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.5,
-        "location": "Deimos/Cambire (Alchemy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.5,
-        "location": "Deimos/Munio (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.5,
-        "location": "Deimos/Persto (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.69,
-        "location": "Eris/Oestrus (Infested Salvage), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 8.33,
-        "location": "Faceoff: Single Squad (Steel Path), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 8.33,
-        "location": "Faceoff: Single Squad, Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 8.33,
-        "location": "Faceoff: Squad VS Squad (Steel Path), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 8.33,
-        "location": "Faceoff: Squad VS Squad, Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.09,
-        "location": "Sanctuary Onslaught, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.09,
-        "location": "Void/Belenus (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.09,
-        "location": "Void/Mithra (Interception), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.09,
-        "location": "Void/Mot (Survival), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.35,
-        "location": "Höllvania/Hell-Scrub: Scaldra (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.35,
-        "location": "Höllvania/Hell-Scrub: Techrot (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.56,
-        "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.68,
-        "location": "Void/Belenus (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.9,
-        "location": "Höllvania/Solstice Square (Defense), Rotation B"
-      }
-    ],
+    "locations": [],
     "rewards": [
       {
         "rarity": "Rare",
@@ -423393,7 +420990,7 @@
       "id": "69d6782ab3984cc97e241760",
       "urlName": "neo_v11_relic"
     },
-    "vaulted": false,
+    "vaulted": true,
     "masterable": false
   },
   {
@@ -423404,808 +421001,7 @@
     "imageName": "RelicNeoC.png",
     "category": "Relics",
     "tradable": true,
-    "locations": [
-      {
-        "rarity": "Legendary",
-        "chance": 0.42,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.5,
-        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.5,
-        "location": "Deimos/Cambion Drift (Level 30 - 40 Isolation Vault), Rotation B"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.5,
-        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.5,
-        "location": "Deimos/Cambion Drift (Level 40 - 50 Isolation Vault), Rotation A"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.58,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
-      },
-      {
-        "rarity": "Legendary",
-        "chance": 0.67,
-        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1,
-        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1,
-        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Ceres/Seimeni (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Earth/Coba (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Eris/Akkad (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Europa/Larzac (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Jupiter/Sinai (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Mars/Kadesh (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Pluto/Sechura (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Sedna/Sangeru (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 1.84,
-        "location": "Venus/Romula (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Deimos/Armatus (Disruption), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Ixodes (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Kala-Azar (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Phalan (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Sporid (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Eris/Xini (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Lua/StöFler (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Lua/Yuvarium (Survival), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Neptune/Proteus (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Neptune/Yursa (Defection), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Pluto/Cerberus (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Pluto/Outer Terminus (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Pluto/Peregrine Axis (Skirmish), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Saturn/Caracol (Defection), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Sedna/Berehynia (Interception), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Sedna/Hydron (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Uranus/Bianca (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Uranus/Miranda (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 10,
-        "location": "Uranus/Stephano (Defense), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Ceres/Draco (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Europa/Lillith (Excavation), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Europa/Paimon (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Europa/Valefor (Excavation), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Europa/Zagan (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Jupiter/Cameria (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Jupiter/Elara (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Jupiter/Io (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Mars/Wahiba (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Phobos/Zeugma (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Saturn/Helene (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Saturn/Piscinas (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Saturn/Titan (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.06,
-        "location": "Sedna/Camenae (Defense), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.92,
-        "location": "Höllvania/Hell-Scrub: Scaldra (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 11.92,
-        "location": "Höllvania/Hell-Scrub: Techrot (Survival), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 12.5,
-        "location": "Deimos/Terrorem (Survival), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 12.5,
-        "location": "Void/Mithra (Interception), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 12.5,
-        "location": "Void/Mot (Survival), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 13.56,
-        "location": "Uranus/Ur (Disruption), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Eris/Zabala (Survival), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Europa/Ose (Interception), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Jupiter/Callisto (Interception), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Lua/Apollo (Disruption), Rotation A"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Saturn/Rhea (Interception), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Sedna/Kappa (Disruption), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Uranus/Umbriel (Interception), Rotation C"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 14.29,
-        "location": "Uranus/Ur (Disruption), Rotation B"
-      },
-      {
-        "rarity": "Uncommon",
-        "chance": 15.86,
-        "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2,
-        "location": "Veil Proxima/Flexa (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2,
-        "location": "Veil Proxima/H-2 Cloud (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2,
-        "location": "Veil Proxima/Nsu Grid (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2,
-        "location": "Veil Proxima/R-9 Cloud (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Another Betrayer, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Family Reunion, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Hot Mess, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Phobos/Opik (Rush), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Recover The Orokin Archive, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Sunkiller, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Table For Two, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "The Aftermath, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.01,
-        "location": "Time's Up, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.05,
-        "location": "Void/Ani (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.41,
-        "location": "Pluto/Profit Margin (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.41,
-        "location": "Pluto/Seven Sirens (Skirmish)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 2.5,
-        "location": "Void Storm (Pluto)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Eris/Cyath (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Eris/Gnathos (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Kuva Fortress/Pago (Spy), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Neptune/Nereid (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Pluto/Oceanum (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Sedna/Kelpie (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Sedna/Tikoloshe (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.22,
-        "location": "Uranus/Rosalind (Spy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.33,
-        "location": "Zariman/Everview Arc (Void Flood), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.33,
-        "location": "Zariman/Oro Works (Void Armageddon), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 3.33,
-        "location": "Zariman/Tuvul Commons (Void Cascade), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Arc Silver (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Calabash (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Erato (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Lu-Yan (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Numina (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.35,
-        "location": "Veil Proxima/Sabmir Cloud (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.55,
-        "location": "Pluto/Khufu Envoy (Skirmish), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.76,
-        "location": "Lua/Circulus (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.8,
-        "location": "Veil Proxima/Flexa (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.8,
-        "location": "Veil Proxima/H-2 Cloud (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.8,
-        "location": "Veil Proxima/Nsu Grid (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 4.8,
-        "location": "Veil Proxima/R-9 Cloud (Caches), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 5.56,
-        "location": "Jupiter/Ganymede (Disruption), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 5.8,
-        "location": "Mars/Tyana Pass (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.06,
-        "location": "Pluto/Fenton's Field (Skirmish), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.06,
-        "location": "Pluto/Obol Crossing (Skirmish), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.09,
-        "location": "Void/Ani (Survival), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Europa/Paimon (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Jupiter/Io (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Mars/Tyana Pass (Defense), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Saturn/Helene (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Sedna/Camenae (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Void/Aten (Mobile Defense)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Void/Marduk (Sabotage)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Void/Oxomoco (Exterminate)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.25,
-        "location": "Void/Ukko (Capture)"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.32,
-        "location": "Elite Sanctuary Onslaught, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.49,
-        "location": "Void/Belenus (Defense), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Eris/Hymeno (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Eris/Nimus (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Europa/Cholistan (Excavation), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Kuva Fortress/Taveuni (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Lua/Tycho (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Neptune/Despina (Excavation), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Neptune/Kelashin (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Pluto/Hieracon (Excavation), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Pluto/Palus (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Sedna/Amarna (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Sedna/Scylla (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Sedna/Selkie (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Sedna/Yemaja (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Uranus/Assur (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Uranus/Cupid (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 6.67,
-        "location": "Uranus/Ophelia (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.14,
-        "location": "Europa/Ose (Interception), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.14,
-        "location": "Jupiter/Callisto (Interception), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.14,
-        "location": "Saturn/Rhea (Interception), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.14,
-        "location": "Uranus/Umbriel (Interception), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.5,
-        "location": "Deimos/Cambire (Alchemy), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.5,
-        "location": "Deimos/Munio (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.5,
-        "location": "Deimos/Persto (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 7.69,
-        "location": "Eris/Oestrus (Infested Salvage), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 8.33,
-        "location": "Faceoff: Single Squad (Steel Path), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 8.33,
-        "location": "Faceoff: Single Squad, Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 8.33,
-        "location": "Faceoff: Squad VS Squad (Steel Path), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 8.33,
-        "location": "Faceoff: Squad VS Squad, Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.09,
-        "location": "Sanctuary Onslaught, Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.09,
-        "location": "Void/Belenus (Defense), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.09,
-        "location": "Void/Mithra (Interception), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.09,
-        "location": "Void/Mot (Survival), Rotation A"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.35,
-        "location": "Höllvania/Hell-Scrub: Scaldra (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.35,
-        "location": "Höllvania/Hell-Scrub: Techrot (Survival), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.56,
-        "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation B"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.68,
-        "location": "Void/Belenus (Defense), Rotation C"
-      },
-      {
-        "rarity": "Rare",
-        "chance": 9.9,
-        "location": "Höllvania/Solstice Square (Defense), Rotation B"
-      }
-    ],
+    "locations": [],
     "rewards": [
       {
         "rarity": "Rare",
@@ -424284,7 +421080,7 @@
       "id": "69d6782ab3984cc97e241760",
       "urlName": "neo_v11_relic"
     },
-    "vaulted": false,
+    "vaulted": true,
     "masterable": false
   },
   {
@@ -425257,7 +422053,808 @@
         "rarity": "Rare"
       }
     ],
-    "locations": [],
+    "locations": [
+      {
+        "rarity": "Legendary",
+        "chance": 0.42,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Isolation Vault), Rotation B"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Isolation Vault), Rotation A"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.58,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.67,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1,
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1,
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Ceres/Seimeni (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Earth/Coba (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Eris/Akkad (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Europa/Larzac (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Jupiter/Sinai (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Mars/Kadesh (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Pluto/Sechura (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Sedna/Sangeru (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Venus/Romula (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Deimos/Armatus (Disruption), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Ixodes (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Kala-Azar (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Phalan (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Sporid (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Xini (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Lua/StöFler (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Lua/Yuvarium (Survival), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Neptune/Proteus (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Neptune/Yursa (Defection), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Pluto/Cerberus (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Pluto/Outer Terminus (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Pluto/Peregrine Axis (Skirmish), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Saturn/Caracol (Defection), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Sedna/Berehynia (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Sedna/Hydron (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Uranus/Bianca (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Uranus/Miranda (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Uranus/Stephano (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Ceres/Draco (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Europa/Lillith (Excavation), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Europa/Paimon (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Europa/Valefor (Excavation), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Europa/Zagan (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Jupiter/Cameria (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Jupiter/Elara (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Jupiter/Io (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Mars/Wahiba (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Phobos/Zeugma (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Saturn/Helene (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Saturn/Piscinas (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Saturn/Titan (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Sedna/Camenae (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.92,
+        "location": "Höllvania/Hell-Scrub: Scaldra (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.92,
+        "location": "Höllvania/Hell-Scrub: Techrot (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "location": "Deimos/Terrorem (Survival), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "location": "Void/Mithra (Interception), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "location": "Void/Mot (Survival), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 13.56,
+        "location": "Uranus/Ur (Disruption), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Eris/Zabala (Survival), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Europa/Ose (Interception), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Jupiter/Callisto (Interception), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Lua/Apollo (Disruption), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Saturn/Rhea (Interception), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Sedna/Kappa (Disruption), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Uranus/Umbriel (Interception), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Uranus/Ur (Disruption), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 15.86,
+        "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2,
+        "location": "Veil Proxima/Flexa (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2,
+        "location": "Veil Proxima/H-2 Cloud (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2,
+        "location": "Veil Proxima/Nsu Grid (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2,
+        "location": "Veil Proxima/R-9 Cloud (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Another Betrayer, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Family Reunion, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Hot Mess, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Phobos/Opik (Rush), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Recover The Orokin Archive, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Sunkiller, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Table For Two, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "The Aftermath, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Time's Up, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.05,
+        "location": "Void/Ani (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.41,
+        "location": "Pluto/Profit Margin (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.41,
+        "location": "Pluto/Seven Sirens (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.5,
+        "location": "Void Storm (Pluto)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Eris/Cyath (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Eris/Gnathos (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Kuva Fortress/Pago (Spy), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Neptune/Nereid (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Pluto/Oceanum (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Sedna/Kelpie (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Sedna/Tikoloshe (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Uranus/Rosalind (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.33,
+        "location": "Zariman/Everview Arc (Void Flood), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.33,
+        "location": "Zariman/Oro Works (Void Armageddon), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.33,
+        "location": "Zariman/Tuvul Commons (Void Cascade), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Arc Silver (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Calabash (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Erato (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Lu-Yan (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Numina (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Sabmir Cloud (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.55,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.76,
+        "location": "Lua/Circulus (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.8,
+        "location": "Veil Proxima/Flexa (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.8,
+        "location": "Veil Proxima/H-2 Cloud (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.8,
+        "location": "Veil Proxima/Nsu Grid (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.8,
+        "location": "Veil Proxima/R-9 Cloud (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 5.56,
+        "location": "Jupiter/Ganymede (Disruption), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 5.8,
+        "location": "Mars/Tyana Pass (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.06,
+        "location": "Pluto/Fenton's Field (Skirmish), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.06,
+        "location": "Pluto/Obol Crossing (Skirmish), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.09,
+        "location": "Void/Ani (Survival), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Europa/Paimon (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Jupiter/Io (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Mars/Tyana Pass (Defense), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Saturn/Helene (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Sedna/Camenae (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Void/Aten (Mobile Defense)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Void/Marduk (Sabotage)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Void/Oxomoco (Exterminate)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Void/Ukko (Capture)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.32,
+        "location": "Elite Sanctuary Onslaught, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.49,
+        "location": "Void/Belenus (Defense), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Eris/Hymeno (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Eris/Nimus (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Europa/Cholistan (Excavation), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Kuva Fortress/Taveuni (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Lua/Tycho (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Neptune/Despina (Excavation), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Neptune/Kelashin (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Pluto/Hieracon (Excavation), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Pluto/Palus (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Sedna/Amarna (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Sedna/Scylla (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Sedna/Selkie (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Sedna/Yemaja (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Uranus/Assur (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Uranus/Cupid (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Uranus/Ophelia (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.14,
+        "location": "Europa/Ose (Interception), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.14,
+        "location": "Jupiter/Callisto (Interception), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.14,
+        "location": "Saturn/Rhea (Interception), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.14,
+        "location": "Uranus/Umbriel (Interception), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.5,
+        "location": "Deimos/Cambire (Alchemy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.5,
+        "location": "Deimos/Munio (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.5,
+        "location": "Deimos/Persto (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.69,
+        "location": "Eris/Oestrus (Infested Salvage), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 8.33,
+        "location": "Faceoff: Single Squad (Steel Path), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 8.33,
+        "location": "Faceoff: Single Squad, Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 8.33,
+        "location": "Faceoff: Squad VS Squad (Steel Path), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 8.33,
+        "location": "Faceoff: Squad VS Squad, Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.09,
+        "location": "Sanctuary Onslaught, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.09,
+        "location": "Void/Belenus (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.09,
+        "location": "Void/Mithra (Interception), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.09,
+        "location": "Void/Mot (Survival), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.35,
+        "location": "Höllvania/Hell-Scrub: Scaldra (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.35,
+        "location": "Höllvania/Hell-Scrub: Techrot (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.56,
+        "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.68,
+        "location": "Void/Belenus (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.9,
+        "location": "Höllvania/Solstice Square (Defense), Rotation B"
+      }
+    ],
     "rewards": [
       {
         "rarity": "Rare",
@@ -425336,7 +422933,7 @@
       "id": "6a34bb30875fcabc85ef5bdf",
       "urlName": "neo_v12_relic"
     },
-    "vaulted": true,
+    "vaulted": false,
     "masterable": false
   },
   {
@@ -426309,7 +423906,808 @@
         "rarity": "Rare"
       }
     ],
-    "locations": [],
+    "locations": [
+      {
+        "rarity": "Legendary",
+        "chance": 0.42,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Isolation Vault), Rotation B"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Isolation Vault), Rotation A"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.58,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.67,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1,
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1,
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Ceres/Seimeni (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Earth/Coba (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Eris/Akkad (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Europa/Larzac (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Jupiter/Sinai (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Mars/Kadesh (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Pluto/Sechura (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Sedna/Sangeru (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Venus/Romula (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Deimos/Armatus (Disruption), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Ixodes (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Kala-Azar (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Phalan (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Sporid (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Xini (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Lua/StöFler (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Lua/Yuvarium (Survival), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Neptune/Proteus (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Neptune/Yursa (Defection), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Pluto/Cerberus (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Pluto/Outer Terminus (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Pluto/Peregrine Axis (Skirmish), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Saturn/Caracol (Defection), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Sedna/Berehynia (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Sedna/Hydron (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Uranus/Bianca (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Uranus/Miranda (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Uranus/Stephano (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Ceres/Draco (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Europa/Lillith (Excavation), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Europa/Paimon (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Europa/Valefor (Excavation), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Europa/Zagan (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Jupiter/Cameria (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Jupiter/Elara (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Jupiter/Io (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Mars/Wahiba (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Phobos/Zeugma (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Saturn/Helene (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Saturn/Piscinas (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Saturn/Titan (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Sedna/Camenae (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.92,
+        "location": "Höllvania/Hell-Scrub: Scaldra (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.92,
+        "location": "Höllvania/Hell-Scrub: Techrot (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "location": "Deimos/Terrorem (Survival), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "location": "Void/Mithra (Interception), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "location": "Void/Mot (Survival), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 13.56,
+        "location": "Uranus/Ur (Disruption), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Eris/Zabala (Survival), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Europa/Ose (Interception), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Jupiter/Callisto (Interception), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Lua/Apollo (Disruption), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Saturn/Rhea (Interception), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Sedna/Kappa (Disruption), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Uranus/Umbriel (Interception), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Uranus/Ur (Disruption), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 15.86,
+        "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2,
+        "location": "Veil Proxima/Flexa (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2,
+        "location": "Veil Proxima/H-2 Cloud (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2,
+        "location": "Veil Proxima/Nsu Grid (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2,
+        "location": "Veil Proxima/R-9 Cloud (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Another Betrayer, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Family Reunion, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Hot Mess, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Phobos/Opik (Rush), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Recover The Orokin Archive, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Sunkiller, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Table For Two, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "The Aftermath, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Time's Up, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.05,
+        "location": "Void/Ani (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.41,
+        "location": "Pluto/Profit Margin (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.41,
+        "location": "Pluto/Seven Sirens (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.5,
+        "location": "Void Storm (Pluto)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Eris/Cyath (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Eris/Gnathos (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Kuva Fortress/Pago (Spy), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Neptune/Nereid (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Pluto/Oceanum (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Sedna/Kelpie (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Sedna/Tikoloshe (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Uranus/Rosalind (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.33,
+        "location": "Zariman/Everview Arc (Void Flood), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.33,
+        "location": "Zariman/Oro Works (Void Armageddon), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.33,
+        "location": "Zariman/Tuvul Commons (Void Cascade), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Arc Silver (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Calabash (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Erato (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Lu-Yan (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Numina (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Sabmir Cloud (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.55,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.76,
+        "location": "Lua/Circulus (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.8,
+        "location": "Veil Proxima/Flexa (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.8,
+        "location": "Veil Proxima/H-2 Cloud (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.8,
+        "location": "Veil Proxima/Nsu Grid (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.8,
+        "location": "Veil Proxima/R-9 Cloud (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 5.56,
+        "location": "Jupiter/Ganymede (Disruption), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 5.8,
+        "location": "Mars/Tyana Pass (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.06,
+        "location": "Pluto/Fenton's Field (Skirmish), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.06,
+        "location": "Pluto/Obol Crossing (Skirmish), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.09,
+        "location": "Void/Ani (Survival), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Europa/Paimon (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Jupiter/Io (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Mars/Tyana Pass (Defense), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Saturn/Helene (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Sedna/Camenae (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Void/Aten (Mobile Defense)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Void/Marduk (Sabotage)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Void/Oxomoco (Exterminate)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Void/Ukko (Capture)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.32,
+        "location": "Elite Sanctuary Onslaught, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.49,
+        "location": "Void/Belenus (Defense), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Eris/Hymeno (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Eris/Nimus (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Europa/Cholistan (Excavation), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Kuva Fortress/Taveuni (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Lua/Tycho (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Neptune/Despina (Excavation), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Neptune/Kelashin (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Pluto/Hieracon (Excavation), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Pluto/Palus (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Sedna/Amarna (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Sedna/Scylla (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Sedna/Selkie (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Sedna/Yemaja (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Uranus/Assur (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Uranus/Cupid (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Uranus/Ophelia (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.14,
+        "location": "Europa/Ose (Interception), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.14,
+        "location": "Jupiter/Callisto (Interception), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.14,
+        "location": "Saturn/Rhea (Interception), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.14,
+        "location": "Uranus/Umbriel (Interception), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.5,
+        "location": "Deimos/Cambire (Alchemy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.5,
+        "location": "Deimos/Munio (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.5,
+        "location": "Deimos/Persto (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.69,
+        "location": "Eris/Oestrus (Infested Salvage), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 8.33,
+        "location": "Faceoff: Single Squad (Steel Path), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 8.33,
+        "location": "Faceoff: Single Squad, Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 8.33,
+        "location": "Faceoff: Squad VS Squad (Steel Path), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 8.33,
+        "location": "Faceoff: Squad VS Squad, Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.09,
+        "location": "Sanctuary Onslaught, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.09,
+        "location": "Void/Belenus (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.09,
+        "location": "Void/Mithra (Interception), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.09,
+        "location": "Void/Mot (Survival), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.35,
+        "location": "Höllvania/Hell-Scrub: Scaldra (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.35,
+        "location": "Höllvania/Hell-Scrub: Techrot (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.56,
+        "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.68,
+        "location": "Void/Belenus (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.9,
+        "location": "Höllvania/Solstice Square (Defense), Rotation B"
+      }
+    ],
     "rewards": [
       {
         "rarity": "Rare",
@@ -426388,7 +424786,7 @@
       "id": "6a34bb30875fcabc85ef5bdf",
       "urlName": "neo_v12_relic"
     },
-    "vaulted": true,
+    "vaulted": false,
     "masterable": false
   },
   {
@@ -427361,7 +425759,808 @@
         "rarity": "Rare"
       }
     ],
-    "locations": [],
+    "locations": [
+      {
+        "rarity": "Legendary",
+        "chance": 0.42,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Isolation Vault), Rotation B"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Isolation Vault), Rotation A"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.58,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.67,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1,
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1,
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Ceres/Seimeni (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Earth/Coba (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Eris/Akkad (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Europa/Larzac (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Jupiter/Sinai (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Mars/Kadesh (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Pluto/Sechura (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Sedna/Sangeru (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Venus/Romula (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Deimos/Armatus (Disruption), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Ixodes (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Kala-Azar (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Phalan (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Sporid (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Xini (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Lua/StöFler (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Lua/Yuvarium (Survival), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Neptune/Proteus (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Neptune/Yursa (Defection), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Pluto/Cerberus (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Pluto/Outer Terminus (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Pluto/Peregrine Axis (Skirmish), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Saturn/Caracol (Defection), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Sedna/Berehynia (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Sedna/Hydron (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Uranus/Bianca (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Uranus/Miranda (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Uranus/Stephano (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Ceres/Draco (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Europa/Lillith (Excavation), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Europa/Paimon (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Europa/Valefor (Excavation), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Europa/Zagan (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Jupiter/Cameria (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Jupiter/Elara (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Jupiter/Io (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Mars/Wahiba (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Phobos/Zeugma (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Saturn/Helene (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Saturn/Piscinas (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Saturn/Titan (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Sedna/Camenae (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.92,
+        "location": "Höllvania/Hell-Scrub: Scaldra (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.92,
+        "location": "Höllvania/Hell-Scrub: Techrot (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "location": "Deimos/Terrorem (Survival), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "location": "Void/Mithra (Interception), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "location": "Void/Mot (Survival), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 13.56,
+        "location": "Uranus/Ur (Disruption), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Eris/Zabala (Survival), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Europa/Ose (Interception), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Jupiter/Callisto (Interception), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Lua/Apollo (Disruption), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Saturn/Rhea (Interception), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Sedna/Kappa (Disruption), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Uranus/Umbriel (Interception), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Uranus/Ur (Disruption), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 15.86,
+        "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2,
+        "location": "Veil Proxima/Flexa (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2,
+        "location": "Veil Proxima/H-2 Cloud (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2,
+        "location": "Veil Proxima/Nsu Grid (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2,
+        "location": "Veil Proxima/R-9 Cloud (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Another Betrayer, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Family Reunion, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Hot Mess, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Phobos/Opik (Rush), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Recover The Orokin Archive, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Sunkiller, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Table For Two, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "The Aftermath, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Time's Up, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.05,
+        "location": "Void/Ani (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.41,
+        "location": "Pluto/Profit Margin (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.41,
+        "location": "Pluto/Seven Sirens (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.5,
+        "location": "Void Storm (Pluto)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Eris/Cyath (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Eris/Gnathos (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Kuva Fortress/Pago (Spy), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Neptune/Nereid (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Pluto/Oceanum (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Sedna/Kelpie (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Sedna/Tikoloshe (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Uranus/Rosalind (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.33,
+        "location": "Zariman/Everview Arc (Void Flood), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.33,
+        "location": "Zariman/Oro Works (Void Armageddon), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.33,
+        "location": "Zariman/Tuvul Commons (Void Cascade), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Arc Silver (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Calabash (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Erato (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Lu-Yan (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Numina (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Sabmir Cloud (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.55,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.76,
+        "location": "Lua/Circulus (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.8,
+        "location": "Veil Proxima/Flexa (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.8,
+        "location": "Veil Proxima/H-2 Cloud (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.8,
+        "location": "Veil Proxima/Nsu Grid (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.8,
+        "location": "Veil Proxima/R-9 Cloud (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 5.56,
+        "location": "Jupiter/Ganymede (Disruption), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 5.8,
+        "location": "Mars/Tyana Pass (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.06,
+        "location": "Pluto/Fenton's Field (Skirmish), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.06,
+        "location": "Pluto/Obol Crossing (Skirmish), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.09,
+        "location": "Void/Ani (Survival), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Europa/Paimon (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Jupiter/Io (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Mars/Tyana Pass (Defense), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Saturn/Helene (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Sedna/Camenae (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Void/Aten (Mobile Defense)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Void/Marduk (Sabotage)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Void/Oxomoco (Exterminate)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Void/Ukko (Capture)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.32,
+        "location": "Elite Sanctuary Onslaught, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.49,
+        "location": "Void/Belenus (Defense), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Eris/Hymeno (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Eris/Nimus (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Europa/Cholistan (Excavation), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Kuva Fortress/Taveuni (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Lua/Tycho (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Neptune/Despina (Excavation), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Neptune/Kelashin (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Pluto/Hieracon (Excavation), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Pluto/Palus (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Sedna/Amarna (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Sedna/Scylla (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Sedna/Selkie (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Sedna/Yemaja (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Uranus/Assur (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Uranus/Cupid (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Uranus/Ophelia (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.14,
+        "location": "Europa/Ose (Interception), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.14,
+        "location": "Jupiter/Callisto (Interception), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.14,
+        "location": "Saturn/Rhea (Interception), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.14,
+        "location": "Uranus/Umbriel (Interception), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.5,
+        "location": "Deimos/Cambire (Alchemy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.5,
+        "location": "Deimos/Munio (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.5,
+        "location": "Deimos/Persto (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.69,
+        "location": "Eris/Oestrus (Infested Salvage), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 8.33,
+        "location": "Faceoff: Single Squad (Steel Path), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 8.33,
+        "location": "Faceoff: Single Squad, Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 8.33,
+        "location": "Faceoff: Squad VS Squad (Steel Path), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 8.33,
+        "location": "Faceoff: Squad VS Squad, Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.09,
+        "location": "Sanctuary Onslaught, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.09,
+        "location": "Void/Belenus (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.09,
+        "location": "Void/Mithra (Interception), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.09,
+        "location": "Void/Mot (Survival), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.35,
+        "location": "Höllvania/Hell-Scrub: Scaldra (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.35,
+        "location": "Höllvania/Hell-Scrub: Techrot (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.56,
+        "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.68,
+        "location": "Void/Belenus (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.9,
+        "location": "Höllvania/Solstice Square (Defense), Rotation B"
+      }
+    ],
     "rewards": [
       {
         "rarity": "Rare",
@@ -427440,7 +426639,7 @@
       "id": "6a34bb30875fcabc85ef5bdf",
       "urlName": "neo_v12_relic"
     },
-    "vaulted": true,
+    "vaulted": false,
     "masterable": false
   },
   {
@@ -428413,7 +427612,808 @@
         "rarity": "Rare"
       }
     ],
-    "locations": [],
+    "locations": [
+      {
+        "rarity": "Legendary",
+        "chance": 0.42,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Isolation Vault), Rotation B"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.5,
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Isolation Vault), Rotation A"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.58,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
+      },
+      {
+        "rarity": "Legendary",
+        "chance": 0.67,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1,
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1,
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Ceres/Seimeni (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Earth/Coba (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Eris/Akkad (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Europa/Larzac (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Jupiter/Sinai (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Mars/Kadesh (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Pluto/Sechura (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Sedna/Sangeru (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 1.84,
+        "location": "Venus/Romula (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Deimos/Armatus (Disruption), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Ixodes (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Kala-Azar (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Phalan (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Sporid (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Eris/Xini (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Lua/StöFler (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Lua/Yuvarium (Survival), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Neptune/Proteus (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Neptune/Yursa (Defection), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Pluto/Cerberus (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Pluto/Outer Terminus (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Pluto/Peregrine Axis (Skirmish), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Saturn/Caracol (Defection), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Sedna/Berehynia (Interception), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Sedna/Hydron (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Uranus/Bianca (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Uranus/Miranda (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 10,
+        "location": "Uranus/Stephano (Defense), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Ceres/Draco (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Europa/Lillith (Excavation), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Europa/Paimon (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Europa/Valefor (Excavation), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Europa/Zagan (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Jupiter/Cameria (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Jupiter/Elara (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Jupiter/Io (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Mars/Wahiba (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Phobos/Zeugma (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Saturn/Helene (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Saturn/Piscinas (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Saturn/Titan (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.06,
+        "location": "Sedna/Camenae (Defense), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.92,
+        "location": "Höllvania/Hell-Scrub: Scaldra (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 11.92,
+        "location": "Höllvania/Hell-Scrub: Techrot (Survival), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "location": "Deimos/Terrorem (Survival), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "location": "Void/Mithra (Interception), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 12.5,
+        "location": "Void/Mot (Survival), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 13.56,
+        "location": "Uranus/Ur (Disruption), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Eris/Zabala (Survival), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Europa/Ose (Interception), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Jupiter/Callisto (Interception), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Lua/Apollo (Disruption), Rotation A"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Saturn/Rhea (Interception), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Sedna/Kappa (Disruption), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Uranus/Umbriel (Interception), Rotation C"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 14.29,
+        "location": "Uranus/Ur (Disruption), Rotation B"
+      },
+      {
+        "rarity": "Uncommon",
+        "chance": 15.86,
+        "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2,
+        "location": "Veil Proxima/Flexa (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2,
+        "location": "Veil Proxima/H-2 Cloud (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2,
+        "location": "Veil Proxima/Nsu Grid (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2,
+        "location": "Veil Proxima/R-9 Cloud (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Another Betrayer, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Family Reunion, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Hot Mess, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Phobos/Opik (Rush), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Recover The Orokin Archive, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Sunkiller, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Table For Two, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "The Aftermath, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.01,
+        "location": "Time's Up, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.05,
+        "location": "Void/Ani (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.41,
+        "location": "Pluto/Profit Margin (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.41,
+        "location": "Pluto/Seven Sirens (Skirmish)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 2.5,
+        "location": "Void Storm (Pluto)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Eris/Cyath (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Eris/Gnathos (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Kuva Fortress/Pago (Spy), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Neptune/Nereid (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Pluto/Oceanum (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Sedna/Kelpie (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Sedna/Tikoloshe (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.22,
+        "location": "Uranus/Rosalind (Spy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.33,
+        "location": "Zariman/Everview Arc (Void Flood), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.33,
+        "location": "Zariman/Oro Works (Void Armageddon), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 3.33,
+        "location": "Zariman/Tuvul Commons (Void Cascade), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Arc Silver (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Calabash (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Erato (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Lu-Yan (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Numina (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.35,
+        "location": "Veil Proxima/Sabmir Cloud (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.55,
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.76,
+        "location": "Lua/Circulus (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.8,
+        "location": "Veil Proxima/Flexa (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.8,
+        "location": "Veil Proxima/H-2 Cloud (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.8,
+        "location": "Veil Proxima/Nsu Grid (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 4.8,
+        "location": "Veil Proxima/R-9 Cloud (Caches), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 5.56,
+        "location": "Jupiter/Ganymede (Disruption), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 5.8,
+        "location": "Mars/Tyana Pass (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.06,
+        "location": "Pluto/Fenton's Field (Skirmish), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.06,
+        "location": "Pluto/Obol Crossing (Skirmish), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.09,
+        "location": "Void/Ani (Survival), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Europa/Paimon (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Jupiter/Io (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Mars/Tyana Pass (Defense), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Saturn/Helene (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Sedna/Camenae (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Void/Aten (Mobile Defense)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Void/Marduk (Sabotage)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Void/Oxomoco (Exterminate)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.25,
+        "location": "Void/Ukko (Capture)"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.32,
+        "location": "Elite Sanctuary Onslaught, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.49,
+        "location": "Void/Belenus (Defense), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Eris/Hymeno (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Eris/Nimus (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Europa/Cholistan (Excavation), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Kuva Fortress/Taveuni (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Lua/Tycho (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Neptune/Despina (Excavation), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Neptune/Kelashin (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Pluto/Hieracon (Excavation), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Pluto/Palus (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Sedna/Amarna (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Sedna/Scylla (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Sedna/Selkie (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Sedna/Yemaja (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Uranus/Assur (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Uranus/Cupid (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 6.67,
+        "location": "Uranus/Ophelia (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.14,
+        "location": "Europa/Ose (Interception), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.14,
+        "location": "Jupiter/Callisto (Interception), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.14,
+        "location": "Saturn/Rhea (Interception), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.14,
+        "location": "Uranus/Umbriel (Interception), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.5,
+        "location": "Deimos/Cambire (Alchemy), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.5,
+        "location": "Deimos/Munio (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.5,
+        "location": "Deimos/Persto (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 7.69,
+        "location": "Eris/Oestrus (Infested Salvage), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 8.33,
+        "location": "Faceoff: Single Squad (Steel Path), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 8.33,
+        "location": "Faceoff: Single Squad, Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 8.33,
+        "location": "Faceoff: Squad VS Squad (Steel Path), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 8.33,
+        "location": "Faceoff: Squad VS Squad, Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.09,
+        "location": "Sanctuary Onslaught, Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.09,
+        "location": "Void/Belenus (Defense), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.09,
+        "location": "Void/Mithra (Interception), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.09,
+        "location": "Void/Mot (Survival), Rotation A"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.35,
+        "location": "Höllvania/Hell-Scrub: Scaldra (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.35,
+        "location": "Höllvania/Hell-Scrub: Techrot (Survival), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.56,
+        "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation B"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.68,
+        "location": "Void/Belenus (Defense), Rotation C"
+      },
+      {
+        "rarity": "Rare",
+        "chance": 9.9,
+        "location": "Höllvania/Solstice Square (Defense), Rotation B"
+      }
+    ],
     "rewards": [
       {
         "rarity": "Rare",
@@ -428492,7 +428492,7 @@
       "id": "6a34bb30875fcabc85ef5bdf",
       "urlName": "neo_v12_relic"
     },
-    "vaulted": true,
+    "vaulted": false,
     "masterable": false
   },
   {
