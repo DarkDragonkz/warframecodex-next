@@ -57150,7 +57150,7 @@
         "url": "https://forums.warframe.com/topic/385712-hotfix-15101/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Corrupted Lancer’s newfound ability to shoot bullets from their face.  They now use rifles like an ordinary Orokin-influenced Grineer."
+        "fixes": "Fixed Corrupted Lancer���s newfound ability to shoot bullets from their face.  They now use rifles like an ordinary Orokin-influenced Grineer."
       },
       {
         "name": "Update 15.10.0",
@@ -134317,7 +134317,6 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
         "name": "Star Amarast",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
-        "itemCount": 10,
         "buildPrice": 5000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -134345,6 +134344,7 @@
             "drops": []
           }
         ],
+        "itemCount": 10,
         "imageName": "SolarisRareGemACut.png",
         "tradable": false,
         "masterable": false,
