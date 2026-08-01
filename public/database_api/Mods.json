@@ -89440,7 +89440,7 @@
         "name": "Update 13: Dark Sectors",
         "date": "2014-04-10T05:28:14Z",
         "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
-        "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1: ��  Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+        "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
         "changes": "",
         "fixes": ""
       }
@@ -206084,7 +206084,7 @@
         "date": "2018-06-15T00:51:48Z",
         "url": "https://forums.warframe.com/topic/967249-the-sacrifice-update-23/",
         "additions": "",
-        "changes": "Removed the “Max Enemy Count Reached” message from Simulacrum enemy selector when first opening it and selecting enemies. It will now only appear when you attempt to spawn enemies and there isn't enough space. It will also no longer clear your previous selection when it happens to be over the limit when you first open it.",
+        "changes": "Removed the “Max Enemy Count Reached��� message from Simulacrum enemy selector when first opening it and selecting enemies. It will now only appear when you attempt to spawn enemies and there isn't enough space. It will also no longer clear your previous selection when it happens to be over the limit when you first open it.",
         "fixes": ""
       },
       {
