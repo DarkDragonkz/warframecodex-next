@@ -2,6 +2,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Community10YearAnniversarySigil",
     "name": "10 Year Anniversary Community Sigil",
+    "codexSecret": true,
     "description": "A sigil celebrating 10 years of Warframe, created by kedemel. ",
     "type": "Sigil",
     "imageName": "Community10YearAnniversarySigil.png",
@@ -12,6 +13,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankThree",
     "name": "2-For-1 Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with The Hex.",
     "type": "Sigil",
     "imageName": "FactionHexLevel3.png",
@@ -22,6 +24,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveN",
     "name": "Accord Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel13.png",
@@ -40,6 +43,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ProjectSinisterSigil",
     "name": "Acolyte Sigil",
+    "codexSecret": false,
     "description": "Never forget those who would defile the Tenno ways.",
     "type": "Sigil",
     "imageName": "ProjectSinisterBadge_e.png",
@@ -60,6 +64,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilAladV",
     "name": "Alad V Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting Alad V.",
     "type": "Sigil",
     "imageName": "AladV.png",
@@ -84,6 +89,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/AllianceSigilBasic",
     "name": "Alliance Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "This sigil is worn by the members united within an Alliance.",
     "type": "Sigil",
@@ -95,6 +101,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveI",
     "name": "Ambition Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel8.png",
@@ -113,6 +120,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilAmbulas",
     "name": "Ambulas Reborn Sigil",
+    "codexSecret": false,
     "description": "A sigil commemorating the fight against the Ambulas incursion.",
     "type": "Sigil",
     "imageName": "AmbulasEvent_e.png",
@@ -133,6 +141,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilAmbulas",
     "name": "Ambulas Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting the Ambulas.",
     "type": "Sigil",
     "imageName": "Ambulas.png",
@@ -151,6 +160,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisA",
     "name": "Arbiter Of Hexis Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
     "type": "Sigil",
     "imageName": "FactionSigilJudge.png",
@@ -169,6 +179,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NewWar2021Sigil",
     "name": "Archon Nira Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A sigil depicting one of Erra’s Archon monstrosities.",
     "type": "Sigil",
@@ -180,6 +191,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianC",
     "name": "Armada Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Steel Meridian.",
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel2.png",
@@ -198,6 +210,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianH",
     "name": "Armored Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Steel Meridian.",
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel7.png",
@@ -216,6 +229,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NightwaveCalibanDeluxeSigil",
     "name": "Ascrien Sigil",
+    "codexSecret": false,
     "description": "Peer deep into this entrancing sigil.",
     "type": "Sigil",
     "imageName": "NightwaveCalibanDeluxeSigil.png",
@@ -226,6 +240,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilZorba",
     "name": "Aspirant Sigil",
+    "codexSecret": false,
     "description": "Show your dedication to the truth of Aspirant Zorba with this sigil.",
     "type": "Sigil",
     "imageName": "ZorbaSigil_e.png",
@@ -236,6 +251,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilK",
     "name": "Assassin Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Red Veil.",
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel10.png",
@@ -254,6 +270,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaE",
     "name": "Atomic Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel4.png",
@@ -272,6 +289,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilShadowgrapher",
     "name": "Atramentum Sigil",
+    "codexSecret": false,
     "description": "Keep the memory of the Shadowgrapher and Operation: Atramentum close with this sigil.",
     "type": "Sigil",
     "imageName": "OperationAntramentumIcon.png",
@@ -282,6 +300,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LoginSigilB",
     "name": "Awakened Luna Sigil",
+    "codexSecret": false,
     "description": "Wake to a new light.",
     "type": "Sigil",
     "imageName": "LoginSigilB.png",
@@ -292,6 +311,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveB",
     "name": "Awakening Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel1.png",
@@ -310,6 +330,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveD",
     "name": "Awareness Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel3.png",
@@ -328,6 +349,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BansheeDeluxeSigil",
     "name": "Banshee Soprana Sigil",
+    "codexSecret": false,
     "description": "Wear Banshee Soprana's sigil with pride.",
     "type": "Sigil",
     "imageName": "BansheeDeluxeSigil.png",
@@ -338,6 +360,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilJadeShadows",
     "name": "Belly Of The Beast Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A sigil for the Tenno who played their part in Operation: Belly of the Beast.",
     "type": "Sigil",
@@ -349,6 +372,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisC",
     "name": "Bending Will Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel2.png",
@@ -367,6 +391,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NightwavePizzaSigil",
     "name": "Big Bytes Pizza Sigil",
+    "codexSecret": false,
     "description": "Give your fellow Tenno a case of the munchies with Slice-Z from Big Bytes Pizza.",
     "type": "Sigil",
     "imageName": "1999Pizza.png",
@@ -377,6 +402,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilCaviaBirdThree",
     "name": "Bird 3 Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A sigil depicting Bird 3.",
     "type": "Sigil",
@@ -388,6 +414,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BladeAndGunSigil",
     "name": "Blade And Gun Sigil",
+    "codexSecret": false,
     "description": "Awarded to dedicated members within the Warframe community.",
     "type": "Sigil",
     "imageName": "BladeAndGun.png",
@@ -398,6 +425,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilB",
     "name": "Blades Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Red Veil.",
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel1.png",
@@ -416,6 +444,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BloodiedSigil",
     "name": "Bloodshed Sigil",
+    "codexSecret": false,
     "description": "With this sigil damage shall leave you blood-soaked, while in Captura your Warframe stands wreathed in the gore of its enemies. Honor the maiden of Death by donning her traditional garb.",
     "type": "Sigil",
     "imageName": "BloodiedSigil.png",
@@ -516,6 +545,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaG",
     "name": "Bloom Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the New Loka.",
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel6.png",
@@ -534,6 +564,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaJ",
     "name": "Bounty Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the New Loka.",
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel9.png",
@@ -552,6 +583,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Switch2Sigil",
     "name": "Broadsword Past/Future Sigil",
+    "codexSecret": false,
     "description": "Display the faces of leadership with this sigil.",
     "type": "Sigil",
     "imageName": "Switch2Sigil.png",
@@ -562,6 +594,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/OrbSigil",
     "name": "Buried Debts Sigil",
+    "codexSecret": false,
     "description": "For those who have performed great works, safeguarding Fortuna against the ravages of the Exploiter and her thermia fractures.",
     "type": "Sigil",
     "imageName": "OrbBadge_e.png",
@@ -572,6 +605,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceD",
     "name": "Calculating Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel3.png",
@@ -590,6 +624,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/XboneJadeTwoSigil",
     "name": "Capala Jade Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A next-generation sigil for your Warframe.",
     "type": "Sigil",
@@ -601,6 +636,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceJ",
     "name": "Capital Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel9.png",
@@ -619,6 +655,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/CaviaRankOne",
     "name": "Cavia Assistant Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A sigil representing prestige gained with the Cavia.",
     "type": "Sigil",
@@ -630,6 +667,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/CaviaRankThree",
     "name": "Cavia Colleague Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A sigil representing prestige gained with the Cavia.",
     "type": "Sigil",
@@ -641,6 +679,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/CaviaRankFive",
     "name": "Cavia Illuminate Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A sigil representing prestige gained with the Cavia.",
     "type": "Sigil",
@@ -652,6 +691,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/CaviaRankTwo",
     "name": "Cavia Researcher Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A sigil representing prestige gained with the Cavia.",
     "type": "Sigil",
@@ -663,6 +703,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/CaviaRankFour",
     "name": "Cavia Scholar Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A sigil representing prestige gained with the Cavia.",
     "type": "Sigil",
@@ -674,6 +715,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/CollectorSigil",
     "name": "Cephalon Simaris Sigil",
+    "codexSecret": false,
     "description": "Sigil depicting the Sanctuary Warden, Cephalon Simaris.",
     "type": "Sigil",
     "imageName": "IconLibrarian256.png",
@@ -692,6 +734,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaA",
     "name": "Cephalon Suda Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
     "type": "Sigil",
     "imageName": "FactionSigilOracle.png",
@@ -710,6 +753,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceK",
     "name": "Chairman Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel10.png",
@@ -728,6 +772,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianK",
     "name": "Champion Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Steel Meridian.",
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel10.png",
@@ -746,6 +791,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DogDays2023BSigil",
     "name": "Chillwave Sigil",
+    "codexSecret": false,
     "description": "Beat the heat with this unique Sigil.",
     "type": "Sigil",
     "imageName": "DogDaysSigil02.png",
@@ -756,6 +802,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisF",
     "name": "Choice Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel5.png",
@@ -774,6 +821,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/GeodeSigil",
     "name": "Citrine Sigil",
+    "codexSecret": true,
     "description": "Pay adulation to Citrine and her last wish with this exclusive sigil.",
     "type": "Sigil",
     "imageName": "CitrineSigil.png",
@@ -784,6 +832,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ClanSigilBasic",
     "name": "Clan Sigil",
+    "codexSecret": true,
     "description": "This sigil is worn by the members united within a Clan.",
     "type": "Sigil",
     "imageName": "ClanSigilBasic.png",
@@ -812,6 +861,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaF",
     "name": "Clarity Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the New Loka.",
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel5.png",
@@ -830,6 +880,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LotusHeartSigil",
     "name": "Community Of Tenno",
+    "codexSecret": false,
     "description": "Dedicated to the amazing Warframe community.",
     "type": "Sigil",
     "imageName": "WarframeCommunityIcon.png",
@@ -840,6 +891,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/OpticorConclaveVariantSigil",
     "name": "Conclave Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
@@ -885,6 +937,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveA",
     "name": "Conclave Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
     "imageName": "FactionSigilConclave.png",
@@ -929,6 +982,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilScarletSpear",
     "name": "Condrix Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A sigil depicting a Sentient Condrix.",
     "type": "Sigil",
@@ -940,6 +994,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ConqueraSigil",
     "name": "Conquera Sigil",
+    "codexSecret": false,
     "description": "Wear this Sigil as a symbol of support in the Quest to Conquer Cancer.",
     "type": "Sigil",
     "imageName": "ConqueraSigil.png",
@@ -950,6 +1005,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/QTCC2023ConqueraSigil",
     "name": "Conquera United Sigil",
+    "codexSecret": false,
     "description": "Display this Sigil and stand united in support of the Quest To Conquer Cancer.",
     "type": "Sigil",
     "imageName": "QTCC2023ConqueraSigil.png",
@@ -960,6 +1016,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/InfLichConvertedSigil",
     "name": "Converted Coda Sigil",
+    "codexSecret": false,
     "description": "The show must go on. This sigil marks the conversion of a hostile Technocyte Coda into a Techrot friend.",
     "type": "Sigil",
     "imageName": "ConvertedSigil.png",
@@ -970,6 +1027,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilJ",
     "name": "Covert Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Red Veil.",
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel9.png",
@@ -988,6 +1046,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilC",
     "name": "Cull Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Red Veil.",
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel2.png",
@@ -1006,6 +1065,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4FiveYearSigil",
     "name": "Cycle Five Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "Commemorates the Tenno who have honored the Lotus for five cycles.",
     "type": "Sigil",
@@ -1017,6 +1077,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4FourYearSigil",
     "name": "Cycle Four Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "Commemorates the Tenno who have honored the Lotus for four cycles.",
     "type": "Sigil",
@@ -1028,6 +1089,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4OneYearSigil",
     "name": "Cycle One Sigil",
+    "codexSecret": false,
     "description": "Commemorates the Tenno who have honored the Lotus for one cycle.",
     "type": "Sigil",
     "imageName": "PS4OneYearSigil.png",
@@ -1038,6 +1100,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4ThreeYearSigil",
     "name": "Cycle Three Sigil",
+    "codexSecret": false,
     "description": "Commemorates the Tenno who have honored the Lotus for three cycles.",
     "type": "Sigil",
     "imageName": "PS4ThreeYearSigil.png",
@@ -1048,6 +1111,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4TwoYearSigil",
     "name": "Cycle Two Sigil",
+    "codexSecret": false,
     "description": "Commemorates the Tenno who have honored the Lotus for two cycles.",
     "type": "Sigil",
     "imageName": "PS4TwoYearSigil.png",
@@ -1058,6 +1122,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrimeAccessSigilSaryn",
     "name": "Cycuta Prime Sigil",
+    "codexSecret": false,
     "description": "This ancient glyph was the focus of an ancient Tenno meditation ritual.",
     "type": "Sigil",
     "imageName": "SarynPrimeSigil.png",
@@ -1078,6 +1143,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Cyte09Sigil",
     "name": "Cyte-09 Target Sigil",
+    "codexSecret": false,
     "description": "Lock onto your target with this Sigil that honors Cyte-09.",
     "type": "Sigil",
     "imageName": "Cyte09Sigil.png",
@@ -1088,6 +1154,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DanteSigil",
     "name": "Dante's Noctua Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting Dante's treasured Tome.",
     "type": "Sigil",
     "imageName": "DanteSigil.png",
@@ -1098,6 +1165,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DotD2016Sigil",
     "name": "Day Of The Dead Sigil",
+    "codexSecret": false,
     "description": "A morbidly festive sigil.",
     "type": "Sigil",
     "imageName": "DOTD2016.png",
@@ -1122,6 +1190,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomSigil",
     "name": "Deca Heirloom Sigil",
+    "codexSecret": true,
     "description": "A sigil that celebrates the Tenno’s loyalty and dedication.",
     "type": "Sigil",
     "imageName": "Heirloom2023Sigil.png",
@@ -1132,6 +1201,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianB",
     "name": "Defiance Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Steel Meridian.",
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel1.png",
@@ -1150,6 +1220,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveF",
     "name": "Diligence Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel5.png",
@@ -1178,6 +1249,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceF",
     "name": "Directives Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel5.png",
@@ -1196,6 +1268,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilDisciple",
     "name": "Disciple Sigil",
+    "codexSecret": false,
     "description": "This sigil belongs to one of the founding disciples of the Tenno.",
     "type": "Sigil",
     "imageName": "DiscipleBadge.png",
@@ -1206,6 +1279,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisD",
     "name": "Discipline Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel3.png",
@@ -1224,6 +1298,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveM",
     "name": "Discovery Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel12.png",
@@ -1242,6 +1317,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveH",
     "name": "Discretion Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel7.png",
@@ -1260,6 +1336,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DogDaysSigil",
     "name": "Dog Days Sigil",
+    "codexSecret": false,
     "description": "Beat the heat with this unique Sigil.",
     "type": "Sigil",
     "imageName": "SplashEventIcon.png",
@@ -1270,6 +1347,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/1999DrippySigil",
     "name": "Drippy Sigil",
+    "codexSecret": false,
     "description": "Party like it’s 1999 with this Drippy Sigil!",
     "type": "Sigil",
     "imageName": "1999Drippy.png",
@@ -1280,6 +1358,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DogDaysKubrowSigil",
     "name": "Dropkick Drahk Sigil",
+    "codexSecret": false,
     "description": "The Drahk is poised for the takedown.",
     "type": "Sigil",
     "imageName": "DogDays2024Sigil.png",
@@ -1290,6 +1369,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilEightClaw",
     "name": "Eight Claw Sigil",
+    "codexSecret": false,
     "description": "Commemorate the fight against Neci Rusalka for the throne of Duviri during Operation: Eight Claw with this sigil.",
     "type": "Sigil",
     "imageName": "EightClawEventBadge.png",
@@ -1300,6 +1380,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomEmberSigil",
     "name": "Ember Heirloom Sigil",
+    "codexSecret": true,
     "description": "A sigil that celebrates Ember's legacy.",
     "type": "Sigil",
     "imageName": "HeirloomEmberSigil.png",
@@ -1310,6 +1391,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NoraSeasonTwoSigil",
     "name": "Emissary Sigil",
+    "codexSecret": false,
     "description": "Display the mark of Arlo’s devoted with this Sigil.",
     "type": "Sigil",
     "imageName": "EmissarySigil.png",
@@ -1320,6 +1402,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveP",
     "name": "Empathy Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel15.png",
@@ -1338,6 +1421,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ArchwingSigil",
     "name": "Empyrean Sigil",
+    "codexSecret": false,
     "description": "The same sigil that was proudly worn by Old War Railjack crews.",
     "type": "Sigil",
     "imageName": "ArchwingSigil.png",
@@ -1348,6 +1432,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveL",
     "name": "Enlightenment Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel11.png",
@@ -1366,6 +1451,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/EntratiRankTwo",
     "name": "Entrati Acquaintance Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Entrati.",
     "type": "Sigil",
     "imageName": "FactionSigilEntratiLevel2.png",
@@ -1384,6 +1470,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/EntratiRankThree",
     "name": "Entrati Associate Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Entrati.",
     "type": "Sigil",
     "imageName": "FactionSigilEntratiLevel3.png",
@@ -1402,6 +1489,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/EntratiRankFive",
     "name": "Entrati Family Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Entrati.",
     "type": "Sigil",
     "imageName": "FactionSigilEntratiLevel5.png",
@@ -1420,6 +1508,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/EntratiRankFour",
     "name": "Entrati Friend Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Entrati.",
     "type": "Sigil",
     "imageName": "FactionSigilEntratiLevel4.png",
@@ -1438,6 +1527,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/EntratiRankOne",
     "name": "Entrati Stranger Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Entrati.",
     "type": "Sigil",
     "imageName": "FactionSigilEntratiLevel1.png",
@@ -1456,6 +1546,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EvilBaroNecraloidSigil",
     "name": "Eskhatos Necraloid Sigil",
+    "codexSecret": false,
     "description": "A sigil bearing a twisted yet familiar visage.",
     "type": "Sigil",
     "imageName": "SpookyNecraloid.png",
@@ -1466,6 +1557,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LoginSigilC",
     "name": "Eternal Stasis Sigil",
+    "codexSecret": false,
     "description": "Commemorates the beginning of the long-sleep.",
     "type": "Sigil",
     "imageName": "LoginSigilC.png",
@@ -1476,6 +1568,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilXmas2014D",
     "name": "Evergreen Sigil",
+    "codexSecret": false,
     "description": "A sigil containing a festive design.",
     "type": "Sigil",
     "imageName": "XmasSigilD.png",
@@ -1486,6 +1579,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilFalseProfit",
     "name": "False Profit Sigil",
+    "codexSecret": false,
     "description": "This sigil commemorates the Tenno victory over the machinations of Nef Anyo.",
     "type": "Sigil",
     "imageName": "RiotMoaEventBadge_e.png",
@@ -1496,6 +1590,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilSnowflake",
     "name": "Festive Sigil",
+    "codexSecret": false,
     "description": "A sigil containing a festive design.",
     "type": "Sigil",
     "imageName": "HolidaySigilSnowflake_d.png",
@@ -1506,6 +1601,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilCaviaFibonacci",
     "name": "Fibonacci Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A sigil depicting Fibonacci.",
     "type": "Sigil",
@@ -1517,6 +1613,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FireSigil",
     "name": "Flaming Sigil",
+    "codexSecret": true,
     "description": "This sigil burns with a cold flame.",
     "type": "Sigil",
     "imageName": "InfestationEventBadge_e.png",
@@ -1527,6 +1624,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SparkSigil",
     "name": "Flickering Sigil",
+    "codexSecret": false,
     "description": "This sigil depicts a tribal design that flickers mysteriously.",
     "type": "Sigil",
     "imageName": "BountyBadge_e.png",
@@ -1537,6 +1635,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FormaSigil",
     "name": "Forma Sigil",
+    "codexSecret": true,
     "description": "Do you even?",
     "type": "Sigil",
     "imageName": "Forma.png",
@@ -1547,6 +1646,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaG",
     "name": "Fractal Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel6.png",
@@ -1565,6 +1665,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianG",
     "name": "Freedom Fighter Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Steel Meridian.",
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel6.png",
@@ -1583,6 +1684,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveK",
     "name": "Freedom Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel10.png",
@@ -1601,6 +1703,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankTwo",
     "name": "Fresh Slice Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with The Hex.",
     "type": "Sigil",
     "imageName": "FactionHexLevel2.png",
@@ -1611,6 +1714,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaI",
     "name": "Gaia Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the New Loka.",
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel8.png",
@@ -1629,6 +1733,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilTeralystBig",
     "name": "Gantulyst Sigil",
+    "codexSecret": false,
     "description": "An imprint of a fallen Gantulyst.",
     "type": "Sigil",
     "imageName": "TeralystVariantSigil01.png",
@@ -1647,6 +1752,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ClanSigilMaskedEffect",
     "name": "Gilded Clan Sigil",
+    "codexSecret": false,
     "description": "This sigil is worn by the members united within a Clan.",
     "type": "Sigil",
     "imageName": "ClanSigilMaskedEffect.png",
@@ -1667,6 +1773,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BaroKavatSigil",
     "name": "Glaring Sigil",
+    "codexSecret": false,
     "description": "A sigil representing your Kavat allegiance.",
     "type": "Sigil",
     "imageName": "KavatSigil.png",
@@ -1677,6 +1784,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/GlassmakerSigil",
     "name": "Glassmaker Sigil",
+    "codexSecret": false,
     "description": "A sigil commemorating your grim descent into the madness of the Glassmaker.",
     "type": "Sigil",
     "imageName": "GlassmakerSigil.png",
@@ -1687,6 +1795,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ClanSigilTwoTone",
     "name": "Glyphed Clan Sigil",
+    "codexSecret": true,
     "description": "This sigil is worn by the members united within a Clan.",
     "type": "Sigil",
     "imageName": "ClanSigilTwoTone.png",
@@ -1707,6 +1816,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TwoToneSigil",
     "name": "Glyphed Sigil",
+    "codexSecret": true,
     "description": "This sigil resembles a mysterious glyph.",
     "type": "Sigil",
     "imageName": "MarkedForDeathStalker.png",
@@ -1717,6 +1827,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilGrandMaster",
     "name": "Grand Master Sigil",
+    "codexSecret": false,
     "description": "This sigil belongs to one of the founding grand masters of the Tenno.",
     "type": "Sigil",
     "imageName": "GrandMasterBadge.png",
@@ -1727,6 +1838,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisG",
     "name": "Grasp Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel6.png",
@@ -1755,6 +1867,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Halloween2020Sigil",
     "name": "Grim Grin Naberus Sigil",
+    "codexSecret": false,
     "description": "A morbidly festive Naberus sigil.",
     "type": "Sigil",
     "imageName": "Halloween2020NecraloidEmblem.png",
@@ -1765,6 +1878,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaE",
     "name": "Growth Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the New Loka.",
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel4.png",
@@ -1793,6 +1907,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DeathMarkSigilGrustrag",
     "name": "Grustrag Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting the emblem of the Grustrag Three.",
     "type": "Sigil",
     "imageName": "MarkedForDeathGrustrag.png",
@@ -1811,6 +1926,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LotusGuideSigil",
     "name": "Guide Of The Lotus",
+    "codexSecret": false,
     "description": "Awarded to Tenno who assist the Lotus by helping other Tenno.",
     "type": "Sigil",
     "imageName": "LotusGuideEmblem.png",
@@ -1821,6 +1937,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisB",
     "name": "Guiding Path Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel1.png",
@@ -1839,6 +1956,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HemocyteSigil",
     "name": "Hemocyte Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "Commemorate the fight to defend the Ostron from the Infested during Operation: Plague Star with this sigil.",
     "type": "Sigil",
@@ -1858,6 +1976,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaJ",
     "name": "Hexan Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel9.png",
@@ -1876,6 +1995,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HoldfastsRankFive",
     "name": "Holdfasts Angel Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Holdfasts.",
     "type": "Sigil",
     "imageName": "FactionHoldFastLevel5.png",
@@ -1894,6 +2014,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HoldfastsRankOne",
     "name": "Holdfasts Fallen Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Holdfasts.",
     "type": "Sigil",
     "imageName": "FactionHoldFastLevel1.png",
@@ -1912,6 +2033,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HoldfastsRankThree",
     "name": "Holdfasts Guardian Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Holdfasts.",
     "type": "Sigil",
     "imageName": "FactionHoldFastLevel3.png",
@@ -1930,6 +2052,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HoldfastsRankFour",
     "name": "Holdfasts Seraph Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Holdfasts.",
     "type": "Sigil",
     "imageName": "FactionHoldFastLevel4.png",
@@ -1948,6 +2071,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HoldfastsRankTwo",
     "name": "Holdfasts Watcher Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Holdfasts.",
     "type": "Sigil",
     "imageName": "FactionHoldFastLevel2.png",
@@ -1966,6 +2090,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilAmalgam",
     "name": "Hostile Mergers Sigil",
+    "codexSecret": false,
     "description": "This sigil commemorates the Tenno victory over the machinations of Alad V and his Amalgam Project.",
     "type": "Sigil",
     "imageName": "AmalgamEventBadgeSigils.png",
@@ -1976,6 +2101,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankFour",
     "name": "Hot & Fresh Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with The Hex.",
     "type": "Sigil",
     "imageName": "FactionHexLevel4.png",
@@ -1986,6 +2112,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HoundingKubrowSigil",
     "name": "Hounding Kubrow Sigil",
+    "codexSecret": false,
     "description": "Be the predator, not the prey.",
     "type": "Sigil",
     "imageName": "Halloween2023KubrowWolf.png",
@@ -1996,6 +2123,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaK",
     "name": "Humanity Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the New Loka.",
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel10.png",
@@ -2014,6 +2142,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilHunter",
     "name": "Hunter Sigil",
+    "codexSecret": false,
     "description": "This sigil belongs to one of the founding hunters of the Tenno.",
     "type": "Sigil",
     "imageName": "HunterBadge.png",
@@ -2024,6 +2153,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilTeralystRain",
     "name": "Hydrolyst Sigil",
+    "codexSecret": false,
     "description": "An imprint of a fallen Hydrolyst.",
     "type": "Sigil",
     "imageName": "TeralystVariantSigil03.png",
@@ -2042,6 +2172,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilHyenaPack",
     "name": "Hyena Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting the Hyena Pack.",
     "type": "Sigil",
     "imageName": "HyenaPack.png",
@@ -2088,6 +2219,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LoginSigilA",
     "name": "Imminent Eclipse Sigil",
+    "codexSecret": false,
     "description": "Captures the moment where darkness overcomes the light.",
     "type": "Sigil",
     "imageName": "LoginSigilA.png",
@@ -2098,6 +2230,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/InktoberSigil",
     "name": "Inktober Sigil",
+    "codexSecret": false,
     "description": "A sigil awarded for Inktober.",
     "type": "Sigil",
     "imageName": "Inktober.png",
@@ -2108,6 +2241,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveO",
     "name": "Insight Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel14.png",
@@ -2126,6 +2260,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilJackal",
     "name": "Jackal Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting the Jackal.",
     "type": "Sigil",
     "imageName": "Jackal.png",
@@ -2150,6 +2285,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/JadeSigil",
     "name": "Jade Ophanim Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting Jade’s Ophanim gaze.",
     "type": "Sigil",
     "imageName": "JadeSigil.png",
@@ -2160,6 +2296,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/KahlSupporterPackSigil",
     "name": "Kahl's Fortitude Sigil",
+    "codexSecret": false,
     "description": "Loyalty can inspire courage.",
     "type": "Sigil",
     "imageName": "KahlSigil.png",
@@ -2170,6 +2307,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilKelaDeThaym",
     "name": "Kela De Thaym Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A sigil depicting Kela De Thaym.",
     "type": "Sigil",
@@ -2189,6 +2327,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/GaussDeluxeIISigil",
     "name": "Kickback Sigil",
+    "codexSecret": false,
     "description": "High speed movement can leave its mark. Gauss Moto's signature sigil.",
     "type": "Sigil",
     "imageName": "GaussDeluxeIISigil.png",
@@ -2199,6 +2338,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/KoumeiSigil",
     "name": "Koumei Ito Sigil",
+    "codexSecret": false,
     "description": "Invoke the weaver of fate.",
     "type": "Sigil",
     "imageName": "KoumeiSigil.png",
@@ -2209,6 +2349,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/StarterPackLotusSigil",
     "name": "Kumuda Sigil",
+    "codexSecret": false,
     "description": "Pay respect to The Lotus with this elegant sigil.",
     "type": "Sigil",
     "imageName": "StarterLotusSigil.png",
@@ -2229,6 +2370,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaI",
     "name": "Labyrinth Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel8.png",
@@ -2247,6 +2389,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SigilTankAncient",
     "name": "Leaping Thrasher Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting a Leaping Thrasher.",
     "type": "Sigil",
     "imageName": "InfestedAncientSigil.png",
@@ -2283,6 +2426,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilLechKril",
     "name": "Lech Kril Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting Lieutenant Lech Kril.",
     "type": "Sigil",
     "imageName": "LechKril.png",
@@ -2301,6 +2445,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankOne",
     "name": "Leftovers Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with The Hex.",
     "type": "Sigil",
     "imageName": "FactionHexLevel1.png",
@@ -2311,6 +2456,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MasterySigil",
     "name": "Legacy Mastery Sigil",
+    "codexSecret": false,
     "description": "This legacy sigil represents the pinnacle of mastery within the Tenno.",
     "type": "Sigil",
     "imageName": "Rank10Seeker.png",
@@ -2331,6 +2477,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilLephantis",
     "name": "Lephantis Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting the Lephantis.",
     "type": "Sigil",
     "imageName": "Lephantis.png",
@@ -2367,6 +2514,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilF",
     "name": "Lesion Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Red Veil.",
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel5.png",
@@ -2385,6 +2533,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FortunaSigil",
     "name": "Lift Together Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting the mark of Solaris United",
     "type": "Sigil",
     "imageName": "FactionSigilSolarisUnited.png",
@@ -2395,6 +2544,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LoginSigilF",
     "name": "Lotus Deliverance Sigil",
+    "codexSecret": false,
     "description": "Remembers the one who awakens.",
     "type": "Sigil",
     "imageName": "LoginSigilF.png",
@@ -2405,6 +2555,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearHorseSigil",
     "name": "Lunar Renewal Horse Sigil",
+    "codexSecret": false,
     "description": "Gallop into the coming year with the freedom of the loyal horse.",
     "type": "Sigil",
     "imageName": "Cny2026HorseSigil.png",
@@ -2415,6 +2566,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearOxSigil",
     "name": "Lunar Renewal Ox Sigil",
+    "codexSecret": false,
     "description": "Celebrate the new lunar year with the power of the noble ox.",
     "type": "Sigil",
     "imageName": "Cny2021OxSigil.png",
@@ -2425,6 +2577,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearTigerSigil",
     "name": "Lunar Renewal Prowl Sigil",
+    "codexSecret": false,
     "description": "Face the coming year with the boldness of the legendary tiger.",
     "type": "Sigil",
     "imageName": "Cny2022TigerSigil.png",
@@ -2445,6 +2598,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearSnakeSigil",
     "name": "Lunar Renewal Snake Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "Transform in the coming year with the intuition of the elegant snake.",
     "type": "Sigil",
@@ -2456,6 +2610,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearDragonSigil",
     "name": "Lunar Renewal Soar Sigil",
+    "codexSecret": false,
     "description": "Soar into the coming year with the power of the honorable dragon.",
     "type": "Sigil",
     "imageName": "Cny2024DragonSigil.png",
@@ -2466,6 +2621,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearRabbitSigil",
     "name": "Lunar Renewal Swift Sigil",
+    "codexSecret": false,
     "description": "Celebrate Lunar Renewal with the kind heart of the gentle rabbit.",
     "type": "Sigil",
     "imageName": "Cny2023RabbitSigil.png",
@@ -2476,6 +2632,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearFreeTigerSigil",
     "name": "Lunar Renewal Tiger Sigil",
+    "codexSecret": false,
     "description": "Celebrate the Lunar Renewal with the bravery of the legendary tiger.",
     "type": "Sigil",
     "imageName": "Cny2022TigerSigilC.png",
@@ -2486,6 +2643,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilLynx",
     "name": "Lynx Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting the Lynx.",
     "type": "Sigil",
     "imageName": "Lynx.png",
@@ -2504,6 +2662,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilE",
     "name": "Maelstrom Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Red Veil.",
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel4.png",
@@ -2522,6 +2681,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilI",
     "name": "Malevolent Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Red Veil.",
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel8.png",
@@ -2540,6 +2700,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaF",
     "name": "Manifold Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel5.png",
@@ -2558,6 +2719,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilMaster",
     "name": "Master Sigil",
+    "codexSecret": false,
     "description": "This sigil belongs to one of the founding masters of the Tenno.",
     "type": "Sigil",
     "imageName": "MasterBadge.png",
@@ -2568,6 +2730,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MasteryStoneSigil",
     "name": "Mastery Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "This sigil represents the pinacle of mastery within the Tenno.",
     "type": "Sigil",
@@ -2685,6 +2848,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomMesaSigil",
     "name": "Mesa Heirloom Sigil",
+    "codexSecret": true,
     "description": "Mesa Heirloom's sigil warns outlaws their time has come.",
     "type": "Sigil",
     "imageName": "HeirloomMesaSigil.png",
@@ -2695,6 +2859,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MonquisSigil",
     "name": "Monquis Sigil",
+    "codexSecret": false,
     "description": "This is a unique sigil depicting a mysterious creature of ancient Earth.",
     "type": "Sigil",
     "imageName": "Monquis.png",
@@ -2705,6 +2870,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaH",
     "name": "Multivariate Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel7.png",
@@ -2723,6 +2889,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NarmerEyeSigil",
     "name": "Narmer Eye Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "Don this symbol of Ballas' twisted Narmer plan.",
     "type": "Sigil",
@@ -2734,6 +2901,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/StarterPackASigil",
     "name": "Nava Sigil",
+    "codexSecret": false,
     "description": "Pay respect to The Lotus with this elegant sigil.",
     "type": "Sigil",
     "imageName": "StarterBundleSigil.png",
@@ -2744,6 +2912,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/NecraloidRankOne",
     "name": "Necraloid Agnesis Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Necraloid.",
     "type": "Sigil",
     "imageName": "FactionSigilNecraloidLevel1.png",
@@ -2762,6 +2931,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/NecraloidRankTwo",
     "name": "Necraloid Modus Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Necraloid.",
     "type": "Sigil",
     "imageName": "FactionSigilNecraloidLevel2.png",
@@ -2780,6 +2950,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/NecraloidRankThree",
     "name": "Necraloid Odima Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Necraloid.",
     "type": "Sigil",
     "imageName": "FactionSigilNecraloidLevel3.png",
@@ -2798,6 +2969,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TwitchNecraloidSigil",
     "name": "Necraloid Sigil",
+    "codexSecret": false,
     "description": "Are you as wormed as the others?",
     "type": "Sigil",
     "imageName": "TwitchNecraloidSigil.png",
@@ -2826,6 +2998,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilNefAnyo",
     "name": "Nef Anyo Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting Nef Anyo.",
     "type": "Sigil",
     "imageName": "NefAnyo.png",
@@ -2836,6 +3009,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaA",
     "name": "New Loka Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the New Loka.",
     "type": "Sigil",
     "imageName": "FactionSigilChurch.png",
@@ -2864,6 +3038,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/RadioLegionSigil",
     "name": "Nightwave Sigil",
+    "codexSecret": false,
     "description": "For the Sleepless, the Dreamers.",
     "type": "Sigil",
     "imageName": "RadioLegionSigil.png",
@@ -2874,6 +3049,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilXmas2014B",
     "name": "Nistlebrush Sigil",
+    "codexSecret": false,
     "description": "A sigil containing a festive design.",
     "type": "Sigil",
     "imageName": "XmasSigilB.png",
@@ -2884,6 +3060,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4CrowSigil",
     "name": "Obsidian Corvus Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A next-generation Sigil.",
     "type": "Sigil",
@@ -2895,6 +3072,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ObsidianIndraSigil",
     "name": "Obsidian Indra Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A Sigil honoring the Boltor, a Tenno classic.",
     "type": "Sigil",
@@ -2906,6 +3084,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4RenownXSigil",
     "name": "Obsidian Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A next-generation Sigil.",
     "type": "Sigil",
@@ -2917,6 +3096,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/KuvaLichSigil",
     "name": "Old Blood Sigil",
+    "codexSecret": false,
     "description": "The sigil of one who has bested an inhuman adversary born of the Old Blood: a Kuva Lich.",
     "type": "Sigil",
     "imageName": "KuvaLichSigil.png",
@@ -2927,6 +3107,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MechEventSigil",
     "name": "Operation Orphix Venom Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A sigil for veterans of Operation Orphix Venom.",
     "type": "Sigil",
@@ -2938,6 +3119,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceC",
     "name": "Opportunity Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel2.png",
@@ -2956,6 +3138,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceI",
     "name": "Optimum Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel8.png",
@@ -2974,6 +3157,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaK",
     "name": "Oracle Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel10.png",
@@ -2992,6 +3176,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DuvDragonSigil",
     "name": "Orowyrm's Rage Sigil",
+    "codexSecret": true,
     "description": "A sigil reminiscent of the elemental Orowyrm.",
     "type": "Sigil",
     "imageName": "DuviriDragonSigil.png",
@@ -3002,6 +3187,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/OstronCommunitySigil",
     "name": "Ostron Community Sigil",
+    "codexSecret": false,
     "description": "A symbol of Ostron appreciation.",
     "type": "Sigil",
     "imageName": "OstronCommunityGlyph.png",
@@ -3012,6 +3198,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/OstronRankFive",
     "name": "Ostron Kin Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Ostron.",
     "type": "Sigil",
     "imageName": "SyndicateOstronRankSigilE.png",
@@ -3030,6 +3217,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/OstronRankOne",
     "name": "Ostron Offworlder Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Ostron.",
     "type": "Sigil",
     "imageName": "SyndicateOstronRankSigilA.png",
@@ -3048,6 +3236,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/OstronRankFour",
     "name": "Ostron Surah Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Ostron.",
     "type": "Sigil",
     "imageName": "SyndicateOstronRankSigilD.png",
@@ -3066,6 +3255,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/OstronRankThree",
     "name": "Ostron Trusted Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Ostron.",
     "type": "Sigil",
     "imageName": "SyndicateOstronRankSigilC.png",
@@ -3084,6 +3274,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/OstronRankTwo",
     "name": "Ostron Visitor Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Ostron.",
     "type": "Sigil",
     "imageName": "SyndicateOstronRankSigilB.png",
@@ -3102,6 +3293,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BaroKubrowSigil",
     "name": "Pack Leader Sigil",
+    "codexSecret": false,
     "description": "A sigil representing your Kubrow allegiance.",
     "type": "Sigil",
     "imageName": "TwitchDropSigil.png",
@@ -3112,6 +3304,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaD",
     "name": "Pattern Match Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel3.png",
@@ -3130,6 +3323,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveC",
     "name": "Perception Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel2.png",
@@ -3148,6 +3342,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceA",
     "name": "Perrin Sequence Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
     "type": "Sigil",
     "imageName": "FactionSigilBusiness.png",
@@ -3176,6 +3371,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ClanSigilBasicAdd",
     "name": "Phased Clan Sigil",
+    "codexSecret": true,
     "description": "This sigil is worn by the members united within a Clan.",
     "type": "Sigil",
     "imageName": "ClanSigilBasic.png",
@@ -3196,6 +3392,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/CNYRoosterPWSigil",
     "name": "Phoenix Coronet Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "Celebrate 2017 Chinese Rooster Year, a symbol of our glory",
     "type": "Sigil",
@@ -3207,6 +3404,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilPhorid",
     "name": "Phorid Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting the Phorid.",
     "type": "Sigil",
     "imageName": "Phorid.png",
@@ -3225,6 +3423,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankFive",
     "name": "Pizza Party Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with The Hex.",
     "type": "Sigil",
     "imageName": "FactionHexLevel5.png",
@@ -3235,6 +3434,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisH",
     "name": "Potential Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel7.png",
@@ -3253,6 +3453,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MonquisCYSigil",
     "name": "Primate Sigil",
+    "codexSecret": false,
     "description": "Celebrate the New Year by adorning this sigil!",
     "type": "Sigil",
     "imageName": "MonquisCYSigil.png",
@@ -3263,6 +3464,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrismaLotusVinesSigil",
     "name": "Prisma Lotus Bloom Sigil",
+    "codexSecret": true,
     "excludeFromCodex": true,
     "description": "From Baro Ki'Teer comes this arboreal reimagining of the Lotus' signature symbol.",
     "type": "Sigil",
@@ -3274,6 +3476,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrismaLotusFlamesSigil",
     "name": "Prisma Lotus Flame Sigil",
+    "codexSecret": true,
     "excludeFromCodex": true,
     "description": "From Baro Ki'Teer comes this fiery reimagining of the Lotus' signature symbol.",
     "type": "Sigil",
@@ -3285,6 +3488,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrismaLotusSigil",
     "name": "Prisma Lotus Sigil",
+    "codexSecret": false,
     "description": "From Baro Ki'Teer comes this stylish reimagining of the Lotus' signature symbol.",
     "type": "Sigil",
     "imageName": "PrismaLotusSigil.png",
@@ -3305,6 +3509,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrimeTraderSigil",
     "name": "Prisma Sigil",
+    "codexSecret": true,
     "description": "This exclusive sigil features prisma color gradients for maximum customization.",
     "type": "Sigil",
     "imageName": "PrimeTraderSigil.png",
@@ -3315,6 +3520,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ThraxSigil",
     "name": "Prisma Thrax Sigil",
+    "codexSecret": true,
     "description": "From Baro Ki’Teer comes this stylish reimagining of the legendary king, Dominus Thrax.",
     "type": "Sigil",
     "imageName": "DuviriStartingZoneIconParadox.png",
@@ -3325,6 +3531,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/VorDuviriSigil",
     "name": "Prisma Vor Sigil",
+    "codexSecret": true,
     "description": "From Baro Ki’Teer comes this stylish reimagining of the infamous Captain Vor.",
     "type": "Sigil",
     "imageName": "DuviriStartingZoneIconWarframe.png",
@@ -3335,6 +3542,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceB",
     "name": "Progress Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel1.png",
@@ -3353,6 +3561,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TwitchProminenceSigil",
     "name": "Prominence Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting bold geometric patterns.",
     "type": "Sigil",
     "imageName": "TwitchProminenceSigil.png",
@@ -3363,6 +3572,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianF",
     "name": "Protectorate Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Steel Meridian.",
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel5.png",
@@ -3381,6 +3591,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveG",
     "name": "Prudence Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel6.png",
@@ -3399,6 +3610,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaH",
     "name": "Purity Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the New Loka.",
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel7.png",
@@ -3417,6 +3629,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaB",
     "name": "Query Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel1.png",
@@ -3435,6 +3648,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ConclaveTacAlertSigilA",
     "name": "Quick Steel Sigil",
+    "codexSecret": false,
     "description": "A symbol of pride for those that braved blade and star in The Conclave.",
     "type": "Sigil",
     "imageName": "ConclaveTacAlertEmblem.png",
@@ -3445,6 +3659,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/QuillsRankThree",
     "name": "Quills Adherent Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Quills.",
     "type": "Sigil",
     "imageName": "FactionSigilEidolonHunterLevel3.png",
@@ -3463,6 +3678,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/QuillsRankFive",
     "name": "Quills Architect Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Quills.",
     "type": "Sigil",
     "imageName": "FactionSigilEidolonHunterLevel5.png",
@@ -3481,6 +3697,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/QuillsRankFour",
     "name": "Quills Instrument Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Quills.",
     "type": "Sigil",
     "imageName": "FactionSigilEidolonHunterLevel4.png",
@@ -3499,6 +3716,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/QuillsRankOne",
     "name": "Quills Mote Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Quills.",
     "type": "Sigil",
     "imageName": "FactionSigilEidolonHunterLevel1.png",
@@ -3517,6 +3735,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/QuillsRankTwo",
     "name": "Quills Observer Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Quills.",
     "type": "Sigil",
     "imageName": "FactionSigilEidolonHunterLevel2.png",
@@ -3535,6 +3754,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilRaptor",
     "name": "Raptor Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting the Raptor.",
     "type": "Sigil",
     "imageName": "Raptor.png",
@@ -3571,6 +3791,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/KelaEventSigil",
     "name": "Rathuum Sigil",
+    "codexSecret": false,
     "description": "A sigil commemorating the liberation of defectors from the Grineer.",
     "type": "Sigil",
     "imageName": "KelaEventBadge_e.png",
@@ -3581,6 +3802,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/CosmosSigil",
     "name": "Raya Orbitus Sigil",
+    "codexSecret": false,
     "description": "Display the elegant lines of the cosmos with this Raya series sigil.",
     "type": "Sigil",
     "imageName": "CosmosRiftSigil.png",
@@ -3591,6 +3813,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianI",
     "name": "Rebellion Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Steel Meridian.",
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel8.png",
@@ -3609,6 +3832,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaD",
     "name": "Rebirth Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the New Loka.",
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel3.png",
@@ -3627,6 +3851,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilA",
     "name": "Red Veil Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Red Veil.",
     "type": "Sigil",
     "imageName": "FactionSigilAssassins.png",
@@ -3645,6 +3870,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveE",
     "name": "Revelation Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel4.png",
@@ -3663,6 +3889,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomRhinoSigil",
     "name": "Rhino Heirloom Sigil",
+    "codexSecret": true,
     "description": "A sigil that celebrates Rhino's legacy.",
     "type": "Sigil",
     "imageName": "HeirloomRhinoSigil.png",
@@ -3673,6 +3900,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/RhinoDeluxeSigil",
     "name": "Rhino Palatine Sigil",
+    "codexSecret": false,
     "description": "Pay homage to warriors of a more chivalrous time with this sigil.",
     "type": "Sigil",
     "imageName": "RhinoDeluxeSigils.png",
@@ -3683,6 +3911,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EnergySigilA",
     "name": "Rift Sigil",
+    "codexSecret": false,
     "description": "This sigil is laced with energy from the Void.",
     "type": "Sigil",
     "imageName": "EnergySigilA_d.png",
@@ -3703,6 +3932,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrimeAccessSigilLimbo",
     "name": "Rift Walker Prime Sigil",
+    "codexSecret": false,
     "description": "The signature sigil of Limbo Prime.",
     "type": "Sigil",
     "imageName": "PrimeAccessSigilLimbo.png",
@@ -3723,6 +3953,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/GaussDeluxeIIDamageSigil",
     "name": "Road Rash Sigil",
+    "codexSecret": false,
     "description": "This sigil won't just buff out.",
     "type": "Sigil",
     "imageName": "GaussDeluxeIIDamageSigil.png",
@@ -3733,6 +3964,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilG",
     "name": "Ruin Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Red Veil.",
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel6.png",
@@ -3751,6 +3983,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaB",
     "name": "Sacrifice Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the New Loka.",
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel1.png",
@@ -3769,6 +4002,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilSargusRuk",
     "name": "Sargas Ruk Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting General Sargas Ruk.",
     "type": "Sigil",
     "imageName": "SargusRuk.png",
@@ -3787,6 +4021,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WolfSigil",
     "name": "Saturn Six Sigil",
+    "codexSecret": false,
     "description": "The mark of an outlaw, once locked away six leagues deep in the gas.",
     "type": "Sigil",
     "imageName": "WolfSigil.png",
@@ -3797,6 +4032,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ScarSigil",
     "name": "Scar Sigil",
+    "codexSecret": false,
     "description": "A memento for those who have awoken from the Second Dream.",
     "type": "Sigil",
     "imageName": "ScarSigil_d.png",
@@ -3807,6 +4043,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EnergySigilB",
     "name": "Scars Of Arbitration Sigil",
+    "codexSecret": false,
     "description": "Bear the scars earned in deadly Arbitrations.",
     "type": "Sigil",
     "imageName": "EnergySigilB_d.png",
@@ -3817,6 +4054,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DogDays2023CSigil",
     "name": "Scorcher Sigil",
+    "codexSecret": false,
     "description": "Beat the heat with this unique Sigil.",
     "type": "Sigil",
     "imageName": "DogDaysSigil03.png",
@@ -3827,6 +4065,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/XBoneOneYearSigil",
     "name": "Seal Of Honoring",
+    "codexSecret": false,
     "description": "Dedicated to the amazing Xbox One Warframe community.",
     "type": "Sigil",
     "imageName": "XBoneOneYearSigil.png",
@@ -3837,6 +4076,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/XBoneTwoYearSigil",
     "name": "Seal Of Honoring Ii",
+    "codexSecret": false,
     "description": "Commemorates the Tenno who have honored the Lotus for two cycles.",
     "type": "Sigil",
     "imageName": "XBoneTwoYearSigil.png",
@@ -3847,6 +4087,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/XBoneThreeYearSigil",
     "name": "Seal Of Honoring Iii",
+    "codexSecret": false,
     "description": "Commemorates the Tenno who have honored the Lotus for three cycles.",
     "type": "Sigil",
     "imageName": "XBoneThreeYearSigil.png",
@@ -3857,6 +4098,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/XBoneFourYearSigil",
     "name": "Seal Of Honoring Iv",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "Commemorates the Tenno who have honored the Lotus for four cycles.",
     "type": "Sigil",
@@ -3868,6 +4110,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaC",
     "name": "Searching Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Cephalon Suda.",
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel2.png",
@@ -3886,6 +4129,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaC",
     "name": "Seed Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the New Loka.",
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel2.png",
@@ -3904,6 +4148,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DotD2025Sigil",
     "name": "Shroud Of Dynar Sigil",
+    "codexSecret": true,
     "description": "A morbidly festive sigil.",
     "type": "Sigil",
     "imageName": "Halloween2025Voruna.png",
@@ -3914,6 +4159,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/CorpusLichSigil",
     "name": "Sisterhood Sigil",
+    "codexSecret": false,
     "description": "A mark of respect for the Sisters of Parvos.",
     "type": "Sigil",
     "imageName": "CorpusLichSigil.png",
@@ -3934,6 +4180,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NecramechSigilSnake",
     "name": "Snake Necramech Sigil",
+    "codexSecret": false,
     "description": "This distinctive serpentine sigil adds venomous menace to any Necramech.",
     "type": "Sigil",
     "imageName": "NecramechSigilSnake.png",
@@ -3954,6 +4201,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SigilSnake",
     "name": "Snake Sigil",
+    "codexSecret": false,
     "description": "This distinctive serpentine sigil adds venomous menace to any Warframe.",
     "type": "Sigil",
     "imageName": "NecramechSigilSnake.png",
@@ -3974,6 +4222,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LoginSigilD",
     "name": "Solar Flare Sigil",
+    "codexSecret": false,
     "description": "Represents an incredible and untamed power.",
     "type": "Sigil",
     "imageName": "LoginSigilD.png",
@@ -3984,6 +4233,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/SolarisRankFour",
     "name": "Solaris United Cove Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Solaris United.",
     "type": "Sigil",
     "imageName": "FactionSigilSolarisUnitedLevel4.png",
@@ -4002,6 +4252,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/SolarisRankThree",
     "name": "Solaris United Doer Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Solaris United.",
     "type": "Sigil",
     "imageName": "FactionSigilSolarisUnitedLevel3.png",
@@ -4020,6 +4271,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/SolarisRankFive",
     "name": "Solaris United Old Mate Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Solaris United.",
     "type": "Sigil",
     "imageName": "FactionSigilSolarisUnitedLevel5.png",
@@ -4038,6 +4290,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/SolarisRankOne",
     "name": "Solaris United Outworlder Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Solaris United.",
     "type": "Sigil",
     "imageName": "FactionSigilSolarisUnitedLevel1.png",
@@ -4056,6 +4309,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/SolarisRankTwo",
     "name": "Solaris United Rapscallion Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Solaris United.",
     "type": "Sigil",
     "imageName": "FactionSigilSolarisUnitedLevel2.png",
@@ -4074,6 +4328,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Winter2016Sigil",
     "name": "Solstice Sigil",
+    "codexSecret": false,
     "description": "A festive sigil.",
     "type": "Sigil",
     "imageName": "WinterSolsticeSigil3.png",
@@ -4084,6 +4339,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SomberStalkerSigil",
     "name": "Somber Stalker Sigil",
+    "codexSecret": false,
     "description": "From the shadows.",
     "type": "Sigil",
     "imageName": "Halloween2023Stalker.png",
@@ -4094,6 +4350,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DogDays2023ASigil",
     "name": "Splash And Dash Sigil",
+    "codexSecret": false,
     "description": "Beat the heat with this unique Sigil.",
     "type": "Sigil",
     "imageName": "DogDaysSigil01.png",
@@ -4104,6 +4361,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DogDays2025Sigil",
     "name": "Splashdown Sigil",
+    "codexSecret": false,
     "description": "Refresh yourself with this unique sigil.",
     "type": "Sigil",
     "imageName": "DogDays2025Sigil.png",
@@ -4114,6 +4372,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DeathMarkSigilStalker",
     "name": "Stalker Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting the emblem of the Stalker.",
     "type": "Sigil",
     "imageName": "MarkedForDeathStalker.png",
@@ -4150,6 +4409,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NWStalkerSigil",
     "name": "Stalker Smoke Screen Sigil",
+    "codexSecret": false,
     "description": "Who do you hunt, Shadow?",
     "type": "Sigil",
     "imageName": "StalkerSigil.png",
@@ -4160,6 +4420,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TwitchPrimeSigil",
     "name": "Static Reactor Prime Sigil",
+    "codexSecret": false,
     "description": "Paired with this sigil, a Warframe will flicker and flash like a thunderhead.",
     "type": "Sigil",
     "imageName": "TwitchPrimeSigil.png",
@@ -4188,6 +4449,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianA",
     "name": "Steel Meridian Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Steel Meridian.",
     "type": "Sigil",
     "imageName": "FactionSigilRebels.png",
@@ -4206,6 +4468,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/XBoneJadeSigil",
     "name": "Stoka Jade Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A next-generation sigil for your Warframe.",
     "type": "Sigil",
@@ -4217,6 +4480,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceG",
     "name": "Strategy Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel6.png",
@@ -4235,6 +4499,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisI",
     "name": "Succession Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel8.png",
@@ -4253,6 +4518,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisJ",
     "name": "Surpassing Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel9.png",
@@ -4271,6 +4537,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceE",
     "name": "Synergy Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel4.png",
@@ -4289,6 +4556,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilCaviaTagfer",
     "name": "Tagfer Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A sigil depicting Tagfer.",
     "type": "Sigil",
@@ -4300,6 +4568,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TempleSigil",
     "name": "Temple Sigil",
+    "codexSecret": false,
     "description": "A sigil celebrating Temple and their music.",
     "type": "Sigil",
     "imageName": "TempleSigil.png",
@@ -4310,6 +4579,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WikiaSigil",
     "name": "Tenno Chronicler Sigil",
+    "codexSecret": false,
     "description": "A special sigil worn only by a select few Tenno.",
     "type": "Sigil",
     "imageName": "WikiaBadge_e.png",
@@ -4320,6 +4590,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoLive2015Sigil",
     "name": "Tenno Live Sigil",
+    "codexSecret": false,
     "description": "Awarded to players who attended the Tenno Live 2015.",
     "type": "Sigil",
     "imageName": "TennoLive2015.png",
@@ -4330,6 +4601,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoLivePromoSigil",
     "name": "Tenno Luminary Sigil",
+    "codexSecret": false,
     "description": "An honorable insignia celebrating Tenno unity.",
     "type": "Sigil",
     "imageName": "TennoLivePromotionalSigil.png",
@@ -4340,6 +4612,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TranslatorSigil",
     "name": "Tenno Translator Sigil",
+    "codexSecret": true,
     "description": "An exclusive Sigil worn only by Tenno Translators.",
     "type": "Sigil",
     "imageName": "TranslatorSigil.png",
@@ -4350,6 +4623,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2016Sigil",
     "name": "Tennocon 2016 Sigil",
+    "codexSecret": false,
     "description": "Bestowed upon those who joined together in celebration at TennoCon 2016.",
     "type": "Sigil",
     "imageName": "TennoCon2016.png",
@@ -4360,6 +4634,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2017Sigil",
     "name": "Tennocon 2017 Sigil",
+    "codexSecret": false,
     "description": "Bestowed upon those who joined together in celebration at TennoCon 2017.",
     "type": "Sigil",
     "imageName": "TennoCon2017Sigil.png",
@@ -4370,6 +4645,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2018Sigil",
     "name": "Tennocon 2018 Sigil",
+    "codexSecret": false,
     "description": "Bestowed upon those who joined together in celebration at TennoCon 2018.",
     "type": "Sigil",
     "imageName": "TennoCon2018Sigil.png",
@@ -4380,6 +4656,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2019Sigil",
     "name": "Tennocon 2019 Sigil",
+    "codexSecret": false,
     "description": "Bestowed upon those who joined together in celebration at TennoCon 2019.",
     "type": "Sigil",
     "imageName": "TennoCon2019Sigil.png",
@@ -4390,6 +4667,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2020Sigil",
     "name": "Tennocon 2020 Sigil",
+    "codexSecret": false,
     "description": "Bestowed upon those who joined together in celebration at TennoCon 2020.",
     "type": "Sigil",
     "imageName": "TennoCon2020Sigil.png",
@@ -4400,6 +4678,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2021Sigil",
     "name": "Tennocon 2021 Sigil",
+    "codexSecret": false,
     "description": "Bestowed upon those who joined together in celebration at TennoCon 2021.",
     "type": "Sigil",
     "imageName": "TennoCon2021Sigil.png",
@@ -4410,6 +4689,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2022Sigil",
     "name": "Tennocon 2022 Sigil",
+    "codexSecret": false,
     "description": "Bestowed upon those who joined together in celebration at TennoCon 2022.",
     "type": "Sigil",
     "imageName": "TennonConSigil2022.png",
@@ -4420,6 +4700,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2023Sigil",
     "name": "Tennocon 2023 Sigil",
+    "codexSecret": false,
     "description": "Bestowed upon those who joined together in celebration at TennoCon 2023.",
     "type": "Sigil",
     "imageName": "TennoCon2023Sigil.png",
@@ -4430,6 +4711,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2024Sigil",
     "name": "Tennocon 2024 Sigil",
+    "codexSecret": true,
     "description": "Bestowed upon those who joined together in celebration at TennoCon 2024.",
     "type": "Sigil",
     "imageName": "TennoCon2024Sigil.png",
@@ -4440,6 +4722,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2025Sigil",
     "name": "Tennocon 2025 Sigil",
+    "codexSecret": true,
     "description": "Celebrate ten years of TennoCon with this Lotus inspired Sigil.",
     "type": "Sigil",
     "imageName": "TennoCon2025Sigil.png",
@@ -4450,6 +4733,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2026Sigil",
     "name": "Tennocon 2026 Sigil",
+    "codexSecret": true,
     "description": "Bestowed upon those who joined together in celebration at TennoCon 2026.",
     "type": "Sigil",
     "imageName": "TennoCon2026Sigil.png",
@@ -4460,6 +4744,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Tennogen10YearSigil",
     "name": "Tennogen Decennial Sigil",
+    "codexSecret": true,
     "description": "A sigil commemorating ten years of TennoGen artistry.",
     "type": "Sigil",
     "imageName": "Tennogen10YearSigil.png",
@@ -4470,6 +4755,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoGenSigil",
     "name": "Tennogen Sigil",
+    "codexSecret": false,
     "description": "A special sigil worn only by a select few Tenno.",
     "type": "Sigil",
     "imageName": "TennoGenSigil.png",
@@ -4480,6 +4766,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoVIP2025Sigil",
     "name": "Tennovip 2025 Sigil",
+    "codexSecret": true,
     "description": "A sigil for VIP Tenno.",
     "type": "Sigil",
     "imageName": "TennoVIP2025.png",
@@ -4490,6 +4777,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoVIP2026Sigil",
     "name": "Tennovip 2026 Sigil",
+    "codexSecret": true,
     "description": "A sigil for VIP Tenno.",
     "type": "Sigil",
     "imageName": "TennoVIP2026.png",
@@ -4500,6 +4788,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoVIP2024Sigil",
     "name": "Tennovip East Sigil",
+    "codexSecret": true,
     "description": "A sigil for VIP Tenno",
     "type": "Sigil",
     "imageName": "TennoVIP2024.png",
@@ -4510,6 +4799,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DawnsEarlyLightSigil",
     "name": "Teralyst Prominence Sigil",
+    "codexSecret": false,
     "description": "A bold sigil depicting a Sentient Teralyst.",
     "type": "Sigil",
     "imageName": "DawnsEarlyLight.png",
@@ -4520,6 +4810,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TeralystSigil",
     "name": "Teralyst Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting a Sentient Teralyst.",
     "type": "Sigil",
     "imageName": "DawnsEarlyLight.png",
@@ -4538,6 +4829,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceH",
     "name": "Tessellations Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Perrin Sequence.",
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel7.png",
@@ -4556,6 +4848,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilIndex",
     "name": "The Index Sigil",
+    "codexSecret": false,
     "description": "A memento of The Index.",
     "type": "Sigil",
     "imageName": "IndexIcon.png",
@@ -4576,6 +4869,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilD",
     "name": "Threat Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Red Veil.",
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel3.png",
@@ -4594,6 +4888,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilXmas2014C",
     "name": "Tolling Sigil",
+    "codexSecret": false,
     "description": "A sigil containing a festive design.",
     "type": "Sigil",
     "imageName": "XmasSigilC.png",
@@ -4604,6 +4899,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SigilVideoContest",
     "name": "Trailer Entrant Sigil",
+    "codexSecret": false,
     "description": "Participatory prize for the Tenno's Greatest Trailer contest.",
     "type": "Sigil",
     "imageName": "VideoContestSigil.png",
@@ -4614,6 +4910,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisK",
     "name": "Truth Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel10.png",
@@ -4632,6 +4929,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilTylRegor",
     "name": "Tyl Regor Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting Tyl Regor.",
     "type": "Sigil",
     "imageName": "TylRegor.png",
@@ -4650,6 +4948,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveQ",
     "name": "Unity Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
@@ -4669,6 +4968,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianJ",
     "name": "Unyielding Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Steel Meridian.",
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel9.png",
@@ -4687,6 +4987,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianE",
     "name": "Uprising Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Steel Meridian.",
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel4.png",
@@ -4705,6 +5006,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomValkyrSigil",
     "name": "Valkyr Heirloom Sigil",
+    "codexSecret": true,
     "description": "A sigil that celebrates Valkyr's legacy.",
     "type": "Sigil",
     "imageName": "HeirloomValkyrSigil.png",
@@ -4715,6 +5017,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/InfLichVanquishedSigil",
     "name": "Vanquished Coda Sigil",
+    "codexSecret": false,
     "description": "The show's over. This sigil marks the end of a Technocyte Coda's career of music and mayhem.",
     "type": "Sigil",
     "imageName": "VanquishedSigil.png",
@@ -4725,6 +5028,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LavosDeluxeSigil",
     "name": "Vaporis Sigil",
+    "codexSecret": false,
     "description": "The touch of alchemy leaves its mark, permeating the entire body. Lavos Khymia’s signature sigil.",
     "type": "Sigil",
     "imageName": "LavosDeluxeSigil.png",
@@ -4735,6 +5039,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomVaubanSigilSumo",
     "name": "Vauban Heirloom Schema Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "A sigil that celebrates Vauban’s ingenuity.",
     "type": "Sigil",
@@ -4746,6 +5051,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomVaubanSigil",
     "name": "Vauban Heirloom Sigil",
+    "codexSecret": false,
     "description": "A sigil that celebrates Vauban's legacy.",
     "type": "Sigil",
     "imageName": "HeirloomVaubanSigil.png",
@@ -4756,6 +5062,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilVayHek",
     "name": "Vay Hek Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting Councilor Vay Hek.",
     "type": "Sigil",
     "imageName": "VeyHek.png",
@@ -4780,6 +5087,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrimeAccessSigilFive",
     "name": "Velorum Prime Sigil",
+    "codexSecret": false,
     "description": "Champions of the Orokin were allowed to wear this Sigil as proof of their loyalty.",
     "type": "Sigil",
     "imageName": "VerlorumPrimeSigil.png",
@@ -4808,6 +5116,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/VentkidsRankOne",
     "name": "Ventkids Glinty Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Ventkids.",
     "type": "Sigil",
     "imageName": "SyndicateVentKidzRankSigilA.png",
@@ -4818,6 +5127,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/VentkidsRankFive",
     "name": "Ventkids Logical Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Ventkids.",
     "type": "Sigil",
     "imageName": "SyndicateVentKidzRankSigilE.png",
@@ -4836,6 +5146,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/VentkidsRankFour",
     "name": "Ventkids Primo Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Ventkids.",
     "type": "Sigil",
     "imageName": "SyndicateVentKidzRankSigilD.png",
@@ -4854,6 +5165,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/VentkidsRankThree",
     "name": "Ventkids Proper Felon Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Ventkids.",
     "type": "Sigil",
     "imageName": "SyndicateVentKidzRankSigilC.png",
@@ -4872,6 +5184,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/VentkidsRankTwo",
     "name": "Ventkids Whozit Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Ventkids.",
     "type": "Sigil",
     "imageName": "SyndicateVentKidzRankSigilB.png",
@@ -4890,6 +5203,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TwitchPromo2021Sigil",
     "name": "Verv Sigil",
+    "codexSecret": false,
     "description": "A compelling badge of honor for the Tenno.",
     "type": "Sigil",
     "imageName": "TwitchPromo2021Sigil.png",
@@ -4900,6 +5214,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianD",
     "name": "Vigilance Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Steel Meridian.",
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel3.png",
@@ -4928,6 +5243,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilH",
     "name": "Viscera Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Red Veil.",
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel7.png",
@@ -4946,6 +5262,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LoginSigilE",
     "name": "Void Gate Sigil",
+    "codexSecret": false,
     "description": "Recalls the place that lies between two realities.",
     "type": "Sigil",
     "imageName": "LoginSigilE.png",
@@ -4956,6 +5273,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveJ",
     "name": "Volition Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Conclave.",
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel9.png",
@@ -4974,6 +5292,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilCaptainVor",
     "name": "Vor Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting Captain Vor.",
     "type": "Sigil",
     "imageName": "CaptainVor.png",
@@ -5004,6 +5323,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/VoxRankTwo",
     "name": "Vox Solaris Agent Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Vox Solaris.",
     "type": "Sigil",
     "imageName": "FactionSigilVoxSolarisLevel2.png",
@@ -5022,6 +5342,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/VoxRankThree",
     "name": "Vox Solaris Hand Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Vox Solaris.",
     "type": "Sigil",
     "imageName": "FactionSigilVoxSolarisLevel3.png",
@@ -5040,6 +5361,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/VoxRankFour",
     "name": "Vox Solaris Instrument Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Vox Solaris.",
     "type": "Sigil",
     "imageName": "FactionSigilVoxSolarisLevel4.png",
@@ -5058,6 +5380,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/VoxRankOne",
     "name": "Vox Solaris Operative Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Vox Solaris.",
     "type": "Sigil",
     "imageName": "FactionSigilVoxSolarisLevel1.png",
@@ -5076,6 +5399,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/VoxRankFive",
     "name": "Vox Solaris Shadow Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Vox Solaris.",
     "type": "Sigil",
     "imageName": "FactionSigilVoxSolarisLevel5.png",
@@ -5094,6 +5418,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisE",
     "name": "Will Sigil",
+    "codexSecret": false,
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel4.png",
@@ -5118,6 +5443,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilXmas2014A",
     "name": "Wreath Sigil",
+    "codexSecret": false,
     "description": "A sigil containing a festive design.",
     "type": "Sigil",
     "imageName": "XmasSigilA.png",
@@ -5128,6 +5454,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WukongDeluxeBSigil",
     "name": "Wukong Qitian Sigil",
+    "codexSecret": false,
     "description": "Show due respect for Wukong Qitian’s power and cunning with this sigil.",
     "type": "Sigil",
     "imageName": "WukongDeluxeBSigil.png",
@@ -5138,6 +5465,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/YareliSigil",
     "name": "Yareli Aquablade Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting Yareli's deadly Aquablades.",
     "type": "Sigil",
     "imageName": "YareliSigil.png",
@@ -5148,6 +5476,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/CNYRoosterCYSigil",
     "name": "Year Of The Rooster Sigil",
+    "codexSecret": false,
     "excludeFromCodex": true,
     "description": "New Year commemorative badge of a Golden Rooster",
     "type": "Sigil",
@@ -5159,6 +5488,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DeathMarkSigilZanuka",
     "name": "Zanuka Sigil",
+    "codexSecret": false,
     "description": "A sigil depicting the emblem of the Zanuka Hunter.",
     "type": "Sigil",
     "imageName": "MarkedForDeathZanuka.png",
@@ -5177,6 +5507,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ZarimanSupporterPackSigil",
     "name": "Zariman Sigil",
+    "codexSecret": false,
     "description": "Represent the Zariman spirit of comradery and ingenuity.",
     "type": "Sigil",
     "imageName": "ZarimanSigil.png",
