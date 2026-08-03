@@ -5762,6 +5762,7 @@
       "Hextra Gyro",
       "Lambeo Moa",
       "Nychus Moa",
+      "Pax Bolt",
       "Phazor Gyro",
       "Puppeteer",
       "Rattleguts",
@@ -8144,7 +8145,7 @@
     "name": "Moonlight Dragonlily",
     "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 6,
+    "itemCount": 10,
     "parents": [
       "Lapis Antitoxin",
       "Nightfall Apothic",
@@ -8761,6 +8762,7 @@
       "Kreska",
       "Munit Gyro",
       "Para Moa",
+      "Pax Charge",
       "Step Tens",
       "Thugs",
       "Twin Kavats"
@@ -11985,7 +11987,7 @@
     "name": "Sunlight Dragonlily",
     "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 4,
+    "itemCount": 10,
     "parents": [
       "Citrine Antitoxin",
       "Lapis Antitoxin",
@@ -12380,6 +12382,7 @@
       "Highbrow",
       "Hothead",
       "Jonsin Bracket",
+      "Pax Soar",
       "Tian Bracket",
       "Zip"
     ],
