@@ -47664,7 +47664,7 @@
         "date": "2018-05-17T14:55:31Z",
         "url": "https://forums.warframe.com/topic/957066-beasts-of-the-sanctuary-update-22200/",
         "additions": "",
-        "changes": "The improvements to Khora keep on coming! We have a number of important fixes that really help with making Khora play better, as well as some changes!\nKhora's Whipclaw can now damage decorations (crates, barrels, etc).\nKhora's Kavat now teleports to a given target instead of pathing there if the target is too far away!\nChanged Khora’s Venari animations from domestic Kavat to Feral Kavat. \nAdjusted a number of Syandanas to fit Khora better.\nFixed using Khora’s Whipclaw on a target causing all enemies affected by Ensnare to be released when the target is killed while ensnared. This one was particularly nasty in practice and made her kit feel weak! \nFixed Khora’s Venari getting locked in her Attack Mode when attempting Mastery Rank tests, which can cause failure on stealth tests (MR9 for example). \nFixed infinite re-whipping for Khora's Whipclaw by flailing the camera around rapidly. \nFixed Ospreys not being fully disabled by Khora’s Ensnare.\nReduced the damage of Khora's Venari in Conclave.",
+        "changes": "The improvements to Khora keep on coming! We have a number of important fixes that really help with making Khora play better, as well as some changes!\nKhora's Whipclaw can now damage decorations (crates, barrels, etc).\nKhora's Kavat now teleports to a given target instead of pathing there if the target is too far away!\nChanged Khora��s Venari animations from domestic Kavat to Feral Kavat. \nAdjusted a number of Syandanas to fit Khora better.\nFixed using Khora’s Whipclaw on a target causing all enemies affected by Ensnare to be released when the target is killed while ensnared. This one was particularly nasty in practice and made her kit feel weak! \nFixed Khora’s Venari getting locked in her Attack Mode when attempting Mastery Rank tests, which can cause failure on stealth tests (MR9 for example). \nFixed infinite re-whipping for Khora's Whipclaw by flailing the camera around rapidly. \nFixed Ospreys not being fully disabled by Khora’s Ensnare.\nReduced the damage of Khora's Venari in Conclave.",
         "fixes": "Fixed a script error with Khora’s Venari. "
       },
       {
@@ -87815,7 +87815,7 @@
         "fixes": "Fixed casting a new Octavia Resonator not attaching to a Mallet if a Resonator is already attached to a Mallet.\nFixed Octavia’s Mallet not appearing for Clients in Conclave."
       },
       {
-        "name": "Octavia’s Anthem: Hotfix 20.0.1",
+        "name": "Octavia���s Anthem: Hotfix 20.0.1",
         "date": "2017-03-24T21:16:29Z",
         "url": "https://forums.warframe.com/topic/776698-octavia%E2%80%99s-anthem-hotfix-2001/",
         "additions": "",
@@ -94394,7 +94394,7 @@
         "url": "https://forums.warframe.com/topic/536207-update-175-the-jordas-precept-hotfix-1751/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Nullifier bubbles not properly stopping Nova’s Molecular Prime, Rhino’s Stomp or Frost��s Abilities."
+        "fixes": "Fixed Nullifier bubbles not properly stopping Nova’s Molecular Prime, Rhino’s Stomp or Frost’s Abilities."
       },
       {
         "name": "Update 17.1.0 - 17.1.4",
@@ -103801,7 +103801,7 @@
         "date": "2016-08-03T21:43:21Z",
         "url": "https://forums.warframe.com/topic/682884-specters-of-the-rail-update-2/",
         "additions": "",
-        "changes": "Increased Kela De Thaym’s resistance to health drain to give her a fighting chance against abilities like Trinity’s Energy Vampire, Mag’s Polarize, and Inaros’ Desiccation. ",
+        "changes": "Increased Kela De Thaym’s resistance to health drain to give her a fighting chance against abilities like Trinity’s Energy Vampire, Mag’s Polarize, and Inaros��� Desiccation. ",
         "fixes": ""
       },
       {
