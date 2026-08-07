@@ -95775,7 +95775,7 @@
         "date": "2014-08-28T13:39:34Z",
         "url": "https://forums.warframe.com/topic/298960-update-145-operation-cryotic-front/",
         "additions": "",
-        "changes": "• Saryn’s Miasma can now be cast mid-air.",
+        "changes": "�� Saryn’s Miasma can now be cast mid-air.",
         "fixes": "• Fixed Infested Ancients and Grineer Scorpions from using their grapple pull ability on Saryn's Molt avatar and Loki's Decoy avatar as it would not behave well (would have them pause for a few moments, if Molt was used again it would script error and break the enemy). This also fixes a similar issue with Vay Hek’s beam-zap attack."
       },
       {
