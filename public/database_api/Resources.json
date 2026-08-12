@@ -3166,10 +3166,6 @@
     "name": "Cryptographic Alu",
     "description": "Excess circuitry disposed of during the Razorback manufacturing process, these components only appear in the vicinity of high level outer-orbit Corpus facilities after a Razorback Armada has been launched.\n\nLocation: Corpus Archwing units on Jupiter and Neptune when a Razorback Armada is active",
     "codexSecret": false,
-    "itemCount": 4,
-    "parents": [
-      "Razorback Cipher"
-    ],
     "type": "Resource",
     "imageName": "RazorbackCipherPart.png",
     "category": "Resources",
@@ -4111,10 +4107,6 @@
     "name": "Dusklight Sarracenia",
     "description": "This robust, carnivorous plant has adapted to conditions in polluted waters. \n\nLocation: Obtained by gathering Dusklight Sarracenia plants growing in Grineer Shipyards found commonly on Ceres",
     "codexSecret": false,
-    "itemCount": 2,
-    "parents": [
-      "Nightfall Apothic"
-    ],
     "type": "Plant",
     "imageName": "CobraLotus.png",
     "category": "Resources",
@@ -4591,7 +4583,6 @@
     "itemCount": 10,
     "parents": [
       "Cryotra",
-      "Focused Nosam Cutter",
       "Korrudo",
       "Kronsh",
       "Plague Keewar",
@@ -5040,7 +5031,6 @@
     "itemCount": 7,
     "parents": [
       "Amprex",
-      "Antiserum Injector",
       "Arca Plasmor",
       "Arca Scisco",
       "Battacor",
@@ -5530,10 +5520,6 @@
     "name": "Frostleaf",
     "description": "This resilient plant provides a natural food source in frigid areas of the Origin system. \n\nLocation: Obtained by gathering Frostleaf plants that grow on Venus, Neptune, and Pluto",
     "codexSecret": false,
-    "itemCount": 8,
-    "parents": [
-      "Sunrise Apothic"
-    ],
     "type": "Plant",
     "imageName": "WildGingerB.png",
     "category": "Resources",
@@ -5975,22 +5961,16 @@
     "codexSecret": false,
     "itemCount": 40,
     "parents": [
-      "Fosfor Blau",
       "Kronsh",
-      "Lanzo Fishing Spear",
       "Pencha Scaffold",
-      "Peram Fishing Spear",
       "Phahd Scaffold",
       "Plague Bokwin",
       "Quartakk",
       "Rabvee",
       "Seekalla",
-      "Shockprod Fishing Spear",
       "Shraksun Scaffold",
       "Shtung",
-      "Stubba",
-      "Stunna Fishing Spear",
-      "Tulok Fishing Spear"
+      "Stubba"
     ],
     "type": "Resource",
     "imageName": "Grokdrul.png",
@@ -6782,12 +6762,9 @@
     "itemCount": 50,
     "parents": [
       "Cela Bracket",
-      "Fosfor Rahd",
       "Korb",
-      "Luminous Dye",
       "Ooltha",
       "Peye",
-      "Pharoma",
       "Plague Akwin",
       "Rahn Prism",
       "Raplak Prism",
@@ -7758,10 +7735,9 @@
     "name": "Lunar Pitcher",
     "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
     "codexSecret": false,
-    "itemCount": 6,
+    "itemCount": 50,
     "parents": [
-      "Seeding Step Ephemera",
-      "Twilight Apothic"
+      "Seeding Step Ephemera"
     ],
     "type": "Plant",
     "imageName": "ZenPitcher.png",
@@ -7830,19 +7806,12 @@
     "codexSecret": false,
     "itemCount": 2,
     "parents": [
-      "Cuthol Bait",
       "Dehtat",
       "Ekwana Ii Jai",
       "Ekwana Ii Ruhang",
-      "Fosfor Blau",
-      "Fosfor Rahd",
-      "Glappid Bait",
       "Jayap",
-      "Norg Bait",
-      "Twilight Bait",
       "Vargeet Ii Jai",
-      "Vargeet Ii Ruhang",
-      "Vasca Curative"
+      "Vargeet Ii Ruhang"
     ],
     "type": "Resource",
     "imageName": "EidolonFruit.png",
@@ -7968,7 +7937,6 @@
     "codexSecret": false,
     "itemCount": 10,
     "parents": [
-      "Advanced Nosam Cutter",
       "Cyath",
       "Dehtat",
       "Dokrahm",
@@ -7980,7 +7948,6 @@
       "Loid Sentinel Wing",
       "Mewan",
       "Shwaak Prism",
-      "Sunpoint Plasma Drill",
       "Vulcax"
     ],
     "buildPrice": 2500,
@@ -8144,13 +8111,9 @@
     "name": "Moonlight Dragonlily",
     "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 6,
+    "itemCount": 10,
     "parents": [
-      "Lapis Antitoxin",
-      "Nightfall Apothic",
-      "The Silver Grove",
-      "Topaz Antitoxin",
-      "Vermillion Antitoxin"
+      "The Silver Grove"
     ],
     "type": "Plant",
     "imageName": "ForestNightUncommon.png",
@@ -8163,13 +8126,6 @@
     "name": "Moonlight Jadeleaf",
     "description": "This rare plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Jadeleaf plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 1,
-    "parents": [
-      "Health Restore (Large)",
-      "Lapis Antitoxin",
-      "Twilight Apothic",
-      "Vermillion Antitoxin"
-    ],
     "type": "Plant",
     "imageName": "ForestNightRare.png",
     "category": "Resources",
@@ -8181,12 +8137,6 @@
     "name": "Moonlight Threshcone",
     "description": "This common plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Threshcone plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 15,
-    "parents": [
-      "Amethyst Antitoxin",
-      "Health Restore (Large)",
-      "Topaz Antitoxin"
-    ],
     "type": "Plant",
     "imageName": "ForestNightCommon.png",
     "category": "Resources",
@@ -8993,18 +8943,10 @@
       "Jai",
       "Jai Ii",
       "Laka",
-      "Lanzo Fishing Spear",
-      "Peppered Bait",
-      "Peram Fishing Spear",
       "Ruhang",
       "Ruhang Ii",
-      "Shockprod Fishing Spear",
-      "Stunna Fishing Spear",
-      "Tulok Fishing Spear",
-      "Twilight Bait",
       "Vargeet Jai",
-      "Vargeet Ruhang",
-      "Vasca Curative"
+      "Vargeet Ruhang"
     ],
     "type": "Resource",
     "imageName": "NistlebrushItem.png",
@@ -10752,10 +10694,6 @@
     "name": "Ruk's Claw",
     "description": "This plant was introduced to arid regions across the Origin System, for its ability to collect moisture in harsh environments. \n\nLocation: Obtained by gathering Ruk's Claw plants that grow on Mars",
     "codexSecret": false,
-    "itemCount": 6,
-    "parents": [
-      "Twilight Apothic"
-    ],
     "type": "Plant",
     "imageName": "GftPlantRuksClawMature.png",
     "category": "Resources",
@@ -11985,12 +11923,9 @@
     "name": "Sunlight Dragonlily",
     "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 4,
+    "itemCount": 10,
     "parents": [
-      "Citrine Antitoxin",
-      "Lapis Antitoxin",
-      "The Silver Grove",
-      "Vermillion Antitoxin"
+      "The Silver Grove"
     ],
     "type": "Plant",
     "imageName": "ForestDayUncommon.png",
@@ -12003,13 +11938,6 @@
     "name": "Sunlight Jadeleaf",
     "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Jadeleaf plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 1,
-    "parents": [
-      "Health Restore (Large)",
-      "Lapis Antitoxin",
-      "Sunrise Apothic",
-      "Vermillion Antitoxin"
-    ],
     "type": "Plant",
     "imageName": "ForestDayRare.png",
     "category": "Resources",
@@ -12021,13 +11949,6 @@
     "name": "Sunlight Threshcone",
     "description": "This common plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Threshcone plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 15,
-    "parents": [
-      "Beryl Antitoxin",
-      "Citrine Antitoxin",
-      "Health Restore (Large)",
-      "Nightfall Apothic"
-    ],
     "type": "Plant",
     "imageName": "ForestDayCommon.png",
     "category": "Resources",
@@ -12069,7 +11990,6 @@
     "itemCount": 10,
     "parents": [
       "Balla",
-      "Focused Nosam Cutter",
       "Ooltha",
       "Plague Kripath",
       "Rahn Prism",
@@ -14098,7 +14018,6 @@
       "Shrewd",
       "Slap",
       "Steadyslam",
-      "Sunpoint Plasma Drill",
       "Tian Bracket",
       "Twin Kavats",
       "Zubb Bracket"
@@ -14587,10 +14506,6 @@
     "name": "Vestan Moss",
     "description": "One of the few known plant species able to thrive on asteroids in deep space. \n\nLocation: Obtained by gathering Vestan Moss plants that grow on Mercury, Saturn, and Sedna",
     "codexSecret": false,
-    "itemCount": 12,
-    "parents": [
-      "Sunrise Apothic"
-    ],
     "type": "Plant",
     "imageName": "MossGroundCoverA.png",
     "category": "Resources",

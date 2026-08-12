@@ -72,6 +72,58 @@
         "name": "Synthula",
         "description": "Distilled fuel for stims.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/NpcBuffs/EventiumBlueprint",
+            "name": "Blueprint",
+            "description": "Distilled fuel for stims.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+            "name": "Gallium",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "codexSecret": false,
+            "itemCount": 1,
+            "imageName": "ComponentGallium.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+            "name": "Morphics",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "codexSecret": false,
+            "itemCount": 1,
+            "imageName": "ComponentMorphic.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+            "name": "Neurodes",
+            "description": "Biotech sensor organ harvested from Infested entities.\n\nLocation: Earth, Lua, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 1,
+            "imageName": "ComponentNeurode.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "itemCount": 2,
         "imageName": "Eventium.png",
         "tradable": false,
@@ -125,10 +177,62 @@
         "description": "Ferros that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "codexSecret": false,
         "itemCount": 40,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/UncommonOreAAlloyABlueprint",
+            "name": "Blueprint",
+            "description": "Ferros that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAItem",
+            "name": "Ferros",
+            "description": "A resilient metal that is hardened by impurities within.\n\nLocation: Plains of Eidolon (Earth) from Red Mining Veins and Thumpers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "UncommonOreA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+            "name": "Plastids",
+            "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+            "codexSecret": false,
+            "itemCount": 400,
+            "imageName": "ComponentPlastids.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 200,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "UncommonOreAAlloyA.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemACutAItem",
@@ -136,10 +240,38 @@
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "codexSecret": false,
         "itemCount": 2,
+        "buildPrice": 2500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/UncommonGemACutABlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemAItem",
+            "name": "Veridos",
+            "description": "A highly reflective, green gem.\n\nLocation: Plains of Eidolon (Earth) from Blue Mining Veins and Thumpers",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "UncommonGemA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "imageName": "UncommonGemACutA.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Gear",
@@ -186,11 +318,75 @@
         "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
         "codexSecret": false,
         "itemCount": 1,
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/MorphicsResourceBlueprint",
+            "name": "Blueprint",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+            "name": "Polymer Bundle",
+            "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
+            "codexSecret": false,
+            "itemCount": 5000,
+            "imageName": "PolymerBundle.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "ComponentMorphic.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
@@ -422,10 +618,138 @@
         "description": "ClanTech weaponized containment field to contain superheated substances.\n\nLocation: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards",
         "codexSecret": false,
         "itemCount": 2,
+        "buildPrice": 15000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Research/EnergyComponentBlueprint",
+            "name": "Blueprint",
+            "description": "ClanTech weaponized containment field to contain superheated substances.\n\nLocation: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+            "name": "Control Module",
+            "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 1,
+            "buildPrice": 15000,
+            "buildTime": 3600,
+            "skipBuildTimePrice": 2,
+            "buildQuantity": 1,
+            "consumeOnBuild": false,
+            "components": [
+              {
+                "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                "name": "Alloy Plate",
+                "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
+                "codexSecret": false,
+                "itemCount": 10000,
+                "imageName": "AlloyPlate.png",
+                "tradable": false,
+                "drops": [],
+                "masterable": false,
+                "type": "Resource"
+              },
+              {
+                "uniqueName": "/Lotus/Types/Recipes/Components/ControlModuleResourceBlueprint",
+                "name": "Blueprint",
+                "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
+                "itemCount": 1,
+                "imageName": "blueprint.png",
+                "tradable": false,
+                "masterable": false,
+                "drops": []
+              },
+              {
+                "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+                "name": "Ferrite",
+                "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+                "codexSecret": false,
+                "itemCount": 10000,
+                "imageName": "ComponentFerrite.png",
+                "tradable": false,
+                "drops": [],
+                "masterable": false
+              },
+              {
+                "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+                "name": "Nano Spores",
+                "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+                "codexSecret": false,
+                "itemCount": 25000,
+                "imageName": "ComponentNanospores.png",
+                "tradable": false,
+                "drops": [],
+                "masterable": false,
+                "type": "Resource"
+              },
+              {
+                "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+                "name": "Salvage",
+                "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+                "codexSecret": false,
+                "itemCount": 10000,
+                "imageName": "ComponentSalvage.png",
+                "tradable": false,
+                "drops": [],
+                "masterable": false,
+                "type": "Resource"
+              }
+            ],
+            "imageName": "ControlModule.png",
+            "tradable": false,
+            "masterable": false,
+            "type": "Resource",
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Research/EnergyFragment",
+            "name": "Fieldron Sample",
+            "description": "This destroyed Fieldron could further research into super-heated containment fields.\n\nLocation: Venus, Mars, Jupiter, Europa, Neptune, and Pluto",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "CorpusFragment.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+            "name": "Plastids",
+            "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+            "codexSecret": false,
+            "itemCount": 250,
+            "imageName": "ComponentPlastids.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "CorpusComponent.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
@@ -904,6 +1228,58 @@
         "name": "Synthula",
         "description": "Distilled fuel for stims.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/NpcBuffs/EventiumBlueprint",
+            "name": "Blueprint",
+            "description": "Distilled fuel for stims.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+            "name": "Gallium",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "codexSecret": false,
+            "itemCount": 1,
+            "imageName": "ComponentGallium.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+            "name": "Morphics",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "codexSecret": false,
+            "itemCount": 1,
+            "imageName": "ComponentMorphic.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+            "name": "Neurodes",
+            "description": "Biotech sensor organ harvested from Infested entities.\n\nLocation: Earth, Lua, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 1,
+            "imageName": "ComponentNeurode.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "itemCount": 2,
         "imageName": "Eventium.png",
         "tradable": false,
@@ -1503,6 +1879,58 @@
         "name": "Synthula",
         "description": "Distilled fuel for stims.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/NpcBuffs/EventiumBlueprint",
+            "name": "Blueprint",
+            "description": "Distilled fuel for stims.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+            "name": "Gallium",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "codexSecret": false,
+            "itemCount": 1,
+            "imageName": "ComponentGallium.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+            "name": "Morphics",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "codexSecret": false,
+            "itemCount": 1,
+            "imageName": "ComponentMorphic.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+            "name": "Neurodes",
+            "description": "Biotech sensor organ harvested from Infested entities.\n\nLocation: Earth, Lua, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 1,
+            "imageName": "ComponentNeurode.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "itemCount": 2,
         "imageName": "Eventium.png",
         "tradable": false,
@@ -1935,11 +2363,75 @@
         "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
         "codexSecret": false,
         "itemCount": 1,
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/GalliumResourceBlueprint",
+            "name": "Blueprint",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+            "name": "Polymer Bundle",
+            "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
+            "codexSecret": false,
+            "itemCount": 5000,
+            "imageName": "PolymerBundle.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "ComponentGallium.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
@@ -2559,6 +3051,17 @@
     "name": "Fass Residue",
     "description": "A chunk of the wyrm Fass, collected after his explosive death in the Cambion Drift. Used to attract Glutinox on the surface during Vome, Ostimyr at surface hotspots during Fass, and Vitreospina in caves during Fass/Vome.\n\nLocation: Cambion Drift on Deimos while Vome is active",
     "codexSecret": false,
+    "itemCount": 6,
+    "parents": [
+      "Desus Antigen",
+      "Elasmun Antigen",
+      "Ibexan Antigen",
+      "Iranon Antigen",
+      "Plagen Antigen",
+      "Poxi Antigen",
+      "Tethron Antigen",
+      "Virox Antigen"
+    ],
     "type": "Fish Bait",
     "imageName": "WyrmBaitInfested.png",
     "category": "Gear",
@@ -2664,10 +3167,38 @@
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "codexSecret": false,
         "itemCount": 1,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/CommonGemBCutABlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBItem",
+            "name": "Devar",
+            "description": "A cloudy crystal.\n\nLocation: Plains of Eidolon (Earth) from Blue Mining Veins and Thumpers",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "CommonGemB.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "imageName": "CommonGemBCutA.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAAlloyAItem",
@@ -2675,10 +3206,62 @@
         "description": "Pyrol that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "codexSecret": false,
         "itemCount": 40,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/CommonOreAAlloyABlueprint",
+            "name": "Blueprint",
+            "description": "Pyrol that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+            "name": "Cryotic",
+            "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\n\nLocation: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune",
+            "codexSecret": false,
+            "itemCount": 200,
+            "imageName": "ComponentCryotic.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAItem",
+            "name": "Pyrol",
+            "description": "A tarnished, brittle metal.\n\nLocation: Plains of Eidolon (Earth) from Red Mining Veins and Thumpers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "CommonOreA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 50,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "CommonOreAAlloyA.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemACutAItem",
@@ -2686,10 +3269,38 @@
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "codexSecret": false,
         "itemCount": 1,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemAItem",
+            "name": "Azurite",
+            "description": "A blue gem layered with impurities.\n\nLocation: Plains of Eidolon (Earth) from Blue Mining Veins and Thumpers",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "CommonGemA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/CommonGemACutABlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "imageName": "CommonGemACutA.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Gear",
@@ -4745,11 +5356,75 @@
         "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
         "codexSecret": false,
         "itemCount": 2,
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/MorphicsResourceBlueprint",
+            "name": "Blueprint",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+            "name": "Polymer Bundle",
+            "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
+            "codexSecret": false,
+            "itemCount": 5000,
+            "imageName": "PolymerBundle.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "ComponentMorphic.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem",
@@ -5795,10 +6470,61 @@
         "description": "Coprun that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "codexSecret": false,
         "itemCount": 100,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/CommonOreBAlloyABlueprint",
+            "name": "Blueprint",
+            "description": "Coprun that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreBItem",
+            "name": "Coprun",
+            "description": "A soft, malleable metal.\n\nLocation: Plains of Eidolon (Earth) from Red Mining Veins",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "CommonOreB.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 400,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 50,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "CommonOreBAlloyA.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAAlloyAItem",
@@ -5806,10 +6532,62 @@
         "description": "Ferros that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "codexSecret": false,
         "itemCount": 80,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/UncommonOreAAlloyABlueprint",
+            "name": "Blueprint",
+            "description": "Ferros that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAItem",
+            "name": "Ferros",
+            "description": "A resilient metal that is hardened by impurities within.\n\nLocation: Plains of Eidolon (Earth) from Red Mining Veins and Thumpers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "UncommonOreA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+            "name": "Plastids",
+            "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+            "codexSecret": false,
+            "itemCount": 400,
+            "imageName": "ComponentPlastids.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 200,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "UncommonOreAAlloyA.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
@@ -6672,11 +7450,75 @@
         "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
         "codexSecret": false,
         "itemCount": 3,
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/GalliumResourceBlueprint",
+            "name": "Blueprint",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+            "name": "Polymer Bundle",
+            "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
+            "codexSecret": false,
+            "itemCount": 5000,
+            "imageName": "PolymerBundle.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "ComponentGallium.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
@@ -6769,6 +7611,58 @@
         "name": "Synthula",
         "description": "Distilled fuel for stims.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/NpcBuffs/EventiumBlueprint",
+            "name": "Blueprint",
+            "description": "Distilled fuel for stims.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+            "name": "Gallium",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "codexSecret": false,
+            "itemCount": 1,
+            "imageName": "ComponentGallium.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+            "name": "Morphics",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "codexSecret": false,
+            "itemCount": 1,
+            "imageName": "ComponentMorphic.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+            "name": "Neurodes",
+            "description": "Biotech sensor organ harvested from Infested entities.\n\nLocation: Earth, Lua, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 1,
+            "imageName": "ComponentNeurode.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "itemCount": 2,
         "imageName": "Eventium.png",
         "tradable": false,
@@ -7246,10 +8140,62 @@
         "description": "Pyrol that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "codexSecret": false,
         "itemCount": 40,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/CommonOreAAlloyABlueprint",
+            "name": "Blueprint",
+            "description": "Pyrol that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+            "name": "Cryotic",
+            "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\n\nLocation: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune",
+            "codexSecret": false,
+            "itemCount": 200,
+            "imageName": "ComponentCryotic.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAItem",
+            "name": "Pyrol",
+            "description": "A tarnished, brittle metal.\n\nLocation: Plains of Eidolon (Earth) from Red Mining Veins and Thumpers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "CommonOreA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 50,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "CommonOreAAlloyA.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Gear",
@@ -8742,10 +9688,62 @@
         "description": "Pyrol that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "codexSecret": false,
         "itemCount": 40,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/CommonOreAAlloyABlueprint",
+            "name": "Blueprint",
+            "description": "Pyrol that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+            "name": "Cryotic",
+            "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\n\nLocation: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune",
+            "codexSecret": false,
+            "itemCount": 200,
+            "imageName": "ComponentCryotic.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAItem",
+            "name": "Pyrol",
+            "description": "A tarnished, brittle metal.\n\nLocation: Plains of Eidolon (Earth) from Red Mining Veins and Thumpers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "CommonOreA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 50,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "CommonOreAAlloyA.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Gear",
@@ -8804,10 +9802,62 @@
             "description": "Ferros that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
             "codexSecret": false,
             "itemCount": 40,
+            "buildPrice": 1000,
+            "buildTime": 60,
+            "skipBuildTimePrice": 5,
+            "buildQuantity": 20,
+            "consumeOnBuild": false,
+            "components": [
+              {
+                "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/UncommonOreAAlloyABlueprint",
+                "name": "Blueprint",
+                "description": "Ferros that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+                "itemCount": 1,
+                "imageName": "blueprint.png",
+                "tradable": false,
+                "masterable": false,
+                "drops": []
+              },
+              {
+                "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAItem",
+                "name": "Ferros",
+                "description": "A resilient metal that is hardened by impurities within.\n\nLocation: Plains of Eidolon (Earth) from Red Mining Veins and Thumpers",
+                "codexSecret": false,
+                "itemCount": 20,
+                "imageName": "UncommonOreA.png",
+                "tradable": false,
+                "drops": [],
+                "masterable": false
+              },
+              {
+                "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+                "name": "Plastids",
+                "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+                "codexSecret": false,
+                "itemCount": 400,
+                "imageName": "ComponentPlastids.png",
+                "tradable": false,
+                "drops": [],
+                "masterable": false,
+                "type": "Resource"
+              },
+              {
+                "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+                "name": "Rubedo",
+                "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+                "codexSecret": false,
+                "itemCount": 200,
+                "imageName": "ComponentRubedo.png",
+                "tradable": false,
+                "drops": [],
+                "masterable": false,
+                "type": "Resource"
+              }
+            ],
             "imageName": "UncommonOreAAlloyA.png",
             "tradable": false,
-            "drops": [],
-            "masterable": false
+            "masterable": false,
+            "drops": []
           },
           {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemACutAItem",
@@ -8815,10 +9865,38 @@
             "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
             "codexSecret": false,
             "itemCount": 2,
+            "buildPrice": 2500,
+            "buildTime": 60,
+            "skipBuildTimePrice": 5,
+            "buildQuantity": 10,
+            "consumeOnBuild": false,
+            "components": [
+              {
+                "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/UncommonGemACutABlueprint",
+                "name": "Blueprint",
+                "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+                "itemCount": 1,
+                "imageName": "blueprint.png",
+                "tradable": false,
+                "masterable": false,
+                "drops": []
+              },
+              {
+                "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemAItem",
+                "name": "Veridos",
+                "description": "A highly reflective, green gem.\n\nLocation: Plains of Eidolon (Earth) from Blue Mining Veins and Thumpers",
+                "codexSecret": false,
+                "itemCount": 10,
+                "imageName": "UncommonGemA.png",
+                "tradable": false,
+                "drops": [],
+                "masterable": false
+              }
+            ],
             "imageName": "UncommonGemACutA.png",
             "tradable": false,
-            "drops": [],
-            "masterable": false
+            "masterable": false,
+            "drops": []
           }
         ],
         "itemCount": 1,
@@ -8855,10 +9933,38 @@
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "codexSecret": false,
         "itemCount": 2,
+        "buildPrice": 2500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/UncommonGemACutABlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemAItem",
+            "name": "Veridos",
+            "description": "A highly reflective, green gem.\n\nLocation: Plains of Eidolon (Earth) from Blue Mining Veins and Thumpers",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "UncommonGemA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "imageName": "UncommonGemACutA.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
@@ -8866,10 +9972,62 @@
         "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 30,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+            "name": "Plastids",
+            "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+            "codexSecret": false,
+            "itemCount": 100,
+            "imageName": "ComponentPlastids.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAItem",
+            "name": "Travoride",
+            "description": "A mineral hardened by the crushing pressure of the Venusian atmosphere.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "imageName": "SolarisCommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Gear",
@@ -8926,11 +10084,75 @@
         "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
         "codexSecret": false,
         "itemCount": 2,
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/MorphicsResourceBlueprint",
+            "name": "Blueprint",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+            "name": "Polymer Bundle",
+            "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
+            "codexSecret": false,
+            "itemCount": 5000,
+            "imageName": "PolymerBundle.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "ComponentMorphic.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem",
@@ -9394,10 +10616,62 @@
         "description": "Pyrol that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "codexSecret": false,
         "itemCount": 40,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/CommonOreAAlloyABlueprint",
+            "name": "Blueprint",
+            "description": "Pyrol that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+            "name": "Cryotic",
+            "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\n\nLocation: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune",
+            "codexSecret": false,
+            "itemCount": 200,
+            "imageName": "ComponentCryotic.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAItem",
+            "name": "Pyrol",
+            "description": "A tarnished, brittle metal.\n\nLocation: Plains of Eidolon (Earth) from Red Mining Veins and Thumpers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "CommonOreA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 50,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "CommonOreAAlloyA.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Gear",
@@ -9455,11 +10729,75 @@
         "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
         "codexSecret": false,
         "itemCount": 2,
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/MorphicsResourceBlueprint",
+            "name": "Blueprint",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+            "name": "Polymer Bundle",
+            "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
+            "codexSecret": false,
+            "itemCount": 5000,
+            "imageName": "PolymerBundle.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "ComponentMorphic.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/GftPlantRuksClawMaturePlantItem",
@@ -10013,6 +11351,17 @@
     "name": "Vome Residue",
     "description": "A gobbet of raw flesh, fallen from the wyrm Vome in her death spasm. Used to attract Chondricord and Duriod in Cambion Drift cave hotspots during Fass and Vome.\n\nLocation: Cambion Drift on Deimos while Fass is active",
     "codexSecret": false,
+    "itemCount": 6,
+    "parents": [
+      "Adra Mutagen",
+      "Arioli Mutagen",
+      "Chiten Mutagen",
+      "Elsa Mutagen",
+      "Leptosam Mutagen",
+      "Monachod Mutagen",
+      "Phijar Mutagen",
+      "Zarim Mutagen"
+    ],
     "type": "Fish Bait",
     "imageName": "WyrmBaitEntrati.png",
     "category": "Gear",
