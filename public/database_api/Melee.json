@@ -17793,7 +17793,6 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Dorrclave.png?30250",
     "wikiaUrl": "https://wiki.warframe.com/w/Dorrclave",
     "introduced": {
       "name": "Update 34.0",
@@ -18161,7 +18160,6 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DragonNikana.png?20efa",
     "wikiaUrl": "https://wiki.warframe.com/w/Dragon_Nikana",
     "introduced": {
       "name": "Update 13.0",
@@ -24988,7 +24986,7 @@
       0
     ],
     "totalDamage": 192,
-    "description": "A single blade for more precision. The Ether Sword cuts so cleanly that it was considered by the Tenno to be a more humane weapon for ‘cleansing’ infested allies.",
+    "description": "A single blade for more precision. The Ether Sword cuts so cleanly that it was considered by the Tenno to be a more humane weapon for ‘cleansing' infested allies.",
     "criticalChance": 0.1,
     "criticalMultiplier": 1.5,
     "procChance": 0.34000003,
@@ -25031,7 +25029,7 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/EtherSwordBlueprint",
         "name": "Blueprint",
-        "description": "A single blade for more precision. The Ether Sword cuts so cleanly that it was considered by the Tenno to be a more humane weapon for ‘cleansing’ infested allies.",
+        "description": "A single blade for more precision. The Ether Sword cuts so cleanly that it was considered by the Tenno to be a more humane weapon for ‘cleansing' infested allies.",
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
@@ -91319,7 +91317,7 @@
       0
     ],
     "totalDamage": 245,
-    "description": "Fashioned from the willingly donated bone of the Sentient Ur-Hatho and embellished by Orokin luxurator Sembik Vol, Venato Prime was to be wielded against “common enemies” of the united peoples – had any ever emerged from the darkness beyond Tau.",
+    "description": "Fashioned from the willingly donated bone of the Sentient Ur-Hatho and embellished by Orokin luxurator Sembik Vol, Venato Prime was to be wielded against 'common enemies' of the united peoples – had any ever emerged from the darkness beyond Tau.",
     "criticalChance": 0.34,
     "criticalMultiplier": 2.3,
     "procChance": 0.31999999,
@@ -91420,7 +91418,7 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/VentoPrimeBlueprint",
         "name": "Blueprint",
-        "description": "Fashioned from the willingly donated bone of the Sentient Ur-Hatho and embellished by Orokin luxurator Sembik Vol, Venato Prime was to be wielded against “common enemies” of the united peoples – had any ever emerged from the darkness beyond Tau.",
+        "description": "Fashioned from the willingly donated bone of the Sentient Ur-Hatho and embellished by Orokin luxurator Sembik Vol, Venato Prime was to be wielded against 'common enemies' of the united peoples – had any ever emerged from the darkness beyond Tau.",
         "itemCount": 1,
         "primeSellingPrice": 45,
         "imageName": "blueprint.png",
@@ -100450,7 +100448,6 @@
     ],
     "tags": [],
     "stancePolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/WolfSledge.png?02419",
     "wikiaUrl": "https://wiki.warframe.com/w/Wolf_Sledge",
     "introduced": {
       "name": "Update 24.3",

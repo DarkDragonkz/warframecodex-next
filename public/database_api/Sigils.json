@@ -1334,6 +1334,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NightwaveAmirSigil",
+    "name": "Dj Shockwave Sigil",
+    "codexSecret": false,
+    "description": "A sigil commemorating when Amir took over the airwaves as DJ Shockwave.",
+    "type": "Sigil",
+    "imageName": "AmirHijackRadioSigil.png",
+    "category": "Sigils",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DogDaysSigil",
     "name": "Dog Days Sigil",
     "codexSecret": false,
@@ -1345,12 +1356,34 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NightwaveDrippyGraffitiSigil",
+    "name": "Drippy Dog Days Sigil",
+    "codexSecret": false,
+    "description": "Beat the heat like it's 1999 with this Drippy sigil!",
+    "type": "Sigil",
+    "imageName": "DrippyWatergun.png",
+    "category": "Sigils",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/1999DrippySigil",
     "name": "Drippy Sigil",
     "codexSecret": false,
-    "description": "Party like it’s 1999 with this Drippy Sigil!",
+    "description": "Party like it's 1999 with this Drippy Sigil!",
     "type": "Sigil",
     "imageName": "1999Drippy.png",
+    "category": "Sigils",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NightwaveDrippy2Sigil",
+    "name": "Drippy Splash Sigil",
+    "codexSecret": false,
+    "description": "This Drippy sigil adds a little splash and a lot of drip.",
+    "type": "Sigil",
+    "imageName": "DrippySplash.png",
     "category": "Sigils",
     "tradable": false,
     "masterable": false
@@ -4792,6 +4825,17 @@
     "description": "A sigil for VIP Tenno",
     "type": "Sigil",
     "imageName": "TennoVIP2024.png",
+    "category": "Sigils",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoVIP2026ChinaSigil",
+    "name": "Tennovip Xi'An 2026 Sigil",
+    "codexSecret": true,
+    "description": "A sigil for VIP Tenno.",
+    "type": "Sigil",
+    "imageName": "TennoVIP2026ChinaSigil.png",
     "category": "Sigils",
     "tradable": false,
     "masterable": false

@@ -12,6 +12,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/ShockwaveTitle",
+    "name": "90's Kid Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/NewWar/LisetPropFamilyPortrait",
     "name": "A Lost Time",
     "description": "A family portrait found on a shelf in a familiar Zariman cabin, it may stir memories.",
@@ -565,6 +576,17 @@
         "fixes": "Additionally, a new Accessibility setting has been added titled 'Hold Button for Struggle Action'. This allows you to choose either 'Hold' or 'Tap' when confronted with a struggle context action, where typically mashing of a button would be requested. We recommend that you put this setting to your preference before initiating The New War Quest to ensure you have the best experience. Players can turn this on in the Controls options menu at any time in the quest, just above the Archwing section."
       }
     ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Crowns/SWachetaSignaCrown",
+    "name": "Acheta Signa",
+    "codexSecret": false,
+    "description": "A unique signa for your Warframe, designed by blazingcobalt & Ritens.",
+    "type": "Skin",
+    "imageName": "SWAchetaSigna.png",
+    "category": "Skins",
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3331,6 +3353,18 @@
     "codexSecret": true,
     "type": "Fur Color",
     "imageName": "KavatColourTertiaryB.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/Kills100Title",
+    "name": "Angel Of Death Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -6656,7 +6690,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyArthur",
     "name": "Arthur Floof",
-    "description": "“My studies of the 1999 period have revealed a priceless relic known as the Stuffie Buddy. We must recreate the wonders of the past.” - Loid",
+    "description": "'My studies of the 1999 period have revealed a priceless relic known as the Stuffie Buddy. We must recreate the wonders of the past.' - Loid",
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "PlushyArthur.png",
@@ -7830,6 +7864,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAthletic",
     "name": "Athletic Disc Player And Towel",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Get your game on with this exclusive line of sportswear-inspired garments and accessories.",
     "type": "Skin",
     "imageName": "SkirtAthletic.png",
@@ -7852,6 +7887,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAthletic",
     "name": "Athletic Leggings",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Get your game on with this exclusive line of sportswear-inspired garments and accessories.",
     "type": "Skin",
     "imageName": "LeggingsAthletic.png",
@@ -7874,6 +7910,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAthletic",
     "name": "Athletic Shirt",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Get your game on with this exclusive line of sportswear-inspired garments and accessories.",
     "type": "Skin",
     "imageName": "SuitAthletic.png",
@@ -7896,6 +7933,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAthletic",
     "name": "Athletic Sleeves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Get your game on with this exclusive line of sportswear-inspired garments and accessories.",
     "type": "Skin",
     "imageName": "SleevesAthletic.png",
@@ -8337,6 +8375,17 @@
         "fixes": "Atlas Telamon Helmet by artarrwen"
       }
     ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/AtomicycleKeychainMeleeDangle",
+    "name": "Atomicycle Key Sugatra",
+    "codexSecret": false,
+    "description": "Never lose your keys again with this convenient sugatra.",
+    "type": "Skin",
+    "imageName": "AtomicycleKeychainMeleeDangle.png",
+    "category": "Skins",
+    "tradable": false,
     "masterable": false
   },
   {
@@ -10087,6 +10136,39 @@
     "description": "The standard issue skin for the Baruuk Prime Warframe.",
     "type": "Skin",
     "imageName": "BaruukPrime.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/BaruukDeluxeIIHelmet",
+    "name": "Baruuk Shaoshi Helmet",
+    "codexSecret": false,
+    "description": "Baruuk Shaoshi's signature helmet.",
+    "type": "Skin",
+    "imageName": "BaruukDeluxeIIHelmet.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/BaruukDeluxeIIAux",
+    "name": "Baruuk Shaoshi Ritual Shawl",
+    "codexSecret": false,
+    "description": "Baruuk Shaoshi's signature ritual shawl.",
+    "type": "Skin",
+    "imageName": "BaruukDeluxeIIAux.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/BaruukDeluxeIISkin",
+    "name": "Baruuk Shaoshi Skin",
+    "codexSecret": false,
+    "description": "Fear the gaze of Baruuk Shaoshi's mystic eye. His martial mastery, honed over long ages of defending sacred ground, is once again brought to bear against all enemies of peace.",
+    "type": "Skin",
+    "imageName": "BaruukDeluxeIISkin.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -15496,6 +15578,28 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave1999ArthurCharacterSheetPoster",
+    "name": "Cedric Dawnsong Character Sheet Poster",
+    "description": "Character sheet for Arthur's Fables & Frontiers character. Artwork by community artist Brighan.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "Nightwave1999ArthurCharacterSheetPoster.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave1999FFArthurPoster",
+    "name": "Cedric Dawnsong Poster",
+    "description": "Concept art of Arthur's Fables & Frontiers character. Artwork by community artist Brighan.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "Nightwave1999FFArthurPoster.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/ConclaveCape",
     "name": "Celestia Syandana",
     "codexSecret": false,
@@ -15544,6 +15648,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultE",
     "name": "Ceno Apparel",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Drifter.",
     "type": "Skin",
     "imageName": "SkirtAdultE.png",
@@ -15915,6 +16020,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultE",
     "name": "Ceno Cuirass",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Drifter.",
     "type": "Skin",
     "imageName": "BodySuitAdultE.png",
@@ -16013,6 +16119,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultE",
     "name": "Ceno Greaves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Drifter.",
     "type": "Skin",
     "imageName": "LeggingsAdultE.png",
@@ -16111,6 +16218,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultE",
     "name": "Ceno Helmet",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Drifter.",
     "type": "Skin",
     "imageName": "HoodAdultE.png",
@@ -16209,6 +16317,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultE",
     "name": "Ceno Pauldrons",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Drifter.",
     "type": "Skin",
     "imageName": "SleevesAdultE.png",
@@ -16276,6 +16385,17 @@
     "description": "A Centuria Syandana that has been adorned with a sizzling design.",
     "type": "Skin",
     "imageName": "SummerSolsticeCenturia.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Crowns/SWCenturioSignaCrown",
+    "name": "Centurio Signa",
+    "codexSecret": false,
+    "description": "A unique signa for your Warframe, designed by Lubox.",
+    "type": "Skin",
+    "imageName": "SWCenturioSigna.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -18085,6 +18205,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtLasrianB",
     "name": "Chymerist Apparel",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Operator's too.",
     "type": "Skin",
     "imageName": "SkirtLasrianB.png",
@@ -18107,6 +18228,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOperatorLasrianB",
     "name": "Chymerist Boots",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Operator's too.",
     "type": "Skin",
     "imageName": "LeggingsLasrianB.png",
@@ -18129,6 +18251,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOperatorLasrianB",
     "name": "Chymerist Gloves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Operator's too.",
     "type": "Skin",
     "imageName": "SleevesLasrianB.png",
@@ -18151,6 +18274,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOperatorLasrianB",
     "name": "Chymerist Mask",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Operator's too.",
     "type": "Skin",
     "imageName": "HoodLasrianB.png",
@@ -18173,6 +18297,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOperatorLasrianB",
     "name": "Chymerist Uniform",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Operator's too.",
     "type": "Skin",
     "imageName": "SuitLasrianB.png",
@@ -20321,6 +20446,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Emotes/FinishLine",
+    "name": "Come Here Emote",
+    "description": "An encouraging display for a beloved companion.\n\nEquip this emote using the Gear Wheel tab in the Arsenal.",
+    "codexSecret": false,
+    "type": "Emotes",
+    "imageName": "FinishLineEmote.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/Emotes/CaptainEmote",
     "name": "Commander",
     "description": "A display of confidence and authority.",
@@ -20533,6 +20669,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultPrimeB",
     "name": "Commodore Prime Apparel",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Take command with this regal Drifter suit.",
     "type": "Skin",
     "imageName": "SkirtAdultPrimeB.png",
@@ -20566,6 +20703,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeB",
     "name": "Commodore Prime Cuirass",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Take command with this regal Drifter suit.",
     "type": "Skin",
     "imageName": "BodySuitAdultPrimeB.png",
@@ -20588,6 +20726,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeB",
     "name": "Commodore Prime Greaves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Take command with this regal Drifter suit.",
     "type": "Skin",
     "imageName": "LeggingsAdultPrimeB.png",
@@ -20610,6 +20749,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeB",
     "name": "Commodore Prime Mask",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Take command with this regal Drifter suit.",
     "type": "Skin",
     "imageName": "HoodAdultPrimeB.png",
@@ -20632,6 +20772,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeB",
     "name": "Commodore Prime Pauldrons",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Take command with this regal Drifter suit.",
     "type": "Skin",
     "imageName": "SleevesAdultPrimeB.png",
@@ -21706,6 +21847,18 @@
   {
     "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleFollie",
     "name": "Conscience Painter Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/BaruukTitle",
+    "name": "Conscientious Objector Honoria",
     "description": "An Honoria for your profile.",
     "codexSecret": false,
     "excludeFromCodex": true,
@@ -26621,6 +26774,18 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/FrostTitle",
+    "name": "Cryomancer Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWCryonaScarf",
     "name": "Cryona Syandana",
     "codexSecret": false,
@@ -29409,6 +29574,18 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/FromOnHighTitle",
+    "name": "Death From Above Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/StalkerShoulderArmor/StalkerShoulderArmorA",
     "name": "Deathmark Shoulder Armor",
     "codexSecret": true,
@@ -31912,7 +32089,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyDJRomHuman",
     "name": "Dj Rom Floof",
-    "description": "When DJ RoM speaks, the world tunes in! And this reporter was no exception. The whole crew from On-lyne nodded along as DJ said, “We became a group because we share a love for music.” Talk about squad goals!",
+    "description": "When DJ RoM speaks, the world tunes in! And this reporter was no exception. The whole crew from On-lyne nodded along as DJ said, 'We became a group because we share a love for music.' Talk about squad goals!",
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "PlushyDJRomHuman.png",
@@ -31940,6 +32117,30 @@
     "description": "The standard issue skin for the Djinn Sentinel.",
     "type": "Skin",
     "imageName": "Djinn.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TrinityTitle",
+    "name": "Doctor Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/SharpShooterTitle",
+    "name": "Doesn'T Miss Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -35053,7 +35254,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneDuviri",
     "name": "Domestik Dais Drone",
-    "description": "Whether you’re a commoner or a king, this diligent drone will keep your home spotless.",
+    "description": "Whether you're a commoner or a king, this diligent drone will keep your home spotless.",
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "DuviriCleaningDrone.png",
@@ -36150,6 +36351,52 @@
     "description": "A badge of honor befitting one of the genuine truth-seekers. From another time, in another world...",
     "type": "Skin",
     "imageName": "1999CommunityARGEmblem.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/DrippyBackground",
+    "name": "Drippy Background",
+    "description": "A custom UI background.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Theme Background",
+    "imageName": "StyleDrippyBackground.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyDrippy",
+    "name": "Drippy Floof",
+    "description": "In case of waterworks, this cuddly Drippy floof is here to help!",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "PlushyDrippy.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/DrippyKeychainMeleeDangle",
+    "name": "Drippy Keychain Sugatra",
+    "codexSecret": false,
+    "description": "Show off your drip with this drippy Drippy sugatra.",
+    "type": "Skin",
+    "imageName": "DrippyKeychainMeleeDangle.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Interface/Graphics/CustomUI/DrippyStyle",
+    "name": "Drippy Theme",
+    "description": "A custom UI color theme.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Themes",
+    "imageName": "StyleDrippy.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -39851,6 +40098,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultInfested",
     "name": "Emissary Greaves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Leggings for a Drifter outfit.",
     "type": "Skin",
     "imageName": "LeggingsAdultInfestedA.png",
@@ -39873,6 +40121,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultInfested",
     "name": "Emissary Hood",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A hood belonging to a Drifter outfit.",
     "type": "Skin",
     "imageName": "HoodAdultInfestedA.png",
@@ -39906,6 +40155,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultInfested",
     "name": "Emissary Sleeves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Sleeves for a Drifter outfit.",
     "type": "Skin",
     "imageName": "SleevesAdultInfestedA.png",
@@ -39928,6 +40178,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultInfested",
     "name": "Emissary Suit",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "The suit of a Drifter outfit.",
     "type": "Skin",
     "imageName": "BodySuitAdultInfestedA.png",
@@ -40256,6 +40507,289 @@
     "excludeFromCodex": true,
     "type": "Ship Decoration",
     "imageName": "ORKxLabLightWallCandleA.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerNightwave1999Item",
+    "name": "Entropic Color Palette",
+    "description": "A selection of colors for when the usual upbeat charm just won't do.",
+    "codexSecret": false,
+    "hexColours": [
+      {
+        "value": "0x008A4DF3"
+      },
+      {
+        "value": "0x008546F2"
+      },
+      {
+        "value": "0x00813FF2"
+      },
+      {
+        "value": "0x007C38F2"
+      },
+      {
+        "value": "0x007830F2"
+      },
+      {
+        "value": "0x007329F2"
+      },
+      {
+        "value": "0x006E22F2"
+      },
+      {
+        "value": "0x006A1BF2"
+      },
+      {
+        "value": "0x006513F2"
+      },
+      {
+        "value": "0x00610CF2"
+      },
+      {
+        "value": "0x005C05F2"
+      },
+      {
+        "value": "0x005905EB"
+      },
+      {
+        "value": "0x005605E3"
+      },
+      {
+        "value": "0x005304DB"
+      },
+      {
+        "value": "0x005004D4"
+      },
+      {
+        "value": "0x004D04CC"
+      },
+      {
+        "value": "0x004A04C4"
+      },
+      {
+        "value": "0x004804BD"
+      },
+      {
+        "value": "0x004504B5"
+      },
+      {
+        "value": "0x004203AD"
+      },
+      {
+        "value": "0x003F03A6"
+      },
+      {
+        "value": "0x003C039E"
+      },
+      {
+        "value": "0x00390396"
+      },
+      {
+        "value": "0x0036038F"
+      },
+      {
+        "value": "0x00330387"
+      },
+      {
+        "value": "0x00300380"
+      },
+      {
+        "value": "0x002D0278"
+      },
+      {
+        "value": "0x002B0270"
+      },
+      {
+        "value": "0x00280269"
+      },
+      {
+        "value": "0x00250261"
+      },
+      {
+        "value": "0x0080EDF4"
+      },
+      {
+        "value": "0x0078ECF5"
+      },
+      {
+        "value": "0x0071ECF5"
+      },
+      {
+        "value": "0x0069ECF5"
+      },
+      {
+        "value": "0x0062EBF5"
+      },
+      {
+        "value": "0x005BEBF5"
+      },
+      {
+        "value": "0x0053EAF5"
+      },
+      {
+        "value": "0x004CEAF5"
+      },
+      {
+        "value": "0x0045E9F5"
+      },
+      {
+        "value": "0x003DE9F5"
+      },
+      {
+        "value": "0x003DE9F5"
+      },
+      {
+        "value": "0x0036E8F5"
+      },
+      {
+        "value": "0x002FE8F5"
+      },
+      {
+        "value": "0x0027E7F5"
+      },
+      {
+        "value": "0x0020E7F5"
+      },
+      {
+        "value": "0x0018E6F5"
+      },
+      {
+        "value": "0x0011E6F5"
+      },
+      {
+        "value": "0x000AE5F5"
+      },
+      {
+        "value": "0x0002E5F5"
+      },
+      {
+        "value": "0x0002DEED"
+      },
+      {
+        "value": "0x0002D6E6"
+      },
+      {
+        "value": "0x0002CFDE"
+      },
+      {
+        "value": "0x0002C8D6"
+      },
+      {
+        "value": "0x0002C1CF"
+      },
+      {
+        "value": "0x0002BAC7"
+      },
+      {
+        "value": "0x0002B3BF"
+      },
+      {
+        "value": "0x0002ABB8"
+      },
+      {
+        "value": "0x0002A4B0"
+      },
+      {
+        "value": "0x00029DA8"
+      },
+      {
+        "value": "0x000296A1"
+      },
+      {
+        "value": "0x00B467F5"
+      },
+      {
+        "value": "0x00B25FF5"
+      },
+      {
+        "value": "0x00AE58F5"
+      },
+      {
+        "value": "0x00AB51F5"
+      },
+      {
+        "value": "0x00A849F5"
+      },
+      {
+        "value": "0x00A442F5"
+      },
+      {
+        "value": "0x00A13BF5"
+      },
+      {
+        "value": "0x009E33F5"
+      },
+      {
+        "value": "0x009A2CF5"
+      },
+      {
+        "value": "0x009725F5"
+      },
+      {
+        "value": "0x00941DF5"
+      },
+      {
+        "value": "0x009116F5"
+      },
+      {
+        "value": "0x008D0FF5"
+      },
+      {
+        "value": "0x008A07F5"
+      },
+      {
+        "value": "0x008700F5"
+      },
+      {
+        "value": "0x008200ED"
+      },
+      {
+        "value": "0x007E00E6"
+      },
+      {
+        "value": "0x007A00DE"
+      },
+      {
+        "value": "0x007600D6"
+      },
+      {
+        "value": "0x007200CF"
+      },
+      {
+        "value": "0x006D00C7"
+      },
+      {
+        "value": "0x006900BF"
+      },
+      {
+        "value": "0x006500B8"
+      },
+      {
+        "value": "0x006100B0"
+      },
+      {
+        "value": "0x005D00A8"
+      },
+      {
+        "value": "0x005800A1"
+      },
+      {
+        "value": "0x00540099"
+      },
+      {
+        "value": "0x00500091"
+      },
+      {
+        "value": "0x004C008A"
+      },
+      {
+        "value": "0x00480082"
+      }
+    ],
+    "type": "Color Palette",
+    "imageName": "ColorPickerEntropic.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -44074,7 +44608,6 @@
     "name": "Exploration Poster",
     "description": "Decorate your Orbiter with this Empyrean-themed poster.",
     "codexSecret": false,
-    "excludeFromCodex": true,
     "type": "Ship Decoration",
     "imageName": "ExplorationPoster.png",
     "category": "Skins",
@@ -45073,6 +45606,50 @@
     "description": "A fur pattern commissioned by Euleria Entrati to manifest a creature from the storybook, Tales of Duviri.",
     "type": "Fur Pattern",
     "imageName": "KubrowSkinDuviriWolf.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave1999FFAmirPoster",
+    "name": "Fablemaster Poster",
+    "description": "Concept art of Amir's Fables & Frontiers mysterious character. Artwork by community artist Brighan.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "Nightwave1999FFAmirPoster.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave1999AmirCharacterSheetPoster",
+    "name": "Fablemaster's Character Sheet Poster",
+    "description": "Character sheet for Amir's Fables & Frontiers character. Artwork by community artist Brighan.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "Nightwave1999AmirCharacterSheetPoster.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave/NightwaveMallStoreDiceMetal",
+    "name": "Fables & Frontiers Dice Set Decoration",
+    "description": "Careful, stepping on the 1d4 will make you roll with disadvantage for the next 1d6 days.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "NightwaveMallStoreDiceMetal.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave1999FFCoverPoster",
+    "name": "Fables & Frontiers: Running Late Adventure Poster",
+    "description": "Cover art for the Fables & Frontiers: Running Late adventure. Artwork by community artist Nikki Dawes.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "Nightwave1999FFCoverPoster.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -54107,6 +54684,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Scarves/LasNightwaveCape",
+    "name": "Globakk Syandana",
+    "codexSecret": false,
+    "description": "Only the most highly trained - or highly reckless - Scaldra dare to wear this portable Efervon container.",
+    "type": "Skin",
+    "imageName": "LasNightwaveCape.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Effects/CorpusLichEphemeraC",
     "name": "Gloriana Ephemera",
     "codexSecret": false,
@@ -54661,6 +55249,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOperatorDrifterGoth",
     "name": "Goth Hood",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments.",
     "type": "Skin",
     "imageName": "HoodGoth.png",
@@ -54683,6 +55272,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOperatorDrifterGoth",
     "name": "Goth Jacket",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments.",
     "type": "Skin",
     "imageName": "SuitGoth.png",
@@ -54705,6 +55295,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOperatorDrifterGoth",
     "name": "Goth Leggings",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments.",
     "type": "Skin",
     "imageName": "LeggingsGoth.png",
@@ -54738,6 +55329,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOperatorDrifterGoth",
     "name": "Goth Sleeves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments.",
     "type": "Skin",
     "imageName": "SleevesGoth.png",
@@ -54945,6 +55537,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOperatorDemonframe",
     "name": "Grand Carnus Cuirass",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A suit for the Drifter embodying the ultimate in Orokin style and luxury.",
     "type": "Skin",
     "imageName": "BodySuitAdultDemonframe.png",
@@ -54967,6 +55560,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultOperatorDemonframe",
     "name": "Grand Carnus Greaves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A suit for the Drifter embodying the ultimate in Orokin style and luxury.",
     "type": "Skin",
     "imageName": "LeggingsAdultDemonframe.png",
@@ -54989,6 +55583,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultOperatorDemonframe",
     "name": "Grand Carnus Hood",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A suit for the Drifter embodying the ultimate in Orokin style and luxury.",
     "type": "Skin",
     "imageName": "HoodAdultDemonframe.png",
@@ -55011,6 +55606,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultOperatorDemonframe",
     "name": "Grand Carnus Regalia",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A suit for the Drifter embodying the ultimate in Orokin style and luxury.",
     "type": "Skin",
     "imageName": "SkirtAdultDemonframe.png",
@@ -55033,6 +55629,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultOperatorDemonframe",
     "name": "Grand Carnus Sleeves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A suit for the Drifter embodying the ultimate in Orokin style and luxury.",
     "type": "Skin",
     "imageName": "SleevesAdultDemonframe.png",
@@ -60901,6 +61498,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodGrunge",
     "name": "Grunge Hood",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene.",
     "type": "Skin",
     "imageName": "HoodGrunge.png",
@@ -60923,6 +61521,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitGrunge",
     "name": "Grunge Jacket",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene.",
     "type": "Skin",
     "imageName": "SuitGrunge.png",
@@ -60945,6 +61544,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsGrunge",
     "name": "Grunge Leggings",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene.",
     "type": "Skin",
     "imageName": "LeggingsGrunge.png",
@@ -60967,6 +61567,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtGrunge",
     "name": "Grunge Skirt",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene.",
     "type": "Skin",
     "imageName": "SkirtGrunge.png",
@@ -60989,6 +61590,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesGrunge",
     "name": "Grunge Sleeves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene.",
     "type": "Skin",
     "imageName": "SleevesGrunge.png",
@@ -61560,6 +62162,17 @@
         "rarity": "Common"
       }
     ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWHaemadysMaskAcc",
+    "name": "Haemadys Mask",
+    "codexSecret": false,
+    "description": "A unique mask, designed by Vhynnz.",
+    "type": "Skin",
+    "imageName": "SWHaemadysMask.png",
+    "category": "Skins",
+    "tradable": false,
     "masterable": false
   },
   {
@@ -62686,6 +63299,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultDeluxeA",
     "name": "Harrier Hood",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A hood belonging to a Drifter outfit.",
     "type": "Skin",
     "imageName": "HoodAdultDeluxe.png",
@@ -62728,6 +63342,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultDeluxeA",
     "name": "Harrier Legs",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Leggings for a Drifter outfit.",
     "type": "Skin",
     "imageName": "LeggingsAdultDeluxe.png",
@@ -62750,6 +63365,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultDeluxeA",
     "name": "Harrier Sleeves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Sleeves for a Drifter outfit.",
     "type": "Skin",
     "imageName": "SleevesAdultDeluxe.png",
@@ -62792,6 +63408,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultDeluxeA",
     "name": "Harrier Suit",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "The suit of a Drifter outfit.",
     "type": "Skin",
     "imageName": "BodySuitAdultDeluxe.png",
@@ -63076,6 +63693,28 @@
     "description": "The standard issue skin for the Harrow Prime Warframe.",
     "type": "Skin",
     "imageName": "HarrowPrime.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Priest/SWProfitasHarrowHelmet",
+    "name": "Harrow Profitas Helmet",
+    "codexSecret": false,
+    "description": "A unique helmet for the Harrow Warframe, designed by malaya & Vorenoxx - Noxxr.",
+    "type": "Skin",
+    "imageName": "SWHarrowProfitasHelmet.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Priest/SWProfitasHarrowSkin",
+    "name": "Harrow Profitas Skin",
+    "codexSecret": false,
+    "description": "A unique skin for the Harrow Warframe, designed by malaya & Vorenoxx - Noxxr.",
+    "type": "Skin",
+    "imageName": "SWHarrowProfitasSkin.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -63734,6 +64373,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultDaxA",
     "name": "Hawk Bishamo Cuirass",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
     "type": "Skin",
     "imageName": "SuitAdultDaxA.png",
@@ -63821,6 +64461,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultDaxA",
     "name": "Hawk Bishamo Greaves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
     "type": "Skin",
     "imageName": "LeggingsAdultDaxA.png",
@@ -63907,6 +64548,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultDaxA",
     "name": "Hawk Bishamo Helmet",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
     "type": "Skin",
     "imageName": "HoodAdultDaxA.png",
@@ -63992,6 +64634,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultDaxA",
     "name": "Hawk Bishamo Pauldrons",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
     "type": "Skin",
     "imageName": "SleevesAdultDaxA.png",
@@ -64035,6 +64678,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultJ",
     "name": "Haztech Apparel",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "When coolant offgasses or a fusion-gen gets cracked it's everybody out. Everybody except the haztechs. Drifter armor modeled on the daredevils of Fortuna's maintenance crews.",
     "type": "Skin",
     "imageName": "SkirtAdultJ.png",
@@ -64250,6 +64894,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultJ",
     "name": "Haztech Cuirass",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "When coolant offgasses or a fusion-gen gets cracked it's everybody out. Everybody except the haztechs. Drifter armor modeled on the daredevils of Fortuna's maintenance crews.",
     "type": "Skin",
     "imageName": "BodySuitAdultJ.png",
@@ -64349,6 +64994,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultJ",
     "name": "Haztech Greaves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "When coolant offgasses or a fusion-gen gets cracked it's everybody out. Everybody except the haztechs. Drifter armor modeled on the daredevils of Fortuna's maintenance crews.",
     "type": "Skin",
     "imageName": "LeggingsAdultJ.png",
@@ -64447,6 +65093,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultJ",
     "name": "Haztech Mask",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "When coolant offgasses or a fusion-gen gets cracked it's everybody out. Everybody except the haztechs. Drifter armor modeled on the daredevils of Fortuna's maintenance crews.",
     "type": "Skin",
     "imageName": "HoodAdultJ.png",
@@ -64545,6 +65192,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultJ",
     "name": "Haztech Pauldrons",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "When coolant offgasses or a fusion-gen gets cracked it's everybody out. Everybody except the haztechs. Drifter armor modeled on the daredevils of Fortuna's maintenance crews.",
     "type": "Skin",
     "imageName": "SleevesAdultJ.png",
@@ -64567,6 +65215,18 @@
     "codexSecret": false,
     "type": "Emotes",
     "imageName": "EmoteDanceHeadphonesBop.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/FrumentariusTitle",
+    "name": "Head Cracker Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -66125,6 +66785,54 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/AmirCampaignAnnoyTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/AmirCampaignButterfingersTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/AmirCampaignCompleteTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/AmirCampaignLootTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/Titles/AnimalLoverTitle",
     "name": "Honoria",
     "description": "An Honoria for your profile.",
@@ -67014,6 +67722,30 @@
   },
   {
     "uniqueName": "/Lotus/Types/Items/Titles/TenetMasteryTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/TheHexCompleteTitle",
+    "name": "Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/TheHexFinaleTitle",
     "name": "Honoria",
     "description": "An Honoria for your profile.",
     "codexSecret": false,
@@ -73374,6 +74106,30 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/ForgedInFireTitle",
+    "name": "It Will Kill Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/NovaTitle",
+    "name": "It's All Relative Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/RailjackArmor/ItzalArmourC",
     "name": "Itzal Armor Chest Plate",
     "codexSecret": false,
@@ -74014,6 +74770,28 @@
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "LASxParkIvyC.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave1999LettieCharacterSheetPoster",
+    "name": "Ixchel Balam Character Sheet Poster",
+    "description": "Character sheet for Lettie's Fables & Frontiers character. Artwork by community artist Brighan.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "Nightwave1999LettieCharacterSheetPoster.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave1999FFLettiePoster",
+    "name": "Ixchel Balam Poster",
+    "description": "Concept art of Lettie's Fables & Frontiers character. Artwork by community artist Brighan.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "Nightwave1999FFLettiePoster.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -75649,6 +76427,98 @@
     "description": "Thunder erupts from within.",
     "type": "Skin",
     "imageName": "VoltDeluxeRaijinEphemera.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/DrifterNightwave1999Helmet",
+    "name": "Kaneshell Atomicycle Helmet",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "description": "Slide into this biker outfit of the new millenium. Fitted for the Drifter and Operator.",
+    "type": "Skin",
+    "imageName": "1999DrifterHood.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/OperatorNightwave1999Helmet",
+    "name": "Kaneshell Atomicycle Helmet",
+    "codexSecret": false,
+    "description": "Slide into this biker outfit of the new millenium. Fitted for the Drifter and Operator.",
+    "type": "Skin",
+    "imageName": "1999OperatorHood.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/DrifterNightwave1999Torso",
+    "name": "Kaneshell Atomicycle Jacket",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "description": "Slide into this biker outfit of the new millenium. Fitted for the Drifter and Operator.",
+    "type": "Skin",
+    "imageName": "1999AdultTorso.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/OperatorNightwave1999Torso",
+    "name": "Kaneshell Atomicycle Jacket",
+    "codexSecret": false,
+    "description": "Slide into this biker outfit of the new millenium. Fitted for the Drifter and Operator.",
+    "type": "Skin",
+    "imageName": "1999OperatorTorso.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/DrifterNightwave1999Leggings",
+    "name": "Kaneshell Atomicycle Leggings",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "description": "Slide into this biker outfit of the new millenium. Fitted for the Drifter and Operator.",
+    "type": "Skin",
+    "imageName": "1999DrifterLeggings.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/OperatorNightwave1999Leggings",
+    "name": "Kaneshell Atomicycle Leggings",
+    "codexSecret": false,
+    "description": "Slide into this biker outfit of the new millenium. Fitted for the Drifter and Operator.",
+    "type": "Skin",
+    "imageName": "1999OperatorLeggings.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/DrifterNightwave1999Sleeves",
+    "name": "Kaneshell Atomicycle Sleeves",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "description": "Slide into this biker outfit of the new millenium. Fitted for the Drifter and Operator.",
+    "type": "Skin",
+    "imageName": "1999DrifterSleeves.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/OperatorNightwave1999Sleeves",
+    "name": "Kaneshell Atomicycle Sleeves",
+    "codexSecret": false,
+    "description": "Slide into this biker outfit of the new millenium. Fitted for the Drifter and Operator.",
+    "type": "Skin",
+    "imageName": "1999OperatorSleeves.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -79236,6 +80106,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultB",
     "name": "Koppra Faulds",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A waistband component for a Drifter outfit.",
     "type": "Skin",
     "imageName": "SkirtAdultB.png",
@@ -79258,6 +80129,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultB",
     "name": "Koppra Hood",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A hood belonging to a Drifter outfit.",
     "type": "Skin",
     "imageName": "HoodAdultB.png",
@@ -79281,6 +80153,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultB",
     "name": "Koppra Leggings",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Leggings for a Drifter outfit.",
     "type": "Skin",
     "imageName": "LeggingsAdultB.png",
@@ -79304,6 +80177,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultB",
     "name": "Koppra Sleeves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Sleeves for a Drifter outfit.",
     "type": "Skin",
     "imageName": "SleevesAdultB.png",
@@ -79327,6 +80201,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultB",
     "name": "Koppra Suit",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A suit of a Drifter outfit.",
     "type": "Skin",
     "imageName": "BodySuitAdultB.png",
@@ -79350,6 +80225,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/HipSocketB",
     "name": "Koppra Tassets",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A waistband component for an Operator outfit.",
     "type": "Skin",
     "imageName": "HipSocketB.png",
@@ -79864,6 +80740,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultO",
     "name": "Kubrodon Ventkid Apparel",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
     "type": "Skin",
     "imageName": "SkirtAdultO.png",
@@ -79992,6 +80869,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultO",
     "name": "Kubrodon Ventkid Cuirass",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
     "type": "Skin",
     "imageName": "BodySuitAdultO.png",
@@ -80120,6 +80998,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultO",
     "name": "Kubrodon Ventkid Greaves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
     "type": "Skin",
     "imageName": "LeggingsAdultO.png",
@@ -80891,6 +81770,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultO",
     "name": "Kubrodon Ventkid Mask",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
     "type": "Skin",
     "imageName": "HoodAdultO.png",
@@ -81001,6 +81881,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultO",
     "name": "Kubrodon Ventkid Pauldrons",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
     "type": "Skin",
     "imageName": "SleevesAdultO.png",
@@ -81267,6 +82148,39 @@
     "description": "The eternal outcast has nothing left to fear.  Kullervo embodies rebellion and the will to endure whatever the oppressor can dish out.",
     "type": "Skin",
     "imageName": "KullervoDeluxeSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/PaxDuviricus/SWPaxAscophiliaBodyBlades",
+    "name": "Kullervo Ascophilia Baneful Blades",
+    "codexSecret": false,
+    "description": "A unique auxiliary item for the Kullervo Warframe, designed by Erneix.",
+    "type": "Skin",
+    "imageName": "SWKullervoAscophiliaSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/PaxDuviricus/SWPaxAscophiliaHelmet",
+    "name": "Kullervo Ascophilia Helmet",
+    "codexSecret": false,
+    "description": "A helmet for the Kullervo Warframe, designed by Erneix.",
+    "type": "Skin",
+    "imageName": "SWKullervoAscophiliaHelmet.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/PaxDuviricus/SWPaxAscophiliaSkin",
+    "name": "Kullervo Ascophilia Skin",
+    "codexSecret": false,
+    "description": "A unique skin for the Kullervo Warframe, designed by Erneix.",
+    "type": "Skin",
+    "imageName": "SWKullervoAscophiliaSkin.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -83964,6 +84878,18 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/StealthKills100Title",
+    "name": "Leaves No Witnesses Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/LectaDazzleCamo",
     "name": "Lecta Shock-Camo Skin",
     "codexSecret": false,
@@ -84603,6 +85529,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/StJudePoster",
+    "name": "Level Up For St. Jude",
+    "description": "A unique display in recognition of Childhood Cancer Awareness Month to support St. Jude Children's Research Hospital®. Artwork by St. Jude patients Ethan, Luna, Maelin-Kate and Ty.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "StJudePoster.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/PvP/Pistols/PvPLex",
     "name": "Lex Conclave Skin",
     "codexSecret": false,
@@ -84654,6 +85591,17 @@
     "description": "An elite skin for the Lex.",
     "type": "Skin",
     "imageName": "LexOnyxSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Crowns/BaruukDeluxeIICrown",
+    "name": "Liania Signa",
+    "codexSecret": false,
+    "description": "The dignified drape of Baruuk Shaoshi's signature signa is the mark of a warrior committed to defending peace - by any means necessary.",
+    "type": "Skin",
+    "imageName": "BaruukDeluxeIICrown.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -87468,6 +88416,28 @@
     ],
     "type": "Ship Decoration",
     "imageName": "NokkoMushroomScrawlPosterF.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave1999QuincyCharacterSheetPoster",
+    "name": "Lord Reyland Kingsacre Character Sheet Poster",
+    "description": "Character sheet for Quincy's Fables & Frontiers character. Artwork by community artist Brighan.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "Nightwave1999QuincyCharacterSheetPoster.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave1999FFQuincyPoster",
+    "name": "Lord Reyland Kingsacre Poster",
+    "description": "Concept art of Quincy's Fables & Frontiers character. Artwork by community artist Brighan.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "Nightwave1999FFQunicyPoster.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -91765,7 +92735,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLyon",
     "name": "Lyon Floof",
-    "description": "“I do not understand the purpose behind crafting such an image. No, I will not give it back.” - F. Lyon Allard",
+    "description": "'I do not understand the purpose behind crafting such an image. No, I will not give it back.' - F. Lyon Allard",
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "PlushyLyon.png",
@@ -93796,6 +94766,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultD",
     "name": "Manduka Hood",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A hood belonging to a Drifter outfit.",
     "type": "Skin",
     "imageName": "HoodAdultD.png",
@@ -93819,6 +94790,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultD",
     "name": "Manduka Leggings",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Leggings for a Drifter outfit.",
     "type": "Skin",
     "imageName": "LeggingsAdultD.png",
@@ -93842,6 +94814,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultD",
     "name": "Manduka Sleeves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Sleeves for a Drifter outfit.",
     "type": "Skin",
     "imageName": "SleevesAdultD.png",
@@ -93865,6 +94838,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultD",
     "name": "Manduka Suit",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A suit of a Drifter outfit.",
     "type": "Skin",
     "imageName": "BodySuitAdultD.png",
@@ -94268,7 +95242,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyMarie",
     "name": "Marie Floof",
-    "description": "“Regardez! Mon visage, but surely far more adorable, n’est-ce pas? I simply must squish mes petites joues!” - Marie Leroux",
+    "description": "'Regardez! Mon visage, but surely far more adorable, n'est-ce pas? I simply must squish mes petites joues!' - Marie Leroux",
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "PlushyMarie.png",
@@ -94755,6 +95729,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultNovaEngineer",
     "name": "Masker's Theodolite Crewsuit",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Historian Drusus Leverian recalls that the hostage crew of the passenger vessel, Masker's Theodolite, wore this very crewsuit when they were rescued by Nova.",
     "type": "Skin",
     "imageName": "NovaEngineerBody.png",
@@ -94777,6 +95752,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultNovaEngineer",
     "name": "Masker's Theodolite Crewsuit Hood",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Historian Drusus Leverian recalls that the hostage crew of the passenger vessel, Masker's Theodolite, wore this very crewsuit when they were rescued by Nova.",
     "type": "Skin",
     "imageName": "HoodNovaEngineer.png",
@@ -94799,6 +95775,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultNovaEngineer",
     "name": "Masker's Theodolite Crewsuit Leggings",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Historian Drusus Leverian recalls that the hostage crew of the passenger vessel, Masker's Theodolite, wore this very crewsuit when they were rescued by Nova.",
     "type": "Skin",
     "imageName": "NovaEngineerLeggings.png",
@@ -94821,6 +95798,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultNovaEngineer",
     "name": "Masker's Theodolite Crewsuit Sleeves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Historian Drusus Leverian recalls that the hostage crew of the passenger vessel, Masker's Theodolite, wore this very crewsuit when they were rescued by Nova.",
     "type": "Skin",
     "imageName": "NovaEngineerArms.png",
@@ -94898,6 +95876,18 @@
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "Rank28Trophy.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/NyxTitle",
+    "name": "Master Of Minds Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -96726,6 +97716,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave/NightwaveMimicChestBox",
+    "name": "Mimic Origami Decoration",
+    "description": "Small. But bitey.\n\nFrom an ill-fated Fables & Frontiers adventure.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "NightwaveMimicChestBox.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/ShawzinPlayableBase",
     "name": "Mimica Shawzin",
     "description": "Features an adaptive enamel that senses and mimics the coloring of any musician playing it. Play this instrument by equipping and using the included Shawzin Emote.",
@@ -97986,6 +98987,28 @@
     "codexSecret": true,
     "type": "Fur Color",
     "imageName": "KubrowColorDaybreakVibrant.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave1999AoiCharacterSheetPoster",
+    "name": "Morohime Ichigeki Character Sheet Poster",
+    "description": "Character sheet for Aoi's Fables & Frontiers character. Artwork by community artist Brighan.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "Nightwave1999AoiCharacterSheetPoster.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave1999FFAoiPoster",
+    "name": "Morohime Ichigeki Poster",
+    "description": "Concept art of Aoi's Fables & Frontiers character. Artwork by community artist Brighan.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "Nightwave1999FFAoiPoster.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -101853,6 +102876,18 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/NemesisOfErisTitle",
+    "name": "Nemesis Of Eris Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Events/TickerValentineWings",
     "name": "Neon Eros Wings",
     "description": "Celebrate Star Days with this radiant Orbiter decoration.",
@@ -102014,6 +103049,17 @@
     "description": "A Sentient spinal symbiote that functions as Caliban’s signature Syandana.",
     "type": "Skin",
     "imageName": "SentSyandanaB.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Effects/BaruukDeluxeIIEphemera",
+    "name": "Neviti Ephemera",
+    "codexSecret": false,
+    "description": "Encircled by harmonious energy, the shifting balance of conflict reveals itself in Baruuk Shaoshi's signature ephemera. ",
+    "type": "Skin",
+    "imageName": "BaruukDeluxeIIEphemera.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -103207,6 +104253,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultNightSuit",
     "name": "Nightwave Leggings",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Leggings for all of you Dreamers out there.",
     "type": "Skin",
     "imageName": "NightSuitAdultLeggings.png",
@@ -103274,6 +104321,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultNightSuit",
     "name": "Nightwave Sleeves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Sleeves and gloves for all of you Dreamers out there.",
     "type": "Skin",
     "imageName": "NightSuitAdultSleeves.png",
@@ -103296,6 +104344,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultNightSuit",
     "name": "Nightwave Suit",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A suit for all of you Dreamers out there.",
     "type": "Skin",
     "imageName": "NightSuitAdultBody.png",
@@ -109322,7 +110371,7 @@
     "name": "Octavia Maestra Skin",
     "codexSecret": false,
     "excludeFromCodex": true,
-    "description": "Get ready for an encore with this reprise to Octavia’s concerto of mayhem. The audience awaits their Maestra.",
+    "description": "Get ready for an encore with this reprise to Octavia's concerto of mayhem. The audience awaits their Maestra.",
     "type": "Skin",
     "imageName": "OctaviaDeluxe.png",
     "category": "Skins",
@@ -109896,6 +110945,28 @@
     "codexSecret": true,
     "type": "Ship Decoration",
     "imageName": "1999OnlyneWallPoster.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave1999OnLyneRunningLatePoster",
+    "name": "On-Lyne Running Late Album Cover Display",
+    "description": "Decorate your wall with this new poster celebrating the return of the On-lyne boys.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "Nightwave1999OnLyneRunningLatePoster.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave1999OnLyneRunningLate2Poster",
+    "name": "On-Lyne Running Late Promo Poster",
+    "description": "Found on the walls of every record store in the city. Celebrate the boys coming back to town with this poster.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "Nightwave1999OnLyneRunningLateTwoPoster.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -110534,6 +111605,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtArabic",
     "name": "Operator Feldune Apparel",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator.",
     "type": "Skin",
     "imageName": "ArabicHip.png",
@@ -110545,6 +111617,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodArabic",
     "name": "Operator Feldune Hood",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator.",
     "type": "Skin",
     "imageName": "HoodArabic.png",
@@ -110556,6 +111629,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsArabic",
     "name": "Operator Feldune Pants",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator.",
     "type": "Skin",
     "imageName": "ArabicLegs.png",
@@ -110567,6 +111641,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesArabic",
     "name": "Operator Feldune Sleeves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator.",
     "type": "Skin",
     "imageName": "SleevesArabic.png",
@@ -110578,6 +111653,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitArabic",
     "name": "Operator Feldune Suit",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator.",
     "type": "Skin",
     "imageName": "BodySuitArabic.png",
@@ -110589,6 +111665,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOutfit2A",
     "name": "Operator Keeler Hood",
     "codexSecret": true,
+    "excludeFromCodex": true,
     "description": "Nora Night recovered this suit from Saturn’s Keeler Gap. The durable material lined with rebreather tubing shows it was designed with depressurization in mind.",
     "type": "Skin",
     "imageName": "HoodOutfit2A.png",
@@ -110600,6 +111677,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOutfit2A",
     "name": "Operator Keeler Pants",
     "codexSecret": true,
+    "excludeFromCodex": true,
     "description": "Nora Night recovered this suit from Saturn’s Keeler Gap. The durable material lined with rebreather tubing shows it was designed with depressurization in mind.",
     "type": "Skin",
     "imageName": "Outfit2ALegs.png",
@@ -110611,6 +111689,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOutfit2A",
     "name": "Operator Keeler Sleeves",
     "codexSecret": true,
+    "excludeFromCodex": true,
     "description": "Nora Night recovered this suit from Saturn’s Keeler Gap. The durable material lined with rebreather tubing shows it was designed with depressurization in mind.",
     "type": "Skin",
     "imageName": "Outfit2AArms.png",
@@ -110622,6 +111701,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOutfit2A",
     "name": "Operator Keeler Suit",
     "codexSecret": true,
+    "excludeFromCodex": true,
     "description": "Nora Night recovered this suit from Saturn’s Keeler Gap. The durable material lined with rebreather tubing shows it was designed with depressurization in mind.",
     "type": "Skin",
     "imageName": "Outfit2ABody.png",
@@ -110633,6 +111713,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOutfit1A",
     "name": "Operator Loneryder Hood",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Look sharp after miles on the dusty trail. Fitted for the Drifter and the Operator.",
     "type": "Skin",
     "imageName": "HoodOutfit1A.png",
@@ -110644,6 +111725,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOutfit1A",
     "name": "Operator Loneryder Pants",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Look sharp after miles on the dusty trail. Fitted for the Drifter and the Operator.",
     "type": "Skin",
     "imageName": "Outfit1ALegs.png",
@@ -110655,6 +111737,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOutfit1A",
     "name": "Operator Loneryder Sleeves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Look sharp after miles on the dusty trail. Fitted for the Drifter and the Operator.",
     "type": "Skin",
     "imageName": "Outfit1AArms.png",
@@ -110666,6 +111749,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOutfit1A",
     "name": "Operator Loneryder Suit",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Look sharp after miles on the dusty trail. Fitted for the Drifter and the Operator.",
     "type": "Skin",
     "imageName": "Outfit1ABody.png",
@@ -110677,6 +111761,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOutfit3A",
     "name": "Operator Orizu Hood",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Invite longevity and protection with a look inspired by the origami crane. Fitted for the Drifter and the Operator.",
     "type": "Skin",
     "imageName": "HoodOutfit3A.png",
@@ -110688,6 +111773,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOutfit3A",
     "name": "Operator Orizu Pants",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Invite longevity and protection with a look inspired by the origami crane. Fitted for the Drifter and the Operator.",
     "type": "Skin",
     "imageName": "Outfit3ALegs.png",
@@ -110699,6 +111785,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOutfit3A",
     "name": "Operator Orizu Sleeves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Invite longevity and protection with a look inspired by the origami crane. Fitted for the Drifter and the Operator.",
     "type": "Skin",
     "imageName": "Outfit3AArms.png",
@@ -110710,6 +111797,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOutfit3A",
     "name": "Operator Orizu Suit",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Invite longevity and protection with a look inspired by the origami crane. Fitted for the Drifter and the Operator.",
     "type": "Skin",
     "imageName": "Outfit3ABody.png",
@@ -110931,6 +112019,17 @@
     "description": "Armor reminiscent of gilded vellum pages.",
     "type": "Skin",
     "imageName": "TnPagemasterArmourA.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Oraxia/SWOraxiaAgamvaHelmet",
+    "name": "Oraxia Agamva Helmet",
+    "codexSecret": false,
+    "description": "A unique helmet for the Oraxia Warframe, designed by led2012.",
+    "type": "Skin",
+    "imageName": "SWOraxiaAgamvaHelmet.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -111239,6 +112338,50 @@
         "fixes": ""
       }
     ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave/NightwaveOrigamiCraneB",
+    "name": "Origami Crane Game Piece Decoration",
+    "description": "Aoi's specialty.\n\nFrom an ill-fated Fables & Frontiers adventure.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "NightwaveOrigamiCraneB.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave/NightwaveOrigamiDragon",
+    "name": "Origami Dragon Game Piece Decoration",
+    "description": "Often found inside dungeons.\n\nFrom an ill-fated Fables & Frontiers adventure.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "NightwaveOrigamiDragon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave/NightwaveOrigamiGargoyle",
+    "name": "Origami Gargoyle Game Piece Decoration",
+    "description": "Monsters based on Gaullique architecture.\n\nFrom an ill-fated Fables & Frontiers adventure.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "NightwaveOrigamiGargoyle.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave/NightwaveOrigamiLotus",
+    "name": "Origami Lotus Game Piece Decoration",
+    "description": "Aoi isn't sure why she made so many of these.\n\nFrom an ill-fated Fables & Frontiers adventure.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "NightwaveOrigamiLotus.png",
+    "category": "Skins",
+    "tradable": false,
     "masterable": false
   },
   {
@@ -115416,6 +116559,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultI",
     "name": "Outrider Cuirass",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter armor modeled on enviro-gear worn by the surveyors and scouts of the Orb Vallis. Protected by an all-weather cloak they catalogue the wildlife, seek out resources and chart safe routes for patrols and miners.",
     "type": "Skin",
     "imageName": "BodySuitAdultI.png",
@@ -115515,6 +116659,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultI",
     "name": "Outrider Greaves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter armor modeled on enviro-gear worn by the surveyors and scouts of the Orb Vallis. Protected by an all-weather cloak they catalogue the wildlife, seek out resources and chart safe routes for patrols and miners.",
     "type": "Skin",
     "imageName": "LeggingsAdultI.png",
@@ -115613,6 +116758,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultI",
     "name": "Outrider Mask",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter armor modeled on enviro-gear worn by the surveyors and scouts of the Orb Vallis. Protected by an all-weather cloak they catalogue the wildlife, seek out resources and chart safe routes for patrols and miners.",
     "type": "Skin",
     "imageName": "HoodAdultI.png",
@@ -115711,6 +116857,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultI",
     "name": "Outrider Pauldrons",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter armor modeled on enviro-gear worn by the surveyors and scouts of the Orb Vallis. Protected by an all-weather cloak they catalogue the wildlife, seek out resources and chart safe routes for patrols and miners.",
     "type": "Skin",
     "imageName": "SleevesAdultI.png",
@@ -116687,6 +117834,18 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/SolveCipherUnder5Title",
+    "name": "Parazon Runner Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Effects/InkEphemeraB",
     "name": "Pareidola Ephemera",
     "codexSecret": false,
@@ -117555,6 +118714,18 @@
     "codexSecret": false,
     "type": "Emotes",
     "imageName": "EmoteDanceTurnReverseTurn.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/KillPhoridTitle",
+    "name": "Plague Doctor Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -122976,6 +124147,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/BaruukDeluxeIIMaceShield",
+    "name": "Rathan Sword & Shield Skin",
+    "codexSecret": false,
+    "description": "Baruuk Shaoshi's signature Sword & Shield skin evokes the ancient arms carried by sacred guardians, those who embraced the balance between defense and attack.",
+    "type": "Skin",
+    "imageName": "BaruukDeluxeIIMaceShieldSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/RathuumEventPoster",
     "name": "Rathuum Display",
     "description": "Gaze upon Kela De Thaym and her warriors of Rathuum.",
@@ -124296,6 +125478,18 @@
         "fixes": "Fixed the Respa Prime Mask, Erlang Prime Oculus, Kiteer Oculus, and Lumis Oculus Energy color persisting as default. "
       }
     ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/PoENightTitle",
+    "name": "Restless Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
     "masterable": false
   },
   {
@@ -126297,7 +127491,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyRoathe",
     "name": "Roathe Floof",
-    "description": "“What’s this? My likeness, rendered in some sort of squishy textile? The indignity.” - Vice Regent Grand Carnus Roathe",
+    "description": "'What's this? My likeness, rendered in some sort of squishy textile? The indignity.' - Vice Regent Grand Carnus Roathe",
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "PlushyRoathe.png",
@@ -128082,6 +129276,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeA",
     "name": "Saita Prime Hood",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A hood belonging to a Drifter outfit.",
     "type": "Skin",
     "imageName": "HoodAdultPrimeA.png",
@@ -128104,6 +129299,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeA",
     "name": "Saita Prime Leggings",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Leggings for a Drifter outfit.",
     "type": "Skin",
     "imageName": "LeggingsAdultPrimeA.png",
@@ -128126,6 +129322,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeA",
     "name": "Saita Prime Sleeves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Sleeves for a Drifter outfit.",
     "type": "Skin",
     "imageName": "SleevesAdultPrimeA.png",
@@ -128148,6 +129345,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeA",
     "name": "Saita Prime Suit",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "The suit of a Drifter outfit.",
     "type": "Skin",
     "imageName": "BodySuitAdultPrimeA.png",
@@ -128621,6 +129819,28 @@
     "codexSecret": true,
     "type": "Fur Color",
     "imageName": "XmasKavatFurA.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave1999EleanorCharacterSheetPoster",
+    "name": "Sanguina Kallisti Character Sheet Poster",
+    "description": "Character sheet for Eleanor's Fables & Frontiers character. Artwork by community artist Brighan.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "Nightwave1999EleanorCharacterSheetPoster.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave1999FFEleanorPoster",
+    "name": "Sanguina Kallisti Poster",
+    "description": "Concept art of Eleanor's Fables & Frontiers character. Artwork by community artist Brighan.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "Nightwave1999FFEleanorPoster.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -134146,6 +135366,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultK",
     "name": "Smelter Apparel",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter armor inspired by those Solaris who must work in searing heat. ",
     "type": "Skin",
     "imageName": "SkirtAdultK.png",
@@ -134361,6 +135582,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultK",
     "name": "Smelter Cuirass",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter armor inspired by those Solaris who must work in searing heat. ",
     "type": "Skin",
     "imageName": "BodySuitAdultK.png",
@@ -134460,6 +135682,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultK",
     "name": "Smelter Greaves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter armor inspired by those Solaris who must work in searing heat. ",
     "type": "Skin",
     "imageName": "LeggingsAdultK.png",
@@ -134558,6 +135781,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultK",
     "name": "Smelter Mask",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter armor inspired by those Solaris who must work in searing heat. ",
     "type": "Skin",
     "imageName": "HoodAdultK.png",
@@ -134656,6 +135880,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultK",
     "name": "Smelter Pauldrons",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter armor inspired by those Solaris who must work in searing heat. ",
     "type": "Skin",
     "imageName": "SleevesAdultK.png",
@@ -138979,6 +140204,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOperatorLasrianA",
     "name": "Stormfall Gloves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Have the Operator embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
     "type": "Skin",
     "imageName": "SleevesLasrianA.png",
@@ -139001,6 +140227,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOperatorLasrianA",
     "name": "Stormfall Jacket",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Have the Operator embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
     "type": "Skin",
     "imageName": "SuitLasrianA.png",
@@ -139023,6 +140250,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOperatorLasrianA",
     "name": "Stormfall Mask",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Have the Operator embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
     "type": "Skin",
     "imageName": "HoodLasrianA.png",
@@ -139045,6 +140273,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOperatorLasrianA",
     "name": "Stormfall Pants & Boots",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Have the Operator embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
     "type": "Skin",
     "imageName": "LeggingsLasrianA.png",
@@ -139865,6 +141094,17 @@
         "fixes": "Fixed the Subhuti Syandana clipping through Equinox’s Day Form."
       }
     ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/Nightwave/NightwaveEntertechmentCrate",
+    "name": "Submeower Decoration",
+    "description": "Don't ask where the power cord goes.",
+    "codexSecret": false,
+    "type": "Ship Decoration",
+    "imageName": "NightwaveEntertechmentCrate.png",
+    "category": "Skins",
+    "tradable": false,
     "masterable": false
   },
   {
@@ -141739,7 +142979,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyDJRomInfested",
     "name": "Technocyte Dj Rom Floof",
-    "description": "When DJ RoM speaks, the world tunes in! And this reporter was no exception. The whole crew from On-lyne nodded along as DJ said, “We became a group because we - infect people.” Talk about squad goals!",
+    "description": "When DJ RoM speaks, the world tunes in! And this reporter was no exception. The whole crew from On-lyne nodded along as DJ said, 'We became a group because we - infect people.' Talk about squad goals!",
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "PlushyDJRomInfested.png",
@@ -141862,6 +143102,17 @@
         "fixes": "Fixed the Tecton Sparring Skin not applying properly to the Prisma Obex."
       }
     ],
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/NightWaveScouterEyePiece",
+    "name": "Teisatz Oculus",
+    "codexSecret": false,
+    "description": "A stylish piece of new age tech with over 9000 different features.",
+    "type": "Skin",
+    "imageName": "NightWaveScouterEyePiece.png",
+    "category": "Skins",
+    "tradable": false,
     "masterable": false
   },
   {
@@ -146093,6 +147344,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultM2022TennoCon",
     "name": "Tennocon 2022 Hood",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Bestowed upon those who joined together in celebration at TennoCon 2022.",
     "type": "Skin",
     "imageName": "HoodAdultTennocon2022.png",
@@ -147058,6 +148310,18 @@
     "description": "A stylish moustache for your Warframe.",
     "type": "Skin",
     "imageName": "MustacheDastard.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Titles/KaboomTitle",
+    "name": "The Demolitionist Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -153133,10 +154397,21 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/UmbraScarfHood",
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/AdultUmbraScarfHood",
     "name": "Umbra Hooded Scarf",
     "codexSecret": false,
     "excludeFromCodex": true,
+    "description": "A fashionable accessory fitted for the Drifter.",
+    "type": "Skin",
+    "imageName": "AdultUmbraScarfHood.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/UmbraScarfHood",
+    "name": "Umbra Hooded Scarf",
+    "codexSecret": false,
     "description": "A fashionable accessory.",
     "type": "Skin",
     "imageName": "UmbraHoodScarf.png",
@@ -154555,6 +155830,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultF",
     "name": "Vahd Apparel",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Drifter.",
     "type": "Skin",
     "imageName": "SkirtAdultF.png",
@@ -154926,6 +156202,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultF",
     "name": "Vahd Cuirass",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Drifter.",
     "type": "Skin",
     "imageName": "BodySuitAdultF.png",
@@ -155024,6 +156301,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultF",
     "name": "Vahd Greaves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Drifter.",
     "type": "Skin",
     "imageName": "LeggingsAdultF.png",
@@ -155122,6 +156400,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultF",
     "name": "Vahd Mask",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Drifter.",
     "type": "Skin",
     "imageName": "HoodAdultF.png",
@@ -155220,6 +156499,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultF",
     "name": "Vahd Pauldrons",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Drifter.",
     "type": "Skin",
     "imageName": "SleevesAdultF.png",
@@ -156754,6 +158034,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultNewC",
     "name": "Varida Hood",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A hood belonging to a Drifter outfit.",
     "type": "Skin",
     "imageName": "HoodAdultNewC.png",
@@ -156777,6 +158058,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultNewC",
     "name": "Varida Leggings",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Leggings for a Drifter outfit.",
     "type": "Skin",
     "imageName": "LeggingsAdultNewC.png",
@@ -156800,6 +158082,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultNewC",
     "name": "Varida Sleeves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Sleeves for a Drifter outfit.",
     "type": "Skin",
     "imageName": "SleevesAdultNewC.png",
@@ -156823,6 +158106,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultNewC",
     "name": "Varida Suit",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "A suit of a Drifter outfit.",
     "type": "Skin",
     "imageName": "BodySuitAdultNewC.png",
@@ -158762,6 +160046,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultN",
     "name": "Vent Pobber Ventkid Apparel",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
     "type": "Skin",
     "imageName": "SkirtAdultN.png",
@@ -158890,6 +160175,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultN",
     "name": "Vent Pobber Ventkid Cuirass",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
     "type": "Skin",
     "imageName": "BodySuitAdultN.png",
@@ -159018,6 +160304,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultN",
     "name": "Vent Pobber Ventkid Greaves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
     "type": "Skin",
     "imageName": "LeggingsAdultN.png",
@@ -159789,6 +161076,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultN",
     "name": "Vent Pobber Ventkid Mask",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
     "type": "Skin",
     "imageName": "HoodAdultN.png",
@@ -159919,6 +161207,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultN",
     "name": "Vent Pobber Ventkid Pauldrons",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
     "type": "Skin",
     "imageName": "SleevesAdultN.png",
@@ -160126,6 +161415,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultL",
     "name": "Vent Rat Cuirass",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Living in Fortuna a lot of repairs need to happen in the vents. Lightweight and practical Drifter armor designed for flexibility and tight squeezes.",
     "type": "Skin",
     "imageName": "BodySuitAdultL.png",
@@ -160225,6 +161515,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultL",
     "name": "Vent Rat Greaves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Living in Fortuna a lot of repairs need to happen in the vents. Lightweight and practical Drifter armor designed for flexibility and tight squeezes.",
     "type": "Skin",
     "imageName": "LeggingsAdultL.png",
@@ -160323,6 +161614,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultL",
     "name": "Vent Rat Mask",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Living in Fortuna a lot of repairs need to happen in the vents. Lightweight and practical Drifter armor designed for flexibility and tight squeezes.",
     "type": "Skin",
     "imageName": "HoodAdultL.png",
@@ -160421,6 +161713,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultL",
     "name": "Vent Rat Pauldrons",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Living in Fortuna a lot of repairs need to happen in the vents. Lightweight and practical Drifter armor designed for flexibility and tight squeezes.",
     "type": "Skin",
     "imageName": "SleevesAdultL.png",
@@ -165073,6 +166366,18 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/TheCameraAdds100Title",
+    "name": "Was Never Here Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Duviri/PuzzleSphinxOwl",
     "name": "Watchful Paragrimm",
     "description": "The Watchful Paragrimm chooses to watch over those with keen minds.",
@@ -166040,6 +167345,18 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/Titles/Mercenary5InvasionsTitle",
+    "name": "Will Do Anything For Money Honoria",
+    "description": "An Honoria for your profile.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "GenericHonoriaIcon.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/Emotes/DancePacketWindmillShuffle",
     "name": "Windmill Shuffle",
     "description": "These vintage moves are just too cool for school. Earned from a Technocyte Coda.",
@@ -166843,6 +168160,17 @@
     ],
     "type": "Skin",
     "imageName": "WolfHood.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/WolfHoodAdult",
+    "name": "Wolf Hood",
+    "codexSecret": false,
+    "description": "A hood from the only lunatic fearsome enough to have escaped the Saturn Six Max-Pen.",
+    "type": "Skin",
+    "imageName": "WolfHoodAdult.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -172023,6 +173351,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultG",
     "name": "Zauba Apparel",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Drifter.",
     "type": "Skin",
     "imageName": "SkirtAdultG.png",
@@ -172625,6 +173954,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultG",
     "name": "Zauba Cuirass",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Drifter.",
     "type": "Skin",
     "imageName": "BodySuitAdultG.png",
@@ -172708,6 +174038,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultG",
     "name": "Zauba Greaves",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Drifter.",
     "type": "Skin",
     "imageName": "LeggingsAdultG.png",
@@ -172791,6 +174122,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultG",
     "name": "Zauba Mask",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Drifter.",
     "type": "Skin",
     "imageName": "HoodAdultG.png",
@@ -172874,6 +174206,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultG",
     "name": "Zauba Pauldrons",
     "codexSecret": false,
+    "excludeFromCodex": true,
     "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Drifter.",
     "type": "Skin",
     "imageName": "SleevesAdultG.png",

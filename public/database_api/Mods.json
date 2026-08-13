@@ -9056,7 +9056,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -85277,7 +85277,7 @@
     ],
     "patchlogs": [
       {
-        "name": "Update 32.2.0: Lua’s Prey",
+        "name": "Update 32.2.0: Lua��s Prey",
         "date": "2022-11-30T16:01:46Z",
         "url": "https://forums.warframe.com/topic/1332235-update-3220-lua%E2%80%99s-prey/",
         "additions": "",
@@ -108199,7 +108199,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -122089,7 +122089,7 @@
         "date": "2020-11-19T23:39:27Z",
         "url": "https://forums.warframe.com/topic/1236257-update-295-deimos-arcana/",
         "additions": "",
-        "changes": "Grasp of Lohk weapons will visually darken when near the end of their lifespan.\nAlthough the ability bar does count down the lifespan once cast, this visual change offers another way to determine when your Grasp of Lohk needs to be recast as opposed to waiting until the ability expires completely, or having to watch/recheck the ability bar.\nNote on Grasp of Lohk’s ‘Target Range’: \nIn Round 1, we made the distinction between Grasp of Lohk’s ��Grab Range’ and ‘Target Range’. We then increased its ‘Grab Range’ and left ‘Target Range’ untouched due to “firing range experiments being a bit too wild for Round 1”. As we’ve continued testing, this has held true. In any instance where we’ve increased it, even slightly, we neared a state that we had already established was undesirable due to its encouragement of an ‘inactive’ way of playing (Ember’s “World on Fire” comes to mind before it was changed to “Inferno”). As a result, ‘Target Range’ will continue to remain untouched for this round.\nCurrently, Deny’s casting animation locks Xaku in place. While we did increase the casting speed in Round 1, it just simply was not enough to fulfill the parkour freedom you’ve become well familiar with in Warframe. Removing the lock brings back the ninja fantasy while also making the most of the synergy between Deny and Grasp of Lohk that we added in Round 1. As we said in our first Xaku Dev Workshop, “more firepower… faster”, but this time we really mean it!",
+        "changes": "Grasp of Lohk weapons will visually darken when near the end of their lifespan.\nAlthough the ability bar does count down the lifespan once cast, this visual change offers another way to determine when your Grasp of Lohk needs to be recast as opposed to waiting until the ability expires completely, or having to watch/recheck the ability bar.\nNote on Grasp of Lohk’s ‘Target Range’: \nIn Round 1, we made the distinction between Grasp of Lohk’s ‘Grab Range’ and ‘Target Range’. We then increased its ‘Grab Range’ and left ‘Target Range’ untouched due to “firing range experiments being a bit too wild for Round 1”. As we’ve continued testing, this has held true. In any instance where we’ve increased it, even slightly, we neared a state that we had already established was undesirable due to its encouragement of an ‘inactive’ way of playing (Ember’s “World on Fire” comes to mind before it was changed to “Inferno”). As a result, ‘Target Range’ will continue to remain untouched for this round.\nCurrently, Deny’s casting animation locks Xaku in place. While we did increase the casting speed in Round 1, it just simply was not enough to fulfill the parkour freedom you’ve become well familiar with in Warframe. Removing the lock brings back the ninja fantasy while also making the most of the synergy between Deny and Grasp of Lohk that we added in Round 1. As we said in our first Xaku Dev Workshop, “more firepower… faster”, but this time we really mean it!",
         "fixes": ""
       },
       {
@@ -132715,7 +132715,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "upgradeEntries": [
       {
         "tag": "WeaponMeleeDamageMod",
@@ -163961,6 +163961,54 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/Nightwave/NightwaveLasGooAKAugmentMod",
+    "name": "Overpressured Rounds",
+    "polarity": "madurai",
+    "rarity": "Rare",
+    "codexSecret": false,
+    "baseDrain": 2,
+    "fusionLimit": 5,
+    "compatName": "EFV-5 Jupiter",
+    "type": "Primary Mod",
+    "levelStats": [
+      {
+        "stats": [
+          "Rifle kills add 20% Falloff Distance and decrease Spread for next attack with Buckshot. Buckshot kills restore 25% of the current Magazine."
+        ]
+      },
+      {
+        "stats": [
+          "Rifle kills add 40% Falloff Distance and decrease Spread for next attack with Buckshot. Buckshot kills restore 30% of the current Magazine."
+        ]
+      },
+      {
+        "stats": [
+          "Rifle kills add 60% Falloff Distance and decrease Spread for next attack with Buckshot. Buckshot kills restore 35% of the current Magazine."
+        ]
+      },
+      {
+        "stats": [
+          "Rifle kills add 80% Falloff Distance and decrease Spread for next attack with Buckshot. Buckshot kills restore 40% of the current Magazine."
+        ]
+      },
+      {
+        "stats": [
+          "Rifle kills add 100% Falloff Distance and decrease Spread for next attack with Buckshot. Buckshot kills restore 45% of the current Magazine."
+        ]
+      },
+      {
+        "stats": [
+          "Rifle kills add 120% Falloff Distance and decrease Spread for next attack with Buckshot. Buckshot kills restore 50% of the current Magazine."
+        ]
+      }
+    ],
+    "imageName": "NightwaveLasGooAKAugmentMod.jpg",
+    "category": "Mods",
+    "tradable": true,
+    "isPrime": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HigherAirAimFoVRifleMod",
     "name": "Overview",
     "polarity": "naramon",
@@ -172492,7 +172540,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -195607,6 +195655,80 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingWeaponFreezeDamageModExpert",
+    "name": "Primed Polar Magazine",
+    "polarity": "vazarin",
+    "rarity": "Legendary",
+    "codexSecret": false,
+    "baseDrain": 4,
+    "fusionLimit": 10,
+    "excludeFromCodex": true,
+    "compatName": "Archgun",
+    "type": "Arch-Gun Mod",
+    "levelStats": [
+      {
+        "stats": [
+          "+17% <DT_FREEZE_COLOR>Cold"
+        ]
+      },
+      {
+        "stats": [
+          "+34% <DT_FREEZE_COLOR>Cold"
+        ]
+      },
+      {
+        "stats": [
+          "+51% <DT_FREEZE_COLOR>Cold"
+        ]
+      },
+      {
+        "stats": [
+          "+68% <DT_FREEZE_COLOR>Cold"
+        ]
+      },
+      {
+        "stats": [
+          "+85% <DT_FREEZE_COLOR>Cold"
+        ]
+      },
+      {
+        "stats": [
+          "+102% <DT_FREEZE_COLOR>Cold"
+        ]
+      },
+      {
+        "stats": [
+          "+119% <DT_FREEZE_COLOR>Cold"
+        ]
+      },
+      {
+        "stats": [
+          "+136% <DT_FREEZE_COLOR>Cold"
+        ]
+      },
+      {
+        "stats": [
+          "+153% <DT_FREEZE_COLOR>Cold"
+        ]
+      },
+      {
+        "stats": [
+          "+170% <DT_FREEZE_COLOR>Cold"
+        ]
+      },
+      {
+        "stats": [
+          "+187% <DT_FREEZE_COLOR>Cold"
+        ]
+      }
+    ],
+    "imageName": "ArchwingWeaponFreezeDamageModRifle.jpg",
+    "category": "Mods",
+    "tradable": true,
+    "isPrime": true,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeDamageModExpert",
     "name": "Primed Pressure Point",
     "polarity": "madurai",
@@ -199631,6 +199753,54 @@
       "date": "2019-05-22"
     },
     "releaseDate": "2019-05-22",
+    "isPrime": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Event/Nightwave/NightwaveLasGooPistolAugmentMod",
+    "name": "Prototype Shock Coils",
+    "polarity": "madurai",
+    "rarity": "Rare",
+    "codexSecret": false,
+    "baseDrain": 2,
+    "fusionLimit": 5,
+    "compatName": "EFV-8 Mars",
+    "type": "Secondary Mod",
+    "levelStats": [
+      {
+        "stats": [
+          "Adds +15% <DT_ELECTRICITY_COLOR>Electric damage, and shots have a 20% base chance to apply extra Electric status independent of modded damage types."
+        ]
+      },
+      {
+        "stats": [
+          "Adds +30% <DT_ELECTRICITY_COLOR>Electric damage, and shots have a 20% base chance to apply extra Electric status independent of modded damage types."
+        ]
+      },
+      {
+        "stats": [
+          "Adds +45% <DT_ELECTRICITY_COLOR>Electric damage, and shots have a 20% base chance to apply extra Electric status independent of modded damage types."
+        ]
+      },
+      {
+        "stats": [
+          "Adds +60% <DT_ELECTRICITY_COLOR>Electric damage, and shots have a 20% base chance to apply extra Electric status independent of modded damage types."
+        ]
+      },
+      {
+        "stats": [
+          "Adds +75% <DT_ELECTRICITY_COLOR>Electric damage, and shots have a 20% base chance to apply extra Electric status independent of modded damage types."
+        ]
+      },
+      {
+        "stats": [
+          "Adds +90% <DT_ELECTRICITY_COLOR>Electric damage, and shots have a 20% base chance to apply extra Electric status independent of modded damage types."
+        ]
+      }
+    ],
+    "imageName": "NightwaveLasGooPistolAugmentMod.jpg",
+    "category": "Mods",
+    "tradable": true,
     "isPrime": false,
     "masterable": false
   },
@@ -221259,7 +221429,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -254325,7 +254495,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -304958,7 +305128,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -304986,7 +305156,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -305014,7 +305184,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -305043,7 +305213,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -305072,7 +305242,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -305101,7 +305271,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -305130,7 +305300,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -305159,7 +305329,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -305188,7 +305358,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -305217,7 +305387,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -320246,7 +320416,7 @@
     "rarity": "Common",
     "codexSecret": true,
     "baseDrain": 2,
-    "fusionLimit": 515,
+    "fusionLimit": 551,
     "upgradeEntries": [
       {
         "tag": "WeaponMeleeDamageMod",

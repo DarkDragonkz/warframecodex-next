@@ -1882,6 +1882,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightwaveArthurPaladinGlyph",
+    "name": "Cedric Dawnsong Glyph",
+    "description": "A glyph for your profile featuring Arthur's Fables & Frontiers character. Created by community artist ZliDe.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "NightwaveArthurPaladinGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphMuckneyH",
     "name": "Ceph Pinacoid Glyph",
     "description": "A Glyph for your profile.",
@@ -2311,6 +2322,17 @@
     "excludeFromCodex": true,
     "type": "Glyph",
     "imageName": "ColdTiger.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightwaveCommanderNachGlyph",
+    "name": "Commander Nach Glyph",
+    "description": "Forever in search of his Bifron key, and someone to listen to his monologue.\n\nFrom an ill-fated Fables & Frontiers adventure.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "CommanderNachGlyph.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -3974,7 +3996,7 @@
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageHalloween2024SisterGlyph",
     "name": "Daughter Naberus Glyph",
-    "description": "“It's almost upon us! The ancient festival of death and mischief, Naberus!” - Daughter",
+    "description": "'It's almost upon us! The ancient festival of death and mischief, Naberus!' - Daughter",
     "codexSecret": false,
     "type": "Glyph",
     "imageName": "Halloween24Sister02.png",
@@ -3985,7 +4007,7 @@
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageHalloween2024SisterNoBloodGlyph",
     "name": "Daughter Naberus Nights Glyph",
-    "description": "“It's almost upon us! The ancient festival of death and mischief, Naberus!” - Daughter",
+    "description": "'It's almost upon us! The ancient festival of death and mischief, Naberus!' - Daughter",
     "codexSecret": false,
     "type": "Glyph",
     "imageName": "Halloween24Sister01.png",
@@ -4337,6 +4359,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightwaveAmirHijackGlyph",
+    "name": "Dj Shockwave Glyph",
+    "description": "A glyph awarded to those who tuned in to Amir's takeover of the airwaves.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "AmirHijackGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDJTechlive",
     "name": "Djtechlive Glyph",
     "description": "A Glyph for your profile.",
@@ -4520,6 +4553,17 @@
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "Valentines2020HeartKey.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightwaveDrippyGraffitiGlyph",
+    "name": "Drippy Dog Days Glyph",
+    "description": "The K.O.L. Summer update includes this new Drippy to help you cool off and enjoy your summer.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "DrippyWatergunGlyph.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -8081,6 +8125,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightwaveLettieDruidGlyph",
+    "name": "Ixchel Balam Glyph",
+    "description": "A glyph for your profile featuring Lettie's Fables & Frontiers character. Created by community artist ZliDe.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "NightwaveLettieDruidGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageJ3ubbleboy",
     "name": "J3ubbleboy Glyph",
     "description": "A Glyph for your profile.",
@@ -9690,6 +9745,28 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightwaveLordAlanVGlyph",
+    "name": "Lord Alan V Glyph",
+    "description": "What does the V stand for? Nobody knows.\n\nFrom an ill-fated Fables & Frontiers adventure.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "LordAlanVGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightwaveQuincyRangerGlyph",
+    "name": "Lord Reyland Kingsacre Glyph",
+    "description": "A glyph for your profile featuring Quincy's Fables & Frontiers character. Created by community artist ZliDe.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "NightwaveQuincyRangerGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLordSaliak",
     "name": "Lordsaliak Glyph",
     "description": "A Glyph for your profile.",
@@ -9954,6 +10031,17 @@
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "MCIK.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightwaveMitMimicGlyph",
+    "name": "M.I.T.Mimic Glyph",
+    "description": "We're sure it's a normal glyph…\n\nFrom an ill-fated Fables & Frontiers adventure.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "MitmimicGlyph.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -10822,6 +10910,17 @@
     "codexSecret": false,
     "type": "Glyph",
     "imageName": "Halloween23Inaros.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightwaveAoiBarbarianGlyph",
+    "name": "Morohime Ichigeki Glyph",
+    "description": "A glyph for your profile featuring Aoi's Fables & Frontiers character. Created by community artist ZliDe.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "NightwaveAoiBarbarianGlyph.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -13765,6 +13864,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightwaveEleanorWarlockGlyph",
+    "name": "Sanguina Kallisti Glyph",
+    "description": "A glyph for your profile featuring Eleanor's Fables & Frontiers character. Created by community artist ZliDe.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "NightwaveEleanorWarlockGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Conservation/AvatarImageVenusFish",
     "name": "Sapcaddy Glyph",
     "description": "A Glyph for your profile.",
@@ -16112,6 +16222,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennoVIPXian2026Glpyh",
+    "name": "Tennovip Xi'An 2026 Glyph",
+    "description": "A glyph for VIP Tenno.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "TennoVIPXian2026Glpyh.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTeshinVed",
     "name": "Teshin Glyph",
     "description": "A Glyph for your profile.",
@@ -16134,6 +16255,28 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightwaveAmirArcaneTricksterGlyph",
+    "name": "The Fablemaster Glyph",
+    "description": "A glyph for your profile featuring Amir's Fables & Frontiers character. Created by community artist ZliDe.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "NightwaveAmirArcaneTricksterGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightwaveHekHolderGlyph",
+    "name": "The Hekholder Glyph",
+    "description": "Its creator deeply regrets having come up with it in the first place.\n\nFrom an ill-fated Fables & Frontiers adventure.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "HekHolderGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageCorpusJackal",
     "name": "The Jackal Glyph",
     "description": "A glyph of the Jackal",
@@ -16151,6 +16294,28 @@
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "PlayerAvatarsInkary.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightwaveNoodleCubeGlyph",
+    "name": "The Noodlecube Glyph",
+    "description": "It's jiggly. It's square. It didn't even have time to make an appearance, but we love its little face anyway.\n\nFrom an ill-fated Fables & Frontiers adventure.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "NoodleCubeGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightwaveOroDragonGlyph",
+    "name": "The Orodragon Glyph",
+    "description": "Big. Red. Has the turning radius of a 1967 Cross Unyvers 500.\n\nFrom an ill-fated Fables & Frontiers adventure. ",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "OrodragonGlyph.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
