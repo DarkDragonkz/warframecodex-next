@@ -8989,7 +8989,8 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -8999,62 +9000,7 @@
         "itemCount": 2500,
         "imageName": "ComponentFerrite.png",
         "tradable": false,
-        "drops": [
-          {
-            "location": "Earth/Cervantes (Caches), Rotation B",
-            "type": "300X Ferrite",
-            "chance": 12.18,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Neptune/Cephalon Capture (Conclave), Rotation B",
-            "type": "400X Ferrite",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Annihilation (Conclave), Rotation B",
-            "type": "400X Ferrite",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
-            "type": "400X Ferrite",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Lunaro (Conclave), Rotation B",
-            "type": "400X Ferrite",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
-            "type": "400X Ferrite",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
-            "type": "400X Ferrite",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
-            "type": "400X Ferrite",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
-            "type": "400X Ferrite",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          }
-        ],
+        "drops": [],
         "masterable": false
       },
       {
@@ -9065,116 +9011,7 @@
         "itemCount": 2500,
         "imageName": "ComponentNanospores.png",
         "tradable": false,
-        "drops": [
-          {
-            "location": "Neptune/Cephalon Capture (Conclave), Rotation B",
-            "type": "500X Nano Spores",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Annihilation (Conclave), Rotation B",
-            "type": "500X Nano Spores",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
-            "type": "500X Nano Spores",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Lunaro (Conclave), Rotation B",
-            "type": "500X Nano Spores",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
-            "type": "500X Nano Spores",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
-            "type": "500X Nano Spores",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
-            "type": "500X Nano Spores",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
-            "type": "500X Nano Spores",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C",
-            "type": "200X Nano Spores",
-            "chance": 13.24,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Deimos/Formido (Caches), Rotation A",
-            "type": "1000X Nano Spores",
-            "chance": 14.29,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C",
-            "type": "200X Nano Spores",
-            "chance": 15,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Hallowed Flame Mission Caches, Rotation A",
-            "type": "500X Nano Spores",
-            "chance": 15.18,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Eris/Candiru (Caches), Rotation A",
-            "type": "1000X Nano Spores",
-            "chance": 16.67,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Eris/Lepis (Caches), Rotation A",
-            "type": "1000X Nano Spores",
-            "chance": 16.67,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Eris/Naeglar (Caches), Rotation A",
-            "type": "1000X Nano Spores",
-            "chance": 16.67,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Eris/Psoro (Caches), Rotation A",
-            "type": "1000X Nano Spores",
-            "chance": 16.67,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Eris/Viver (Caches), Rotation A",
-            "type": "1000X Nano Spores",
-            "chance": 16.67,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C",
-            "type": "200X Nano Spores",
-            "chance": 25,
-            "rarity": "Uncommon"
-          }
-        ],
+        "drops": [],
         "masterable": false,
         "type": "Resource"
       },
@@ -9186,68 +9023,7 @@
         "itemCount": 2500,
         "imageName": "ComponentSalvage.png",
         "tradable": false,
-        "drops": [
-          {
-            "location": "Neptune/Cephalon Capture (Conclave), Rotation B",
-            "type": "600X Salvage",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Annihilation (Conclave), Rotation B",
-            "type": "600X Salvage",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
-            "type": "600X Salvage",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Lunaro (Conclave), Rotation B",
-            "type": "600X Salvage",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
-            "type": "600X Salvage",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
-            "type": "600X Salvage",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
-            "type": "600X Salvage",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
-            "type": "600X Salvage",
-            "chance": 12.65,
-            "rarity": "Uncommon"
-          },
-          {
-            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation A",
-            "type": "10X Salvage",
-            "chance": 3.16,
-            "rarity": "Rare"
-          },
-          {
-            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
-            "type": "10X Salvage",
-            "chance": 3.16,
-            "rarity": "Rare"
-          }
-        ],
+        "drops": [],
         "masterable": false,
         "type": "Resource"
       }

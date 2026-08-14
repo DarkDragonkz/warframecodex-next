@@ -7758,7 +7758,7 @@
     "name": "Lunar Pitcher",
     "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
     "codexSecret": false,
-    "itemCount": 50,
+    "itemCount": 6,
     "parents": [
       "Seeding Step Ephemera",
       "Twilight Apothic"
@@ -8144,7 +8144,7 @@
     "name": "Moonlight Dragonlily",
     "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 10,
+    "itemCount": 6,
     "parents": [
       "Lapis Antitoxin",
       "Nightfall Apothic",
@@ -11985,7 +11985,7 @@
     "name": "Sunlight Dragonlily",
     "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 10,
+    "itemCount": 4,
     "parents": [
       "Citrine Antitoxin",
       "Lapis Antitoxin",

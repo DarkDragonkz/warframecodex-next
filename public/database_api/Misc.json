@@ -57071,7 +57071,7 @@
     "name": "Karkina Antenna",
     "description": "Ground into a powder this substance can makes fires burn hotter for a brief amount of time.\n\nSource: Cut from Karkina fish via Fisher Hai-Luk in Cetus (Earth). Catch Karkina in the Plains of Eidolon ocean at any time of day using Twilight Bait. Also drops from Thumpers in the Plains of Eidolon.",
     "codexSecret": false,
-    "itemCount": 20,
+    "itemCount": 3,
     "parents": [
       "Fosfor Blau",
       "Norg Bait",
@@ -72471,7 +72471,8 @@
         "itemCount": 1,
         "imageName": "GenericLandingCraftSystems.png",
         "tradable": false,
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/LandingCraftRecipes/NightwaveShip/NoraShipBlueprint",
@@ -72480,7 +72481,8 @@
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false,
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/LandingCraftRecipes/NightwaveShip/NoraShipEnginesComponent",
@@ -72490,7 +72492,8 @@
         "itemCount": 1,
         "imageName": "GenericLandingCraftEngines.png",
         "tradable": false,
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/LandingCraftRecipes/NightwaveShip/NoraShipFuselageComponent",
@@ -72500,7 +72503,8 @@
         "itemCount": 1,
         "imageName": "GenericLandingCraftFuselage.png",
         "tradable": false,
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -72564,7 +72568,8 @@
         "imageName": "ComponentCell.png",
         "tradable": false,
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       }
     ],
     "type": "Orbiter",
@@ -88876,7 +88881,7 @@
     "name": "Sharrac Teeth",
     "description": "These will often adorn ceremonial garb or as a reagent for synthetics.\n\nSource: Cut from Sharrac fish via Fisher Hai-Luk in Cetus (Earth). Catch Sharrac in the Plains of Eidolon ocean at any time of day using Twilight Bait. Also drops from Thumpers in the Plains of Eidolon.",
     "codexSecret": false,
-    "itemCount": 20,
+    "itemCount": 5,
     "parents": [
       "Ceno Pauldrons",
       "Fosfor Rahd",
