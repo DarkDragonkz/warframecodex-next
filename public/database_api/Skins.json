@@ -34774,7 +34774,7 @@
         "date": "2014-07-26T01:03:34Z",
         "url": "https://forums.warframe.com/topic/273702-hotfix-1409/",
         "additions": "",
-        "changes": "Fixed ���Invite’ button not showing up in the Dojo.",
+        "changes": "Fixed ‘Invite’ button not showing up in the Dojo.",
         "fixes": ""
       },
       {
@@ -142027,7 +142027,6 @@
         "name": "Star Amarast",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
-        "itemCount": 10,
         "buildPrice": 5000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -142056,6 +142055,7 @@
             "drops": []
           }
         ],
+        "itemCount": 10,
         "imageName": "SolarisRareGemACut.png",
         "tradable": false,
         "masterable": false,
