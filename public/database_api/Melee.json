@@ -143863,7 +143863,7 @@
         "url": "https://forums.warframe.com/topic/660347-update-lunaro/",
         "additions": "",
         "changes": "",
-        "fixes": "•    Fixed Zephyr’s Turbulence not deflecting bullets from hitscan weapons while in mid-air as per https://www.reddit.com/r/Warframe/comments/4nsj44/bug_turbulence_hitscan_inconsistency_source_found/.\n•    Fixed Hydroid’s abilities causing a delay when attempting to melee or cast another power as per: https://forums.warframe.com/topic/655371-anyone-notice-the-hydroid-nerf/•    Fixed Valkyr’s Hysteria draining twice the amount of Energy as per:  Fixed Valkyr's Hysteria applying efficiency Mods twice as per:��https://www.reddit.com/r/Warframe/comments/4nh5fs/fyi_hysteria_energy_drain_mechanics/"
+        "fixes": "•    Fixed Zephyr’s Turbulence not deflecting bullets from hitscan weapons while in mid-air as per https://www.reddit.com/r/Warframe/comments/4nsj44/bug_turbulence_hitscan_inconsistency_source_found/.\n•    Fixed Hydroid’s abilities causing a delay when attempting to melee or cast another power as per: https://forums.warframe.com/topic/655371-anyone-notice-the-hydroid-nerf/•    Fixed Valkyr’s Hysteria draining twice the amount of Energy as per:  Fixed Valkyr's Hysteria applying efficiency Mods twice as per: https://www.reddit.com/r/Warframe/comments/4nh5fs/fyi_hysteria_energy_drain_mechanics/"
       },
       {
         "name": "Hotfix 18.13.2",
