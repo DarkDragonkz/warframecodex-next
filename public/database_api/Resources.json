@@ -19,7 +19,11 @@
     "parents": [
       "Bonewidow Engine",
       "Cortege Barrel",
+      "Feverspine",
       "Morgha Barrel",
+      "Palmaris",
+      "Raiju Core",
+      "Sporelacer",
       "Voidrig Casing"
     ],
     "buildPrice": 1000,
@@ -115,8 +119,7 @@
     "codexSecret": false,
     "itemCount": 20,
     "parents": [
-      "Adramal Alloy",
-      "Xaku Kintsu Helmet"
+      "Adramal Alloy"
     ],
     "type": "Gem",
     "imageName": "DeimosCommonOreA.png",
@@ -224,6 +227,11 @@
     "name": "Aggristone",
     "description": "It is said that Aggri Formations are hardened saliva from mighty Orowyrms. Duviri citizens believe Aggristones are powerful talismans.\n\nLocation: Duviri",
     "codexSecret": false,
+    "itemCount": 150,
+    "parents": [
+      "Argo & Vel",
+      "Sampotes"
+    ],
     "type": "Resource",
     "imageName": "DuviriAggristone.png",
     "category": "Resources",
@@ -751,6 +759,13 @@
     "name": "Atmo Systems",
     "description": "A modular component that compensates for the multitude of atmospheric conditions encountered in the Origin System. \n\nLocation: Obtained by completing Heists on the Orb Vallis (Venus)",
     "codexSecret": false,
+    "itemCount": 2,
+    "parents": [
+      "Dissic Scaffold",
+      "Exard Scaffold",
+      "Galvacord",
+      "Propa Scaffold"
+    ],
     "type": "Resource",
     "imageName": "CorpusWidgetB.png",
     "category": "Resources",
@@ -1066,9 +1081,26 @@
     "name": "Axidrol Alloy",
     "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "codexSecret": false,
-    "itemCount": 45,
+    "itemCount": 30,
     "parents": [
-      "Oxylus"
+      "Alcrom Core",
+      "Bad Baby",
+      "Bellows",
+      "Brash",
+      "Drex Core",
+      "Drimper Bracket",
+      "Fatboys",
+      "Garmr Core",
+      "Gibber",
+      "Jonsin Bracket",
+      "Krisys Core",
+      "Oxylus",
+      "Para Moa",
+      "Ramble",
+      "Tombfinger",
+      "Tremor",
+      "Zip",
+      "Zubb Bracket"
     ],
     "buildPrice": 1000,
     "buildTime": 60,
@@ -1788,18 +1820,12 @@
     "name": "Calda Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Calda Toroids from enemies located at the Enrichment Labs in the Orb Vallis and from Scyto Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
     "codexSecret": false,
-    "itemCount": 2,
+    "itemCount": 3,
     "parents": [
-      "Haztech Apparel",
-      "Haztech Cuirass",
-      "Kubrodon Ventkid Apparel",
-      "Kubrodon Ventkid Cuirass",
-      "Outrider Cuirass",
-      "Smelter Apparel",
-      "Smelter Cuirass",
-      "Vent Pobber Ventkid Apparel",
-      "Vent Pobber Ventkid Cuirass",
-      "Vent Rat Cuirass"
+      "Dissic Scaffold",
+      "Exard Scaffold",
+      "Propa Scaffold",
+      "Urga Bracket"
     ],
     "type": "Resource",
     "imageName": "CrpArachnoidPowerCoreHunger.png",
@@ -1872,9 +1898,9 @@
     "name": "Carbides",
     "description": "Resilient components used to reinforce the plated sheets of metal strapped to Grineer Ships.\n\nLocation: Eximus units in the Grineer Shipyard Tileset, and Railjack missions in Earth, Saturn, and Veil Proximas",
     "codexSecret": false,
-    "itemCount": 2000,
+    "itemCount": 800,
     "parents": [
-      "Protea Telema Helmet"
+      "Basmu"
     ],
     "buildPrice": 1000,
     "buildTime": 120,
@@ -2031,11 +2057,18 @@
     "codexSecret": false,
     "itemCount": 5,
     "parents": [
-      "Zauba Apparel",
-      "Zauba Cuirass",
-      "Zauba Greaves",
-      "Zauba Mask",
-      "Zauba Pauldrons"
+      "Clapkra Brace",
+      "Ekwana Jai Ii",
+      "Ekwana Ruhang Ii",
+      "Juttni Brace",
+      "Klebrik Scaffold",
+      "Kwath",
+      "Lohrin Brace",
+      "Mewan",
+      "Pencha Scaffold",
+      "Shraksun Scaffold",
+      "Vargeet Jai Ii",
+      "Vargeet Ruhang Ii"
     ],
     "type": "Resource",
     "imageName": "CetusWisp.png",
@@ -2444,9 +2477,17 @@
     "name": "Condroc Wing",
     "description": "The talon on a condroc's wing is sharp enough to tear through bone.\n\nLocation: Plains of Eidolon on Earth",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 15,
     "parents": [
-      "Naberus Ephemera"
+      "Ekwana Ii Jai",
+      "Ekwana Ii Ruhang",
+      "Ekwana Jai",
+      "Ekwana Jai Ii",
+      "Ekwana Ruhang",
+      "Ekwana Ruhang Ii",
+      "Jai",
+      "Jai Ii",
+      "Sepfahn"
     ],
     "type": "Resource",
     "imageName": "BirdOfPreyPartItem.png",
@@ -2491,6 +2532,10 @@
     "name": "Connla Sprout",
     "description": "The water that courses through Connla Sprouts tastes sweet and refreshing.\n\nLocation: Duviri",
     "codexSecret": false,
+    "itemCount": 40,
+    "parents": [
+      "Edun"
+    ],
     "type": "Resource",
     "imageName": "DuviriPlantExtractC.png",
     "category": "Resources",
@@ -2700,6 +2745,10 @@
     "name": "Cortege Barrel",
     "description": "A Necramech weapon-crafting component.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Cortege"
+    ],
     "buildPrice": 1000,
     "buildTime": 60,
     "skipBuildTimePrice": 5,
@@ -2779,6 +2828,10 @@
     "name": "Cortege Receiver",
     "description": "A Necramech weapon-crafting component.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Cortege"
+    ],
     "buildPrice": 1000,
     "buildTime": 60,
     "skipBuildTimePrice": 5,
@@ -2868,6 +2921,10 @@
     "name": "Cortege Stock",
     "description": "A Necramech weapon-crafting component.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Cortege"
+    ],
     "buildPrice": 1000,
     "buildTime": 60,
     "skipBuildTimePrice": 5,
@@ -3058,6 +3115,10 @@
     "name": "Crisma Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Crisma Toroids by defeating the Profit-Taker Orb on the Orb Vallis (Venus).",
     "codexSecret": false,
+    "itemCount": 2,
+    "parents": [
+      "Larkspur"
+    ],
     "type": "Resource",
     "imageName": "CrpArachnoidPowerCoreCamper.png",
     "category": "Resources",
@@ -3287,13 +3348,6 @@
     "name": "Damaged Necramech Pod",
     "description": "A modular component for a Necramech. It's damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
     "codexSecret": false,
-    "itemCount": 1,
-    "parents": [
-      "Loid Sentinel Mask",
-      "Loid Sentinel Skin",
-      "Loid Sentinel Tail",
-      "Loid Sentinel Wing"
-    ],
     "type": "Resource",
     "imageName": "DamagedMechPartSystems.png",
     "category": "Resources",
@@ -3607,6 +3661,26 @@
     "name": "Detonite Injector",
     "description": "Detonite injectors are the basis for explosive and incendiary weapons.\n\nLocation: Clan Research (Chem Lab in the Dojo) and Grineer Invasion Rewards",
     "codexSecret": false,
+    "itemCount": 2,
+    "parents": [
+      "<Archwing> Knux",
+      "Ack & Brunt",
+      "Argonak",
+      "Buzlok",
+      "Grinlok",
+      "Ignis",
+      "Ignis Wraith",
+      "Jat Kittag",
+      "Jat Kusar",
+      "Javlok",
+      "Kesheg",
+      "Kohmak",
+      "Marelok",
+      "Nukor",
+      "Ogris",
+      "Sydon",
+      "Twin Krohkur"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 5,
@@ -3859,7 +3933,10 @@
     "parents": [
       "Bonewidow Weapon Pod",
       "Cortege Receiver",
+      "Garmr Core",
       "Morgha Receiver",
+      "Pulmonars",
+      "Quassus",
       "Voidrig Capsule"
     ],
     "buildPrice": 1000,
@@ -3956,6 +4033,10 @@
     "name": "Dracroot",
     "description": "Dracroot is a staple of the Wyrmling’s diet.\n\nLocation: Duviri",
     "codexSecret": false,
+    "itemCount": 30,
+    "parents": [
+      "Syam"
+    ],
     "type": "Resource",
     "imageName": "DuviriPlantExtractF.png",
     "category": "Resources",
@@ -4020,8 +4101,10 @@
     "name": "Echo Voca",
     "description": "The quietest and most elusive of Voidtongue utterances. Sought after but never found by Albrecht.\n\nLocation: Albrecht's Laboratories (Deimos)",
     "codexSecret": false,
-    "itemCount": 1,
+    "itemCount": 2,
     "parents": [
+      "Grimoire",
+      "Mandonel",
       "Qorvex"
     ],
     "type": "Resource",
@@ -4043,6 +4126,10 @@
     "name": "Eevani",
     "description": "Duviri citizens have been known to mash Eevani leaves into a paste that alleviates the discomfort caused by fresh wounds.\n\nLocation: Duviri",
     "codexSecret": false,
+    "itemCount": 30,
+    "parents": [
+      "Syam"
+    ],
     "type": "Resource",
     "imageName": "DuviriPlantExtractB.png",
     "category": "Resources",
@@ -4098,6 +4185,10 @@
     "name": "Efervon Sample",
     "description": "A sample of the corrosive substance that Scaldra use to purge Techrot. Handle with care.\n\nLocation: 1999 (Höllvania)",
     "codexSecret": false,
+    "itemCount": 60,
+    "parents": [
+      "Ax-52"
+    ],
     "type": "Resource",
     "imageName": "1999ResourceCommonA.png",
     "category": "Resources",
@@ -4288,10 +4379,14 @@
     "name": "Entrati Lanthorn",
     "description": "A ceremonial beacon used to map Void locations on to real space.\n\nLocation: Albrecht's Laboratories (Deimos) and Zariman",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 10,
     "parents": [
-      "Raptwing Ephemera",
-      "Seraphayre Ephemera"
+      "Alternox",
+      "Ekhein",
+      "Grimoire",
+      "Innodem",
+      "Onos",
+      "Phenmor"
     ],
     "type": "Resource",
     "imageName": "ZarimanMiscItemB.png",
@@ -4388,6 +4483,12 @@
     "name": "Entrati Obols",
     "description": "During the Orokin era, these obols were a commonly recognized mark of the Entrati family. Some Archimedeans even used them as good luck talismans.\n\nLocation: Albrecht's Laboratories (Deimos)",
     "codexSecret": false,
+    "itemCount": 2000,
+    "parents": [
+      "Ekhein",
+      "Grimoire",
+      "Thalys"
+    ],
     "type": "Resource",
     "imageName": "EntratiLabMiscItemA.png",
     "category": "Resources",
@@ -4460,9 +4561,19 @@
     "name": "Esher Devar",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "codexSecret": false,
-    "itemCount": 1,
+    "itemCount": 10,
     "parents": [
-      "Focused Nosam Cutter"
+      "Cryotra",
+      "Focused Nosam Cutter",
+      "Korrudo",
+      "Kronsh",
+      "Plague Keewar",
+      "Rabvee",
+      "Rahn Prism",
+      "Raplak Prism",
+      "Shwaak Prism",
+      "Swiftfire",
+      "Tazicor"
     ],
     "buildPrice": 1000,
     "buildTime": 60,
@@ -4513,6 +4624,10 @@
     "name": "Exceptional Sentient Core",
     "description": "A coveted sample of Sentient internal anatomy. Specimens of this age and quality are both rare and valuable. \n\nLocation: Eidolons found roaming the Plains of Eidolon on Earth at night",
     "codexSecret": false,
+    "itemCount": 5,
+    "parents": [
+      "Venato"
+    ],
     "buildPrice": 5000,
     "buildTime": 300,
     "skipBuildTimePrice": 5,
@@ -4895,10 +5010,35 @@
     "name": "Fieldron",
     "description": "ClanTech weaponized containment field to contain superheated substances.\n\nLocation: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards",
     "codexSecret": false,
-    "itemCount": 2,
+    "itemCount": 7,
     "parents": [
+      "Amprex",
       "Antiserum Injector",
-      "Helios"
+      "Arca Plasmor",
+      "Arca Scisco",
+      "Battacor",
+      "Convectrix",
+      "Cyanex",
+      "Cycron",
+      "Dera",
+      "Dual Cestra",
+      "Falcor",
+      "Ferrox",
+      "Flux Rifle",
+      "Glaxion",
+      "Helios",
+      "Komorex",
+      "Kreska",
+      "Lanka",
+      "Lenz",
+      "Ocucor",
+      "Opticor",
+      "Prova",
+      "Quanta",
+      "Serro",
+      "Spectra",
+      "Staticor",
+      "Supra"
     ],
     "buildPrice": 15000,
     "buildTime": 43200,
@@ -5469,6 +5609,22 @@
     "name": "Ganglion",
     "description": "A fallen clump of entangled nerve fibers, redundant organs, and thin sensory membranes.\n\nLocation: Cambion Drift on Deimos",
     "codexSecret": false,
+    "itemCount": 20,
+    "parents": [
+      "Arcroid",
+      "Desus Antigen",
+      "Elasmun Antigen",
+      "Feverspine",
+      "Ibexan Antigen",
+      "Iranon Antigen",
+      "Macro Arcroid",
+      "Nodulite",
+      "Plagen Antigen",
+      "Poxi Antigen",
+      "Tethron Antigen",
+      "Vermisplicer",
+      "Virox Antigen"
+    ],
     "type": "Resource",
     "imageName": "InfMapricoFruit.png",
     "category": "Resources",
@@ -5572,9 +5728,18 @@
     "name": "Gorgaricus Spore",
     "description": "The reproductive spore of the giant Vallis fungi is highly coveted for the complex chemical compounds it contains.\n\nLocation: Orb Vallis on Venus",
     "codexSecret": false,
-    "itemCount": 60,
+    "itemCount": 20,
     "parents": [
-      "Puppeteer"
+      "Beaky",
+      "Dink-A-Donk",
+      "Hextra Gyro",
+      "Lambeo Moa",
+      "Nychus Moa",
+      "Phazor Gyro",
+      "Rattleguts",
+      "Slap",
+      "Two-Sloops",
+      "Wingnut"
     ],
     "type": "Resource",
     "imageName": "VenusCoconut.png",
@@ -5780,12 +5945,22 @@
     "name": "Grokdrul",
     "description": "A noxious mix of polysaccharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.\n\nLocation: Plains of Eidolon on Earth",
     "codexSecret": false,
-    "itemCount": 55,
+    "itemCount": 40,
     "parents": [
       "Fosfor Blau",
+      "Kronsh",
       "Lanzo Fishing Spear",
+      "Pencha Scaffold",
       "Peram Fishing Spear",
+      "Phahd Scaffold",
+      "Plague Bokwin",
+      "Quartakk",
+      "Rabvee",
+      "Seekalla",
       "Shockprod Fishing Spear",
+      "Shraksun Scaffold",
+      "Shtung",
+      "Stubba",
       "Stunna Fishing Spear",
       "Tulok Fishing Spear"
     ],
@@ -5949,6 +6124,13 @@
     "name": "Gyromag Systems",
     "description": "A modular component that regulates latitude and altitude in various Corpus systems. \n\nLocation: Obtained by completing Heists on the Orb Vallis (Venus)",
     "codexSecret": false,
+    "itemCount": 3,
+    "parents": [
+      "Cantic Prism",
+      "Klamora Prism",
+      "Lega Prism",
+      "Plinx"
+    ],
     "type": "Resource",
     "imageName": "CorpusWidgetA.png",
     "category": "Resources",
@@ -6020,13 +6202,8 @@
     "codexSecret": false,
     "itemCount": 1,
     "parents": [
-      "Caliban Cranion Helmet",
       "Exceptional Sentient Core",
-      "Vahd Apparel",
-      "Vahd Cuirass",
-      "Vahd Greaves",
-      "Vahd Mask",
-      "Vahd Pauldrons"
+      "Phahd Scaffold"
     ],
     "buildPrice": 10000,
     "buildTime": 60,
@@ -6118,21 +6295,20 @@
     "name": "Hespazym Alloy",
     "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "codexSecret": false,
-    "itemCount": 50,
+    "itemCount": 30,
     "parents": [
-      "Haztech Greaves",
-      "Haztech Mask",
-      "Kubrodon Ventkid Greaves",
-      "Kubrodon Ventkid Mask",
-      "Outrider Greaves",
-      "Outrider Mask",
-      "Smelter Greaves",
-      "Smelter Mask",
-      "Styanax Gerousic Helmet",
-      "Vent Pobber Ventkid Greaves",
-      "Vent Pobber Ventkid Mask",
-      "Vent Rat Greaves",
-      "Vent Rat Mask"
+      "Dissic Scaffold",
+      "Exard Scaffold",
+      "Frak Stabilizer",
+      "Highbrow",
+      "Hothead",
+      "Lehan Core",
+      "Needlenose",
+      "Propa Scaffold",
+      "Runway",
+      "Stitch",
+      "Tatsu",
+      "Thunderdrum"
     ],
     "buildPrice": 1000,
     "buildTime": 60,
@@ -6243,6 +6419,10 @@
     "name": "Höllvanian Pitchweave Fragment",
     "description": "An Efervon-resistant material used to craft Scaldra uniforms.\n\nLocation: 1999 (Höllvania)",
     "codexSecret": false,
+    "itemCount": 60,
+    "parents": [
+      "Ax-52"
+    ],
     "type": "Resource",
     "imageName": "1999ResourceCommonB.png",
     "category": "Resources",
@@ -6410,6 +6590,11 @@
     "name": "Intact Sentient Core",
     "description": "An integral component of Sentient anatomy.  Rarely found undamaged, the specimen may prove useful.\n\nLocation: Drops from Vomvalysts on the Plains of Eidolon (Earth) at night, and from Sentients found on Lua and the Veil Proxima",
     "codexSecret": false,
+    "itemCount": 10,
+    "parents": [
+      "Phantasma",
+      "Verdilac"
+    ],
     "type": "Resource",
     "imageName": "QuillsCommonPickup.png",
     "category": "Resources",
@@ -6547,11 +6732,20 @@
     "name": "Iradite",
     "description": "A mineral valuable to the Ostrons.\n\nLocation: Plains of Eidolon on Earth",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 50,
     "parents": [
+      "Cela Bracket",
       "Fosfor Rahd",
+      "Korb",
       "Luminous Dye",
-      "Pharoma"
+      "Ooltha",
+      "Peye",
+      "Pharoma",
+      "Plague Akwin",
+      "Rahn Prism",
+      "Raplak Prism",
+      "Shwaak Prism",
+      "Venato"
     ],
     "type": "Resource",
     "imageName": "Iradite.png",
@@ -6708,6 +6902,10 @@
     "name": "Isos",
     "description": "A self-replicating fluid comprised of nanoproxies capable of independently repairing worn and damaged systems.\n\nLocation: Railjack missions in Venus, Neptune, and Pluto Proximas",
     "codexSecret": false,
+    "itemCount": 450,
+    "parents": [
+      "Basmu"
+    ],
     "buildPrice": 1000,
     "buildTime": 120,
     "skipBuildTimePrice": 5,
@@ -6789,6 +6987,10 @@
     "name": "Javlok Capacitor",
     "description": "Used in the construction of Javloks",
     "codexSecret": true,
+    "itemCount": 6,
+    "parents": [
+      "Javlok"
+    ],
     "type": "Resource",
     "imageName": "JavlokCapacitor.png",
     "category": "Resources",
@@ -6964,10 +7166,6 @@
     "name": "Komms",
     "description": "A component used in secure Grineer communication networks.\n\nLocation: Railjack missions in Earth, Saturn, and Veil Proximas",
     "codexSecret": false,
-    "itemCount": 4,
-    "parents": [
-      "Protea Telema Helmet"
-    ],
     "buildPrice": 1000,
     "buildTime": 120,
     "skipBuildTimePrice": 5,
@@ -7102,6 +7300,12 @@
     "name": "Kovnik",
     "description": "Duviri citizens harvest Kovnik leaves to blend invigorating teas.\n\nLocation: Duviri",
     "codexSecret": false,
+    "itemCount": 100,
+    "parents": [
+      "Argo & Vel",
+      "Sampotes",
+      "Sun & Moon"
+    ],
     "type": "Resource",
     "imageName": "DuviriPlantExtractA.png",
     "category": "Resources",
@@ -7157,6 +7361,17 @@
     "name": "Kuaka Spinal Claw",
     "description": "The sinew from the Kuaka's spinal claws can be tanned to make resilient and flexible leather.\n\nLocation: Plains of Eidolon on Earth",
     "codexSecret": false,
+    "itemCount": 5,
+    "parents": [
+      "Ruhang",
+      "Ruhang Ii",
+      "Vargeet Ii Jai",
+      "Vargeet Ii Ruhang",
+      "Vargeet Jai",
+      "Vargeet Jai Ii",
+      "Vargeet Ruhang",
+      "Vargeet Ruhang Ii"
+    ],
     "type": "Resource",
     "imageName": "ForestRodentSpine.png",
     "category": "Resources",
@@ -7261,6 +7476,10 @@
     "name": "Lamentus",
     "description": "A whisper of the fallen.\n\nLocation: Duviri",
     "codexSecret": false,
+    "itemCount": 40,
+    "parents": [
+      "Sun & Moon"
+    ],
     "type": "Resource",
     "imageName": "DuviriAnima.png",
     "category": "Resources",
@@ -7366,6 +7585,8 @@
     "codexSecret": false,
     "itemCount": 50,
     "parents": [
+      "Perigale",
+      "Sarofang",
       "Voruna"
     ],
     "type": "Resource",
@@ -7488,7 +7709,6 @@
     "codexSecret": false,
     "itemCount": 6,
     "parents": [
-      "Seeding Step Ephemera",
       "Twilight Apothic"
     ],
     "type": "Plant",
@@ -7556,14 +7776,20 @@
     "name": "Maprico",
     "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.\n\nLocation: Plains of Eidolon on Earth",
     "codexSecret": false,
-    "itemCount": 15,
+    "itemCount": 2,
     "parents": [
       "Cuthol Bait",
+      "Dehtat",
+      "Ekwana Ii Jai",
+      "Ekwana Ii Ruhang",
       "Fosfor Blau",
       "Fosfor Rahd",
       "Glappid Bait",
+      "Jayap",
       "Norg Bait",
       "Twilight Bait",
+      "Vargeet Ii Jai",
+      "Vargeet Ii Ruhang",
       "Vasca Curative"
     ],
     "type": "Resource",
@@ -7688,14 +7914,18 @@
     "name": "Marquise Veridos",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "codexSecret": false,
-    "itemCount": 2,
+    "itemCount": 10,
     "parents": [
       "Advanced Nosam Cutter",
-      "Loid Sentinel Mask",
-      "Loid Sentinel Skin",
-      "Loid Sentinel Tail",
-      "Loid Sentinel Wing",
-      "Sunpoint Plasma Drill"
+      "Cyath",
+      "Dehtat",
+      "Dokrahm",
+      "Flutterfire",
+      "Granmu Prism",
+      "Mewan",
+      "Shwaak Prism",
+      "Sunpoint Plasma Drill",
+      "Vulcax"
     ],
     "buildPrice": 2500,
     "buildTime": 60,
@@ -7913,6 +8143,10 @@
     "description": "A Necramech weapon-crafting component.",
     "codexSecret": false,
     "excludeFromCodex": true,
+    "itemCount": 1,
+    "parents": [
+      "Morgha"
+    ],
     "buildPrice": 1000,
     "buildTime": 60,
     "skipBuildTimePrice": 5,
@@ -7993,6 +8227,10 @@
     "description": "A Necramech weapon-crafting component.",
     "codexSecret": false,
     "excludeFromCodex": true,
+    "itemCount": 1,
+    "parents": [
+      "Morgha"
+    ],
     "buildPrice": 1000,
     "buildTime": 60,
     "skipBuildTimePrice": 5,
@@ -8073,6 +8311,10 @@
     "description": "A Necramech weapon-crafting component.",
     "codexSecret": false,
     "excludeFromCodex": true,
+    "itemCount": 1,
+    "parents": [
+      "Morgha"
+    ],
     "buildPrice": 1000,
     "buildTime": 60,
     "skipBuildTimePrice": 5,
@@ -8206,9 +8448,28 @@
     "name": "Mutagen Mass",
     "description": "This living mass can produce weaponized toxins for weaponry.\n\nLocation: Clan Research (Bio Lab in the Dojo) and Infested Outbreak Invasion Rewards",
     "codexSecret": false,
-    "itemCount": 6,
+    "itemCount": 5,
     "parents": [
-      "Djinn"
+      "Acrid",
+      "Bubonico",
+      "Catabolyst",
+      "Caustacyst",
+      "Cerata",
+      "Dark Split-Sword",
+      "Djinn",
+      "Dual Ichor",
+      "Dual Toxocyst",
+      "Embolist",
+      "Hema",
+      "Mios",
+      "Mutalist Quanta",
+      "Paracyst",
+      "Phage",
+      "Pox",
+      "Pupacyst",
+      "Scoliac",
+      "Synapse",
+      "Torid"
     ],
     "buildPrice": 15000,
     "buildTime": 43200,
@@ -8432,9 +8693,20 @@
     "name": "Mytocardia Spore",
     "description": "A fungal body prized for its varied uses.\n\nLocation: Orb Vallis on Venus",
     "codexSecret": false,
-    "itemCount": 120,
+    "itemCount": 20,
     "parents": [
-      "Hang Tenno"
+      "Catchmoon",
+      "Deepbreath",
+      "Drimper Bracket",
+      "Fatboys",
+      "Harpen Gyro",
+      "Hona Bracket",
+      "Kreska",
+      "Munit Gyro",
+      "Para Moa",
+      "Step Tens",
+      "Thugs",
+      "Twin Kavats"
     ],
     "type": "Resource",
     "imageName": "FungusHeart.png",
@@ -8534,6 +8806,12 @@
     "name": "Necracoil",
     "description": "This experimental array transmutes Void energy into high voltages with low currents.\n\nLocation: Albrecht's Laboratories (Deimos)",
     "codexSecret": false,
+    "itemCount": 50,
+    "parents": [
+      "Ekhein",
+      "Grimoire",
+      "Onos"
+    ],
     "type": "Resource",
     "imageName": "EntratiLabMiscItemB.png",
     "category": "Resources",
@@ -8649,15 +8927,26 @@
     "name": "Nistlepod",
     "description": "Used by the Nistlebrush to trap and kill prey.\n\nLocation: Plains of Eidolon on Earth",
     "codexSecret": false,
-    "itemCount": 15,
+    "itemCount": 25,
     "parents": [
+      "Balla",
+      "Dokrahm",
+      "Ekwana Jai",
+      "Ekwana Ruhang",
+      "Jai",
+      "Jai Ii",
+      "Laka",
       "Lanzo Fishing Spear",
       "Peppered Bait",
       "Peram Fishing Spear",
+      "Ruhang",
+      "Ruhang Ii",
       "Shockprod Fishing Spear",
       "Stunna Fishing Spear",
       "Tulok Fishing Spear",
       "Twilight Bait",
+      "Vargeet Jai",
+      "Vargeet Ruhang",
       "Vasca Curative"
     ],
     "type": "Resource",
@@ -8782,10 +9071,10 @@
     "name": "Nullstones",
     "description": "Nullstones do not conform to several laws of physics, making them highly prized for optimizing sensitive components.\n\nLocation: Railjack Missions",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 1,
     "parents": [
-      "Nautilus",
-      "Protea Mavv Helmet"
+      "Basmu",
+      "Nautilus"
     ],
     "type": "Resource",
     "imageName": "RailjackComponentNullstones.png",
@@ -9813,7 +10102,8 @@
     "codexSecret": false,
     "itemCount": 10,
     "parents": [
-      "Kullervo"
+      "Kullervo",
+      "Rauta"
     ],
     "type": "Resource",
     "imageName": "DuviriWyrmsoul.png",
@@ -9959,6 +10249,22 @@
     "name": "Pustulite",
     "description": "Half-formed, incomplete spore bearers, little more than twitching flesh with claws to latch on with.\n\nLocation: Cambion Drift on Deimos",
     "codexSecret": false,
+    "itemCount": 20,
+    "parents": [
+      "Adra Mutagen",
+      "Arioli Mutagen",
+      "Chiten Mutagen",
+      "Elsa Mutagen",
+      "Gristlebuck",
+      "Leptosam Mutagen",
+      "Macro Thymoid",
+      "Monachod Mutagen",
+      "Phijar Mutagen",
+      "Sporelacer",
+      "Steeba",
+      "Thymoid",
+      "Zarim Mutagen"
+    ],
     "type": "Resource",
     "imageName": "InfGorgaricusSeedItem.png",
     "category": "Resources",
@@ -10085,12 +10391,8 @@
     "codexSecret": false,
     "itemCount": 1,
     "parents": [
-      "Ceno Apparel",
-      "Ceno Cuirass",
-      "Ceno Greaves",
-      "Ceno Helmet",
-      "Ceno Pauldrons",
-      "Eidolon Ephemera",
+      "Anspatha Brace",
+      "Dorma Hound",
       "Exceptional Sentient Core"
     ],
     "buildPrice": 10000,
@@ -10288,6 +10590,13 @@
     "name": "Repeller Systems",
     "description": "Anti-gravity system that allows massively heavy objects to be manipulated by a single user. \n\nLocation: Obtained by completing Heists on the Orb Vallis (Venus)",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Certus Brace",
+      "Exergis",
+      "Plaga Brace",
+      "Suo Brace"
+    ],
     "type": "Resource",
     "imageName": "CorpusWidgetC.png",
     "category": "Resources",
@@ -10394,6 +10703,16 @@
     "name": "Rune Marrow",
     "description": "Rune Marrow erupts from Duviri’s core.\n\nLocation: The Undercroft in Duviri",
     "codexSecret": false,
+    "itemCount": 35,
+    "parents": [
+      "Argo & Vel",
+      "Azothane",
+      "Edun",
+      "Sampotes",
+      "Sun & Moon",
+      "Syam",
+      "Thalys"
+    ],
     "type": "Resource",
     "imageName": "DuviriRunicMarrow.png",
     "category": "Resources",
@@ -10419,6 +10738,10 @@
     "name": "Saggen Pearl",
     "description": "Thrax warriors use the heavy liquid drawn from Saggen Wells to polish their weapons.\n\nLocation: Duviri",
     "codexSecret": false,
+    "itemCount": 100,
+    "parents": [
+      "Azothane"
+    ],
     "type": "Resource",
     "imageName": "DuviriPearl.png",
     "category": "Resources",
@@ -10476,11 +10799,13 @@
     "codexSecret": false,
     "itemCount": 4,
     "parents": [
+      "Arcroid",
       "Bonewidow Capsule",
-      "Loid Sentinel Mask",
-      "Loid Sentinel Skin",
-      "Loid Sentinel Tail",
-      "Loid Sentinel Wing"
+      "Catabolyst",
+      "Macro Arcroid",
+      "Macro Thymoid",
+      "Quassus",
+      "Thymoid"
     ],
     "type": "Resource",
     "imageName": "EntratiWisp.png",
@@ -10859,6 +11184,12 @@
     "name": "Seriglass Shard",
     "description": "Once part of an intricate Entrati apparatus, now shattered and bearing a sharp edge.\n\nLocation: Grandmother in the Necralisk on Deimos",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Quassus",
+      "Sepulcrum",
+      "Trumna"
+    ],
     "type": "Resource",
     "imageName": "SeriglassShard.png",
     "category": "Resources",
@@ -10986,6 +11317,7 @@
     "codexSecret": false,
     "itemCount": 1,
     "parents": [
+      "Ekhein",
       "Jahu Gargoyle"
     ],
     "type": "Resource",
@@ -11019,6 +11351,13 @@
     "name": "Silphsela",
     "description": "It is traditionally held that to see Silphsela floating in the air heralds an imminent change in the sky.\n\nLocation: Duviri",
     "codexSecret": false,
+    "itemCount": 45,
+    "parents": [
+      "Argo & Vel",
+      "Sampotes",
+      "Sun & Moon",
+      "Thalys"
+    ],
     "type": "Resource",
     "imageName": "DuviriPlantExtractE.png",
     "category": "Resources",
@@ -11054,14 +11393,12 @@
     "name": "Sola Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Sola Toroids from enemies located at the Temple of Profit in the Orb Vallis and from Kyta Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 3,
     "parents": [
-      "Haztech Greaves",
-      "Kubrodon Ventkid Greaves",
-      "Outrider Greaves",
-      "Smelter Greaves",
-      "Vent Pobber Ventkid Greaves",
-      "Vent Rat Greaves"
+      "Cela Bracket",
+      "Certus Brace",
+      "Plaga Brace",
+      "Suo Brace"
     ],
     "type": "Resource",
     "imageName": "CrpArachnoidPowerCoreWraith.png",
@@ -11168,7 +11505,9 @@
     "itemCount": 6,
     "parents": [
       "Bonewidow Capsule",
-      "Styanax Agogean Helmet"
+      "Granmu Prism",
+      "Helstrum",
+      "Ramflare"
     ],
     "buildPrice": 5000,
     "buildTime": 60,
@@ -11335,7 +11674,7 @@
         "date": "2021-07-06T15:02:10Z",
         "url": "https://forums.warframe.com/topic/1269749-update-305-sisters-of-parvos/",
         "additions": "",
-        "changes": "Acolytes will now spawn more frequently during Steel Path missions, resulting in more Steel Essence being dropped overall!\nSteel Path Incursions will each offer a reward of 5 Steel Essence, increased from 3. \nSteel Essence will now remain on the ground for 5 minutes before disappearing. If the UI marker is blinking, be sure to get it before it’s gone!\nnamely, the Steel Path. You’ll be able to get the Arcane Slot Unlockers from Steel Path Honors, whereas the Arcanes themselves drop from Acolytes in the Steel Path! The spawn frequency of Acolytes is also being increased, meaning you���ll get more Steel Essence, as well as more chances for the Arcane you want. All Acolytes will drop them!",
+        "changes": "Acolytes will now spawn more frequently during Steel Path missions, resulting in more Steel Essence being dropped overall!\nSteel Path Incursions will each offer a reward of 5 Steel Essence, increased from 3. \nSteel Essence will now remain on the ground for 5 minutes before disappearing. If the UI marker is blinking, be sure to get it before it’s gone!\nnamely, the Steel Path. You’ll be able to get the Arcane Slot Unlockers from Steel Path Honors, whereas the Arcanes themselves drop from Acolytes in the Steel Path! The spawn frequency of Acolytes is also being increased, meaning you’ll get more Steel Essence, as well as more chances for the Arcane you want. All Acolytes will drop them!",
         "fixes": ""
       },
       {
@@ -11625,6 +11964,10 @@
     "name": "Tasoma Extract",
     "description": "Duviri citizens plagued by nightmares seek Tasoma, because its stalks can be crushed to create juice that invites pleasant dreams. Unfortunately, it is difficult to forage Tasoma as it only grows in caves.\n\nLocation: Duviri",
     "codexSecret": false,
+    "itemCount": 30,
+    "parents": [
+      "Edun"
+    ],
     "type": "Resource",
     "imageName": "DuviriPlantExtractMushroom.png",
     "category": "Resources",
@@ -11648,9 +11991,16 @@
     "name": "Tear Azurite",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "codexSecret": false,
-    "itemCount": 1,
+    "itemCount": 10,
     "parents": [
-      "Focused Nosam Cutter"
+      "Balla",
+      "Focused Nosam Cutter",
+      "Ooltha",
+      "Plague Kripath",
+      "Rahn Prism",
+      "Raplak Prism",
+      "Sepfahn",
+      "Zipfire"
     ],
     "buildPrice": 1000,
     "buildTime": 60,
@@ -11713,6 +12063,10 @@
     "name": "Techrot Chitin",
     "description": "This twisted husk barely resembles the electronic device it once was, consumed and reshaped by the Techrot’s relentless spread.\n\nLocation: 1999 (Höllvania)",
     "codexSecret": false,
+    "itemCount": 25,
+    "parents": [
+      "Ax-52"
+    ],
     "type": "Resource",
     "imageName": "1999ResourceUncommonA.png",
     "category": "Resources",
@@ -11768,6 +12122,10 @@
     "name": "Techrot Motherboard",
     "description": "This motherboard likely served as a nerve center, facilitating the Techrot’s communication network.\n\nLocation: 1999 (Höllvania)",
     "codexSecret": false,
+    "itemCount": 5,
+    "parents": [
+      "Ax-52"
+    ],
     "type": "Resource",
     "imageName": "1999ResourceRareA.png",
     "category": "Resources",
@@ -11809,7 +12167,11 @@
     "parents": [
       "Bonewidow Casing",
       "Cortege Stock",
+      "Gristlebuck",
       "Morgha Stock",
+      "Ulnaris",
+      "Vermisplicer",
+      "Vitrica",
       "Voidrig Engine"
     ],
     "buildPrice": 1000,
@@ -11903,6 +12265,10 @@
     "name": "Temporal Dust",
     "description": "The dust of decayed universes, rich in entropy. Entrati's research postulates it as the animating agent of the nightmarish Murmur.\n\nObtained from Murmur in Isleweaver missions (Duviri)",
     "codexSecret": false,
+    "itemCount": 100,
+    "parents": [
+      "Thalys"
+    ],
     "type": "Resource",
     "imageName": "DuviriMurmurItemA.png",
     "category": "Resources",
@@ -11928,6 +12294,20 @@
     "name": "Tepa Nodule",
     "description": "The iridescent nodules on these plants glow brightly in cold environments.\n\nLocation: Orb Vallis on Venus",
     "codexSecret": false,
+    "itemCount": 20,
+    "parents": [
+      "Arc Twelve",
+      "Atheca Gyro",
+      "Battacor",
+      "Coldfusor",
+      "Gauth Bracket",
+      "Gaze",
+      "Highbrow",
+      "Hothead",
+      "Jonsin Bracket",
+      "Tian Bracket",
+      "Zip"
+    ],
     "type": "Resource",
     "imageName": "VenusTree.png",
     "category": "Resources",
@@ -12027,7 +12407,8 @@
     "codexSecret": false,
     "itemCount": 20,
     "parents": [
-      "Bonewidow Casing"
+      "Bonewidow Casing",
+      "Wanz Stabilizer"
     ],
     "buildPrice": 1000,
     "buildTime": 60,
@@ -12164,10 +12545,21 @@
     "name": "Thermal Sludge",
     "description": "A by-product from the Weeping Towers terraforming processes.\n\nLocation: Orb Vallis on Venus",
     "codexSecret": false,
-    "itemCount": 75,
+    "itemCount": 20,
     "parents": [
-      "Greedy Milk",
-      "Puppeteer"
+      "Aegron Gyro",
+      "Bad Baby",
+      "Bellows",
+      "Drimper Bracket",
+      "Flatbelly",
+      "Needlenose",
+      "Ocucor",
+      "Oloro Moa",
+      "Runway",
+      "Tombfinger",
+      "Trux Gyro",
+      "Tyli Gyro",
+      "Urga Bracket"
     ],
     "type": "Resource",
     "imageName": "Coolant.png",
@@ -12262,12 +12654,13 @@
     "name": "Thrax Plasm",
     "description": "Found in the remnants of Thrax Void manifestations, this plasm has several surprisingly practical applications.\n\nLocation: Zariman",
     "codexSecret": false,
-    "itemCount": 300,
+    "itemCount": 600,
     "parents": [
-      "Gyre Automaton Helmet",
-      "Raptwing Ephemera",
-      "Seraphayre Ephemera",
-      "Styanax Gerousic Helmet"
+      "Aeolak",
+      "Alternox",
+      "Hespar",
+      "Innodem",
+      "Praedos"
     ],
     "type": "Resource",
     "imageName": "VoidWraithItem.png",
@@ -12994,8 +13387,8 @@
     "codexSecret": false,
     "itemCount": 750,
     "parents": [
-      "Bonewidow Engine",
-      "Protea Mavv Helmet"
+      "Basmu",
+      "Bonewidow Engine"
     ],
     "type": "Resource",
     "imageName": "RailjackComponentTitanium.png",
@@ -13610,7 +14003,23 @@
     "codexSecret": false,
     "itemCount": 30,
     "parents": [
-      "Sunpoint Plasma Drill"
+      "Alcrom Core",
+      "Catchmoon",
+      "Cela Bracket",
+      "Coldfusor",
+      "Deepbreath",
+      "Drex Core",
+      "Drimper Bracket",
+      "Haymaker",
+      "Lovetap",
+      "Oloro Moa",
+      "Shrewd",
+      "Slap",
+      "Steadyslam",
+      "Sunpoint Plasma Drill",
+      "Tian Bracket",
+      "Twin Kavats",
+      "Zubb Bracket"
     ],
     "buildPrice": 1000,
     "buildTime": 60,
@@ -13769,14 +14178,12 @@
     "name": "Vega Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Vega Toroids from enemies located at the Spaceport in the Orb Vallis and from Mite Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 3,
     "parents": [
-      "Haztech Pauldrons",
-      "Kubrodon Ventkid Pauldrons",
-      "Outrider Pauldrons",
-      "Smelter Pauldrons",
-      "Vent Pobber Ventkid Pauldrons",
-      "Vent Rat Pauldrons"
+      "Cantic Prism",
+      "Klamora Prism",
+      "Lega Prism",
+      "Zubb Bracket"
     ],
     "type": "Resource",
     "imageName": "CrpArachnoidPowerCoreMicroid.png",
@@ -13857,24 +14264,25 @@
     "name": "Venerdo Alloy",
     "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "codexSecret": false,
-    "itemCount": 40,
+    "itemCount": 30,
     "parents": [
-      "Haztech Apparel",
-      "Haztech Cuirass",
-      "Haztech Pauldrons",
-      "Kubrodon Ventkid Apparel",
-      "Kubrodon Ventkid Cuirass",
-      "Kubrodon Ventkid Pauldrons",
-      "Outrider Cuirass",
-      "Outrider Pauldrons",
-      "Smelter Apparel",
-      "Smelter Cuirass",
-      "Smelter Pauldrons",
-      "Vent Pobber Ventkid Apparel",
-      "Vent Pobber Ventkid Cuirass",
-      "Vent Pobber Ventkid Pauldrons",
-      "Vent Rat Cuirass",
-      "Vent Rat Pauldrons"
+      "Adlet Core",
+      "Arc Twelve",
+      "Bashrack",
+      "Flatbelly",
+      "Gauth Bracket",
+      "Gaze",
+      "Hona Bracket",
+      "Krisys Core",
+      "Lambeo Moa",
+      "Larkspur",
+      "Lehan Core",
+      "Nychus Moa",
+      "Ocucor",
+      "Rattleguts",
+      "Sparkfire",
+      "Step Tens",
+      "Thugs"
     ],
     "buildPrice": 1000,
     "buildTime": 60,
@@ -14119,11 +14527,10 @@
     "name": "Voidgel Orb",
     "description": "A sample of ambient Void energy distilled into a neutral state.\n\nLocation: Zariman",
     "codexSecret": false,
-    "itemCount": 45,
+    "itemCount": 30,
     "parents": [
-      "Gyre Automaton Helmet",
-      "Raptwing Ephemera",
-      "Seraphayre Ephemera"
+      "Felarx",
+      "Laetum"
     ],
     "type": "Resource",
     "imageName": "ZarimanMiscItemA.png",
@@ -14250,10 +14657,13 @@
     "name": "Voidplume Pinion",
     "description": "A Void Angel's living feather, ripped out in combat.\n\nLocation: Zariman",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 10,
     "parents": [
-      "Raptwing Ephemera",
-      "Seraphayre Ephemera"
+      "Felarx",
+      "Innodem",
+      "Laetum",
+      "Phenmor",
+      "Praedos"
     ],
     "type": "Resource",
     "imageName": "VoidAngelItem.png",
@@ -14284,6 +14694,14 @@
     "name": "Voidplume Quill",
     "description": "A symbol of genius, fallen from Void Angels long ago.\n\nLocation: Zariman",
     "codexSecret": false,
+    "itemCount": 15,
+    "parents": [
+      "Felarx",
+      "Innodem",
+      "Laetum",
+      "Phenmor",
+      "Praedos"
+    ],
     "type": "Resource",
     "imageName": "ZarimanDogTagBounty.png",
     "category": "Resources",
@@ -14784,6 +15202,10 @@
     "name": "Yao Shrub",
     "description": "The warm light of the Yao Shrub glows even within cold dark places.\n\nLocation: Duviri",
     "codexSecret": false,
+    "itemCount": 40,
+    "parents": [
+      "Azothane"
+    ],
     "type": "Resource",
     "imageName": "DuviriPlantExtractD.png",
     "category": "Resources",
