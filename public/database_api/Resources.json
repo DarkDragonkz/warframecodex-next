@@ -1356,6 +1356,10 @@
     "name": "Bonewidow Capsule",
     "description": "Capsule component for the Bonewidow Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -1435,6 +1439,10 @@
     "name": "Bonewidow Casing",
     "description": "Casing component for the Bonewidow Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -1514,6 +1522,10 @@
     "name": "Bonewidow Engine",
     "description": "Engine component for the Bonewidow Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -1593,6 +1605,10 @@
     "name": "Bonewidow Weapon Pod",
     "description": "Weapon Pod component for the Bonewidow Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -1805,7 +1821,7 @@
     "name": "Calda Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Calda Toroids from enemies located at the Enrichment Labs in the Orb Vallis and from Scyto Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
     "codexSecret": false,
-    "itemCount": 3,
+    "itemCount": 2,
     "parents": [
       "Dissic Scaffold",
       "Exard Scaffold",
@@ -1893,7 +1909,7 @@
     "name": "Carbides",
     "description": "Resilient components used to reinforce the plated sheets of metal strapped to Grineer Ships.\n\nLocation: Eximus units in the Grineer Shipyard Tileset, and Railjack missions in Earth, Saturn, and Veil Proximas",
     "codexSecret": false,
-    "itemCount": 800,
+    "itemCount": 2000,
     "parents": [
       "Basmu",
       "Protea Telema Helmet"
@@ -2478,7 +2494,7 @@
     "name": "Condroc Wing",
     "description": "The talon on a condroc's wing is sharp enough to tear through bone.\n\nLocation: Plains of Eidolon on Earth",
     "codexSecret": false,
-    "itemCount": 15,
+    "itemCount": 5,
     "parents": [
       "Ekwana Ii Jai",
       "Ekwana Ii Ruhang",
@@ -4110,10 +4126,11 @@
     "name": "Echo Voca",
     "description": "The quietest and most elusive of Voidtongue utterances. Sought after but never found by Albrecht.\n\nLocation: Albrecht's Laboratories (Deimos)",
     "codexSecret": false,
-    "itemCount": 2,
+    "itemCount": 1,
     "parents": [
       "Grimoire",
-      "Mandonel"
+      "Mandonel",
+      "Qorvex"
     ],
     "type": "Resource",
     "imageName": "EntratiLabDogTagRare.png",
@@ -4387,7 +4404,7 @@
     "name": "Entrati Lanthorn",
     "description": "A ceremonial beacon used to map Void locations on to real space.\n\nLocation: Albrecht's Laboratories (Deimos) and Zariman",
     "codexSecret": false,
-    "itemCount": 10,
+    "itemCount": 5,
     "parents": [
       "Alternox",
       "Ekhein",
@@ -5738,7 +5755,7 @@
     "name": "Gorgaricus Spore",
     "description": "The reproductive spore of the giant Vallis fungi is highly coveted for the complex chemical compounds it contains.\n\nLocation: Orb Vallis on Venus",
     "codexSecret": false,
-    "itemCount": 20,
+    "itemCount": 60,
     "parents": [
       "Beaky",
       "Dink-A-Donk",
@@ -6312,7 +6329,7 @@
     "name": "Hespazym Alloy",
     "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "codexSecret": false,
-    "itemCount": 30,
+    "itemCount": 50,
     "parents": [
       "Dissic Scaffold",
       "Exard Scaffold",
@@ -7620,7 +7637,8 @@
     "itemCount": 50,
     "parents": [
       "Perigale",
-      "Sarofang"
+      "Sarofang",
+      "Voruna"
     ],
     "type": "Resource",
     "imageName": "EclipseVoidWraithItem.png",
@@ -7740,7 +7758,7 @@
     "name": "Lunar Pitcher",
     "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
     "codexSecret": false,
-    "itemCount": 6,
+    "itemCount": 50,
     "parents": [
       "Seeding Step Ephemera",
       "Twilight Apothic"
@@ -7948,7 +7966,7 @@
     "name": "Marquise Veridos",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "codexSecret": false,
-    "itemCount": 10,
+    "itemCount": 20,
     "parents": [
       "Advanced Nosam Cutter",
       "Cyath",
@@ -8126,7 +8144,7 @@
     "name": "Moonlight Dragonlily",
     "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 10,
+    "itemCount": 6,
     "parents": [
       "Lapis Antitoxin",
       "Nightfall Apothic",
@@ -8731,7 +8749,7 @@
     "name": "Mytocardia Spore",
     "description": "A fungal body prized for its varied uses.\n\nLocation: Orb Vallis on Venus",
     "codexSecret": false,
-    "itemCount": 20,
+    "itemCount": 120,
     "parents": [
       "Catchmoon",
       "Deepbreath",
@@ -9110,7 +9128,7 @@
     "name": "Nullstones",
     "description": "Nullstones do not conform to several laws of physics, making them highly prized for optimizing sensitive components.\n\nLocation: Railjack Missions",
     "codexSecret": false,
-    "itemCount": 1,
+    "itemCount": 2,
     "parents": [
       "Basmu",
       "Nautilus",
@@ -10142,6 +10160,7 @@
     "codexSecret": false,
     "itemCount": 10,
     "parents": [
+      "Kullervo",
       "Rauta"
     ],
     "type": "Resource",
@@ -11442,7 +11461,7 @@
     "name": "Sola Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Sola Toroids from enemies located at the Temple of Profit in the Orb Vallis and from Kyta Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
     "codexSecret": false,
-    "itemCount": 3,
+    "itemCount": 5,
     "parents": [
       "Cela Bracket",
       "Certus Brace",
@@ -11966,7 +11985,7 @@
     "name": "Sunlight Dragonlily",
     "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 10,
+    "itemCount": 4,
     "parents": [
       "Citrine Antitoxin",
       "Lapis Antitoxin",
@@ -12601,7 +12620,7 @@
     "name": "Thermal Sludge",
     "description": "A by-product from the Weeping Towers terraforming processes.\n\nLocation: Orb Vallis on Venus",
     "codexSecret": false,
-    "itemCount": 20,
+    "itemCount": 75,
     "parents": [
       "Aegron Gyro",
       "Bad Baby",
@@ -12712,7 +12731,7 @@
     "name": "Thrax Plasm",
     "description": "Found in the remnants of Thrax Void manifestations, this plasm has several surprisingly practical applications.\n\nLocation: Zariman",
     "codexSecret": false,
-    "itemCount": 600,
+    "itemCount": 300,
     "parents": [
       "Aeolak",
       "Alternox",
@@ -14241,7 +14260,7 @@
     "name": "Vega Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Vega Toroids from enemies located at the Spaceport in the Orb Vallis and from Mite Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
     "codexSecret": false,
-    "itemCount": 3,
+    "itemCount": 5,
     "parents": [
       "Cantic Prism",
       "Haztech Pauldrons",
@@ -14333,7 +14352,7 @@
     "name": "Venerdo Alloy",
     "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "codexSecret": false,
-    "itemCount": 30,
+    "itemCount": 40,
     "parents": [
       "Adlet Core",
       "Arc Twelve",
@@ -14612,7 +14631,7 @@
     "name": "Voidgel Orb",
     "description": "A sample of ambient Void energy distilled into a neutral state.\n\nLocation: Zariman",
     "codexSecret": false,
-    "itemCount": 30,
+    "itemCount": 45,
     "parents": [
       "Felarx",
       "Gyre Automaton Helmet",
@@ -14745,7 +14764,7 @@
     "name": "Voidplume Pinion",
     "description": "A Void Angel's living feather, ripped out in combat.\n\nLocation: Zariman",
     "codexSecret": false,
-    "itemCount": 10,
+    "itemCount": 5,
     "parents": [
       "Felarx",
       "Innodem",
@@ -14850,6 +14869,10 @@
     "name": "Voidrig Capsule",
     "description": "Capsule component for the Voidrig Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -14948,6 +14971,10 @@
     "name": "Voidrig Casing",
     "description": "Casing component for the Voidrig Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -15045,6 +15072,10 @@
     "name": "Voidrig Engine",
     "description": "Engine component for the Voidrig Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -15143,6 +15174,10 @@
     "name": "Voidrig Weapon Pod",
     "description": "Weapon Pod component for the Voidrig Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,

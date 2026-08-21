@@ -17793,7 +17793,6 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Dorrclave.png?30250",
     "wikiaUrl": "https://wiki.warframe.com/w/Dorrclave",
     "introduced": {
       "name": "Update 34.0",
@@ -18161,7 +18160,6 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DragonNikana.png?20efa",
     "wikiaUrl": "https://wiki.warframe.com/w/Dragon_Nikana",
     "introduced": {
       "name": "Update 13.0",
@@ -18427,7 +18425,6 @@
       "Grineer"
     ],
     "stancePolarity": "naramon",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DualCleavers.png?547b9",
     "wikiaUrl": "https://wiki.warframe.com/w/Dual_Cleavers",
     "introduced": {
       "name": "Update 8.0",
@@ -18681,7 +18678,6 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DualEther.png?e911b",
     "wikiaUrl": "https://wiki.warframe.com/w/Dual_Ether",
     "introduced": {
       "name": "Hotfix 7.7.3",
@@ -18928,7 +18924,6 @@
       "Tenno"
     ],
     "stancePolarity": "universal",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DualHeatSwords.png?bd93b",
     "wikiaUrl": "https://wiki.warframe.com/w/Dual_Heat_Swords",
     "introduced": {
       "name": "Update 6.2",
@@ -19166,7 +19161,6 @@
       "Infested"
     ],
     "stancePolarity": "zenurik",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DualIchor.png?caea1",
     "wikiaUrl": "https://wiki.warframe.com/w/Dual_Ichor",
     "introduced": {
       "name": "Update 10.0",
@@ -81149,6 +81143,7 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Skana.png?67dfa",
     "wikiaUrl": "https://wiki.warframe.com/w/Skana",
     "introduced": {
       "name": "Vanilla",
@@ -81333,6 +81328,7 @@
       "Founder"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SkanaPrime.png?2d1ba",
     "wikiaUrl": "https://wiki.warframe.com/w/Skana_Prime",
     "introduced": {
       "name": "Update 5.0",
@@ -81575,6 +81571,7 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Skiajati.png?929c5",
     "wikiaUrl": "https://wiki.warframe.com/w/Skiajati",
     "introduced": {
       "name": "Update 23.0",
@@ -81831,6 +81828,7 @@
       "Grineer"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Slaytra.png?a775f",
     "wikiaUrl": "https://wiki.warframe.com/w/Slaytra",
     "introduced": {
       "name": "Update 32.0",
@@ -82080,6 +82078,7 @@
     ],
     "tags": [],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Spinnerex.png?7d5c8",
     "wikiaUrl": "https://wiki.warframe.com/w/Spinnerex",
     "introduced": {
       "name": "Update 39.0",
@@ -82375,6 +82374,7 @@
       "Corpus"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Stropha.png?f8de6",
     "wikiaUrl": "https://wiki.warframe.com/w/Stropha",
     "introduced": {
       "name": "Update 28.0",
@@ -100450,7 +100450,6 @@
     ],
     "tags": [],
     "stancePolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/WolfSledge.png?02419",
     "wikiaUrl": "https://wiki.warframe.com/w/Wolf_Sledge",
     "introduced": {
       "name": "Update 24.3",
@@ -100667,7 +100666,6 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Wrath.png?ff3cf",
     "wikiaUrl": "https://wiki.warframe.com/w/Wrath",
     "introduced": {
       "name": "Update 43.0",
@@ -101055,7 +101053,6 @@
       "Corpus"
     ],
     "stancePolarity": "naramon",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Xoris.png?5c2e5",
     "wikiaUrl": "https://wiki.warframe.com/w/Xoris",
     "introduced": {
       "name": "Update 28.0",
@@ -101469,7 +101466,6 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Zenistar.png?27d70",
     "wikiaUrl": "https://wiki.warframe.com/w/Zenistar",
     "introduced": {
       "name": "Update: Specters of the Rail 1",
