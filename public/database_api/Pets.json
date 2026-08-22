@@ -112,10 +112,61 @@
         "description": "Coprun that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "codexSecret": false,
         "itemCount": 40,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/CommonOreBAlloyABlueprint",
+            "name": "Blueprint",
+            "description": "Coprun that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreBItem",
+            "name": "Coprun",
+            "description": "A soft, malleable metal.\n\nLocation: Plains of Eidolon (Earth) from Red Mining Veins",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "CommonOreB.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 400,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 50,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "CommonOreBAlloyA.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
@@ -146,11 +197,63 @@
         "name": "Venerdo Alloy",
         "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisUncommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+            "name": "Gallium",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "codexSecret": false,
+            "itemCount": 2,
+            "imageName": "ComponentGallium.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 300,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreItem",
+            "name": "Venerol",
+            "description": "A precious metal forged from coolant byproducts.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisUncommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 25,
         "imageName": "SolarisUncommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Pet Resource",
@@ -345,11 +448,39 @@
         "name": "Heart Noctrul",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonGemBCutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBItem",
+            "name": "Noctrul",
+            "description": "A black gemstone, with iridescent blue impurities.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisCommonGemB.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 5,
         "imageName": "SolarisCommonGemBCut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
@@ -429,10 +560,61 @@
         "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 25,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBItem",
+            "name": "Axidite",
+            "description": "A sediment that formed from sulfuric rain that became trapped under the ice.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreB.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreBAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 100,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "SolarisCommonOreBAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetEngineArcotekBlueprint",
@@ -467,11 +649,39 @@
         "name": "Smooth Phasmin",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonGemACutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemAItem",
+            "name": "Phasmin",
+            "description": "An eerily green gem found encased in metallic shards.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisCommonGemA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 15,
         "imageName": "SolarisCommonGemACut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
@@ -479,10 +689,62 @@
         "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 25,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+            "name": "Plastids",
+            "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+            "codexSecret": false,
+            "itemCount": 100,
+            "imageName": "ComponentPlastids.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAItem",
+            "name": "Travoride",
+            "description": "A mineral hardened by the crushing pressure of the Venusian atmosphere.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "imageName": "SolarisCommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Pet Resource",
@@ -667,22 +929,114 @@
         "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
         "codexSecret": false,
         "itemCount": 2,
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+            "name": "Alloy Plate",
+            "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "AlloyPlate.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/ControlModuleResourceBlueprint",
+            "name": "Blueprint",
+            "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "ControlModule.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
         "name": "Star Amarast",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 5000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 6,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemAItem",
+            "name": "Amarast",
+            "description": "A violet gem that forms from the crystallization of byproducts expelled from the Weeping Towers.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 6,
+            "imageName": "SolarisRareGemA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisRareGemACutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 5,
         "imageName": "SolarisRareGemACut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
@@ -782,22 +1136,114 @@
         "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
         "codexSecret": false,
         "itemCount": 5,
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/GalliumResourceBlueprint",
+            "name": "Blueprint",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+            "name": "Polymer Bundle",
+            "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
+            "codexSecret": false,
+            "itemCount": 5000,
+            "imageName": "PolymerBundle.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "ComponentGallium.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemBCutItem",
         "name": "Marquise Thyst",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 10000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 3,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisEidolonGemBCutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemBItem",
+            "name": "Thyst",
+            "description": "A beautiful and iridescent red shard.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and the Exploiter Orb. This Rare Gem can only be mined by the Advanced Nosam Cutter or Sunpoint Plasma Drill.",
+            "codexSecret": false,
+            "itemCount": 3,
+            "imageName": "SolarisEidolonGemB.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "itemCount": 2,
         "imageName": "SolarisEidolonGemBCut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/SpecterParticleResidue",
@@ -922,10 +1368,62 @@
         "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 35,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+            "name": "Plastids",
+            "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+            "codexSecret": false,
+            "itemCount": 100,
+            "imageName": "ComponentPlastids.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAItem",
+            "name": "Travoride",
+            "description": "A mineral hardened by the crushing pressure of the Venusian atmosphere.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "imageName": "SolarisCommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Pet Resource",
@@ -1390,11 +1888,75 @@
         "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
         "codexSecret": false,
         "itemCount": 5,
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/GalliumResourceBlueprint",
+            "name": "Blueprint",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+            "name": "Polymer Bundle",
+            "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
+            "codexSecret": false,
+            "itemCount": 5000,
+            "imageName": "PolymerBundle.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "ComponentGallium.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishParralelBiodeItem",
@@ -1413,10 +1975,38 @@
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "codexSecret": false,
         "itemCount": 2,
+        "buildPrice": 10000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 3,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/EidolonGemACutABlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemAItem",
+            "name": "Sentirum",
+            "description": "A rare Eidolon Gem, created from the fossilized blood of an ancient Sentient.\n\nLocation: Plains of Eidolon (Earth) from Blue Mining Veins and Thumper Bulls. This Rare Gem can only be mined by the Advanced Nosam Cutter or Sunpoint Plasma Drill.",
+            "codexSecret": false,
+            "itemCount": 3,
+            "imageName": "EidolonGemA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "imageName": "EidolonGemACutA.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/SpecterParticleResidue",
@@ -1498,10 +2088,61 @@
         "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 25,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBItem",
+            "name": "Axidite",
+            "description": "A sediment that formed from sulfuric rain that became trapped under the ice.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreB.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreBAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 100,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "SolarisCommonOreBAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetEngineThricoreBlueprint",
@@ -1536,11 +2177,39 @@
         "name": "Smooth Phasmin",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonGemACutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemAItem",
+            "name": "Phasmin",
+            "description": "An eerily green gem found encased in metallic shards.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisCommonGemA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 15,
         "imageName": "SolarisCommonGemACut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
@@ -1548,10 +2217,62 @@
         "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 25,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+            "name": "Plastids",
+            "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+            "codexSecret": false,
+            "itemCount": 100,
+            "imageName": "ComponentPlastids.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAItem",
+            "name": "Travoride",
+            "description": "A mineral hardened by the crushing pressure of the Venusian atmosphere.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "imageName": "SolarisCommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Pet Resource",
@@ -1608,10 +2329,61 @@
         "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 25,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBItem",
+            "name": "Axidite",
+            "description": "A sediment that formed from sulfuric rain that became trapped under the ice.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreB.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreBAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 100,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "SolarisCommonOreBAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegABlueprint",
@@ -1658,10 +2430,62 @@
         "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 25,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+            "name": "Plastids",
+            "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+            "codexSecret": false,
+            "itemCount": 100,
+            "imageName": "ComponentPlastids.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAItem",
+            "name": "Travoride",
+            "description": "A mineral hardened by the crushing pressure of the Venusian atmosphere.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "imageName": "SolarisCommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Pet Resource",
@@ -1982,11 +2806,63 @@
         "name": "Hespazym Alloy",
         "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisRareOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAItem",
+            "name": "Hesperon",
+            "description": "Clay that strengthens into extremely durable stone when brought to temperatures below zero.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisRareOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+            "name": "Morphics",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "codexSecret": false,
+            "itemCount": 2,
+            "imageName": "ComponentMorphic.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+            "name": "Plastids",
+            "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+            "codexSecret": false,
+            "itemCount": 300,
+            "imageName": "ComponentPlastids.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "itemCount": 20,
         "imageName": "SolarisRareOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
@@ -2054,10 +2930,61 @@
         "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 40,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBItem",
+            "name": "Axidite",
+            "description": "A sediment that formed from sulfuric rain that became trapped under the ice.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreB.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreBAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 100,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "SolarisCommonOreBAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartBodyBBlueprint",
@@ -2075,10 +3002,72 @@
         "description": "Retrieved from its Infested state, restored to worth and utility.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
         "codexSecret": false,
         "itemCount": 25,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Prospecting/DeimosUncommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "Retrieved from its Infested state, restored to worth and utility.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAItem",
+            "name": "Ferros",
+            "description": "A resilient metal that is hardened by impurities within.\n\nLocation: Plains of Eidolon (Earth) from Red Mining Veins and Thumpers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "UncommonOreA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/OrbStoneItem",
+            "name": "Lucent Teroglobe",
+            "description": "These orbs have long since fulfilled their original function, but still, thrum with faint power.\n\nLocation: Cambion Drift on Deimos",
+            "codexSecret": false,
+            "itemCount": 15,
+            "imageName": "OrbStoneItem.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAItem",
+            "name": "Namalon",
+            "description": "Infested mineral deposits mimicking the form of living organs.\n\nLocation: Cambion Drift (Deimos) from Yellow Mining Lesions and Bonus Vaults in Isolation Vault Bounties.",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "DeimosUncommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 160,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "DeimosUncommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
@@ -2176,10 +3165,38 @@
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 20,
+        "buildPrice": 2500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisUncommonGemACutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemAItem",
+            "name": "Goblite",
+            "description": "A strange crystal that grows inside the veins of extracted ore.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisUncommonGemA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "imageName": "SolarisUncommonGemACut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
@@ -2208,11 +3225,63 @@
         "name": "Venerdo Alloy",
         "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisUncommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+            "name": "Gallium",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "codexSecret": false,
+            "itemCount": 2,
+            "imageName": "ComponentGallium.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 300,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreItem",
+            "name": "Venerol",
+            "description": "A precious metal forged from coolant byproducts.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisUncommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 40,
         "imageName": "SolarisUncommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Pet Resource",
@@ -2308,11 +3377,39 @@
         "name": "Smooth Phasmin",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonGemACutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemAItem",
+            "name": "Phasmin",
+            "description": "An eerily green gem found encased in metallic shards.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisCommonGemA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 5,
         "imageName": "SolarisCommonGemACut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem",
@@ -2390,11 +3487,75 @@
         "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
         "codexSecret": false,
         "itemCount": 5,
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/GalliumResourceBlueprint",
+            "name": "Blueprint",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+            "name": "Polymer Bundle",
+            "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
+            "codexSecret": false,
+            "itemCount": 5000,
+            "imageName": "PolymerBundle.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "ComponentGallium.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishVenedoCaseItem",
@@ -2425,10 +3586,38 @@
         "description": "Facets gleam with the un-light of the Void.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
         "codexSecret": false,
         "itemCount": 2,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 3,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Prospecting/DeimosEidolonGemACutBlueprint",
+            "name": "Blueprint",
+            "description": "Facets gleam with the un-light of the Void.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemAItem",
+            "name": "Xenorhast",
+            "description": "A nodule of primordial matter, encysted within Infested flesh.\n\nLocation: Cambion Drift (Deimos) from Blue Mining Lesions. This Rare Gem can only be mined by the Advanced Nosam Cutter or Sunpoint Plasma Drill.",
+            "codexSecret": false,
+            "itemCount": 3,
+            "imageName": "DeimosEidolonGemA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "imageName": "DeimosEidolonGemACut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Pets",
@@ -2710,10 +3899,38 @@
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 5,
+        "buildPrice": 2500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisUncommonGemACutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemAItem",
+            "name": "Goblite",
+            "description": "A strange crystal that grows inside the veins of extracted ore.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisUncommonGemA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "imageName": "SolarisUncommonGemACut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
@@ -2804,11 +4021,63 @@
         "name": "Auroxium Alloy",
         "description": "Auron that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAItem",
+            "name": "Auron",
+            "description": "A brilliant, dense and conductive metal.\n\nLocation: Plains of Eidolon (Earth) from Red Mining Veins and Thumpers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "RareOreA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/RareOreAAlloyABlueprint",
+            "name": "Blueprint",
+            "description": "Auron that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+            "name": "Morphics",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "codexSecret": false,
+            "itemCount": 5,
+            "imageName": "ComponentMorphic.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
+            "name": "Oxium",
+            "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\n\nLocation: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
+            "codexSecret": false,
+            "itemCount": 600,
+            "imageName": "ComponentOxium.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "itemCount": 20,
         "imageName": "RareOreAAlloyA.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartTailBBlueprint",
@@ -2926,10 +4195,38 @@
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 20,
+        "buildPrice": 2500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisUncommonGemACutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemAItem",
+            "name": "Goblite",
+            "description": "A strange crystal that grows inside the veins of extracted ore.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisUncommonGemA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "imageName": "SolarisUncommonGemACut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
@@ -2947,11 +4244,63 @@
         "name": "Venerdo Alloy",
         "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisUncommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+            "name": "Gallium",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "codexSecret": false,
+            "itemCount": 2,
+            "imageName": "ComponentGallium.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 300,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreItem",
+            "name": "Venerol",
+            "description": "A precious metal forged from coolant byproducts.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisUncommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 40,
         "imageName": "SolarisUncommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Pet Resource",
@@ -3305,10 +4654,61 @@
         "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 40,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBItem",
+            "name": "Axidite",
+            "description": "A sediment that formed from sulfuric rain that became trapped under the ice.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreB.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreBAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 100,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "SolarisCommonOreBAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegCBlueprint",
@@ -3343,11 +4743,39 @@
         "name": "Heart Noctrul",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonGemBCutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBItem",
+            "name": "Noctrul",
+            "description": "A black gemstone, with iridescent blue impurities.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisCommonGemB.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 20,
         "imageName": "SolarisCommonGemBCut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
@@ -3415,10 +4843,61 @@
         "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 25,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBItem",
+            "name": "Axidite",
+            "description": "A sediment that formed from sulfuric rain that became trapped under the ice.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreB.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreBAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 100,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "SolarisCommonOreBAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetEngineKrisysBlueprint",
@@ -3453,22 +4932,102 @@
         "name": "Heart Noctrul",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonGemBCutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBItem",
+            "name": "Noctrul",
+            "description": "A black gemstone, with iridescent blue impurities.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisCommonGemB.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 15,
         "imageName": "SolarisCommonGemBCut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
         "name": "Venerdo Alloy",
         "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisUncommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+            "name": "Gallium",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "codexSecret": false,
+            "itemCount": 2,
+            "imageName": "ComponentGallium.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 300,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreItem",
+            "name": "Venerol",
+            "description": "A precious metal forged from coolant byproducts.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisUncommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 25,
         "imageName": "SolarisUncommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Pet Resource",
@@ -3552,11 +5111,39 @@
         "name": "Heart Noctrul",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonGemBCutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBItem",
+            "name": "Noctrul",
+            "description": "A black gemstone, with iridescent blue impurities.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisCommonGemB.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 10,
         "imageName": "SolarisCommonGemBCut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
@@ -3564,22 +5151,138 @@
         "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
         "codexSecret": false,
         "itemCount": 2,
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/MorphicsResourceBlueprint",
+            "name": "Blueprint",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+            "name": "Polymer Bundle",
+            "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
+            "codexSecret": false,
+            "itemCount": 5000,
+            "imageName": "PolymerBundle.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "ComponentMorphic.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
         "name": "Venerdo Alloy",
         "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisUncommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+            "name": "Gallium",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "codexSecret": false,
+            "itemCount": 2,
+            "imageName": "ComponentGallium.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 300,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreItem",
+            "name": "Venerol",
+            "description": "A precious metal forged from coolant byproducts.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisUncommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 30,
         "imageName": "SolarisUncommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Pets",
@@ -3678,33 +5381,165 @@
         "name": "Hespazym Alloy",
         "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisRareOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAItem",
+            "name": "Hesperon",
+            "description": "Clay that strengthens into extremely durable stone when brought to temperatures below zero.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisRareOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+            "name": "Morphics",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "codexSecret": false,
+            "itemCount": 2,
+            "imageName": "ComponentMorphic.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+            "name": "Plastids",
+            "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+            "codexSecret": false,
+            "itemCount": 300,
+            "imageName": "ComponentPlastids.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "itemCount": 10,
         "imageName": "SolarisRareOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
         "name": "Star Amarast",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 5000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 6,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemAItem",
+            "name": "Amarast",
+            "description": "A violet gem that forms from the crystallization of byproducts expelled from the Weeping Towers.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 6,
+            "imageName": "SolarisRareGemA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisRareGemACutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 5,
         "imageName": "SolarisRareGemACut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
         "name": "Venerdo Alloy",
         "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisUncommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+            "name": "Gallium",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "codexSecret": false,
+            "itemCount": 2,
+            "imageName": "ComponentGallium.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 300,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreItem",
+            "name": "Venerol",
+            "description": "A precious metal forged from coolant byproducts.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisUncommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 25,
         "imageName": "SolarisUncommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Pet Resource",
@@ -4058,11 +5893,39 @@
         "name": "Heart Noctrul",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonGemBCutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBItem",
+            "name": "Noctrul",
+            "description": "A black gemstone, with iridescent blue impurities.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisCommonGemB.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 5,
         "imageName": "SolarisCommonGemBCut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
@@ -4158,10 +6021,38 @@
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 10,
+        "buildPrice": 2500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisUncommonGemACutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemAItem",
+            "name": "Goblite",
+            "description": "A strange crystal that grows inside the veins of extracted ore.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisUncommonGemA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "imageName": "SolarisUncommonGemACut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
@@ -4180,22 +6071,138 @@
         "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
         "codexSecret": false,
         "itemCount": 2,
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/MorphicsResourceBlueprint",
+            "name": "Blueprint",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+            "name": "Polymer Bundle",
+            "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
+            "codexSecret": false,
+            "itemCount": 5000,
+            "imageName": "PolymerBundle.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "ComponentMorphic.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
         "name": "Venerdo Alloy",
         "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisUncommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+            "name": "Gallium",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "codexSecret": false,
+            "itemCount": 2,
+            "imageName": "ComponentGallium.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 300,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreItem",
+            "name": "Venerol",
+            "description": "A precious metal forged from coolant byproducts.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisUncommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 20,
         "imageName": "SolarisUncommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Pets",
@@ -4294,10 +6301,38 @@
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 10,
+        "buildPrice": 2500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisUncommonGemACutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemAItem",
+            "name": "Goblite",
+            "description": "A strange crystal that grows inside the veins of extracted ore.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisUncommonGemA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "imageName": "SolarisUncommonGemACut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
@@ -4305,11 +6340,75 @@
         "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
         "codexSecret": false,
         "itemCount": 2,
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/MorphicsResourceBlueprint",
+            "name": "Blueprint",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+            "name": "Polymer Bundle",
+            "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
+            "codexSecret": false,
+            "itemCount": 5000,
+            "imageName": "PolymerBundle.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "ComponentMorphic.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
@@ -4328,10 +6427,62 @@
         "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 30,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+            "name": "Plastids",
+            "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+            "codexSecret": false,
+            "itemCount": 100,
+            "imageName": "ComponentPlastids.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAItem",
+            "name": "Travoride",
+            "description": "A mineral hardened by the crushing pressure of the Venusian atmosphere.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "imageName": "SolarisCommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Pets",
@@ -4458,10 +6609,61 @@
         "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 30,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBItem",
+            "name": "Axidite",
+            "description": "A sediment that formed from sulfuric rain that became trapped under the ice.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreB.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreBAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 100,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "SolarisCommonOreBAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetHeadParaBlueprint",
@@ -4486,11 +6688,75 @@
         "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
         "codexSecret": false,
         "itemCount": 2,
+        "buildPrice": 15000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 2,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/Components/MorphicsResourceBlueprint",
+            "name": "Blueprint",
+            "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+            "name": "Nano Spores",
+            "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+            "codexSecret": false,
+            "itemCount": 25000,
+            "imageName": "ComponentNanospores.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+            "name": "Polymer Bundle",
+            "description": "A hard, thermoplastic casing. Manufactured by Corpus.\n\nLocation: Mercury, Venus, and Uranus",
+            "codexSecret": false,
+            "itemCount": 5000,
+            "imageName": "PolymerBundle.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 10000,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "ComponentMorphic.png",
         "tradable": false,
-        "drops": [],
         "masterable": false,
-        "type": "Resource"
+        "type": "Resource",
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
@@ -4508,11 +6774,39 @@
         "name": "Smooth Phasmin",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonGemACutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemAItem",
+            "name": "Phasmin",
+            "description": "An eerily green gem found encased in metallic shards.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisCommonGemA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 10,
         "imageName": "SolarisCommonGemACut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Pets",
@@ -4638,10 +6932,38 @@
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 5,
+        "buildPrice": 2500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisUncommonGemACutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemAItem",
+            "name": "Goblite",
+            "description": "A strange crystal that grows inside the veins of extracted ore.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisUncommonGemA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          }
+        ],
         "imageName": "SolarisUncommonGemACut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
@@ -5065,10 +7387,72 @@
         "description": "Purged of spores and contaminants, this alloy is highly versatile.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
         "codexSecret": false,
         "itemCount": 40,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAItem",
+            "name": "Adramalium",
+            "description": "Sinewy and metallic, possessed of great elastic strength.\n\nLocation: Cambion Drift (Deimos) from Yellow Mining Lesions, Spitia Infested Cysts, and Rolizor Infested Cysts.",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "DeimosCommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Prospecting/DeimosCommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "Purged of spores and contaminants, this alloy is highly versatile.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/OrbStoneItem",
+            "name": "Lucent Teroglobe",
+            "description": "These orbs have long since fulfilled their original function, but still, thrum with faint power.\n\nLocation: Cambion Drift on Deimos",
+            "codexSecret": false,
+            "itemCount": 15,
+            "imageName": "OrbStoneItem.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+            "name": "Plastids",
+            "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+            "codexSecret": false,
+            "itemCount": 600,
+            "imageName": "ComponentPlastids.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAItem",
+            "name": "Travoride",
+            "description": "A mineral hardened by the crushing pressure of the Venusian atmosphere.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "imageName": "DeimosCommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartBodyCBlueprint",
@@ -5086,10 +7470,62 @@
         "description": "Ferros that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "codexSecret": false,
         "itemCount": 25,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/UncommonOreAAlloyABlueprint",
+            "name": "Blueprint",
+            "description": "Ferros that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAItem",
+            "name": "Ferros",
+            "description": "A resilient metal that is hardened by impurities within.\n\nLocation: Plains of Eidolon (Earth) from Red Mining Veins and Thumpers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "UncommonOreA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+            "name": "Plastids",
+            "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+            "codexSecret": false,
+            "itemCount": 400,
+            "imageName": "ComponentPlastids.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 200,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "UncommonOreAAlloyA.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
@@ -5694,11 +8130,39 @@
         "name": "Smooth Phasmin",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonGemACutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemAItem",
+            "name": "Phasmin",
+            "description": "An eerily green gem found encased in metallic shards.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisCommonGemA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 20,
         "imageName": "SolarisCommonGemACut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
@@ -5717,10 +8181,62 @@
         "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 40,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+            "name": "Plastids",
+            "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+            "codexSecret": false,
+            "itemCount": 100,
+            "imageName": "ComponentPlastids.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAItem",
+            "name": "Travoride",
+            "description": "A mineral hardened by the crushing pressure of the Venusian atmosphere.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "imageName": "SolarisCommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Pet Resource",
@@ -5804,11 +8320,39 @@
         "name": "Heart Noctrul",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonGemBCutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBItem",
+            "name": "Noctrul",
+            "description": "A black gemstone, with iridescent blue impurities.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 10,
+            "imageName": "SolarisCommonGemB.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 5,
         "imageName": "SolarisCommonGemBCut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
@@ -5927,11 +8471,39 @@
         "name": "Star Amarast",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "buildPrice": 5000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 6,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemAItem",
+            "name": "Amarast",
+            "description": "A violet gem that forms from the crystallization of byproducts expelled from the Weeping Towers.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 6,
+            "imageName": "SolarisRareGemA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisRareGemACutBlueprint",
+            "name": "Blueprint",
+            "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "itemCount": 5,
         "imageName": "SolarisRareGemACut.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
@@ -6031,10 +8603,62 @@
         "description": "Pyrol that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
         "codexSecret": false,
         "itemCount": 25,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/CommonOreAAlloyABlueprint",
+            "name": "Blueprint",
+            "description": "Pyrol that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+            "name": "Cryotic",
+            "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\n\nLocation: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune",
+            "codexSecret": false,
+            "itemCount": 200,
+            "imageName": "ComponentCryotic.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAItem",
+            "name": "Pyrol",
+            "description": "A tarnished, brittle metal.\n\nLocation: Plains of Eidolon (Earth) from Red Mining Veins and Thumpers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "CommonOreA.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 50,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "CommonOreAAlloyA.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
@@ -7299,10 +9923,72 @@
         "description": "Thaumica reduced to its most durable, workable elements.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
         "codexSecret": false,
         "itemCount": 20,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Prospecting/DeimosRareOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "Thaumica reduced to its most durable, workable elements.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+            "name": "Gallium",
+            "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+            "codexSecret": false,
+            "itemCount": 4,
+            "imageName": "ComponentGallium.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/OrbStoneItem",
+            "name": "Lucent Teroglobe",
+            "description": "These orbs have long since fulfilled their original function, but still, thrum with faint power.\n\nLocation: Cambion Drift on Deimos",
+            "codexSecret": false,
+            "itemCount": 15,
+            "imageName": "OrbStoneItem.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAItem",
+            "name": "Thaumica",
+            "description": "Can be molded by the Infestation but remains resistant to it.\n\nLocation: Cambion Drift (Deimos) from Yellow Mining Lesions, Requiem Obelisks, and Spitia Infested Cysts.",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "DeimosRareOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreItem",
+            "name": "Venerol",
+            "description": "A precious metal forged from coolant byproducts.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisUncommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "imageName": "DeimosRareOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       }
     ],
     "type": "Pet Resource",
@@ -7470,10 +10156,61 @@
         "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 25,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBItem",
+            "name": "Axidite",
+            "description": "A sediment that formed from sulfuric rain that became trapped under the ice.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreB.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreBAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+            "name": "Ferrite",
+            "description": "Alloy pellets used in Grineer manufacturing.\n\nLocation: Mercury, Earth, Lua, Neptune, and the Void",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentFerrite.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+            "name": "Rubedo",
+            "description": "A jagged crystalline ore. Gives off radiant energy.\n\nLocation: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void",
+            "codexSecret": false,
+            "itemCount": 100,
+            "imageName": "ComponentRubedo.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          }
+        ],
         "imageName": "SolarisCommonOreBAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartLegsCBlueprint",
@@ -7502,10 +10239,62 @@
         "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
         "itemCount": 25,
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "components": [
+          {
+            "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreAAlloyBlueprint",
+            "name": "Blueprint",
+            "description": "A compound formed from Travoride.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+            "itemCount": 1,
+            "imageName": "blueprint.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+            "name": "Plastids",
+            "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+            "codexSecret": false,
+            "itemCount": 100,
+            "imageName": "ComponentPlastids.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+            "name": "Salvage",
+            "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+            "codexSecret": false,
+            "itemCount": 500,
+            "imageName": "ComponentSalvage.png",
+            "tradable": false,
+            "drops": [],
+            "masterable": false,
+            "type": "Resource"
+          },
+          {
+            "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAItem",
+            "name": "Travoride",
+            "description": "A mineral hardened by the crushing pressure of the Venusian atmosphere.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+            "codexSecret": false,
+            "itemCount": 20,
+            "imageName": "SolarisCommonOreA.png",
+            "tradable": false,
+            "masterable": false,
+            "drops": []
+          }
+        ],
         "imageName": "SolarisCommonOreAAlloy.png",
         "tradable": false,
-        "drops": [],
-        "masterable": false
+        "masterable": false,
+        "drops": []
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidMicroidItem",
