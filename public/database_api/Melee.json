@@ -12348,7 +12348,8 @@
       "madurai"
     ],
     "tags": [
-      "Infested"
+      "Infested",
+      "Technocyte Coda"
     ],
     "stancePolarity": "zenurik",
     "wikiaUrl": "https://wiki.warframe.com/w/Coda_Caustacyst",
@@ -12495,7 +12496,8 @@
       "madurai"
     ],
     "tags": [
-      "Infested"
+      "Infested",
+      "Technocyte Coda"
     ],
     "stancePolarity": "naramon",
     "wikiaUrl": "https://wiki.warframe.com/w/Coda_Hirudo",
@@ -12795,7 +12797,8 @@
       "naramon"
     ],
     "tags": [
-      "Infested"
+      "Infested",
+      "Technocyte Coda"
     ],
     "stancePolarity": "madurai",
     "wikiaUrl": "https://wiki.warframe.com/w/Coda_Motovore",
@@ -13043,7 +13046,8 @@
       "vazarin"
     ],
     "tags": [
-      "Infested"
+      "Infested",
+      "Technocyte Coda"
     ],
     "stancePolarity": "naramon",
     "wikiaUrl": "https://wiki.warframe.com/w/Coda_Pathocyst",
@@ -18425,7 +18429,6 @@
       "Grineer"
     ],
     "stancePolarity": "naramon",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DualCleavers.png?547b9",
     "wikiaUrl": "https://wiki.warframe.com/w/Dual_Cleavers",
     "introduced": {
       "name": "Update 8.0",
@@ -18679,7 +18682,6 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DualEther.png?e911b",
     "wikiaUrl": "https://wiki.warframe.com/w/Dual_Ether",
     "introduced": {
       "name": "Hotfix 7.7.3",
@@ -18926,7 +18928,6 @@
       "Tenno"
     ],
     "stancePolarity": "universal",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DualHeatSwords.png?bd93b",
     "wikiaUrl": "https://wiki.warframe.com/w/Dual_Heat_Swords",
     "introduced": {
       "name": "Update 6.2",
@@ -33661,7 +33662,8 @@
     "marketCost": 245,
     "bpCost": 1500,
     "tags": [
-      "Grineer"
+      "Grineer",
+      "Kuva Lich"
     ],
     "stancePolarity": "naramon",
     "wikiaThumbnail": "https://wiki.warframe.com/images/Ghoulsaw.png?0ee00",
@@ -41794,7 +41796,8 @@
       "madurai"
     ],
     "tags": [
-      "Infested"
+      "Infested",
+      "Technocyte Coda"
     ],
     "stancePolarity": "naramon",
     "wikiaThumbnail": "https://wiki.warframe.com/images/Hirudo.png?b7b83",
@@ -100664,7 +100667,6 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Wrath.png?ff3cf",
     "wikiaUrl": "https://wiki.warframe.com/w/Wrath",
     "introduced": {
       "name": "Update 43.0",
@@ -101052,7 +101054,6 @@
       "Corpus"
     ],
     "stancePolarity": "naramon",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Xoris.png?5c2e5",
     "wikiaUrl": "https://wiki.warframe.com/w/Xoris",
     "introduced": {
       "name": "Update 28.0",
@@ -101466,7 +101467,6 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Zenistar.png?27d70",
     "wikiaUrl": "https://wiki.warframe.com/w/Zenistar",
     "introduced": {
       "name": "Update: Specters of the Rail 1",

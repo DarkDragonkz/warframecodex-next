@@ -1356,6 +1356,10 @@
     "name": "Bonewidow Capsule",
     "description": "Capsule component for the Bonewidow Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -1435,6 +1439,10 @@
     "name": "Bonewidow Casing",
     "description": "Casing component for the Bonewidow Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -1514,6 +1522,10 @@
     "name": "Bonewidow Engine",
     "description": "Engine component for the Bonewidow Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -1593,6 +1605,10 @@
     "name": "Bonewidow Weapon Pod",
     "description": "Weapon Pod component for the Bonewidow Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -4113,7 +4129,8 @@
     "itemCount": 2,
     "parents": [
       "Grimoire",
-      "Mandonel"
+      "Mandonel",
+      "Qorvex"
     ],
     "type": "Resource",
     "imageName": "EntratiLabDogTagRare.png",
@@ -7620,7 +7637,8 @@
     "itemCount": 50,
     "parents": [
       "Perigale",
-      "Sarofang"
+      "Sarofang",
+      "Voruna"
     ],
     "type": "Resource",
     "imageName": "EclipseVoidWraithItem.png",
@@ -7740,7 +7758,7 @@
     "name": "Lunar Pitcher",
     "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
     "codexSecret": false,
-    "itemCount": 50,
+    "itemCount": 6,
     "parents": [
       "Seeding Step Ephemera",
       "Twilight Apothic"
@@ -8126,10 +8144,11 @@
     "name": "Moonlight Dragonlily",
     "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 6,
+    "itemCount": 10,
     "parents": [
       "Lapis Antitoxin",
       "Nightfall Apothic",
+      "The Silver Grove",
       "Topaz Antitoxin",
       "Vermillion Antitoxin"
     ],
@@ -10141,6 +10160,7 @@
     "codexSecret": false,
     "itemCount": 10,
     "parents": [
+      "Kullervo",
       "Rauta"
     ],
     "type": "Resource",
@@ -11965,10 +11985,11 @@
     "name": "Sunlight Dragonlily",
     "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 4,
+    "itemCount": 10,
     "parents": [
       "Citrine Antitoxin",
       "Lapis Antitoxin",
+      "The Silver Grove",
       "Vermillion Antitoxin"
     ],
     "type": "Plant",
@@ -14848,6 +14869,10 @@
     "name": "Voidrig Capsule",
     "description": "Capsule component for the Voidrig Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -14946,6 +14971,10 @@
     "name": "Voidrig Casing",
     "description": "Casing component for the Voidrig Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -15043,6 +15072,10 @@
     "name": "Voidrig Engine",
     "description": "Engine component for the Voidrig Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -15141,6 +15174,10 @@
     "name": "Voidrig Weapon Pod",
     "description": "Weapon Pod component for the Voidrig Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
