@@ -113,8 +113,8 @@
         "codexSecret": false,
         "itemCount": 40,
         "imageName": "CommonOreBAlloyA.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -124,8 +124,8 @@
         "codexSecret": false,
         "itemCount": 1500,
         "imageName": "ComponentRubedo.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -136,8 +136,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "SpecterParticleResidue.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -148,8 +148,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "SolarisUncommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -208,8 +208,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Son), Stranger",
@@ -217,7 +215,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
@@ -237,8 +237,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "InfGorgaricusSeedItem.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -259,8 +259,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "WyrmBaitEntrati.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -318,8 +318,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Rapscallion",
@@ -327,7 +325,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
@@ -347,8 +347,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "SolarisCommonGemBCut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -358,8 +358,8 @@
         "codexSecret": false,
         "itemCount": 1000,
         "imageName": "ComponentPlastids.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -370,8 +370,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "Coolant.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -430,8 +430,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "SolarisCommonOreBAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -440,8 +440,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Rapscallion",
@@ -449,7 +447,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
@@ -469,8 +469,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "SolarisCommonGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -480,8 +480,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "SolarisCommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -540,8 +540,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Son), Associate",
@@ -549,7 +547,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
@@ -558,8 +558,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "InfGorgaricusSeedItem.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -591,8 +591,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "WyrmBaitEntrati.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -650,8 +650,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Cove",
@@ -659,7 +657,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
@@ -668,8 +668,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ControlModule.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -680,8 +680,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "SolarisRareGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -691,8 +691,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "VenusTree.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -702,8 +702,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "FishPartEntroplasma.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -783,8 +783,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "ComponentGallium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -795,8 +795,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "SolarisEidolonGemBCut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -806,8 +806,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "SpecterParticleResidue.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -901,8 +901,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "Iradite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -912,8 +912,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "CrpArachnoidPowerCoreWraith.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -923,8 +923,8 @@
         "codexSecret": false,
         "itemCount": 35,
         "imageName": "SolarisCommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -1123,8 +1123,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Son), Acquaintance",
@@ -1132,7 +1130,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
@@ -1152,8 +1152,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "InfGorgaricusSeedItem.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -1163,8 +1163,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "WyrmBaitEntrati.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -1281,8 +1281,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Son), Stranger",
@@ -1290,7 +1288,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
@@ -1310,8 +1310,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "WyrmBaitInfested.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -1321,8 +1321,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "InfMapricoFruit.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -1391,8 +1391,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "ComponentGallium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -1414,8 +1414,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "EidolonGemACutA.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -1425,8 +1425,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "SpecterParticleResidue.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -1499,8 +1499,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "SolarisCommonOreBAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -1509,8 +1509,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Neutral",
@@ -1518,7 +1516,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
@@ -1538,8 +1538,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "SolarisCommonGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -1549,8 +1549,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "SolarisCommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -1609,8 +1609,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "SolarisCommonOreBAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -1619,8 +1619,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Neutral",
@@ -1628,7 +1626,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
@@ -1637,8 +1637,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "FungusHeart.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -1648,8 +1648,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "Coolant.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -1659,8 +1659,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "SolarisCommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -1740,8 +1740,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Son), Acquaintance",
@@ -1749,7 +1747,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
@@ -1758,8 +1758,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "WyrmBaitInfested.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -1769,8 +1769,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "InfMapricoFruit.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -1851,8 +1851,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Son), Acquaintance",
@@ -1860,7 +1858,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
@@ -1880,8 +1880,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "InfGorgaricusSeedItem.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -1891,8 +1891,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "WyrmBaitEntrati.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -1961,8 +1961,8 @@
         "codexSecret": false,
         "itemCount": 600,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -1973,8 +1973,8 @@
         "codexSecret": false,
         "itemCount": 2500,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -1984,8 +1984,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "SolarisRareOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -1995,8 +1995,8 @@
         "codexSecret": false,
         "itemCount": 3,
         "imageName": "Alertium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -2055,8 +2055,8 @@
         "codexSecret": false,
         "itemCount": 40,
         "imageName": "SolarisCommonOreBAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2076,8 +2076,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "DeimosUncommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2087,8 +2087,8 @@
         "codexSecret": false,
         "itemCount": 1500,
         "imageName": "ComponentRubedo.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2099,8 +2099,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "SpecterParticleResidue.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -2159,8 +2159,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Rapscallion",
@@ -2168,7 +2166,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
@@ -2177,8 +2177,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "SolarisUncommonGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2188,8 +2188,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "VenusTree.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2210,8 +2210,8 @@
         "codexSecret": false,
         "itemCount": 40,
         "imageName": "SolarisUncommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -2269,8 +2269,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Outworlder",
@@ -2278,7 +2276,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
@@ -2287,8 +2287,8 @@
         "codexSecret": false,
         "itemCount": 1000,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2299,8 +2299,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "FungusHeart.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2310,8 +2310,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "SolarisCommonGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2391,8 +2391,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "ComponentGallium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2414,8 +2414,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "SpecterParticleResidue.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2426,8 +2426,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "DeimosEidolonGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -2682,8 +2682,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Doer",
@@ -2691,7 +2689,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishRotobladeItem",
@@ -2711,8 +2711,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "SolarisUncommonGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2722,8 +2722,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "VenusCoconut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2733,8 +2733,8 @@
         "codexSecret": false,
         "itemCount": 1000,
         "imageName": "ComponentRubedo.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -2794,8 +2794,8 @@
         "codexSecret": false,
         "itemCount": 2500,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2806,8 +2806,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "RareOreAAlloyA.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2827,8 +2827,8 @@
         "codexSecret": false,
         "itemCount": 600,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2839,8 +2839,8 @@
         "codexSecret": false,
         "itemCount": 3,
         "imageName": "Alertium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -2898,8 +2898,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Doer",
@@ -2907,7 +2905,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
@@ -2927,8 +2927,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "SolarisUncommonGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2938,8 +2938,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "FungusHeart.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2949,8 +2949,8 @@
         "codexSecret": false,
         "itemCount": 40,
         "imageName": "SolarisUncommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -3095,8 +3095,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Son), Associate",
@@ -3104,7 +3102,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
@@ -3113,8 +3113,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "WyrmBaitInfested.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -3124,8 +3124,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "InfMapricoFruit.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -3206,8 +3206,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Son), Stranger",
@@ -3215,7 +3213,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
@@ -3235,8 +3235,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "WyrmBaitInfested.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -3246,8 +3246,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "InfMapricoFruit.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -3306,8 +3306,8 @@
         "codexSecret": false,
         "itemCount": 40,
         "imageName": "SolarisCommonOreBAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -3316,8 +3316,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Outworlder",
@@ -3325,7 +3323,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
@@ -3345,8 +3345,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "SolarisCommonGemBCut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -3356,8 +3356,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "VenusTree.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -3416,8 +3416,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "SolarisCommonOreBAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -3426,8 +3426,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Outworlder",
@@ -3435,7 +3433,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
@@ -3455,8 +3455,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "SolarisCommonGemBCut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -3466,8 +3466,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "SolarisUncommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -3525,8 +3525,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Outworlder",
@@ -3534,7 +3532,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
@@ -3543,8 +3543,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "VenusCoconut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -3554,8 +3554,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "SolarisCommonGemBCut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -3565,8 +3565,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentMorphic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -3577,8 +3577,8 @@
         "codexSecret": false,
         "itemCount": 30,
         "imageName": "SolarisUncommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -3651,8 +3651,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Cove",
@@ -3660,7 +3658,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishRotobladeItem",
@@ -3680,8 +3680,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "SolarisRareOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -3691,8 +3691,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "SolarisRareGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -3702,8 +3702,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "SolarisUncommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -3762,8 +3762,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Son), Stranger",
@@ -3771,7 +3769,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
@@ -3791,8 +3791,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "InfGorgaricusSeedItem.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -3813,8 +3813,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "WyrmBaitEntrati.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -3920,8 +3920,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Son), Friend",
@@ -3929,7 +3927,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
@@ -3949,8 +3949,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "InfGorgaricusSeedItem.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -3971,8 +3971,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "WyrmBaitEntrati.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -4030,8 +4030,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Doer",
@@ -4039,7 +4037,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
@@ -4048,8 +4048,8 @@
         "codexSecret": false,
         "itemCount": 1000,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -4060,8 +4060,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "SolarisCommonGemBCut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4071,8 +4071,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "FungusHeart.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4141,8 +4141,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Doer",
@@ -4150,7 +4148,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
@@ -4159,8 +4159,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "SolarisUncommonGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4170,8 +4170,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "VenusCoconut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4181,8 +4181,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentMorphic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -4193,8 +4193,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "SolarisUncommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -4277,8 +4277,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Rapscallion",
@@ -4286,7 +4284,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
@@ -4295,8 +4295,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "SolarisUncommonGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4306,8 +4306,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentMorphic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -4318,8 +4318,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "Coolant.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4329,8 +4329,8 @@
         "codexSecret": false,
         "itemCount": 30,
         "imageName": "SolarisCommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -4459,8 +4459,8 @@
         "codexSecret": false,
         "itemCount": 30,
         "imageName": "SolarisCommonOreBAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4469,8 +4469,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Neutral",
@@ -4478,7 +4476,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
@@ -4487,8 +4487,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentMorphic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -4499,8 +4499,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "FungusHeart.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4510,8 +4510,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "SolarisCommonGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -4621,8 +4621,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Cove",
@@ -4630,7 +4628,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
@@ -4639,8 +4639,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "SolarisUncommonGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4650,8 +4650,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "VenusCoconut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4661,8 +4661,8 @@
         "codexSecret": false,
         "itemCount": 1000,
         "imageName": "ComponentRubedo.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -4733,8 +4733,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Son), Friend",
@@ -4742,7 +4740,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
@@ -4762,8 +4762,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "InfGorgaricusSeedItem.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4784,8 +4784,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "WyrmBaitEntrati.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -4855,8 +4855,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Son), Associate",
@@ -4864,7 +4862,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
@@ -4873,8 +4873,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "WyrmBaitInfested.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4884,8 +4884,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "InfMapricoFruit.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4966,8 +4966,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Son), Friend",
@@ -4975,7 +4973,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
@@ -4984,8 +4984,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "WyrmBaitInfested.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4995,8 +4995,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "InfMapricoFruit.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -5066,8 +5066,8 @@
         "codexSecret": false,
         "itemCount": 40,
         "imageName": "DeimosCommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -5087,8 +5087,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "UncommonOreAAlloyA.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -5098,8 +5098,8 @@
         "codexSecret": false,
         "itemCount": 1500,
         "imageName": "ComponentRubedo.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -5110,8 +5110,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "SpecterParticleResidue.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -5568,8 +5568,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Son), Friend",
@@ -5577,7 +5575,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
@@ -5586,8 +5586,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "WyrmBaitInfested.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -5597,8 +5597,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "InfMapricoFruit.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -5667,8 +5667,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Neutral",
@@ -5676,7 +5674,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishAnoscopicSensorItem",
@@ -5696,8 +5696,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "SolarisCommonGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -5707,8 +5707,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "VenusTree.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -5718,8 +5718,8 @@
         "codexSecret": false,
         "itemCount": 40,
         "imageName": "SolarisCommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -5777,8 +5777,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Neutral",
@@ -5786,7 +5784,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishAnoscopicSensorItem",
@@ -5806,8 +5806,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "SolarisCommonGemBCut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -5817,8 +5817,8 @@
         "codexSecret": false,
         "itemCount": 1000,
         "imageName": "ComponentPlastids.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -5829,8 +5829,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "Coolant.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -5888,8 +5888,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (Legs), Cove",
@@ -5897,7 +5895,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishParralelBiodeItem",
@@ -5917,8 +5917,8 @@
         "codexSecret": false,
         "itemCount": 1200,
         "imageName": "ComponentOxium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -5929,8 +5929,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "SolarisRareGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -5940,8 +5940,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "Coolant.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -6021,8 +6021,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "CrpArachnoidPowerCoreHunger.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -6032,8 +6032,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "CommonOreAAlloyA.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -6043,8 +6043,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "Coolant.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -6069,7 +6069,6 @@
     "type": "Pets",
     "imageName": "KavatBreedVasca.png",
     "category": "Pets",
-    "tradable": false,
     "drops": [
       {
         "location": "Ostron (Master Teasonai), Trusted",
@@ -6084,6 +6083,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Veilbreaker: Revenant Prime: Hotfix 32.0.9",
@@ -6244,7 +6244,6 @@
     "type": "Warframe",
     "imageName": "KavatBreedKhora.png",
     "category": "Pets",
-    "tradable": false,
     "drops": [
       {
         "location": "Red Veil, Exalted",
@@ -6259,6 +6258,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Veilbreaker: Hotfix 32.0.7",
@@ -7108,8 +7108,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Son), Acquaintance",
@@ -7117,7 +7115,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
@@ -7126,8 +7126,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "WyrmBaitInfested.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -7137,8 +7137,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "InfMapricoFruit.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -7265,8 +7265,8 @@
         "codexSecret": false,
         "itemCount": 600,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -7277,8 +7277,8 @@
         "codexSecret": false,
         "itemCount": 3,
         "imageName": "Alertium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -7288,8 +7288,8 @@
         "codexSecret": false,
         "itemCount": 2500,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -7300,8 +7300,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "DeimosRareOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -7360,8 +7360,6 @@
         "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Son), Associate",
@@ -7369,7 +7367,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
@@ -7378,8 +7378,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "InfGorgaricusSeedItem.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -7411,8 +7411,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "WyrmBaitEntrati.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -7471,8 +7471,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "SolarisCommonOreBAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -7503,8 +7503,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "SolarisCommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -7514,8 +7514,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "CrpArachnoidPowerCoreMicroid.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],

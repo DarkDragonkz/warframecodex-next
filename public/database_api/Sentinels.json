@@ -23,8 +23,8 @@
         "codexSecret": false,
         "itemCount": 1000,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -45,8 +45,8 @@
         "codexSecret": false,
         "itemCount": 400,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -57,8 +57,8 @@
         "codexSecret": false,
         "itemCount": 3,
         "imageName": "ControlModule.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -69,8 +69,8 @@
         "codexSecret": false,
         "itemCount": 1500,
         "imageName": "ComponentNanospores.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -374,7 +374,7 @@
         "url": "https://forums.warframe.com/topic/457698-hotfix-1654/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Carrier’s Vacuum not picking up Pigments."
+        "fixes": "Fixed Carrier���s Vacuum not picking up Pigments."
       },
       {
         "name": "Warframe: Sanctuary",
@@ -515,9 +515,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Lith V7 Relic (Radiant)",
@@ -687,7 +684,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeCarrierCarapace",
@@ -697,7 +697,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeChassis.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith V10 Relic",
@@ -840,6 +839,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -851,7 +851,6 @@
         "primeSellingPrice": 65,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeHelmet.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith C1 Relic (Radiant)",
@@ -1022,6 +1021,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionInarosAshVaultBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 65
       },
@@ -1032,8 +1032,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -1045,7 +1045,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeSystem.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A7 Relic (Radiant)",
@@ -1272,6 +1271,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionKBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       }
@@ -1279,7 +1279,7 @@
     "type": "Sentinel",
     "imageName": "CarrierPrime.png",
     "category": "Sentinels",
-    "tradable": true,
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Fortuna: Update 24.0",
@@ -1359,8 +1359,8 @@
         "codexSecret": false,
         "itemCount": 500,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -1381,8 +1381,8 @@
         "codexSecret": false,
         "itemCount": 400,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -1393,8 +1393,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "ControlModule.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -1405,8 +1405,8 @@
         "codexSecret": false,
         "itemCount": 200,
         "imageName": "ComponentNanospores.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -1586,9 +1586,6 @@
         "itemCount": 1,
         "primeSellingPrice": 100,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 100,
         "drops": [
           {
             "location": "Lith D1 Relic (Radiant)",
@@ -1730,7 +1727,10 @@
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionAtlasVaubanVaultABronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 100
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeDethcubeCarapace",
@@ -1740,7 +1740,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeChassis.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi N7 Relic",
@@ -1967,6 +1966,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionAtlasPrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -1978,7 +1978,6 @@
         "primeSellingPrice": 65,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeHelmet.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith D2 Relic (Radiant)",
@@ -2121,6 +2120,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 65
       },
@@ -2131,8 +2131,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2144,7 +2144,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeSystem.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi I1 Relic (Radiant)",
@@ -2371,6 +2370,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionTitaniaPrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       }
@@ -2378,7 +2378,7 @@
     "type": "Sentinel",
     "imageName": "DethcubePrime.png",
     "category": "Sentinels",
-    "tradable": true,
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Echoes of the Zariman: Update 31.6",
@@ -2457,8 +2457,8 @@
         "codexSecret": false,
         "itemCount": 600,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2469,8 +2469,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ArgonCrystal.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2491,8 +2491,8 @@
         "codexSecret": false,
         "itemCount": 350,
         "imageName": "ComponentPlastids.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2503,8 +2503,8 @@
         "codexSecret": false,
         "itemCount": 500,
         "imageName": "PolymerBundle.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -2653,8 +2653,8 @@
         "codexSecret": false,
         "itemCount": 3500,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2665,8 +2665,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2676,8 +2676,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "InfestedComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2687,8 +2687,8 @@
         "codexSecret": false,
         "itemCount": 30000,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -2919,8 +2919,8 @@
         "codexSecret": false,
         "itemCount": 5000,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2930,8 +2930,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "CorpusComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2941,8 +2941,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2952,8 +2952,8 @@
         "codexSecret": false,
         "itemCount": 300,
         "imageName": "ComponentOxium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -3341,9 +3341,6 @@
         "itemCount": 1,
         "primeSellingPrice": 45,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 45,
         "drops": [
           {
             "location": "Lith C3 Relic",
@@ -3569,7 +3566,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMiragePrimeABronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 45
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeHeliosCarapace",
@@ -3579,7 +3579,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeChassis.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A3 Relic (Radiant)",
@@ -3862,6 +3861,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionUBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -3873,7 +3873,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeHelmet.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi H1 Relic (Radiant)",
@@ -4044,6 +4043,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionMiragePrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       },
@@ -4054,8 +4054,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -4067,7 +4067,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeSystem.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A12 Relic",
@@ -4238,6 +4237,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboPrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       }
@@ -4245,7 +4245,7 @@
     "type": "Sentinel",
     "imageName": "HeliosPrime.png",
     "category": "Sentinels",
-    "tradable": true,
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Echoes of Veilbreaker: Hotfix 32.1.4",
@@ -4354,8 +4354,6 @@
         "description": "With 'Auto Omni' and 'Cordon' as default Precepts, this Sentinel is the ideal companion for long voyages aboard a Railjack.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Neptune/Arva Vector (Skirmish), Rotation C",
@@ -4405,7 +4403,9 @@
             "chance": 6.06,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/EmpyreanSentinelCarapace",
@@ -4414,7 +4414,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericWarframeChassis.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Neptune/Arva Vector (Skirmish), Rotation C",
@@ -4465,6 +4464,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4474,7 +4474,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericWarframeHelmet.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Neptune/Arva Vector (Skirmish), Rotation C",
@@ -4525,6 +4524,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4534,8 +4534,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "RailjackComponentNullstones.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4545,7 +4545,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericWarframeSystem.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Neptune/Arva Vector (Skirmish), Rotation C",
@@ -4596,6 +4595,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -4701,9 +4701,6 @@
         "itemCount": 1,
         "primeSellingPrice": 100,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 100,
         "drops": [
           {
             "location": "Lith N17 Relic (Radiant)",
@@ -4817,7 +4814,10 @@
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 100
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCarapace",
@@ -4827,7 +4827,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeChassis.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi V13 Relic (Radiant)",
@@ -5026,6 +5025,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -5037,7 +5037,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeHelmet.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi N13 Relic (Radiant)",
@@ -5152,6 +5151,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionVorunaPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       },
@@ -5162,8 +5162,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -5175,7 +5175,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeSystem.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi S16 Relic",
@@ -5346,6 +5345,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeEBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       }
@@ -5353,7 +5353,7 @@
     "type": "Sentinel",
     "imageName": "NautilusPrime.png",
     "category": "Sentinels",
-    "tradable": true,
+    "tradable": false,
     "wikiAvailable": true,
     "introduced": {
       "name": "Update 36.1",
@@ -5405,8 +5405,8 @@
         "codexSecret": false,
         "itemCount": 45,
         "imageName": "SolarisCommonOreBAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -5415,8 +5415,6 @@
         "description": "With 'Scan Aquatic Lifeforms' and 'Scan Matter' as default Precepts, Oxylus was designed to assist in Search-and-Rescue operations through the harsh landscape around The Orb Vallis. Oxylus also comes with a Multron rifle.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Solaris United (The Business), Old Mate",
@@ -5424,7 +5422,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
@@ -5433,8 +5433,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "SolarisUncommonGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -5444,8 +5444,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "FishPartLatheCoogulant.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -5613,8 +5613,8 @@
         "codexSecret": false,
         "itemCount": 500,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -5635,8 +5635,8 @@
         "codexSecret": false,
         "itemCount": 400,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -5647,8 +5647,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "ControlModule.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -5659,8 +5659,8 @@
         "codexSecret": false,
         "itemCount": 200,
         "imageName": "ComponentNanospores.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -5856,9 +5856,6 @@
         "itemCount": 1,
         "primeSellingPrice": 45,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 45,
         "drops": [
           {
             "location": "Axi A17 Relic",
@@ -6056,7 +6053,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeDBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 45
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ShadePrimeCarapace",
@@ -6066,7 +6066,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeChassis.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi S16 Relic (Radiant)",
@@ -6181,6 +6180,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGrendelPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       },
@@ -6192,7 +6192,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeHelmet.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi G11 Relic (Radiant)",
@@ -6419,6 +6418,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -6429,8 +6429,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -6442,7 +6442,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeSystem.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi B6 Relic",
@@ -6613,6 +6612,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGrendelPrimeCBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       }
@@ -6620,7 +6620,7 @@
     "type": "Sentinel",
     "imageName": "ShadePrime.png",
     "category": "Sentinels",
-    "tradable": true,
+    "tradable": false,
     "wikiAvailable": true,
     "introduced": {
       "name": "Hotfix 32.3.6",
@@ -6683,8 +6683,8 @@
         "codexSecret": false,
         "itemCount": 500,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -6694,8 +6694,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "ComponentNeurode.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -6705,8 +6705,8 @@
         "codexSecret": false,
         "itemCount": 200,
         "imageName": "ComponentRubedo.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -6829,8 +6829,8 @@
         "codexSecret": false,
         "itemCount": 500,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -6851,8 +6851,8 @@
         "codexSecret": false,
         "itemCount": 400,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -6863,8 +6863,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "ControlModule.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -6875,8 +6875,8 @@
         "codexSecret": false,
         "itemCount": 200,
         "imageName": "ComponentNanospores.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -7232,9 +7232,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Axi S2 Relic (Radiant)",
@@ -7320,7 +7317,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLokiVoltVaultABronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeWyrmCarapace",
@@ -7330,7 +7330,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeChassis.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi L1 Relic (Radiant)",
@@ -7389,6 +7388,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLokiVoltVaultABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -7400,7 +7400,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeHelmet.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith G2 Relic (Radiant)",
@@ -7459,6 +7458,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLokiVoltVaultABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -7469,8 +7469,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -7482,7 +7482,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericWarframePrimeSystem.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Meso E1 Relic",
@@ -7541,6 +7540,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLokiVoltVaultABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       }
@@ -7548,7 +7548,7 @@
     "type": "Sentinel",
     "imageName": "WyrmPrime.png",
     "category": "Sentinels",
-    "tradable": true,
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Fortuna: Update 24.0",

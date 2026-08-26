@@ -4627,7 +4627,6 @@
     "type": "Relic",
     "imageName": "RelicAxiA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -5158,6 +5157,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -5685,7 +5685,6 @@
     "type": "Relic",
     "imageName": "RelicAxiB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -6216,6 +6215,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -6743,7 +6743,6 @@
     "type": "Relic",
     "imageName": "RelicAxiD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -7274,6 +7273,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -7801,7 +7801,6 @@
     "type": "Relic",
     "imageName": "RelicAxiC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -8332,6 +8331,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -8859,7 +8859,6 @@
     "type": "Relic",
     "imageName": "RelicAxiA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -9354,6 +9353,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -9851,7 +9851,6 @@
     "type": "Relic",
     "imageName": "RelicAxiB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -10346,6 +10345,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -10843,7 +10843,6 @@
     "type": "Relic",
     "imageName": "RelicAxiD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -11338,6 +11337,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -11835,7 +11835,6 @@
     "type": "Relic",
     "imageName": "RelicAxiC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -12330,6 +12329,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -24275,7 +24275,6 @@
     "type": "Relic",
     "imageName": "RelicAxiA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -24776,6 +24775,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -25282,7 +25282,6 @@
     "type": "Relic",
     "imageName": "RelicAxiB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -25783,6 +25782,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -26289,7 +26289,6 @@
     "type": "Relic",
     "imageName": "RelicAxiD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -26790,6 +26789,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -27296,7 +27296,6 @@
     "type": "Relic",
     "imageName": "RelicAxiC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -27797,6 +27796,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -54723,7 +54723,6 @@
     "type": "Relic",
     "imageName": "RelicAxiA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -55188,6 +55187,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -55660,7 +55660,6 @@
     "type": "Relic",
     "imageName": "RelicAxiB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -56125,6 +56124,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -56597,7 +56597,6 @@
     "type": "Relic",
     "imageName": "RelicAxiD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -57062,6 +57061,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -57534,7 +57534,6 @@
     "type": "Relic",
     "imageName": "RelicAxiC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -57999,6 +57998,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -67031,7 +67031,6 @@
     "type": "Relic",
     "imageName": "RelicAxiA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -67556,6 +67555,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -68078,7 +68078,6 @@
     "type": "Relic",
     "imageName": "RelicAxiB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -68603,6 +68602,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -69125,7 +69125,6 @@
     "type": "Relic",
     "imageName": "RelicAxiD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -69650,6 +69649,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -70172,7 +70172,6 @@
     "type": "Relic",
     "imageName": "RelicAxiC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -70697,6 +70696,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -72975,7 +72975,6 @@
     "type": "Relic",
     "imageName": "RelicAxiA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Veil Proxima/Flexa (Caches), Rotation A",
@@ -73098,6 +73097,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 4.8,
@@ -73285,7 +73285,6 @@
     "type": "Relic",
     "imageName": "RelicAxiB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Veil Proxima/Flexa (Caches), Rotation A",
@@ -73408,6 +73407,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 4.8,
@@ -73595,7 +73595,6 @@
     "type": "Relic",
     "imageName": "RelicAxiD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Veil Proxima/Flexa (Caches), Rotation A",
@@ -73718,6 +73717,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 4.8,
@@ -73905,7 +73905,6 @@
     "type": "Relic",
     "imageName": "RelicAxiC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Veil Proxima/Flexa (Caches), Rotation A",
@@ -74028,6 +74027,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 4.8,
@@ -75971,7 +75971,6 @@
     "type": "Relic",
     "imageName": "RelicAxiA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -76466,6 +76465,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -76963,7 +76963,6 @@
     "type": "Relic",
     "imageName": "RelicAxiB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -77458,6 +77457,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -77955,7 +77955,6 @@
     "type": "Relic",
     "imageName": "RelicAxiD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -78450,6 +78449,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -78947,7 +78947,6 @@
     "type": "Relic",
     "imageName": "RelicAxiC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -79442,6 +79441,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -83103,7 +83103,6 @@
     "type": "Relic",
     "imageName": "RelicAxiA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Veil Proxima/Flexa (Caches), Rotation A",
@@ -83226,6 +83225,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 4.8,
@@ -83413,7 +83413,6 @@
     "type": "Relic",
     "imageName": "RelicAxiB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Veil Proxima/Flexa (Caches), Rotation A",
@@ -83536,6 +83535,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 4.8,
@@ -83723,7 +83723,6 @@
     "type": "Relic",
     "imageName": "RelicAxiD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Veil Proxima/Flexa (Caches), Rotation A",
@@ -83846,6 +83845,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 4.8,
@@ -84033,7 +84033,6 @@
     "type": "Relic",
     "imageName": "RelicAxiC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Veil Proxima/Flexa (Caches), Rotation A",
@@ -84156,6 +84155,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 4.8,
@@ -85387,7 +85387,6 @@
     "type": "Relic",
     "imageName": "RelicAxiA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -85906,6 +85905,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -86423,7 +86423,6 @@
     "type": "Relic",
     "imageName": "RelicAxiB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -86942,6 +86941,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -87459,7 +87459,6 @@
     "type": "Relic",
     "imageName": "RelicAxiD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -87978,6 +87977,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -88495,7 +88495,6 @@
     "type": "Relic",
     "imageName": "RelicAxiC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void/Mithra (Interception), Rotation C",
@@ -89014,6 +89013,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.29,
@@ -96587,7 +96587,6 @@
     "type": "Relic",
     "imageName": "RelicLithA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -97256,6 +97255,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -97898,7 +97898,6 @@
     "type": "Relic",
     "imageName": "RelicLithB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -98567,6 +98566,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -99209,7 +99209,6 @@
     "type": "Relic",
     "imageName": "RelicLithD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -99878,6 +99877,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -100520,7 +100520,6 @@
     "type": "Relic",
     "imageName": "RelicLithC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -101189,6 +101188,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -112543,7 +112543,6 @@
     "type": "Relic",
     "imageName": "RelicLithA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Saturn/Kasio's Rest (Caches)",
@@ -112648,6 +112647,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 6,
@@ -112820,7 +112820,6 @@
     "type": "Relic",
     "imageName": "RelicLithB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Saturn/Kasio's Rest (Caches)",
@@ -112925,6 +112924,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 6,
@@ -113097,7 +113097,6 @@
     "type": "Relic",
     "imageName": "RelicLithD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Saturn/Kasio's Rest (Caches)",
@@ -113202,6 +113201,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 6,
@@ -113374,7 +113374,6 @@
     "type": "Relic",
     "imageName": "RelicLithC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Saturn/Kasio's Rest (Caches)",
@@ -113479,6 +113478,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 6,
@@ -120691,7 +120691,6 @@
     "type": "Relic",
     "imageName": "RelicLithA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -121354,6 +121353,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -121991,7 +121991,6 @@
     "type": "Relic",
     "imageName": "RelicLithB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -122654,6 +122653,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -123291,7 +123291,6 @@
     "type": "Relic",
     "imageName": "RelicLithD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -123954,6 +123953,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -124591,7 +124591,6 @@
     "type": "Relic",
     "imageName": "RelicLithC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -125254,6 +125253,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -133707,7 +133707,6 @@
     "type": "Relic",
     "imageName": "RelicLithA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -134376,6 +134375,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -135018,7 +135018,6 @@
     "type": "Relic",
     "imageName": "RelicLithB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -135687,6 +135686,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -136329,7 +136329,6 @@
     "type": "Relic",
     "imageName": "RelicLithD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -136998,6 +136997,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -137640,7 +137640,6 @@
     "type": "Relic",
     "imageName": "RelicLithC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -138309,6 +138308,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -160051,7 +160051,6 @@
     "type": "Relic",
     "imageName": "RelicLithA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -160720,6 +160719,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -161366,7 +161366,6 @@
     "type": "Relic",
     "imageName": "RelicLithB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -162035,6 +162034,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -162681,7 +162681,6 @@
     "type": "Relic",
     "imageName": "RelicLithD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -163350,6 +163349,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -163996,7 +163996,6 @@
     "type": "Relic",
     "imageName": "RelicLithC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -164665,6 +164664,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -170319,7 +170319,6 @@
     "type": "Relic",
     "imageName": "RelicLithA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -170964,6 +170963,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -171586,7 +171586,6 @@
     "type": "Relic",
     "imageName": "RelicLithB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -172231,6 +172230,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -172853,7 +172853,6 @@
     "type": "Relic",
     "imageName": "RelicLithD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -173498,6 +173497,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -174120,7 +174120,6 @@
     "type": "Relic",
     "imageName": "RelicLithC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -174765,6 +174764,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -179999,7 +179999,6 @@
     "type": "Relic",
     "imageName": "RelicLithA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -180656,6 +180655,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -181292,7 +181292,6 @@
     "type": "Relic",
     "imageName": "RelicLithB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -181949,6 +181948,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -182585,7 +182585,6 @@
     "type": "Relic",
     "imageName": "RelicLithD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -183242,6 +183241,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -183878,7 +183878,6 @@
     "type": "Relic",
     "imageName": "RelicLithC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -184535,6 +184534,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -188723,7 +188723,6 @@
     "type": "Relic",
     "imageName": "RelicLithA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -189380,6 +189379,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -190016,7 +190016,6 @@
     "type": "Relic",
     "imageName": "RelicLithB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -190673,6 +190672,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -191309,7 +191309,6 @@
     "type": "Relic",
     "imageName": "RelicLithD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -191966,6 +191965,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -192602,7 +192602,6 @@
     "type": "Relic",
     "imageName": "RelicLithC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -193259,6 +193258,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -201339,7 +201339,6 @@
     "type": "Relic",
     "imageName": "RelicMesoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -202416,6 +202415,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -203398,7 +203398,6 @@
     "type": "Relic",
     "imageName": "RelicMesoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -204475,6 +204474,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -205457,7 +205457,6 @@
     "type": "Relic",
     "imageName": "RelicMesoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -206534,6 +206533,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -207516,7 +207516,6 @@
     "type": "Relic",
     "imageName": "RelicMesoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -208593,6 +208592,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -221931,7 +221931,6 @@
     "type": "Relic",
     "imageName": "RelicMesoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -223044,6 +223043,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -224060,7 +224060,6 @@
     "type": "Relic",
     "imageName": "RelicMesoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -225173,6 +225172,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -226189,7 +226189,6 @@
     "type": "Relic",
     "imageName": "RelicMesoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -227302,6 +227301,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -228318,7 +228318,6 @@
     "type": "Relic",
     "imageName": "RelicMesoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -229431,6 +229430,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -244355,7 +244355,6 @@
     "type": "Relic",
     "imageName": "RelicMesoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Another Betrayer, Rotation B",
@@ -245456,6 +245455,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 1.47,
@@ -246458,7 +246458,6 @@
     "type": "Relic",
     "imageName": "RelicMesoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Another Betrayer, Rotation B",
@@ -247559,6 +247558,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 1.47,
@@ -248561,7 +248561,6 @@
     "type": "Relic",
     "imageName": "RelicMesoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Another Betrayer, Rotation B",
@@ -249662,6 +249661,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 1.47,
@@ -250664,7 +250664,6 @@
     "type": "Relic",
     "imageName": "RelicMesoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Another Betrayer, Rotation B",
@@ -251765,6 +251764,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 1.47,
@@ -254191,7 +254191,6 @@
     "type": "Relic",
     "imageName": "RelicMesoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -255244,6 +255243,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -256206,7 +256206,6 @@
     "type": "Relic",
     "imageName": "RelicMesoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -257259,6 +257258,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -258221,7 +258221,6 @@
     "type": "Relic",
     "imageName": "RelicMesoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -259274,6 +259273,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -260236,7 +260236,6 @@
     "type": "Relic",
     "imageName": "RelicMesoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -261289,6 +261288,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -264751,7 +264751,6 @@
     "type": "Relic",
     "imageName": "RelicMesoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Bendar Cluster (Caches)",
@@ -264856,6 +264855,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 5,
@@ -265028,7 +265028,6 @@
     "type": "Relic",
     "imageName": "RelicMesoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Bendar Cluster (Caches)",
@@ -265133,6 +265132,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 5,
@@ -265305,7 +265305,6 @@
     "type": "Relic",
     "imageName": "RelicMesoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Bendar Cluster (Caches)",
@@ -265410,6 +265409,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 5,
@@ -265582,7 +265582,6 @@
     "type": "Relic",
     "imageName": "RelicMesoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Bendar Cluster (Caches)",
@@ -265687,6 +265686,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 5,
@@ -290667,7 +290667,6 @@
     "type": "Relic",
     "imageName": "RelicMesoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -291768,6 +291767,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -292770,7 +292770,6 @@
     "type": "Relic",
     "imageName": "RelicMesoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -293871,6 +293870,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -294873,7 +294873,6 @@
     "type": "Relic",
     "imageName": "RelicMesoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -295974,6 +295973,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -296976,7 +296976,6 @@
     "type": "Relic",
     "imageName": "RelicMesoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -298077,6 +298076,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -299427,7 +299427,6 @@
     "type": "Relic",
     "imageName": "RelicMesoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Another Betrayer, Rotation B",
@@ -300408,6 +300407,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 1.47,
@@ -301310,7 +301310,6 @@
     "type": "Relic",
     "imageName": "RelicMesoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Another Betrayer, Rotation B",
@@ -302291,6 +302290,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 1.47,
@@ -303193,7 +303193,6 @@
     "type": "Relic",
     "imageName": "RelicMesoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Another Betrayer, Rotation B",
@@ -304174,6 +304173,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 1.47,
@@ -305076,7 +305076,6 @@
     "type": "Relic",
     "imageName": "RelicMesoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Another Betrayer, Rotation B",
@@ -306057,6 +306056,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 1.47,
@@ -311587,7 +311587,6 @@
     "type": "Relic",
     "imageName": "RelicMesoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -312688,6 +312687,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -313694,7 +313694,6 @@
     "type": "Relic",
     "imageName": "RelicMesoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -314795,6 +314794,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -315801,7 +315801,6 @@
     "type": "Relic",
     "imageName": "RelicMesoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -316902,6 +316901,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -317908,7 +317908,6 @@
     "type": "Relic",
     "imageName": "RelicMesoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -319009,6 +319008,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -320363,7 +320363,6 @@
     "type": "Relic",
     "imageName": "RelicMesoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -321428,6 +321427,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -322404,7 +322404,6 @@
     "type": "Relic",
     "imageName": "RelicMesoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -323469,6 +323468,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -324445,7 +324445,6 @@
     "type": "Relic",
     "imageName": "RelicMesoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -325510,6 +325509,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -326486,7 +326486,6 @@
     "type": "Relic",
     "imageName": "RelicMesoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -327551,6 +327550,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -333083,7 +333083,6 @@
     "type": "Relic",
     "imageName": "RelicNeoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -334142,6 +334141,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -335113,7 +335113,6 @@
     "type": "Relic",
     "imageName": "RelicNeoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -336172,6 +336171,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -337143,7 +337143,6 @@
     "type": "Relic",
     "imageName": "RelicNeoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -338202,6 +338201,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -339173,7 +339173,6 @@
     "type": "Relic",
     "imageName": "RelicNeoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -340232,6 +340231,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -349343,7 +349343,6 @@
     "type": "Relic",
     "imageName": "RelicNeoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -350354,6 +350353,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -351281,7 +351281,6 @@
     "type": "Relic",
     "imageName": "RelicNeoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -352292,6 +352291,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -353219,7 +353219,6 @@
     "type": "Relic",
     "imageName": "RelicNeoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -354230,6 +354229,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -355157,7 +355157,6 @@
     "type": "Relic",
     "imageName": "RelicNeoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -356168,6 +356167,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -357095,7 +357095,6 @@
     "type": "Relic",
     "imageName": "RelicNeoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -358046,6 +358045,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -358927,7 +358927,6 @@
     "type": "Relic",
     "imageName": "RelicNeoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -359878,6 +359877,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -360759,7 +360759,6 @@
     "type": "Relic",
     "imageName": "RelicNeoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -361710,6 +361709,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -362591,7 +362591,6 @@
     "type": "Relic",
     "imageName": "RelicNeoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -363542,6 +363541,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -364423,7 +364423,6 @@
     "type": "Relic",
     "imageName": "RelicNeoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -365356,6 +365355,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -366218,7 +366218,6 @@
     "type": "Relic",
     "imageName": "RelicNeoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -367151,6 +367150,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -368013,7 +368013,6 @@
     "type": "Relic",
     "imageName": "RelicNeoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -368946,6 +368945,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -369808,7 +369808,6 @@
     "type": "Relic",
     "imageName": "RelicNeoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -370741,6 +370740,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -413135,7 +413135,6 @@
     "type": "Relic",
     "imageName": "RelicNeoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -414092,6 +414091,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -414974,7 +414974,6 @@
     "type": "Relic",
     "imageName": "RelicNeoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -415931,6 +415930,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -416813,7 +416813,6 @@
     "type": "Relic",
     "imageName": "RelicNeoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -417770,6 +417769,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -418652,7 +418652,6 @@
     "type": "Relic",
     "imageName": "RelicNeoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -419609,6 +419608,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -424391,7 +424391,6 @@
     "type": "Relic",
     "imageName": "RelicNeoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -425354,6 +425353,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -426245,7 +426245,6 @@
     "type": "Relic",
     "imageName": "RelicNeoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -427208,6 +427207,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -428099,7 +428099,6 @@
     "type": "Relic",
     "imageName": "RelicNeoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -429062,6 +429061,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -429953,7 +429953,6 @@
     "type": "Relic",
     "imageName": "RelicNeoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -430916,6 +430915,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -434259,7 +434259,6 @@
     "type": "Relic",
     "imageName": "RelicNeoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Veil Proxima/Flexa (Caches), Rotation A",
@@ -434310,6 +434309,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 4.8,
@@ -434437,7 +434437,6 @@
     "type": "Relic",
     "imageName": "RelicNeoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Veil Proxima/Flexa (Caches), Rotation A",
@@ -434488,6 +434487,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 4.8,
@@ -434615,7 +434615,6 @@
     "type": "Relic",
     "imageName": "RelicNeoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Veil Proxima/Flexa (Caches), Rotation A",
@@ -434666,6 +434665,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 4.8,
@@ -434793,7 +434793,6 @@
     "type": "Relic",
     "imageName": "RelicNeoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Veil Proxima/Flexa (Caches), Rotation A",
@@ -434844,6 +434843,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 4.8,
@@ -436015,7 +436015,6 @@
     "type": "Relic",
     "imageName": "RelicNeoA.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -436972,6 +436971,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -437854,7 +437854,6 @@
     "type": "Relic",
     "imageName": "RelicNeoB.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -438811,6 +438810,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -439693,7 +439693,6 @@
     "type": "Relic",
     "imageName": "RelicNeoD.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -440650,6 +440649,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -441532,7 +441532,6 @@
     "type": "Relic",
     "imageName": "RelicNeoC.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
@@ -442489,6 +442488,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "locations": [
       {
         "chance": 0.42,
@@ -447271,7 +447271,6 @@
     "type": "Relic",
     "imageName": "RelicImmortalC.png",
     "category": "Relics",
-    "tradable": false,
     "drops": [
       {
         "location": "Kuva Flood",
@@ -447286,6 +447285,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "locations": [],
     "rewards": [
       {

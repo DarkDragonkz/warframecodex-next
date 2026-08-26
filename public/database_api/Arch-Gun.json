@@ -55,7 +55,6 @@
         "excludeFromCodex": true,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Nokko: Corporate Restructuring (Steel Path), Rotation C",
@@ -82,6 +81,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -90,8 +90,6 @@
         "description": "Nokko’s signature archgun fires six homing missiles, each bearing a payload of one of the six combined elements which detonate in an area upon impact.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Nokko: Corporate Restructuring Rewards, Rotation C",
@@ -129,7 +127,9 @@
             "chance": 8,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MushroomJournal/PlainMushroomJournalItem",
@@ -151,7 +151,6 @@
         "excludeFromCodex": true,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Nokko: Critter Liberation Rewards (Steel Path), Rotation C",
@@ -178,6 +177,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -188,7 +188,6 @@
         "excludeFromCodex": true,
         "itemCount": 1,
         "imageName": "GenericGunStock.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Nokko: Weed The Gardens Rewards (Steel Path), Rotation C",
@@ -215,6 +214,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -519,8 +519,6 @@
         "description": "An ancient weapon designed by the Entrati for use by their Necramechs. Primary fire siphons life essence from the target to fuel a devastating secondary fire. A heavy flamethrower with surprising range. Secondary fire launches three projectiles in a fan pattern that explode, leaving a damaging area of effect for a short duration.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "NecraLoid (Loid), Clearance Odima",
@@ -528,7 +526,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunBarrelItem",
@@ -537,8 +537,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "RepairedEntratiMechGunBarrel.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -548,8 +548,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "RepairedEntratiMechGunReceiver.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -559,8 +559,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "RepairedEntratiMechGunStock.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -765,8 +765,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ArgonCrystal.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -777,7 +777,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Arbiters of Hexis, Authentic",
@@ -786,6 +785,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -805,7 +805,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Cephalon Suda, Intriguing",
@@ -814,6 +813,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -823,7 +823,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunStock.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Steel Meridian, Valiant",
@@ -832,6 +831,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -1063,7 +1063,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Meso C9 Relic (Radiant)",
@@ -1178,6 +1177,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGarudaKhoraVaultABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       },
@@ -1188,9 +1188,6 @@
         "itemCount": 1,
         "primeSellingPrice": 45,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 45,
         "drops": [
           {
             "location": "Axi K7 Relic",
@@ -1360,7 +1357,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionHildrynPrimeBBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 45
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -1369,8 +1369,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -1382,7 +1382,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi G10 Relic (Radiant)",
@@ -1609,6 +1608,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionWispPrimeCBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -1620,7 +1620,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericGunPrimeStock.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi G8 Relic (Radiant)",
@@ -1791,6 +1790,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGarudaKhoraVaultBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       }
@@ -1821,7 +1821,7 @@
     },
     "imageName": "CorvasPrime.png",
     "category": "Arch-Gun",
-    "tradable": true,
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Veilbreaker: Update 32",
@@ -1975,7 +1975,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Arbiters of Hexis, Lawful",
@@ -1984,6 +1983,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2003,7 +2003,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Cephalon Suda, Intelligent",
@@ -2012,6 +2011,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2021,7 +2021,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunStock.png",
-        "tradable": false,
         "drops": [
           {
             "location": "The Perrin Sequence, Executive",
@@ -2030,6 +2029,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2039,8 +2039,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "Tellurium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -2209,8 +2209,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ControlModule.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2221,8 +2221,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2232,8 +2232,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -2422,8 +2422,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ArgonCrystal.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2434,7 +2434,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Cephalon Suda, Intelligent",
@@ -2443,6 +2442,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2462,7 +2462,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunStock.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Red Veil, Esteemed",
@@ -2471,6 +2470,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2480,7 +2480,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Steel Meridian, Defender",
@@ -2489,6 +2488,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -2786,8 +2786,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2797,8 +2797,8 @@
         "codexSecret": false,
         "itemCount": 3500,
         "imageName": "ComponentOxium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2809,8 +2809,8 @@
         "codexSecret": false,
         "itemCount": 6000,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2821,8 +2821,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "Tellurium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -3102,8 +3102,6 @@
         "description": "A long range rifle capable of firing in space, the Imperator's versatility makes it an ideal weapon for space combat.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Cephalon Simaris, Complete The Archwing (Quest)",
@@ -3111,7 +3109,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
@@ -3120,8 +3120,8 @@
         "codexSecret": false,
         "itemCount": 300,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -3132,8 +3132,8 @@
         "codexSecret": false,
         "itemCount": 1500,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -3143,8 +3143,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentMorphic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -3155,8 +3155,8 @@
         "codexSecret": false,
         "itemCount": 150,
         "imageName": "PolymerBundle.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -3501,7 +3501,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Fomorian Sabotage",
@@ -3510,6 +3509,7 @@
             "rarity": "Uncommon"
           }
         ],
+        "tradable": true,
         "masterable": false
       },
       {
@@ -3518,8 +3518,6 @@
         "description": "The Imperator Vandal has been customized by the Tenno with a blue-green metallic finish and Lotus branding on the barrel.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
         "drops": [
           {
             "location": "Fomorian Sabotage",
@@ -3527,7 +3525,9 @@
             "chance": 10,
             "rarity": "Uncommon"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ImperatorVandalReceiver",
@@ -3536,7 +3536,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Fomorian Sabotage",
@@ -3545,6 +3544,7 @@
             "rarity": "Uncommon"
           }
         ],
+        "tradable": true,
         "masterable": false
       },
       {
@@ -3554,8 +3554,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "Tellurium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -4222,8 +4222,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "SolarisEidolonGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4233,8 +4233,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "FishPartEcosynthAnalyzer.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -4244,8 +4244,8 @@
         "codexSecret": false,
         "itemCount": 80,
         "imageName": "SolarisUncommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -4511,7 +4511,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi L6 Relic (Radiant)",
@@ -4654,6 +4653,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       },
@@ -4664,9 +4664,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Axi S16 Relic (Radiant)",
@@ -4892,7 +4889,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionWispHildrynVaultABronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -4901,8 +4901,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -4914,7 +4914,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A19 Relic",
@@ -5113,6 +5112,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussPrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -5124,7 +5124,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericGunPrimeStock.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi D5 Relic",
@@ -5323,6 +5322,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeFBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       }
@@ -5353,7 +5353,7 @@
     },
     "imageName": "LarkspurPrime.png",
     "category": "Arch-Gun",
-    "tradable": true,
+    "tradable": false,
     "wikiAvailable": true,
     "attacks": [
       {
@@ -5484,7 +5484,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Deimos/Munio (Defense), Rotation C",
@@ -5505,6 +5504,7 @@
             "rarity": "Uncommon"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -5513,8 +5513,6 @@
         "description": "Mandonel fires <DT_RADIATION_COLOR>Radiation Damage projectiles. Partially charged shots release a spread and fully charged shots release a beam that dissolves into a radiation field. Projectiles that pass through the field are empowered.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Deimos/Albrecht's Laboratories (Level  65 - 70 Entrati Lab Bounty), Rotation C",
@@ -5546,7 +5544,9 @@
             "chance": 4.39,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagRare",
@@ -5555,8 +5555,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "EntratiLabDogTagRare.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -5566,7 +5566,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Deimos/Cambire (Alchemy), Rotation C",
@@ -5587,6 +5586,7 @@
             "rarity": "Uncommon"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -5596,7 +5596,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunStock.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Deimos/Munio (Defense), Rotation C",
@@ -5617,6 +5616,7 @@
             "rarity": "Uncommon"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -6000,8 +6000,6 @@
         "description": "Blast through enemies with a double-barreled shot of energized slugs. This siphons their life essence which is then used to generate the secondary fire's massive air-burst mortar. The ancient Entrati weapon was built for Necramechs but also functions as an Archgun.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "NecraLoid (Loid), Clearance Odima",
@@ -6009,7 +6007,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherBarrelItem",
@@ -6019,8 +6019,8 @@
         "excludeFromCodex": true,
         "itemCount": 1,
         "imageName": "RepairedEntratiMechGunBarrel.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -6031,8 +6031,8 @@
         "excludeFromCodex": true,
         "itemCount": 1,
         "imageName": "RepairedEntratiMechGunReceiver.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -6043,8 +6043,8 @@
         "excludeFromCodex": true,
         "itemCount": 1,
         "imageName": "RepairedEntratiMechGunStock.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -6264,7 +6264,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Arbiters of Hexis, Authentic",
@@ -6273,6 +6272,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -6292,7 +6292,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "The Perrin Sequence, Senior Associate",
@@ -6319,6 +6318,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -6328,7 +6328,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunStock.png",
-        "tradable": false,
         "drops": [
           {
             "location": "New Loka, Bountiful",
@@ -6337,6 +6336,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -6346,8 +6346,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "Tellurium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -6667,7 +6667,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Cephalon Suda, Intriguing",
@@ -6676,6 +6675,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -6695,8 +6695,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ControlModule.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -6707,7 +6707,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Steel Meridian, Valiant",
@@ -6716,6 +6715,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -6725,7 +6725,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunStock.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Red Veil, Honored",
@@ -6734,6 +6733,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],

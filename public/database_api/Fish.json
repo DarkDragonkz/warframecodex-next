@@ -7,7 +7,6 @@
     "type": "Fish",
     "imageName": "InfestedCommonD.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Stranger",
@@ -16,6 +15,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -36,7 +36,6 @@
     "type": "Fish",
     "imageName": "InfestedCommonD.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Stranger",
@@ -45,6 +44,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -65,7 +65,6 @@
     "type": "Fish",
     "imageName": "InfestedCommonD.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Stranger",
@@ -74,6 +73,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -94,7 +94,6 @@
     "type": "Fish",
     "imageName": "HybridRareA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Friend",
@@ -103,6 +102,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -123,7 +123,6 @@
     "type": "Fish",
     "imageName": "HybridRareA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Friend",
@@ -132,6 +131,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -152,7 +152,6 @@
     "type": "Fish",
     "imageName": "HybridRareA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Friend",
@@ -161,6 +160,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -181,7 +181,6 @@
     "type": "Fish",
     "imageName": "InfestedCommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Stranger",
@@ -190,6 +189,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -210,7 +210,6 @@
     "type": "Fish",
     "imageName": "InfestedCommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Stranger",
@@ -219,6 +218,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -239,7 +239,6 @@
     "type": "Fish",
     "imageName": "InfestedCommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Stranger",
@@ -248,6 +247,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -268,7 +268,6 @@
     "type": "Fish",
     "imageName": "GrineerBoot.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Hallowed Flame Endurance Caches, Rotation A",
@@ -469,6 +468,7 @@
         "rarity": "Uncommon"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Veilbreaker: Update 32",
@@ -513,7 +513,6 @@
     "type": "Fish",
     "imageName": "CorpusClearUncommonFishA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Outworlder",
@@ -522,6 +521,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Hotfix 24.0.6",
@@ -558,7 +558,6 @@
     "type": "Fish",
     "imageName": "CorpusClearUncommonFishALarge.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Outworlder",
@@ -567,6 +566,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Hotfix 24.0.6",
@@ -603,7 +603,6 @@
     "type": "Fish",
     "imageName": "CorpusClearUncommonFishAMedium.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Outworlder",
@@ -612,6 +611,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Hotfix 24.0.6",
@@ -648,7 +648,6 @@
     "type": "Fish",
     "imageName": "OrokinBothRareFishA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Cove",
@@ -669,6 +668,7 @@
         "rarity": "Uncommon"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -697,7 +697,6 @@
     "type": "Fish",
     "imageName": "OrokinBothRareFishALarge.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Cove",
@@ -718,6 +717,7 @@
         "rarity": "Uncommon"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -746,7 +746,6 @@
     "type": "Fish",
     "imageName": "OrokinBothRareFishAMedium.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Cove",
@@ -767,6 +766,7 @@
         "rarity": "Uncommon"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -795,7 +795,6 @@
     "type": "Fish",
     "imageName": "FishItemBothCommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Offworlder",
@@ -804,6 +803,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.3",
@@ -824,7 +824,6 @@
     "type": "Fish",
     "imageName": "FishItemBothCommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Offworlder",
@@ -833,6 +832,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.3",
@@ -853,7 +853,6 @@
     "type": "Fish",
     "imageName": "FishItemBothCommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Offworlder",
@@ -862,6 +861,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.3",
@@ -882,7 +882,6 @@
     "type": "Fish",
     "imageName": "OrokinUncommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Associate",
@@ -891,6 +890,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -911,7 +911,6 @@
     "type": "Fish",
     "imageName": "OrokinUncommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Associate",
@@ -920,6 +919,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -940,7 +940,6 @@
     "type": "Fish",
     "imageName": "OrokinUncommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Associate",
@@ -949,6 +948,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -993,7 +993,6 @@
     "type": "Fish",
     "imageName": "InfestedCommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Stranger",
@@ -1002,6 +1001,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Hotfix: 29.2.4: NIGHTS OF NABERUS!",
@@ -1030,7 +1030,6 @@
     "type": "Fish",
     "imageName": "InfestedCommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Stranger",
@@ -1039,6 +1038,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Hotfix: 29.2.4: NIGHTS OF NABERUS!",
@@ -1067,7 +1067,6 @@
     "type": "Fish",
     "imageName": "InfestedCommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Stranger",
@@ -1076,6 +1075,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Hotfix: 29.2.4: NIGHTS OF NABERUS!",
@@ -1104,7 +1104,6 @@
     "type": "Fish",
     "imageName": "FishItemNightRareB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Operational Supply, Neutral",
@@ -1161,6 +1160,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -1205,7 +1205,6 @@
     "type": "Fish",
     "imageName": "FishItemNightRareB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Operational Supply, Neutral",
@@ -1262,6 +1261,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -1306,7 +1306,6 @@
     "type": "Fish",
     "imageName": "FishItemNightRareB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Operational Supply, Neutral",
@@ -1363,6 +1362,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -1407,7 +1407,6 @@
     "type": "Fish",
     "imageName": "OrokinRareA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Associate",
@@ -1416,6 +1415,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -1436,7 +1436,6 @@
     "type": "Fish",
     "imageName": "OrokinRareA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Associate",
@@ -1445,6 +1444,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -1465,7 +1465,6 @@
     "type": "Fish",
     "imageName": "OrokinRareA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Associate",
@@ -1474,6 +1473,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -1494,7 +1494,6 @@
     "type": "Fish",
     "imageName": "CorpusWarmCommonFishA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Outworlder",
@@ -1503,6 +1502,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Update 24.0",
@@ -1523,7 +1523,6 @@
     "type": "Fish",
     "imageName": "CorpusWarmCommonFishALarge.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Outworlder",
@@ -1532,6 +1531,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Update 24.0",
@@ -1552,7 +1552,6 @@
     "type": "Fish",
     "imageName": "CorpusWarmCommonFishAMedium.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Outworlder",
@@ -1561,6 +1560,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Update 24.0",
@@ -1581,7 +1581,6 @@
     "type": "Fish",
     "imageName": "CorpusClearCommonFishA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Rapscallion",
@@ -1590,6 +1589,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Hotfix 24.0.6",
@@ -1626,7 +1626,6 @@
     "type": "Fish",
     "imageName": "CorpusCoolUncommonFishALarge.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Rapscallion",
@@ -1635,6 +1634,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Hotfix 24.0.6",
@@ -1671,7 +1671,6 @@
     "type": "Fish",
     "imageName": "CorpusClearCommonFishAMedium.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Rapscallion",
@@ -1680,6 +1679,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Hotfix 24.0.6",
@@ -1716,7 +1716,6 @@
     "type": "Fish",
     "imageName": "InfestedRareA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Friend",
@@ -1725,6 +1724,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Veilbreaker: Update 32",
@@ -1777,7 +1777,6 @@
     "type": "Fish",
     "imageName": "InfestedRareA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Friend",
@@ -1786,6 +1785,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Veilbreaker: Update 32",
@@ -1838,7 +1838,6 @@
     "type": "Fish",
     "imageName": "InfestedRareA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Friend",
@@ -1847,6 +1846,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Veilbreaker: Update 32",
@@ -1899,7 +1899,6 @@
     "type": "Fish",
     "imageName": "FishItemNightLegendaryFishA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Kin",
@@ -1914,6 +1913,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon Remaster: Hotfix 24.6.1",
@@ -1942,7 +1942,6 @@
     "type": "Fish",
     "imageName": "FishItemNightLegendaryFishA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Kin",
@@ -1957,6 +1956,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon Remaster: Hotfix 24.6.1",
@@ -1985,7 +1985,6 @@
     "type": "Fish",
     "imageName": "FishItemNightLegendaryFishA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Kin",
@@ -2000,6 +1999,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon Remaster: Hotfix 24.6.1",
@@ -2028,7 +2028,6 @@
     "type": "Fish",
     "imageName": "InfestedUncommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Acquaintance",
@@ -2037,6 +2036,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -2057,7 +2057,6 @@
     "type": "Fish",
     "imageName": "InfestedUncommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Acquaintance",
@@ -2066,6 +2065,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -2086,7 +2086,6 @@
     "type": "Fish",
     "imageName": "InfestedUncommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Acquaintance",
@@ -2095,6 +2094,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -2115,7 +2115,6 @@
     "type": "Fish",
     "imageName": "FishItemBothCommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Kin",
@@ -2166,6 +2165,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -2194,7 +2194,6 @@
     "type": "Fish",
     "imageName": "FishItemBothCommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Kin",
@@ -2245,6 +2244,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -2273,7 +2273,6 @@
     "type": "Fish",
     "imageName": "FishItemBothCommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Kin",
@@ -2324,6 +2323,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -2376,7 +2376,6 @@
     "type": "Fish",
     "imageName": "FishItemBothUncommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Trusted",
@@ -2421,6 +2420,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -2449,7 +2449,6 @@
     "type": "Fish",
     "imageName": "FishItemBothUncommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Trusted",
@@ -2494,6 +2493,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -2522,7 +2522,6 @@
     "type": "Fish",
     "imageName": "FishItemBothUncommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Trusted",
@@ -2567,6 +2566,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -2595,7 +2595,6 @@
     "type": "Fish",
     "imageName": "FishItemDayCommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Offworlder",
@@ -2640,6 +2639,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -2660,7 +2660,6 @@
     "type": "Fish",
     "imageName": "FishItemDayCommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Offworlder",
@@ -2705,6 +2704,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -2725,7 +2725,6 @@
     "type": "Fish",
     "imageName": "FishItemDayCommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Offworlder",
@@ -2770,6 +2769,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -2790,7 +2790,6 @@
     "type": "Fish",
     "imageName": "CorpusStormUncommonFishA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Outworlder",
@@ -2805,6 +2804,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Update 24.0",
@@ -2825,7 +2825,6 @@
     "type": "Fish",
     "imageName": "CorpusStormUncommonFishALarge.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Outworlder",
@@ -2840,6 +2839,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Update 24.0",
@@ -2860,7 +2860,6 @@
     "type": "Fish",
     "imageName": "CorpusStormUncommonFishAMedium.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Outworlder",
@@ -2875,6 +2874,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Update 24.0",
@@ -2895,7 +2895,6 @@
     "type": "Fish",
     "imageName": "InfestedCommonC.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Stranger",
@@ -2904,6 +2903,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Hotfix 29.0.4",
@@ -2932,7 +2932,6 @@
     "type": "Fish",
     "imageName": "InfestedCommonC.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Stranger",
@@ -2941,6 +2940,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Hotfix 29.0.4",
@@ -2969,7 +2969,6 @@
     "type": "Fish",
     "imageName": "InfestedCommonC.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Stranger",
@@ -2978,6 +2977,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Hotfix 29.0.4",
@@ -3006,7 +3006,6 @@
     "type": "Fish",
     "imageName": "InfestedCommonE.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Stranger",
@@ -3015,6 +3014,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Veilbreaker: Update 32",
@@ -3059,7 +3059,6 @@
     "type": "Fish",
     "imageName": "InfestedCommonE.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Stranger",
@@ -3068,6 +3067,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Veilbreaker: Update 32",
@@ -3112,7 +3112,6 @@
     "type": "Fish",
     "imageName": "InfestedCommonE.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Stranger",
@@ -3121,6 +3120,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Veilbreaker: Update 32",
@@ -3165,7 +3165,6 @@
     "type": "Fish",
     "imageName": "SolarisWarmRareFishA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Doer",
@@ -3186,6 +3185,7 @@
         "rarity": "Uncommon"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -3222,7 +3222,6 @@
     "type": "Fish",
     "imageName": "SolarisWarmRareFishALarge.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Doer",
@@ -3243,6 +3242,7 @@
         "rarity": "Uncommon"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -3279,7 +3279,6 @@
     "type": "Fish",
     "imageName": "SolarisWarmRareFishAMedium.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Doer",
@@ -3300,6 +3299,7 @@
         "rarity": "Uncommon"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -3336,7 +3336,6 @@
     "type": "Fish",
     "imageName": "FishItemDayCommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Offworlder",
@@ -3381,6 +3380,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -3409,7 +3409,6 @@
     "type": "Fish",
     "imageName": "FishItemDayCommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Offworlder",
@@ -3454,6 +3453,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -3482,7 +3482,6 @@
     "type": "Fish",
     "imageName": "FishItemDayCommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Offworlder",
@@ -3527,6 +3526,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -3555,7 +3555,6 @@
     "type": "Fish",
     "imageName": "CorpusBothUncommonFishA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Doer",
@@ -3570,6 +3569,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Hotfix 24.0.7",
@@ -3598,7 +3598,6 @@
     "type": "Fish",
     "imageName": "CorpusBothUncommonFishALarge.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Doer",
@@ -3613,6 +3612,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Hotfix 24.0.7",
@@ -3641,7 +3641,6 @@
     "type": "Fish",
     "imageName": "CorpusBothUncommonFishAMedium.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Doer",
@@ -3656,6 +3655,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Hotfix 24.0.7",
@@ -3684,7 +3684,6 @@
     "type": "Fish",
     "imageName": "FishItemDayUncommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Visitor",
@@ -3693,6 +3692,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -3713,7 +3713,6 @@
     "type": "Fish",
     "imageName": "FishItemDayUncommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Visitor",
@@ -3722,6 +3721,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -3742,7 +3742,6 @@
     "type": "Fish",
     "imageName": "FishItemDayUncommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Visitor",
@@ -3751,6 +3750,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -3771,7 +3771,6 @@
     "type": "Fish",
     "imageName": "FishItemBothRareA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Operational Supply, Neutral",
@@ -3828,6 +3827,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -3864,7 +3864,6 @@
     "type": "Fish",
     "imageName": "FishItemBothRareA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Operational Supply, Neutral",
@@ -3921,6 +3920,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -3957,7 +3957,6 @@
     "type": "Fish",
     "imageName": "FishItemBothRareA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Operational Supply, Neutral",
@@ -4014,6 +4013,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -4050,7 +4050,6 @@
     "type": "Fish",
     "imageName": "OrokinLegendaryA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Family",
@@ -4059,6 +4058,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -4079,7 +4079,6 @@
     "type": "Fish",
     "imageName": "OrokinLegendaryA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Family",
@@ -4088,6 +4087,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -4108,7 +4108,6 @@
     "type": "Fish",
     "imageName": "OrokinLegendaryA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Family",
@@ -4117,6 +4116,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -4149,7 +4149,6 @@
     "type": "Fish",
     "imageName": "FishItemNightRareA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Hallowed Flame Endurance Caches, Rotation A",
@@ -4218,6 +4217,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -4294,7 +4294,6 @@
     "type": "Fish",
     "imageName": "FishItemNightRareA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Hallowed Flame Endurance Caches, Rotation A",
@@ -4363,6 +4362,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -4439,7 +4439,6 @@
     "type": "Fish",
     "imageName": "FishItemNightRareA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Hallowed Flame Endurance Caches, Rotation A",
@@ -4508,6 +4507,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -4584,7 +4584,6 @@
     "type": "Fish",
     "imageName": "HybridUncommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Acquaintance",
@@ -4593,6 +4592,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -4613,7 +4613,6 @@
     "type": "Fish",
     "imageName": "HybridUncommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Acquaintance",
@@ -4622,6 +4621,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -4642,7 +4642,6 @@
     "type": "Fish",
     "imageName": "HybridUncommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Acquaintance",
@@ -4651,6 +4650,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -4671,7 +4671,6 @@
     "type": "Fish",
     "imageName": "SolarisClearRareFishA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Rapscallion",
@@ -4680,6 +4679,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Hotfix 24.0.5",
@@ -4708,7 +4708,6 @@
     "type": "Fish",
     "imageName": "SolarisClearRareFishALarge.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Rapscallion",
@@ -4717,6 +4716,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Hotfix 24.0.5",
@@ -4745,7 +4745,6 @@
     "type": "Fish",
     "imageName": "SolarisClearRareFishAMedium.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Rapscallion",
@@ -4754,6 +4753,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Hotfix 24.0.5",
@@ -4782,7 +4782,6 @@
     "type": "Fish",
     "imageName": "CorpusCoolCommonFishA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Old Mate",
@@ -4797,6 +4796,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 28: The Deadlock Protocol",
@@ -4833,7 +4833,6 @@
     "type": "Fish",
     "imageName": "CorpusCoolCommonFishALarge.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Old Mate",
@@ -4848,6 +4847,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 28: The Deadlock Protocol",
@@ -4884,7 +4884,6 @@
     "type": "Fish",
     "imageName": "CorpusCoolCommonFishAMedium.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Old Mate",
@@ -4899,6 +4898,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 28: The Deadlock Protocol",
@@ -4935,7 +4935,6 @@
     "type": "Fish",
     "imageName": "SolarisBothCommonFishA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Outworlder",
@@ -4944,6 +4943,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Update 24.0",
@@ -4964,7 +4964,6 @@
     "type": "Fish",
     "imageName": "CorpusStormCommonFishALarge.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Outworlder",
@@ -4973,6 +4972,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Update 24.0",
@@ -4993,7 +4993,6 @@
     "type": "Fish",
     "imageName": "CorpusStormCommonFishAMedium.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Outworlder",
@@ -5002,6 +5001,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Update 24.0",
@@ -5034,7 +5034,6 @@
     "type": "Fish",
     "imageName": "FishItemBothUncommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Trusted",
@@ -5079,6 +5078,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -5115,7 +5115,6 @@
     "type": "Fish",
     "imageName": "FishItemBothUncommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Trusted",
@@ -5160,6 +5159,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -5196,7 +5196,6 @@
     "type": "Fish",
     "imageName": "FishItemBothUncommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Trusted",
@@ -5241,6 +5240,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -5289,7 +5289,6 @@
     "type": "Fish",
     "imageName": "OrokinClearLegendaryFishA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Cove",
@@ -5310,6 +5309,7 @@
         "rarity": "Uncommon"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Update 24.0",
@@ -5330,7 +5330,6 @@
     "type": "Fish",
     "imageName": "OrokinClearLegendaryFishALarge.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Cove",
@@ -5351,6 +5350,7 @@
         "rarity": "Uncommon"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Update 24.0",
@@ -5371,7 +5371,6 @@
     "type": "Fish",
     "imageName": "OrokinClearLegendaryFishAMedium.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Cove",
@@ -5392,6 +5391,7 @@
         "rarity": "Uncommon"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Fortuna: Update 24.0",
@@ -5412,7 +5412,6 @@
     "type": "Fish",
     "imageName": "SolarisCoolCommonFishA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Outworlder",
@@ -5421,6 +5420,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Deimos: Arcana: Hotfix 29.5.1",
@@ -5465,7 +5465,6 @@
     "type": "Fish",
     "imageName": "SolarisStormUncommonFishALarge.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Outworlder",
@@ -5474,6 +5473,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Deimos: Arcana: Hotfix 29.5.1",
@@ -5518,7 +5518,6 @@
     "type": "Fish",
     "imageName": "SolarisStormUncommonFishAMedium.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Outworlder",
@@ -5527,6 +5526,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Deimos: Arcana: Hotfix 29.5.1",
@@ -5571,7 +5571,6 @@
     "type": "Fish",
     "imageName": "FishItemDayUncommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Visitor",
@@ -5616,6 +5615,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -5644,7 +5644,6 @@
     "type": "Fish",
     "imageName": "FishItemDayUncommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Visitor",
@@ -5689,6 +5688,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -5717,7 +5717,6 @@
     "type": "Fish",
     "imageName": "FishItemDayUncommonA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Visitor",
@@ -5762,6 +5761,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -5790,7 +5790,6 @@
     "type": "Fish",
     "imageName": "OrokinCoolRareFishA.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Cove",
@@ -5811,6 +5810,7 @@
         "rarity": "Uncommon"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -5839,7 +5839,6 @@
     "type": "Fish",
     "imageName": "OrokinCoolRareFishALarge.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Cove",
@@ -5860,6 +5859,7 @@
         "rarity": "Uncommon"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -5888,7 +5888,6 @@
     "type": "Fish",
     "imageName": "OrokinCoolRareFishAMedium.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Solaris United (The Business), Cove",
@@ -5909,6 +5908,7 @@
         "rarity": "Uncommon"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 30.9.0: Prime Resurgence",
@@ -5937,7 +5937,6 @@
     "type": "Fish",
     "imageName": "HybridUncommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Acquaintance",
@@ -5946,6 +5945,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -5966,7 +5966,6 @@
     "type": "Fish",
     "imageName": "HybridUncommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Acquaintance",
@@ -5975,6 +5974,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -5995,7 +5995,6 @@
     "type": "Fish",
     "imageName": "HybridUncommonB.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Entrati (Daughter), Acquaintance",
@@ -6004,6 +6003,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Heart of Deimos: Update 29",
@@ -6036,7 +6036,6 @@
     "type": "Fish",
     "imageName": "FishItemDayCommonC.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Offworlder",
@@ -6081,6 +6080,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -6109,7 +6109,6 @@
     "type": "Fish",
     "imageName": "FishItemDayCommonC.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Offworlder",
@@ -6154,6 +6153,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -6182,7 +6182,6 @@
     "type": "Fish",
     "imageName": "FishItemDayCommonC.png",
     "category": "Fish",
-    "tradable": true,
     "drops": [
       {
         "location": "Ostron (Fisher Hai-Luk), Offworlder",
@@ -6227,6 +6226,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",

@@ -29,7 +29,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel13.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Hurricane",
@@ -38,6 +37,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -69,7 +69,6 @@
     "type": "Sigil",
     "imageName": "AladV.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Alad V",
@@ -84,6 +83,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -106,7 +106,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel8.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Tempest",
@@ -115,6 +114,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -146,7 +146,6 @@
     "type": "Sigil",
     "imageName": "Ambulas.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Ambulas",
@@ -155,6 +154,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -165,7 +165,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilJudge.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Arbiters of Hexis, Principled",
@@ -174,6 +173,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -196,7 +196,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel2.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Steel Meridian, Brave",
@@ -205,6 +204,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -215,7 +215,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel7.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Steel Meridian, Defender",
@@ -224,6 +223,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -256,7 +256,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel10.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Red Veil, Exalted",
@@ -265,6 +264,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -275,7 +275,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel4.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Cephalon Suda, Intriguing",
@@ -284,6 +283,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -316,7 +316,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel1.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Mistral",
@@ -325,6 +324,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -335,7 +335,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel3.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Mistral",
@@ -344,6 +343,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -377,7 +377,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel2.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Arbiters of Hexis, Principled",
@@ -386,6 +385,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -430,7 +430,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel1.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Red Veil, Respected",
@@ -439,6 +438,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -449,7 +449,6 @@
     "type": "Sigil",
     "imageName": "BloodiedSigil.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Profit-Taker",
@@ -458,6 +457,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Zephyr & Chroma Prime Vault: Hotfix 31.5.10 + 31.5.10.1",
@@ -550,7 +550,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel6.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "New Loka, Benevolent",
@@ -559,6 +558,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -569,7 +569,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel9.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "New Loka, Pure",
@@ -578,6 +577,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -610,7 +610,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel3.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Perrin Sequence, Associate",
@@ -619,6 +618,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -641,7 +641,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel9.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Perrin Sequence, Senior Executive",
@@ -650,6 +649,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -720,7 +720,6 @@
     "type": "Sigil",
     "imageName": "IconLibrarian256.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Cephalon Simaris, Cephalon Simaris Sigil\n",
@@ -729,6 +728,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -739,7 +739,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilOracle.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Cephalon Suda, Competent",
@@ -748,6 +747,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -758,7 +758,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel10.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Perrin Sequence, Partner",
@@ -767,6 +766,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -777,7 +777,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel10.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Steel Meridian, General",
@@ -786,6 +785,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -807,7 +807,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel5.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Arbiters of Hexis, Authentic",
@@ -816,6 +815,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -866,7 +866,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel5.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "New Loka, Bountiful",
@@ -875,6 +874,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1032,7 +1032,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel9.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Red Veil, Revered",
@@ -1041,6 +1040,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1051,7 +1051,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel2.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Red Veil, Respected",
@@ -1060,6 +1059,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1170,7 +1170,6 @@
     "type": "Sigil",
     "imageName": "DOTD2016.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Hallowed Flame Endurance Caches, Rotation C",
@@ -1185,6 +1184,7 @@
         "rarity": "Rare"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1206,7 +1206,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel1.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Steel Meridian, Brave",
@@ -1215,6 +1214,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1225,7 +1225,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel5.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Whirlwind",
@@ -1234,6 +1233,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
@@ -1254,7 +1254,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel5.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Perrin Sequence, Senior Associate",
@@ -1263,6 +1262,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1284,7 +1284,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel3.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Arbiters of Hexis, Principled",
@@ -1293,6 +1292,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1303,7 +1303,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel12.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Hurricane",
@@ -1312,6 +1311,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1322,7 +1322,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel7.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Whirlwind",
@@ -1331,6 +1330,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1440,7 +1440,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel15.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Typhoon",
@@ -1449,6 +1448,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1470,7 +1470,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel11.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Hurricane",
@@ -1479,6 +1478,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1489,7 +1489,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilEntratiLevel2.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Entrati (Son), Acquaintance",
@@ -1498,6 +1497,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1508,7 +1508,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilEntratiLevel3.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Entrati (Son), Associate",
@@ -1517,6 +1516,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1527,7 +1527,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilEntratiLevel5.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Entrati (Son), Family",
@@ -1536,6 +1535,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1546,7 +1546,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilEntratiLevel4.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Entrati (Son), Friend",
@@ -1555,6 +1554,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1565,7 +1565,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilEntratiLevel1.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Entrati (Son), Stranger",
@@ -1574,6 +1573,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1684,7 +1684,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel6.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Cephalon Suda, Intelligent",
@@ -1693,6 +1692,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1703,7 +1703,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel6.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Steel Meridian, Defender",
@@ -1712,6 +1711,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1722,7 +1722,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel10.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Tempest",
@@ -1731,6 +1730,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1752,7 +1752,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel8.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "New Loka, Pure",
@@ -1761,6 +1760,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1771,7 +1771,6 @@
     "type": "Sigil",
     "imageName": "TeralystVariantSigil01.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Eidolon Gantulyst",
@@ -1780,6 +1779,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1876,7 +1876,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel6.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Arbiters of Hexis, Lawful",
@@ -1885,6 +1884,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
@@ -1916,7 +1916,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel4.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "New Loka, Bountiful",
@@ -1925,6 +1924,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
@@ -1945,7 +1945,6 @@
     "type": "Sigil",
     "imageName": "MarkedForDeathGrustrag.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Vem Tabook",
@@ -1954,6 +1953,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1975,7 +1975,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel1.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Arbiters of Hexis, Principled",
@@ -1984,6 +1983,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -1995,7 +1995,6 @@
     "type": "Sigil",
     "imageName": "HemocyteSigil.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Operational Supply, Neutral",
@@ -2004,6 +2003,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2014,7 +2014,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel9.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Cephalon Suda, Wise",
@@ -2023,6 +2022,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2033,7 +2033,6 @@
     "type": "Sigil",
     "imageName": "FactionHoldFastLevel5.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Holdfasts (Cavalero), Angel",
@@ -2042,6 +2041,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2052,7 +2052,6 @@
     "type": "Sigil",
     "imageName": "FactionHoldFastLevel1.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Holdfasts (Cavalero), Fallen",
@@ -2061,6 +2060,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2071,7 +2071,6 @@
     "type": "Sigil",
     "imageName": "FactionHoldFastLevel3.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Holdfasts (Cavalero), Guardian",
@@ -2080,6 +2079,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2090,7 +2090,6 @@
     "type": "Sigil",
     "imageName": "FactionHoldFastLevel4.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Holdfasts (Cavalero), Seraph",
@@ -2099,6 +2098,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2109,7 +2109,6 @@
     "type": "Sigil",
     "imageName": "FactionHoldFastLevel2.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Holdfasts (Cavalero), Watcher",
@@ -2118,6 +2117,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2161,7 +2161,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel10.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "New Loka, Flawless",
@@ -2170,6 +2169,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2191,7 +2191,6 @@
     "type": "Sigil",
     "imageName": "TeralystVariantSigil03.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Eidolon Hydrolyst",
@@ -2200,6 +2199,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2210,7 +2210,6 @@
     "type": "Sigil",
     "imageName": "HyenaPack.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Hyena Ln2",
@@ -2237,6 +2236,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Hotfix 21.0.9",
@@ -2279,7 +2279,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel14.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Typhoon",
@@ -2288,6 +2287,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2298,7 +2298,6 @@
     "type": "Sigil",
     "imageName": "Jackal.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Corrupted Jackal",
@@ -2313,6 +2312,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2346,7 +2346,6 @@
     "type": "Sigil",
     "imageName": "KelaDeThaym.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Kela De Thaym",
@@ -2355,6 +2354,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2408,7 +2408,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel8.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Cephalon Suda, Wise",
@@ -2417,6 +2416,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2427,7 +2427,6 @@
     "type": "Sigil",
     "imageName": "InfestedAncientSigil.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Deimos Leaping Thrasher",
@@ -2454,6 +2453,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2464,7 +2464,6 @@
     "type": "Sigil",
     "imageName": "LechKril.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Lt Lech Kril",
@@ -2473,6 +2472,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2515,7 +2515,6 @@
     "type": "Sigil",
     "imageName": "Lephantis.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Ancient Infested",
@@ -2542,6 +2541,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2552,7 +2552,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel5.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Red Veil, Honored",
@@ -2561,6 +2560,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2681,7 +2681,6 @@
     "type": "Sigil",
     "imageName": "Lynx.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Lynx",
@@ -2690,6 +2689,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2700,7 +2700,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel4.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Red Veil, Honored",
@@ -2709,6 +2708,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2719,7 +2719,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel8.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Red Veil, Revered",
@@ -2728,6 +2727,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2738,7 +2738,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel5.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Cephalon Suda, Intriguing",
@@ -2747,6 +2746,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2908,7 +2908,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel7.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Cephalon Suda, Intelligent",
@@ -2917,6 +2916,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2950,7 +2950,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilNecraloidLevel1.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "NecraLoid (Loid), Clearance Agnesis",
@@ -2959,6 +2958,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2969,7 +2969,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilNecraloidLevel2.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "NecraLoid (Loid), Clearance Modus",
@@ -2978,6 +2977,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -2988,7 +2988,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilNecraloidLevel3.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "NecraLoid (Loid), Clearance Odima",
@@ -2997,6 +2996,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3047,7 +3047,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilChurch.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "New Loka, Humane",
@@ -3056,6 +3055,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 15.1.0+15.1.01",
@@ -3157,7 +3157,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel2.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Perrin Sequence, Associate",
@@ -3166,6 +3165,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3176,7 +3176,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel8.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Perrin Sequence, Senior Executive",
@@ -3185,6 +3184,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3195,7 +3195,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel10.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Cephalon Suda, Genius",
@@ -3204,6 +3203,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3236,7 +3236,6 @@
     "type": "Sigil",
     "imageName": "SyndicateOstronRankSigilE.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Ostron (Old Man Suumbaat), Kin",
@@ -3245,6 +3244,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3255,7 +3255,6 @@
     "type": "Sigil",
     "imageName": "SyndicateOstronRankSigilA.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Ostron (Old Man Suumbaat), Offworlder",
@@ -3264,6 +3263,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3274,7 +3274,6 @@
     "type": "Sigil",
     "imageName": "SyndicateOstronRankSigilD.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Ostron (Old Man Suumbaat), Surah",
@@ -3283,6 +3282,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3293,7 +3293,6 @@
     "type": "Sigil",
     "imageName": "SyndicateOstronRankSigilC.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Ostron (Old Man Suumbaat), Trusted",
@@ -3302,6 +3301,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3312,7 +3312,6 @@
     "type": "Sigil",
     "imageName": "SyndicateOstronRankSigilB.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Ostron (Old Man Suumbaat), Visitor",
@@ -3321,6 +3320,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3342,7 +3342,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel3.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Cephalon Suda, Competent",
@@ -3351,6 +3350,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3361,7 +3361,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel2.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Mistral",
@@ -3370,6 +3369,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3380,7 +3380,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilBusiness.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Perrin Sequence, Associate",
@@ -3389,6 +3388,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Hydroid Prime: Update 21.6.0",
@@ -3442,7 +3442,6 @@
     "type": "Sigil",
     "imageName": "Phorid.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Phorid",
@@ -3451,6 +3450,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3472,7 +3472,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel7.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Arbiters of Hexis, Lawful",
@@ -3481,6 +3480,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3580,7 +3580,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel1.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Perrin Sequence, Associate",
@@ -3589,6 +3588,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3610,7 +3610,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel5.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Steel Meridian, Valiant",
@@ -3619,6 +3618,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3629,7 +3629,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel6.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Whirlwind",
@@ -3638,6 +3637,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3648,7 +3648,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel7.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "New Loka, Benevolent",
@@ -3657,6 +3656,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3667,7 +3667,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel1.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Cephalon Suda, Competent",
@@ -3676,6 +3675,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3697,7 +3697,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilEidolonHunterLevel3.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Quills, Adherent",
@@ -3706,6 +3705,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3716,7 +3716,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilEidolonHunterLevel5.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Quills, Architect",
@@ -3725,6 +3724,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3735,7 +3735,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilEidolonHunterLevel4.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Quills, Instrument",
@@ -3744,6 +3743,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3754,7 +3754,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilEidolonHunterLevel1.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Quills, Mote",
@@ -3763,6 +3762,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3773,7 +3773,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilEidolonHunterLevel2.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Quills, Observer",
@@ -3782,6 +3781,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3792,7 +3792,6 @@
     "type": "Sigil",
     "imageName": "Raptor.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Raptor Mt",
@@ -3819,6 +3818,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3851,7 +3851,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel8.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Steel Meridian, Protector",
@@ -3860,6 +3859,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3870,7 +3870,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel3.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "New Loka, Humane",
@@ -3879,6 +3878,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3889,7 +3889,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilAssassins.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Red Veil, Respected",
@@ -3898,6 +3897,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -3908,7 +3908,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel4.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Mistral",
@@ -3917,6 +3916,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4002,7 +4002,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel6.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Red Veil, Esteemed",
@@ -4011,6 +4010,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4021,7 +4021,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel1.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "New Loka, Humane",
@@ -4030,6 +4029,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4040,7 +4040,6 @@
     "type": "Sigil",
     "imageName": "SargusRuk.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "General Sargas Ruk",
@@ -4049,6 +4048,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4148,7 +4148,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilOracleLevel2.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Cephalon Suda, Competent",
@@ -4157,6 +4156,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4167,7 +4167,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilChurchLevel2.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "New Loka, Humane",
@@ -4176,6 +4175,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4271,7 +4271,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilSolarisUnitedLevel4.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Solaris United (Smokefinger), Cove",
@@ -4280,6 +4279,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4290,7 +4290,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilSolarisUnitedLevel3.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Solaris United (Smokefinger), Doer",
@@ -4299,6 +4298,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4309,7 +4309,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilSolarisUnitedLevel5.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Solaris United (Smokefinger), Old Mate",
@@ -4318,6 +4317,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4328,7 +4328,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilSolarisUnitedLevel1.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Solaris United (Smokefinger), Outworlder",
@@ -4337,6 +4336,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4347,7 +4347,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilSolarisUnitedLevel2.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Solaris United (Smokefinger), Rapscallion",
@@ -4356,6 +4355,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4410,7 +4410,6 @@
     "type": "Sigil",
     "imageName": "MarkedForDeathStalker.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Hunhow",
@@ -4437,6 +4436,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4487,7 +4487,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilRebels.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Steel Meridian, Brave",
@@ -4496,6 +4495,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4518,7 +4518,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel6.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Perrin Sequence, Executive",
@@ -4527,6 +4526,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4537,7 +4537,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel8.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Arbiters of Hexis, Crusader",
@@ -4546,6 +4545,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4556,7 +4556,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel9.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Arbiters of Hexis, Crusader",
@@ -4565,6 +4564,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4575,7 +4575,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel4.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Perrin Sequence, Senior Associate",
@@ -4584,6 +4583,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4859,7 +4859,6 @@
     "type": "Sigil",
     "imageName": "DawnsEarlyLight.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Eidolon Teralyst",
@@ -4868,6 +4867,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4878,7 +4878,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilBusinessLevel7.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "The Perrin Sequence, Executive",
@@ -4887,6 +4886,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4918,7 +4918,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel3.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Red Veil, Respected",
@@ -4927,6 +4926,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4959,7 +4959,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel10.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Arbiters of Hexis, Maxim",
@@ -4968,6 +4967,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4978,7 +4978,6 @@
     "type": "Sigil",
     "imageName": "TylRegor.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Tyl Regor",
@@ -4987,6 +4986,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -4998,7 +4998,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel16.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Typhoon",
@@ -5007,6 +5006,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5017,7 +5017,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel9.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Steel Meridian, Protector",
@@ -5026,6 +5025,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5036,7 +5036,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel4.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Steel Meridian, Valiant",
@@ -5045,6 +5044,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5111,7 +5111,6 @@
     "type": "Sigil",
     "imageName": "VeyHek.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Councilor Vay Hek",
@@ -5126,6 +5125,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5176,7 +5176,6 @@
     "type": "Sigil",
     "imageName": "SyndicateVentKidzRankSigilE.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Ventkids, Logical",
@@ -5185,6 +5184,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5195,7 +5195,6 @@
     "type": "Sigil",
     "imageName": "SyndicateVentKidzRankSigilD.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Ventkids, Primo",
@@ -5204,6 +5203,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5214,7 +5214,6 @@
     "type": "Sigil",
     "imageName": "SyndicateVentKidzRankSigilC.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Ventkids, Proper Felon",
@@ -5223,6 +5222,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5233,7 +5233,6 @@
     "type": "Sigil",
     "imageName": "SyndicateVentKidzRankSigilB.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Ventkids, Whozit",
@@ -5242,6 +5241,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5263,7 +5263,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilRebelsLevel3.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Steel Meridian, Brave",
@@ -5272,6 +5271,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
@@ -5292,7 +5292,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilAssassinsLevel7.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Red Veil, Esteemed",
@@ -5301,6 +5300,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5322,7 +5322,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilConclaveLevel9.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Tempest",
@@ -5331,6 +5330,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5341,7 +5341,6 @@
     "type": "Sigil",
     "imageName": "CaptainVor.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Captain Vor",
@@ -5362,6 +5361,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5372,7 +5372,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilVoxSolarisLevel2.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Vox Solaris, Agent",
@@ -5381,6 +5380,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5391,7 +5391,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilVoxSolarisLevel3.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Vox Solaris, Hand",
@@ -5400,6 +5399,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5410,7 +5410,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilVoxSolarisLevel4.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Vox Solaris, Instrument",
@@ -5419,6 +5418,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5429,7 +5429,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilVoxSolarisLevel1.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Vox Solaris, Operative",
@@ -5438,6 +5437,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5448,7 +5448,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilVoxSolarisLevel5.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Vox Solaris, Shadow",
@@ -5457,6 +5456,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5467,7 +5467,6 @@
     "type": "Sigil",
     "imageName": "FactionSigilJudgeLevel4.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Arbiters of Hexis, Authentic",
@@ -5482,6 +5481,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {
@@ -5537,7 +5537,6 @@
     "type": "Sigil",
     "imageName": "MarkedForDeathZanuka.png",
     "category": "Sigils",
-    "tradable": false,
     "drops": [
       {
         "location": "Zanuka Hunter",
@@ -5546,6 +5545,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "masterable": false
   },
   {

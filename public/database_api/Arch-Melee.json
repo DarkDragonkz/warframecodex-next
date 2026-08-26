@@ -58,7 +58,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericWeaponBlade.png",
-        "tradable": false,
         "drops": [
           {
             "location": "New Loka, Benevolent",
@@ -67,6 +66,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -86,7 +86,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponentLatch.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Steel Meridian, Defender",
@@ -95,6 +94,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -104,7 +104,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericWeaponHilt.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Red Veil, Esteemed",
@@ -113,6 +112,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -243,7 +243,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponentLatch.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Arbiters of Hexis, Lawful",
@@ -252,6 +251,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -261,7 +261,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericWeaponBlade.png",
-        "tradable": false,
         "drops": [
           {
             "location": "The Perrin Sequence, Executive",
@@ -270,6 +269,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -289,7 +289,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericWeaponHilt.png",
-        "tradable": false,
         "drops": [
           {
             "location": "New Loka, Benevolent",
@@ -298,6 +297,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -436,7 +436,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericWeaponBlade.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Red Veil, Honored",
@@ -445,6 +444,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -464,7 +464,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericWeaponHilt.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Steel Meridian, Valiant",
@@ -473,6 +472,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -482,8 +482,8 @@
         "codexSecret": false,
         "itemCount": 3,
         "imageName": "Tellurium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -658,8 +658,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "GrineerComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -669,8 +669,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -735,8 +735,8 @@
             "codexSecret": false,
             "itemCount": 500,
             "imageName": "AlloyPlate.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -757,8 +757,8 @@
             "codexSecret": false,
             "itemCount": 600,
             "imageName": "ComponentFerrite.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -768,8 +768,8 @@
             "codexSecret": false,
             "itemCount": 1000,
             "imageName": "ComponentNanospores.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -780,8 +780,8 @@
             "codexSecret": false,
             "itemCount": 900,
             "imageName": "ComponentSalvage.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           }
@@ -829,8 +829,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentGallium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -971,7 +971,6 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "GenericWeaponBlade.png",
-        "tradable": false,
         "drops": [
           {
             "location": "New Loka, Bountiful",
@@ -980,6 +979,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -999,7 +999,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericWeaponHilt.png",
-        "tradable": false,
         "drops": [
           {
             "location": "The Perrin Sequence, Senior Associate",
@@ -1008,6 +1007,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -1017,8 +1017,8 @@
         "codexSecret": false,
         "itemCount": 3,
         "imageName": "ComponentNeurode.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -1315,8 +1315,8 @@
         "codexSecret": false,
         "itemCount": 300,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -1327,8 +1327,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "ControlModule.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -1339,7 +1339,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericWeaponHilt.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Red Veil, Honored",
@@ -1348,6 +1347,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -1357,7 +1357,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericWeaponBlade.png",
-        "tradable": false,
         "drops": [
           {
             "location": "New Loka, Bountiful",
@@ -1366,6 +1365,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -1538,8 +1538,8 @@
         "codexSecret": false,
         "itemCount": 500,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -1550,8 +1550,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentNeurode.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -1561,8 +1561,8 @@
         "codexSecret": false,
         "itemCount": 500,
         "imageName": "ComponentRubedo.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -1573,8 +1573,8 @@
         "codexSecret": false,
         "itemCount": 1000,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }

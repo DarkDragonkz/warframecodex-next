@@ -72,8 +72,8 @@
         "codexSecret": false,
         "itemCount": 4,
         "imageName": "Alertium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -225,8 +225,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "ControlModule.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -463,8 +463,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ControlModule.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -873,8 +873,8 @@
         "codexSecret": false,
         "itemCount": 300,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -885,7 +885,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericArchwingHarness.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Cephalon Simaris, Complete The Archwing (Quest)",
@@ -894,6 +893,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -903,7 +903,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericArchwingSystems.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Cephalon Simaris, Complete The Archwing (Quest)",
@@ -912,6 +911,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -921,7 +921,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericArchwingWings.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Cephalon Simaris, Complete The Archwing (Quest)",
@@ -930,6 +929,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -1132,7 +1132,6 @@
         "imageName": "blueprint.png",
         "tradable": true,
         "masterable": false,
-        "ducats": 45,
         "drops": [
           {
             "location": "Axi L4 Relic",
@@ -1274,7 +1273,8 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionIBronze"
           }
-        ]
+        ],
+        "ducats": 45
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingChassisComponent",
@@ -1284,7 +1284,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericArchwingHarnessPrime.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi K1 Relic (Radiant)",
@@ -1455,6 +1454,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLokiVoltVaultABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -1465,8 +1465,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -1478,7 +1478,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericArchwingSystemsPrime.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi V1 Relic (Radiant)",
@@ -1621,6 +1620,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionIBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -1632,7 +1632,6 @@
         "primeSellingPrice": 65,
         "itemCount": 1,
         "imageName": "GenericArchwingWingsPrime.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith O2 Relic (Radiant)",
@@ -1747,6 +1746,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVoltOdonataPrimeBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 65
       }
@@ -1754,7 +1754,7 @@
     "type": "Archwing",
     "imageName": "OdonataPrime.png",
     "category": "Archwing",
-    "tradable": true,
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 16.1.1",

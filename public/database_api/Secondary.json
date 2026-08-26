@@ -64,8 +64,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -75,8 +75,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "InfestedComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -86,8 +86,8 @@
         "codexSecret": false,
         "itemCount": 5000,
         "imageName": "ComponentNanospores.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -98,8 +98,8 @@
         "codexSecret": false,
         "itemCount": 6000,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -363,8 +363,8 @@
         "codexSecret": false,
         "itemCount": 8500,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -374,8 +374,6 @@
         "description": "What the Aegrit lacks in quantity it makes up for in destructive power. Toss the Aegrit onto your enemy’s position then detonate remotely at the right moment for maximum destructive effect.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Kahl's Garrison (Chipper), Settlement",
@@ -383,7 +381,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -392,8 +392,8 @@
         "codexSecret": false,
         "itemCount": 12500,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -403,8 +403,8 @@
         "codexSecret": false,
         "itemCount": 2200,
         "imageName": "Kuva.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -415,8 +415,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentMorphic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -665,8 +665,8 @@
             "codexSecret": false,
             "itemCount": 300,
             "imageName": "AlloyPlate.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -676,8 +676,6 @@
             "description": "The Furis delivers a high damage output in a short time frame thanks to its high rate of fire.",
             "itemCount": 1,
             "imageName": "blueprint.png",
-            "tradable": false,
-            "masterable": false,
             "drops": [
               {
                 "location": "Duviri/Endless: Tier 6 (Normal)",
@@ -685,7 +683,9 @@
                 "chance": 1.03,
                 "rarity": "Rare"
               }
-            ]
+            ],
+            "tradable": false,
+            "masterable": false
           },
           {
             "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -694,8 +694,8 @@
             "codexSecret": false,
             "itemCount": 750,
             "imageName": "ComponentFerrite.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -705,8 +705,8 @@
             "codexSecret": false,
             "itemCount": 4,
             "imageName": "ComponentNeurode.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -716,8 +716,8 @@
             "codexSecret": false,
             "itemCount": 400,
             "imageName": "ComponentSalvage.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           }
@@ -813,8 +813,8 @@
             "codexSecret": false,
             "itemCount": 300,
             "imageName": "AlloyPlate.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -824,8 +824,6 @@
             "description": "The Furis delivers a high damage output in a short time frame thanks to its high rate of fire.",
             "itemCount": 1,
             "imageName": "blueprint.png",
-            "tradable": false,
-            "masterable": false,
             "drops": [
               {
                 "location": "Duviri/Endless: Tier 6 (Normal)",
@@ -833,7 +831,9 @@
                 "chance": 1.03,
                 "rarity": "Rare"
               }
-            ]
+            ],
+            "tradable": false,
+            "masterable": false
           },
           {
             "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -842,8 +842,8 @@
             "codexSecret": false,
             "itemCount": 750,
             "imageName": "ComponentFerrite.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -853,8 +853,8 @@
             "codexSecret": false,
             "itemCount": 4,
             "imageName": "ComponentNeurode.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -864,8 +864,8 @@
             "codexSecret": false,
             "itemCount": 400,
             "imageName": "ComponentSalvage.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           }
@@ -913,8 +913,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -1101,7 +1101,6 @@
         "primeSellingPrice": 15,
         "itemCount": 2,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi N10 Relic (Radiant)",
@@ -1356,6 +1355,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -1366,9 +1366,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Axi B6 Relic (Radiant)",
@@ -1594,7 +1591,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGrendelPrimeABronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AfurisPrimeLink",
@@ -1604,7 +1604,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericComponentPrimePlug.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi G11 Relic",
@@ -1747,6 +1746,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionRevenantBaruukVaultABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -1758,7 +1758,6 @@
         "primeSellingPrice": 100,
         "itemCount": 2,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A16 Relic (Radiant)",
@@ -1873,6 +1872,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionBaruukPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       }
@@ -2002,8 +2002,6 @@
         "description": "Bombard legions of enemies with target seeking rockets. These dual launchers reload faster while sprinting, even more so in Gauss’ hands. Rockets arm after reaching a safe distance.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Demolisher Boiler",
@@ -2029,7 +2027,9 @@
             "chance": 2.5,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ConcentratedGas",
@@ -2038,8 +2038,8 @@
         "codexSecret": false,
         "itemCount": 150,
         "imageName": "ComponentConcentratedGas.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2050,8 +2050,8 @@
         "codexSecret": false,
         "itemCount": 7500,
         "imageName": "ComponentNanospores.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -2062,8 +2062,8 @@
         "codexSecret": false,
         "itemCount": 3,
         "imageName": "ComponentNeurode.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -2073,8 +2073,8 @@
         "codexSecret": false,
         "itemCount": 1600,
         "imageName": "PolymerBundle.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -2326,7 +2326,6 @@
         "primeSellingPrice": 15,
         "itemCount": 2,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi D5 Relic (Radiant)",
@@ -2553,6 +2552,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLavosPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -2563,9 +2563,6 @@
         "itemCount": 1,
         "primeSellingPrice": 100,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 100,
         "drops": [
           {
             "location": "Meso A11 Relic (Radiant)",
@@ -2651,7 +2648,10 @@
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussPrimeCBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 100
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkariusPrimeLink",
@@ -2661,7 +2661,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericComponentPrimePlug.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi Y2 Relic",
@@ -2860,6 +2859,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionYareliPrimeCBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -2871,7 +2871,6 @@
         "primeSellingPrice": 65,
         "itemCount": 2,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith A10 Relic (Radiant)",
@@ -3014,6 +3013,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionYareliPrimeCBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 65
       }
@@ -3329,8 +3329,8 @@
             "codexSecret": false,
             "itemCount": 2,
             "imageName": "ComponentNeurode.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -3340,8 +3340,8 @@
             "codexSecret": false,
             "itemCount": 2,
             "imageName": "ComponentCell.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -3352,8 +3352,8 @@
             "codexSecret": false,
             "itemCount": 800,
             "imageName": "PolymerBundle.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           }
@@ -3547,8 +3547,8 @@
             "codexSecret": false,
             "itemCount": 2,
             "imageName": "ComponentNeurode.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -3558,8 +3558,8 @@
             "codexSecret": false,
             "itemCount": 2,
             "imageName": "ComponentCell.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -3570,8 +3570,8 @@
             "codexSecret": false,
             "itemCount": 800,
             "imageName": "PolymerBundle.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           }
@@ -3611,8 +3611,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -3826,7 +3826,6 @@
         "primeSellingPrice": 45,
         "itemCount": 2,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith A3 Relic",
@@ -3969,6 +3968,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -3979,9 +3979,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Axi G2 Relic (Radiant)",
@@ -4179,7 +4176,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMesaPrimeABronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkboltoPrimeLink",
@@ -4189,7 +4189,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericComponentPrimePlug.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi H4 Relic",
@@ -4388,6 +4387,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -4399,7 +4399,6 @@
         "primeSellingPrice": 100,
         "itemCount": 2,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A12 Relic (Radiant)",
@@ -4542,6 +4541,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeCBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       }
@@ -4702,8 +4702,6 @@
         "description": "A Bronco equipped in each hand.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Duviri/Endless: Tier 6 (Normal)",
@@ -4711,7 +4709,9 @@
             "chance": 1.03,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "name": "Bronco",
@@ -4768,8 +4768,8 @@
             "codexSecret": false,
             "itemCount": 1200,
             "imageName": "AlloyPlate.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -4779,8 +4779,6 @@
             "description": "The Bronco is a small-scale shotgun that can be wielded with one hand. Only effective at close range, it has a limited Magazine Capacity.",
             "itemCount": 1,
             "imageName": "blueprint.png",
-            "tradable": false,
-            "masterable": false,
             "drops": [
               {
                 "location": "Duviri/Endless: Tier 6 (Normal)",
@@ -4788,7 +4786,9 @@
                 "chance": 1.03,
                 "rarity": "Rare"
               }
-            ]
+            ],
+            "tradable": false,
+            "masterable": false
           },
           {
             "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -4797,8 +4797,8 @@
             "codexSecret": false,
             "itemCount": 700,
             "imageName": "ComponentFerrite.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -4808,8 +4808,8 @@
             "codexSecret": false,
             "itemCount": 2,
             "imageName": "ComponentNeurode.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -4819,8 +4819,8 @@
             "codexSecret": false,
             "itemCount": 800,
             "imageName": "PolymerBundle.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           }
@@ -4916,8 +4916,8 @@
             "codexSecret": false,
             "itemCount": 1200,
             "imageName": "AlloyPlate.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -4927,8 +4927,6 @@
             "description": "The Bronco is a small-scale shotgun that can be wielded with one hand. Only effective at close range, it has a limited Magazine Capacity.",
             "itemCount": 1,
             "imageName": "blueprint.png",
-            "tradable": false,
-            "masterable": false,
             "drops": [
               {
                 "location": "Duviri/Endless: Tier 6 (Normal)",
@@ -4936,7 +4934,9 @@
                 "chance": 1.03,
                 "rarity": "Rare"
               }
-            ]
+            ],
+            "tradable": false,
+            "masterable": false
           },
           {
             "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -4945,8 +4945,8 @@
             "codexSecret": false,
             "itemCount": 700,
             "imageName": "ComponentFerrite.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -4956,8 +4956,8 @@
             "codexSecret": false,
             "itemCount": 2,
             "imageName": "ComponentNeurode.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -4967,8 +4967,8 @@
             "codexSecret": false,
             "itemCount": 800,
             "imageName": "PolymerBundle.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           }
@@ -5016,8 +5016,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -5194,9 +5194,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Axi A10 Relic (Radiant)",
@@ -6038,7 +6035,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "name": "Bronco Prime",
@@ -6096,7 +6096,6 @@
             "primeSellingPrice": 45,
             "itemCount": 1,
             "imageName": "GenericGunPrimeBarrel.png",
-            "tradable": true,
             "drops": [
               {
                 "location": "Axi E2 Relic",
@@ -6715,6 +6714,7 @@
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLavosPrimeABronze"
               }
             ],
+            "tradable": true,
             "masterable": false,
             "ducats": 45
           },
@@ -6725,9 +6725,6 @@
             "itemCount": 1,
             "primeSellingPrice": 15,
             "imageName": "blueprint.png",
-            "tradable": true,
-            "masterable": false,
-            "ducats": 15,
             "drops": [
               {
                 "location": "Axi C7 Relic (Radiant)",
@@ -7737,7 +7734,10 @@
                 "rarity": "Uncommon",
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMesaPrimeCBronze"
               }
-            ]
+            ],
+            "tradable": true,
+            "masterable": false,
+            "ducats": 15
           },
           {
             "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -7746,8 +7746,8 @@
             "codexSecret": false,
             "itemCount": 10,
             "imageName": "ComponentCell.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -7759,7 +7759,6 @@
             "primeSellingPrice": 15,
             "itemCount": 1,
             "imageName": "GenericGunPrimeReceiver.png",
-            "tradable": true,
             "drops": [
               {
                 "location": "Axi A19 Relic (Radiant)",
@@ -8854,6 +8853,7 @@
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionWukongPrimeBBronze"
               }
             ],
+            "tradable": true,
             "masterable": false,
             "ducats": 15
           }
@@ -11661,7 +11661,6 @@
             "primeSellingPrice": 45,
             "itemCount": 1,
             "imageName": "GenericGunPrimeBarrel.png",
-            "tradable": true,
             "drops": [
               {
                 "location": "Axi E2 Relic",
@@ -12280,6 +12279,7 @@
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLavosPrimeABronze"
               }
             ],
+            "tradable": true,
             "masterable": false,
             "ducats": 45
           },
@@ -12290,9 +12290,6 @@
             "itemCount": 1,
             "primeSellingPrice": 15,
             "imageName": "blueprint.png",
-            "tradable": true,
-            "masterable": false,
-            "ducats": 15,
             "drops": [
               {
                 "location": "Axi C7 Relic (Radiant)",
@@ -13302,7 +13299,10 @@
                 "rarity": "Uncommon",
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMesaPrimeCBronze"
               }
-            ]
+            ],
+            "tradable": true,
+            "masterable": false,
+            "ducats": 15
           },
           {
             "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -13311,8 +13311,8 @@
             "codexSecret": false,
             "itemCount": 10,
             "imageName": "ComponentCell.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -13324,7 +13324,6 @@
             "primeSellingPrice": 15,
             "itemCount": 1,
             "imageName": "GenericGunPrimeReceiver.png",
-            "tradable": true,
             "drops": [
               {
                 "location": "Axi A19 Relic (Radiant)",
@@ -14419,6 +14418,7 @@
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionWukongPrimeBBronze"
               }
             ],
+            "tradable": true,
             "masterable": false,
             "ducats": 15
           }
@@ -17178,7 +17178,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericComponentPrimePlug.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A18 Relic",
@@ -17769,6 +17768,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       }
@@ -18086,7 +18086,6 @@
           "true": 0
         },
         "imageName": "DualSkanas.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Duviri/Endless: Tier 6 (Normal)",
@@ -18101,6 +18100,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -18110,8 +18110,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -18307,7 +18307,6 @@
         "primeSellingPrice": 100,
         "itemCount": 2,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith A3 Relic (Radiant)",
@@ -18450,6 +18449,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMesaLimboVaultABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       },
@@ -18460,9 +18460,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Axi B4 Relic (Radiant)",
@@ -18716,7 +18713,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionIvaraPrimeBBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkjagaraPrimeLink",
@@ -18726,7 +18726,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericComponentPrimePlug.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi R3 Relic",
@@ -18925,6 +18924,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMesaLimboVaultBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -18935,8 +18935,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -18948,7 +18948,6 @@
         "primeSellingPrice": 45,
         "itemCount": 2,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi L3 Relic",
@@ -19147,6 +19146,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionWukongPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       }
@@ -19332,7 +19332,6 @@
     },
     "imageName": "Aklato.png",
     "category": "Secondary",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Typhoon",
@@ -19341,6 +19340,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Update 20",
@@ -19527,7 +19527,6 @@
           "true": 0
         },
         "imageName": "Lex.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Conclave, Typhoon",
@@ -19536,6 +19535,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -19605,7 +19605,6 @@
           "true": 0
         },
         "imageName": "Lex.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Conclave, Typhoon",
@@ -19614,6 +19613,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -19623,8 +19623,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -19784,9 +19784,6 @@
         "itemCount": 1,
         "primeSellingPrice": 45,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 45,
         "drops": [
           {
             "location": "Axi A2 Relic",
@@ -19844,7 +19841,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVoltOdonataPrimeBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 45
       },
       {
         "name": "Lex Prime",
@@ -19902,7 +19902,6 @@
             "primeSellingPrice": 15,
             "itemCount": 1,
             "imageName": "GenericGunPrimeBarrel.png",
-            "tradable": true,
             "drops": [
               {
                 "location": "Axi A2 Relic (Radiant)",
@@ -21165,6 +21164,7 @@
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionIvaraPrimeBBronze"
               }
             ],
+            "tradable": true,
             "masterable": false,
             "ducats": 15
           },
@@ -21175,9 +21175,6 @@
             "itemCount": 1,
             "primeSellingPrice": 25,
             "imageName": "blueprint.png",
-            "tradable": true,
-            "masterable": false,
-            "ducats": 25,
             "drops": [
               {
                 "location": "Axi A2 Relic",
@@ -22355,7 +22352,10 @@
                 "rarity": "Uncommon",
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMesaPrimeABronze"
               }
-            ]
+            ],
+            "tradable": true,
+            "masterable": false,
+            "ducats": 25
           },
           {
             "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -22364,8 +22364,8 @@
             "codexSecret": false,
             "itemCount": 10,
             "imageName": "ComponentCell.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -22377,7 +22377,6 @@
             "primeSellingPrice": 15,
             "itemCount": 1,
             "imageName": "GenericGunPrimeReceiver.png",
-            "tradable": true,
             "drops": [
               {
                 "location": "Axi A2 Relic (Radiant)",
@@ -23556,6 +23555,7 @@
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeDBronze"
               }
             ],
+            "tradable": true,
             "masterable": false,
             "ducats": 15
           }
@@ -27259,7 +27259,6 @@
             "primeSellingPrice": 15,
             "itemCount": 1,
             "imageName": "GenericGunPrimeBarrel.png",
-            "tradable": true,
             "drops": [
               {
                 "location": "Axi A2 Relic (Radiant)",
@@ -28522,6 +28521,7 @@
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionIvaraPrimeBBronze"
               }
             ],
+            "tradable": true,
             "masterable": false,
             "ducats": 15
           },
@@ -28532,9 +28532,6 @@
             "itemCount": 1,
             "primeSellingPrice": 25,
             "imageName": "blueprint.png",
-            "tradable": true,
-            "masterable": false,
-            "ducats": 25,
             "drops": [
               {
                 "location": "Axi A2 Relic",
@@ -29712,7 +29709,10 @@
                 "rarity": "Uncommon",
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMesaPrimeABronze"
               }
-            ]
+            ],
+            "tradable": true,
+            "masterable": false,
+            "ducats": 25
           },
           {
             "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -29721,8 +29721,8 @@
             "codexSecret": false,
             "itemCount": 10,
             "imageName": "ComponentCell.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -29734,7 +29734,6 @@
             "primeSellingPrice": 15,
             "itemCount": 1,
             "imageName": "GenericGunPrimeReceiver.png",
-            "tradable": true,
             "drops": [
               {
                 "location": "Axi A2 Relic (Radiant)",
@@ -30913,6 +30912,7 @@
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeDBronze"
               }
             ],
+            "tradable": true,
             "masterable": false,
             "ducats": 15
           }
@@ -34568,7 +34568,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericComponentPrimePlug.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A2 Relic (Radiant)",
@@ -34599,6 +34598,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionPBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       }
@@ -34783,8 +34783,8 @@
             "codexSecret": false,
             "itemCount": 400,
             "imageName": "AlloyPlate.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -34805,8 +34805,8 @@
             "codexSecret": false,
             "itemCount": 100,
             "imageName": "ComponentFerrite.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -34816,8 +34816,8 @@
             "codexSecret": false,
             "itemCount": 2,
             "imageName": "ComponentCell.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -34828,8 +34828,8 @@
             "codexSecret": false,
             "itemCount": 900,
             "imageName": "ComponentSalvage.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           }
@@ -34918,8 +34918,8 @@
             "codexSecret": false,
             "itemCount": 400,
             "imageName": "AlloyPlate.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -34940,8 +34940,8 @@
             "codexSecret": false,
             "itemCount": 100,
             "imageName": "ComponentFerrite.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -34951,8 +34951,8 @@
             "codexSecret": false,
             "itemCount": 2,
             "imageName": "ComponentCell.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -34963,8 +34963,8 @@
             "codexSecret": false,
             "itemCount": 900,
             "imageName": "ComponentSalvage.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           }
@@ -35005,8 +35005,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -35142,9 +35142,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Axi M5 Relic (Radiant)",
@@ -35174,7 +35171,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionBaroAkmagnusPrimeBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkmagnusPrimeLink",
@@ -35184,7 +35184,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericComponentPrimePlug.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi M5 Relic",
@@ -35215,6 +35214,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionBaroAkmagnusPrimeBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -35274,7 +35274,6 @@
             "primeSellingPrice": 100,
             "itemCount": 1,
             "imageName": "GenericGunPrimeBarrel.png",
-            "tradable": true,
             "drops": [
               {
                 "location": "Axi M2 Relic (Radiant)",
@@ -35389,6 +35388,7 @@
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGarudaPrimeCBronze"
               }
             ],
+            "tradable": true,
             "masterable": false,
             "ducats": 100
           },
@@ -35399,9 +35399,6 @@
             "itemCount": 1,
             "primeSellingPrice": 15,
             "imageName": "blueprint.png",
-            "tradable": true,
-            "masterable": false,
-            "ducats": 15,
             "drops": [
               {
                 "location": "Axi C7 Relic (Radiant)",
@@ -35683,7 +35680,10 @@
                 "rarity": "Uncommon",
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionHarrowPrimeBBronze"
               }
-            ]
+            ],
+            "tradable": true,
+            "masterable": false,
+            "ducats": 15
           },
           {
             "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -35692,8 +35692,8 @@
             "codexSecret": false,
             "itemCount": 10,
             "imageName": "ComponentCell.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -35705,7 +35705,6 @@
             "primeSellingPrice": 45,
             "itemCount": 1,
             "imageName": "GenericGunPrimeReceiver.png",
-            "tradable": true,
             "drops": [
               {
                 "location": "Axi M5 Relic",
@@ -35932,6 +35931,7 @@
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNidusPrimeBBronze"
               }
             ],
+            "tradable": true,
             "masterable": false,
             "ducats": 45
           }
@@ -36641,7 +36641,6 @@
             "primeSellingPrice": 100,
             "itemCount": 1,
             "imageName": "GenericGunPrimeBarrel.png",
-            "tradable": true,
             "drops": [
               {
                 "location": "Axi M2 Relic (Radiant)",
@@ -36756,6 +36755,7 @@
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGarudaPrimeCBronze"
               }
             ],
+            "tradable": true,
             "masterable": false,
             "ducats": 100
           },
@@ -36766,9 +36766,6 @@
             "itemCount": 1,
             "primeSellingPrice": 15,
             "imageName": "blueprint.png",
-            "tradable": true,
-            "masterable": false,
-            "ducats": 15,
             "drops": [
               {
                 "location": "Axi C7 Relic (Radiant)",
@@ -37050,7 +37047,10 @@
                 "rarity": "Uncommon",
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionHarrowPrimeBBronze"
               }
-            ]
+            ],
+            "tradable": true,
+            "masterable": false,
+            "ducats": 15
           },
           {
             "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -37059,8 +37059,8 @@
             "codexSecret": false,
             "itemCount": 10,
             "imageName": "ComponentCell.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -37072,7 +37072,6 @@
             "primeSellingPrice": 45,
             "itemCount": 1,
             "imageName": "GenericGunPrimeReceiver.png",
-            "tradable": true,
             "drops": [
               {
                 "location": "Axi M5 Relic",
@@ -37299,6 +37298,7 @@
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNidusPrimeBBronze"
               }
             ],
+            "tradable": true,
             "masterable": false,
             "ducats": 45
           }
@@ -38127,8 +38127,8 @@
             "codexSecret": false,
             "itemCount": 200,
             "imageName": "AlloyPlate.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -38149,8 +38149,8 @@
             "codexSecret": false,
             "itemCount": 1,
             "imageName": "GenericComponent.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -38160,8 +38160,8 @@
             "codexSecret": false,
             "itemCount": 2,
             "imageName": "ComponentGallium.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -38172,8 +38172,8 @@
             "codexSecret": false,
             "itemCount": 800,
             "imageName": "ComponentSalvage.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           }
@@ -38231,8 +38231,8 @@
         "codexSecret": false,
         "itemCount": 200,
         "imageName": "ComponentCryotic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -38243,8 +38243,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -38440,7 +38440,6 @@
         "primeSellingPrice": 45,
         "itemCount": 2,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith B7 Relic",
@@ -38583,6 +38582,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionIvaraPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -38593,9 +38593,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Axi B4 Relic (Radiant)",
@@ -38821,7 +38818,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionTitaniaPrimeDBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AksomatiPrimeLink",
@@ -38831,7 +38831,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericComponentPrimePlug.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A10 Relic (Radiant)",
@@ -38974,6 +38973,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionIvaraPrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       },
@@ -38985,7 +38985,6 @@
         "primeSellingPrice": 15,
         "itemCount": 2,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi D2 Relic (Radiant)",
@@ -39240,6 +39239,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNidusPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       }
@@ -39396,8 +39396,8 @@
         "codexSecret": false,
         "itemCount": 200,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -39418,8 +39418,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -39429,8 +39429,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentGallium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -39441,8 +39441,8 @@
         "codexSecret": false,
         "itemCount": 800,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -39639,7 +39639,6 @@
         "primeSellingPrice": 25,
         "itemCount": 2,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A1 Relic",
@@ -39810,6 +39809,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionAshVaubanVaultABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 25
       },
@@ -39820,9 +39820,6 @@
         "itemCount": 1,
         "primeSellingPrice": 100,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 100,
         "drops": [
           {
             "location": "Lith A1 Relic (Radiant)",
@@ -39964,7 +39961,10 @@
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionAtlasVaubanVaultBBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 100
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkstilettoPrimeLink",
@@ -39974,7 +39974,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericComponentPrimePlug.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi N1 Relic",
@@ -40117,6 +40116,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionSBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -40128,7 +40128,6 @@
         "primeSellingPrice": 45,
         "itemCount": 2,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi H1 Relic",
@@ -40299,6 +40298,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionAshVaubanVaultABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       }
@@ -40481,8 +40481,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -40541,8 +40541,8 @@
             "codexSecret": false,
             "itemCount": 1200,
             "imageName": "AlloyPlate.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -40563,8 +40563,8 @@
             "codexSecret": false,
             "itemCount": 700,
             "imageName": "ComponentFerrite.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -40574,8 +40574,8 @@
             "codexSecret": false,
             "itemCount": 4,
             "imageName": "ComponentNeurode.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -40585,8 +40585,8 @@
             "codexSecret": false,
             "itemCount": 1000,
             "imageName": "PolymerBundle.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           }
@@ -40682,8 +40682,8 @@
             "codexSecret": false,
             "itemCount": 1200,
             "imageName": "AlloyPlate.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -40704,8 +40704,8 @@
             "codexSecret": false,
             "itemCount": 700,
             "imageName": "ComponentFerrite.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -40715,8 +40715,8 @@
             "codexSecret": false,
             "itemCount": 4,
             "imageName": "ComponentNeurode.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -40726,8 +40726,8 @@
             "codexSecret": false,
             "itemCount": 1000,
             "imageName": "PolymerBundle.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           }
@@ -40916,9 +40916,6 @@
         "itemCount": 1,
         "primeSellingPrice": 100,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 100,
         "drops": [
           {
             "location": "Axi A5 Relic (Radiant)",
@@ -40948,7 +40945,10 @@
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionMagNovaVaultBBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 100
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkvastoPrimeLink",
@@ -40958,7 +40958,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericComponentPrimePlug.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A5 Relic",
@@ -40989,6 +40988,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionMagNovaVaultBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -41048,7 +41048,6 @@
             "primeSellingPrice": 15,
             "itemCount": 1,
             "imageName": "GenericGunPrimeBarrel.png",
-            "tradable": true,
             "drops": [
               {
                 "location": "Axi A5 Relic (Radiant)",
@@ -41359,6 +41358,7 @@
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionDBronze"
               }
             ],
+            "tradable": true,
             "masterable": false,
             "ducats": 15
           },
@@ -41369,9 +41369,6 @@
             "itemCount": 1,
             "primeSellingPrice": 45,
             "imageName": "blueprint.png",
-            "tradable": true,
-            "masterable": false,
-            "ducats": 45,
             "drops": [
               {
                 "location": "Axi A5 Relic",
@@ -41625,7 +41622,10 @@
                 "rarity": "Uncommon",
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGBronze"
               }
-            ]
+            ],
+            "tradable": true,
+            "masterable": false,
+            "ducats": 45
           },
           {
             "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -41634,8 +41634,8 @@
             "codexSecret": false,
             "itemCount": 10,
             "imageName": "ComponentCell.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -41647,7 +41647,6 @@
             "primeSellingPrice": 15,
             "itemCount": 1,
             "imageName": "GenericGunPrimeReceiver.png",
-            "tradable": true,
             "drops": [
               {
                 "location": "Axi A5 Relic (Radiant)",
@@ -41930,6 +41929,7 @@
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaOctaviaVaultABronze"
               }
             ],
+            "tradable": true,
             "masterable": false,
             "ducats": 15
           }
@@ -42863,7 +42863,6 @@
             "primeSellingPrice": 15,
             "itemCount": 1,
             "imageName": "GenericGunPrimeBarrel.png",
-            "tradable": true,
             "drops": [
               {
                 "location": "Axi A5 Relic (Radiant)",
@@ -43174,6 +43173,7 @@
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionDBronze"
               }
             ],
+            "tradable": true,
             "masterable": false,
             "ducats": 15
           },
@@ -43184,9 +43184,6 @@
             "itemCount": 1,
             "primeSellingPrice": 45,
             "imageName": "blueprint.png",
-            "tradable": true,
-            "masterable": false,
-            "ducats": 45,
             "drops": [
               {
                 "location": "Axi A5 Relic",
@@ -43440,7 +43437,10 @@
                 "rarity": "Uncommon",
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGBronze"
               }
-            ]
+            ],
+            "tradable": true,
+            "masterable": false,
+            "ducats": 45
           },
           {
             "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -43449,8 +43449,8 @@
             "codexSecret": false,
             "itemCount": 10,
             "imageName": "ComponentCell.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           },
@@ -43462,7 +43462,6 @@
             "primeSellingPrice": 15,
             "itemCount": 1,
             "imageName": "GenericGunPrimeReceiver.png",
-            "tradable": true,
             "drops": [
               {
                 "location": "Axi A5 Relic (Radiant)",
@@ -43745,6 +43744,7 @@
                 "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaOctaviaVaultABronze"
               }
             ],
+            "tradable": true,
             "masterable": false,
             "ducats": 15
           }
@@ -44759,8 +44759,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ArgonCrystal.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -44781,8 +44781,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentMorphic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -44793,8 +44793,8 @@
         "codexSecret": false,
         "itemCount": 1000,
         "imageName": "PolymerBundle.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -44805,8 +44805,8 @@
         "codexSecret": false,
         "itemCount": 1500,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -44954,8 +44954,8 @@
         "codexSecret": false,
         "itemCount": 600,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -44966,8 +44966,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ArgonCrystal.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -44988,8 +44988,8 @@
         "codexSecret": false,
         "itemCount": 400,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -45000,8 +45000,8 @@
         "codexSecret": false,
         "itemCount": 900,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -45356,8 +45356,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "CorpusComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -45367,8 +45367,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -45378,8 +45378,8 @@
         "codexSecret": false,
         "itemCount": 250,
         "imageName": "ComponentOxium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -45390,8 +45390,8 @@
         "codexSecret": false,
         "itemCount": 12500,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -45554,7 +45554,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Venus/Beacon Shield Ring (Caches), Rotation B",
@@ -45593,6 +45592,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -45601,8 +45601,6 @@
         "description": "Reverse-engineered from propulsion tech this hand-cannon packs a kick. Weak Point kills trigger Overdrive, locking off secondary functions while maximizing your fire rate and ammo efficiency for a short time.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Venus/Beacon Shield Ring (Caches), Rotation B",
@@ -45640,7 +45638,9 @@
             "chance": 6.45,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -45649,8 +45649,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -45661,7 +45661,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Venus/Beacon Shield Ring (Caches), Rotation B",
@@ -45700,6 +45699,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -45901,7 +45901,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Neo A16 Relic (Radiant)",
@@ -45932,6 +45931,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       },
@@ -45942,9 +45942,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Meso L5 Relic (Radiant)",
@@ -45974,7 +45971,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionStyanaxPrimeABronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -45983,8 +45983,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -45996,7 +45996,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi P10 Relic",
@@ -46027,6 +46026,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionStyanaxPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       }
@@ -46169,8 +46169,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ArgonCrystal.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -46191,8 +46191,8 @@
         "codexSecret": false,
         "itemCount": 1300,
         "imageName": "PolymerBundle.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -46203,8 +46203,8 @@
         "codexSecret": false,
         "itemCount": 800,
         "imageName": "ComponentRubedo.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -46215,8 +46215,8 @@
         "codexSecret": false,
         "itemCount": 1500,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -46541,8 +46541,6 @@
         "description": "This intricate automatic pistol is able to fire its magazine which then spins in the air for a short time, firing lasers at nearby enemies.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Cephalon Simaris, Unlock through Daily Tribute",
@@ -46550,7 +46548,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
@@ -46559,8 +46559,8 @@
         "codexSecret": false,
         "itemCount": 450,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -46571,8 +46571,8 @@
         "codexSecret": false,
         "itemCount": 4,
         "imageName": "ComponentMorphic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -46583,8 +46583,8 @@
         "codexSecret": false,
         "itemCount": 500,
         "imageName": "PolymerBundle.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -46595,8 +46595,8 @@
         "codexSecret": false,
         "itemCount": 2750,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -46847,8 +46847,6 @@
         "description": "The Ballistica crossbow features a unique dual firing mechanism. Choose between a four bolt volley or a deadly accurate charged shot.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Duviri/Endless: Tier 6 (Normal)",
@@ -46856,7 +46854,9 @@
             "chance": 1.03,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
@@ -46865,8 +46865,8 @@
         "codexSecret": false,
         "itemCount": 4,
         "imageName": "ComponentGallium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -46877,8 +46877,8 @@
         "codexSecret": false,
         "itemCount": 3000,
         "imageName": "ComponentNanospores.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -46889,8 +46889,8 @@
         "codexSecret": false,
         "itemCount": 3,
         "imageName": "ComponentNeurode.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -46900,8 +46900,8 @@
         "codexSecret": false,
         "itemCount": 1200,
         "imageName": "ComponentRubedo.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -47256,9 +47256,6 @@
         "itemCount": 1,
         "primeSellingPrice": 100,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 100,
         "drops": [
           {
             "location": "Lith B2 Relic (Radiant)",
@@ -47400,7 +47397,10 @@
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionMesaHydroidVaultABronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 100
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaLowerLimb",
@@ -47410,7 +47410,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericWeaponPrimeBlade.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi K5 Relic (Radiant)",
@@ -47609,6 +47608,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMesaHydroidVaultBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -47620,7 +47620,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith P2 Relic",
@@ -47791,6 +47790,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionHydroidPrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -47802,7 +47802,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericGunPrimeStock.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A4 Relic",
@@ -47917,6 +47916,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMesaHydroidVaultABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -47928,7 +47928,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericWeaponPrimeBlade.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi M3 Relic",
@@ -48071,6 +48070,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionEquinoxPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       }
@@ -48386,8 +48386,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentNeurode.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -48397,8 +48397,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -48409,8 +48409,8 @@
         "codexSecret": false,
         "itemCount": 800,
         "imageName": "PolymerBundle.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -48878,7 +48878,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Shik Tal",
@@ -48887,6 +48886,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -48895,8 +48895,6 @@
         "description": "Simple but powerful. The semi-automatic Brakk hand cannon delivers a lot of punch in a small package.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Vem Tabook",
@@ -48904,7 +48902,9 @@
             "chance": 12.5,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -48913,8 +48913,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -48925,7 +48925,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Leekter",
@@ -48934,6 +48933,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -49147,8 +49147,8 @@
         "codexSecret": false,
         "itemCount": 1200,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -49158,8 +49158,6 @@
         "description": "The Bronco is a small-scale shotgun that can be wielded with one hand. Only effective at close range, it has a limited Magazine Capacity.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Duviri/Endless: Tier 6 (Normal)",
@@ -49167,7 +49165,9 @@
             "chance": 1.03,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -49176,8 +49176,8 @@
         "codexSecret": false,
         "itemCount": 700,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -49187,8 +49187,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentNeurode.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -49198,8 +49198,8 @@
         "codexSecret": false,
         "itemCount": 800,
         "imageName": "PolymerBundle.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -49423,7 +49423,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi E2 Relic",
@@ -50042,6 +50041,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLavosPrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -50052,9 +50052,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Axi C7 Relic (Radiant)",
@@ -51064,7 +51061,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMesaPrimeCBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -51073,8 +51073,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -51086,7 +51086,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A19 Relic (Radiant)",
@@ -52181,6 +52180,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionWukongPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       }
@@ -52373,8 +52373,8 @@
         "codexSecret": false,
         "itemCount": 4,
         "imageName": "ArgonCrystal.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -52384,8 +52384,6 @@
         "description": "In moments of despair, let the battle resonate with song. Cantare's blades lodge into the battlefield and return upon reload. When returning blades strike enemies, Cantare empowers allies with increased Reload Speed.\n\nExperience the true power of Jade's Ensemble when Evensong, Cantare, and Harmony sing together.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Uranus/Brutus (Ascension)",
@@ -52393,7 +52391,9 @@
             "chance": 4.63,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
@@ -52402,8 +52402,8 @@
         "codexSecret": false,
         "itemCount": 1400,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -52414,8 +52414,8 @@
         "codexSecret": false,
         "itemCount": 1600,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -52425,8 +52425,8 @@
         "codexSecret": false,
         "itemCount": 600,
         "imageName": "PolymerBundle.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -52567,8 +52567,8 @@
         "codexSecret": false,
         "itemCount": 200,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -52579,8 +52579,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ControlModule.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -52591,8 +52591,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -52602,8 +52602,8 @@
         "codexSecret": false,
         "itemCount": 800,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -53030,8 +53030,8 @@
         "codexSecret": false,
         "itemCount": 7,
         "imageName": "InfestedComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -53052,8 +53052,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "EntratiWisp.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -53063,8 +53063,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "DeimosRareGemACut.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -53299,8 +53299,8 @@
         "codexSecret": false,
         "itemCount": 4,
         "imageName": "ComponentGallium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -53311,8 +53311,8 @@
         "codexSecret": false,
         "itemCount": 3000,
         "imageName": "ComponentNanospores.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -53323,8 +53323,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentNeurode.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -53334,8 +53334,8 @@
         "codexSecret": false,
         "itemCount": 1200,
         "imageName": "ComponentRubedo.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -54044,8 +54044,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "CorpusComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -54055,8 +54055,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -54066,8 +54066,8 @@
         "codexSecret": false,
         "itemCount": 250,
         "imageName": "ComponentConcentratedGas.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -54078,8 +54078,8 @@
         "codexSecret": false,
         "itemCount": 8750,
         "imageName": "ComponentNanospores.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -54314,8 +54314,8 @@
         "codexSecret": false,
         "itemCount": 1500,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -54326,8 +54326,8 @@
         "codexSecret": false,
         "itemCount": 9000,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -54337,8 +54337,8 @@
         "codexSecret": false,
         "itemCount": 4,
         "imageName": "CorpusComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -54348,8 +54348,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -54584,8 +54584,8 @@
         "codexSecret": false,
         "itemCount": 800,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -54595,8 +54595,6 @@
         "description": "Used by The Stalker, Despair throwing blades have a mono-filament edge, sharp enough to penetrate a Warframe.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Hunhow",
@@ -54622,7 +54620,9 @@
             "chance": 5.87,
             "rarity": "Uncommon"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -54631,8 +54631,8 @@
         "codexSecret": false,
         "itemCount": 5000,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -54642,8 +54642,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentMorphic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -54654,8 +54654,8 @@
         "codexSecret": false,
         "itemCount": 4500,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -54915,7 +54915,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Zanuka Hunter",
@@ -54924,6 +54923,7 @@
             "rarity": "Uncommon"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -54932,8 +54932,6 @@
         "description": "The sleek lines of the Detron conceal its ferocious nature. The hand cannon's semi-automatic action takes down enemies with speed and efficiency.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Zanuka Hunter",
@@ -54941,7 +54939,9 @@
             "chance": 17.65,
             "rarity": "Uncommon"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -54950,8 +54950,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -54962,7 +54962,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Zanuka Hunter",
@@ -54971,6 +54970,7 @@
             "rarity": "Uncommon"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -55480,7 +55480,6 @@
           "true": 0
         },
         "imageName": "Cestra.png",
-        "tradable": false,
         "drops": [
           {
             "location": "The Perrin Sequence, Partner",
@@ -55489,6 +55488,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -55558,7 +55558,6 @@
           "true": 0
         },
         "imageName": "Cestra.png",
-        "tradable": false,
         "drops": [
           {
             "location": "The Perrin Sequence, Partner",
@@ -55567,6 +55566,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -55576,8 +55576,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "CorpusComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -55587,8 +55587,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -55927,8 +55927,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -55938,8 +55938,8 @@
         "codexSecret": false,
         "itemCount": 4,
         "imageName": "InfestedComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -55949,8 +55949,8 @@
         "codexSecret": false,
         "itemCount": 6500,
         "imageName": "ComponentNanospores.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -55961,8 +55961,8 @@
         "codexSecret": false,
         "itemCount": 1100,
         "imageName": "ComponentPlastids.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -56361,8 +56361,8 @@
         "codexSecret": false,
         "itemCount": 1200,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -56373,8 +56373,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -56384,8 +56384,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "InfestedComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -56395,8 +56395,8 @@
         "codexSecret": false,
         "itemCount": 15000,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -56637,7 +56637,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Void Storm (Earth)",
@@ -56658,6 +56657,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": true,
         "masterable": false
       },
       {
@@ -56666,8 +56666,6 @@
         "description": "Sevagoth's wrist-mounted sidearm fires a chilling slow-moving slab, guaranteed to slow enemies for easier marksmanship. Charge the shot to fire a punishing high-velocity, high critical chance slab that punches through barriers. Deals additional headshot damage in Sevagoth's hands.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
         "drops": [
           {
             "location": "Void Storm (Earth)",
@@ -56687,7 +56685,9 @@
             "chance": 9.52,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -56696,8 +56696,8 @@
         "codexSecret": false,
         "itemCount": 7,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -56708,7 +56708,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Void Storm (Earth)",
@@ -56729,6 +56728,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": true,
         "masterable": false
       }
     ],
@@ -56948,7 +56948,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi P8 Relic",
@@ -57119,6 +57118,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeDBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -57129,9 +57129,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Axi A19 Relic (Radiant)",
@@ -57357,7 +57354,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionYareliPrimeBBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -57366,8 +57366,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -57379,7 +57379,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith E2 Relic (Radiant)",
@@ -57494,6 +57493,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       }
@@ -57656,7 +57656,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith M7 Relic",
@@ -57771,6 +57770,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMiragePrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -57781,9 +57781,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Axi B1 Relic (Radiant)",
@@ -58037,7 +58034,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionZBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -58046,8 +58046,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -58059,7 +58059,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi E2 Relic (Radiant)",
@@ -58118,6 +58117,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionBansheeMirageVaultABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       }
@@ -58391,8 +58391,8 @@
         "codexSecret": false,
         "itemCount": 300,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -58402,8 +58402,6 @@
         "description": "The Furis delivers a high damage output in a short time frame thanks to its high rate of fire.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Duviri/Endless: Tier 6 (Normal)",
@@ -58411,7 +58409,9 @@
             "chance": 1.03,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -58420,8 +58420,8 @@
         "codexSecret": false,
         "itemCount": 750,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -58431,8 +58431,8 @@
         "codexSecret": false,
         "itemCount": 4,
         "imageName": "ComponentNeurode.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -58442,8 +58442,8 @@
         "codexSecret": false,
         "itemCount": 400,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -58768,8 +58768,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "Alertium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -58779,8 +58779,8 @@
         "codexSecret": false,
         "itemCount": 1350,
         "imageName": "PolymerBundle.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -58791,8 +58791,8 @@
         "codexSecret": false,
         "itemCount": 2950,
         "imageName": "ComponentRubedo.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -58803,8 +58803,8 @@
         "codexSecret": false,
         "itemCount": 10000,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -58969,8 +58969,8 @@
         "codexSecret": false,
         "itemCount": 2500,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -58981,8 +58981,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ArgonCrystal.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -58992,8 +58992,6 @@
         "description": "Designed to quickly vaporize minerals for content analysis, users discovered its powerful beam was equally efficient at dispatching hostiles.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Duviri/Endless: Tier 6 (Normal)",
@@ -59001,7 +58999,9 @@
             "chance": 1.03,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
@@ -59010,8 +59010,8 @@
         "codexSecret": false,
         "itemCount": 400,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -59022,8 +59022,8 @@
         "codexSecret": false,
         "itemCount": 650,
         "imageName": "ComponentPlastids.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -59574,7 +59574,6 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "EntratiLabDogTagRare.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Deimos/Albrecht's Laboratories (Level  115 - 120 Entrati Lab Bounty), Rotation C",
@@ -59583,6 +59582,7 @@
             "rarity": "Uncommon"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -59592,7 +59592,6 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ZarimanMiscItemB.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Entrati Netracell Coffer",
@@ -59667,6 +59666,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -59676,7 +59676,6 @@
         "codexSecret": false,
         "itemCount": 2000,
         "imageName": "EntratiLabMiscItemA.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Deimos/Cambire (Alchemy), Rotation A",
@@ -59715,6 +59714,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -59724,7 +59724,6 @@
         "codexSecret": false,
         "itemCount": 50,
         "imageName": "EntratiLabMiscItemB.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Deimos/Effervo (Assassination)",
@@ -59763,6 +59762,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -59933,8 +59933,6 @@
         "description": "As an alternative to Kunai, these Tenno throwing stars do cause less Damage but they come with expanded Ammo Capacity and a higher Fire Rate.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Duviri/Endless: Tier 6 (Normal)",
@@ -59942,7 +59940,9 @@
             "chance": 1.03,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
@@ -59951,8 +59951,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "ComponentMorphic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -59963,8 +59963,8 @@
         "codexSecret": false,
         "itemCount": 500,
         "imageName": "ComponentPlastids.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -59975,8 +59975,8 @@
         "codexSecret": false,
         "itemCount": 600,
         "imageName": "ComponentRubedo.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -59987,8 +59987,8 @@
         "codexSecret": false,
         "itemCount": 4000,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -60275,9 +60275,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Axi S8 Relic (Radiant)",
@@ -60391,7 +60388,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionRhinoNyxVaultABronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -60400,8 +60400,8 @@
         "codexSecret": false,
         "itemCount": 8,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -60413,7 +60413,6 @@
         "primeSellingPrice": 15,
         "itemCount": 2,
         "imageName": "GenericComponentPrimeLatch.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi K1 Relic (Radiant)",
@@ -60528,6 +60527,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionRhinoNyxVaultABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -60539,7 +60539,6 @@
         "primeSellingPrice": 15,
         "itemCount": 2,
         "imageName": "GenericWeaponPrimeBlade.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi S3 Relic (Radiant)",
@@ -60654,6 +60653,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionCBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       }
@@ -60934,8 +60934,8 @@
         "codexSecret": false,
         "itemCount": 15,
         "imageName": "ControlModule.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -60946,8 +60946,8 @@
         "codexSecret": false,
         "itemCount": 9750,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -61017,7 +61017,6 @@
           "true": 0
         },
         "imageName": "Viper.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Corrupted Crewman",
@@ -61038,6 +61037,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -61305,7 +61305,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi G13 Relic (Radiant)",
@@ -61532,6 +61531,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionKhoraPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -61542,9 +61542,6 @@
         "itemCount": 1,
         "primeSellingPrice": 45,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 45,
         "drops": [
           {
             "location": "Axi B7 Relic",
@@ -61686,7 +61683,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGrendelPrimeCBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 45
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -61695,8 +61695,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -61708,7 +61708,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith H6 Relic (Radiant)",
@@ -61879,6 +61878,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGarudaKhoraVaultABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       }
@@ -62065,8 +62065,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ArgonCrystal.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -62087,8 +62087,8 @@
         "codexSecret": false,
         "itemCount": 3800,
         "imageName": "ComponentCryotic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -62099,8 +62099,8 @@
         "codexSecret": false,
         "itemCount": 5200,
         "imageName": "ComponentRubedo.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -62111,8 +62111,8 @@
         "codexSecret": false,
         "itemCount": 20000,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -62348,7 +62348,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi K10 Relic (Radiant)",
@@ -62547,6 +62546,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionHarrowPrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       },
@@ -62557,9 +62557,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Axi B5 Relic (Radiant)",
@@ -62785,7 +62782,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionKhoraPrimeCBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -62794,8 +62794,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -62807,7 +62807,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith K10 Relic (Radiant)",
@@ -63034,6 +63033,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionWispPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       }
@@ -63175,8 +63175,6 @@
         "description": "Like the larger Kohm, this hand-shotgun doubles its volley with each successive shot.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Kela De Thaym",
@@ -63184,7 +63182,9 @@
             "chance": 25,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Research/ChemComponent",
@@ -63193,8 +63193,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "GrineerComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -63204,8 +63204,8 @@
         "codexSecret": false,
         "itemCount": 5000,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -63215,8 +63215,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -63226,8 +63226,8 @@
         "codexSecret": false,
         "itemCount": 5000,
         "imageName": "ComponentPlastids.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -63455,7 +63455,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Ventkids, Logical",
@@ -63464,6 +63463,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -63472,8 +63472,6 @@
         "description": "Launch a volley of virulent, hyper-pressurized, water globules that envelope targets and explode with torrential force. Yareli's signature pistol.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Ventkids, Logical",
@@ -63481,7 +63479,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -63490,8 +63490,8 @@
         "codexSecret": false,
         "itemCount": 3,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -63502,7 +63502,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Ventkids, Logical",
@@ -63511,6 +63510,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -63735,7 +63735,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith K12 Relic (Radiant)",
@@ -63794,6 +63793,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionYareliPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       },
@@ -63804,9 +63804,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Axi Y2 Relic (Radiant)",
@@ -63948,7 +63945,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeCBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -63957,8 +63957,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -63970,7 +63970,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A20 Relic",
@@ -64085,6 +64084,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeEBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       }
@@ -64233,8 +64233,8 @@
         "codexSecret": false,
         "itemCount": 200,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -64244,8 +64244,6 @@
         "description": "The Kraken is a heavy pistol of Grineer design that fires two quick shots with a single pull of the trigger. Skilled marksmen will appreciate the value in this deadly accurate weapon.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Duviri/Endless: Tier 6 (Normal)",
@@ -64253,7 +64251,9 @@
             "chance": 1.03,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
@@ -64262,8 +64262,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentNeurode.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -64273,8 +64273,8 @@
         "codexSecret": false,
         "itemCount": 120,
         "imageName": "PolymerBundle.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -64285,8 +64285,8 @@
         "codexSecret": false,
         "itemCount": 750,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -64527,8 +64527,8 @@
         "codexSecret": false,
         "itemCount": 4800,
         "imageName": "ComponentCryotic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -64599,7 +64599,6 @@
           "true": 0
         },
         "imageName": "Kraken.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Duviri/Endless: Tier 6 (Normal)",
@@ -64620,6 +64619,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -64629,8 +64629,8 @@
         "codexSecret": false,
         "itemCount": 3600,
         "imageName": "ComponentPlastids.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -64641,8 +64641,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "Tellurium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -64914,8 +64914,6 @@
         "description": "Kunai throwing daggers offer a silent alternative to the traditional side arm. Perfect for assassins.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Duviri/Endless: Tier 6 (Normal)",
@@ -64923,7 +64921,9 @@
             "chance": 1.03,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -64932,8 +64932,8 @@
         "codexSecret": false,
         "itemCount": 3000,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -64943,8 +64943,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "ComponentMorphic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -64955,8 +64955,8 @@
         "codexSecret": false,
         "itemCount": 4000,
         "imageName": "ComponentNanospores.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -64967,8 +64967,8 @@
         "codexSecret": false,
         "itemCount": 4000,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -66041,8 +66041,6 @@
         "description": "During parades and victory marches, the Laetum fired pigmented airburst rounds that rained onto festive crowds. The Orokin sent Laetum with the Zariman so they could properly celebrate a successful maiden voyage to Tau. There would be no such celebration, but the Void imbued the Laetum with a much more explosive capacity.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "The Holdfasts (Cavalero), Neutral",
@@ -66050,7 +66048,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -66059,8 +66059,8 @@
         "codexSecret": false,
         "itemCount": 4000,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -66070,8 +66070,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "ZarimanMiscItemA.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -66768,7 +66768,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Elite Sanctuary Onslaught, Rotation A",
@@ -66789,6 +66788,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": true,
         "masterable": false
       },
       {
@@ -66797,8 +66797,6 @@
         "description": "A special version of the standard Lato pistol with a slower Fire Rate but offering higher Accuracy and Damage values. The Lato Vandal has been customized by the Tenno with a blue-green metallic finish and Lotus branding on the grips.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
         "drops": [
           {
             "location": "Elite Sanctuary Onslaught, Rotation A",
@@ -66818,7 +66816,9 @@
             "chance": 3.16,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LatoVandalReceiver",
@@ -66827,7 +66827,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Elite Sanctuary Onslaught, Rotation A",
@@ -66848,6 +66847,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": true,
         "masterable": false
       }
     ],
@@ -67043,7 +67043,6 @@
     },
     "imageName": "Lex.png",
     "category": "Secondary",
-    "tradable": false,
     "drops": [
       {
         "location": "Conclave, Typhoon",
@@ -67052,6 +67051,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": false,
     "patchlogs": [
       {
         "name": "Veilbreaker: Hotfix 32.0.3",
@@ -67356,7 +67356,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A2 Relic (Radiant)",
@@ -68619,6 +68618,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionIvaraPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -68629,9 +68629,6 @@
         "itemCount": 1,
         "primeSellingPrice": 25,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 25,
         "drops": [
           {
             "location": "Axi A2 Relic",
@@ -69809,7 +69806,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMesaPrimeABronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 25
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -69818,8 +69818,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -69831,7 +69831,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A2 Relic (Radiant)",
@@ -71010,6 +71009,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeDBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       }
@@ -71273,8 +71273,8 @@
         "codexSecret": false,
         "itemCount": 400,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -71295,8 +71295,8 @@
         "codexSecret": false,
         "itemCount": 100,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -71306,8 +71306,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -71318,8 +71318,8 @@
         "codexSecret": false,
         "itemCount": 900,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -71539,7 +71539,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi M2 Relic (Radiant)",
@@ -71654,6 +71653,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGarudaPrimeCBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       },
@@ -71664,9 +71664,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Axi C7 Relic (Radiant)",
@@ -71948,7 +71945,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionHarrowPrimeBBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -71957,8 +71957,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -71970,7 +71970,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi M5 Relic",
@@ -72197,6 +72196,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNidusPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       }
@@ -72505,8 +72505,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "GrineerComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -72516,8 +72516,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -72527,8 +72527,8 @@
         "codexSecret": false,
         "itemCount": 5000,
         "imageName": "PolymerBundle.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -72539,8 +72539,8 @@
         "codexSecret": false,
         "itemCount": 5000,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -73046,8 +73046,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "GrineerComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -73057,8 +73057,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -73068,8 +73068,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentMorphic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -73080,8 +73080,8 @@
         "codexSecret": false,
         "itemCount": 5500,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -73353,8 +73353,8 @@
         "codexSecret": false,
         "itemCount": 20,
         "imageName": "FishPartSaganModule.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -73364,8 +73364,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "CorpusComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -73375,8 +73375,8 @@
         "codexSecret": false,
         "itemCount": 40,
         "imageName": "Coolant.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -73386,8 +73386,8 @@
         "codexSecret": false,
         "itemCount": 55,
         "imageName": "SolarisUncommonOreAAlloy.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -73562,8 +73562,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ArgonCrystal.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -73573,8 +73573,6 @@
         "description": "Albrecht's Void experiments revealed the true destructive potential of this weapon. In Incarnon form, draw in ambient power to deal steadily increased damage to enemies. At full power, release a blast of <DT_FIRE_COLOR>Heat.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Deimos/Armatus (Disruption), Rotation B",
@@ -73582,7 +73580,9 @@
             "chance": 5,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB",
@@ -73591,8 +73591,8 @@
         "codexSecret": false,
         "itemCount": 6,
         "imageName": "ZarimanMiscItemB.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -73602,8 +73602,8 @@
         "codexSecret": false,
         "itemCount": 400,
         "imageName": "EntratiLabMiscItemB.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -73613,8 +73613,8 @@
         "codexSecret": false,
         "itemCount": 3000,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -73782,8 +73782,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ArgonCrystal.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -73804,8 +73804,8 @@
         "codexSecret": false,
         "itemCount": 4500,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -73816,8 +73816,8 @@
         "codexSecret": false,
         "itemCount": 5500,
         "imageName": "ComponentCryotic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -73828,8 +73828,8 @@
         "codexSecret": false,
         "itemCount": 25000,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -74078,7 +74078,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi C6 Relic",
@@ -74277,6 +74276,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaOctaviaVaultABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -74287,9 +74287,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Axi N9 Relic (Radiant)",
@@ -74487,7 +74484,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionKhoraPrimeBBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -74496,8 +74496,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -74509,7 +74509,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi P5 Relic (Radiant)",
@@ -74652,6 +74651,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionHarrowPrimeCBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       }
@@ -74820,8 +74820,8 @@
         "codexSecret": false,
         "itemCount": 4375,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -74832,8 +74832,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ArgonCrystal.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -74854,8 +74854,8 @@
         "codexSecret": false,
         "itemCount": 575,
         "imageName": "ComponentCryotic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -74866,8 +74866,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "CorpusWidgetA.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -75051,8 +75051,8 @@
         "codexSecret": false,
         "itemCount": 4,
         "imageName": "InfestedComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -75062,8 +75062,8 @@
         "codexSecret": false,
         "itemCount": 6500,
         "imageName": "ComponentNanospores.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -75074,8 +75074,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "Alertium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -75085,8 +75085,8 @@
         "codexSecret": false,
         "itemCount": 1200,
         "imageName": "ComponentRubedo.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -75672,8 +75672,8 @@
         "codexSecret": false,
         "itemCount": 200,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -75694,8 +75694,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ControlModule.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -75706,8 +75706,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -75717,8 +75717,8 @@
         "codexSecret": false,
         "itemCount": 800,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -75940,7 +75940,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A8 Relic (Radiant)",
@@ -76195,6 +76194,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeCBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -76205,9 +76205,6 @@
         "itemCount": 1,
         "primeSellingPrice": 100,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 100,
         "drops": [
           {
             "location": "Axi P1 Relic (Radiant)",
@@ -76433,7 +76430,10 @@
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboTrinityVaultABronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 100
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -76442,8 +76442,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -76455,7 +76455,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi C3 Relic",
@@ -76654,6 +76653,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMesaPrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       }
@@ -76847,8 +76847,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ArgonCrystal.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -76869,8 +76869,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "ComponentNeurode.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -76880,8 +76880,8 @@
         "codexSecret": false,
         "itemCount": 4200,
         "imageName": "ComponentRubedo.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -76892,8 +76892,8 @@
         "codexSecret": false,
         "itemCount": 12750,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -77119,7 +77119,6 @@
     },
     "imageName": "RaktaBallistica.png",
     "category": "Secondary",
-    "tradable": true,
     "drops": [
       {
         "location": "Red Veil, Exalted",
@@ -77128,6 +77127,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Empyrean: Update 27",
@@ -77315,7 +77315,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Höllvania/Solstice Square (Defense), Rotation A",
@@ -77336,6 +77335,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -77344,8 +77344,6 @@
         "description": "Never stop fighting, never run out of ammo. Temple's signature machine pistol was modified by Albrecht Entrati to warp fired bullets back into the magazine when reloaded.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Höllvania/Solstice Square (Defense), Rotation A",
@@ -77365,7 +77363,9 @@
             "chance": 4.58,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -77374,8 +77374,8 @@
         "codexSecret": false,
         "itemCount": 3,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -77386,7 +77386,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Höllvania/Solstice Square (Defense), Rotation A",
@@ -77407,6 +77406,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -77417,7 +77417,6 @@
         "excludeFromCodex": true,
         "itemCount": 1,
         "imageName": "GenericGunStock.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Höllvania/Solstice Square (Defense), Rotation A",
@@ -77438,6 +77437,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -77579,7 +77579,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Dark Refractory, Deimos/Recall: Dactolyst (The Perita Rebellion), Rotation A",
@@ -77606,6 +77605,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -77614,8 +77614,6 @@
         "description": "The sidearm of choice for Prime Grineer warriors, Sagek Prime blends Grineer brutality with Orokin aesthetics. When Sagek Prime inflicts a critical hit, its next shot has a chance to gain significant Status Chance.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
         "drops": [
           {
             "location": "Dark Refractory, Deimos/Recall: Dactolyst (The Perita Rebellion), Rotation A",
@@ -77641,7 +77639,9 @@
             "chance": 5.71,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -77650,8 +77650,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -77662,7 +77662,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Dark Refractory, Deimos/Recall: Dactolyst (The Perita Rebellion), Rotation A",
@@ -77689,6 +77688,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -77831,7 +77831,6 @@
     },
     "imageName": "SanctiCastanas.png",
     "category": "Secondary",
-    "tradable": true,
     "drops": [
       {
         "location": "New Loka, Flawless",
@@ -77840,6 +77839,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 32.2.0: Lua’s Prey",
@@ -78010,7 +78010,6 @@
         "excludeFromCodex": true,
         "itemCount": 2,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Duviri Murmur Invasion Rewards (Steel Path), Rotation A",
@@ -78025,6 +78024,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -78033,8 +78033,6 @@
         "description": "Go on the hunt with Oraxia’s signature secondary. Fling a volley of toxin-laced barbs, or drop a cluster snare that scatters on impact, seizing nearby enemies and dragging them together.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Duviri Murmur Invasion Rewards (Steel Path), Rotation A",
@@ -78048,7 +78046,9 @@
             "chance": 7.69,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ScyotidGauntlet",
@@ -78058,7 +78058,6 @@
         "excludeFromCodex": true,
         "itemCount": 2,
         "imageName": "GenericWeaponBlade.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Duviri Murmur Invasion Rewards (Steel Path), Rotation A",
@@ -78073,6 +78072,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -78082,8 +78082,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -78234,7 +78234,6 @@
     },
     "imageName": "SecuraDualCestra.png",
     "category": "Secondary",
-    "tradable": true,
     "drops": [
       {
         "location": "The Perrin Sequence, Partner",
@@ -78243,6 +78242,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Update 19.5",
@@ -78375,7 +78375,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Mercury/Tolstoj (Assassination)",
@@ -78384,6 +78383,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -78392,8 +78392,6 @@
         "description": "Captain Vor's prized Orokin-Grineer hybrid pistol has an average rate of fire, but it has high damage and superior zoom capabilities.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Mercury/Tolstoj (Assassination)",
@@ -78401,7 +78399,9 @@
             "chance": 38.72,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -78410,8 +78410,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -78422,7 +78422,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Mercury/Tolstoj (Assassination)",
@@ -78431,6 +78430,7 @@
             "rarity": "Uncommon"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -78654,7 +78654,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Entrati (Father), Acquaintance",
@@ -78663,6 +78662,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -78671,8 +78671,6 @@
         "description": "An ancient weapon designed by the Entrati. Primary fire siphons life essence from the target to fuel a devastating secondary fire. This large, weighty double-barreled pistol delivers twin projectiles that pack a punch, exploding on impact. Secondary fire puts the weapon in lock-on mode. Aim to lock onto multiple targets, then fire to unleash homing projectiles.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Father), Acquaintance",
@@ -78680,7 +78678,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ThanotechPistolReceiver",
@@ -78689,7 +78689,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Entrati (Father), Acquaintance",
@@ -78698,6 +78697,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -79200,7 +79200,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Meso F2 Relic (Radiant)",
@@ -79287,6 +79286,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionEmberRhinoVaultABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -79297,9 +79297,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Meso B10 Relic",
@@ -79385,7 +79382,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionELFVaultABronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -79394,8 +79394,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -79407,7 +79407,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi S2 Relic (Radiant)",
@@ -79494,6 +79493,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionQBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       }
@@ -79704,8 +79704,8 @@
         "codexSecret": false,
         "itemCount": 6500,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -79716,8 +79716,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ArgonCrystal.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -79727,8 +79727,6 @@
         "description": "Blasts targets with a massive wave of sonic energy. Results reported to be: 'Very Satisfying'.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Duviri/Endless: Tier 6 (Normal)",
@@ -79736,7 +79734,9 @@
             "chance": 1.03,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
@@ -79745,8 +79745,8 @@
         "codexSecret": false,
         "itemCount": 600,
         "imageName": "ComponentOxium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -79757,8 +79757,8 @@
         "codexSecret": false,
         "itemCount": 2600,
         "imageName": "ComponentPlastids.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -80075,8 +80075,8 @@
         "codexSecret": false,
         "itemCount": 700,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -80087,8 +80087,8 @@
         "codexSecret": false,
         "itemCount": 5000,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -80098,8 +80098,8 @@
         "codexSecret": false,
         "itemCount": 3,
         "imageName": "CorpusComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -80109,8 +80109,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -80492,7 +80492,6 @@
         "codexSecret": true,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Veil Proxima/Flexa (Caches), Rotation B",
@@ -80519,6 +80518,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": true,
         "masterable": false
       },
       {
@@ -80527,8 +80527,6 @@
         "description": "A special-order Corpus cutting tool for master crafters only. Features distinctive azurite plating and a focusing crystal of precision clarity and cut.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
         "drops": [
           {
             "location": "Veil Proxima/Flexa (Caches), Rotation B",
@@ -80554,7 +80552,9 @@
             "chance": 8.7,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpectraVandalChassis",
@@ -80563,7 +80563,6 @@
         "codexSecret": true,
         "itemCount": 1,
         "imageName": "GenericGunStock.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Veil Proxima/Flexa (Caches), Rotation B",
@@ -80590,6 +80589,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": true,
         "masterable": false
       },
       {
@@ -80599,7 +80599,6 @@
         "codexSecret": true,
         "itemCount": 1,
         "imageName": "GenericWeaponHilt.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Veil Proxima/Flexa (Caches), Rotation B",
@@ -80626,6 +80625,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": true,
         "masterable": false
       }
     ],
@@ -80777,8 +80777,8 @@
         "codexSecret": false,
         "itemCount": 2500,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -80788,8 +80788,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "ComponentGallium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -80800,8 +80800,8 @@
         "codexSecret": false,
         "itemCount": 800,
         "imageName": "ComponentPlastids.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -80812,8 +80812,8 @@
         "codexSecret": false,
         "itemCount": 4000,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -81163,7 +81163,6 @@
         "primeSellingPrice": 65,
         "itemCount": 2,
         "imageName": "GenericWeaponPrimeBlade.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith S5 Relic (Radiant)",
@@ -81334,6 +81333,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 65
       },
@@ -81344,9 +81344,6 @@
         "itemCount": 1,
         "primeSellingPrice": 15,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 15,
         "drops": [
           {
             "location": "Lith C5 Relic (Radiant)",
@@ -81600,7 +81597,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionSarynValkyrVaultABronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 15
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -81609,8 +81609,8 @@
         "codexSecret": false,
         "itemCount": 8,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -81622,7 +81622,6 @@
         "primeSellingPrice": 100,
         "itemCount": 2,
         "imageName": "GenericComponentPrimeLatch.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi S5 Relic (Radiant)",
@@ -81849,6 +81848,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionHydroidPrimeBBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       }
@@ -82047,8 +82047,8 @@
         "codexSecret": false,
         "itemCount": 6000,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -82069,8 +82069,8 @@
         "codexSecret": false,
         "itemCount": 9000,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -82080,8 +82080,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "CorpusComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -82091,8 +82091,8 @@
         "codexSecret": false,
         "itemCount": 3,
         "imageName": "Alertium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -82483,8 +82483,6 @@
         "description": "Inflict rapid-fire bursts of pain with this Grineer submachine gun.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A",
@@ -82510,7 +82508,9 @@
             "chance": 50,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreBAlloyBItem",
@@ -82519,8 +82519,8 @@
         "codexSecret": false,
         "itemCount": 25,
         "imageName": "CommonOreBAlloyA.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -82530,8 +82530,8 @@
         "codexSecret": false,
         "itemCount": 4485,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -82541,8 +82541,8 @@
         "codexSecret": false,
         "itemCount": 45,
         "imageName": "Grokdrul.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -82552,8 +82552,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentNeurode.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -82730,8 +82730,8 @@
         "codexSecret": false,
         "itemCount": 1200,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -82741,8 +82741,6 @@
         "description": "Firing a sticky, toxic, explosive compound, the Stug Gel Gun offers multiple ejection modes, delivering maximum damage in all situations.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Duviri/Endless: Tier 6 (Normal)",
@@ -82750,7 +82748,9 @@
             "chance": 1.03,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
@@ -82759,8 +82759,8 @@
         "codexSecret": false,
         "itemCount": 4,
         "imageName": "ComponentGallium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -82771,8 +82771,8 @@
         "codexSecret": false,
         "itemCount": 3,
         "imageName": "ComponentNeurode.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -82782,8 +82782,8 @@
         "codexSecret": false,
         "itemCount": 3000,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -83158,7 +83158,6 @@
     },
     "imageName": "SynoidGammacor.png",
     "category": "Secondary",
-    "tradable": true,
     "drops": [
       {
         "location": "Cephalon Suda, Genius",
@@ -83167,6 +83166,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Empyrean: Update 27",
@@ -83382,8 +83382,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ControlModule.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -83394,8 +83394,8 @@
         "codexSecret": false,
         "itemCount": 1500,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -83405,8 +83405,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -83416,8 +83416,8 @@
         "codexSecret": false,
         "itemCount": 1200,
         "imageName": "ComponentOxium.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -83986,7 +83986,6 @@
     },
     "imageName": "TelosAkbolto.png",
     "category": "Secondary",
-    "tradable": true,
     "drops": [
       {
         "location": "Arbiters of Hexis, Maxim",
@@ -83995,6 +83994,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Empyrean: Update 27",
@@ -84968,8 +84968,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -85305,8 +85305,6 @@
         "description": "Designed as a pair, these Grineer sidearms fire projectiles at a slower rate but with greater force and accuracy.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Ceres/Exta (Assassination)",
@@ -85314,7 +85312,9 @@
             "chance": 16.67,
             "rarity": "Uncommon"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
@@ -85323,8 +85323,8 @@
         "codexSecret": false,
         "itemCount": 900,
         "imageName": "ComponentCircuits.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -85335,8 +85335,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "ComponentNeurode.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -85346,8 +85346,8 @@
         "codexSecret": false,
         "itemCount": 1200,
         "imageName": "ComponentRubedo.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -85358,8 +85358,8 @@
         "codexSecret": false,
         "itemCount": 1500,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -85570,8 +85570,6 @@
         "description": "Doubling their volley on each successive shot, the Twin Kohmaks decimate foes in seconds.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Kela De Thaym",
@@ -85579,7 +85577,9 @@
             "chance": 25,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
@@ -85588,8 +85588,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericComponent.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -85646,8 +85646,6 @@
             "description": "Like the larger Kohm, this hand-shotgun doubles its volley with each successive shot.",
             "itemCount": 1,
             "imageName": "blueprint.png",
-            "tradable": false,
-            "masterable": false,
             "drops": [
               {
                 "location": "Kela De Thaym",
@@ -85655,7 +85653,9 @@
                 "chance": 25,
                 "rarity": "Common"
               }
-            ]
+            ],
+            "tradable": false,
+            "masterable": false
           },
           {
             "uniqueName": "/Lotus/Types/Items/Research/ChemComponent",
@@ -85664,8 +85664,8 @@
             "codexSecret": false,
             "itemCount": 2,
             "imageName": "GrineerComponent.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -85675,8 +85675,8 @@
             "codexSecret": false,
             "itemCount": 5000,
             "imageName": "ComponentFerrite.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -85686,8 +85686,8 @@
             "codexSecret": false,
             "itemCount": 1,
             "imageName": "GenericComponent.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -85697,8 +85697,8 @@
             "codexSecret": false,
             "itemCount": 5000,
             "imageName": "ComponentPlastids.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           }
@@ -85786,8 +85786,6 @@
             "description": "Like the larger Kohm, this hand-shotgun doubles its volley with each successive shot.",
             "itemCount": 1,
             "imageName": "blueprint.png",
-            "tradable": false,
-            "masterable": false,
             "drops": [
               {
                 "location": "Kela De Thaym",
@@ -85795,7 +85793,9 @@
                 "chance": 25,
                 "rarity": "Common"
               }
-            ]
+            ],
+            "tradable": false,
+            "masterable": false
           },
           {
             "uniqueName": "/Lotus/Types/Items/Research/ChemComponent",
@@ -85804,8 +85804,8 @@
             "codexSecret": false,
             "itemCount": 2,
             "imageName": "GrineerComponent.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -85815,8 +85815,8 @@
             "codexSecret": false,
             "itemCount": 5000,
             "imageName": "ComponentFerrite.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -85826,8 +85826,8 @@
             "codexSecret": false,
             "itemCount": 1,
             "imageName": "GenericComponent.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false
           },
           {
@@ -85837,8 +85837,8 @@
             "codexSecret": false,
             "itemCount": 5000,
             "imageName": "ComponentPlastids.png",
-            "tradable": false,
             "drops": [],
+            "tradable": false,
             "masterable": false,
             "type": "Resource"
           }
@@ -86055,8 +86055,8 @@
         "codexSecret": false,
         "itemCount": 2600,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -86067,8 +86067,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ArgonCrystal.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -86089,8 +86089,8 @@
         "codexSecret": false,
         "itemCount": 15000,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -86100,8 +86100,8 @@
         "codexSecret": false,
         "itemCount": 1600,
         "imageName": "Kuva.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -86298,8 +86298,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -86370,7 +86370,6 @@
           "true": 0
         },
         "imageName": "Viper.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Corrupted Crewman",
@@ -86391,6 +86390,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -86460,7 +86460,6 @@
           "true": 0
         },
         "imageName": "Viper.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Corrupted Crewman",
@@ -86481,6 +86480,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -86828,8 +86828,8 @@
         "codexSecret": false,
         "itemCount": 900,
         "imageName": "ComponentNanospores.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -86840,8 +86840,8 @@
         "codexSecret": false,
         "itemCount": 2,
         "imageName": "ComponentNeurode.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -86851,8 +86851,8 @@
         "codexSecret": false,
         "itemCount": 400,
         "imageName": "ComponentPlastids.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -86863,8 +86863,8 @@
         "codexSecret": false,
         "itemCount": 100,
         "imageName": "PolymerBundle.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -87069,8 +87069,8 @@
         "codexSecret": false,
         "itemCount": 1200,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -87091,8 +87091,8 @@
         "codexSecret": false,
         "itemCount": 700,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -87102,8 +87102,8 @@
         "codexSecret": false,
         "itemCount": 4,
         "imageName": "ComponentNeurode.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -87113,8 +87113,8 @@
         "codexSecret": false,
         "itemCount": 1000,
         "imageName": "PolymerBundle.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -87368,7 +87368,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A5 Relic (Radiant)",
@@ -87679,6 +87678,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionDBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -87689,9 +87689,6 @@
         "itemCount": 1,
         "primeSellingPrice": 45,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 45,
         "drops": [
           {
             "location": "Axi A5 Relic",
@@ -87945,7 +87942,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 45
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -87954,8 +87954,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -87967,7 +87967,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A5 Relic (Radiant)",
@@ -88250,6 +88249,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaOctaviaVaultABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       }
@@ -88470,7 +88470,6 @@
     },
     "imageName": "VaykorMarelok.png",
     "category": "Secondary",
-    "tradable": true,
     "drops": [
       {
         "location": "Steel Meridian, General",
@@ -88479,6 +88478,7 @@
         "rarity": "Common"
       }
     ],
+    "tradable": true,
     "patchlogs": [
       {
         "name": "Empyrean: Update 27",
@@ -88618,7 +88618,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Granum Void, Rotation C",
@@ -88627,6 +88626,7 @@
             "rarity": "Uncommon"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -88646,8 +88646,8 @@
         "codexSecret": false,
         "itemCount": 3,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -88658,7 +88658,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Extended Granum Void, Rotation C",
@@ -88667,6 +88666,7 @@
             "rarity": "Uncommon"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -88815,7 +88815,6 @@
         "primeSellingPrice": 100,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi V12 Relic (Radiant)",
@@ -88958,6 +88957,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaPrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 100
       },
@@ -88968,9 +88968,6 @@
         "itemCount": 1,
         "primeSellingPrice": 45,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 45,
         "drops": [
           {
             "location": "Axi F2 Relic",
@@ -89140,7 +89137,10 @@
             "rarity": "Uncommon",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionYareliPrimeBBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 45
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -89149,8 +89149,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -89162,7 +89162,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A20 Relic (Radiant)",
@@ -89361,6 +89360,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       }
@@ -89492,7 +89492,6 @@
         "excludeFromCodex": true,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation A",
@@ -89537,6 +89536,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -89545,8 +89545,6 @@
         "description": "A true masterpiece of Höllvanian engineering, Vesper 77's advanced laser sight highlights enemy Weak Points with precision. Aim to increase its Critical Damage Multiplier.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Höllvania (Level  85 - 90 WF1999 Bounty), Rotation C",
@@ -89554,7 +89552,9 @@
             "chance": 3.7,
             "rarity": "Rare"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolStock",
@@ -89564,7 +89564,6 @@
         "excludeFromCodex": true,
         "itemCount": 1,
         "imageName": "GenericGunStock.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation A",
@@ -89609,6 +89608,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -89619,7 +89619,6 @@
         "excludeFromCodex": true,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Höllvania/Legacyte Harvest (Legacyte Harvest), Rotation A",
@@ -89664,6 +89663,7 @@
             "rarity": "Rare"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
@@ -89803,8 +89803,8 @@
         "codexSecret": false,
         "itemCount": 600,
         "imageName": "ComponentFerrite.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -89814,8 +89814,8 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "ComponentMorphic.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -89826,8 +89826,8 @@
         "codexSecret": false,
         "itemCount": 900,
         "imageName": "ComponentNanospores.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -89838,8 +89838,8 @@
         "codexSecret": false,
         "itemCount": 300,
         "imageName": "ComponentSalvage.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -90259,8 +90259,8 @@
         "codexSecret": false,
         "itemCount": 6500,
         "imageName": "AlloyPlate.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -90281,8 +90281,8 @@
         "codexSecret": false,
         "itemCount": 8,
         "imageName": "ControlModule.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -90293,8 +90293,8 @@
         "codexSecret": false,
         "itemCount": 5000,
         "imageName": "ComponentNanospores.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -90305,8 +90305,8 @@
         "codexSecret": false,
         "itemCount": 350,
         "imageName": "ComponentPlastids.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       }
@@ -90528,7 +90528,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Lith D4 Relic",
@@ -90755,6 +90754,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeEBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       },
@@ -90765,9 +90765,6 @@
         "itemCount": 1,
         "primeSellingPrice": 100,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 100,
         "drops": [
           {
             "location": "Axi Z1 Relic (Radiant)",
@@ -90881,7 +90878,10 @@
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionNezhaOctaviaVaultBBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 100
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -90890,8 +90890,8 @@
         "codexSecret": false,
         "itemCount": 10,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -90903,7 +90903,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi A14 Relic (Radiant)",
@@ -91158,6 +91157,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionHarrowPrimeCBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       }
@@ -91534,7 +91534,6 @@
         "primeSellingPrice": 15,
         "itemCount": 1,
         "imageName": "GenericGunPrimeBarrel.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi H8 Relic (Radiant)",
@@ -91789,6 +91788,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaPrimeABronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 15
       },
@@ -91799,9 +91799,6 @@
         "itemCount": 1,
         "primeSellingPrice": 100,
         "imageName": "blueprint.png",
-        "tradable": true,
-        "masterable": false,
-        "ducats": 100,
         "drops": [
           {
             "location": "Axi Z2 Relic (Radiant)",
@@ -91943,7 +91940,10 @@
             "rarity": "Rare",
             "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeDBronze"
           }
-        ]
+        ],
+        "tradable": true,
+        "masterable": false,
+        "ducats": 100
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -91952,8 +91952,8 @@
         "codexSecret": false,
         "itemCount": 5,
         "imageName": "ComponentCell.png",
-        "tradable": false,
         "drops": [],
+        "tradable": false,
         "masterable": false,
         "type": "Resource"
       },
@@ -91965,7 +91965,6 @@
         "primeSellingPrice": 45,
         "itemCount": 1,
         "imageName": "GenericGunPrimeReceiver.png",
-        "tradable": true,
         "drops": [
           {
             "location": "Axi G14 Relic",
@@ -92164,6 +92163,7 @@
             "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussPrimeDBronze"
           }
         ],
+        "tradable": true,
         "masterable": false,
         "ducats": 45
       }
@@ -92325,7 +92325,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunBarrel.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Entrati (Father), Stranger",
@@ -92334,6 +92333,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       },
       {
@@ -92342,8 +92342,6 @@
         "description": "Infect your foes with this spore-scattering pistol. Headshots burrow in and explode, releasing spore clouds that seek out nearby enemies.",
         "itemCount": 1,
         "imageName": "blueprint.png",
-        "tradable": false,
-        "masterable": false,
         "drops": [
           {
             "location": "Entrati (Father), Stranger",
@@ -92351,7 +92349,9 @@
             "chance": 100,
             "rarity": "Common"
           }
-        ]
+        ],
+        "tradable": false,
+        "masterable": false
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfUziWeaponReceiver",
@@ -92360,7 +92360,6 @@
         "codexSecret": false,
         "itemCount": 1,
         "imageName": "GenericGunReceiver.png",
-        "tradable": false,
         "drops": [
           {
             "location": "Entrati (Father), Stranger",
@@ -92369,6 +92368,7 @@
             "rarity": "Common"
           }
         ],
+        "tradable": false,
         "masterable": false
       }
     ],
