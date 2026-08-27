@@ -16230,7 +16230,6 @@
       "Tenno"
     ],
     "stancePolarity": "naramon",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Destreza.png?52b66",
     "wikiaUrl": "https://wiki.warframe.com/w/Destreza",
     "introduced": {
       "name": "Update 18.3",
@@ -17126,7 +17125,6 @@
       "Vaulted"
     ],
     "stancePolarity": "naramon",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DestrezaPrime.png?ad25e",
     "wikiaUrl": "https://wiki.warframe.com/w/Destreza_Prime",
     "introduced": {
       "name": "Hotfix 23.0.3",
@@ -17326,7 +17324,6 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DexDakra.png?05557",
     "wikiaUrl": "https://wiki.warframe.com/w/Dex_Dakra",
     "introduced": {
       "name": "Hotfix 16.1.2",
@@ -17474,7 +17471,6 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DexNikana.png?3e3b7",
     "wikiaUrl": "https://wiki.warframe.com/w/Dex_Nikana",
     "introduced": {
       "name": "Update 35.5",
@@ -17843,7 +17839,6 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Dorrclave.png?30250",
     "wikiaUrl": "https://wiki.warframe.com/w/Dorrclave",
     "introduced": {
       "name": "Update 34.0",
@@ -18211,7 +18206,6 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DragonNikana.png?20efa",
     "wikiaUrl": "https://wiki.warframe.com/w/Dragon_Nikana",
     "introduced": {
       "name": "Update 13.0",
@@ -33713,8 +33707,7 @@
     "marketCost": 245,
     "bpCost": 1500,
     "tags": [
-      "Grineer",
-      "Kuva Lich"
+      "Grineer"
     ],
     "stancePolarity": "naramon",
     "wikiaThumbnail": "https://wiki.warframe.com/images/Ghoulsaw.png?0ee00",
@@ -50525,7 +50518,8 @@
       "naramon"
     ],
     "tags": [
-      "Grineer"
+      "Grineer",
+      "Kuva Lich"
     ],
     "stancePolarity": "naramon",
     "wikiaThumbnail": "https://wiki.warframe.com/images/KuvaGhoulsaw.png?938a6",
@@ -93650,7 +93644,6 @@
       "Orokin"
     ],
     "stancePolarity": "vazarin",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Vitrica.png?54002",
     "wikiaUrl": "https://wiki.warframe.com/w/Vitrica",
     "introduced": {
       "name": "Update 29.3",
@@ -93923,7 +93916,6 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Volnus.png?18bd9",
     "wikiaUrl": "https://wiki.warframe.com/w/Volnus",
     "introduced": {
       "name": "Update 22.0",
@@ -94677,7 +94669,6 @@
       "Prime"
     ],
     "stancePolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/VolnusPrime.png?34775",
     "wikiaUrl": "https://wiki.warframe.com/w/Volnus_Prime",
     "introduced": {
       "name": "Update 30.3",
@@ -100078,7 +100069,6 @@
       "Sentient"
     ],
     "stancePolarity": "vazarin",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/War.png?42c4e",
     "wikiaUrl": "https://wiki.warframe.com/w/War",
     "introduced": {
       "name": "Update 18.0",
@@ -100234,7 +100224,6 @@
       "Prime"
     ],
     "stancePolarity": "vazarin",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/WarPrime.png?e3f3a",
     "wikiaUrl": "https://wiki.warframe.com/w/War_Prime",
     "introduced": {
       "name": "Update 43.0",
@@ -100549,7 +100538,6 @@
     ],
     "tags": [],
     "stancePolarity": "madurai",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/WolfSledge.png?02419",
     "wikiaUrl": "https://wiki.warframe.com/w/Wolf_Sledge",
     "introduced": {
       "name": "Update 24.3",

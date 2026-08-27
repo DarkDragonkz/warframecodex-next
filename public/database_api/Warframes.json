@@ -54644,7 +54644,7 @@
         "date": "2015-05-19T19:46:51Z",
         "url": "https://forums.warframe.com/topic/461080-hotfix-1656/",
         "additions": "",
-        "changes": "Loki��s Invisibility, when used with a Sentinel, will now give the Sentinel its proper energy color.",
+        "changes": "Loki’s Invisibility, when used with a Sentinel, will now give the Sentinel its proper energy color.",
         "fixes": ""
       },
       {
@@ -57170,7 +57170,7 @@
         "date": "2018-12-18T13:59:14Z",
         "url": "https://forums.warframe.com/topic/1044890-fortuna-the-profit-taker-update-242/",
         "additions": "",
-        "changes": "Magazine size decreased from 250 to 200.\nMagazine size decreased from 250 to 240.\nMagazine size decreased from 60 to 30.\nMagazine size decreased from 100 to 10.\nMag size increased from 45 to 48.\nIncreased Mag size from 40 to 60.\nRemoved ‘-50% Magazine Capacity’ from the Precision Munitions Mod in Conclave.",
+        "changes": "Magazine size decreased from 250 to 200.\nMagazine size decreased from 250 to 240.\nMagazine size decreased from 60 to 30.\nMagazine size decreased from 100 to 10.\nMag size increased from 45 to 48.\nIncreased Mag size from 40 to 60.\nRemoved ���-50% Magazine Capacity’ from the Precision Munitions Mod in Conclave.",
         "fixes": ""
       },
       {
@@ -101286,7 +101286,7 @@
         "url": "https://forums.warframe.com/topic/690677-the-silver-grove-hotfix-2/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed casting Titania’s Spellbind on a player while they are reloading, breaking them and their animation until they melee attack.\nFixed not being able to shoot/damage enemies upon decasting Titania��s Razorwing."
+        "fixes": "Fixed casting Titania’s Spellbind on a player while they are reloading, breaking them and their animation until they melee attack.\nFixed not being able to shoot/damage enemies upon decasting Titania’s Razorwing."
       },
       {
         "name": "The Silver Grove",
@@ -117784,7 +117784,7 @@
         "url": "https://forums.warframe.com/topic/1123841-saint-of-altra-update-2570/",
         "additions": "",
         "changes": "",
-        "fixes": "Fixed Wukong holding the wrong staff in the Market dioramas for the Wukong Samadhi Collection and Wukong Samadhi Skin.\nFixed the Wukong Samadhi Skin’s Shoulder Armor not appearing when previewing in the Arsenal.��\nFixed some ugly texture stretching on the Wukong Samadhi Iron Staff Skin in the in-game Market. \nFixed Wukong’s Celestial Twin kills not counting towards Sanctuary Onslaught efficiency."
+        "fixes": "Fixed Wukong holding the wrong staff in the Market dioramas for the Wukong Samadhi Collection and Wukong Samadhi Skin.\nFixed the Wukong Samadhi Skin’s Shoulder Armor not appearing when previewing in the Arsenal. \nFixed some ugly texture stretching on the Wukong Samadhi Iron Staff Skin in the in-game Market. \nFixed Wukong’s Celestial Twin kills not counting towards Sanctuary Onslaught efficiency."
       },
       {
         "name": "Hotfix 25.6.3",
