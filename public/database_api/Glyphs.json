@@ -1402,16 +1402,6 @@
       }
     ],
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Gara Prime: Hotfix 30.3.2",
-        "date": "2021-05-27T18:17:46Z",
-        "url": "https://forums.warframe.com/topic/1265543-gara-prime-hotfix-3032/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed inability to purchase Bonewidow In Action Glyph nor the Voidrig In Action Glyph from Loid wares in the Necraloid Syndicate."
-      }
-    ],
     "masterable": false
   },
   {
@@ -2125,16 +2115,6 @@
     "imageName": "ChromaDeluxeAvatar.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Octavia's Anthem: Update 20.1.0",
-        "date": "2017-04-05T21:08:26Z",
-        "url": "https://forums.warframe.com/topic/783215-octavias-anthem-update-2010/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Chroma Dynasty Glyph is also available!"
-      }
-    ],
     "masterable": false
   },
   {
@@ -2355,16 +2335,6 @@
       }
     ],
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Update 28: The Deadlock Protocol",
-        "date": "2020-06-11T17:29:49Z",
-        "url": "https://forums.warframe.com/topic/1199557-update-28-the-deadlock-protocol/",
-        "additions": "Common Condroc Glyph ",
-        "changes": "",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -3236,16 +3206,6 @@
     "imageName": "ConqueraGlyph.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Nights of Naberus: Hotfix 30.8.1",
-        "date": "2021-10-06T19:47:19Z",
-        "url": "https://forums.warframe.com/topic/1283279-nights-of-naberus-hotfix-3081/",
-        "additions": "",
-        "changes": "Updated the description of the 2020 Conquera Glyph.",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -4112,16 +4072,6 @@
       }
     ],
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Update 28: The Deadlock Protocol",
-        "date": "2020-06-11T17:29:49Z",
-        "url": "https://forums.warframe.com/topic/1199557-update-28-the-deadlock-protocol/",
-        "additions": "Delicate Pobber Glyph ",
-        "changes": "",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -4424,16 +4374,6 @@
     "imageName": "TowsunGlyphKavat.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Echoes of the Zariman: Update 31.6",
-        "date": "2022-06-09T14:49:52Z",
-        "url": "https://forums.warframe.com/topic/1313506-echoes-of-the-zariman-update-316/",
-        "additions": "",
-        "changes": "Dog Days Kavat Glyph",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -4446,16 +4386,6 @@
     "imageName": "TowsunGlyphKubrow.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Echoes of the Zariman: Update 31.6",
-        "date": "2022-06-09T14:49:52Z",
-        "url": "https://forums.warframe.com/topic/1313506-echoes-of-the-zariman-update-316/",
-        "additions": "",
-        "changes": "Dog Days Kubrow Glyph",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -5112,16 +5042,6 @@
     "imageName": "ModPackBlast.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Saint of Altra: Update 25.7.0",
-        "date": "2019-08-29T21:35:56Z",
-        "url": "https://forums.warframe.com/topic/1123841-saint-of-altra-update-2570/",
-        "additions": "Essential Blast Glyph",
-        "changes": "",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -5133,16 +5053,6 @@
     "imageName": "ModPackCold.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Hotfix 25.4.1 + 25.4.1.1",
-        "date": "2019-07-24T19:44:08Z",
-        "url": "https://forums.warframe.com/topic/1114367-hotfix-2541-25411/",
-        "additions": "",
-        "changes": "Essential Cold Glyph",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -5154,16 +5064,6 @@
     "imageName": "ModPackCorrosive.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Saint of Altra: Update 25.7.0",
-        "date": "2019-08-29T21:35:56Z",
-        "url": "https://forums.warframe.com/topic/1123841-saint-of-altra-update-2570/",
-        "additions": "Essential Corrosive Glyph",
-        "changes": "",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -5175,16 +5075,6 @@
     "imageName": "ModPackCriticalChance.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Hotfix 25.4.1 + 25.4.1.1",
-        "date": "2019-07-24T19:44:08Z",
-        "url": "https://forums.warframe.com/topic/1114367-hotfix-2541-25411/",
-        "additions": "",
-        "changes": "Essential Critical Glyph",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -5196,16 +5086,6 @@
     "imageName": "ModPackDamage.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Hotfix 25.4.1 + 25.4.1.1",
-        "date": "2019-07-24T19:44:08Z",
-        "url": "https://forums.warframe.com/topic/1114367-hotfix-2541-25411/",
-        "additions": "",
-        "changes": "Essential Damage Glyph",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -5217,16 +5097,6 @@
     "imageName": "ModPackElectricity.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Hotfix 25.4.1 + 25.4.1.1",
-        "date": "2019-07-24T19:44:08Z",
-        "url": "https://forums.warframe.com/topic/1114367-hotfix-2541-25411/",
-        "additions": "",
-        "changes": "Essential Electricity Glyph",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -5238,16 +5108,6 @@
     "imageName": "ModPackGas.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Saint of Altra: Update 25.7.0",
-        "date": "2019-08-29T21:35:56Z",
-        "url": "https://forums.warframe.com/topic/1123841-saint-of-altra-update-2570/",
-        "additions": "Essential Gas Glyph ",
-        "changes": "",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -5259,16 +5119,6 @@
     "imageName": "ModPackFire.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Hotfix 25.4.1 + 25.4.1.1",
-        "date": "2019-07-24T19:44:08Z",
-        "url": "https://forums.warframe.com/topic/1114367-hotfix-2541-25411/",
-        "additions": "",
-        "changes": "Essential Heat Glyph",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -5280,16 +5130,6 @@
     "imageName": "ModPackMagnetic.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Saint of Altra: Update 25.7.0",
-        "date": "2019-08-29T21:35:56Z",
-        "url": "https://forums.warframe.com/topic/1123841-saint-of-altra-update-2570/",
-        "additions": "Essential Magnetic Glyph",
-        "changes": "",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -5301,16 +5141,6 @@
     "imageName": "ModPackRadiation.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Saint of Altra: Update 25.7.0",
-        "date": "2019-08-29T21:35:56Z",
-        "url": "https://forums.warframe.com/topic/1123841-saint-of-altra-update-2570/",
-        "additions": "Essential Radiation Glyph",
-        "changes": "",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -5322,16 +5152,6 @@
     "imageName": "ModPackToxin.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Hotfix 25.4.1 + 25.4.1.1",
-        "date": "2019-07-24T19:44:08Z",
-        "url": "https://forums.warframe.com/topic/1114367-hotfix-2541-25411/",
-        "additions": "",
-        "changes": "Essential Toxin Glyph",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -5343,16 +5163,6 @@
     "imageName": "ModPackViral.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Saint of Altra: Update 25.7.0",
-        "date": "2019-08-29T21:35:56Z",
-        "url": "https://forums.warframe.com/topic/1123841-saint-of-altra-update-2570/",
-        "additions": "Essential Viral Glyph",
-        "changes": "",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -5870,24 +5680,6 @@
     "imageName": "ChineseNewYearGlyph2021.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Echoes of War: Banshee & Mirage Prime Vault: Hotfix 31.1.3",
-        "date": "2022-02-15T19:03:51Z",
-        "url": "https://forums.warframe.com/topic/1300539-echoes-of-war-banshee-mirage-prime-vault-hotfix-3113/",
-        "additions": "",
-        "changes": "The Feasting Hamster Glyph and Lunar Renewal Calligraphy Poster are also available in the in-game Market for 1 Credit!",
-        "fixes": ""
-      },
-      {
-        "name": "Call of the Tempestarii: Hotfix 30.0.7",
-        "date": "2021-04-22T17:58:13Z",
-        "url": "https://forums.warframe.com/topic/1260721-call-of-the-tempestarii-hotfix-3007/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed the Feasting Hamster Glyph being stretched vertically."
-      }
-    ],
     "masterable": false
   },
   {
@@ -6056,16 +5848,6 @@
     "imageName": "KahlGlyph.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Veilbreaker: Update 32",
-        "date": "2022-09-07T15:00:11Z",
-        "url": "https://forums.warframe.com/topic/1321162-veilbreaker-update-32/",
-        "additions": "",
-        "changes": "For My Brothers Glyph*",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -6379,16 +6161,6 @@
     "imageName": "GaraPrimeCommunityGlyph.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Update 30.5: Sisters of Parvos",
-        "date": "2021-07-06T15:02:10Z",
-        "url": "https://forums.warframe.com/topic/1269749-update-305-sisters-of-parvos/",
-        "additions": "",
-        "changes": "Gara Prime Community Glyph by SpaceWaifu",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -7127,16 +6899,6 @@
     "imageName": "LoginGlyphB.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
-        "date": "2017-12-07T22:05:21Z",
-        "url": "https://forums.warframe.com/topic/891096-plains-of-eidolon-update-2260-hotfix-22601/",
-        "additions": "Guiding Rose Glyph",
-        "changes": "",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -8458,16 +8220,6 @@
     "imageName": "KahlCommunityGlyph.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Veilbreaker: Update 32",
-        "date": "2022-09-07T15:00:11Z",
-        "url": "https://forums.warframe.com/topic/1321162-veilbreaker-update-32/",
-        "additions": "",
-        "changes": "The Styanax Community Display and Kahl-175 Community Glyph are available for purchase in the in-game Market.",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -8980,16 +8732,6 @@
     "imageName": "LotusStarterGlyph.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "The Jovian Concord: Hotfix 25.2.3",
-        "date": "2019-06-25T18:04:46Z",
-        "url": "https://forums.warframe.com/topic/1105676-the-jovian-concord-hotfix-2523/",
-        "additions": "",
-        "changes": "Kumuda Glyph (Starter Pack Exclusive) ",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -11136,16 +10878,6 @@
     "imageName": "TwitchNecraloidGlyph.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Veilbreaker: Hotfix 32.0.3",
-        "date": "2022-09-14T17:58:41Z",
-        "url": "https://forums.warframe.com/topic/1323565-veilbreaker-hotfix-3203/",
-        "additions": "",
-        "changes": "Necraloid Glyph",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -11677,16 +11409,6 @@
     "imageName": "NoraNightGlyphB.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Nora’s Mix Vol.2: Hotfix 31.6.4",
-        "date": "2022-07-14T15:00:33Z",
-        "url": "https://forums.warframe.com/topic/1316486-nora%E2%80%99s-mix-vol2-hotfix-3164/",
-        "additions": "",
-        "changes": "Nora Night Glyph Pack\nComplete your profile with a pair of Nora Night Glyphs ",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -12843,16 +12565,6 @@
     "imageName": "ProteaDeluxeAvatar.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Veilbreaker: Hotfix 32.0.2",
-        "date": "2022-09-08T21:23:22Z",
-        "url": "https://forums.warframe.com/topic/1321988-veilbreaker-hotfix-3202/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed the Protea Caladrius Glyph missing details such as her feather/fur collar."
-      }
-    ],
     "masterable": false
   },
   {
@@ -12900,16 +12612,6 @@
     "imageName": "ProteaInActionGlyph.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Update 28: The Deadlock Protocol",
-        "date": "2020-06-11T17:29:49Z",
-        "url": "https://forums.warframe.com/topic/1199557-update-28-the-deadlock-protocol/",
-        "additions": "",
-        "changes": "*Earn the Protea In Action Glyph during a limited time 72 hour weekend Alert on PC, starting Friday, June 12th @ 2 PM ET. Console will also run this Alert when The Deadlock Protocol Quest is live on their respective Platforms!",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -13407,16 +13109,6 @@
     "imageName": "RevenantGlyph.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Veilbreaker: Revenant Prime: Hotfix 32.0.9",
-        "date": "2022-10-05T17:59:06Z",
-        "url": "https://forums.warframe.com/topic/1327014-veilbreaker-revenant-prime-hotfix-3209/",
-        "additions": "",
-        "changes": "Revenant In Action Glyph",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -13671,16 +13363,6 @@
     "imageName": "YareliComicGlyph.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Nightwave: Nora’s Choice: Update 30.6.0",
-        "date": "2021-08-04T17:32:47Z",
-        "url": "https://forums.warframe.com/topic/1275793-nightwave-nora%E2%80%99s-choice-update-3060/",
-        "additions": "",
-        "changes": "Nora’s Choice brings back a slew of classic Nightwave Rewards while adding exclusive new items into the mix, like the Ride The Wave Glyph and the mesmerizing Waveform Ephemera.",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -13892,16 +13574,6 @@
       }
     ],
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Update 28: The Deadlock Protocol",
-        "date": "2020-06-11T17:29:49Z",
-        "url": "https://forums.warframe.com/topic/1199557-update-28-the-deadlock-protocol/",
-        "additions": "Sapcaddy Glyph",
-        "changes": "",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -14846,16 +14518,6 @@
     "imageName": "GlyphMuckney02.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Echoes of War: Hotfix 31.1.2",
-        "date": "2022-02-10T19:28:28Z",
-        "url": "https://forums.warframe.com/topic/1299938-echoes-of-war-hotfix-3112/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed the Solunar Glyph disappearing from the in-game Market and player inventories, as reported here: https://forums.warframe.com/topic/1299640-solunar-glyph-gone/"
-      }
-    ],
     "masterable": false
   },
   {
@@ -16951,16 +16613,6 @@
     "imageName": "ValaCommunityGlyph.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Update 30.5: Sisters of Parvos",
-        "date": "2021-07-06T15:02:10Z",
-        "url": "https://forums.warframe.com/topic/1269749-update-305-sisters-of-parvos/",
-        "additions": "",
-        "changes": "Vala Community Glyph by FrostyNovaPrime",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -17582,16 +17234,6 @@
       }
     ],
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Gara Prime: Hotfix 30.3.2",
-        "date": "2021-05-27T18:17:46Z",
-        "url": "https://forums.warframe.com/topic/1265543-gara-prime-hotfix-3032/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed inability to purchase Bonewidow In Action Glyph nor the Voidrig In Action Glyph from Loid wares in the Necraloid Syndicate."
-      }
-    ],
     "masterable": false
   },
   {
@@ -18393,16 +18035,6 @@
     "imageName": "WipsBabyGlyph.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "The Jovian Concord: Update 25",
-        "date": "2019-05-22T21:31:25Z",
-        "url": "https://forums.warframe.com/topic/1094942-the-jovian-concord-update-25/",
-        "additions": "A new ‘Wisp Motes Glyph’ can be purchased under Profile > Glyph.",
-        "changes": "",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -18591,16 +18223,6 @@
     "imageName": "WukongDeluxeAvatar.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Wukong Deluxe: Update 25.5.0 + 25.5.0.1",
-        "date": "2019-07-31T18:05:01Z",
-        "url": "https://forums.warframe.com/topic/1116515-wukong-deluxe-update-2550-25501/",
-        "additions": "New Wukong Samadhi Glyph and Wukong Samadhi In Action Glyphs are available under the Profile > Glyph section for Platinum!",
-        "changes": "",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -18613,16 +18235,6 @@
     "imageName": "VEDWukongDeluxe.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Wukong Deluxe: Update 25.5.0 + 25.5.0.1",
-        "date": "2019-07-31T18:05:01Z",
-        "url": "https://forums.warframe.com/topic/1116515-wukong-deluxe-update-2550-25501/",
-        "additions": "New Wukong Samadhi Glyph and Wukong Samadhi In Action Glyphs are available under the Profile > Glyph section for Platinum!",
-        "changes": "",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -18861,16 +18473,6 @@
     "imageName": "YareliCommunityGlyph.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Update 30.5: Sisters of Parvos",
-        "date": "2021-07-06T15:02:10Z",
-        "url": "https://forums.warframe.com/topic/1269749-update-305-sisters-of-parvos/",
-        "additions": "",
-        "changes": "Yareli Community Glyph by Joriale",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
@@ -19102,16 +18704,6 @@
     "imageName": "ZairmanGlyph.png",
     "category": "Glyphs",
     "tradable": false,
-    "patchlogs": [
-      {
-        "name": "Update 31.5: Angels of the Zariman",
-        "date": "2022-04-27T15:02:06Z",
-        "url": "https://forums.warframe.com/topic/1305880-update-315-angels-of-the-zariman/",
-        "additions": "",
-        "changes": "Zariman Glyph*\nZariman Glyph*",
-        "fixes": ""
-      }
-    ],
     "masterable": false
   },
   {
