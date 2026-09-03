@@ -6095,6 +6095,7 @@
       "date": "2013-03-18"
     },
     "marketCost": 225,
+    "bpCost": 35000,
     "polarities": [
       "madurai",
       "madurai"
@@ -17392,6 +17393,7 @@
       "date": "2023-10-18"
     },
     "marketCost": 275,
+    "bpCost": 15000,
     "polarities": [
       "madurai",
       "vazarin"
@@ -78410,6 +78412,7 @@
       "date": "2014-11-27"
     },
     "marketCost": 325,
+    "bpCost": 30000,
     "polarities": [
       "naramon",
       "naramon"
@@ -80573,6 +80576,7 @@
       "date": "2014-07-18"
     },
     "marketCost": 275,
+    "bpCost": 35000,
     "polarities": [
       "vazarin",
       "madurai"

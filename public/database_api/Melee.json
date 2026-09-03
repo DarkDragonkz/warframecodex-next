@@ -87469,6 +87469,7 @@
       }
     ],
     "marketCost": 175,
+    "bpCost": 15000,
     "polarities": [
       "naramon"
     ],
@@ -87477,6 +87478,7 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Dorrclave.png?30250",
     "wikiaUrl": "https://wiki.warframe.com/w/Dorrclave",
     "introduced": {
       "name": "Update 34.0",
@@ -88163,6 +88165,7 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/DragonNikana.png?20efa",
     "wikiaUrl": "https://wiki.warframe.com/w/Dragon_Nikana",
     "introduced": {
       "name": "Update 13.0",
@@ -140402,7 +140405,7 @@
       }
     ],
     "marketCost": 245,
-    "bpCost": 1500,
+    "bpCost": 15000,
     "tags": [
       "Grineer"
     ],
@@ -428634,6 +428637,7 @@
       "Prime"
     ],
     "stancePolarity": "vazarin",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/WarPrime.png?e3f3a",
     "wikiaUrl": "https://wiki.warframe.com/w/War_Prime",
     "introduced": {
       "name": "Update 43.0",
@@ -429089,6 +429093,7 @@
     ],
     "tags": [],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/WolfSledge.png?02419",
     "wikiaUrl": "https://wiki.warframe.com/w/Wolf_Sledge",
     "introduced": {
       "name": "Update 24.3",
