@@ -7587,7 +7587,7 @@
     "name": "Echo Voca",
     "description": "The quietest and most elusive of Voidtongue utterances. Sought after but never found by Albrecht.\n\nLocation: Albrecht's Laboratories (Deimos)",
     "codexSecret": false,
-    "itemCount": 1,
+    "itemCount": 2,
     "parents": [
       "Grimoire",
       "Mandonel",
