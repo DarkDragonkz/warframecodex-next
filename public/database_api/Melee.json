@@ -82577,6 +82577,81 @@
     "imageName": "DarkSplitSwordHybrid.png",
     "category": "Melee",
     "tradable": false,
+    "wikiAvailable": true,
+    "attacks": [
+      {
+        "name": "Normal Attack",
+        "speed": 0.917,
+        "crit_chance": 15,
+        "crit_mult": 2,
+        "status_chance": 25,
+        "damage": {
+          "slash": 52,
+          "puncture": 78,
+          "radiation": 100
+        },
+        "slide": "460",
+        "slam": {
+          "damage": "460.00",
+          "radial": {
+            "damage": "0.00",
+            "radius": 8
+          }
+        }
+      },
+      {
+        "name": "Slam Attack",
+        "speed": 0.917,
+        "crit_chance": 15,
+        "crit_mult": 2,
+        "status_chance": 10,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 8,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 460
+        }
+      },
+      {
+        "name": "Heavy Slam Attack",
+        "speed": 0.917,
+        "crit_chance": 15,
+        "crit_mult": 2,
+        "status_chance": 10,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 9,
+          "reduction": 0.3
+        },
+        "damage": {
+          "blast": 690
+        }
+      }
+    ],
+    "polarities": [
+      "madurai"
+    ],
+    "tags": [
+      "Tenno"
+    ],
+    "stancePolarity": "zenurik",
+    "wikiaUrl": "https://wiki.warframe.com/w/Dark_Split-Sword_(Heavy_Blade)",
+    "introduced": {
+      "name": "Update 18.14",
+      "url": "https://wiki.warframe.com/w/Update_18%23Update_18.14",
+      "aliases": [
+        "18.14.0",
+        "18.14"
+      ],
+      "parent": "18.14",
+      "date": "2016-06-08"
+    },
+    "disposition": 4,
+    "releaseDate": "2016-06-08",
     "isPrime": false,
     "masterable": true
   },
