@@ -12,17 +12,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/ShockwaveTitle",
-    "name": "90's Kid Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/NewWar/LisetPropFamilyPortrait",
     "name": "A Lost Time",
     "description": "A family portrait found on a shelf in a familiar Zariman cabin, it may stir memories.",
@@ -107,17 +96,6 @@
     "description": "Evokes stone scarred but not destroyed by the sea's tireless onslaught.",
     "type": "Skin",
     "imageName": "Abrasys.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleDagath",
-    "name": "Abyssal Thorn Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -3536,17 +3514,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleOraxia",
-    "name": "Along Came Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Game/NotePacks/BardCorpusPackA",
     "name": "Alpha Instruments",
     "description": "A themed instrument pack for Octavia's Mandachord.",
@@ -4385,18 +4352,6 @@
     "codexSecret": true,
     "type": "Fur Color",
     "imageName": "KavatColourTertiaryB.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/Kills100Title",
-    "name": "Angel Of Death Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -47805,18 +47760,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/HunhowHonoria/TitleSiriusOrion",
-    "name": "As One Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/EnergyScarfVoidSkin",
     "name": "Asa Phased Syandana",
     "codexSecret": false,
@@ -63308,39 +63251,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleCreditsBig",
-    "name": "Big Spender Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleCreditsBigger",
-    "name": "Bigger Spender Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleCreditsBiggest",
-    "name": "Biggest Spender Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/BirdPlush",
     "name": "Bird 3 Floof",
     "description": "'See, now your family is all together in your nest.' - Loid",
@@ -63470,17 +63380,6 @@
     "description": "A unique oculus, designed by blazingcobalt.",
     "type": "Skin",
     "imageName": "SWBlazeOculusEyepiece.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleTemple",
-    "name": "Blazing Revolutionary Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -68810,18 +68709,6 @@
     "description": "This graceful cape is the signature Syandana of Banshee Prime.",
     "type": "Skin",
     "imageName": "CapellaPrime.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MedalRank13Title",
-    "name": "Capit Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -81202,30 +81089,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleFollie",
-    "name": "Conscience Painter Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/BaruukTitle",
-    "name": "Conscientious Objector Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorDuviriWolfMid",
     "name": "Conspirator Green",
     "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
@@ -83307,18 +83170,6 @@
     "codexSecret": false,
     "type": "Emotes",
     "imageName": "DanceEmoteSideStepCross.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/FrostTitle",
-    "name": "Cryomancer Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -95736,18 +95587,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/FromOnHighTitle",
-    "name": "Death From Above Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/StalkerShoulderArmor/StalkerShoulderArmorA",
     "name": "Deathmark Shoulder Armor",
     "codexSecret": true,
@@ -96139,18 +95978,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/NewLokaTitle",
-    "name": "Defender Of The Earth Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/Emotes/DanceBarelyDancingEmote",
     "name": "Degage Narta",
     "description": "Display balance and finesse with these rhythmic movements.",
@@ -96326,17 +96153,6 @@
     "excludeFromCodex": true,
     "type": "Note Packs",
     "imageName": "SoundPackCorpusD.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleMaphica",
-    "name": "Demoness Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -98592,18 +98408,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/PerrinSequenceTitle",
-    "name": "Diplomatic Merchant Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Crowns/OrfeoSignaCrown",
     "name": "Diraeus Signa",
     "codexSecret": false,
@@ -99149,18 +98953,6 @@
     "codexSecret": false,
     "type": "Emotes",
     "imageName": "EmoteDisagree.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/FounderLvl1Title",
-    "name": "Disciple Founder Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -99881,30 +99673,6 @@
     "description": "The standard issue skin for the Djinn Sentinel.",
     "type": "Skin",
     "imageName": "Djinn.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TrinityTitle",
-    "name": "Doctor Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/SharpShooterTitle",
-    "name": "Doesn'T Miss Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -104380,17 +104148,6 @@
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "Rank16Trophy.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleKonzu",
-    "name": "Early Lunch For Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -123944,18 +123701,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RedVeilTitle",
-    "name": "Eradicator Of Corruption Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Crowns/CitrineDeluxeCrown",
     "name": "Erato Signa",
     "codexSecret": false,
@@ -131683,17 +131428,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleYareli",
-    "name": "Fatuous Nymph Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/TextureOverrides/FrogSkin",
     "name": "Faux Mergoo",
     "codexSecret": false,
@@ -131993,18 +131727,6 @@
         "rarity": "Uncommon"
       }
     ],
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/HunhowHonoria/TitleMesa",
-    "name": "Feelin' Lucky Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
     "tradable": false,
     "masterable": false
   },
@@ -133094,17 +132816,6 @@
         "rarity": "Common"
       }
     ],
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleIgnia",
-    "name": "Fire And Brimstone Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
     "tradable": false,
     "masterable": false
   },
@@ -135102,18 +134813,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/HunhowHonoria/TitleMag",
-    "name": "Force Of Nature Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneJ",
     "name": "Forest Grey",
     "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
@@ -135132,17 +134831,6 @@
     "excludeFromCodex": true,
     "type": "Misc",
     "imageName": "ForestsOfTerra.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleArgon",
-    "name": "Forever Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -150833,30 +150521,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/FounderLvl4Title",
-    "name": "Grand Master Founder Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MedalRank17Title",
-    "name": "Grandis Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal19C",
     "name": "Grandis Xix Phloios",
     "codexSecret": false,
@@ -156319,17 +155983,6 @@
     "description": "An ornate skin forged by the Tekelu School of weaponsmiths.",
     "type": "Skin",
     "imageName": "TekeluGunsenSkin.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleKoumei",
-    "name": "Gyanburā Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -170175,18 +169828,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/FrumentariusTitle",
-    "name": "Head Cracker Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/SolarisPosterC",
     "name": "Heads High, Solaris Poster",
     "description": "One of the many posters found on the concourses of Fortuna.",
@@ -170195,30 +169836,6 @@
     "imageName": "SolarisPosterC.png",
     "category": "Skins",
     "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleQorvex",
-    "name": "Heart Of Concrete Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/TitleVorunaPrime",
-    "name": "Heart Of The Pack Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": true,
     "masterable": false
   },
   {
@@ -173346,17 +172963,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleAscarisPrime",
-    "name": "Hive-Kin Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": true,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/LisetPropLASxPitchweaveFragmentCluster",
     "name": "Höllvanian Pitchweave Tarps Decoration",
     "description": "An unbreakable pile of Pitchweave.",
@@ -173398,1098 +173004,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/AirHunterTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/AmirCampaignAnnoyTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/AmirCampaignButterfingersTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/AmirCampaignCompleteTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/AmirCampaignLootTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/AnimalLoverTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/ArcaneCollectorTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/ClemTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/CodaKillerTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/CodaMasteryTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/CompleteDescendiaHardcoreTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/CompleteDescendiaHarrowTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/CompleteDescendiaUrielTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/CompleteDescendiaWispTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/CompleteEDAMaxTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/CompleteETAMaxTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/DanteDescendiaTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/DateAmirTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/DateAoiTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/DateArthurTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/DateEleanorTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/DateLettieTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/DateLyonTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/DateMarieTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/DateQuincyTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/DateRoatheTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/DefendLyonTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/DefendMarieTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/DeveloperTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/DuviriKingQuestTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/DuviriQueenQuestTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/EidolonHunterTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/FisherTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Fish",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": true,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/FollieHuntCompleteTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/FollieHuntOneTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/FollieHuntTenTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/HardFragmentedTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/HardTankTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/HotwiredTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/HunhullsKillerTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/IncarnonMasteryTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/JadeShadows2Title",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/JadeShadowsTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/JammerTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/KalymosTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/KuvaMasteryTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/LichKillerTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/LotusEatersTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/LoverTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MaduraiBowTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MaxedRailjackTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MinesweeperTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MinVelTogetherTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MR10Title",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MR13Title",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MR16Title",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MR19Title",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MR1Title",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MR22Title",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MR25Title",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MR28Title",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MR30Title",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MR4Title",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MR7Title",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/NaramonBladeTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/OldPeaceTeaserTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/OldPeaceTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/OraxiaPreyTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/OrbHunterTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/PeritaHardModeSoloTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/PeritaHardModeTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RailjackAshTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RailjackGarudaTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/ReferAFriendTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RememberTogetherTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/SecondDreamTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/SentientFriendTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/SisterKillerTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/StickerConquestTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/TenetMasteryTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/TheHexCompleteTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/TheHexFinaleTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/TheNewWarTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/TitleGaussPrime",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": true,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/TitleGrendelPrime",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": true,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/UnairuHammerTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/UrielConfessionTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/UrielKillerTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/VazarinStaffTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/VorHardModeTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/ZenurikGrimoireTitle",
-    "name": "Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropOperatorHoodDisplayBlack",
     "name": "Hood Display Black Decoration",
     "description": "A wooden frame to display a red-and-black hood of Quill design.",
@@ -174526,18 +173040,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/TitleStyanaxPrime",
-    "name": "Hoplite Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": true,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Game/CatbrowPet/Colors/CatbrowPetColorSecondaryDaybreak",
     "name": "Horizon Pink",
     "description": "Splices the genes in your pet Kavat to change the color of its fur.",
@@ -174568,17 +173070,6 @@
     "description": "Tenno bearing this insignia brought the fight to Alad V's monstrous Amalgam Project.",
     "type": "Skin",
     "imageName": "AmalgamEventBadge.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleThermalSludge",
-    "name": "Hot Sludge Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -174692,18 +173183,6 @@
     "description": "Emulating the colossus of Hull, this ephemera is a reminder of the Tenno's past conflicts.",
     "type": "Skin",
     "imageName": "TennoCon2026Ephemera.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/FounderLvl2Title",
-    "name": "Hunter Founder Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -181738,18 +180217,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/MedalRank1Title",
-    "name": "Insign Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal1C",
     "name": "Insign I Sporoi",
     "codexSecret": false,
@@ -182023,17 +180490,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleFerrite",
-    "name": "Ironclad Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWIryaEyeAcc",
     "name": "Irya Oculus",
     "codexSecret": false,
@@ -182051,30 +180507,6 @@
     "description": "A flowing river of light and grace, a Syandana fit for royalty.",
     "type": "Skin",
     "imageName": "IsabeauPrime.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/ForgedInFireTitle",
-    "name": "It Will Kill Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/NovaTitle",
-    "name": "It's All Relative Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -185388,17 +183820,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleJade",
-    "name": "Jade's Guardian Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/JadeShadows/JadeMemorialShipDeco",
     "name": "Jade's Promise Decoration",
     "description": "Feathers of memory, lovingly collected. The gift of self, immortalized in motes of steadfast light.",
@@ -186005,17 +184426,6 @@
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "CommunityDuviriPortrait.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleYaoShrub",
-    "name": "Kaithe Tamer Of Duviri Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -188021,18 +186431,6 @@
     "description": "Arcing bolts of electricity highlight this golden chain Sugatra.",
     "type": "Skin",
     "imageName": "KazeruPrimeSugatra.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/HunhowHonoria/TitleDanteDeluxe",
-    "name": "Keeper Of Secrets Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -196430,17 +194828,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleLamentus",
-    "name": "Lamenting One Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Plants/Nokko/LisetPropDuvxZarimanPlantB",
     "name": "Lanceleaf Plant",
     "description": "A small plant with splayed, lanceolate leaves. ",
@@ -199589,18 +197976,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/StealthKills100Title",
-    "name": "Leaves No Witnesses Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/LectaDazzleCamo",
     "name": "Lecta Shock-Camo Skin",
     "codexSecret": false,
@@ -200696,18 +199071,6 @@
     "description": "The dignified drape of Baruuk Shaoshi's signature signa is the mark of a warrior committed to defending peace - by any means necessary.",
     "type": "Skin",
     "imageName": "BaruukDeluxeIICrown.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/SteelMeridianTitle",
-    "name": "Liberated Grineer Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -213067,18 +211430,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/MaduraiFocusHoarderTitle",
-    "name": "Madurai Vanguard Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Operator/SchoolDecalMadurai",
     "name": "Madurai Vosphene",
     "description": "A Vosphene Glyph of the Madurai symbol, usable as a decoration.",
@@ -216886,18 +215237,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/GuardianTitle",
-    "name": "Make Your Own Fate Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Effects/LNYKaitheDagathEphemera",
     "name": "Malaen Ephemera",
     "codexSecret": false,
@@ -217380,18 +215719,6 @@
     "codexSecret": true,
     "type": "Skin",
     "imageName": "ManusSumdali.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleHydroid",
-    "name": "Marauder Of The Deep Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -218528,36 +216855,12 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/FounderLvl3Title",
-    "name": "Master Founder Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank28Trophy",
     "name": "Master Mastery Slate",
     "description": "Struck to recognize your achievement in reaching the rank of 28 - Master.",
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "Rank28Trophy.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/NyxTitle",
-    "name": "Master Of Minds Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -218853,29 +217156,6 @@
     ],
     "type": "Color Palette",
     "imageName": "ColorPickerTMobile.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleMotherTokens",
-    "name": "Matriarch Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleSaryn",
-    "name": "Matron Of Malaise Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -219318,17 +217598,6 @@
     ],
     "type": "Ship Decoration",
     "imageName": "FishTrophyDayCommonFishA.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleHexenon",
-    "name": "Mayor Of Corpus City Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -231884,18 +230153,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/NaramonFocusHoarderTitle",
-    "name": "Naramon Vanguard Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Operator/SchoolDecalNaramon",
     "name": "Naramon Vosphene",
     "description": "A Vosphene Glyph of the Naramon symbol, usable as a decoration.",
@@ -235587,18 +233844,6 @@
     "description": "Worn to honor The Lotus.",
     "type": "Syandana",
     "imageName": "Nelumbo.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/NemesisOfErisTitle",
-    "name": "Nemesis Of Eris Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -241168,17 +239413,6 @@
     "codexSecret": true,
     "type": "Fur Color",
     "imageName": "NexusFurA.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleNokko",
-    "name": "Night Gardener Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -257058,18 +255292,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleCyteZeroNine",
-    "name": "Oblivion's Kiss Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/EntratiLabs/ORKxLabVesselEyeDeco",
     "name": "Observant Vitreum",
     "description": "A watchful eye for the Orbiter.",
@@ -259091,18 +257313,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/ValorEventTitle",
-    "name": "Of Golden Valor Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWOfficiumScarf",
     "name": "Officium Syandana",
     "codexSecret": false,
@@ -259281,18 +257491,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/OllieRacerTitle",
-    "name": "Ollie's Biggest Fan Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/Arcade/OlliesCrashCourseArcadeItem",
     "name": "Ollie's Crash Course Ludoplex Rom",
     "description": "Play Ollie's Crash Course on your Ludoplex. A Ludoplex may be acquired from Cephalon Simaris on a relay.",
@@ -259310,29 +257508,6 @@
     "description": "Just try to be as cool as Ollie with this signature Atomicycle livery.",
     "type": "Skin",
     "imageName": "MotorcycleOllieSkin.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleLyoricBridge",
-    "name": "On That Far Shore Forlorn Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/DogDaysTitle",
-    "name": "On This Beach Of An Earth Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -262757,17 +260932,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleOrokinCell",
-    "name": "Orokin Cell Executor Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropOroTechPieceE",
     "name": "Orokin Conduit",
     "description": "Tubing used to protect the volatile energy sources the Orokin would often use.",
@@ -265839,18 +264003,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/SolveCipherUnder5Title",
-    "name": "Parazon Runner Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Effects/InkEphemeraB",
     "name": "Pareidola Ephemera",
     "codexSecret": false,
@@ -265972,17 +264124,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleFatherTokens",
-    "name": "Patriarch Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/SWPaxisArmor/SWPaxisArmourC",
     "name": "Paxis Chest Plate",
     "codexSecret": false,
@@ -266011,17 +264152,6 @@
     "description": "A syandana for your Warframe, designed by malaya and Jadie.",
     "type": "Skin",
     "imageName": "Paxis.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleEntratiObols",
-    "name": "Payer Of The Ferryman Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -269163,18 +267293,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/MedalRank20Title",
-    "name": "Perigone Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/MesaDeluxeDualPistolSkin",
     "name": "Perla Dual Pistol Skin",
     "codexSecret": false,
@@ -269488,18 +267606,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/KillPhoridTitle",
-    "name": "Plague Doctor Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Clan/PlagueStarBadgeItem",
     "name": "Plague Star Emblem",
     "codexSecret": false,
@@ -269516,18 +267622,6 @@
         "rarity": "Common"
       }
     ],
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/HunhowHonoria/TitleNidus",
-    "name": "Plague-Bearer Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
     "tradable": false,
     "masterable": false
   },
@@ -282814,18 +280908,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/PoENightTitle",
-    "name": "Restless Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWRetrorolystSyandana",
     "name": "Retrorolyst Syandana",
     "codexSecret": false,
@@ -290859,18 +288941,6 @@
     "excludeFromCodex": true,
     "type": "Skin",
     "imageName": "MakeupJ.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleGauss",
-    "name": "Saint Of Altra Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -299367,18 +297437,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/HunhowHonoria/TitleAsh",
-    "name": "Scoria's Saint Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetTickerSign",
     "name": "Scrolling Sign Decoration",
     "description": "Bring a piece of Gas City to the Orbiter with this scrolling Corpus sign.",
@@ -300223,18 +298281,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/ArbitersOfHexisTitle",
-    "name": "Seeker Of Truth Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Scythes/CalibanDlxScytheSkin",
     "name": "Seighe Scythe Skin",
     "codexSecret": false,
@@ -300263,17 +298309,6 @@
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "STMxSntTrooperEffigyA.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleCitrine",
-    "name": "Sentinel Of Passion Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -300602,18 +298637,6 @@
     "description": "A next-generation skin for the Serro.",
     "type": "Skin",
     "imageName": "ObsidianSerro.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/MedalRank5Title",
-    "name": "Servio Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -302216,18 +300239,6 @@
     "description": "The claws of the shadowy helmsman have cast many foolish foes into the cold below.",
     "type": "Skin",
     "imageName": "SevagothShadowPrimeClaws.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/ShadowgrapherEventVendorTitle",
-    "name": "Shadow Conservator Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -310470,17 +308481,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleNanoSpores",
-    "name": "Spore Bearer Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedEphemeraA",
     "name": "Spore Ephemera",
     "codexSecret": false,
@@ -311045,17 +309045,6 @@
         "rarity": "Common"
       }
     ],
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleSteelEssence",
-    "name": "Steel Soldier Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Resource",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
     "tradable": false,
     "masterable": false
   },
@@ -311682,18 +309671,6 @@
     "description": "A skin to provide a billowing, ethereal look for your pistol.",
     "type": "Skin",
     "imageName": "BillowingPistolSkin.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/HunhowHonoria/TitleVolt",
-    "name": "Strikes Twice Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -314389,18 +312366,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/CaliburChicksHighScoreTitle",
-    "name": "Supreme Operative Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LotusPointMeleeDangle",
     "name": "Suraka Sugatra",
     "codexSecret": false,
@@ -314579,17 +312544,6 @@
     "description": "Standard holster for Sword weapons.",
     "type": "Skin",
     "imageName": "SwordBackDefault.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleSpectralDebris",
-    "name": "Sworn Sister Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -315466,6 +313420,7 @@
         "name": "Star Amarast",
         "description": "Polished and cut to perfection.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
         "codexSecret": false,
+        "itemCount": 10,
         "buildPrice": 5000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -315492,7 +313447,6 @@
             "masterable": false
           }
         ],
-        "itemCount": 10,
         "imageName": "SolarisRareGemACut.png",
         "tradable": false,
         "masterable": false
@@ -319296,18 +317250,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/MedalRank9Title",
-    "name": "Tenens Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal9C",
     "name": "Tenens Ix Sporoi",
     "codexSecret": false,
@@ -320267,18 +318209,6 @@
     "description": "Awarded to Tenno who assist the Lotus by helping other Tenno.",
     "type": "Skin",
     "imageName": "LotusGuideBadge.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/ThousandDaysLoginRewardTitle",
-    "name": "Tenno Of A Thousand Days Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -321503,35 +319433,12 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/HunhowHonoria/TitleExcalibur",
-    "name": "The Awoken Sword Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Mustache/Stache05",
     "name": "The Baron",
     "codexSecret": true,
     "description": "A stylish moustache for your Warframe.",
     "type": "Skin",
     "imageName": "MustacheBaron.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleCoprun",
-    "name": "The Copper Kid Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -321554,18 +319461,6 @@
     "description": "A stylish moustache for your Warframe.",
     "type": "Skin",
     "imageName": "MustacheDastard.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/KaboomTitle",
-    "name": "The Demolitionist Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -321616,29 +319511,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleEchoVoca",
-    "name": "The God Above Knowledge Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleCaliban",
-    "name": "The Heir Of Two Kingdoms Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Mustache/Stache08",
     "name": "The Illusionist",
     "codexSecret": true,
@@ -321673,17 +319545,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleJuggernaut",
-    "name": "The Invincible Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Community10YearDasterDisplay",
     "name": "The Last Five Community Display",
     "description": "A display that celebrates 10 years of Warframe, designed by DasterCreations. ",
@@ -321691,28 +319552,6 @@
     "excludeFromCodex": true,
     "type": "Ship Decoration",
     "imageName": "Community10YearDisplayDasterCreations.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleDante",
-    "name": "The Learned Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleThraxPlasm",
-    "name": "The Mad King Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -321729,34 +319568,12 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleGanglion",
-    "name": "The Maniac Of Deimos Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Mustache/Stache09",
     "name": "The Master",
     "codexSecret": true,
     "description": "A stylish moustache for your Warframe.",
     "type": "Skin",
     "imageName": "MustacheMaster.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleNavCoordinates",
-    "name": "The Navigator Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -321803,29 +319620,6 @@
     "excludeFromCodex": true,
     "type": "Misc",
     "imageName": "Rocks.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleKullervo",
-    "name": "The Persecuted Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleHarrowChasisBlueprint",
-    "name": "The Power Of Harrow Compels Thee Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -321887,29 +319681,6 @@
     ],
     "type": "Ship Decoration",
     "imageName": "NokkoMushroomScrawlPosterD.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleGaruda",
-    "name": "The Scarlet Queen Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleSalvage",
-    "name": "The Scavenger Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -322478,17 +320249,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleRivenSilvers",
-    "name": "The Sunderer Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/CorpusGreedReliefD",
     "name": "The Taking",
     "description": "Deception is the sword of wisdom. Be wise.",
@@ -322529,18 +320289,6 @@
     "description": "A stylish moustache for your Warframe.",
     "type": "Skin",
     "imageName": "MustacheVillain.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleLavos",
-    "name": "The Warden Of Alchemy Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -322594,18 +320342,6 @@
     "description": "The signature syandana of Ivara Skathi.",
     "type": "Skin",
     "imageName": "Thiazi.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/CephalonSudaTitle",
-    "name": "Thirst For Knowledge Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -322806,17 +320542,6 @@
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "PlushyTicker.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleDebtBond",
-    "name": "Ticker's Angel Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -333789,18 +331514,6 @@
     "codexSecret": false,
     "type": "Skin",
     "imageName": "UnairuHoodOrnament.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/UnairuFocusHoarderTitle",
-    "name": "Unairu Vanguard Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -346977,18 +344690,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/VazarinFocusHoarderTitle",
-    "name": "Vazarin Vanguard Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Operator/SchoolDecalVazarin",
     "name": "Vazarin Vosphene",
     "description": "A Vosphene Glyph of the Vazarin symbol, usable as a decoration.",
@@ -353676,18 +351377,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/BOTBEventVendor3Title",
-    "name": "Volatile Mote Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Events/OgrisOldSchool",
     "name": "Volatile Ogris Skin",
     "codexSecret": false,
@@ -358222,17 +355911,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleRailjack",
-    "name": "Voyager Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Skins/Camo/VulkarCamo",
     "name": "Vulkar Desert-Camo Skin",
     "codexSecret": false,
@@ -358283,18 +355961,6 @@
     "codexSecret": true,
     "type": "Ship Decoration",
     "imageName": "1999BoybandPoster.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/TheCameraAdds100Title",
-    "name": "Was Never Here Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -358427,18 +356093,6 @@
         "rarity": "Rare"
       }
     ],
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/KRacerTitle",
-    "name": "Wave Rider Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
     "tradable": false,
     "masterable": false
   },
@@ -358673,18 +356327,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleGrendel",
-    "name": "Who Devours All Honoria ",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCetusVegBasketA",
     "name": "Wide Fruit Basket",
     "description": "A wide seagrass basket filled with seasonal fruits from the markets of Cetus.",
@@ -358744,18 +356386,6 @@
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "Halloween2024ShipDeco.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/Mercenary5InvasionsTitle",
-    "name": "Will Do Anything For Money Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -361993,17 +359623,6 @@
     "codexSecret": false,
     "type": "Emotes",
     "imageName": "LegionSaluteEmote.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleVoruna",
-    "name": "Wolfmother Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -369709,17 +367328,6 @@
     "masterable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleKuva",
-    "name": "Yuvan Rising Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/BaroKiTeerDecorationC",
     "name": "Zag Luxxum Ornament",
     "description": "From Baro Ki'Teer: an exquisite ornament of unknown provenance to enhance your Orbiter.",
@@ -375709,18 +373317,6 @@
     "codexSecret": false,
     "type": "Skin",
     "imageName": "ZenurikHoodOrnament.png",
-    "category": "Skins",
-    "tradable": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Titles/ZenurikFocusHoarderTitle",
-    "name": "Zenurik Vanguard Honoria",
-    "description": "An Honoria for your profile.",
-    "codexSecret": false,
-    "excludeFromCodex": true,
-    "type": "Misc",
-    "imageName": "GenericHonoriaIcon.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
