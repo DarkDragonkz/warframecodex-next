@@ -1599,6 +1599,7 @@
       "Gibber",
       "Jonsin Bracket",
       "Krisys Core",
+      "Oxylus",
       "Para Moa",
       "Ramble",
       "Tombfinger",
@@ -2055,6 +2056,10 @@
     "name": "Bonewidow Capsule",
     "description": "Capsule component for the Bonewidow Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -2292,6 +2297,10 @@
     "name": "Bonewidow Casing",
     "description": "Casing component for the Bonewidow Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -2399,6 +2408,10 @@
     "name": "Bonewidow Engine",
     "description": "Engine component for the Bonewidow Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -2882,6 +2895,10 @@
     "name": "Bonewidow Weapon Pod",
     "description": "Weapon Pod component for the Bonewidow Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Bonewidow"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -7573,7 +7590,8 @@
     "itemCount": 2,
     "parents": [
       "Grimoire",
-      "Mandonel"
+      "Mandonel",
+      "Qorvex"
     ],
     "type": "Resource",
     "imageName": "EntratiLabDogTagRare.png",
@@ -8558,6 +8576,7 @@
       "Ferrox",
       "Flux Rifle",
       "Glaxion",
+      "Helios",
       "Komorex",
       "Kreska",
       "Lanka",
@@ -14517,7 +14536,8 @@
     "itemCount": 50,
     "parents": [
       "Perigale",
-      "Sarofang"
+      "Sarofang",
+      "Voruna"
     ],
     "type": "Resource",
     "imageName": "EclipseVoidWraithItem.png",
@@ -15665,6 +15685,7 @@
       "Caustacyst",
       "Cerata",
       "Dark Split-Sword",
+      "Djinn",
       "Dual Ichor",
       "Dual Toxocyst",
       "Embolist",
@@ -16849,6 +16870,7 @@
     "itemCount": 1,
     "parents": [
       "Basmu",
+      "Nautilus",
       "Protea Mavv Helmet"
     ],
     "type": "Resource",
@@ -17833,6 +17855,7 @@
     "codexSecret": false,
     "itemCount": 10,
     "parents": [
+      "Kullervo",
       "Rauta"
     ],
     "type": "Resource",
@@ -24366,6 +24389,10 @@
     "name": "Voidrig Capsule",
     "description": "Capsule component for the Voidrig Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -24586,6 +24613,10 @@
     "name": "Voidrig Casing",
     "description": "Casing component for the Voidrig Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -24705,6 +24736,10 @@
     "name": "Voidrig Engine",
     "description": "Engine component for the Voidrig Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -25573,6 +25608,10 @@
     "name": "Voidrig Weapon Pod",
     "description": "Weapon Pod component for the Voidrig Necramech.",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Voidrig"
+    ],
     "buildPrice": 15000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
