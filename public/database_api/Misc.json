@@ -267687,7 +267687,7 @@
     "name": "Karkina Antenna",
     "description": "Ground into a powder this substance can makes fires burn hotter for a brief amount of time.\n\nSource: Cut from Karkina fish via Fisher Hai-Luk in Cetus (Earth). Catch Karkina in the Plains of Eidolon ocean at any time of day using Twilight Bait. Also drops from Thumpers in the Plains of Eidolon.",
     "codexSecret": false,
-    "itemCount": 3,
+    "itemCount": 20,
     "parents": [
       "Fosfor Blau",
       "Norg Bait",
@@ -314656,7 +314656,7 @@
     "name": "Sharrac Teeth",
     "description": "These will often adorn ceremonial garb or as a reagent for synthetics.\n\nSource: Cut from Sharrac fish via Fisher Hai-Luk in Cetus (Earth). Catch Sharrac in the Plains of Eidolon ocean at any time of day using Twilight Bait. Also drops from Thumpers in the Plains of Eidolon.",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 20,
     "parents": [
       "Ceno Pauldrons",
       "Fosfor Rahd",
