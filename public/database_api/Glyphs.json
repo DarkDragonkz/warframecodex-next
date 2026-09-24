@@ -532,6 +532,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/VesselMaleGlyph",
+    "name": "Arturos Vessel Glyph",
+    "description": "A glyph for your profile depicting the Arturos Vessel.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "VesselMaleGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAshAccoladeGlyph",
     "name": "Ash Accolade Glyph",
     "description": "A glyph representing a feat of strength by community artist Vik Hayes.",
@@ -1073,12 +1084,34 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/BansheeDeluxeGlyph",
+    "name": "Banshee Sonatus Glyph",
+    "description": "Cadaverous beauty calls to souls in the dead of night. A glyph for your profile created by community artist Mischka.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "CommunityBansheeDeluxe2Glyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBansheeDeluxe",
     "name": "Banshee Soprana Glyph",
     "description": "A glyph depicting Banshee Soprana.",
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "BansheeDeluxeAvatar.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBansheeDeluxeTwo",
+    "name": "Banshee Threnodia Glyph",
+    "description": "A glyph depicting Banshee Threnodia.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "BansheeDeluxe2Avatar.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -1340,6 +1373,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBLUTE",
+    "name": "Blute Glyph",
+    "description": "A Glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "BLUTE.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBluyayogamer",
     "name": "Bluyayogamer Glyph",
     "description": "A Glyph for your profile.",
@@ -1510,6 +1554,17 @@
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "Buff00n.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBugbreach",
+    "name": "Bugbreach Glyph",
+    "description": "A Glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "Bugbreach.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -2239,6 +2294,28 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageCitrinePrimeBright",
+    "name": "Citrine Prime Glyph - Bright",
+    "description": "A glyph depicting Citrine Prime on a bright background.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "CitrinePrimeAvatarBright.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageCitrinePrimeDark",
+    "name": "Citrine Prime Glyph - Dark",
+    "description": "A glyph depicting Citrine Prime on a dark background.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "CitrinePrimeAvatarDark.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageClemKawaii",
     "name": "Clem In Action Glyph",
     "description": "A Glyph for your profile.",
@@ -2389,6 +2466,17 @@
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "CommunityChromaGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityCitrine",
+    "name": "Community Citrine Glyph",
+    "description": "A community glyph depicting Citrine in the style of community artist Shivecu.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "CommunityCitrine.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -2625,6 +2713,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityFrost",
+    "name": "Community Frost Glyph",
+    "description": "A community glyph depicting Frost in the style of community artist FrostyNovaPrime.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "CommunityFrost.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityGaruda",
     "name": "Community Garuda Glyph",
     "description": "A community glyph depicting Garuda in the style of community artist ibumuc.",
@@ -2757,12 +2856,34 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityNarin",
+    "name": "Community Narin Glyph",
+    "description": "A community glyph depicting Narin in the style of community artist Pertti Lancer.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "CommunityNarin.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityNokkoGlyph",
     "name": "Community Nokko Glyph",
     "description": "A community glyph depicting Nokko in the style of community artist Pyrah. ",
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "CommunityNokkoGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityOctavia",
+    "name": "Community Octavia Glyph",
+    "description": "A community glyph depicting Octavia in the style of community artist Izeda Datori.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "CommunityOctavia.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -2917,6 +3038,17 @@
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "CommunitySarynGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunitySevagoth",
+    "name": "Community Sevagoth Glyph",
+    "description": "A community glyph depicting Sevagoth in the style of community artist DarikaArt.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "CommunitySevagoth.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -3303,6 +3435,17 @@
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "QTCCBird3.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageQTCC2026ValkyrVoruna",
+    "name": "Conquera Glyph X",
+    "description": "A symbol of support for The Princess Margaret Cancer Foundation Quest, created by a Community Artist.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "QTCC2026ValkyrVoruna.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -4621,6 +4764,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageEGirlTenno",
+    "name": "Egirltenno Glyph",
+    "description": "A Glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "EGirlTenno.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageElGrineerExiliado",
     "name": "El Grineer Exiliado Glyph",
     "description": "A Glyph for your profile.",
@@ -5014,7 +5168,7 @@
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBaroKiteerEvil",
     "name": "Eskhatos Ki'Teer Glyph",
-    "description": "A glyph depicting the inimitable, one-of-a-kind Baro Ki’Teer.",
+    "description": "A glyph depicting the inimitable, one-of-a-kind Baro Ki'Teer.",
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "BaroKiteerEvil.png",
@@ -5791,6 +5945,17 @@
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "FluffyMiracle.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageHalloween2026FollieGlyph",
+    "name": "Follie Coulrophobia Glyph",
+    "description": "Be careful you don't float away. A glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "FollieHalloween.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -6639,7 +6804,7 @@
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/XMas20GrandmaGlyph",
     "name": "Grandmother Tennobaum Glyph",
-    "description": "A storyteller at heart, Grandmother’s holiday spirit has infested the whole family!",
+    "description": "A storyteller at heart, Grandmother's holiday spirit has infested the whole family!",
     "codexSecret": true,
     "excludeFromCodex": true,
     "type": "Glyph",
@@ -8234,6 +8399,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKakitaros",
+    "name": "Kakitaros Glyph",
+    "description": "A Glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "Kakitaros.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKalon",
     "name": "Kalon75 Glyph",
     "description": "A Glyph for your profile.",
@@ -8831,6 +9007,17 @@
     "excludeFromCodex": true,
     "type": "Glyph",
     "imageName": "LadyTheLaddy.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEvilBaroIcon",
+    "name": "Last Laugh Ki'Teer Glyph",
+    "description": "He who laughs last, laughs longest. A glyph for your profile.",
+    "codexSecret": false,
+    "type": "Glyph",
+    "imageName": "Halloween26EvilBaro.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -9723,6 +9910,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLuckyGoblin",
+    "name": "Luckygoblin Glyph",
+    "description": "A Glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "LuckyGoblin.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCreatorLunskee",
     "name": "Lunskee Glyph",
     "description": "A Glyph for your profile.",
@@ -9784,6 +9982,17 @@
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "MitmimicGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMactics",
+    "name": "Mactics Glyph",
+    "description": "A Glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "Mactics.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -10835,6 +11044,50 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageNarinAltBright",
+    "name": "Narin Baridegi Glyph - Bright",
+    "description": "A glyph depicting Narin Baridegi on a bright background.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "NarinAvatarAltBright.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageNarinAltDark",
+    "name": "Narin Baridegi Glyph - Dark",
+    "description": "A glyph depicting Narin Baridegi on a dark background.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "NarinAvatarAltDark.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageNarinBright",
+    "name": "Narin Glyph - Bright",
+    "description": "A glyph depicting Narin on a bright background.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "NarinAvatarBright.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageNarinDark",
+    "name": "Narin Glyph - Dark",
+    "description": "A glyph depicting Narin on a dark background.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "NarinAvatarDark.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/NarmerEyeGlyph",
     "name": "Narmer Eye Glyph",
     "description": "Embrace authority with this symbol of Ballas' twisted Narmer plan.",
@@ -11053,6 +11306,17 @@
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "Nelosart.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/BabyNatahGlyph",
+    "name": "Neolyst Natah Glyph",
+    "description": "A glyph depicting Neolyst Natah for your profile, almost forgotten. Like a dream.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "BabyNatahGlyph.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -12246,6 +12510,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImagePherpLancer",
+    "name": "Pherp Lancer Glyph",
+    "description": "A Glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "PherpLancer.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImagePhongFu",
     "name": "Phongfu Glyph",
     "description": "A Glyph for your profile.",
@@ -12749,6 +13024,17 @@
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "PyrrhicSerenity.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageQorvexDeluxe",
+    "name": "Qorvex Basilica Glyph",
+    "description": "A glyph depicting Qorvex Basilica.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "QorvexDeluxeAvatar.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -13440,6 +13726,17 @@
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "RoatheMistletoeGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRoboMythos",
+    "name": "Robomythos Glyph",
+    "description": "A Glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "RoboMythos.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -14206,6 +14503,17 @@
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "ShinobifufuGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageShiroKosha",
+    "name": "Shirokosha Glyph",
+    "description": "A Glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "ShiroKosha.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -15393,6 +15701,17 @@
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "TranslatorGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageTennoBen",
+    "name": "Tennoben Glyph",
+    "description": "A Glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "TennoBen.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -17136,6 +17455,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageViceroyCyndr",
+    "name": "Viceroycyndr Glyph",
+    "description": "A Glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "Viceroycyndr.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageCleoNaturin",
     "name": "Vikhayes Partner Glyph",
     "description": "A Glyph for your profile.",
@@ -17544,6 +17874,17 @@
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "VorunaPrimeAvatarDark.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageHalloween2026VorunaGlyph",
+    "name": "Voruna Prime Massacre Glyph",
+    "description": "The Ghoulsaw isn't necessary, but it is a lot of fun. A glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "VorunaHalloween.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
@@ -18419,6 +18760,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageXiaoGuang",
+    "name": "Xiaoguang Glyph",
+    "description": "A Glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "XiaoGuang.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageXiaRose",
     "name": "Xiarose Glyph",
     "description": "A Glyph for your profile.",
@@ -18829,12 +19181,34 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/VesselFemaleGlyph",
+    "name": "Zioa Vessel Glyph",
+    "description": "A glyph for your profile depicting the Zioa Vessel.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "VesselFemaleGlyph.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImagezKoichi",
     "name": "Zkoichi Glyph",
     "description": "A Glyph for your profile.",
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "Zkoichi.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageZliDe",
+    "name": "Zlide Glyph",
+    "description": "A Glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "ZliDe.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false

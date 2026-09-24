@@ -7675,8 +7675,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -7910,6 +7910,17 @@
         ]
       },
       {
+        "tag": "WeaponFactionDamageInfested",
+        "prefixTag": "pura",
+        "suffixTag": "ada",
+        "upgradeValues": [
+          {
+            "value": 0.0049999999,
+            "locTag": "|val| Damage to Infested"
+          }
+        ]
+      },
+      {
         "tag": "WeaponZoomFovMod",
         "prefixTag": "hera",
         "suffixTag": "lis",
@@ -7917,6 +7928,150 @@
           {
             "value": 0.006666,
             "locTag": "|val|% Zoom"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponWeakpointDamage",
+        "prefixTag": "eni",
+        "suffixTag": "vo",
+        "upgradeValues": [
+          {
+            "value": 0.025,
+            "locTag": "|val|% Weak Point Damage"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponWeakpointCriticalChance",
+        "prefixTag": "exiti",
+        "suffixTag": "eus",
+        "upgradeValues": [
+          {
+            "value": 0.0275,
+            "locTag": "|val|% Weak Point Critical Chance"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponAmmoEfficiency",
+        "prefixTag": "parci",
+        "suffixTag": "pia",
+        "upgradeValues": [
+          {
+            "value": -0.001,
+            "locTag": "|val|% Ammo Efficiency",
+            "reverseValueSymbol": true
+          }
+        ]
+      },
+      {
+        "tag": "WeaponStatusDamage",
+        "prefixTag": "plaga",
+        "suffixTag": "mna",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% Status Damage"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponGasDamageMod",
+        "prefixTag": "cali",
+        "suffixTag": "fel",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_GAS_COLOR>Gas"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponCorrosiveDamageMod",
+        "prefixTag": "cori",
+        "suffixTag": "or",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_CORROSIVE_COLOR>Corrosive"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponViralDamageMod",
+        "prefixTag": "cari",
+        "suffixTag": "sco",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_VIRAL_COLOR>Viral"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponRadiationDamageMod",
+        "prefixTag": "radi",
+        "suffixTag": "lo",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_RADIATION_COLOR>Radiation"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponBlastDamageMod",
+        "prefixTag": "fraga",
+        "suffixTag": "tus",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_EXPLOSION_COLOR>Blast"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponMagneticDamageMod",
+        "prefixTag": "magni",
+        "suffixTag": "bra",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_MAGNETIC_COLOR>Magnetic"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponFactionDamageOrokin",
+        "prefixTag": "effi",
+        "suffixTag": "tas",
+        "upgradeValues": [
+          {
+            "value": 0.0049999999,
+            "locTag": "|val| Damage to Orokin"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponFactionDamageTechrot",
+        "prefixTag": "muti",
+        "suffixTag": "gia",
+        "upgradeValues": [
+          {
+            "value": 0.0049999999,
+            "locTag": "|val| Damage to Techrot"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponFactionDamageScaldra",
+        "prefixTag": "exsi",
+        "suffixTag": "llo",
+        "upgradeValues": [
+          {
+            "value": 0.0049999999,
+            "locTag": "|val| Damage to Scaldra"
           }
         ]
       }
@@ -8868,32 +9023,32 @@
     "levelStats": [
       {
         "stats": [
-          "On Headshot:\\n+22.5% Critical Chance when Aiming for 2s"
+          "On Weak Point Hit:\\n+22.5% Critical Chance when Aiming for 2s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+45% Critical Chance when Aiming for 3s"
+          "On Weak Point Hit:\\n+45% Critical Chance when Aiming for 3s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+67.5% Critical Chance when Aiming for 5s"
+          "On Weak Point Hit:\\n+67.5% Critical Chance when Aiming for 5s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+90% Critical Chance when Aiming for 6s"
+          "On Weak Point Hit:\\n+90% Critical Chance when Aiming for 6s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+112.5% Critical Chance when Aiming for 8s"
+          "On Weak Point Hit:\\n+112.5% Critical Chance when Aiming for 8s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+135% Critical Chance when Aiming for 9s"
+          "On Weak Point Hit:\\n+135% Critical Chance when Aiming for 9s"
         ]
       }
     ],
@@ -11227,46 +11382,6 @@
       "date": "2014-11-27"
     },
     "releaseDate": "2014-11-27",
-    "isPrime": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Powersuits/Banshee/SonarPvPAugmentCard",
-    "name": "Augmented Sonar",
-    "polarity": "zenurik",
-    "rarity": "Rare",
-    "codexSecret": false,
-    "baseDrain": 6,
-    "fusionLimit": 3,
-    "excludeFromCodex": true,
-    "compatName": "Banshee",
-    "type": "Warframe Mod",
-    "levelStats": [
-      {
-        "stats": [
-          "Sonar Augment: Affected enemies also become visible through walls for 7s."
-        ]
-      },
-      {
-        "stats": [
-          "Sonar Augment: Affected enemies also become visible through walls for 8s."
-        ]
-      },
-      {
-        "stats": [
-          "Sonar Augment: Affected enemies also become visible through walls for 9s."
-        ]
-      },
-      {
-        "stats": [
-          "Sonar Augment: Affected enemies also become visible through walls for 10s."
-        ]
-      }
-    ],
-    "imageName": "SonarAugment.jpg",
-    "category": "Mods",
-    "isAugment": true,
-    "tradable": true,
     "isPrime": false,
     "masterable": false
   },
@@ -20997,6 +21112,45 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Powersuits/Oraxia/BroodAugmentCard",
+    "name": "Brood's Oversurge",
+    "polarity": "zenurik",
+    "rarity": "Rare",
+    "codexSecret": false,
+    "baseDrain": 6,
+    "fusionLimit": 3,
+    "compatName": "Oraxia",
+    "type": "Warframe Mod",
+    "levelStats": [
+      {
+        "stats": [
+          "Widow's Brood Augment: Scuttlers are galvanized with Electricity. Hold to direct all active Scuttlers at the aimed target, inflicting 1250 <DT_ELECTRICITY_COLOR> Electricity Damage and Status Effect in a radius."
+        ]
+      },
+      {
+        "stats": [
+          "Widow's Brood Augment: Scuttlers are galvanized with Electricity. Hold to direct all active Scuttlers at the aimed target, inflicting 1500 <DT_ELECTRICITY_COLOR> Electricity Damage and Status Effect in a radius."
+        ]
+      },
+      {
+        "stats": [
+          "Widow's Brood Augment: Scuttlers are galvanized with Electricity. Hold to direct all active Scuttlers at the aimed target, inflicting 1750 <DT_ELECTRICITY_COLOR> Electricity Damage and Status Effect in a radius."
+        ]
+      },
+      {
+        "stats": [
+          "Widow's Brood Augment: Scuttlers are galvanized with Electricity. Hold to direct all active Scuttlers at the aimed target, inflicting 2000 <DT_ELECTRICITY_COLOR> Electricity Damage and Status Effect in a radius."
+        ]
+      }
+    ],
+    "imageName": "OraxiaBroodAugment.jpg",
+    "category": "Mods",
+    "isAugment": true,
+    "tradable": true,
+    "isPrime": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/PunchKickCmbTwoMeleeTree",
     "name": "Brutal Tide",
     "polarity": "naramon",
@@ -27972,6 +28126,46 @@
       "date": "2018-12-18"
     },
     "releaseDate": "2018-12-18",
+    "isPrime": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Frost/IceShieldAugmentTwoCard",
+    "name": "Cold Front",
+    "polarity": "zenurik",
+    "rarity": "Rare",
+    "codexSecret": false,
+    "baseDrain": 6,
+    "fusionLimit": 3,
+    "isUtility": true,
+    "compatName": "Frost",
+    "type": "Warframe Mod",
+    "levelStats": [
+      {
+        "stats": [
+          "Snow Globe Augment: Snow Globe is now attached to Frost with a smaller radius while increasing your mobility. Kills on frozen enemies increase the Globe health by 1% per kill. "
+        ]
+      },
+      {
+        "stats": [
+          "Snow Globe Augment: Snow Globe is now attached to Frost with a smaller radius while increasing your mobility. Kills on frozen enemies increase the Globe health by 2% per kill. "
+        ]
+      },
+      {
+        "stats": [
+          "Snow Globe Augment: Snow Globe is now attached to Frost with a smaller radius while increasing your mobility. Kills on frozen enemies increase the Globe health by 3% per kill. "
+        ]
+      },
+      {
+        "stats": [
+          "Snow Globe Augment: Snow Globe is now attached to Frost with a smaller radius while increasing your mobility. Kills on frozen enemies increase the Globe health by 4% per kill. "
+        ]
+      }
+    ],
+    "imageName": "FrostIceShieldAugmentTwoCard.jpg",
+    "category": "Mods",
+    "isAugment": true,
+    "tradable": true,
     "isPrime": false,
     "masterable": false
   },
@@ -65075,21 +65269,33 @@
         "rarity": "Rare"
       },
       {
-        "location": "Zariman/Oro Works (Void Armageddon), Rotation C",
+        "location": "Zariman/Oro Works (Void Armageddon), Rotation A",
         "type": "Galeforce Dawn",
-        "chance": 10,
-        "rarity": "Uncommon"
+        "chance": 4.23,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Zariman/Oro Works (Void Armageddon), Rotation B",
+        "type": "Galeforce Dawn",
+        "chance": 4.6,
+        "rarity": "Rare"
       },
       {
         "location": "Zariman/Halako Perimeter (Exterminate)",
         "type": "Galeforce Dawn",
-        "chance": 4.88,
+        "chance": 4.65,
         "rarity": "Rare"
       },
       {
         "location": "Zariman/The Greenway (Mobile Defense)",
         "type": "Galeforce Dawn",
-        "chance": 4.88,
+        "chance": 4.65,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Zariman/Oro Works (Void Armageddon), Rotation C",
+        "type": "Galeforce Dawn",
+        "chance": 8.33,
         "rarity": "Rare"
       }
     ],
@@ -65420,57 +65626,57 @@
     "levelStats": [
       {
         "stats": [
-          "On Headshot:\\n+10.9% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+3.6% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+10.9% Critical Chance when Aiming for 12s\\nOn Weak Point Kill:\\n+3.6% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+21.8% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+7.3% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+21.8% Critical Chance when Aiming for 12s\\nOn Weak Point Kill:\\n+7.3% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+32.7% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+10.9% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+32.7% Critical Chance when Aiming for 12s\\nOn Weak Point Kill:\\n+10.9% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+43.6% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+14.5% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+43.6% Critical Chance when Aiming for 12s\\nOn Weak Point Kill:\\n+14.5% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+54.5% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+18.2% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+54.5% Critical Chance when Aiming for 12s\\nOn Weak Point Kill:\\n+18.2% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+65.5% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+21.8% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+65.5% Critical Chance when Aiming for 12s\\nOn Weak Point Kill:\\n+21.8% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+76.4% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+25.5% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+76.4% Critical Chance when Aiming for 12s\\nOn Weak Point Kill:\\n+25.5% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+87.3% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+29.1% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+87.3% Critical Chance when Aiming for 12s\\nOn Weak Point Kill:\\n+29.1% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+98.2% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+32.7% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+98.2% Critical Chance when Aiming for 12s\\nOn Weak Point Kill:\\n+32.7% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+109.1% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+36.4% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+109.1% Critical Chance when Aiming for 12s\\nOn Weak Point Kill:\\n+36.4% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+120% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+40% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+120% Critical Chance when Aiming for 12s\\nOn Weak Point Kill:\\n+40% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       }
     ],
@@ -66001,57 +66207,57 @@
     "levelStats": [
       {
         "stats": [
-          "On Headshot:\\n+10.9% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+3.6% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+10.9% Critical Chance when Aiming for 12s\\nOn Weak Point Hit:\\n+3.6% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+21.8% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+7.3% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+21.8% Critical Chance when Aiming for 12s\\nOn Weak Point Hit:\\n+7.3% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+32.7% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+10.9% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+32.7% Critical Chance when Aiming for 12s\\nOn Weak Point Hit:\\n+10.9% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+43.6% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+14.5% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+43.6% Critical Chance when Aiming for 12s\\nOn Weak Point Hit:\\n+14.5% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+54.6% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+18.2% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+54.6% Critical Chance when Aiming for 12s\\nOn Weak Point Hit:\\n+18.2% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+65.5% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+21.8% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+65.5% Critical Chance when Aiming for 12s\\nOn Weak Point Hit:\\n+21.8% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+76.4% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+25.5% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+76.4% Critical Chance when Aiming for 12s\\nOn Weak Point Hit:\\n+25.5% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+87.3% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+29.1% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+87.3% Critical Chance when Aiming for 12s\\nOn Weak Point Hit:\\n+29.1% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+98.2% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+32.7% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+98.2% Critical Chance when Aiming for 12s\\nOn Weak Point Hit:\\n+32.7% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+109.1% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+36.4% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+109.1% Critical Chance when Aiming for 12s\\nOn Weak Point Hit:\\n+36.4% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+120% Critical Chance when Aiming for 12s\\nOn Headshot Kill:\\n+40% Critical Chance when Aiming for 12s. Stacks up to 5x."
+          "On Weak Point Hit:\\n+120% Critical Chance when Aiming for 12s\\nOn Weak Point Hit:\\n+40% Critical Chance when Aiming for 12s. Stacks up to 5x."
         ]
       }
     ],
@@ -66274,6 +66480,60 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Powersuits/Banshee/EarthQuakeAugmentCard",
+    "name": "Gaseous Quake",
+    "polarity": "zenurik",
+    "rarity": "Rare",
+    "codexSecret": false,
+    "baseDrain": 6,
+    "fusionLimit": 3,
+    "compatName": "Banshee",
+    "type": "Warframe Mod",
+    "levelStats": [
+      {
+        "stats": [
+          "Sound Quake Augment: Channel <DT_GAS_COLOR>Gas Damage and Status Effect leaks with a 2x Damage Multiplier that increases every second on enemies in your sight."
+        ]
+      },
+      {
+        "stats": [
+          "Sound Quake Augment: Channel <DT_GAS_COLOR>Gas Damage and Status Effect leaks with a 2.25x Damage Multiplier that increases every second on enemies in your sight."
+        ]
+      },
+      {
+        "stats": [
+          "Sound Quake Augment: Channel <DT_GAS_COLOR>Gas Damage and Status Effect leaks with a 2.5x Damage Multiplier that increases every second on enemies in your sight."
+        ]
+      },
+      {
+        "stats": [
+          "Sound Quake Augment: Channel <DT_GAS_COLOR>Gas Damage and Status Effect leaks with a 2.75x Damage Multiplier that increases every second on enemies in your sight."
+        ]
+      }
+    ],
+    "imageName": "BansheeEarthquakeAugment1.jpg",
+    "category": "Mods",
+    "isAugment": true,
+    "tradable": true,
+    "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ResonatingQuakeMod.png?c33b0",
+    "wikiaUrl": "https://wiki.warframe.com/w/Resonating_Quake",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 18.11",
+      "url": "https://wiki.warframe.com/w/Update_18%23Update_18.11",
+      "aliases": [
+        "18.11.0",
+        "18.11"
+      ],
+      "parent": "18.11",
+      "date": "2016-05-11"
+    },
+    "releaseDate": "2016-05-11",
+    "isPrime": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Powersuits/Devourer/DevourerRegurgitateAugmentCard",
     "name": "Gastro",
     "polarity": "zenurik",
@@ -66339,6 +66599,45 @@
       "date": "2024-10-02"
     },
     "releaseDate": "2024-10-02",
+    "isPrime": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Devourer/DevourerPassiveAugmentCard",
+    "name": "Gastroparesis",
+    "polarity": "zenurik",
+    "rarity": "Rare",
+    "codexSecret": false,
+    "baseDrain": 6,
+    "fusionLimit": 3,
+    "compatName": "Grendel",
+    "type": "Warframe Mod",
+    "levelStats": [
+      {
+        "stats": [
+          "Passive Augment: Each enemy consumed adds 6% <DT_GAS_COLOR> Extra Gas Damage to Primary and Secondary Weapons."
+        ]
+      },
+      {
+        "stats": [
+          "Passive Augment: Each enemy consumed adds 9% <DT_GAS_COLOR> Extra Gas Damage to Primary and Secondary Weapons."
+        ]
+      },
+      {
+        "stats": [
+          "Passive Augment: Each enemy consumed adds 12% <DT_GAS_COLOR> Extra Gas Damage to Primary and Secondary Weapons."
+        ]
+      },
+      {
+        "stats": [
+          "Passive Augment: Each enemy consumed adds 15% <DT_GAS_COLOR> Extra Gas Damage to Primary and Secondary Weapons."
+        ]
+      }
+    ],
+    "imageName": "GrendelPassiveAugment.jpg",
+    "category": "Mods",
+    "isAugment": true,
+    "tradable": true,
     "isPrime": false,
     "masterable": false
   },
@@ -82062,32 +82361,32 @@
     "levelStats": [
       {
         "stats": [
-          "On Headshot:\\n+22.5% Critical Chance when Aiming for 2s"
+          "On Weak Point Hit:\\n+22.5% Critical Chance when Aiming for 2s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+45% Critical Chance when Aiming for 3s"
+          "On Weak Point Hit:\\n+45% Critical Chance when Aiming for 3s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+67.5% Critical Chance when Aiming for 5s"
+          "On Weak Point Hit:\\n+67.5% Critical Chance when Aiming for 5s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+90% Critical Chance when Aiming for 6s"
+          "On Weak Point Hit:\\n+90% Critical Chance when Aiming for 6s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+112.5% Critical Chance when Aiming for 8s"
+          "On Weak Point Hit:\\n+112.5% Critical Chance when Aiming for 8s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+135% Critical Chance when Aiming for 9s"
+          "On Weak Point Hit:\\n+135% Critical Chance when Aiming for 9s"
         ]
       }
     ],
@@ -82592,22 +82891,22 @@
     "levelStats": [
       {
         "stats": [
-          "Hysteria Augment: Attack with Valkyr’s Talons to leap onto targeted enemies up to 50m away. Gain +20% Parkour Velocity and +20% Sprint Speed for 5s."
+          "Hysteria Augment: Attack with Valkyr's Talons to leap onto targeted enemies up to 50m away. Gain +20% Parkour Velocity and +20% Sprint Speed for 5s."
         ]
       },
       {
         "stats": [
-          "Hysteria Augment: Attack with Valkyr’s Talons to leap onto targeted enemies up to 50m away. Gain +30% Parkour Velocity and +30% Sprint Speed for 5s."
+          "Hysteria Augment: Attack with Valkyr's Talons to leap onto targeted enemies up to 50m away. Gain +30% Parkour Velocity and +30% Sprint Speed for 5s."
         ]
       },
       {
         "stats": [
-          "Hysteria Augment: Attack with Valkyr’s Talons to leap onto targeted enemies up to 50m away. Gain +40% Parkour Velocity and +40% Sprint Speed for 5s."
+          "Hysteria Augment: Attack with Valkyr's Talons to leap onto targeted enemies up to 50m away. Gain +40% Parkour Velocity and +40% Sprint Speed for 5s."
         ]
       },
       {
         "stats": [
-          "Hysteria Augment: Attack with Valkyr’s Talons to leap onto targeted enemies up to 50m away. Gain +50% Parkour Velocity and +50% Sprint Speed for 5s."
+          "Hysteria Augment: Attack with Valkyr's Talons to leap onto targeted enemies up to 50m away. Gain +50% Parkour Velocity and +50% Sprint Speed for 5s."
         ]
       }
     ],
@@ -88071,6 +88370,45 @@
       "date": "2018-11-08"
     },
     "releaseDate": "2018-11-08",
+    "isPrime": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/DemonFrame/DemonFrameFireBallAugmentCard",
+    "name": "Infernum",
+    "polarity": "zenurik",
+    "rarity": "Rare",
+    "codexSecret": false,
+    "baseDrain": 6,
+    "fusionLimit": 3,
+    "compatName": "Uriel",
+    "type": "Warframe Mod",
+    "levelStats": [
+      {
+        "stats": [
+          "Infernalis Augment: Release Fireballs for 1000<DT_FIRE_COLOR>Heat Damage with larger volleys when grabbing Vythelas' Runes during flight. Hits from Fireballs slowly charge Brimstone."
+        ]
+      },
+      {
+        "stats": [
+          "Infernalis Augment: Release Fireballs for 1250<DT_FIRE_COLOR>Heat Damage with larger volleys when grabbing Vythelas' Runes during flight. Hits from Fireballs slowly charge Brimstone."
+        ]
+      },
+      {
+        "stats": [
+          "Infernalis Augment: Release Fireballs for 1350<DT_FIRE_COLOR>Heat Damage with larger volleys when grabbing Vythelas' Runes during flight. Hits from Fireballs slowly charge Brimstone."
+        ]
+      },
+      {
+        "stats": [
+          "Infernalis Augment: Release Fireballs for 1500<DT_FIRE_COLOR>Heat Damage with larger volleys when grabbing Vythelas' Runes during flight. Hits from Fireballs slowly charge Brimstone."
+        ]
+      }
+    ],
+    "imageName": "UrielFireballAugmentCard.jpg",
+    "category": "Mods",
+    "isAugment": true,
+    "tradable": true,
     "isPrime": false,
     "masterable": false
   },
@@ -94810,8 +95148,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -105339,32 +105677,32 @@
     "levelStats": [
       {
         "stats": [
-          "On Headshot:\\n+20% Critical Chance when Aiming for 2s"
+          "On Weak Point Hit:\\n+20% Critical Chance when Aiming for 2s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+40% Critical Chance when Aiming for 3s"
+          "On Weak Point Hit:\\n+40% Critical Chance when Aiming for 3s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+60% Critical Chance when Aiming for 5s"
+          "On Weak Point Hit:\\n+60% Critical Chance when Aiming for 5s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+80% Critical Chance when Aiming for 6s"
+          "On Weak Point Hit:\\n+80% Critical Chance when Aiming for 6s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+100% Critical Chance when Aiming for 8s"
+          "On Weak Point Hit:\\n+100% Critical Chance when Aiming for 8s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+120% Critical Chance when Aiming for 9s"
+          "On Weak Point Hit:\\n+120% Critical Chance when Aiming for 9s"
         ]
       }
     ],
@@ -105685,22 +106023,22 @@
     "levelStats": [
       {
         "stats": [
-          "Covenant Augment: Headshot kills increase Critical Chance bonus duration by 1s."
+          "Covenant Augment: Weak Point kills increase Critical Chance bonus duration by 1s."
         ]
       },
       {
         "stats": [
-          "Covenant Augment: Headshot kills increase Critical Chance bonus duration by 1.5s."
+          "Covenant Augment: Weak Point kills increase Critical Chance bonus duration by 1.5s."
         ]
       },
       {
         "stats": [
-          "Covenant Augment: Headshot kills increase Critical Chance bonus duration by 2s."
+          "Covenant Augment: Weak Point kills increase Critical Chance bonus duration by 2s."
         ]
       },
       {
         "stats": [
-          "Covenant Augment: Headshot kills increase Critical Chance bonus duration by 3s."
+          "Covenant Augment: Weak Point kills increase Critical Chance bonus duration by 3s."
         ]
       }
     ],
@@ -117944,8 +118282,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "upgradeEntries": [
       {
         "tag": "WeaponMeleeDamageMod",
@@ -118224,6 +118562,50 @@
           {
             "value": 0.0065299999,
             "locTag": "|val|% Additional Combo Count Chance"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponMeleeHeavyAttackDamageMod",
+        "prefixTag": "laci",
+        "suffixTag": "nus",
+        "upgradeValues": [
+          {
+            "value": 0.0133,
+            "locTag": "|val|% Melee Damage on Heavy Attack"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponMeleeHeavyAttackChargeMod",
+        "prefixTag": "laci",
+        "suffixTag": "nus",
+        "upgradeValues": [
+          {
+            "value": 0.0133,
+            "locTag": "|val|% Heavy Attack Wind Up Speed"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponMeleeParryAngleMod",
+        "prefixTag": "laci",
+        "suffixTag": "nus",
+        "upgradeValues": [
+          {
+            "value": 0.090000004,
+            "locTag": "|val| Parry Angle"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponMeleeSlamDamageMod",
+        "prefixTag": "laci",
+        "suffixTag": "nus",
+        "upgradeValues": [
+          {
+            "value": 0.0133,
+            "locTag": "|val|% Slam Attack Damage"
           }
         ]
       }
@@ -155194,8 +155576,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -155458,6 +155840,161 @@
           {
             "value": 0.0088999998,
             "locTag": "|val|% Zoom"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponWeakpointDamage",
+        "prefixTag": "eni",
+        "suffixTag": "vo",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% Weak Point Damage"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponWeakpointCriticalChance",
+        "prefixTag": "exiti",
+        "suffixTag": "eus",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% Weak Point Critical Chance"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponAmmoEfficiency",
+        "prefixTag": "parci",
+        "suffixTag": "pia",
+        "upgradeValues": [
+          {
+            "value": -0.001,
+            "locTag": "|val|% Ammo Efficiency",
+            "reverseValueSymbol": true
+          }
+        ]
+      },
+      {
+        "tag": "WeaponMagazineReloadHolstered",
+        "prefixTag": "parci",
+        "suffixTag": "pia",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% Magazine Reloaded/s when Holstered"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponStatusDamage",
+        "prefixTag": "plaga",
+        "suffixTag": "mna",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% Status Damage"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponGasDamageMod",
+        "prefixTag": "cali",
+        "suffixTag": "fel",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_GAS_COLOR>Gas"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponCorrosiveDamageMod",
+        "prefixTag": "cori",
+        "suffixTag": "or",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_CORROSIVE_COLOR>Corrosive"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponViralDamageMod",
+        "prefixTag": "cari",
+        "suffixTag": "sco",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_VIRAL_COLOR>Viral"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponRadiationDamageMod",
+        "prefixTag": "radi",
+        "suffixTag": "lo",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_RADIATION_COLOR>Radiation"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponBlastDamageMod",
+        "prefixTag": "fraga",
+        "suffixTag": "tus",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_EXPLOSION_COLOR>Blast"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponMagneticDamageMod",
+        "prefixTag": "magni",
+        "suffixTag": "bra",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_MAGNETIC_COLOR>Magnetic"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponFactionDamageOrokin",
+        "prefixTag": "effi",
+        "suffixTag": "tas",
+        "upgradeValues": [
+          {
+            "value": 0.0049999999,
+            "locTag": "|val| Damage to Orokin"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponFactionDamageTechrot",
+        "prefixTag": "muti",
+        "suffixTag": "gia",
+        "upgradeValues": [
+          {
+            "value": 0.0049999999,
+            "locTag": "|val| Damage to Techrot"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponFactionDamageScaldra",
+        "prefixTag": "exsi",
+        "suffixTag": "llo",
+        "upgradeValues": [
+          {
+            "value": 0.0049999999,
+            "locTag": "|val| Damage to Scaldra"
           }
         ]
       }
@@ -195913,22 +196450,22 @@
     "levelStats": [
       {
         "stats": [
-          "Sonar Augment: Killing an enemy by shooting their weak spot will trigger another Sonar for 50% of remaining duration."
+          "Sonar Augment: Killing an enemy by shooting their Sonar's weak point will trigger another Sonar for 50% of its duration."
         ]
       },
       {
         "stats": [
-          "Sonar Augment: Killing an enemy by shooting their weak spot will trigger another Sonar for 65% of remaining duration."
+          "Sonar Augment: Killing an enemy by shooting their Sonar's weak point will trigger another Sonar for 65% of its duration."
         ]
       },
       {
         "stats": [
-          "Sonar Augment: Killing an enemy by shooting their weak spot will trigger another Sonar for 80% of remaining duration."
+          "Sonar Augment: Killing an enemy by shooting their Sonar's weak point will trigger another Sonar for 80% of its duration."
         ]
       },
       {
         "stats": [
-          "Sonar Augment: Killing an enemy by shooting their weak spot will trigger another Sonar for 100% of remaining duration."
+          "Sonar Augment: Killing an enemy by shooting their Sonar's weak point will trigger another Sonar for 100% of its duration."
         ]
       }
     ],
@@ -195965,74 +196502,6 @@
       "date": "2014-12-11"
     },
     "releaseDate": "2014-12-11",
-    "isPrime": false,
-    "masterable": false
-  },
-  {
-    "uniqueName": "/Lotus/Powersuits/Banshee/EarthQuakeAugmentCard",
-    "name": "Resonating Quake",
-    "polarity": "zenurik",
-    "rarity": "Rare",
-    "codexSecret": false,
-    "baseDrain": 6,
-    "fusionLimit": 3,
-    "compatName": "Banshee",
-    "type": "Warframe Mod",
-    "levelStats": [
-      {
-        "stats": [
-          "Sound Quake Augment: Forgoes channeling to create a shockwave that deals 10x Damage at the epicenter, gradually weakening as it expands out."
-        ]
-      },
-      {
-        "stats": [
-          "Sound Quake Augment: Forgoes channeling to create a shockwave that deals 12x Damage at the epicenter, gradually weakening as it expands out."
-        ]
-      },
-      {
-        "stats": [
-          "Sound Quake Augment: Forgoes channeling to create a shockwave that deals 15x Damage at the epicenter, gradually weakening as it expands out."
-        ]
-      },
-      {
-        "stats": [
-          "Sound Quake Augment: Forgoes channeling to create a shockwave that deals 20x Damage at the epicenter, gradually weakening as it expands out."
-        ]
-      }
-    ],
-    "imageName": "BansheeEarthquakeAugment1.jpg",
-    "category": "Mods",
-    "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Resonating Quake (Banshee)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Resonating Quake (Banshee)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
-    "tradable": true,
-    "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/ResonatingQuakeMod.png?c33b0",
-    "wikiaUrl": "https://wiki.warframe.com/w/Resonating_Quake",
-    "transmutable": false,
-    "introduced": {
-      "name": "Update 18.11",
-      "url": "https://wiki.warframe.com/w/Update_18%23Update_18.11",
-      "aliases": [
-        "18.11.0",
-        "18.11"
-      ],
-      "parent": "18.11",
-      "date": "2016-05-11"
-    },
-    "releaseDate": "2016-05-11",
     "isPrime": false,
     "masterable": false
   },
@@ -198414,8 +198883,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -198681,6 +199150,161 @@
           {
             "value": 0.006666,
             "locTag": "|val|% Zoom"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponWeakpointDamage",
+        "prefixTag": "eni",
+        "suffixTag": "vo",
+        "upgradeValues": [
+          {
+            "value": 0.025,
+            "locTag": "|val|% Weak Point Damage"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponWeakpointCriticalChance",
+        "prefixTag": "exiti",
+        "suffixTag": "eus",
+        "upgradeValues": [
+          {
+            "value": 0.0275,
+            "locTag": "|val|% Weak Point Critical Chance"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponAmmoEfficiency",
+        "prefixTag": "parci",
+        "suffixTag": "pia",
+        "upgradeValues": [
+          {
+            "value": -0.001,
+            "locTag": "|val|% Ammo Efficiency",
+            "reverseValueSymbol": true
+          }
+        ]
+      },
+      {
+        "tag": "WeaponMagazineReloadHolstered",
+        "prefixTag": "parci",
+        "suffixTag": "pia",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% Magazine Reloaded/s when Holstered"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponStatusDamage",
+        "prefixTag": "plaga",
+        "suffixTag": "mna",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% Status Damage"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponGasDamageMod",
+        "prefixTag": "cali",
+        "suffixTag": "fel",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_GAS_COLOR>Gas"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponCorrosiveDamageMod",
+        "prefixTag": "cori",
+        "suffixTag": "or",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_CORROSIVE_COLOR>Corrosive"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponViralDamageMod",
+        "prefixTag": "cari",
+        "suffixTag": "sco",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_VIRAL_COLOR>Viral"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponRadiationDamageMod",
+        "prefixTag": "radi",
+        "suffixTag": "lo",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_RADIATION_COLOR>Radiation"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponBlastDamageMod",
+        "prefixTag": "fraga",
+        "suffixTag": "tus",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_EXPLOSION_COLOR>Blast"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponMagneticDamageMod",
+        "prefixTag": "magni",
+        "suffixTag": "bra",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_MAGNETIC_COLOR>Magnetic"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponFactionDamageOrokin",
+        "prefixTag": "effi",
+        "suffixTag": "tas",
+        "upgradeValues": [
+          {
+            "value": 0.0049999999,
+            "locTag": "|val| Damage to Orokin"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponFactionDamageTechrot",
+        "prefixTag": "muti",
+        "suffixTag": "gia",
+        "upgradeValues": [
+          {
+            "value": 0.0049999999,
+            "locTag": "|val| Damage to Techrot"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponFactionDamageScaldra",
+        "prefixTag": "exsi",
+        "suffixTag": "llo",
+        "upgradeValues": [
+          {
+            "value": 0.0049999999,
+            "locTag": "|val| Damage to Scaldra"
           }
         ]
       }
@@ -215332,6 +215956,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Seeker of Truth",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Solaris United (Rude Zuud), Old Mate",
         "type": "Pax Seeker",
         "chance": 100,
@@ -215555,6 +216185,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Seeker of Truth",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Solaris United (Rude Zuud), Old Mate",
         "type": "Pax Seeker",
         "chance": 100,
@@ -215750,6 +216386,12 @@
         "type": "Seeker",
         "chance": 1.49,
         "rarity": "Rare"
+      },
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Seeker of Truth",
+        "chance": 100,
+        "rarity": "Common"
       },
       {
         "location": "Solaris United (Rude Zuud), Old Mate",
@@ -220029,57 +220671,57 @@
     "levelStats": [
       {
         "stats": [
-          "On Headshot Kill:\\n+5 Energy"
+          "[PH] On Weak Point Kill:\\n+5 Energy"
         ]
       },
       {
         "stats": [
-          "On Headshot Kill:\\n+6 Energy"
+          "[PH] On Weak Point Kill:\\n+6 Energy"
         ]
       },
       {
         "stats": [
-          "On Headshot Kill:\\n+7 Energy"
+          "[PH] On Weak Point Kill:\\n+7 Energy"
         ]
       },
       {
         "stats": [
-          "On Headshot Kill:\\n+8 Energy"
+          "[PH] On Weak Point Kill:\\n+8 Energy"
         ]
       },
       {
         "stats": [
-          "On Headshot Kill:\\n+9 Energy"
+          "[PH] On Weak Point Kill:\\n+9 Energy"
         ]
       },
       {
         "stats": [
-          "On Headshot Kill:\\n+10 Energy"
+          "[PH] On Weak Point Kill:\\n+10 Energy"
         ]
       },
       {
         "stats": [
-          "On Headshot Kill:\\n+11 Energy"
+          "[PH] On Weak Point Kill:\\n+11 Energy"
         ]
       },
       {
         "stats": [
-          "On Headshot Kill:\\n+12 Energy"
+          "[PH] On Weak Point Kill:\\n+12 Energy"
         ]
       },
       {
         "stats": [
-          "On Headshot Kill:\\n+13 Energy"
+          "[PH] On Weak Point Kill:\\n+13 Energy"
         ]
       },
       {
         "stats": [
-          "On Headshot Kill:\\n+14 Energy"
+          "[PH] On Weak Point Kill:\\n+14 Energy"
         ]
       },
       {
         "stats": [
-          "On Headshot Kill:\\n+15 Energy"
+          "[PH] On Weak Point Kill:\\n+15 Energy"
         ]
       }
     ],
@@ -226614,8 +227256,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -226870,6 +227512,161 @@
           {
             "value": 0.0049999999,
             "locTag": "|val| Damage to Infested"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponWeakpointDamage",
+        "prefixTag": "eni",
+        "suffixTag": "vo",
+        "upgradeValues": [
+          {
+            "value": 0.025,
+            "locTag": "|val|% Weak Point Damage"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponWeakpointCriticalChance",
+        "prefixTag": "exiti",
+        "suffixTag": "eus",
+        "upgradeValues": [
+          {
+            "value": 0.0275,
+            "locTag": "|val|% Weak Point Critical Chance"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponAmmoEfficiency",
+        "prefixTag": "parci",
+        "suffixTag": "pia",
+        "upgradeValues": [
+          {
+            "value": -0.001,
+            "locTag": "|val|% Ammo Efficiency",
+            "reverseValueSymbol": true
+          }
+        ]
+      },
+      {
+        "tag": "WeaponMagazineReloadHolstered",
+        "prefixTag": "parci",
+        "suffixTag": "pia",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% Magazine Reloaded/s when Holstered"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponStatusDamage",
+        "prefixTag": "plaga",
+        "suffixTag": "mna",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% Status Damage"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponGasDamageMod",
+        "prefixTag": "cali",
+        "suffixTag": "fel",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_GAS_COLOR>Gas"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponCorrosiveDamageMod",
+        "prefixTag": "cori",
+        "suffixTag": "or",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_CORROSIVE_COLOR>Corrosive"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponViralDamageMod",
+        "prefixTag": "cari",
+        "suffixTag": "sco",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_VIRAL_COLOR>Viral"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponRadiationDamageMod",
+        "prefixTag": "radi",
+        "suffixTag": "lo",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_RADIATION_COLOR>Radiation"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponBlastDamageMod",
+        "prefixTag": "fraga",
+        "suffixTag": "tus",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_EXPLOSION_COLOR>Blast"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponMagneticDamageMod",
+        "prefixTag": "magni",
+        "suffixTag": "bra",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% <DT_MAGNETIC_COLOR>Magnetic"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponFactionDamageOrokin",
+        "prefixTag": "effi",
+        "suffixTag": "tas",
+        "upgradeValues": [
+          {
+            "value": 0.0049999999,
+            "locTag": "|val| Damage to Orokin"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponFactionDamageTechrot",
+        "prefixTag": "muti",
+        "suffixTag": "gia",
+        "upgradeValues": [
+          {
+            "value": 0.0049999999,
+            "locTag": "|val| Damage to Techrot"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponFactionDamageScaldra",
+        "prefixTag": "exsi",
+        "suffixTag": "llo",
+        "upgradeValues": [
+          {
+            "value": 0.0049999999,
+            "locTag": "|val| Damage to Scaldra"
           }
         ]
       }
@@ -243049,7 +243846,7 @@
   },
   {
     "uniqueName": "/Lotus/Powersuits/Banshee/PushAugmentCard",
-    "name": "Sonic Fracture",
+    "name": "Sonic Siphon",
     "polarity": "zenurik",
     "rarity": "Rare",
     "codexSecret": false,
@@ -243060,42 +243857,28 @@
     "levelStats": [
       {
         "stats": [
-          "Sonic Boom Augment: Enemy Armor is reduced by 35%."
+          "Sonic Boom Augment: Gain Armor for each enemy hit by Sonic Boom for 12s."
         ]
       },
       {
         "stats": [
-          "Sonic Boom Augment: Enemy Armor is reduced by 45%."
+          "Sonic Boom Augment: Gain Armor for each enemy hit by Sonic Boom for 15s."
         ]
       },
       {
         "stats": [
-          "Sonic Boom Augment: Enemy Armor is reduced by 55%."
+          "Sonic Boom Augment: Gain Armor for each enemy hit by Sonic Boom for 18s."
         ]
       },
       {
         "stats": [
-          "Sonic Boom Augment: Enemy Armor is reduced by 70%."
+          "Sonic Boom Augment: Gain Armor for each enemy hit by Sonic Boom for 20s."
         ]
       }
     ],
     "imageName": "BansheePushAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Sonic Fracture (Banshee)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Sonic Fracture (Banshee)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SonicFractureMod.png?e74f0",
@@ -272477,8 +273260,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -272505,8 +273288,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -272533,8 +273316,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -272562,8 +273345,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -272591,8 +273374,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -272620,8 +273403,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -272649,8 +273432,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -272678,8 +273461,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -272707,8 +273490,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -272736,8 +273519,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -285619,8 +286402,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2,
-    "fusionLimit": 434,
+    "baseDrain": 2025586688,
+    "fusionLimit": 593,
     "upgradeEntries": [
       {
         "tag": "WeaponMeleeDamageMod",

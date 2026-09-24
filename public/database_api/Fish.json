@@ -35,7 +35,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyInfestedCommonD"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonDFishItemMedium",
@@ -92,7 +95,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyHybridRareA"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Deimos/HybridRareAFishItemMedium",
@@ -149,7 +155,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyInfestedCommonB"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonBFishItemMedium",
@@ -379,7 +388,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/BothRareBootTrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmCommonFishBItem",
@@ -417,7 +429,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Venus/CorpusWarmCommonFishBTrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmCommonFishBMediumItem",
@@ -498,7 +513,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Venus/OrokinBothRareFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/OrokinBothRareFishAMediumItem",
@@ -567,7 +585,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/BothCommonFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishAItemMedium",
@@ -624,7 +645,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyOrokinUncommonA"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Deimos/OrokinUncommonAFishItemMedium",
@@ -667,7 +691,10 @@
     "imageName": "CorpusBoot.png",
     "category": "Fish",
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Venus/CrewmanBootTrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonAFishItem",
@@ -705,7 +732,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyInfestedCommonA"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonAFishItemMedium",
@@ -858,7 +888,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/NightRareFishBTrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishBItemMedium",
@@ -963,7 +996,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyOrokinRareA"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Deimos/OrokinRareAFishItemMedium",
@@ -1020,7 +1056,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Venus/CorpusWarmCommonFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmCommonFishAMediumItem",
@@ -1077,7 +1116,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Venus/CorpusCoolUncommonFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusCoolUncommonFishAMediumItem",
@@ -1134,7 +1176,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyInfestedRareA"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedRareAFishItemMedium",
@@ -1203,7 +1248,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/NightLegendaryFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItemMedium",
@@ -1266,7 +1314,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyInfestedUncommonA"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedUncommonAFishItemMedium",
@@ -1407,7 +1458,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/BothCommonFishBTrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishBItemMedium",
@@ -1602,7 +1656,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/BothUncommonFishBTrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishBItemMedium",
@@ -1767,7 +1824,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/DayCommonFishBTrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishBItemMedium",
@@ -1872,7 +1932,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Venus/CorpusWarmUncommonFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmUncommonFishAMediumItem",
@@ -1935,7 +1998,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyInfestedCommonC"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonCFishItemMedium",
@@ -1992,7 +2058,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyInfestedCommonE"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonEFishItemMedium",
@@ -2073,7 +2142,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Venus/SolarisWarmRareFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/SolarisWarmRareFishAMediumItem",
@@ -2214,7 +2286,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/DayCommonFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishAItemMedium",
@@ -2319,7 +2394,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Venus/CorpusBothUncommonFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusBothUncommonFishAMediumItem",
@@ -2382,7 +2460,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/DayUncommonFishBTrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishBItemMedium",
@@ -2535,7 +2616,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/BothRareFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothRareFishAItemMedium",
@@ -2640,7 +2724,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyOrokinLegendaryA"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Deimos/OrokinLegendaryAFishItemMedium",
@@ -2829,7 +2916,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/NightRareFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItemMedium",
@@ -2946,7 +3036,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyHybridUncommonA"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Deimos/HybridUncommonAFishItemMedium",
@@ -3003,7 +3096,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Venus/SolarisCoolUncommonFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/SolarisCoolUncommonFishAMediumItem",
@@ -3072,7 +3168,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Venus/CorpusCoolCommonFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusCoolCommonFishAMediumItem",
@@ -3135,7 +3234,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Venus/SolarisBothCommonFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/SolarisBothCommonFishAMediumItem",
@@ -3276,7 +3378,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/BothUncommonFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItemMedium",
@@ -3405,7 +3510,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Venus/OrokinBothLegendaryFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/OrokinBothLegendaryFishAMediumItem",
@@ -3474,7 +3582,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Venus/SolarisCoolCommonFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/SolarisCoolCommonFishAMediumItem",
@@ -3603,7 +3714,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/DayUncommonFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItemMedium",
@@ -3720,7 +3834,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Venus/OrokinCoolRareFishATrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/OrokinCoolRareFishAMediumItem",
@@ -3789,7 +3906,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyHybridUncommonB"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Deimos/HybridUncommonBFishItemMedium",
@@ -3930,7 +4050,10 @@
       }
     ],
     "tradable": true,
-    "masterable": false
+    "masterable": false,
+    "parentUniqueNames": [
+      "/Lotus/Types/Items/ShipDecos/DayCommonFishCTrophy"
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishCItemMedium",

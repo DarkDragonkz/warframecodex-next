@@ -1586,6 +1586,18 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FrozenSigil",
+    "name": "Glacium Sigil",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "description": "The ice is here, the ice is there, the ice is all around with this full-body sigil.",
+    "type": "Sigil",
+    "imageName": "FrozenSigil.png",
+    "category": "Sigils",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BaroKavatSigil",
     "name": "Glaring Sigil",
     "codexSecret": false,
@@ -2061,7 +2073,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/JadeSigil",
     "name": "Jade Ophanim Sigil",
     "codexSecret": false,
-    "description": "A sigil depicting Jade’s Ophanim gaze.",
+    "description": "A sigil depicting Jade's Ophanim gaze.",
     "type": "Sigil",
     "imageName": "JadeSigil.png",
     "category": "Sigils",
@@ -2803,6 +2815,14 @@
     "type": "Sigil",
     "imageName": "OstronCommunityGlyph.png",
     "category": "Sigils",
+    "drops": [
+      {
+        "location": "Operational Supply, Collaborator",
+        "type": "Ostron Community Sigil",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -3102,7 +3122,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ThraxSigil",
     "name": "Prisma Thrax Sigil",
     "codexSecret": true,
-    "description": "From Baro Ki’Teer comes this stylish reimagining of the legendary king, Dominus Thrax.",
+    "description": "From Baro Ki'Teer comes this stylish reimagining of the legendary king, Dominus Thrax.",
     "type": "Sigil",
     "imageName": "DuviriStartingZoneIconParadox.png",
     "category": "Sigils",
@@ -3113,7 +3133,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/VorDuviriSigil",
     "name": "Prisma Vor Sigil",
     "codexSecret": true,
-    "description": "From Baro Ki’Teer comes this stylish reimagining of the infamous Captain Vor.",
+    "description": "From Baro Ki'Teer comes this stylish reimagining of the infamous Captain Vor.",
     "type": "Sigil",
     "imageName": "DuviriStartingZoneIconWarframe.png",
     "category": "Sigils",
@@ -3147,6 +3167,14 @@
     "type": "Sigil",
     "imageName": "TwitchProminenceSigil.png",
     "category": "Sigils",
+    "drops": [
+      {
+        "location": "Operational Supply, Collaborator",
+        "type": "Teralyst Prominence Sigil",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -3497,6 +3525,14 @@
     "type": "Sigil",
     "imageName": "EnergySigilA_d.png",
     "category": "Sigils",
+    "drops": [
+      {
+        "location": "Operational Supply, Collaborator",
+        "type": "Rift Sigil",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -4079,6 +4115,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EpochOperationSigil",
+    "name": "Taubound Sigil",
+    "codexSecret": false,
+    "description": "Proclaim your participation in the death of Eris and Epoch Operation: Taubound with this sigil.",
+    "type": "Sigil",
+    "imageName": "EpochOperation.png",
+    "category": "Sigils",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TempleSigil",
     "name": "Temple Sigil",
     "codexSecret": false,
@@ -4139,7 +4186,7 @@
     "codexSecret": false,
     "description": "Bestowed upon those who joined together in celebration at TennoCon 2016.",
     "type": "Sigil",
-    "imageName": "TennoCon2016.png",
+    "imageName": "Tennocon2016.png",
     "category": "Sigils",
     "tradable": false,
     "masterable": false
@@ -4328,6 +4375,14 @@
     "type": "Sigil",
     "imageName": "DawnsEarlyLight.png",
     "category": "Sigils",
+    "drops": [
+      {
+        "location": "Operational Supply, Collaborator",
+        "type": "Teralyst Prominence Sigil",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -4543,7 +4598,7 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LavosDeluxeSigil",
     "name": "Vaporis Sigil",
     "codexSecret": false,
-    "description": "The touch of alchemy leaves its mark, permeating the entire body. Lavos Khymia’s signature sigil.",
+    "description": "The touch of alchemy leaves its mark, permeating the entire body. Lavos Khymia's signature sigil.",
     "type": "Sigil",
     "imageName": "LavosDeluxeSigil.png",
     "category": "Sigils",
