@@ -5570,6 +5570,7 @@
       "Technocyte Coda"
     ],
     "stancePolarity": "naramon",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/CodaPathocyst.png?2ea1f",
     "wikiaUrl": "https://wiki.warframe.com/w/Coda_Pathocyst",
     "introduced": {
       "name": "Update 38.5",
@@ -5762,6 +5763,7 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Corufell.png?5fe41",
     "wikiaUrl": "https://wiki.warframe.com/w/Corufell",
     "introduced": {
       "name": "Update 32.3",
@@ -5932,6 +5934,7 @@
       "Grineer"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Cronus.png?b7485",
     "wikiaUrl": "https://wiki.warframe.com/w/Cronus",
     "introduced": {
       "name": "Vanilla",
@@ -6355,6 +6358,7 @@
       "Vaulted"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/DakraPrime.png?2c888",
     "wikiaUrl": "https://wiki.warframe.com/w/Dakra_Prime",
     "introduced": {
       "name": "Update 10.0",
@@ -6537,6 +6541,7 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/DarkDagger.png?7fd23",
     "wikiaUrl": "https://wiki.warframe.com/w/Dark_Dagger",
     "introduced": {
       "name": "Update 5.0",
@@ -6706,6 +6711,7 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/DarkSplitSwordHeavyBlade.png?f19ff",
     "wikiaUrl": "https://wiki.warframe.com/w/Dark_Split-Sword_(Heavy_Blade)",
     "introduced": {
       "name": "Update 18.14",
@@ -6877,6 +6883,7 @@
       "Tenno"
     ],
     "stancePolarity": "unairu",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/DarkSword.png?18126",
     "wikiaUrl": "https://wiki.warframe.com/w/Dark_Sword",
     "introduced": {
       "name": "Update 5.0",
@@ -7298,6 +7305,7 @@
       "Tenno"
     ],
     "stancePolarity": "naramon",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Destreza.png?52b66",
     "wikiaUrl": "https://wiki.warframe.com/w/Destreza",
     "introduced": {
       "name": "Update 18.3",
@@ -7470,6 +7478,7 @@
       "Vaulted"
     ],
     "stancePolarity": "naramon",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/DestrezaPrime.png?ad25e",
     "wikiaUrl": "https://wiki.warframe.com/w/Destreza_Prime",
     "introduced": {
       "name": "Hotfix 23.0.3",
@@ -42149,6 +42158,7 @@
       "Grineer"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Vastilok.png?fdf3e",
     "wikiaUrl": "https://wiki.warframe.com/w/Vastilok",
     "introduced": {
       "name": "Hotfix 30.5.4",
@@ -42303,6 +42313,7 @@
       "Steel Meridian"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/VaykorSydon.png?1524e",
     "wikiaUrl": "https://wiki.warframe.com/w/Vaykor_Sydon",
     "introduced": {
       "name": "Update: The Silver Grove 2.0",
@@ -42477,6 +42488,7 @@
       "Sentient"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Venato.png?56f40",
     "wikiaUrl": "https://wiki.warframe.com/w/Venato",
     "introduced": {
       "name": "Update 31.0",
@@ -42650,6 +42662,7 @@
       "Prime"
     ],
     "stancePolarity": "zenurik",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/VenatoPrime.png?eb0e1",
     "wikiaUrl": "https://wiki.warframe.com/w/Venato_Prime",
     "introduced": {
       "name": "Update 39.1",
@@ -42824,6 +42837,7 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Venka.png?03dd1",
     "wikiaUrl": "https://wiki.warframe.com/w/Venka",
     "introduced": {
       "name": "Update 13.9",
@@ -42996,6 +43010,7 @@
       "Never Vaulted"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/VenkaPrime.png?7ea5c",
     "wikiaUrl": "https://wiki.warframe.com/w/Venka_Prime",
     "introduced": {
       "name": "Hotfix 19.0.7",
@@ -43190,6 +43205,7 @@
       "Sentient"
     ],
     "stancePolarity": "vazarin",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Verdilac.png?6e3c1",
     "wikiaUrl": "https://wiki.warframe.com/w/Verdilac",
     "introduced": {
       "name": "Update 31.0",
@@ -43339,6 +43355,7 @@
       "Tenno"
     ],
     "stancePolarity": "naramon",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Vericres.png?bcc94",
     "wikiaUrl": "https://wiki.warframe.com/w/Vericres",
     "introduced": {
       "name": "Hotfix 31.6.4",
@@ -43531,6 +43548,7 @@
       "Orokin"
     ],
     "stancePolarity": "vazarin",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Vitrica.png?54002",
     "wikiaUrl": "https://wiki.warframe.com/w/Vitrica",
     "introduced": {
       "name": "Update 29.3",
@@ -43707,6 +43725,7 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Volnus.png?18bd9",
     "wikiaUrl": "https://wiki.warframe.com/w/Volnus",
     "introduced": {
       "name": "Update 22.0",

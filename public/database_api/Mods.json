@@ -21147,6 +21147,21 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "wikiAvailable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Brood's_Oversurge",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 44.0",
+      "url": "https://wiki.warframe.com/w/Update_44%3A_Iceblade_of_Narin",
+      "aliases": [
+        "44",
+        "44.0",
+        "Iceblade of Narin"
+      ],
+      "parent": "44.0",
+      "date": "2026-09-23"
+    },
+    "releaseDate": "2026-09-23",
     "isPrime": false,
     "masterable": false
   },
@@ -25134,6 +25149,7 @@
     "category": "Mods",
     "tradable": true,
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/ChillingClawsMod.png?f6d85",
     "wikiaUrl": "https://wiki.warframe.com/w/Chilling_Claws",
     "transmutable": false,
     "introduced": {
@@ -28166,6 +28182,21 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "wikiAvailable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Cold_Front",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 44.0",
+      "url": "https://wiki.warframe.com/w/Update_44%3A_Iceblade_of_Narin",
+      "aliases": [
+        "44",
+        "44.0",
+        "Iceblade of Narin"
+      ],
+      "parent": "44.0",
+      "date": "2026-09-23"
+    },
+    "releaseDate": "2026-09-23",
     "isPrime": false,
     "masterable": false
   },
@@ -66516,20 +66547,20 @@
     "isAugment": true,
     "tradable": true,
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/ResonatingQuakeMod.png?c33b0",
-    "wikiaUrl": "https://wiki.warframe.com/w/Resonating_Quake",
+    "wikiaUrl": "https://wiki.warframe.com/w/Gaseous_Quake",
     "transmutable": false,
     "introduced": {
-      "name": "Update 18.11",
-      "url": "https://wiki.warframe.com/w/Update_18%23Update_18.11",
+      "name": "Update 44.0",
+      "url": "https://wiki.warframe.com/w/Update_44%3A_Iceblade_of_Narin",
       "aliases": [
-        "18.11.0",
-        "18.11"
+        "44",
+        "44.0",
+        "Iceblade of Narin"
       ],
-      "parent": "18.11",
-      "date": "2016-05-11"
+      "parent": "44.0",
+      "date": "2026-09-23"
     },
-    "releaseDate": "2016-05-11",
+    "releaseDate": "2026-09-23",
     "isPrime": false,
     "masterable": false
   },
@@ -66638,6 +66669,21 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "wikiAvailable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Gastroparesis",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 44.0",
+      "url": "https://wiki.warframe.com/w/Update_44%3A_Iceblade_of_Narin",
+      "aliases": [
+        "44",
+        "44.0",
+        "Iceblade of Narin"
+      ],
+      "parent": "44.0",
+      "date": "2026-09-23"
+    },
+    "releaseDate": "2026-09-23",
     "isPrime": false,
     "masterable": false
   },
@@ -88409,6 +88455,21 @@
     "category": "Mods",
     "isAugment": true,
     "tradable": true,
+    "wikiAvailable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Infernum",
+    "transmutable": false,
+    "introduced": {
+      "name": "Update 44.0",
+      "url": "https://wiki.warframe.com/w/Update_44%3A_Iceblade_of_Narin",
+      "aliases": [
+        "44",
+        "44.0",
+        "Iceblade of Narin"
+      ],
+      "parent": "44.0",
+      "date": "2026-09-23"
+    },
+    "releaseDate": "2026-09-23",
     "isPrime": false,
     "masterable": false
   },
@@ -184302,6 +184363,7 @@
     ],
     "tradable": true,
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RadonClawsMod.png?e3a10",
     "wikiaUrl": "https://wiki.warframe.com/w/Radon_Claws",
     "transmutable": false,
     "introduced": {
@@ -184538,6 +184600,7 @@
     ],
     "tradable": true,
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RageMod.png?b135c",
     "wikiaUrl": "https://wiki.warframe.com/w/Rage",
     "transmutable": true,
     "introduced": {
@@ -184809,6 +184872,7 @@
     ],
     "tradable": true,
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RageMod.png?b135c",
     "wikiaUrl": "https://wiki.warframe.com/w/Rage",
     "transmutable": true,
     "introduced": {
@@ -185055,6 +185119,7 @@
     ],
     "tradable": true,
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RageMod.png?b135c",
     "wikiaUrl": "https://wiki.warframe.com/w/Rage",
     "transmutable": true,
     "introduced": {
@@ -185182,6 +185247,7 @@
     ],
     "tradable": false,
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RaiderMatrixMod.png?6b86b",
     "wikiaUrl": "https://wiki.warframe.com/w/Raider_Matrix",
     "transmutable": false,
     "introduced": {
@@ -185252,6 +185318,7 @@
     ],
     "tradable": true,
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RailGuardsMod.png?fb752",
     "wikiaUrl": "https://wiki.warframe.com/w/Rail_Guards",
     "transmutable": false,
     "introduced": {
@@ -185353,6 +185420,7 @@
     "category": "Mods",
     "tradable": true,
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/RangeAdvantageMod.png?c2bff",
     "wikiaUrl": "https://wiki.warframe.com/w/Range_Advantage",
     "transmutable": false,
     "introduced": {
@@ -243881,20 +243949,20 @@
     "isAugment": true,
     "tradable": true,
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/SonicFractureMod.png?e74f0",
-    "wikiaUrl": "https://wiki.warframe.com/w/Sonic_Fracture",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sonic_Siphon",
     "transmutable": false,
     "introduced": {
-      "name": "Update 16.6",
-      "url": "https://wiki.warframe.com/w/Update_16%23Update_16.6",
+      "name": "Update 44.0",
+      "url": "https://wiki.warframe.com/w/Update_44%3A_Iceblade_of_Narin",
       "aliases": [
-        "16.6.0",
-        "16.6"
+        "44",
+        "44.0",
+        "Iceblade of Narin"
       ],
-      "parent": "16.6",
-      "date": "2015-05-27"
+      "parent": "44.0",
+      "date": "2026-09-23"
     },
-    "releaseDate": "2015-05-27",
+    "releaseDate": "2026-09-23",
     "isPrime": false,
     "masterable": false
   },
