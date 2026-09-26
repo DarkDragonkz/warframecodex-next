@@ -14829,7 +14829,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/QTCC2026CatEarFrame",
     "name": "Conquera Cateura Frame Display",
-    "description": "A unique display created for PMCFQ 2026.",
+    "description": "A unique display created for Princess Margaret Cancer Foundation Quest 2026.",
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "QTCCCatEarFrame.png",
@@ -26862,6 +26862,17 @@
     "description": "The seething cover of this skin for the Grimoire does all it can to disinvite touch.",
     "type": "Skin",
     "imageName": "GrimoireEvilBaroSkin.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Effects/BaroEvilEphemeraB",
+    "name": "Eskhatos Infinitas Ephemera",
+    "codexSecret": false,
+    "description": "This ephemera is an endless source of sinister style.",
+    "type": "Skin",
+    "imageName": "BaroEvilEphemeraB.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false

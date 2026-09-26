@@ -1286,7 +1286,7 @@
     "name": "Calda Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Calda Toroids from enemies located at the Enrichment Labs in the Orb Vallis and from Scyto Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
     "codexSecret": false,
-    "itemCount": 2,
+    "itemCount": 3,
     "parents": [
       "Dissic Scaffold",
       "Exard Scaffold",
@@ -1356,7 +1356,7 @@
     "name": "Carbides",
     "description": "Resilient components used to reinforce the plated sheets of metal strapped to Grineer Ships.\n\nLocation: Eximus units in the Grineer Shipyard Tileset, and Railjack missions in Earth, Saturn, and Veil Proximas",
     "codexSecret": false,
-    "itemCount": 2000,
+    "itemCount": 800,
     "parents": [
       "Basmu",
       "Protea Telema Helmet"
@@ -1769,7 +1769,7 @@
     "name": "Condroc Wing",
     "description": "The talon on a condroc's wing is sharp enough to tear through bone.\n\nLocation: Plains of Eidolon on Earth",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 15,
     "parents": [
       "Ekwana Ii Jai",
       "Ekwana Ii Ruhang",
@@ -3228,13 +3228,13 @@
       {
         "location": "Zariman/Halako Perimeter (Exterminate)",
         "type": "Entrati Lanthorn",
-        "chance": 9.3,
+        "chance": 8.89,
         "rarity": "Rare"
       },
       {
         "location": "Zariman/The Greenway (Mobile Defense)",
         "type": "Entrati Lanthorn",
-        "chance": 9.3,
+        "chance": 8.89,
         "rarity": "Rare"
       }
     ],
@@ -3246,7 +3246,7 @@
     "name": "Entrati Lanthorn",
     "description": "A ceremonial beacon used to map Void locations on to real space.\n\nLocation: Albrecht's Laboratories (Deimos) and Zariman",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 10,
     "parents": [
       "Alternox",
       "Ekhein",
@@ -3324,13 +3324,13 @@
       {
         "location": "Zariman/Halako Perimeter (Exterminate)",
         "type": "Entrati Lanthorn",
-        "chance": 9.3,
+        "chance": 8.89,
         "rarity": "Rare"
       },
       {
         "location": "Zariman/The Greenway (Mobile Defense)",
         "type": "Entrati Lanthorn",
-        "chance": 9.3,
+        "chance": 8.89,
         "rarity": "Rare"
       }
     ],
@@ -4577,7 +4577,7 @@
     "name": "Hespazym Alloy",
     "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "codexSecret": false,
-    "itemCount": 50,
+    "itemCount": 30,
     "parents": [
       "Dissic Scaffold",
       "Exard Scaffold",
@@ -5585,7 +5585,7 @@
     "name": "Lunar Pitcher",
     "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
     "codexSecret": false,
-    "itemCount": 50,
+    "itemCount": 6,
     "parents": [
       "Seeding Step Ephemera",
       "Twilight Apothic"
@@ -5776,7 +5776,7 @@
     "name": "Marquise Veridos",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "codexSecret": false,
-    "itemCount": 20,
+    "itemCount": 10,
     "parents": [
       "Advanced Nosam Cutter",
       "Cyath",
@@ -6639,7 +6639,7 @@
     "name": "Nullstones",
     "description": "Nullstones do not conform to several laws of physics, making them highly prized for optimizing sensitive components.\n\nLocation: Railjack Missions",
     "codexSecret": false,
-    "itemCount": 2,
+    "itemCount": 1,
     "parents": [
       "Basmu",
       "Nautilus",
@@ -8667,7 +8667,7 @@
     "name": "Sola Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Sola Toroids from enemies located at the Temple of Profit in the Orb Vallis and from Kyta Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 3,
     "parents": [
       "Cela Bracket",
       "Certus Brace",
@@ -9522,7 +9522,7 @@
     "name": "Thermal Sludge",
     "description": "A by-product from the Weeping Towers terraforming processes.\n\nLocation: Orb Vallis on Venus",
     "codexSecret": false,
-    "itemCount": 75,
+    "itemCount": 20,
     "parents": [
       "Aegron Gyro",
       "Bad Baby",
@@ -9627,7 +9627,7 @@
     "name": "Thrax Plasm",
     "description": "Found in the remnants of Thrax Void manifestations, this plasm has several surprisingly practical applications.\n\nLocation: Zariman",
     "codexSecret": false,
-    "itemCount": 300,
+    "itemCount": 600,
     "parents": [
       "Aeolak",
       "Alternox",
@@ -10964,7 +10964,7 @@
     "name": "Vega Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Vega Toroids from enemies located at the Spaceport in the Orb Vallis and from Mite Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 3,
     "parents": [
       "Cantic Prism",
       "Haztech Pauldrons",
@@ -11026,7 +11026,7 @@
     "name": "Venerdo Alloy",
     "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "codexSecret": false,
-    "itemCount": 40,
+    "itemCount": 30,
     "parents": [
       "Adlet Core",
       "Arc Twelve",
@@ -11271,7 +11271,7 @@
     "name": "Voidgel Orb",
     "description": "A sample of ambient Void energy distilled into a neutral state.\n\nLocation: Zariman",
     "codexSecret": false,
-    "itemCount": 45,
+    "itemCount": 30,
     "parents": [
       "Felarx",
       "Gyre Automaton Helmet",
@@ -11310,13 +11310,13 @@
       {
         "location": "Zariman/Halako Perimeter (Exterminate)",
         "type": "Voidgel Orb",
-        "chance": 9.3,
+        "chance": 8.89,
         "rarity": "Rare"
       },
       {
         "location": "Zariman/The Greenway (Mobile Defense)",
         "type": "Voidgel Orb",
-        "chance": 9.3,
+        "chance": 8.89,
         "rarity": "Rare"
       }
     ],
@@ -11373,7 +11373,7 @@
     "name": "Voidplume Pinion",
     "description": "A Void Angel's living feather, ripped out in combat.\n\nLocation: Zariman",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 10,
     "parents": [
       "Felarx",
       "Innodem",

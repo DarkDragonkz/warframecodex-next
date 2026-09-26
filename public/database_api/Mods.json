@@ -7675,8 +7675,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -65306,21 +65306,21 @@
         "rarity": "Rare"
       },
       {
-        "location": "Zariman/Oro Works (Void Armageddon), Rotation B",
-        "type": "Galeforce Dawn",
-        "chance": 4.6,
-        "rarity": "Rare"
-      },
-      {
         "location": "Zariman/Halako Perimeter (Exterminate)",
         "type": "Galeforce Dawn",
-        "chance": 4.65,
+        "chance": 4.44,
         "rarity": "Rare"
       },
       {
         "location": "Zariman/The Greenway (Mobile Defense)",
         "type": "Galeforce Dawn",
-        "chance": 4.65,
+        "chance": 4.44,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Zariman/Oro Works (Void Armageddon), Rotation B",
+        "type": "Galeforce Dawn",
+        "chance": 4.6,
         "rarity": "Rare"
       },
       {
@@ -88456,6 +88456,7 @@
     "isAugment": true,
     "tradable": true,
     "wikiAvailable": true,
+    "wikiaThumbnail": "https://wiki.warframe.com/images/InfernumMod.png?dbfde",
     "wikiaUrl": "https://wiki.warframe.com/w/Infernum",
     "transmutable": false,
     "introduced": {
@@ -95209,8 +95210,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -118343,8 +118344,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "upgradeEntries": [
       {
         "tag": "WeaponMeleeDamageMod",
@@ -155637,8 +155638,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -198951,8 +198952,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -227324,8 +227325,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "upgradeEntries": [
       {
         "tag": "WeaponArmorPiercingDamageMod",
@@ -273328,8 +273329,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -273356,8 +273357,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -273384,8 +273385,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -273413,8 +273414,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -273442,8 +273443,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -273471,8 +273472,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -273500,8 +273501,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -273529,8 +273530,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -273558,8 +273559,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -273587,8 +273588,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "excludeFromCodex": true,
     "upgradeEntries": [
       {
@@ -286470,8 +286471,8 @@
     "polarity": "universal",
     "rarity": "Common",
     "codexSecret": true,
-    "baseDrain": 2025586688,
-    "fusionLimit": 593,
+    "baseDrain": -1812070400,
+    "fusionLimit": 592,
     "upgradeEntries": [
       {
         "tag": "WeaponMeleeDamageMod",
