@@ -842,7 +842,7 @@
     "name": "Axidrol Alloy",
     "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "codexSecret": false,
-    "itemCount": 30,
+    "itemCount": 45,
     "parents": [
       "Alcrom Core",
       "Bad Baby",
@@ -3814,7 +3814,7 @@
     "name": "Fieldron",
     "description": "ClanTech weaponized containment field to contain superheated substances.\n\nLocation: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards",
     "codexSecret": false,
-    "itemCount": 7,
+    "itemCount": 10,
     "parents": [
       "Amprex",
       "Antiserum Injector",
@@ -5921,7 +5921,7 @@
     "name": "Moonlight Dragonlily",
     "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 6,
+    "itemCount": 10,
     "parents": [
       "Lapis Antitoxin",
       "Nightfall Apothic",
@@ -6142,7 +6142,7 @@
     "name": "Mutagen Mass",
     "description": "This living mass can produce weaponized toxins for weaponry.\n\nLocation: Clan Research (Bio Lab in the Dojo) and Infested Outbreak Invasion Rewards",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 6,
     "parents": [
       "Acrid",
       "Bubonico",
@@ -6639,7 +6639,7 @@
     "name": "Nullstones",
     "description": "Nullstones do not conform to several laws of physics, making them highly prized for optimizing sensitive components.\n\nLocation: Railjack Missions",
     "codexSecret": false,
-    "itemCount": 1,
+    "itemCount": 5,
     "parents": [
       "Basmu",
       "Nautilus",
@@ -8962,7 +8962,7 @@
     "name": "Sunlight Dragonlily",
     "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 4,
+    "itemCount": 10,
     "parents": [
       "Citrine Antitoxin",
       "Lapis Antitoxin",

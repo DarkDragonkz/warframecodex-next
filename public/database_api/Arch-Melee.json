@@ -374,7 +374,98 @@
     "imageName": "CorufellPrime.png",
     "category": "Arch-Melee",
     "tradable": false,
+    "wikiAvailable": true,
+    "attacks": [
+      {
+        "name": "Normal Attack",
+        "speed": 1.0833334,
+        "crit_chance": 30,
+        "crit_mult": 2.5,
+        "status_chance": 20,
+        "damage": {
+          "impact": 108,
+          "slash": 40.5,
+          "puncture": 76.5
+        },
+        "slide": "450"
+      },
+      {
+        "name": "Charged Projectile",
+        "speed": 0.833,
+        "crit_chance": 30,
+        "crit_mult": 2.5,
+        "status_chance": 14,
+        "shot_type": "Projectile",
+        "shot_speed": 40,
+        "flight": 40,
+        "falloff": {
+          "start": 15,
+          "end": 30,
+          "reduction": 0.5
+        },
+        "damage": {
+          "heat": 650
+        }
+      },
+      {
+        "name": "Slam Attack",
+        "speed": 1.0833334,
+        "crit_chance": 30,
+        "crit_mult": 2.5,
+        "status_chance": 10,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 8,
+          "reduction": 0.5
+        },
+        "damage": {
+          "blast": 450
+        }
+      },
+      {
+        "name": "Heavy Slam Attack",
+        "speed": 1.0833334,
+        "crit_chance": 30,
+        "crit_mult": 2.5,
+        "status_chance": 10,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 9,
+          "reduction": 0.3
+        },
+        "damage": {
+          "blast": 675
+        }
+      }
+    ],
+    "polarities": [
+      "madurai",
+      "naramon"
+    ],
+    "tags": [
+      "Tenno",
+      "Prime"
+    ],
+    "stancePolarity": "madurai",
+    "wikiaUrl": "https://wiki.warframe.com/w/Corufell_Prime",
+    "introduced": {
+      "name": "Update 44.0",
+      "url": "https://wiki.warframe.com/w/Update_44%3A_Iceblade_of_Narin",
+      "aliases": [
+        "44",
+        "44.0",
+        "Iceblade of Narin"
+      ],
+      "parent": "44.0",
+      "date": "2026-09-23"
+    },
+    "disposition": 1,
+    "releaseDate": "2026-09-23",
     "isPrime": true,
+    "vaulted": false,
+    "estimatedVaultDate": "2028-06-23",
     "masterable": true
   },
   {

@@ -7298,6 +7298,7 @@
       "Tenno"
     ],
     "stancePolarity": "naramon",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Destreza.png?52b66",
     "wikiaUrl": "https://wiki.warframe.com/w/Destreza",
     "introduced": {
       "name": "Update 18.3",
@@ -7470,6 +7471,7 @@
       "Vaulted"
     ],
     "stancePolarity": "naramon",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/DestrezaPrime.png?ad25e",
     "wikiaUrl": "https://wiki.warframe.com/w/Destreza_Prime",
     "introduced": {
       "name": "Hotfix 23.0.3",
@@ -43531,6 +43533,7 @@
       "Orokin"
     ],
     "stancePolarity": "vazarin",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Vitrica.png?54002",
     "wikiaUrl": "https://wiki.warframe.com/w/Vitrica",
     "introduced": {
       "name": "Update 29.3",
@@ -43707,6 +43710,7 @@
       "Tenno"
     ],
     "stancePolarity": "madurai",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/Volnus.png?18bd9",
     "wikiaUrl": "https://wiki.warframe.com/w/Volnus",
     "introduced": {
       "name": "Update 22.0",
