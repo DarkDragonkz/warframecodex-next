@@ -56896,7 +56896,7 @@
     "codexSecret": false,
     "excludeFromCodex": true,
     "type": "Skin",
-    "imageName": "MerulinaPrimeSkins.png",
+    "imageName": "MerulinaPrime.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -56907,7 +56907,7 @@
     "description": "Merulina’s tiny spawn are used to foraging on the sea bed, and adapt easily to nibbling up dirt from an Orbiter floor.",
     "codexSecret": false,
     "type": "Ship Decoration",
-    "imageName": "MerulinaPrimeSkins.png",
+    "imageName": "MerulinaPrime.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -56918,7 +56918,7 @@
     "codexSecret": false,
     "description": "Yareli Prime’s faithful water-glider is happy to adorn her body as an additional ornament.",
     "type": "Skin",
-    "imageName": "MerulinaPrime.png",
+    "imageName": "MerulinaPrimeSkins.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false

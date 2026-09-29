@@ -23388,7 +23388,7 @@
         "falloff": {
           "start": 8,
           "end": 24,
-          "reduction": 0.96875
+          "reduction": 0.625
         },
         "damage": {
           "impact": 195,

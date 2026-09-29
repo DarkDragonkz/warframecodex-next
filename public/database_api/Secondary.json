@@ -2719,7 +2719,9 @@
         "crit_chance": 24,
         "crit_mult": 2.6,
         "status_chance": 22,
-        "shot_type": "Hit-Scan",
+        "shot_type": "Projectile",
+        "shot_speed": 110,
+        "flight": 110,
         "damage": {
           "puncture": 70,
           "cold": 70
