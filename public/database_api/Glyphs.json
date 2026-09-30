@@ -952,6 +952,17 @@
     "masterable": false
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAztecross",
+    "name": "Aztecross Glyph",
+    "description": "A Glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "Aztecross.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBabychanTH",
     "name": "Babychan Th Glyph",
     "description": "A Glyph for your profile.",
@@ -7882,6 +7893,17 @@
     "codexSecret": true,
     "type": "Glyph",
     "imageName": "Irisillych.png",
+    "category": "Glyphs",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageIronmouse",
+    "name": "Ironmouse Glyph",
+    "description": "A Glyph for your profile.",
+    "codexSecret": true,
+    "type": "Glyph",
+    "imageName": "Ironmouse.png",
     "category": "Glyphs",
     "tradable": false,
     "masterable": false
