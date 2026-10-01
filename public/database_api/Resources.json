@@ -842,7 +842,7 @@
     "name": "Axidrol Alloy",
     "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "codexSecret": false,
-    "itemCount": 45,
+    "itemCount": 30,
     "parents": [
       "Alcrom Core",
       "Bad Baby",
@@ -1286,7 +1286,7 @@
     "name": "Calda Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Calda Toroids from enemies located at the Enrichment Labs in the Orb Vallis and from Scyto Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
     "codexSecret": false,
-    "itemCount": 2,
+    "itemCount": 3,
     "parents": [
       "Dissic Scaffold",
       "Exard Scaffold",
@@ -1356,7 +1356,7 @@
     "name": "Carbides",
     "description": "Resilient components used to reinforce the plated sheets of metal strapped to Grineer Ships.\n\nLocation: Eximus units in the Grineer Shipyard Tileset, and Railjack missions in Earth, Saturn, and Veil Proximas",
     "codexSecret": false,
-    "itemCount": 2000,
+    "itemCount": 800,
     "parents": [
       "Basmu",
       "Protea Telema Helmet"
@@ -1769,7 +1769,7 @@
     "name": "Condroc Wing",
     "description": "The talon on a condroc's wing is sharp enough to tear through bone.\n\nLocation: Plains of Eidolon on Earth",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 15,
     "parents": [
       "Ekwana Ii Jai",
       "Ekwana Ii Ruhang",
@@ -2981,7 +2981,7 @@
     "name": "Echo Voca",
     "description": "The quietest and most elusive of Voidtongue utterances. Sought after but never found by Albrecht.\n\nLocation: Albrecht's Laboratories (Deimos)",
     "codexSecret": false,
-    "itemCount": 1,
+    "itemCount": 2,
     "parents": [
       "Grimoire",
       "Mandonel",
@@ -3246,7 +3246,7 @@
     "name": "Entrati Lanthorn",
     "description": "A ceremonial beacon used to map Void locations on to real space.\n\nLocation: Albrecht's Laboratories (Deimos) and Zariman",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 10,
     "parents": [
       "Alternox",
       "Ekhein",
@@ -3448,7 +3448,7 @@
     "name": "Esher Devar",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "codexSecret": false,
-    "itemCount": 1,
+    "itemCount": 10,
     "parents": [
       "Cryotra",
       "Focused Nosam Cutter",
@@ -3814,7 +3814,7 @@
     "name": "Fieldron",
     "description": "ClanTech weaponized containment field to contain superheated substances.\n\nLocation: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards",
     "codexSecret": false,
-    "itemCount": 2,
+    "itemCount": 7,
     "parents": [
       "Amprex",
       "Antiserum Injector",
@@ -4166,13 +4166,14 @@
     "name": "Gorgaricus Spore",
     "description": "The reproductive spore of the giant Vallis fungi is highly coveted for the complex chemical compounds it contains.\n\nLocation: Orb Vallis on Venus",
     "codexSecret": false,
-    "itemCount": 60,
+    "itemCount": 20,
     "parents": [
       "Beaky",
       "Dink-A-Donk",
       "Hextra Gyro",
       "Lambeo Moa",
       "Nychus Moa",
+      "Pax Bolt",
       "Phazor Gyro",
       "Puppeteer",
       "Rattleguts",
@@ -4300,7 +4301,7 @@
     "name": "Grokdrul",
     "description": "A noxious mix of polysaccharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.\n\nLocation: Plains of Eidolon on Earth",
     "codexSecret": false,
-    "itemCount": 55,
+    "itemCount": 40,
     "parents": [
       "Fosfor Blau",
       "Kronsh",
@@ -4576,7 +4577,7 @@
     "name": "Hespazym Alloy",
     "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "codexSecret": false,
-    "itemCount": 50,
+    "itemCount": 30,
     "parents": [
       "Dissic Scaffold",
       "Exard Scaffold",
@@ -4903,7 +4904,7 @@
     "name": "Iradite",
     "description": "A mineral valuable to the Ostrons.\n\nLocation: Plains of Eidolon on Earth",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 50,
     "parents": [
       "Cela Bracket",
       "Fosfor Rahd",
@@ -5648,7 +5649,7 @@
     "name": "Maprico",
     "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.\n\nLocation: Plains of Eidolon on Earth",
     "codexSecret": false,
-    "itemCount": 15,
+    "itemCount": 2,
     "parents": [
       "Cuthol Bait",
       "Dehtat",
@@ -5775,7 +5776,7 @@
     "name": "Marquise Veridos",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "codexSecret": false,
-    "itemCount": 20,
+    "itemCount": 10,
     "parents": [
       "Advanced Nosam Cutter",
       "Cyath",
@@ -6141,7 +6142,7 @@
     "name": "Mutagen Mass",
     "description": "This living mass can produce weaponized toxins for weaponry.\n\nLocation: Clan Research (Bio Lab in the Dojo) and Infested Outbreak Invasion Rewards",
     "codexSecret": false,
-    "itemCount": 6,
+    "itemCount": 5,
     "parents": [
       "Acrid",
       "Bubonico",
@@ -6284,7 +6285,7 @@
     "name": "Mytocardia Spore",
     "description": "A fungal body prized for its varied uses.\n\nLocation: Orb Vallis on Venus",
     "codexSecret": false,
-    "itemCount": 120,
+    "itemCount": 20,
     "parents": [
       "Catchmoon",
       "Deepbreath",
@@ -6296,6 +6297,7 @@
       "Kreska",
       "Munit Gyro",
       "Para Moa",
+      "Pax Charge",
       "Step Tens",
       "Thugs",
       "Twin Kavats"
@@ -6496,7 +6498,7 @@
     "name": "Nistlepod",
     "description": "Used by the Nistlebrush to trap and kill prey.\n\nLocation: Plains of Eidolon on Earth",
     "codexSecret": false,
-    "itemCount": 15,
+    "itemCount": 25,
     "parents": [
       "Balla",
       "Dokrahm",
@@ -6637,7 +6639,7 @@
     "name": "Nullstones",
     "description": "Nullstones do not conform to several laws of physics, making them highly prized for optimizing sensitive components.\n\nLocation: Railjack Missions",
     "codexSecret": false,
-    "itemCount": 2,
+    "itemCount": 1,
     "parents": [
       "Basmu",
       "Nautilus",
@@ -8665,7 +8667,7 @@
     "name": "Sola Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Sola Toroids from enemies located at the Temple of Profit in the Orb Vallis and from Kyta Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 3,
     "parents": [
       "Cela Bracket",
       "Certus Brace",
@@ -9062,7 +9064,7 @@
     "name": "Tear Azurite",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "codexSecret": false,
-    "itemCount": 1,
+    "itemCount": 10,
     "parents": [
       "Balla",
       "Focused Nosam Cutter",
@@ -9332,6 +9334,7 @@
       "Highbrow",
       "Hothead",
       "Jonsin Bracket",
+      "Pax Soar",
       "Tian Bracket",
       "Zip"
     ],
@@ -9519,7 +9522,7 @@
     "name": "Thermal Sludge",
     "description": "A by-product from the Weeping Towers terraforming processes.\n\nLocation: Orb Vallis on Venus",
     "codexSecret": false,
-    "itemCount": 75,
+    "itemCount": 20,
     "parents": [
       "Aegron Gyro",
       "Bad Baby",
@@ -9624,7 +9627,7 @@
     "name": "Thrax Plasm",
     "description": "Found in the remnants of Thrax Void manifestations, this plasm has several surprisingly practical applications.\n\nLocation: Zariman",
     "codexSecret": false,
-    "itemCount": 300,
+    "itemCount": 600,
     "parents": [
       "Aeolak",
       "Alternox",
@@ -10961,7 +10964,7 @@
     "name": "Vega Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Vega Toroids from enemies located at the Spaceport in the Orb Vallis and from Mite Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 3,
     "parents": [
       "Cantic Prism",
       "Haztech Pauldrons",
@@ -11023,7 +11026,7 @@
     "name": "Venerdo Alloy",
     "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "codexSecret": false,
-    "itemCount": 40,
+    "itemCount": 30,
     "parents": [
       "Adlet Core",
       "Arc Twelve",
@@ -11268,7 +11271,7 @@
     "name": "Voidgel Orb",
     "description": "A sample of ambient Void energy distilled into a neutral state.\n\nLocation: Zariman",
     "codexSecret": false,
-    "itemCount": 45,
+    "itemCount": 30,
     "parents": [
       "Felarx",
       "Gyre Automaton Helmet",
@@ -11370,7 +11373,7 @@
     "name": "Voidplume Pinion",
     "description": "A Void Angel's living feather, ripped out in combat.\n\nLocation: Zariman",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 10,
     "parents": [
       "Felarx",
       "Innodem",
