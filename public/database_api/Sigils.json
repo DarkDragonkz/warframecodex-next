@@ -139,20 +139,12 @@
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisA",
-    "name": "Arbiter Of Hexis Sigil",
+    "name": "Arbiters Of Hexis Sigil",
     "codexSecret": false,
     "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
     "type": "Sigil",
     "imageName": "FactionSigilJudge.png",
     "category": "Sigils",
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Principled",
-        "type": "Arbiter Of Hexis Sigil",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "masterable": false
   },
