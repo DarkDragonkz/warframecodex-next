@@ -16073,14 +16073,6 @@
     },
     "imageName": "OmicrusBow.png",
     "category": "Primary",
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Complete The New War",
-        "type": "Nataruk",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "wikiAvailable": true,
     "attacks": [
@@ -16261,6 +16253,7 @@
         "crit_chance": 32,
         "crit_mult": 2.4,
         "status_chance": 32,
+        "charge_time": 0.6,
         "shot_type": "Projectile",
         "shot_speed": 70,
         "flight": 70,
@@ -20364,14 +20357,6 @@
     },
     "imageName": "RaktaCernos.png",
     "category": "Primary",
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Rakta Cernos",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [
@@ -21061,14 +21046,6 @@
     },
     "imageName": "SanctiTigris.png",
     "category": "Primary",
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Sancti Tigris",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [
@@ -21566,14 +21543,6 @@
     },
     "imageName": "SecuraPenta.png",
     "category": "Primary",
-    "drops": [
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Secura Penta",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [
@@ -22018,14 +21987,6 @@
     },
     "imageName": "DrifterPistol.png",
     "category": "Primary",
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Complete The New War",
-        "type": "Sirocco",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "wikiAvailable": true,
     "attacks": [
@@ -24981,14 +24942,6 @@
     },
     "imageName": "SynoidSimulor.png",
     "category": "Primary",
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Synoid Simulor",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [
@@ -25146,14 +25099,6 @@
     },
     "imageName": "TelosBoltor.png",
     "category": "Primary",
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Telos Boltor",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [
@@ -28232,14 +28177,6 @@
     },
     "imageName": "VaykorHek.png",
     "category": "Primary",
-    "drops": [
-      {
-        "location": "Steel Meridian, General",
-        "type": "Vaykor Hek",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [

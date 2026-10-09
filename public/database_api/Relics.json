@@ -16041,11 +16041,11 @@
       {
         "chance": 13,
         "item": {
-          "name": "Epitaph Prime Barrel",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/EpitaphPrimeBarrel",
+          "name": "Nami Skyla Prime Handle",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaHandle",
           "warframeMarket": {
-            "id": "66c60c2766bbb2aedca695a5",
-            "urlName": "epitaph_prime_barrel"
+            "id": "59a5cd4d5cd9938cfede7042",
+            "urlName": "nami_skyla_prime_handle"
           }
         },
         "rarity": "Uncommon"
@@ -16053,11 +16053,11 @@
       {
         "chance": 13,
         "item": {
-          "name": "Sevagoth Prime Systems Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeSystemsBlueprint",
+          "name": "Burston Prime Barrel",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeBarrel",
           "warframeMarket": {
-            "id": "66c6080366bbb2aedca6957f",
-            "urlName": "sevagoth_prime_systems_blueprint"
+            "id": "54a73e65e779893a797fff39",
+            "urlName": "burston_prime_barrel"
           }
         },
         "rarity": "Uncommon"
@@ -16065,11 +16065,11 @@
       {
         "chance": 23.33,
         "item": {
-          "name": "Nautilus Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/SentinelRecipes/NautilusPrimeSentinelBlueprint",
+          "name": "Nautilus Prime Carapace",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCarapace",
           "warframeMarket": {
-            "id": "66c60c9066bbb2aedca695a9",
-            "urlName": "nautilus_prime_blueprint"
+            "id": "66c60c9066bbb2aedca695ab",
+            "urlName": "nautilus_prime_carapace"
           }
         },
         "rarity": "Uncommon"
@@ -16077,11 +16077,11 @@
       {
         "chance": 23.33,
         "item": {
-          "name": "Burston Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/BurstonPrimeBlueprint",
+          "name": "Burston Prime Stock",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeStock",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff3a",
-            "urlName": "burston_prime_blueprint"
+            "id": "54a73e65e779893a797fff3c",
+            "urlName": "burston_prime_stock"
           }
         },
         "rarity": "Uncommon"
@@ -16128,11 +16128,11 @@
       {
         "chance": 17,
         "item": {
-          "name": "Epitaph Prime Barrel",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/EpitaphPrimeBarrel",
+          "name": "Nami Skyla Prime Handle",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaHandle",
           "warframeMarket": {
-            "id": "66c60c2766bbb2aedca695a5",
-            "urlName": "epitaph_prime_barrel"
+            "id": "59a5cd4d5cd9938cfede7042",
+            "urlName": "nami_skyla_prime_handle"
           }
         },
         "rarity": "Uncommon"
@@ -16140,11 +16140,11 @@
       {
         "chance": 17,
         "item": {
-          "name": "Sevagoth Prime Systems Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeSystemsBlueprint",
+          "name": "Burston Prime Barrel",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeBarrel",
           "warframeMarket": {
-            "id": "66c6080366bbb2aedca6957f",
-            "urlName": "sevagoth_prime_systems_blueprint"
+            "id": "54a73e65e779893a797fff39",
+            "urlName": "burston_prime_barrel"
           }
         },
         "rarity": "Uncommon"
@@ -16152,11 +16152,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Nautilus Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/SentinelRecipes/NautilusPrimeSentinelBlueprint",
+          "name": "Nautilus Prime Carapace",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCarapace",
           "warframeMarket": {
-            "id": "66c60c9066bbb2aedca695a9",
-            "urlName": "nautilus_prime_blueprint"
+            "id": "66c60c9066bbb2aedca695ab",
+            "urlName": "nautilus_prime_carapace"
           }
         },
         "rarity": "Uncommon"
@@ -16164,11 +16164,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Burston Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/BurstonPrimeBlueprint",
+          "name": "Burston Prime Stock",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeStock",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff3a",
-            "urlName": "burston_prime_blueprint"
+            "id": "54a73e65e779893a797fff3c",
+            "urlName": "burston_prime_stock"
           }
         },
         "rarity": "Uncommon"
@@ -16215,11 +16215,11 @@
       {
         "chance": 11,
         "item": {
-          "name": "Epitaph Prime Barrel",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/EpitaphPrimeBarrel",
+          "name": "Nami Skyla Prime Handle",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaHandle",
           "warframeMarket": {
-            "id": "66c60c2766bbb2aedca695a5",
-            "urlName": "epitaph_prime_barrel"
+            "id": "59a5cd4d5cd9938cfede7042",
+            "urlName": "nami_skyla_prime_handle"
           }
         },
         "rarity": "Uncommon"
@@ -16227,11 +16227,11 @@
       {
         "chance": 11,
         "item": {
-          "name": "Sevagoth Prime Systems Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeSystemsBlueprint",
+          "name": "Burston Prime Barrel",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeBarrel",
           "warframeMarket": {
-            "id": "66c6080366bbb2aedca6957f",
-            "urlName": "sevagoth_prime_systems_blueprint"
+            "id": "54a73e65e779893a797fff39",
+            "urlName": "burston_prime_barrel"
           }
         },
         "rarity": "Uncommon"
@@ -16239,11 +16239,11 @@
       {
         "chance": 25.33,
         "item": {
-          "name": "Nautilus Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/SentinelRecipes/NautilusPrimeSentinelBlueprint",
+          "name": "Nautilus Prime Carapace",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCarapace",
           "warframeMarket": {
-            "id": "66c60c9066bbb2aedca695a9",
-            "urlName": "nautilus_prime_blueprint"
+            "id": "66c60c9066bbb2aedca695ab",
+            "urlName": "nautilus_prime_carapace"
           }
         },
         "rarity": "Uncommon"
@@ -16251,11 +16251,11 @@
       {
         "chance": 25.33,
         "item": {
-          "name": "Burston Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/BurstonPrimeBlueprint",
+          "name": "Burston Prime Stock",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeStock",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff3a",
-            "urlName": "burston_prime_blueprint"
+            "id": "54a73e65e779893a797fff3c",
+            "urlName": "burston_prime_stock"
           }
         },
         "rarity": "Uncommon"
@@ -16302,11 +16302,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Epitaph Prime Barrel",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/EpitaphPrimeBarrel",
+          "name": "Nami Skyla Prime Handle",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaHandle",
           "warframeMarket": {
-            "id": "66c60c2766bbb2aedca695a5",
-            "urlName": "epitaph_prime_barrel"
+            "id": "59a5cd4d5cd9938cfede7042",
+            "urlName": "nami_skyla_prime_handle"
           }
         },
         "rarity": "Uncommon"
@@ -16314,11 +16314,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Sevagoth Prime Systems Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeSystemsBlueprint",
+          "name": "Burston Prime Barrel",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeBarrel",
           "warframeMarket": {
-            "id": "66c6080366bbb2aedca6957f",
-            "urlName": "sevagoth_prime_systems_blueprint"
+            "id": "54a73e65e779893a797fff39",
+            "urlName": "burston_prime_barrel"
           }
         },
         "rarity": "Uncommon"
@@ -16326,11 +16326,11 @@
       {
         "chance": 16.67,
         "item": {
-          "name": "Nautilus Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/SentinelRecipes/NautilusPrimeSentinelBlueprint",
+          "name": "Nautilus Prime Carapace",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCarapace",
           "warframeMarket": {
-            "id": "66c60c9066bbb2aedca695a9",
-            "urlName": "nautilus_prime_blueprint"
+            "id": "66c60c9066bbb2aedca695ab",
+            "urlName": "nautilus_prime_carapace"
           }
         },
         "rarity": "Uncommon"
@@ -16338,11 +16338,11 @@
       {
         "chance": 16.67,
         "item": {
-          "name": "Burston Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/BurstonPrimeBlueprint",
+          "name": "Burston Prime Stock",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeStock",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff3a",
-            "urlName": "burston_prime_blueprint"
+            "id": "54a73e65e779893a797fff3c",
+            "urlName": "burston_prime_stock"
           }
         },
         "rarity": "Uncommon"
@@ -52313,11 +52313,11 @@
       {
         "chance": 4,
         "item": {
-          "name": "Nami Skyla Prime Blade",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaBlade",
+          "name": "Nautilus Prime Cerebrum",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCerebrum",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7041",
-            "urlName": "nami_skyla_prime_blade"
+            "id": "66c60c9066bbb2aedca695aa",
+            "urlName": "nautilus_prime_cerebrum"
           }
         },
         "rarity": "Rare"
@@ -52325,11 +52325,11 @@
       {
         "chance": 13,
         "item": {
-          "name": "Nautilus Prime Carapace",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCarapace",
+          "name": "Nami Skyla Prime Blade",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaBlade",
           "warframeMarket": {
-            "id": "66c60c9066bbb2aedca695ab",
-            "urlName": "nautilus_prime_carapace"
+            "id": "59a5cd4d5cd9938cfede7041",
+            "urlName": "nami_skyla_prime_blade"
           }
         },
         "rarity": "Uncommon"
@@ -52337,11 +52337,11 @@
       {
         "chance": 13,
         "item": {
-          "name": "Ballistica Prime Upper Limb",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaUpperLimb",
+          "name": "Bronco Prime Barrel",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7043",
-            "urlName": "ballistica_prime_upper_limb"
+            "id": "54a73e65e779893a797fff36",
+            "urlName": "bronco_prime_barrel"
           }
         },
         "rarity": "Uncommon"
@@ -52400,11 +52400,11 @@
       {
         "chance": 6,
         "item": {
-          "name": "Nami Skyla Prime Blade",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaBlade",
+          "name": "Nautilus Prime Cerebrum",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCerebrum",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7041",
-            "urlName": "nami_skyla_prime_blade"
+            "id": "66c60c9066bbb2aedca695aa",
+            "urlName": "nautilus_prime_cerebrum"
           }
         },
         "rarity": "Rare"
@@ -52412,11 +52412,11 @@
       {
         "chance": 17,
         "item": {
-          "name": "Nautilus Prime Carapace",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCarapace",
+          "name": "Nami Skyla Prime Blade",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaBlade",
           "warframeMarket": {
-            "id": "66c60c9066bbb2aedca695ab",
-            "urlName": "nautilus_prime_carapace"
+            "id": "59a5cd4d5cd9938cfede7041",
+            "urlName": "nami_skyla_prime_blade"
           }
         },
         "rarity": "Uncommon"
@@ -52424,11 +52424,11 @@
       {
         "chance": 17,
         "item": {
-          "name": "Ballistica Prime Upper Limb",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaUpperLimb",
+          "name": "Bronco Prime Barrel",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7043",
-            "urlName": "ballistica_prime_upper_limb"
+            "id": "54a73e65e779893a797fff36",
+            "urlName": "bronco_prime_barrel"
           }
         },
         "rarity": "Uncommon"
@@ -52487,11 +52487,11 @@
       {
         "chance": 2,
         "item": {
-          "name": "Nami Skyla Prime Blade",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaBlade",
+          "name": "Nautilus Prime Cerebrum",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCerebrum",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7041",
-            "urlName": "nami_skyla_prime_blade"
+            "id": "66c60c9066bbb2aedca695aa",
+            "urlName": "nautilus_prime_cerebrum"
           }
         },
         "rarity": "Rare"
@@ -52499,11 +52499,11 @@
       {
         "chance": 11,
         "item": {
-          "name": "Nautilus Prime Carapace",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCarapace",
+          "name": "Nami Skyla Prime Blade",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaBlade",
           "warframeMarket": {
-            "id": "66c60c9066bbb2aedca695ab",
-            "urlName": "nautilus_prime_carapace"
+            "id": "59a5cd4d5cd9938cfede7041",
+            "urlName": "nami_skyla_prime_blade"
           }
         },
         "rarity": "Uncommon"
@@ -52511,11 +52511,11 @@
       {
         "chance": 11,
         "item": {
-          "name": "Ballistica Prime Upper Limb",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaUpperLimb",
+          "name": "Bronco Prime Barrel",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7043",
-            "urlName": "ballistica_prime_upper_limb"
+            "id": "54a73e65e779893a797fff36",
+            "urlName": "bronco_prime_barrel"
           }
         },
         "rarity": "Uncommon"
@@ -52574,11 +52574,11 @@
       {
         "chance": 10,
         "item": {
-          "name": "Nami Skyla Prime Blade",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaBlade",
+          "name": "Nautilus Prime Cerebrum",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCerebrum",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7041",
-            "urlName": "nami_skyla_prime_blade"
+            "id": "66c60c9066bbb2aedca695aa",
+            "urlName": "nautilus_prime_cerebrum"
           }
         },
         "rarity": "Rare"
@@ -52586,11 +52586,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Nautilus Prime Carapace",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCarapace",
+          "name": "Nami Skyla Prime Blade",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaBlade",
           "warframeMarket": {
-            "id": "66c60c9066bbb2aedca695ab",
-            "urlName": "nautilus_prime_carapace"
+            "id": "59a5cd4d5cd9938cfede7041",
+            "urlName": "nami_skyla_prime_blade"
           }
         },
         "rarity": "Uncommon"
@@ -52598,11 +52598,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Ballistica Prime Upper Limb",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaUpperLimb",
+          "name": "Bronco Prime Barrel",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7043",
-            "urlName": "ballistica_prime_upper_limb"
+            "id": "54a73e65e779893a797fff36",
+            "urlName": "bronco_prime_barrel"
           }
         },
         "rarity": "Uncommon"
@@ -181193,11 +181193,11 @@
       {
         "chance": 4,
         "item": {
-          "name": "Sevagoth Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeBlueprint",
+          "name": "Sevagoth Prime Chassis Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeChassisBlueprint",
           "warframeMarket": {
-            "id": "66c6080266bbb2aedca6957c",
-            "urlName": "sevagoth_prime_blueprint"
+            "id": "66c6080366bbb2aedca6957e",
+            "urlName": "sevagoth_prime_chassis_blueprint"
           }
         },
         "rarity": "Rare"
@@ -181205,11 +181205,11 @@
       {
         "chance": 13,
         "item": {
-          "name": "Hydroid Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeBlueprint",
+          "name": "Sevagoth Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeBlueprint",
           "warframeMarket": {
-            "id": "59a48b625cd9938cfede7038",
-            "urlName": "hydroid_prime_blueprint"
+            "id": "66c6080266bbb2aedca6957c",
+            "urlName": "sevagoth_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -181217,11 +181217,11 @@
       {
         "chance": 13,
         "item": {
-          "name": "Bronco Prime Barrel",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
+          "name": "Epitaph Prime Barrel",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/EpitaphPrimeBarrel",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff36",
-            "urlName": "bronco_prime_barrel"
+            "id": "66c60c2766bbb2aedca695a5",
+            "urlName": "epitaph_prime_barrel"
           }
         },
         "rarity": "Uncommon"
@@ -181229,11 +181229,11 @@
       {
         "chance": 23.33,
         "item": {
-          "name": "Ballistica Prime Receiver",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaReceiver",
+          "name": "Ballistica Prime Lower Limb",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaLowerLimb",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7046",
-            "urlName": "ballistica_prime_receiver"
+            "id": "59a5cd4d5cd9938cfede7044",
+            "urlName": "ballistica_prime_lower_limb"
           }
         },
         "rarity": "Uncommon"
@@ -181241,11 +181241,11 @@
       {
         "chance": 23.33,
         "item": {
-          "name": "Burston Prime Receiver",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeReceiver",
+          "name": "Bronco Prime Receiver",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeReceiver",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff3b",
-            "urlName": "burston_prime_receiver"
+            "id": "54a73e65e779893a797fff38",
+            "urlName": "bronco_prime_receiver"
           }
         },
         "rarity": "Uncommon"
@@ -181280,11 +181280,11 @@
       {
         "chance": 6,
         "item": {
-          "name": "Sevagoth Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeBlueprint",
+          "name": "Sevagoth Prime Chassis Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeChassisBlueprint",
           "warframeMarket": {
-            "id": "66c6080266bbb2aedca6957c",
-            "urlName": "sevagoth_prime_blueprint"
+            "id": "66c6080366bbb2aedca6957e",
+            "urlName": "sevagoth_prime_chassis_blueprint"
           }
         },
         "rarity": "Rare"
@@ -181292,11 +181292,11 @@
       {
         "chance": 17,
         "item": {
-          "name": "Hydroid Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeBlueprint",
+          "name": "Sevagoth Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeBlueprint",
           "warframeMarket": {
-            "id": "59a48b625cd9938cfede7038",
-            "urlName": "hydroid_prime_blueprint"
+            "id": "66c6080266bbb2aedca6957c",
+            "urlName": "sevagoth_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -181304,11 +181304,11 @@
       {
         "chance": 17,
         "item": {
-          "name": "Bronco Prime Barrel",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
+          "name": "Epitaph Prime Barrel",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/EpitaphPrimeBarrel",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff36",
-            "urlName": "bronco_prime_barrel"
+            "id": "66c60c2766bbb2aedca695a5",
+            "urlName": "epitaph_prime_barrel"
           }
         },
         "rarity": "Uncommon"
@@ -181316,11 +181316,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Ballistica Prime Receiver",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaReceiver",
+          "name": "Ballistica Prime Lower Limb",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaLowerLimb",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7046",
-            "urlName": "ballistica_prime_receiver"
+            "id": "59a5cd4d5cd9938cfede7044",
+            "urlName": "ballistica_prime_lower_limb"
           }
         },
         "rarity": "Uncommon"
@@ -181328,11 +181328,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Burston Prime Receiver",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeReceiver",
+          "name": "Bronco Prime Receiver",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeReceiver",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff3b",
-            "urlName": "burston_prime_receiver"
+            "id": "54a73e65e779893a797fff38",
+            "urlName": "bronco_prime_receiver"
           }
         },
         "rarity": "Uncommon"
@@ -181367,11 +181367,11 @@
       {
         "chance": 2,
         "item": {
-          "name": "Sevagoth Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeBlueprint",
+          "name": "Sevagoth Prime Chassis Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeChassisBlueprint",
           "warframeMarket": {
-            "id": "66c6080266bbb2aedca6957c",
-            "urlName": "sevagoth_prime_blueprint"
+            "id": "66c6080366bbb2aedca6957e",
+            "urlName": "sevagoth_prime_chassis_blueprint"
           }
         },
         "rarity": "Rare"
@@ -181379,11 +181379,11 @@
       {
         "chance": 11,
         "item": {
-          "name": "Hydroid Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeBlueprint",
+          "name": "Sevagoth Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeBlueprint",
           "warframeMarket": {
-            "id": "59a48b625cd9938cfede7038",
-            "urlName": "hydroid_prime_blueprint"
+            "id": "66c6080266bbb2aedca6957c",
+            "urlName": "sevagoth_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -181391,11 +181391,11 @@
       {
         "chance": 11,
         "item": {
-          "name": "Bronco Prime Barrel",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
+          "name": "Epitaph Prime Barrel",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/EpitaphPrimeBarrel",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff36",
-            "urlName": "bronco_prime_barrel"
+            "id": "66c60c2766bbb2aedca695a5",
+            "urlName": "epitaph_prime_barrel"
           }
         },
         "rarity": "Uncommon"
@@ -181403,11 +181403,11 @@
       {
         "chance": 25.33,
         "item": {
-          "name": "Ballistica Prime Receiver",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaReceiver",
+          "name": "Ballistica Prime Lower Limb",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaLowerLimb",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7046",
-            "urlName": "ballistica_prime_receiver"
+            "id": "59a5cd4d5cd9938cfede7044",
+            "urlName": "ballistica_prime_lower_limb"
           }
         },
         "rarity": "Uncommon"
@@ -181415,11 +181415,11 @@
       {
         "chance": 25.33,
         "item": {
-          "name": "Burston Prime Receiver",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeReceiver",
+          "name": "Bronco Prime Receiver",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeReceiver",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff3b",
-            "urlName": "burston_prime_receiver"
+            "id": "54a73e65e779893a797fff38",
+            "urlName": "bronco_prime_receiver"
           }
         },
         "rarity": "Uncommon"
@@ -181454,11 +181454,11 @@
       {
         "chance": 10,
         "item": {
-          "name": "Sevagoth Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeBlueprint",
+          "name": "Sevagoth Prime Chassis Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeChassisBlueprint",
           "warframeMarket": {
-            "id": "66c6080266bbb2aedca6957c",
-            "urlName": "sevagoth_prime_blueprint"
+            "id": "66c6080366bbb2aedca6957e",
+            "urlName": "sevagoth_prime_chassis_blueprint"
           }
         },
         "rarity": "Rare"
@@ -181466,11 +181466,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Hydroid Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeBlueprint",
+          "name": "Sevagoth Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeBlueprint",
           "warframeMarket": {
-            "id": "59a48b625cd9938cfede7038",
-            "urlName": "hydroid_prime_blueprint"
+            "id": "66c6080266bbb2aedca6957c",
+            "urlName": "sevagoth_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -181478,11 +181478,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Bronco Prime Barrel",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
+          "name": "Epitaph Prime Barrel",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/EpitaphPrimeBarrel",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff36",
-            "urlName": "bronco_prime_barrel"
+            "id": "66c60c2766bbb2aedca695a5",
+            "urlName": "epitaph_prime_barrel"
           }
         },
         "rarity": "Uncommon"
@@ -181490,11 +181490,11 @@
       {
         "chance": 16.67,
         "item": {
-          "name": "Ballistica Prime Receiver",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaReceiver",
+          "name": "Ballistica Prime Lower Limb",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaLowerLimb",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7046",
-            "urlName": "ballistica_prime_receiver"
+            "id": "59a5cd4d5cd9938cfede7044",
+            "urlName": "ballistica_prime_lower_limb"
           }
         },
         "rarity": "Uncommon"
@@ -181502,11 +181502,11 @@
       {
         "chance": 16.67,
         "item": {
-          "name": "Burston Prime Receiver",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeReceiver",
+          "name": "Bronco Prime Receiver",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeReceiver",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff3b",
-            "urlName": "burston_prime_receiver"
+            "id": "54a73e65e779893a797fff38",
+            "urlName": "bronco_prime_receiver"
           }
         },
         "rarity": "Uncommon"
@@ -245293,11 +245293,11 @@
       {
         "chance": 13,
         "item": {
-          "name": "Ballistica Prime Lower Limb",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaLowerLimb",
+          "name": "Nautilus Prime Systems",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeSystems",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7044",
-            "urlName": "ballistica_prime_lower_limb"
+            "id": "66c60c9166bbb2aedca695ac",
+            "urlName": "nautilus_prime_systems"
           }
         },
         "rarity": "Uncommon"
@@ -245305,11 +245305,11 @@
       {
         "chance": 13,
         "item": {
-          "name": "Hydroid Prime Neuroptics Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeHelmetBlueprint",
+          "name": "Hydroid Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeBlueprint",
           "warframeMarket": {
-            "id": "59a48b625cd9938cfede7039",
-            "urlName": "hydroid_prime_neuroptics_blueprint"
+            "id": "59a48b625cd9938cfede7038",
+            "urlName": "hydroid_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -245329,11 +245329,11 @@
       {
         "chance": 23.33,
         "item": {
-          "name": "Bronco Prime Receiver",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeReceiver",
+          "name": "Nami Skyla Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/PrimeNamiSkylaBlueprint",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff38",
-            "urlName": "bronco_prime_receiver"
+            "id": "59a5c2565cd9938cfede703f",
+            "urlName": "nami_skyla_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -245380,11 +245380,11 @@
       {
         "chance": 17,
         "item": {
-          "name": "Ballistica Prime Lower Limb",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaLowerLimb",
+          "name": "Nautilus Prime Systems",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeSystems",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7044",
-            "urlName": "ballistica_prime_lower_limb"
+            "id": "66c60c9166bbb2aedca695ac",
+            "urlName": "nautilus_prime_systems"
           }
         },
         "rarity": "Uncommon"
@@ -245392,11 +245392,11 @@
       {
         "chance": 17,
         "item": {
-          "name": "Hydroid Prime Neuroptics Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeHelmetBlueprint",
+          "name": "Hydroid Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeBlueprint",
           "warframeMarket": {
-            "id": "59a48b625cd9938cfede7039",
-            "urlName": "hydroid_prime_neuroptics_blueprint"
+            "id": "59a48b625cd9938cfede7038",
+            "urlName": "hydroid_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -245416,11 +245416,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Bronco Prime Receiver",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeReceiver",
+          "name": "Nami Skyla Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/PrimeNamiSkylaBlueprint",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff38",
-            "urlName": "bronco_prime_receiver"
+            "id": "59a5c2565cd9938cfede703f",
+            "urlName": "nami_skyla_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -245467,11 +245467,11 @@
       {
         "chance": 11,
         "item": {
-          "name": "Ballistica Prime Lower Limb",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaLowerLimb",
+          "name": "Nautilus Prime Systems",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeSystems",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7044",
-            "urlName": "ballistica_prime_lower_limb"
+            "id": "66c60c9166bbb2aedca695ac",
+            "urlName": "nautilus_prime_systems"
           }
         },
         "rarity": "Uncommon"
@@ -245479,11 +245479,11 @@
       {
         "chance": 11,
         "item": {
-          "name": "Hydroid Prime Neuroptics Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeHelmetBlueprint",
+          "name": "Hydroid Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeBlueprint",
           "warframeMarket": {
-            "id": "59a48b625cd9938cfede7039",
-            "urlName": "hydroid_prime_neuroptics_blueprint"
+            "id": "59a48b625cd9938cfede7038",
+            "urlName": "hydroid_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -245503,11 +245503,11 @@
       {
         "chance": 25.33,
         "item": {
-          "name": "Bronco Prime Receiver",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeReceiver",
+          "name": "Nami Skyla Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/PrimeNamiSkylaBlueprint",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff38",
-            "urlName": "bronco_prime_receiver"
+            "id": "59a5c2565cd9938cfede703f",
+            "urlName": "nami_skyla_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -245554,11 +245554,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Ballistica Prime Lower Limb",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaLowerLimb",
+          "name": "Nautilus Prime Systems",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeSystems",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7044",
-            "urlName": "ballistica_prime_lower_limb"
+            "id": "66c60c9166bbb2aedca695ac",
+            "urlName": "nautilus_prime_systems"
           }
         },
         "rarity": "Uncommon"
@@ -245566,11 +245566,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Hydroid Prime Neuroptics Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeHelmetBlueprint",
+          "name": "Hydroid Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeBlueprint",
           "warframeMarket": {
-            "id": "59a48b625cd9938cfede7039",
-            "urlName": "hydroid_prime_neuroptics_blueprint"
+            "id": "59a48b625cd9938cfede7038",
+            "urlName": "hydroid_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -245590,11 +245590,11 @@
       {
         "chance": 16.67,
         "item": {
-          "name": "Bronco Prime Receiver",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeReceiver",
+          "name": "Nami Skyla Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/PrimeNamiSkylaBlueprint",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff38",
-            "urlName": "bronco_prime_receiver"
+            "id": "59a5c2565cd9938cfede703f",
+            "urlName": "nami_skyla_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -388427,11 +388427,11 @@
       {
         "chance": 13,
         "item": {
-          "name": "Sevagoth Prime Chassis Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeChassisBlueprint",
+          "name": "Ballistica Prime String",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaString",
           "warframeMarket": {
-            "id": "66c6080366bbb2aedca6957e",
-            "urlName": "sevagoth_prime_chassis_blueprint"
+            "id": "59a5cd4d5cd9938cfede7045",
+            "urlName": "ballistica_prime_string"
           }
         },
         "rarity": "Uncommon"
@@ -388439,11 +388439,11 @@
       {
         "chance": 13,
         "item": {
-          "name": "Nautilus Prime Systems",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeSystems",
+          "name": "Ballistica Prime Upper Limb",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaUpperLimb",
           "warframeMarket": {
-            "id": "66c60c9166bbb2aedca695ac",
-            "urlName": "nautilus_prime_systems"
+            "id": "59a5cd4d5cd9938cfede7043",
+            "urlName": "ballistica_prime_upper_limb"
           }
         },
         "rarity": "Uncommon"
@@ -388451,11 +388451,11 @@
       {
         "chance": 23.33,
         "item": {
-          "name": "Burston Prime Stock",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeStock",
+          "name": "Epitaph Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/EpitaphPrimeBlueprint",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff3c",
-            "urlName": "burston_prime_stock"
+            "id": "66c60c2766bbb2aedca695a4",
+            "urlName": "epitaph_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -388463,11 +388463,11 @@
       {
         "chance": 23.33,
         "item": {
-          "name": "Nami Skyla Prime Handle",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaHandle",
+          "name": "Burston Prime Receiver",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeReceiver",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7042",
-            "urlName": "nami_skyla_prime_handle"
+            "id": "54a73e65e779893a797fff3b",
+            "urlName": "burston_prime_receiver"
           }
         },
         "rarity": "Uncommon"
@@ -388514,11 +388514,11 @@
       {
         "chance": 17,
         "item": {
-          "name": "Sevagoth Prime Chassis Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeChassisBlueprint",
+          "name": "Ballistica Prime String",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaString",
           "warframeMarket": {
-            "id": "66c6080366bbb2aedca6957e",
-            "urlName": "sevagoth_prime_chassis_blueprint"
+            "id": "59a5cd4d5cd9938cfede7045",
+            "urlName": "ballistica_prime_string"
           }
         },
         "rarity": "Uncommon"
@@ -388526,11 +388526,11 @@
       {
         "chance": 17,
         "item": {
-          "name": "Nautilus Prime Systems",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeSystems",
+          "name": "Ballistica Prime Upper Limb",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaUpperLimb",
           "warframeMarket": {
-            "id": "66c60c9166bbb2aedca695ac",
-            "urlName": "nautilus_prime_systems"
+            "id": "59a5cd4d5cd9938cfede7043",
+            "urlName": "ballistica_prime_upper_limb"
           }
         },
         "rarity": "Uncommon"
@@ -388538,11 +388538,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Burston Prime Stock",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeStock",
+          "name": "Epitaph Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/EpitaphPrimeBlueprint",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff3c",
-            "urlName": "burston_prime_stock"
+            "id": "66c60c2766bbb2aedca695a4",
+            "urlName": "epitaph_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -388550,11 +388550,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Nami Skyla Prime Handle",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaHandle",
+          "name": "Burston Prime Receiver",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeReceiver",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7042",
-            "urlName": "nami_skyla_prime_handle"
+            "id": "54a73e65e779893a797fff3b",
+            "urlName": "burston_prime_receiver"
           }
         },
         "rarity": "Uncommon"
@@ -388601,11 +388601,11 @@
       {
         "chance": 11,
         "item": {
-          "name": "Sevagoth Prime Chassis Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeChassisBlueprint",
+          "name": "Ballistica Prime String",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaString",
           "warframeMarket": {
-            "id": "66c6080366bbb2aedca6957e",
-            "urlName": "sevagoth_prime_chassis_blueprint"
+            "id": "59a5cd4d5cd9938cfede7045",
+            "urlName": "ballistica_prime_string"
           }
         },
         "rarity": "Uncommon"
@@ -388613,11 +388613,11 @@
       {
         "chance": 11,
         "item": {
-          "name": "Nautilus Prime Systems",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeSystems",
+          "name": "Ballistica Prime Upper Limb",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaUpperLimb",
           "warframeMarket": {
-            "id": "66c60c9166bbb2aedca695ac",
-            "urlName": "nautilus_prime_systems"
+            "id": "59a5cd4d5cd9938cfede7043",
+            "urlName": "ballistica_prime_upper_limb"
           }
         },
         "rarity": "Uncommon"
@@ -388625,11 +388625,11 @@
       {
         "chance": 25.33,
         "item": {
-          "name": "Burston Prime Stock",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeStock",
+          "name": "Epitaph Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/EpitaphPrimeBlueprint",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff3c",
-            "urlName": "burston_prime_stock"
+            "id": "66c60c2766bbb2aedca695a4",
+            "urlName": "epitaph_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -388637,11 +388637,11 @@
       {
         "chance": 25.33,
         "item": {
-          "name": "Nami Skyla Prime Handle",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaHandle",
+          "name": "Burston Prime Receiver",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeReceiver",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7042",
-            "urlName": "nami_skyla_prime_handle"
+            "id": "54a73e65e779893a797fff3b",
+            "urlName": "burston_prime_receiver"
           }
         },
         "rarity": "Uncommon"
@@ -388688,11 +388688,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Sevagoth Prime Chassis Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeChassisBlueprint",
+          "name": "Ballistica Prime String",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaString",
           "warframeMarket": {
-            "id": "66c6080366bbb2aedca6957e",
-            "urlName": "sevagoth_prime_chassis_blueprint"
+            "id": "59a5cd4d5cd9938cfede7045",
+            "urlName": "ballistica_prime_string"
           }
         },
         "rarity": "Uncommon"
@@ -388700,11 +388700,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Nautilus Prime Systems",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeSystems",
+          "name": "Ballistica Prime Upper Limb",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaUpperLimb",
           "warframeMarket": {
-            "id": "66c60c9166bbb2aedca695ac",
-            "urlName": "nautilus_prime_systems"
+            "id": "59a5cd4d5cd9938cfede7043",
+            "urlName": "ballistica_prime_upper_limb"
           }
         },
         "rarity": "Uncommon"
@@ -388712,11 +388712,11 @@
       {
         "chance": 16.67,
         "item": {
-          "name": "Burston Prime Stock",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeStock",
+          "name": "Epitaph Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/EpitaphPrimeBlueprint",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff3c",
-            "urlName": "burston_prime_stock"
+            "id": "66c60c2766bbb2aedca695a4",
+            "urlName": "epitaph_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -388724,11 +388724,11 @@
       {
         "chance": 16.67,
         "item": {
-          "name": "Nami Skyla Prime Handle",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaHandle",
+          "name": "Burston Prime Receiver",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeReceiver",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7042",
-            "urlName": "nami_skyla_prime_handle"
+            "id": "54a73e65e779893a797fff3b",
+            "urlName": "burston_prime_receiver"
           }
         },
         "rarity": "Uncommon"
@@ -406707,11 +406707,11 @@
       {
         "chance": 4,
         "item": {
-          "name": "Nautilus Prime Cerebrum",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCerebrum",
+          "name": "Nautilus Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/SentinelRecipes/NautilusPrimeSentinelBlueprint",
           "warframeMarket": {
-            "id": "66c60c9066bbb2aedca695aa",
-            "urlName": "nautilus_prime_cerebrum"
+            "id": "66c60c9066bbb2aedca695a9",
+            "urlName": "nautilus_prime_blueprint"
           }
         },
         "rarity": "Rare"
@@ -406719,11 +406719,11 @@
       {
         "chance": 13,
         "item": {
-          "name": "Nami Skyla Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/PrimeNamiSkylaBlueprint",
+          "name": "Hydroid Prime Neuroptics Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeHelmetBlueprint",
           "warframeMarket": {
-            "id": "59a5c2565cd9938cfede703f",
-            "urlName": "nami_skyla_prime_blueprint"
+            "id": "59a48b625cd9938cfede7039",
+            "urlName": "hydroid_prime_neuroptics_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -406731,11 +406731,11 @@
       {
         "chance": 13,
         "item": {
-          "name": "Burston Prime Barrel",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeBarrel",
+          "name": "Ballistica Prime Receiver",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaReceiver",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff39",
-            "urlName": "burston_prime_barrel"
+            "id": "59a5cd4d5cd9938cfede7046",
+            "urlName": "ballistica_prime_receiver"
           }
         },
         "rarity": "Uncommon"
@@ -406743,11 +406743,11 @@
       {
         "chance": 23.33,
         "item": {
-          "name": "Epitaph Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/EpitaphPrimeBlueprint",
+          "name": "Sevagoth Prime Systems Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeSystemsBlueprint",
           "warframeMarket": {
-            "id": "66c60c2766bbb2aedca695a4",
-            "urlName": "epitaph_prime_blueprint"
+            "id": "66c6080366bbb2aedca6957f",
+            "urlName": "sevagoth_prime_systems_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -406755,11 +406755,11 @@
       {
         "chance": 23.33,
         "item": {
-          "name": "Ballistica Prime String",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaString",
+          "name": "Burston Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/BurstonPrimeBlueprint",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7045",
-            "urlName": "ballistica_prime_string"
+            "id": "54a73e65e779893a797fff3a",
+            "urlName": "burston_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -406794,11 +406794,11 @@
       {
         "chance": 6,
         "item": {
-          "name": "Nautilus Prime Cerebrum",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCerebrum",
+          "name": "Nautilus Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/SentinelRecipes/NautilusPrimeSentinelBlueprint",
           "warframeMarket": {
-            "id": "66c60c9066bbb2aedca695aa",
-            "urlName": "nautilus_prime_cerebrum"
+            "id": "66c60c9066bbb2aedca695a9",
+            "urlName": "nautilus_prime_blueprint"
           }
         },
         "rarity": "Rare"
@@ -406806,11 +406806,11 @@
       {
         "chance": 17,
         "item": {
-          "name": "Nami Skyla Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/PrimeNamiSkylaBlueprint",
+          "name": "Hydroid Prime Neuroptics Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeHelmetBlueprint",
           "warframeMarket": {
-            "id": "59a5c2565cd9938cfede703f",
-            "urlName": "nami_skyla_prime_blueprint"
+            "id": "59a48b625cd9938cfede7039",
+            "urlName": "hydroid_prime_neuroptics_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -406818,11 +406818,11 @@
       {
         "chance": 17,
         "item": {
-          "name": "Burston Prime Barrel",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeBarrel",
+          "name": "Ballistica Prime Receiver",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaReceiver",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff39",
-            "urlName": "burston_prime_barrel"
+            "id": "59a5cd4d5cd9938cfede7046",
+            "urlName": "ballistica_prime_receiver"
           }
         },
         "rarity": "Uncommon"
@@ -406830,11 +406830,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Epitaph Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/EpitaphPrimeBlueprint",
+          "name": "Sevagoth Prime Systems Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeSystemsBlueprint",
           "warframeMarket": {
-            "id": "66c60c2766bbb2aedca695a4",
-            "urlName": "epitaph_prime_blueprint"
+            "id": "66c6080366bbb2aedca6957f",
+            "urlName": "sevagoth_prime_systems_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -406842,11 +406842,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Ballistica Prime String",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaString",
+          "name": "Burston Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/BurstonPrimeBlueprint",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7045",
-            "urlName": "ballistica_prime_string"
+            "id": "54a73e65e779893a797fff3a",
+            "urlName": "burston_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -406881,11 +406881,11 @@
       {
         "chance": 2,
         "item": {
-          "name": "Nautilus Prime Cerebrum",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCerebrum",
+          "name": "Nautilus Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/SentinelRecipes/NautilusPrimeSentinelBlueprint",
           "warframeMarket": {
-            "id": "66c60c9066bbb2aedca695aa",
-            "urlName": "nautilus_prime_cerebrum"
+            "id": "66c60c9066bbb2aedca695a9",
+            "urlName": "nautilus_prime_blueprint"
           }
         },
         "rarity": "Rare"
@@ -406893,11 +406893,11 @@
       {
         "chance": 11,
         "item": {
-          "name": "Nami Skyla Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/PrimeNamiSkylaBlueprint",
+          "name": "Hydroid Prime Neuroptics Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeHelmetBlueprint",
           "warframeMarket": {
-            "id": "59a5c2565cd9938cfede703f",
-            "urlName": "nami_skyla_prime_blueprint"
+            "id": "59a48b625cd9938cfede7039",
+            "urlName": "hydroid_prime_neuroptics_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -406905,11 +406905,11 @@
       {
         "chance": 11,
         "item": {
-          "name": "Burston Prime Barrel",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeBarrel",
+          "name": "Ballistica Prime Receiver",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaReceiver",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff39",
-            "urlName": "burston_prime_barrel"
+            "id": "59a5cd4d5cd9938cfede7046",
+            "urlName": "ballistica_prime_receiver"
           }
         },
         "rarity": "Uncommon"
@@ -406917,11 +406917,11 @@
       {
         "chance": 25.33,
         "item": {
-          "name": "Epitaph Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/EpitaphPrimeBlueprint",
+          "name": "Sevagoth Prime Systems Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeSystemsBlueprint",
           "warframeMarket": {
-            "id": "66c60c2766bbb2aedca695a4",
-            "urlName": "epitaph_prime_blueprint"
+            "id": "66c6080366bbb2aedca6957f",
+            "urlName": "sevagoth_prime_systems_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -406929,11 +406929,11 @@
       {
         "chance": 25.33,
         "item": {
-          "name": "Ballistica Prime String",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaString",
+          "name": "Burston Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/BurstonPrimeBlueprint",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7045",
-            "urlName": "ballistica_prime_string"
+            "id": "54a73e65e779893a797fff3a",
+            "urlName": "burston_prime_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -406968,11 +406968,11 @@
       {
         "chance": 10,
         "item": {
-          "name": "Nautilus Prime Cerebrum",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCerebrum",
+          "name": "Nautilus Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/SentinelRecipes/NautilusPrimeSentinelBlueprint",
           "warframeMarket": {
-            "id": "66c60c9066bbb2aedca695aa",
-            "urlName": "nautilus_prime_cerebrum"
+            "id": "66c60c9066bbb2aedca695a9",
+            "urlName": "nautilus_prime_blueprint"
           }
         },
         "rarity": "Rare"
@@ -406980,11 +406980,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Nami Skyla Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/PrimeNamiSkylaBlueprint",
+          "name": "Hydroid Prime Neuroptics Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeHelmetBlueprint",
           "warframeMarket": {
-            "id": "59a5c2565cd9938cfede703f",
-            "urlName": "nami_skyla_prime_blueprint"
+            "id": "59a48b625cd9938cfede7039",
+            "urlName": "hydroid_prime_neuroptics_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -406992,11 +406992,11 @@
       {
         "chance": 20,
         "item": {
-          "name": "Burston Prime Barrel",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeBarrel",
+          "name": "Ballistica Prime Receiver",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaReceiver",
           "warframeMarket": {
-            "id": "54a73e65e779893a797fff39",
-            "urlName": "burston_prime_barrel"
+            "id": "59a5cd4d5cd9938cfede7046",
+            "urlName": "ballistica_prime_receiver"
           }
         },
         "rarity": "Uncommon"
@@ -407004,11 +407004,11 @@
       {
         "chance": 16.67,
         "item": {
-          "name": "Epitaph Prime Blueprint",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/EpitaphPrimeBlueprint",
+          "name": "Sevagoth Prime Systems Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeSystemsBlueprint",
           "warframeMarket": {
-            "id": "66c60c2766bbb2aedca695a4",
-            "urlName": "epitaph_prime_blueprint"
+            "id": "66c6080366bbb2aedca6957f",
+            "urlName": "sevagoth_prime_systems_blueprint"
           }
         },
         "rarity": "Uncommon"
@@ -407016,11 +407016,11 @@
       {
         "chance": 16.67,
         "item": {
-          "name": "Ballistica Prime String",
-          "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaString",
+          "name": "Burston Prime Blueprint",
+          "uniqueName": "/Lotus/Types/Recipes/Weapons/BurstonPrimeBlueprint",
           "warframeMarket": {
-            "id": "59a5cd4d5cd9938cfede7045",
-            "urlName": "ballistica_prime_string"
+            "id": "54a73e65e779893a797fff3a",
+            "urlName": "burston_prime_blueprint"
           }
         },
         "rarity": "Uncommon"

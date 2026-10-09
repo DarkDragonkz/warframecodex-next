@@ -34,20 +34,6 @@
     "imageName": "TrinityLinkAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Abating Link (Trinity)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Abating Link (Trinity)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AbatingLinkMod.png?37034",
@@ -102,20 +88,6 @@
     "imageName": "NidusPassiveAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Steel Meridian, General",
-        "type": "Abundant Mutation (Nidus)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Abundant Mutation (Nidus)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AbundantMutationMod.png?81fe5",
@@ -444,20 +416,6 @@
     "imageName": "KhoraWhipclawAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Accumulating Whipclaw (Khora)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Accumulating Whipclaw (Khora)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AccumulatingWhipclawMod.png?badc9",
@@ -1116,20 +1074,6 @@
     "imageName": "HildrynEruptionAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Aegis Gale (Hildryn)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Aegis Gale (Hildryn)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AegisGaleMod.png?f7f66",
@@ -1257,14 +1201,6 @@
     ],
     "imageName": "SentinelCopilot.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Solaris United (The Business), Doer",
-        "type": "Aerial Bond (companion)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AerialBondMod.png?65846",
@@ -1913,20 +1849,8 @@
     "isAugment": true,
     "drops": [
       {
-        "location": "Cephalon Suda, Genius",
-        "type": "Afterburn (Chroma)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
         "location": "Conclave, Tempest",
         "type": "Afterburn",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Afterburn (Chroma)",
         "chance": 100,
         "rarity": "Common"
       }
@@ -2428,14 +2352,6 @@
     ],
     "imageName": "HoverboardModM.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Glinty",
-        "type": "Air Time",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AirTimeMod.png?7daa2",
@@ -2491,20 +2407,6 @@
     "imageName": "ZephyrAirburstAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Airburst Rounds (Zephyr)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Airburst Rounds (Zephyr)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AirburstRoundsMod.png?86c88",
@@ -3661,12 +3563,6 @@
     "category": "Mods",
     "isAugment": true,
     "drops": [
-      {
-        "location": "Cephalon Simaris, Ambush\n",
-        "type": "Ambush",
-        "chance": 100,
-        "rarity": "Common"
-      },
       {
         "location": "Neptune/Cephalon Capture (Conclave), Rotation A",
         "type": "Ambush Optics",
@@ -6530,20 +6426,6 @@
     "imageName": "ZephyrDisablePassiveMod.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Anchored Glide (Zephyr)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Anchored Glide (Zephyr)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AnchoredGlideMod.png?4128a",
@@ -7065,20 +6947,6 @@
     "imageName": "NovaAntimatterAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Antimatter Absorb (Nova)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Antimatter Absorb (Nova)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AntimatterAbsorbMod.png?df14b",
@@ -8143,6 +8011,14 @@
     "type": "Arch-Gun Riven Mod",
     "imageName": "OmegaMod.png",
     "category": "Mods",
+    "drops": [
+      {
+        "location": "The Icebind: Crested Frozen Chests, Rotation A",
+        "type": "Archgun Riven Mod",
+        "chance": 1.22,
+        "rarity": "Rare"
+      }
+    ],
     "tradable": false,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ArchgunRivenMod.png?c488c",
@@ -8174,6 +8050,14 @@
     "type": "Arch-Gun Riven Mod",
     "imageName": "OmegaModIndistinctUnveiled.jpg",
     "category": "Mods",
+    "drops": [
+      {
+        "location": "The Icebind: Crested Frozen Chests, Rotation A",
+        "type": "Archgun Riven Mod",
+        "chance": 1.22,
+        "rarity": "Rare"
+      }
+    ],
     "tradable": false,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ArchgunRivenMod.png?c488c",
@@ -8274,14 +8158,6 @@
     "imageName": "KahlAvatarAbilityDurationMod.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Continuity",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ArchonContinuityMod.png?a6544",
@@ -8381,14 +8257,6 @@
     "imageName": "KahlAvatarPowerMaxMod.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Flow",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ArchonFlowMod.png?6dfca",
@@ -8488,14 +8356,6 @@
     "imageName": "KahlAvatarAbilityStrengthMod.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Intensify",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ArchonIntensifyMod.png?582da",
@@ -8595,14 +8455,6 @@
     "imageName": "KahlAvatarAbilityRangeMod.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Stretch",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ArchonStretchMod.png?622bc",
@@ -8702,14 +8554,6 @@
     "imageName": "KahlAvatarHealthMaxMod.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Vitality",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ArchonVitalityMod.png?744cc",
@@ -10807,20 +10651,6 @@
     "imageName": "NyxSelfBulletAttractorAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Assimilate (Nyx)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Assimilate (Nyx)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AssimilateMod.png?55d9e",
@@ -10865,12 +10695,6 @@
         "type": "Astral Autopsy",
         "chance": 0.1,
         "rarity": "Rare"
-      },
-      {
-        "location": "Cephalon Simaris, Astral Autopsy\n",
-        "type": "Astral Autopsy",
-        "chance": 100,
-        "rarity": "Common"
       },
       {
         "location": "Comet Shredder Captain",
@@ -12542,14 +12366,6 @@
     ],
     "imageName": "SilvaAegis.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Crusader",
-        "type": "Avenging Truth (Silva & Aegis)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AvengingTruthMod.png?824f3",
@@ -13001,20 +12817,6 @@
     "imageName": "StyanaxImpaleAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Axios Javelineers (Styanax)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Axios Javelineers (Styanax)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/AxiosJavelineersMod.png?cef48",
@@ -13122,20 +12924,6 @@
     "imageName": "HildrynBalefireAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Balefire Surge (Hildryn)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Balefire Surge (Hildryn)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/BalefireSurgeMod.png?c1b22",
@@ -13262,20 +13050,6 @@
     "imageName": "MesaBallisticBatteryAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Ballistic Bullseye (Mesa)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Ballistic Bullseye (Mesa)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/BallisticBullseyeMod.png?e605a",
@@ -16035,20 +15809,6 @@
     "imageName": "TitaniaLanternAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Beguiling Lantern (Titania)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Beguiling Lantern (Titania)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/BeguilingLanternMod.png?174c3",
@@ -16893,20 +16653,6 @@
     "imageName": "FrostPassiveAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Biting Frost (Frost)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Biting Frost (Frost)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/BitingFrostMod.png?aeadf",
@@ -17266,14 +17012,6 @@
     ],
     "imageName": "JawSword.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Crusader",
-        "type": "Blade of Truth (Jaw Sword)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/BladeofTruthMod.png?99a87",
@@ -17698,20 +17436,6 @@
     "imageName": "HildrynPillageAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Blazing Pillage (Hildryn)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Blazing Pillage (Hildryn)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/BlazingPillageMod.png?227b8",
@@ -18127,20 +17851,6 @@
     "imageName": "GarudaSeekingTalonsAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Blending Talons (Garuda)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Blending Talons (Garuda)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/BlendingTalonsMod.png?114c3",
@@ -18488,20 +18198,6 @@
     "imageName": "RevenantReaveAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Blinding Reave (Revenant)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Blinding Reave (Revenant)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/BlindingReaveMod.png?97f6e",
@@ -18703,20 +18399,6 @@
     "imageName": "GarudaBloodlettingAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Blood Forge (Garuda)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Blood Forge (Garuda)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/BloodForgeMod.png?ea553",
@@ -19614,14 +19296,6 @@
     ],
     "imageName": "HBGrindSlamMod.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Logical",
-        "type": "Bomb The Landin'",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/BombTheLandin%27Mod.png?23317",
@@ -20155,14 +19829,6 @@
     ],
     "imageName": "PlantScannerPrecept.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Botanist\n",
-        "type": "Botanist",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/BotanistMod.png?a6fe8",
@@ -20930,14 +20596,6 @@
     ],
     "imageName": "Skana.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "New Loka, Pure",
-        "type": "Bright Purity (Skana)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/BrightPurityMod.png?d5ab3",
@@ -22314,20 +21972,6 @@
     "imageName": "YinYangTargetAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Calm & Frenzy (Equinox)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Calm & Frenzy (Equinox)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Calm_%26_Frenzy",
@@ -22442,20 +22086,6 @@
     "imageName": "VoltOverloadAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Capacitance (Volt)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Capacitance (Volt)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Capacitance",
@@ -23057,20 +22687,6 @@
     "imageName": "LimboCataclysmAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Cataclysmic Continuum (Limbo)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Cataclysmic Continuum (Limbo)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Cataclysmic_Continuum",
@@ -23124,20 +22740,6 @@
     "imageName": "WispSunAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Cataclysmic Gate (Wisp)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Cataclysmic Gate (Wisp)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Cataclysmic_Gate",
@@ -23344,20 +22946,6 @@
     "imageName": "GrendelPulverizeAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Catapult (Grendel)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Catapult (Grendel)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Catapult",
@@ -23410,20 +22998,6 @@
     "imageName": "GyreEnergizedAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Cathode Current (Gyre)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Cathode Current (Gyre)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Cathode_Current",
@@ -23642,20 +23216,6 @@
     "imageName": "WukongTwinAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Celestial Stomp (Wukong)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Celestial Stomp (Wukong)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Celestial_Stomp",
@@ -23747,20 +23307,6 @@
     "imageName": "TrinityBlessingAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Champion's Blessing (Trinity)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Champion's Blessing (Trinity)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Champion's_Blessing",
@@ -23813,20 +23359,6 @@
     "imageName": "NyxChaosAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Chaos Sphere (Nyx)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Chaos Sphere (Nyx)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Chaos_Sphere",
@@ -25203,20 +24735,6 @@
     "imageName": "FrostSnowglobeAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Chilling Globe (Frost)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Chilling Globe (Frost)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ChillingGlobeMod.png?997ab",
@@ -25890,20 +25408,6 @@
     "imageName": "ExcaliburExaltedBladeAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Chromatic Blade (Excalibur)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Chromatic Blade (Excalibur)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ChromaticBladeMod.png?04988",
@@ -28004,20 +27508,6 @@
     "imageName": "GyreSphereAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Coil Recharge (Gyre)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Coil Recharge (Gyre)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/CoilRechargeMod.png?a2cda",
@@ -28119,14 +27609,6 @@
     ],
     "imageName": "HoverboardModR.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Primo",
-        "type": "Cold Arrival",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ColdArrivalMod.png?46c09",
@@ -29418,10 +28900,10 @@
     "category": "Mods",
     "drops": [
       {
-        "location": "Cephalon Simaris, Companion Weapon Riven Mod\n",
+        "location": "The Icebind: Crested Frozen Chests, Rotation A",
         "type": "Companion Weapon Riven Mod",
-        "chance": 100,
-        "rarity": "Common"
+        "chance": 1.22,
+        "rarity": "Rare"
       }
     ],
     "tradable": false,
@@ -29693,20 +29175,6 @@
     "imageName": "IvaraArtemisBowAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Concentrated Arrow (Ivara)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Concentrated Arrow (Ivara)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ConcentratedArrowMod.png?ea9d6",
@@ -31590,20 +31058,6 @@
     "imageName": "GyrePulseAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Conductive Sphere (Gyre)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Conductive Sphere (Gyre)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ConductiveSphereMod.png?81f61",
@@ -31658,20 +31112,6 @@
     "imageName": "OctaviaResonatorAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Conductor (Octavia)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Conductor (Octavia)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ConductorMod.png?92c8c",
@@ -31922,20 +31362,6 @@
     "imageName": "SarynContagionAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Contagion Cloud (Saryn)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Contagion Cloud (Saryn)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ContagionCloudMod.png?89fb3",
@@ -31999,14 +31425,6 @@
     ],
     "imageName": "SentinelProliferation.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Entrati (Son), Associate",
-        "type": "Contagious Bond (Companion)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ContagiousBondMod.png?92265",
@@ -32691,12 +32109,6 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Continuity",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
         "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation B",
         "type": "Necramech Continuity",
         "chance": 15,
@@ -32985,12 +32397,6 @@
         "type": "Necramech Continuity",
         "chance": 1.66,
         "rarity": "Uncommon"
-      },
-      {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Continuity",
-        "chance": 100,
-        "rarity": "Common"
       },
       {
         "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation B",
@@ -33344,20 +32750,6 @@
     "imageName": "NezhaDisablePassiveMod.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Controlled Slide (Nezha)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Controlled Slide (Nezha)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ControlledSlideMod.png?66910",
@@ -34995,20 +34387,6 @@
     "imageName": "MagShieldPolarizeAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Counter Pulse (Mag)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Counter Pulse (Mag)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/CounterPulseMod.png?775c6",
@@ -35415,14 +34793,6 @@
     ],
     "imageName": "SentinelPredatoryResponse.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ostron (Master Teasonai), Trusted",
-        "type": "Covert Bond (Companion)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/CovertBondMod.png?940c0",
@@ -35892,20 +35262,6 @@
     "imageName": "TerrorTotemAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Creeping Terrify (Nekros)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Creeping Terrify (Nekros)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/CreepingTerrifyMod.png?b233c",
@@ -36772,20 +36128,6 @@
     "imageName": "WispBreachSurgeAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Critical Surge (Wisp)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Critical Surge (Wisp)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/CriticalSurgeMod.png?d8765",
@@ -38572,20 +37914,6 @@
     "imageName": "LokiDecoyTwoAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Damage Decoy (Loki)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Damage Decoy (Loki)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/DamageDecoyMod.png?6b206",
@@ -38648,14 +37976,6 @@
     ],
     "imageName": "AkbroncoPrimeViralMod.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Entrati (Father), Friend",
-        "type": "Damzav-Vati (Akbronco Prime)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Damzav-VatiMod.png?0d448",
@@ -38711,20 +38031,6 @@
     "imageName": "SevagothSowAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Dark Propagation (Sevagoth)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Dark Propagation (Sevagoth)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/DarkPropagationMod.png?4378f",
@@ -39063,14 +38369,6 @@
     ],
     "imageName": "Grinlok.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "The Perrin Sequence, Senior Executive",
-        "type": "Deadly Sequence (Grinlok)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/DeadlySequenceMod.png?662c6",
@@ -40819,20 +40117,6 @@
     "imageName": "InarosDesiccationAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Desiccation's Curse (Inaros)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Desiccation's Curse (Inaros)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Desiccation%27sCurseMod.png?08eb3",
@@ -40886,20 +40170,6 @@
     "imageName": "NekrosDesecrateAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Despoil (Nekros)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Despoil (Nekros)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/DespoilMod.png?f37b3",
@@ -40932,14 +40202,6 @@
     "description": "Upon completing research on an enemy, subsequent scans will reveal their weak points.",
     "imageName": "SentinelWeaknessScanPrecept.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Detect Vulnerability\n",
-        "type": "Detect Vulnerability",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/DetectVulnerabilityMod.png?4e076",
@@ -42158,14 +41420,6 @@
     ],
     "imageName": "Panthera.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "New Loka, Pure",
-        "type": "Disarming Purity (Panthera)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/DisarmingPurityMod.png?6790b",
@@ -43237,20 +42491,6 @@
     "imageName": "NezhaSpearAugmentTwo.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Divine Retribution (Nezha)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Divine Retribution (Nezha)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/DivineRetributionMod.png?880ee",
@@ -43761,20 +43001,6 @@
     "imageName": "GarudaDreadMirrorAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Dread Ward (Garuda)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Dread Ward (Garuda)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/DreadWardMod.png?a650e",
@@ -44242,20 +43468,6 @@
     "imageName": "YinYangSwitchAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Duality (Equinox)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Duality (Equinox)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/DualityMod.png?15329",
@@ -44318,14 +43530,6 @@
     ],
     "imageName": "SentinelVoidClone.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Entrati (Son), Associate",
-        "type": "Duplex Bond (Companion)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/DuplexBondMod.png?22e51",
@@ -45224,20 +44428,6 @@
     "imageName": "InarosSandstormAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Elemental Sandstorm (Inaros)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Elemental Sandstorm (Inaros)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ElementalSandstormMod.png?f649d",
@@ -45423,20 +44613,6 @@
     "imageName": "BaruukDodgeAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Elusive Retribution (Baruuk)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Elusive Retribution (Baruuk)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ElusiveRetributionMod.png?78f2c",
@@ -45969,20 +45145,6 @@
     "imageName": "IvaraQuiverAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Empowered Quiver (Ivara)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Empowered Quiver (Ivara)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/EmpoweredQuiverMod.png?5bb52",
@@ -46036,20 +45198,6 @@
     "imageName": "BaruukLullAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Endless Lullaby (Baruuk)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Endless Lullaby (Baruuk)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/EndlessLullabyMod.png?84f67",
@@ -47880,14 +47028,6 @@
     "imageName": "EnergyPickupGivesStrengthMod.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Energy Conversion\n",
-        "type": "Energy Conversion",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/EnergyConversionMod.png?b586e",
@@ -48005,14 +47145,6 @@
     ],
     "imageName": "ItemDropOnAssist.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Energy Generator\n",
-        "type": "Energy Generator",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/EnergyGeneratorMod.png?5f44a",
@@ -48570,20 +47702,6 @@
     "imageName": "EquinoxMendMaimAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Energy Transfer (Equinox)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Energy Transfer (Equinox)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/EnergyTransferMod.png?33299",
@@ -49029,20 +48147,6 @@
     "imageName": "ValkyrHysteriaTwoAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Enraged (Valkyr)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Enraged (Valkyr)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/EnragedMod.png?f1826",
@@ -49099,14 +48203,6 @@
     ],
     "imageName": "Supra.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Cephalon Suda, Wise",
-        "type": "Entropy Burst (Supra)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/EntropyBurstMod.png?7be80",
@@ -49174,14 +48270,6 @@
     ],
     "imageName": "Obex.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Cephalon Suda, Wise",
-        "type": "Entropy Detonation (Obex)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/EntropyDetonationMod.png?b3366",
@@ -49239,14 +48327,6 @@
     ],
     "imageName": "Kestrel.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Cephalon Suda, Wise",
-        "type": "Entropy Flight (Kestrel)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/EntropyFlightMod.png?a7cf7",
@@ -49306,14 +48386,6 @@
     ],
     "imageName": "Bolto.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Cephalon Suda, Wise",
-        "type": "Entropy Spike (Bolto)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/EntropySpikeMod.png?33be2",
@@ -49370,20 +48442,6 @@
     "imageName": "MonkeyCloudWalkerAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Enveloping Cloud (Wukong)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Enveloping Cloud (Wukong)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/EnvelopingCloudMod.png?1a999",
@@ -49710,14 +48768,6 @@
     ],
     "imageName": "Embolist.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Red Veil, Revered",
-        "type": "Eroding Blight (Embolist)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ErodingBlightMod.png?09620",
@@ -49813,20 +48863,6 @@
     "imageName": "NovaWormholeAugments.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Escape Velocity (Nova)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Escape Velocity (Nova)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/EscapeVelocityMod.png?bd199",
@@ -50052,20 +49088,6 @@
     "imageName": "ValkyrWarcryAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Eternal War (Valkyr)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Eternal War (Valkyr)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/EternalWarMod.png?b5658",
@@ -50182,20 +49204,6 @@
     "imageName": "ChromaLuckAugment1.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Everlasting Ward (Chroma)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Everlasting Ward (Chroma)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/EverlastingWardMod.png?da94f",
@@ -50424,20 +49432,6 @@
     "imageName": "EmberInfernoAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Exothermic (Ember)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Exothermic (Ember)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ExothermicMod.png?7f632",
@@ -51576,20 +50570,6 @@
     "imageName": "MirageObjectChangeAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Explosive Legerdemain (Mirage)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Explosive Legerdemain (Mirage)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ExplosiveLegerdemainMod.png?8199c",
@@ -51873,14 +50853,6 @@
     ],
     "imageName": "HoverboardModJ.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Logical",
-        "type": "Extreme Velocity",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ExtremeVelocityMod.png?7daa2",
@@ -56623,20 +55595,6 @@
     "imageName": "EmberFireballAugment2.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Fireball Frenzy (Ember)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Fireball Frenzy (Ember)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/FireballFrenzyMod.png?e6c08",
@@ -57060,12 +56018,6 @@
         "type": "Firewall",
         "chance": 10,
         "rarity": "Uncommon"
-      },
-      {
-        "location": "Vox Solaris, Instrument",
-        "type": "Magus Firewall",
-        "chance": 100,
-        "rarity": "Common"
       }
     ],
     "tradable": false,
@@ -58724,18 +57676,6 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Flow",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "NecraLoid (Loid), Clearance Odima",
-        "type": "Necramech Flow",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
         "location": "Elite Exo Flak",
         "type": "Flow Burn",
         "chance": 2.27,
@@ -59342,18 +58282,6 @@
         "type": "Flow Burn",
         "chance": 1.66,
         "rarity": "Uncommon"
-      },
-      {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Flow",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "NecraLoid (Loid), Clearance Odima",
-        "type": "Necramech Flow",
-        "chance": 100,
-        "rarity": "Common"
       },
       {
         "location": "Elite Exo Flak",
@@ -61125,20 +60053,6 @@
     "imageName": "MagCrushAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Fracturing Crush (Mag)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Fracturing Crush (Mag)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/FracturingCrushMod.png?9a357",
@@ -61369,20 +60283,6 @@
     "imageName": "FrostFreezeAugment2.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Freeze Force (Frost)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Freeze Force (Frost)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/FreezeForceMod.png?9920c",
@@ -62109,20 +61009,6 @@
     "imageName": "ZephyrTornadoAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Funnel Clouds (Zephyr)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Funnel Clouds (Zephyr)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/FunnelCloudsMod.png?64c6a",
@@ -62176,20 +61062,6 @@
     "imageName": "ExcaliburJavelinAugment2.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Furious Javelin (Excalibur)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Furious Javelin (Excalibur)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/FuriousJavelinMod.png?5d923",
@@ -63338,12 +62210,6 @@
       {
         "location": "Conclave, Whirlwind",
         "type": "Martial Fury",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Quills, Adherent",
-        "type": "Virtuos Fury",
         "chance": 100,
         "rarity": "Common"
       },
@@ -64602,12 +63468,6 @@
         "rarity": "Common"
       },
       {
-        "location": "The Quills, Adherent",
-        "type": "Virtuos Fury",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
         "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Fury",
         "chance": 11.24,
@@ -64908,20 +63768,6 @@
     "imageName": "ConcreteLaserAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Fused Crucible (Qorvex)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Fused Crucible (Qorvex)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/FusedCrucibleMod.png?81f61",
@@ -64976,20 +63822,6 @@
     "imageName": "WispReservoirAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Fused Reservoir (Wisp)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Fused Reservoir (Wisp)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/FusedReservoirMod.png?3e576",
@@ -66602,20 +65434,6 @@
     "imageName": "GrendelRegurgitateAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Gastro (Grendel)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Gastro (Grendel)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/GastroMod.png?88249",
@@ -66793,12 +65611,6 @@
         "type": "Ghost",
         "chance": 0.76,
         "rarity": "Uncommon"
-      },
-      {
-        "location": "The Quills, Architect",
-        "type": "Virtuos Ghost",
-        "chance": 100,
-        "rarity": "Common"
       }
     ],
     "tradable": true,
@@ -66859,14 +65671,6 @@
     ],
     "imageName": "BurstonPrime.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Crusader",
-        "type": "Gilded Truth (Burston Prime)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/GildedTruthMod.png?ac5a7",
@@ -67747,14 +66551,6 @@
     ],
     "imageName": "DarkDagger.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Red Veil, Revered",
-        "type": "Gleaming Blight (Dark Dagger)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/GleamingBlightMod.png?09620",
@@ -68326,20 +67122,6 @@
     "imageName": "GrendelDevourAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Gourmand (Grendel)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Gourmand (Grendel)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/GourmandMod.png?6adc5",
@@ -68589,20 +67371,6 @@
     "imageName": "MagPullAugment3.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Greedy Pull (Mag)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Greedy Pull (Mag)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/GreedyPullMod.png?16681",
@@ -69162,18 +67930,6 @@
         "rarity": "Rare"
       },
       {
-        "location": "Cephalon Suda, Genius",
-        "type": "Guardian Armor (Chroma)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Guardian Armor (Chroma)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
         "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Guardian",
         "chance": 11.92,
@@ -69259,20 +68015,6 @@
     "imageName": "ChromaScalesAugmentTwo.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Guardian Armor (Chroma)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Guardian Armor (Chroma)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/GuardianArmorMod.png?40fc1",
@@ -69788,20 +68530,6 @@
     "imageName": "ChromaEffigyAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Guided Effigy (Chroma)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Guided Effigy (Chroma)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/GuidedEffigyMod.png?43bf3",
@@ -70523,20 +69251,6 @@
     "imageName": "MirageIllusionAugment1.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Hall of Malevolence (Mirage)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Hall of Malevolence (Mirage)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/HallofMalevolenceMod.png?64f79",
@@ -70593,20 +69307,6 @@
     "imageName": "OberonHallowedGroundAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Hallowed Eruption (Oberon)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Hallowed Eruption (Oberon)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/HallowedEruptionMod.png?82c22",
@@ -70661,20 +69361,6 @@
     "imageName": "OberonReckoningAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Hallowed Reckoning (Oberon)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Hallowed Reckoning (Oberon)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/HallowedReckoningMod.png?82c22",
@@ -72625,14 +71311,6 @@
     ],
     "imageName": "SomaPrimeCritChanceMod.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Entrati (Father), Friend",
-        "type": "Hata-Satya (Soma Prime)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Hata-SatyaMod.png?d4d61",
@@ -73442,20 +72120,6 @@
     "imageName": "EmberFireBlastAugment2.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Healing Flame (Ember)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Healing Flame (Ember)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/HealingFlameMod.png?3dcbf",
@@ -73641,14 +72305,6 @@
     "imageName": "HealthPickupGivesArmourMod.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Health Conversion\n",
-        "type": "Health Conversion",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/HealthConversionMod.png?be441",
@@ -73714,14 +72370,6 @@
     "imageName": "HealthPickupGivesArmourMod.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Health Conversion\n",
-        "type": "Health Conversion",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/HealthConversionMod.png?be441",
@@ -73841,20 +72489,6 @@
     "imageName": "GrendelNourishAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Hearty Nourishment (Grendel)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Hearty Nourishment (Grendel)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/HeartyNourishmentMod.png?8ca95",
@@ -81361,12 +79995,6 @@
         "type": "Hunt",
         "chance": 0.01,
         "rarity": "Legendary"
-      },
-      {
-        "location": "Ostron (Hok), Kin",
-        "type": "Exodia Hunt",
-        "chance": 100,
-        "rarity": "Common"
       }
     ],
     "tradable": true,
@@ -82149,20 +80777,6 @@
     "imageName": "LokiInvisibilityAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Hushed Invisibility (Loki)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Hushed Invisibility (Loki)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/HushedInvisibilityMod.png?baa14",
@@ -82963,20 +81577,6 @@
     "imageName": "ValkyrHysteriaAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Hysterical Assault (Valkyr)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Hysterical Assault (Valkyr)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/HystericalAssaultMod.png?c65b8",
@@ -83386,20 +81986,8 @@
     "isAugment": true,
     "drops": [
       {
-        "location": "Cephalon Suda, Genius",
-        "type": "Ice Wave Impedance (Frost)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
         "location": "Conclave, Tempest",
         "type": "Ice Wave Impedance",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Ice Wave Impedance (Frost)",
         "chance": 100,
         "rarity": "Common"
       }
@@ -83458,20 +82046,6 @@
     "imageName": "FrostAvalancheAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Icy Avalanche (Frost)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Icy Avalanche (Frost)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/IcyAvalancheMod.png?09aca",
@@ -83526,20 +82100,6 @@
     "imageName": "EmberImmolationAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Immolated Radiance (Ember)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Immolated Radiance (Ember)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ImmolatedRadianceMod.png?d367c",
@@ -85428,14 +83988,6 @@
     ],
     "imageName": "HoverboardModA.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Proper Felon",
-        "type": "Inertia Dampeners",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/InertiaDampenersMod.png?9dc8b",
@@ -88592,20 +87144,6 @@
     "imageName": "RangerStealAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Infiltrate (Ivara)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Infiltrate (Ivara)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/InfiltrateMod.png?f83fc",
@@ -88736,20 +87274,6 @@
     "imageName": "NidusRavenousAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Steel Meridian, General",
-        "type": "Insatiable (Nidus)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Insatiable (Nidus)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/InsatiableMod.png?7bee7",
@@ -89289,18 +87813,6 @@
         "rarity": "Rare"
       },
       {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Intensify",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "NecraLoid (Loid), Clearance Odima",
-        "type": "Necramech Intensify",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
         "location": "Alad V",
         "type": "Intensify",
         "chance": 2.01,
@@ -89595,18 +88107,6 @@
         "type": "Intensify",
         "chance": 1.84,
         "rarity": "Rare"
-      },
-      {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Intensify",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "NecraLoid (Loid), Clearance Odima",
-        "type": "Necramech Intensify",
-        "chance": 100,
-        "rarity": "Common"
       },
       {
         "location": "Alad V",
@@ -89939,18 +88439,6 @@
         "type": "Intensify",
         "chance": 1.84,
         "rarity": "Rare"
-      },
-      {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Intensify",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "NecraLoid (Loid), Clearance Odima",
-        "type": "Necramech Intensify",
-        "chance": 100,
-        "rarity": "Common"
       },
       {
         "location": "Alad V",
@@ -90360,20 +88848,6 @@
     "imageName": "StyanaxArmyAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Intrepid Stand (Styanax)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Intrepid Stand (Styanax)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/IntrepidStandMod.png?28836",
@@ -91301,18 +89775,6 @@
         "type": "Iron Shrapnel",
         "chance": 100,
         "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Iron Shrapnel (Rhino)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Iron Shrapnel (Rhino)",
-        "chance": 100,
-        "rarity": "Common"
       }
     ],
     "tradable": true,
@@ -91369,20 +89831,6 @@
     "imageName": "RhinoChargeAugment2.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Steel Meridian, General",
-        "type": "Ironclad Charge (Rhino)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Ironclad Charge (Rhino)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/IroncladChargeMod.png?1fa47",
@@ -91440,20 +89888,6 @@
     "imageName": "TitaniaDisablePassiveMod.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Ironclad Flight (Titania)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Ironclad Flight (Titania)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/IroncladFlightMod.png?07513",
@@ -91649,20 +90083,6 @@
     "imageName": "LokiDisarmAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Irradiating Disarm (Loki)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Irradiating Disarm (Loki)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/IrradiatingDisarmMod.png?b49e4",
@@ -91717,20 +90137,6 @@
     "imageName": "ChoirPoolAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Jade's Judgment (Jade)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Jade's Judgment (Jade)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Jade%27sJudgmentMod.png?bc6e9",
@@ -93519,20 +91925,6 @@
     "imageName": "ZephyrTurbulenceAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Jet Stream (Zephyr)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Jet Stream (Zephyr)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/JetStreamMod.png?0beb0",
@@ -94042,14 +92434,6 @@
     ],
     "imageName": "HBEnergyTricksMod.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Logical",
-        "type": "Juice",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/JuiceMod.png?23317",
@@ -94108,14 +92492,6 @@
     ],
     "imageName": "DualCleavers.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Steel Meridian, Protector",
-        "type": "Justice Blades (Dual Cleavers)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/JusticeBladesMod.png?e7413",
@@ -95018,14 +93394,6 @@
     ],
     "imageName": "HoverboardModG.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Proper Felon",
-        "type": "Kinetic Friction",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/KineticFrictionMod.png?97834",
@@ -105783,20 +104151,6 @@
     "imageName": "KoumeiStringsAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Kumihimo Loading (Koumei)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Kumihimo Loading (Koumei)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/KumihimoLoadingMod.png?84272",
@@ -105852,20 +104206,6 @@
     "imageName": "NidusLarvaAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Steel Meridian, General",
-        "type": "Larva Burst (Nidus)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Larva Burst (Nidus)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/LarvaBurstMod.png?a729d",
@@ -106266,20 +104606,6 @@
     "imageName": "HarrowCovenantAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Lasting Covenant (Harrow)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Lasting Covenant (Harrow)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/LastingCovenantMod.png?c7bd5",
@@ -106337,14 +104663,6 @@
     ],
     "imageName": "Vulkar.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "New Loka, Pure",
-        "type": "Lasting Purity (Vulkar)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/LastingPurityMod.png?4573b",
@@ -108036,20 +106354,6 @@
     "imageName": "AlchemistTransmuteAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Lingering Transmutation (Lavos)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Lingering Transmutation (Lavos)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/LingeringTransmutationMod.png?bc3bd",
@@ -109209,14 +107513,6 @@
     ],
     "imageName": "SentinelLooterMod.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Looter\n",
-        "type": "Looter",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/LooterMod.png?7079c",
@@ -109468,20 +107764,6 @@
     "imageName": "YareliBoardAugmentTwo.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Loyal Merulina (Yareli)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Loyal Merulina (Yareli)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/LoyalMerulinaMod.png?dd217",
@@ -109706,20 +107988,6 @@
     "imageName": "GaussMachRushAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Mach Crash (Gauss)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Mach Crash (Gauss)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/MachCrashMod.png?2e96a",
@@ -109783,14 +108051,6 @@
     ],
     "imageName": "HoverboardModT.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Primo",
-        "type": "Mad Stack",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/MadStackMod.png?3a4ff",
@@ -109823,14 +108083,6 @@
     "description": "Ensures transmuted mod is of Madurai polarity and eliminates credit cost.",
     "imageName": "TransmuteCoreMaduraiMod.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Madurai Transmute Core\n",
-        "type": "Madurai Transmute Core",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/MaduraiTransmuteCoreMod.png?05e6c",
@@ -109937,14 +108189,6 @@
     ],
     "imageName": "HoverboardModB.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Glinty",
-        "type": "Mag Locks",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/MagLocksMod.png?9dc8b",
@@ -112557,20 +110801,6 @@
     "imageName": "MagMagnetizeAugmentt.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Magnetized Discharge (Mag)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Magnetized Discharge (Mag)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/MagnetizedDischargeMod.png?85dc5",
@@ -113080,14 +111310,6 @@
     ],
     "imageName": "SentinelCompoundingLaceration.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ostron (Master Teasonai), Trusted",
-        "type": "Manifold Bond (Robotic)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ManifoldBondMod.png?9d735",
@@ -113352,14 +111574,6 @@
     ],
     "imageName": "InfestedKavtVampireShieldPrecept.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Entrati (Son), Friend",
-        "type": "Martyr Symbiosis (Vulpaphyla)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/MartyrSymbiosisMod.png?8638c",
@@ -118814,7 +117028,7 @@
         "suffixTag": "nus",
         "upgradeValues": [
           {
-            "value": 0.090000004,
+            "value": 0.0089999996,
             "locTag": "|val| Parry Angle"
           }
         ]
@@ -128932,6 +127146,18 @@
         "rarity": "Legendary"
       },
       {
+        "location": "The Icebind: Crested Frozen Chests, Rotation A",
+        "type": "Melee Riven Mod",
+        "chance": 10.5,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "The Icebind: Frozen Chests, Rotation A",
+        "type": "Melee Riven Mod",
+        "chance": 11.81,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Duviri/Endless: Tier 6 (Hard)",
         "type": "Melee Riven Mod",
         "chance": 11.9,
@@ -129002,6 +127228,18 @@
         "type": "Melee Riven Mod",
         "chance": 0.95,
         "rarity": "Legendary"
+      },
+      {
+        "location": "The Icebind: Crested Frozen Chests, Rotation A",
+        "type": "Melee Riven Mod",
+        "chance": 10.5,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "The Icebind: Frozen Chests, Rotation A",
+        "type": "Melee Riven Mod",
+        "chance": 11.81,
+        "rarity": "Uncommon"
       },
       {
         "location": "Duviri/Endless: Tier 6 (Hard)",
@@ -129217,20 +127455,6 @@
     "imageName": "GaraShatterStormAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Mending Splinters (Gara)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Mending Splinters (Gara)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/MendingSplintersMod.png?eb4a6",
@@ -129441,20 +127665,6 @@
     "imageName": "YareliBoardAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Merulina Guardian (Yareli)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Merulina Guardian (Yareli)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/MerulinaGuardianMod.png?4e4ea",
@@ -129515,18 +127725,6 @@
         "type": "Mesa's Waltz",
         "chance": 100,
         "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Mesa's Waltz (Mesa)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Mesa's Waltz (Mesa)",
-        "chance": 100,
-        "rarity": "Common"
       }
     ],
     "tradable": true,
@@ -129584,20 +127782,6 @@
     "imageName": "RevenantSentientAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Mesmer Shield (Revenant)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Mesmer Shield (Revenant)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/MesmerShieldMod.png?4e4ea",
@@ -132056,20 +130240,6 @@
     "imageName": "NyxMindControlAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Mind Freak (Nyx)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Mind Freak (Nyx)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/MindFreakMod.png?36efb",
@@ -132555,20 +130725,6 @@
     "imageName": "NovaMolecularPrimeAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Molecular Fission (Nova)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Molecular Fission (Nova)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/MolecularFissionMod.png?8c095",
@@ -134419,14 +132575,6 @@
     ],
     "imageName": "SentinelEximusHunter.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Solaris United (The Business), Doer",
-        "type": "Momentous Bond (companion)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/MomentousBondMod.png?370a6",
@@ -135540,20 +133688,6 @@
     "imageName": "MesaShootingGalleryAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Muzzle Flash (Mesa)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Muzzle Flash (Mesa)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/MuzzleFlashMod.png?8500a",
@@ -135617,14 +133751,6 @@
     ],
     "imageName": "SentinelPreyDrive.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ostron (Master Teasonai), Trusted",
-        "type": "Mystic Bond (Companion)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/MysticBondMod.png?7e876",
@@ -135809,14 +133935,6 @@
     "description": "Ensures transmuted mod is of Naramon polarity and eliminates credit cost.",
     "imageName": "TransmuteCoreNaramonMod.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Naramon Transmute Core\n",
-        "type": "Naramon Transmute Core",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/NaramonTransmuteCoreMod.png?2af34",
@@ -136806,12 +134924,6 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "NecraLoid (Loid), Clearance Odima",
-        "type": "Necramech Drift",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
         "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation C",
         "type": "Necramech Drift",
         "chance": 15,
@@ -136900,12 +135012,6 @@
     "imageName": "NecramechBoostEfficiencyMod.jpg",
     "category": "Mods",
     "drops": [
-      {
-        "location": "NecraLoid (Loid), Clearance Odima",
-        "type": "Necramech Efficiency",
-        "chance": 100,
-        "rarity": "Common"
-      },
       {
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B",
         "type": "Necramech Efficiency",
@@ -137089,14 +135195,6 @@
     ],
     "imageName": "NechramechPowerMaxMod.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "NecraLoid (Loid), Clearance Odima",
-        "type": "Necramech Flow",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/NecramechFlowMod.png?1dc28",
@@ -137166,12 +135264,6 @@
         "type": "Necramech Friction",
         "chance": 0.74,
         "rarity": "Rare"
-      },
-      {
-        "location": "NecraLoid (Loid), Clearance Odima",
-        "type": "Necramech Friction",
-        "chance": 100,
-        "rarity": "Common"
       },
       {
         "location": "Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C",
@@ -137481,14 +135573,6 @@
     ],
     "imageName": "NecramechAbilityStrengthMod.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "NecraLoid (Loid), Clearance Odima",
-        "type": "Necramech Intensify",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/NecramechIntensifyMod.png?2174a",
@@ -137553,14 +135637,6 @@
     ],
     "imageName": "NecramechMeleeDamage.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "NecraLoid (Loid), Clearance Odima",
-        "type": "Necramech Pressure Point",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/NecramechPressurePointMod.png?536ae",
@@ -138038,14 +136114,6 @@
     ],
     "imageName": "NecramechBoostRechargeMod.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "NecraLoid (Loid), Clearance Modus",
-        "type": "Necramech Refuel",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/NecramechRefuelMod.png?65edd",
@@ -138894,14 +136962,6 @@
     ],
     "imageName": "NecramechHealthMaxMod.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "NecraLoid (Loid), Clearance Modus",
-        "type": "Necramech Vitality",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/NecramechVitalityMod.png?bfe4e",
@@ -139028,14 +137088,6 @@
     ],
     "imageName": "SentinelProcAbsorb.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Negate\n",
-        "type": "Negate",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/NegateMod.png?eb8e7",
@@ -139090,20 +137142,6 @@
     "imageName": "InarosSwarmAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Negation Armor (Inaros)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Negation Armor (Inaros)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/NegationArmorMod.png?6eea9",
@@ -139357,14 +137395,6 @@
     ],
     "imageName": "Miter.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Steel Meridian, Protector",
-        "type": "Neutralizing Justice (Miter)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/NeutralizingJusticeMod.png?05588",
@@ -139419,20 +137449,6 @@
     "imageName": "NovaNullStarAugment1.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Neutron Star (Nova)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Neutron Star (Nova)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/NeutronStarMod.png?24d9d",
@@ -140015,14 +138031,6 @@
     ],
     "imageName": "HoverboardModD.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Logical",
-        "type": "Nitro Boost",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/NitroBoostMod.png?fb752",
@@ -143028,20 +141036,6 @@
     "imageName": "PagemasterBookAugment1Card.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Noctua Swarm (Dante)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Noctua Swarm (Dante)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/NoctuaSwarmMod.png?84272",
@@ -145724,20 +143718,6 @@
     "imageName": "KoumeiFortuneAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Omikuji's Fortune (Koumei)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Omikuji's Fortune (Koumei)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Omikuji%27sFortuneMod.png?81f61",
@@ -146405,20 +144385,6 @@
     "imageName": "BrawlerGazeAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Ore Gaze (Atlas)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Ore Gaze (Atlas)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/OreGazeMod.png?6d146",
@@ -148641,20 +146607,6 @@
     "imageName": "NyxPsychicBoltsAugment1.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Pacifying Bolts (Nyx)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Pacifying Bolts (Nyx)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PacifyingBoltsMod.png?44e4c",
@@ -149297,20 +147249,6 @@
     "imageName": "NidusLinkAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Steel Meridian, General",
-        "type": "Parasitic Vitality (Nidus)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Parasitic Vitality (Nidus)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ParasiticVitalityMod.png?7dc1f",
@@ -150776,20 +148714,6 @@
     "imageName": "OctaviaMalletAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Partitioned Mallet (Octavia)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Partitioned Mallet (Octavia)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PartitionedMalletMod.png?acc7b",
@@ -150948,20 +148872,6 @@
     "imageName": "BrawlerLandslideAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Path of Statues (Atlas)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Path of Statues (Atlas)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PathofStatuesMod.png?c3fc2",
@@ -151571,20 +149481,6 @@
     "imageName": "YinYangAuraAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Peaceful Provocation (Equinox)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Peaceful Provocation (Equinox)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PeacefulProvocationMod.png?62c6e",
@@ -151913,14 +149809,6 @@
     ],
     "imageName": "HoverboardModQ.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Whozit",
-        "type": "Perfect Balance",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PerfectBalanceMod.png?37694",
@@ -152350,20 +150238,6 @@
     "imageName": "OberonRenewalAugment1.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Phoenix Renewal (Oberon)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Phoenix Renewal (Oberon)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PhoenixRenewalMod.png?82c22",
@@ -152562,20 +150436,6 @@
     "imageName": "VaubanOrbitalStrikeAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Photon Repeater (Vauban)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Photon Repeater (Vauban)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PhotonRepeaterMod.png?bf64d",
@@ -153687,20 +151547,6 @@
     "imageName": "IvaraNavigatorAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Piercing Navigator (Ivara)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Piercing Navigator (Ivara)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PiercingNavigatorMod.png?82c22",
@@ -153755,20 +151601,6 @@
     "imageName": "RhinoRoarAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Steel Meridian, General",
-        "type": "Piercing Roar (Rhino)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Piercing Roar (Rhino)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PiercingRoarMod.png?1f8c7",
@@ -153940,20 +151772,6 @@
     "imageName": "KhoraStrangledomeAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Pilfering Strangledome (Khora)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Pilfering Strangledome (Khora)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PilferingStrangledomeMod.png?27d00",
@@ -154008,20 +151826,6 @@
     "imageName": "HydroidTentacleSwarmAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Pilfering Swarm (Hydroid)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Pilfering Swarm (Hydroid)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PilferingSwarmMod.png?89d84",
@@ -166339,6 +164143,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "The Icebind: Frozen Chests, Rotation A",
+        "type": "Pistol Riven Mod",
+        "chance": 8.44,
+        "rarity": "Rare"
+      },
+      {
         "location": "Duviri/Endless: Tier 6 (Hard)",
         "type": "Pistol Riven Mod",
         "chance": 8.5,
@@ -166348,6 +164158,12 @@
         "location": "Duviri/Endless: Tier 7 (Hard)",
         "type": "Pistol Riven Mod",
         "chance": 8.5,
+        "rarity": "Rare"
+      },
+      {
+        "location": "The Icebind: Crested Frozen Chests, Rotation A",
+        "type": "Pistol Riven Mod",
+        "chance": 8.75,
         "rarity": "Rare"
       }
     ],
@@ -166408,6 +164224,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "The Icebind: Frozen Chests, Rotation A",
+        "type": "Pistol Riven Mod",
+        "chance": 8.44,
+        "rarity": "Rare"
+      },
+      {
         "location": "Duviri/Endless: Tier 6 (Hard)",
         "type": "Pistol Riven Mod",
         "chance": 8.5,
@@ -166417,6 +164239,12 @@
         "location": "Duviri/Endless: Tier 7 (Hard)",
         "type": "Pistol Riven Mod",
         "chance": 8.5,
+        "rarity": "Rare"
+      },
+      {
+        "location": "The Icebind: Crested Frozen Chests, Rotation A",
+        "type": "Pistol Riven Mod",
+        "chance": 8.75,
         "rarity": "Rare"
       }
     ],
@@ -169529,20 +167357,6 @@
     "imageName": "TrinityWellOfLifeAugment1.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Pool Of Life (Trinity)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Pool Of Life (Trinity)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PoolofLifeMod.png?7c12e",
@@ -169608,14 +167422,6 @@
     ],
     "imageName": "HoverboardModN.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Whozit",
-        "type": "Pop Top",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PopTopMod.png?b4915",
@@ -169669,14 +167475,6 @@
     ],
     "imageName": "HoverboardModO.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Whozit",
-        "type": "Poppin' Vert",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Poppin%27VertMod.png?c68d6",
@@ -171769,12 +169567,6 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "NecraLoid (Loid), Clearance Odima",
-        "type": "Necramech Pressure Point",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
         "location": "Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B",
         "type": "Pressure Point",
         "chance": 15.18,
@@ -172673,12 +170465,6 @@
         "type": "Pressure Point",
         "chance": 1.9,
         "rarity": "Uncommon"
-      },
-      {
-        "location": "NecraLoid (Loid), Clearance Odima",
-        "type": "Necramech Pressure Point",
-        "chance": 100,
-        "rarity": "Common"
       },
       {
         "location": "Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B",
@@ -173616,12 +171402,6 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "NecraLoid (Loid), Clearance Odima",
-        "type": "Necramech Pressure Point",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
         "location": "Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B",
         "type": "Pressure Point",
         "chance": 15.18,
@@ -174100,20 +171880,6 @@
     "imageName": "VorunaShroudAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Prey of Dynar (Voruna)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Prey of Dynar (Voruna)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PreyofDynarMod.png?88249",
@@ -174169,20 +171935,6 @@
     "imageName": "MonkeyStaffAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Primal Rage (Wukong)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Primal Rage (Wukong)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PrimalRageMod.png?2942d",
@@ -180647,14 +178399,6 @@
     ],
     "imageName": "HBEliteTricksterMod.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Logical",
-        "type": "Primo Flair",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PrimoFlairMod.png?d2a06",
@@ -180810,20 +178554,6 @@
     "imageName": "GeodeCrystalAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Prismatic Companion (Citrine)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Prismatic Companion (Citrine)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/PrismaticCompanionMod.png?bc6e9",
@@ -181000,20 +178730,6 @@
     "imageName": "ValkyrParalysisAugment1.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Prolonged Paralysis (Valkyr)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Prolonged Paralysis (Valkyr)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ProlongedParalysisMod.png?cec3c",
@@ -182805,20 +180521,6 @@
     "imageName": "NezhaFirewalkerAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Pyroclastic Flow (Nezha)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Pyroclastic Flow (Nezha)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Pyroclastic_Flow",
@@ -183160,14 +180862,6 @@
     ],
     "imageName": "HoverboardModS.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Primo",
-        "type": "Quick Escape",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Quick_Escape",
@@ -184453,20 +182147,6 @@
     "imageName": "ExcaliburRadialBlindAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Radiant Finish (Excalibur)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Radiant Finish (Excalibur)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaUrl": "https://wiki.warframe.com/w/Radiant_Finish",
@@ -185578,14 +183258,6 @@
     ],
     "imageName": "HoverboardModE.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Glinty",
-        "type": "Rail Guards",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RailGuardsMod.png?fb752",
@@ -187266,20 +184938,6 @@
     "imageName": "SentientWhirlwindAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Razor Mortar (Caliban)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Razor Mortar (Caliban)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RazorMortarMod.png?bc6e9",
@@ -187916,20 +185574,6 @@
     "imageName": "TitaniaFlightAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Razorwing Blitz (Titania)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Razorwing Blitz (Titania)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RazorwingBlitzMod.png?74403",
@@ -189234,20 +186878,6 @@
     "imageName": "BaruukSereneStormAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Reactive Storm (Baruuk)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Reactive Storm (Baruuk)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ReactiveStormMod.png?6bd05",
@@ -189381,20 +187011,6 @@
     "imageName": "NezhaBlazingChakramAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Reaping Chakram (Nezha)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Reaping Chakram (Nezha)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ReapingChakramMod.png?e58b8",
@@ -189696,14 +187312,6 @@
     ],
     "imageName": "SentinelRespawnSelf.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Reawaken\n",
-        "type": "Reawaken",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ReawakenMod.png?48a1e",
@@ -189979,20 +187587,6 @@
     "imageName": "CitrineGeodeGrowthsAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Recrystalize (Citrine)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Recrystalize (Citrine)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RecrystalizeMod.png?f41b8",
@@ -195457,20 +193051,6 @@
     "imageName": "SarynMoultAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Regenerative Molt (Saryn)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Regenerative Molt (Saryn)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RegenerativeMoltMod.png?0053f",
@@ -195534,14 +193114,6 @@
     ],
     "imageName": "SentinelAlacrityField.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Solaris United (The Business), Doer",
-        "type": "Reinforced Bond (companion)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ReinforcedBondMod.png?7e876",
@@ -195635,20 +193207,6 @@
     "imageName": "RhinoStompAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Steel Meridian, General",
-        "type": "Reinforcing Stomp (Rhino)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Reinforcing Stomp (Rhino)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ReinforcingStompMod.png?93839",
@@ -196250,20 +193808,6 @@
     "imageName": "ProteaDispensaryAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Repair Dispensary (Protea)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Repair Dispensary (Protea)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RepairDispensaryMod.png?a20e8",
@@ -196538,20 +194082,6 @@
     "imageName": "NokkoRerootAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Reroot Rampage (Nokko)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Reroot Rampage (Nokko)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RerootRampageMod.png?84272",
@@ -196810,20 +194340,6 @@
     "imageName": "BansheeSonarAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Resonance (Banshee)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Resonance (Banshee)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ResonanceMod.png?b1204",
@@ -196951,14 +194467,6 @@
     ],
     "imageName": "SentinelMutualNourishment.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ostron (Master Teasonai), Trusted",
-        "type": "Restorative Bond (Companion)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RestorativeBondMod.png?9a758",
@@ -197422,20 +194930,6 @@
     "imageName": "SarynSporeAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Revealing Spores (Saryn)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Revealing Spores (Saryn)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RevealingSporesMod.png?e29c6",
@@ -197753,20 +195247,6 @@
     "imageName": "GyreOverchargedAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Reverse Rotorswell (Gyre)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Reverse Rotorswell (Gyre)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ReverseRotorswellMod.png?82c22",
@@ -197989,20 +195469,6 @@
     "imageName": "TemplePassiveAugment1Card.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Rhythm Guard (Temple)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Rhythm Guard (Temple)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RhythmGuardMod.png?84272",
@@ -209656,6 +207122,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "The Icebind: Frozen Chests, Rotation A",
+        "type": "Rifle Riven Mod",
+        "chance": 8.44,
+        "rarity": "Rare"
+      },
+      {
         "location": "Duviri/Endless: Tier 6 (Hard)",
         "type": "Rifle Riven Mod",
         "chance": 8.5,
@@ -209665,6 +207137,12 @@
         "location": "Duviri/Endless: Tier 7 (Hard)",
         "type": "Rifle Riven Mod",
         "chance": 8.5,
+        "rarity": "Rare"
+      },
+      {
+        "location": "The Icebind: Crested Frozen Chests, Rotation A",
+        "type": "Rifle Riven Mod",
+        "chance": 8.75,
         "rarity": "Rare"
       }
     ],
@@ -209725,6 +207203,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "The Icebind: Frozen Chests, Rotation A",
+        "type": "Rifle Riven Mod",
+        "chance": 8.44,
+        "rarity": "Rare"
+      },
+      {
         "location": "Duviri/Endless: Tier 6 (Hard)",
         "type": "Rifle Riven Mod",
         "chance": 8.5,
@@ -209734,6 +207218,12 @@
         "location": "Duviri/Endless: Tier 7 (Hard)",
         "type": "Rifle Riven Mod",
         "chance": 8.5,
+        "rarity": "Rare"
+      },
+      {
+        "location": "The Icebind: Crested Frozen Chests, Rotation A",
+        "type": "Rifle Riven Mod",
+        "chance": 8.75,
         "rarity": "Rare"
       }
     ],
@@ -209872,20 +207362,6 @@
     "imageName": "LimboBanishAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Rift Haven (Limbo)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Rift Haven (Limbo)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RiftHavenMod.png?4150d",
@@ -210013,20 +207489,6 @@
     "imageName": "LimboRiftWalkAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Rift Torrent (Limbo)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Rift Torrent (Limbo)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RiftTorrentMod.png?18696",
@@ -210744,20 +208206,6 @@
     "imageName": "AshBladestormAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Rising Storm (Ash)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Rising Storm (Ash)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RisingStormMod.png?f649d",
@@ -210901,20 +208349,6 @@
     "imageName": "HydroidLiquifyAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Rousing Plunder (Hydroid)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Rousing Plunder (Hydroid)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/CurativeUndertowMod.png?5202f",
@@ -210971,20 +208405,6 @@
     "imageName": "AtlasPassiveAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Rubble Heap (Atlas)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Rubble Heap (Atlas)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/RubbleHeapMod.png?abfaa",
@@ -213603,14 +211023,6 @@
     ],
     "imageName": "MeleeSacrificeModA.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Complete The Sacrifice",
-        "type": "Sacrificial Pressure",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SacrificialPressureMod.png?95f61",
@@ -213716,14 +211128,6 @@
     ],
     "imageName": "MeleeSacrificeModB.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Complete The Sacrifice",
-        "type": "Sacrificial Steel",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SacrificialSteelMod.png?43352",
@@ -213779,32 +211183,6 @@
     "imageName": "NezhaWardingHaloAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Safeguard Switch (Loki)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Safeguard (Nezha)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Safeguard Switch (Loki)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Safeguard (Nezha)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SafeguardMod.png?20a08",
@@ -213859,20 +211237,6 @@
     "imageName": "LokiSwitchAugment1.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Safeguard Switch (Loki)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Safeguard Switch (Loki)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SafeguardSwitchMod.png?7c6c5",
@@ -214042,12 +211406,6 @@
         "type": "Sanctuary",
         "chance": 0.02,
         "rarity": "Legendary"
-      },
-      {
-        "location": "Cephalon Simaris, Sanctuary Conduit Scene\n",
-        "type": "Sanctuary Conduit Scene",
-        "chance": 100,
-        "rarity": "Common"
       }
     ],
     "tradable": true,
@@ -214169,20 +211527,6 @@
     "imageName": "BansheeSilenceAugment1.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Savage Silence (Banshee)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Savage Silence (Banshee)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SavageSilenceMod.png?a80cd",
@@ -214335,20 +211679,6 @@
     "imageName": "LokiDecoyAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Savior Decoy (Loki)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Savior Decoy (Loki)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SaviorDecoyMod.png?6d701",
@@ -215294,14 +212624,6 @@
     ],
     "imageName": "Hek.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Steel Meridian, Protector",
-        "type": "Scattered Justice (Hek)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ScatteredJusticeMod.png?e7413",
@@ -216294,18 +213616,6 @@
         "rarity": "Rare"
       },
       {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Seeker of Truth",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Solaris United (Rude Zuud), Old Mate",
-        "type": "Pax Seeker",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
         "location": "Exo Cutter",
         "type": "Seeker Volley",
         "chance": 13.75,
@@ -216523,18 +213833,6 @@
         "rarity": "Rare"
       },
       {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Seeker of Truth",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Solaris United (Rude Zuud), Old Mate",
-        "type": "Pax Seeker",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
         "location": "Exo Cutter",
         "type": "Seeker Volley",
         "chance": 13.75,
@@ -216724,18 +214022,6 @@
         "type": "Seeker",
         "chance": 1.49,
         "rarity": "Rare"
-      },
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Seeker of Truth",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Solaris United (Rude Zuud), Old Mate",
-        "type": "Pax Seeker",
-        "chance": 100,
-        "rarity": "Common"
       },
       {
         "location": "Exo Cutter",
@@ -217436,20 +214722,6 @@
     "imageName": "AshShurikenAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Seeking Shuriken (Ash)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Seeking Shuriken (Ash)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SeekingShurikenMod.png?72416",
@@ -217513,14 +214785,6 @@
     ],
     "imageName": "SentinelBondedExaltation.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Entrati (Son), Associate",
-        "type": "Seismic Bond (Companion)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SeismicBondMod.png?aa408",
@@ -218560,14 +215824,6 @@
     ],
     "imageName": "Spectra.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "The Perrin Sequence, Senior Executive",
-        "type": "Sequence Burn (Spectra)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SequenceBurnMod.png?7b5be",
@@ -220740,20 +217996,6 @@
     "imageName": "SevagothReapAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Shadow Haze (Sevagoth)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Shadow Haze (Sevagoth)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ShadowHazeMod.png?69c1b",
@@ -221529,20 +218771,6 @@
     "imageName": "GlassShankAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Shattered Storm (Gara)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Shattered Storm (Gara)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ShatteredStormMod.png?78e77",
@@ -221671,14 +218899,6 @@
     ],
     "imageName": "Sobek.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Steel Meridian, Protector",
-        "type": "Shattering Justice (Sobek)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ShatteringJusticeMod.png?8f572",
@@ -222820,20 +220040,6 @@
     "imageName": "NekrosCloneTheDeadAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Shield of Shadows (Nekros)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Shield of Shadows (Nekros)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ShieldofShadowsMod.png?3a976",
@@ -223670,20 +220876,6 @@
     "imageName": "VoltShockAugment3.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Shock Trooper (Volt)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Shock Trooper (Volt)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ShockTrooperMod.png?9920c",
@@ -223851,20 +221043,6 @@
     "imageName": "VoltSpeedAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Shocking Speed (Volt)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Shocking Speed (Volt)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ShockingSpeedMod.png?e379a",
@@ -237385,6 +234563,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "The Icebind: Crested Frozen Chests, Rotation A",
+        "type": "Shotgun Riven Mod",
+        "chance": 4.55,
+        "rarity": "Rare"
+      },
+      {
+        "location": "The Icebind: Frozen Chests, Rotation A",
+        "type": "Shotgun Riven Mod",
+        "chance": 5.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "The Descendia: Uncommon Rewards (Steel Path)",
         "type": "Shotgun Riven Mod",
         "chance": 7.14,
@@ -237451,6 +234641,18 @@
         "location": "Duviri/Endless: Tier 7 (Hard)",
         "type": "Shotgun Riven Mod",
         "chance": 2.7,
+        "rarity": "Rare"
+      },
+      {
+        "location": "The Icebind: Crested Frozen Chests, Rotation A",
+        "type": "Shotgun Riven Mod",
+        "chance": 4.55,
+        "rarity": "Rare"
+      },
+      {
+        "location": "The Icebind: Frozen Chests, Rotation A",
+        "type": "Shotgun Riven Mod",
+        "chance": 5.06,
         "rarity": "Rare"
       },
       {
@@ -241082,14 +238284,6 @@
     ],
     "imageName": "HoverboardModI.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Proper Felon",
-        "type": "Slay Board",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SlayBoardMod.png?fb752",
@@ -242834,20 +240028,6 @@
     "imageName": "OberonSmiteAugment1.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Smite Infusion (Oberon)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Smite Infusion (Oberon)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SmiteInfusionMod.png?a6b02",
@@ -243080,20 +240260,6 @@
     "imageName": "AshSmokeScreenAugment2.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Smoke Shadow (Ash)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Smoke Shadow (Ash)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SmokeShadowMod.png?a9715",
@@ -244127,14 +241293,6 @@
     ],
     "imageName": "HoverboardModH.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Logical",
-        "type": "Sonic Boost",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SonicBoostMod.png?fb752",
@@ -244283,20 +241441,6 @@
     "imageName": "NekrosSoulPunchAugment1.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Soul Survivor (Nekros)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Soul Survivor (Nekros)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SoulSurvivorMod.png?d386f",
@@ -244674,20 +241818,6 @@
     "imageName": "DagathApparitionAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Spectral Spirit (Dagath)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Spectral Spirit (Dagath)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SpectralSpiritMod.png?150f1",
@@ -244743,20 +241873,6 @@
     "imageName": "GaraSpectrorageAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Spectrosiphon (Gara)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Spectrosiphon (Gara)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SpectrosiphonMod.png?3dd87",
@@ -245868,20 +242984,6 @@
     "imageName": "TitaniaSpellbindAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Exalted",
-        "type": "Spellbound Harvest (Titania)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Spellbound Harvest (Titania)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SpellboundHarvestMod.png?7017b",
@@ -249001,20 +246103,6 @@
     "imageName": "MesaRicochetArmourAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Staggering Shield (Mesa)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Staggering Shield (Mesa)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/StaggeringShieldMod.png?4cb3f",
@@ -251424,14 +248512,6 @@
     ],
     "imageName": "Viper.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Crusader",
-        "type": "Stinging Truth (Viper)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/StingingTruthMod.png?ac5a7",
@@ -251491,14 +248571,6 @@
     ],
     "imageName": "Kunai.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Red Veil, Revered",
-        "type": "Stockpiled Blight (Kunai)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/StockpiledBlightMod.png?47a69",
@@ -254576,12 +251648,6 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Stretch",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
         "location": "Raptor",
         "type": "Stretch",
         "chance": 11.06,
@@ -255578,12 +252644,6 @@
         "type": "Stretch",
         "chance": 10.26,
         "rarity": "Uncommon"
-      },
-      {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Stretch",
-        "chance": 100,
-        "rarity": "Common"
       },
       {
         "location": "Raptor",
@@ -256618,12 +253678,6 @@
         "type": "Stretch",
         "chance": 10.26,
         "rarity": "Uncommon"
-      },
-      {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Stretch",
-        "chance": 100,
-        "rarity": "Common"
       },
       {
         "location": "Raptor",
@@ -258917,20 +255971,6 @@
     "imageName": "YareliDisksAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Surging Blades (Yareli)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Surging Blades (Yareli)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SurgingBladesMod.png?96ac2",
@@ -258985,20 +256025,6 @@
     "imageName": "ExcaliburSlashDashAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Surging Dash (Excalibur)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Surging Dash (Excalibur)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SurgingDashMod.png?886ea",
@@ -259062,20 +256088,6 @@
     "type": "Focus Way",
     "imageName": "FocusIcon58.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Surging Dash (Excalibur)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Surging Dash (Excalibur)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SurgingDashMod.png?886ea",
@@ -259403,20 +256415,6 @@
     "imageName": "LavosSerpentAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Swift Bite (Lavos)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Swift Bite (Lavos)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SwiftBiteMod.png?376d7",
@@ -259609,20 +256607,6 @@
     "imageName": "ValkyrRipLineAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Swing Line (Valkyr)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Swing Line (Valkyr)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/SwingLineMod.png?7591c",
@@ -261580,14 +258564,6 @@
     ],
     "imageName": "SentinelTandemTactics.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ostron (Master Teasonai), Trusted",
-        "type": "Tandem Bond (Beast)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TandemBondMod.png?20efc",
@@ -262732,20 +259708,6 @@
     "imageName": "ZephyDivebombAugment1.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Target Fixation (Zephyr)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Target Fixation (Zephyr)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TargetFixationMod.png?c46f6",
@@ -263014,20 +259976,6 @@
     "imageName": "BrawlerBarrierAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Tectonic Fracture (Atlas)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Tectonic Fracture (Atlas)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TectonicFractureMod.png?2fe35",
@@ -263081,20 +260029,6 @@
     "imageName": "NidusVirulenceAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Steel Meridian, General",
-        "type": "Teeming Virulence (Nidus)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Teeming Virulence (Nidus)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TeemingVirulenceMod.png?5e7a1",
@@ -263490,20 +260424,6 @@
     "imageName": "AshTeleportAugment1.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Teleport Rush (Ash)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Teleport Rush (Ash)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/FatalTeleportMod.png?76602",
@@ -263944,20 +260864,6 @@
     "imageName": "ProteaBFGAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Temporal Artillery (Protea)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Temporal Artillery (Protea)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TemporalArtilleryMod.png?4378f",
@@ -264051,20 +260957,6 @@
     "imageName": "ProteaAnchorAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Temporal Erosion (Protea)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Temporal Erosion (Protea)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TemporalErosionMod.png?3604f",
@@ -264165,14 +261057,6 @@
     ],
     "imageName": "SentinelTenaciousPartner.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Solaris United (The Business), Doer",
-        "type": "Tenacious Bond (companion)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TenaciousBondMod.png?20efc",
@@ -264390,20 +261274,6 @@
     "imageName": "VaubanTeslaAugment2.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Tesla Bank (Vauban)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Tesla Bank (Vauban)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TeslaBankMod.png?588d5",
@@ -264955,20 +261825,6 @@
     "imageName": "HopliteBashAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Tharros Lethality (Styanax)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Tharros Lethality (Styanax)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TharrosLethalityMod.png?82c22",
@@ -265023,20 +261879,6 @@
     "imageName": "XakuEmbraceAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "The Relentless Lost (Xaku)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "The Relentless Lost (Xaku)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TheRelentlessLostMod.png?88df7",
@@ -265241,20 +262083,6 @@
     "imageName": "RunnerTransferAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Thermal Transfer (Gauss)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Thermal Transfer (Gauss)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ThermalTransferMod.png?59f8c",
@@ -266201,20 +263029,6 @@
     "imageName": "RevenantEnthrallAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Thrall Pact (Revenant)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Thrall Pact (Revenant)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ThrallPactMod.png?c5d19",
@@ -266268,14 +263082,6 @@
     ],
     "imageName": "HoverboardModK.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Logical",
-        "type": "Thrash Landing",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ThrashLandingMod.png?1f1b9",
@@ -267185,20 +263991,6 @@
     "imageName": "HydroidTidalSurgeAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Tidal Impunity (Hydroid)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Tidal Impunity (Hydroid)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TidalImpunityMod.png?4fd58",
@@ -267253,20 +264045,6 @@
     "imageName": "BrawlerSummonAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Titanic Rumbler (Atlas)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Titanic Rumbler (Atlas)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TitanicRumblerMod.png?5a952",
@@ -267320,20 +264098,6 @@
     "imageName": "MirageEclipseAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Total Eclipse (Mirage)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Total Eclipse (Mirage)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TotalEclipseMod.png?0ff7f",
@@ -267456,14 +264220,6 @@
     ],
     "imageName": "Mire.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Red Veil, Revered",
-        "type": "Toxic Blight (Mire)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ToxicBlightMod.png?47a69",
@@ -267681,14 +264437,6 @@
     ],
     "imageName": "Acrid.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "The Perrin Sequence, Senior Executive",
-        "type": "Toxic Sequence (Acrid)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ToxicSequenceMod.png?403d5",
@@ -267885,14 +264633,6 @@
     ],
     "imageName": "HoverboardModL.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Glinty",
-        "type": "Trail Blazer",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TrailBlazerMod.png?1f1b9",
@@ -268237,20 +264977,6 @@
     "imageName": "VoltElectricShieldAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Transistor Shield (Volt)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Transistor Shield (Volt)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TransistorShieldMod.png?688a6",
@@ -268283,26 +265009,6 @@
     "description": "Removes credits cost and guarantees the resultant mod polarity.",
     "imageName": "TransmuteCore.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Madurai Transmute Core\n",
-        "type": "Madurai Transmute Core",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Cephalon Simaris, Naramon Transmute Core\n",
-        "type": "Naramon Transmute Core",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Cephalon Simaris, Vazarin Transmute Core\n",
-        "type": "Vazarin Transmute Core",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "isPrime": false,
     "masterable": false
@@ -268342,20 +265048,6 @@
     "imageName": "HarrowCondemnAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Tribunal (Harrow)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Tribunal (Harrow)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/TribunalMod.png?eb8c4",
@@ -272471,20 +269163,6 @@
     "imageName": "VorunaHowlAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Ulfrun's Endurance (Voruna)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Ulfrun's Endurance (Voruna)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Ulfrun%27sEnduranceMod.png?69c1b",
@@ -272589,14 +269267,6 @@
     "imageName": "WarframeUmbraModB.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Complete The Sacrifice",
-        "type": "Umbral Fiber",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/UmbralFiberMod.png?8f05e",
@@ -272703,14 +269373,6 @@
     "imageName": "WarframeUmbraModC.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Complete The Sacrifice",
-        "type": "Umbral Intensify",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/UmbralIntensifyMod.png?decdb",
@@ -272817,14 +269479,6 @@
     "imageName": "WarframeUmbraModA.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Complete The Sacrifice",
-        "type": "Umbral Vitality",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/UmbralVitalityMod.png?1cec5",
@@ -274144,20 +270798,6 @@
     "imageName": "BrokenDestructAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Untime Rift (Xaku)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Untime Rift (Xaku)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/UntimeRiftMod.png?82c22",
@@ -274323,20 +270963,6 @@
     "imageName": "LavosPassiveAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Valence Formation (Lavos)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Valence Formation (Lavos)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ValenceFormationMod.png?d3b7b",
@@ -274390,20 +271016,6 @@
     "imageName": "TrinityEnergyVampireAugmnet.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Vampire Leech (Trinity)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Vampire Leech (Trinity)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/VampireLeechMod.png?b29ac",
@@ -274458,20 +271070,6 @@
     "imageName": "XakuGraspAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Vampiric Grasp (Xaku)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Vampiric Grasp (Xaku)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/VampiricGraspMod.png?d674d",
@@ -274624,14 +271222,6 @@
     ],
     "imageName": "HBEnergyInjectionMod.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Logical",
-        "type": "Vapor Trail",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/VaporTrailMod.png?a5eb8",
@@ -274761,14 +271351,6 @@
     "description": "Ensures transmuted mod is of Vazarin polarity and eliminates credit cost.",
     "imageName": "TransmuteCoreVazarinMod.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Cephalon Simaris, Vazarin Transmute Core\n",
-        "type": "Vazarin Transmute Core",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/VazarinTransmuteCoreMod.png?4ca21",
@@ -274887,20 +271469,6 @@
     "imageName": "KhoraVenariAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Venari Bodyguard (Khora)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Venari Bodyguard (Khora)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/VenariBodyguardMod.png?ff553",
@@ -274963,14 +271531,6 @@
     ],
     "imageName": "HoverboardModF.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Ventkids, Proper Felon",
-        "type": "Venerdo Hoverdrive",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/VenerdoHoverdriveMod.png?1f1b9",
@@ -275153,20 +271713,6 @@
     "imageName": "SarynVenomAugment2.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Venom Dose (Saryn)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Venom Dose (Saryn)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/VenomDoseMod.png?97c83",
@@ -275546,20 +272092,6 @@
     "imageName": "ChromaVexArmorAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Vexing Retaliation (Chroma)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Perrin Sequence, Partner",
-        "type": "Vexing Retaliation (Chroma)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/VexingRetaliationMod.png?61e72",
@@ -275702,14 +272234,6 @@
     ],
     "imageName": "SentinelBoneSplitter.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Entrati (Son), Associate",
-        "type": "Vicious Bond (Companion)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/ViciousBondMod.png?c8a40",
@@ -276656,18 +273180,6 @@
         "rarity": "Rare"
       },
       {
-        "location": "The Holdfasts (Cavalero), Fallen",
-        "type": "Molt Vigor",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "The Quills, Mote",
-        "type": "Magus Vigor",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
         "location": "Nightmare Mode Rewards, Rotation C",
         "type": "Vigor",
         "chance": 15.49,
@@ -277282,20 +273794,6 @@
     "imageName": "HydroidTempestBarrageAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Viral Tempest (Hydroid)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "New Loka, Flawless",
-        "type": "Viral Tempest (Hydroid)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/CorrodingBarrageMod.png?c9bd6",
@@ -279883,18 +276381,6 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Vitality",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "NecraLoid (Loid), Clearance Modus",
-        "type": "Necramech Vitality",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
         "location": "Another Betrayer, Rotation A",
         "type": "Vitality",
         "chance": 15.18,
@@ -280885,18 +277371,6 @@
         "type": "Vitality",
         "chance": 10.84,
         "rarity": "Uncommon"
-      },
-      {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Vitality",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "NecraLoid (Loid), Clearance Modus",
-        "type": "Necramech Vitality",
-        "chance": 100,
-        "rarity": "Common"
       },
       {
         "location": "Another Betrayer, Rotation A",
@@ -281900,18 +278374,6 @@
         "type": "Vitality",
         "chance": 10.84,
         "rarity": "Uncommon"
-      },
-      {
-        "location": "Kahl's Garrison (Chipper), Fort",
-        "type": "Archon Vitality",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "NecraLoid (Loid), Clearance Modus",
-        "type": "Necramech Vitality",
-        "chance": 100,
-        "rarity": "Common"
       },
       {
         "location": "Another Betrayer, Rotation A",
@@ -283112,14 +279574,6 @@
     ],
     "imageName": "InfestedPredatorSummonMaggotPrecept.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Entrati (Son), Friend",
-        "type": "Volatile Parasite (Predasite)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/VolatileParasiteMod.png?c6e92",
@@ -283352,20 +279806,6 @@
     "imageName": "PaxBladesAugmentCard.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Volatile Recompense (Kullervo)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Volatile Recompense (Kullervo)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/VolatileRecompenseMod.png?bc6e9",
@@ -283599,14 +280039,6 @@
     ],
     "imageName": "Lanka.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "The Perrin Sequence, Senior Executive",
-        "type": "Voltage Sequence (Lanka)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/VoltageSequenceMod.png?a33d3",
@@ -284421,20 +280853,6 @@
     "imageName": "HarrowThuribleAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Warding Thurible (Harrow)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Warding Thurible (Harrow)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/WardingThuribleMod.png?6252a",
@@ -285148,20 +281566,6 @@
     "imageName": "ExcaliburUmbraPassiveAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Arbiters of Hexis, Maxim",
-        "type": "Warrior's Rest (Excalibur Umbra)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Red Veil, Exalted",
-        "type": "Warrior's Rest (Excalibur Umbra)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Warrior%27sRestMod.png?da4f9",
@@ -286049,14 +282453,6 @@
     ],
     "imageName": "Furis.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "New Loka, Pure",
-        "type": "Winds of Purity (Furis)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/WindsofPurityMod.png?493d0",
@@ -286434,20 +282830,6 @@
     "imageName": "KullervoFieldAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "New Loka, Flawless",
-        "type": "Wrath of Ukko (Kullervo)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Wrath of Ukko (Kullervo)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/WrathofUkkoMod.png?15511",
@@ -286501,20 +282883,6 @@
     "imageName": "QorvexConcreteWallAugment.jpg",
     "category": "Mods",
     "isAugment": true,
-    "drops": [
-      {
-        "location": "Cephalon Suda, Genius",
-        "type": "Wrecking Wall (Qorvex)",
-        "chance": 100,
-        "rarity": "Common"
-      },
-      {
-        "location": "Steel Meridian, General",
-        "type": "Wrecking Wall (Qorvex)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/WreckingWallMod.png?464dd",
@@ -287054,7 +283422,7 @@
         "suffixTag": "nus",
         "upgradeValues": [
           {
-            "value": 0.090000004,
+            "value": 0.0089999996,
             "locTag": "|val| Parry Angle"
           }
         ]
@@ -287166,6 +283534,17 @@
           {
             "value": 0.0049999999,
             "locTag": "|val| Damage to Scaldra"
+          }
+        ]
+      },
+      {
+        "tag": "WeaponStatusDamage",
+        "prefixTag": "plaga",
+        "suffixTag": "mna",
+        "upgradeValues": [
+          {
+            "value": 0.0099999998,
+            "locTag": "|val|% Status Damage"
           }
         ]
       }
@@ -297329,14 +293708,6 @@
     ],
     "imageName": "AkstilettoPrimeAmmoEfficiencyMod.jpg",
     "category": "Mods",
-    "drops": [
-      {
-        "location": "Entrati (Father), Friend",
-        "type": "Zazvat-Kar (Akstiletto Prime)",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": true,
     "wikiAvailable": true,
     "wikiaThumbnail": "https://wiki.warframe.com/images/Zazvat-KarMod.png?216fe",

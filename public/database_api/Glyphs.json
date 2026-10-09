@@ -1448,14 +1448,6 @@
     "type": "Glyph",
     "imageName": "VEDMechBonewidow.png",
     "category": "Glyphs",
-    "drops": [
-      {
-        "location": "NecraLoid (Loid), Clearance Modus",
-        "type": "Bonewidow In Action Glyph",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "masterable": false
   },
@@ -2414,14 +2406,6 @@
     "type": "Glyph",
     "imageName": "ConservationVendorGlyphEidolonCritter.png",
     "category": "Glyphs",
-    "drops": [
-      {
-        "location": "Ostron (Master Teasonai), Kin",
-        "type": "Common Condroc Glyph",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "masterable": false
   },
@@ -4217,14 +4201,6 @@
     "type": "Glyph",
     "imageName": "ConservationVendorGlyphVenusCritter.png",
     "category": "Glyphs",
-    "drops": [
-      {
-        "location": "Solaris United (The Business), Old Mate",
-        "type": "Delicate Pobber Glyph",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "masterable": false
   },
@@ -6736,14 +6712,6 @@
     "type": "Glyph",
     "imageName": "ConservationVendorGlyphVenusGem.png",
     "category": "Glyphs",
-    "drops": [
-      {
-        "location": "Solaris United (Smokefinger), Old Mate",
-        "type": "Goblite Glyph",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "masterable": false
   },
@@ -6790,14 +6758,6 @@
     "type": "Glyph",
     "imageName": "ConservationVendorGlyphEidolonFish.png",
     "category": "Glyphs",
-    "drops": [
-      {
-        "location": "Ostron (Fisher Hai-Luk), Kin",
-        "type": "Goopolla Glyph",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "masterable": false
   },
@@ -13884,14 +13844,6 @@
     "type": "Glyph",
     "imageName": "ConservationVendorGlyphVenusFish.png",
     "category": "Glyphs",
-    "drops": [
-      {
-        "location": "Solaris United (The Business), Old Mate",
-        "type": "Sapcaddy Glyph",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "masterable": false
   },
@@ -17420,14 +17372,6 @@
     "type": "Glyph",
     "imageName": "ConservationVendorGlyphEidolonGem.png",
     "category": "Glyphs",
-    "drops": [
-      {
-        "location": "Ostron (Old Man Suumbaat), Kin",
-        "type": "Veridos Glyph",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "masterable": false
   },
@@ -17577,14 +17521,6 @@
     "type": "Glyph",
     "imageName": "VEDMechVoidrig.png",
     "category": "Glyphs",
-    "drops": [
-      {
-        "location": "NecraLoid (Loid), Clearance Modus",
-        "type": "Voidrig In Action Glyph",
-        "chance": 100,
-        "rarity": "Common"
-      }
-    ],
     "tradable": false,
     "masterable": false
   },
