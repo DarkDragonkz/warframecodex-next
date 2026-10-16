@@ -177888,19 +177888,6 @@
     "wikiaThumbnail": "https://wiki.warframe.com/images/PrimedStreamlineMod.png?6706a",
     "wikiaUrl": "https://wiki.warframe.com/w/Primed_Streamline",
     "transmutable": false,
-    "introduced": {
-      "name": "TBA",
-      "url": "https://wiki.warframe.com/w/Upcoming_Features",
-      "aliases": [
-        "TBA",
-        "999",
-        "999.0",
-        "999.0.0"
-      ],
-      "parent": "0.0",
-      "date": "0000-00-00"
-    },
-    "releaseDate": "0000-00-00",
     "isPrime": true,
     "masterable": false
   },

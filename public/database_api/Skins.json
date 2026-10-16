@@ -71787,7 +71787,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/UmbraPedestal",
     "name": "Pedestal Umbra",
-    "description": "Here it is: the pinnacle of pedestal production. With its luminescent accents and undulating legs, this is a stand so unique it renders all other plinths prosaic. You can search a lifetime, but you’ll never find another piece quite like the Umbral Pedestal.",
+    "description": "Here it is: the pinnacle of pedestal production. With its luminescent accents and undulating legs, this is a stand so unique it renders all other plinths prosaic. You can search a lifetime, but you'll never find another piece quite like the Umbral Pedestal.",
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "UmbraPedestal.png",
@@ -91879,6 +91879,18 @@
     "excludeFromCodex": true,
     "type": "Ship Decoration",
     "imageName": "TarotCard2025Tennotober.png",
+    "category": "Skins",
+    "tradable": false,
+    "masterable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard2026Tennotober",
+    "name": "Tennotober 2026 Prex",
+    "description": "Tennotober Prex Card by death_ma666ots.",
+    "codexSecret": false,
+    "excludeFromCodex": true,
+    "type": "Ship Decoration",
+    "imageName": "TarotCard2026Tennotober.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
