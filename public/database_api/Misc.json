@@ -404,7 +404,7 @@
     "name": "Alloy Plate",
     "description": "Carbon steel plates used to reinforce Grineer armor.\n\nLocation: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
     "codexSecret": false,
-    "itemCount": 1700,
+    "itemCount": 1600,
     "parents": [
       "Adrenal Stim",
       "Aegrit",
@@ -10002,7 +10002,6 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/Diwata.png?11963",
     "wikiaUrl": "https://wiki.warframe.com/w/Diwata",
     "introduced": {
       "name": "Update 23.0",
@@ -10119,7 +10118,6 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/DiwataPrime.png?5591d",
     "wikiaUrl": "https://wiki.warframe.com/w/Diwata_Prime",
     "introduced": {
       "name": "Hotfix 27.3.6",
@@ -12102,6 +12100,7 @@
       "Hextra Gyro",
       "Lehan Core",
       "Needlenose",
+      "Pax Bolt",
       "Rattleguts",
       "Tremor",
       "Zipfire",
@@ -12317,7 +12316,7 @@
     "name": "Fate Pearl",
     "description": "Retrieved from the shores of a sacred fate dream.\n\nLocation: Saya's Visions on Earth",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 30,
     "parents": [
       "Amanata",
       "Higasa",
@@ -28880,11 +28879,12 @@
     "name": "Kriller Thermal Laser",
     "description": "A weapon that discharges lasers over short distances.\n\nSource: Dismantled from Kriller servofish via The Business in Fortuna (Venus). Catch Kriller in the Orb Vallis lake during Warm weather. Also drops from resource containers across the Orb Vallis.",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 10,
     "parents": [
       "Beaky",
       "Dink-A-Donk",
       "Gaze",
+      "Pax Soar",
       "Runway",
       "Slapneedle",
       "Swiftfire",
@@ -30733,6 +30733,7 @@
       "Kubrodon Ventkid Pauldrons",
       "Outrider Pauldrons",
       "Oxylus",
+      "Pax Charge",
       "Smelter Pauldrons",
       "Suo Brace",
       "Tazicor",
@@ -31975,6 +31976,7 @@
       "Kubrodon Ventkid Mask",
       "Outrider Cuirass",
       "Outrider Mask",
+      "Pax Soar",
       "Plaga Brace",
       "Smelter Apparel",
       "Smelter Cuirass",
@@ -32384,11 +32386,12 @@
     "name": "Mirewinder Parallel Biode",
     "description": "Controls the electrical flow throughout the circuitry within robotic organisms.\n\nSource: Dismantled from Mirewinder servofish via The Business in Fortuna (Venus). Catch Mirewinder in Orb Vallis caves during any weather. Also drops from resource containers across the Orb Vallis.",
     "codexSecret": false,
-    "itemCount": 5,
+    "itemCount": 10,
     "parents": [
       "Bad Baby",
       "Bashrack",
       "Dorma Hound",
+      "Pax Charge",
       "Tyli Gyro"
     ],
     "type": "Fish Part",
@@ -35391,7 +35394,7 @@
     "name": "Nitain Extract",
     "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\n\nLocation: Nightwave Cred Offerings",
     "codexSecret": false,
-    "itemCount": 3,
+    "itemCount": 5,
     "parents": [
       "<Archwing> Amesha",
       "Atlas Shikoro Helmet",
@@ -40668,6 +40671,8 @@
       "Lega Prism",
       "Outrider Mask",
       "Outrider Pauldrons",
+      "Pax Bolt",
+      "Pax Charge",
       "Smelter Mask",
       "Smelter Pauldrons",
       "Vent Pobber Ventkid Mask",
@@ -53723,6 +53728,7 @@
       "Kubrodon Ventkid Mask",
       "Larkspur",
       "Outrider Mask",
+      "Pax Soar",
       "Smelter Mask",
       "Splat",
       "Vent Pobber Ventkid Mask",
@@ -56072,6 +56078,7 @@
       "Kubrodon Ventkid Greaves",
       "Nepheri",
       "Outrider Greaves",
+      "Pax Bolt",
       "Propa Scaffold",
       "Smelter Greaves",
       "Vent Pobber Ventkid Greaves",
@@ -58233,7 +58240,6 @@
       "Tenno"
     ],
     "stancePolarity": "zenurik",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/WhipclawIcon%28xWhite%29.png?4c89a",
     "wikiaUrl": "https://wiki.warframe.com/w/Whipclaw",
     "introduced": {
       "name": "Update 38.5",
@@ -58353,7 +58359,6 @@
       "Prime"
     ],
     "stancePolarity": "zenurik",
-    "wikiaThumbnail": "https://wiki.warframe.com/images/WhipclawIcon%28xWhite%29.png?4c89a",
     "wikiaUrl": "https://wiki.warframe.com/w/Whipclaw_Prime",
     "introduced": {
       "name": "Update 38.5",
