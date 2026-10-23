@@ -5821,7 +5821,7 @@
     "name": "Moonlight Dragonlily",
     "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 6,
+    "itemCount": 10,
     "parents": [
       "Lapis Antitoxin",
       "Nightfall Apothic",
@@ -8864,7 +8864,7 @@
     "name": "Sunlight Dragonlily",
     "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
     "codexSecret": false,
-    "itemCount": 4,
+    "itemCount": 10,
     "parents": [
       "Citrine Antitoxin",
       "Lapis Antitoxin",
