@@ -70342,6 +70342,18 @@
         "type": "Bane Of Orokin",
         "chance": 8,
         "rarity": "Rare"
+      },
+      {
+        "location": "Void Surplus",
+        "type": "Orokin Catalyst Blueprint",
+        "chance": 8,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void Surplus",
+        "type": "Orokin Reactor Blueprint",
+        "chance": 8,
+        "rarity": "Uncommon"
       }
     ],
     "tradable": false,
@@ -101154,6 +101166,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Veil Proxima/Calabash (Skirmish)",
+        "type": "Vidar Engines Mk Iii",
+        "chance": 7.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Veil Proxima/Numina (Skirmish)",
+        "type": "Vidar Engines Mk Iii",
+        "chance": 7.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Pluto/Profit Margin (Skirmish)",
         "type": "Vidar Engines Mk Iii",
         "chance": 7.23,
@@ -101161,18 +101185,6 @@
       },
       {
         "location": "Pluto/Seven Sirens (Skirmish)",
-        "type": "Vidar Engines Mk Iii",
-        "chance": 7.23,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Veil Proxima/Calabash (Skirmish)",
-        "type": "Vidar Engines Mk Iii",
-        "chance": 7.23,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Veil Proxima/Numina (Skirmish)",
         "type": "Vidar Engines Mk Iii",
         "chance": 7.23,
         "rarity": "Rare"
@@ -101448,6 +101460,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Veil Proxima/Calabash (Skirmish)",
+        "type": "Vidar Plating Mk Iii",
+        "chance": 7.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Veil Proxima/Numina (Skirmish)",
+        "type": "Vidar Plating Mk Iii",
+        "chance": 7.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Pluto/Profit Margin (Skirmish)",
         "type": "Vidar Plating Mk Iii",
         "chance": 7.23,
@@ -101455,18 +101479,6 @@
       },
       {
         "location": "Pluto/Seven Sirens (Skirmish)",
-        "type": "Vidar Plating Mk Iii",
-        "chance": 7.23,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Veil Proxima/Calabash (Skirmish)",
-        "type": "Vidar Plating Mk Iii",
-        "chance": 7.23,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Veil Proxima/Numina (Skirmish)",
         "type": "Vidar Plating Mk Iii",
         "chance": 7.23,
         "rarity": "Rare"
@@ -101742,6 +101754,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Veil Proxima/Calabash (Skirmish)",
+        "type": "Vidar Reactor Mk Iii",
+        "chance": 7.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Veil Proxima/Numina (Skirmish)",
+        "type": "Vidar Reactor Mk Iii",
+        "chance": 7.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Pluto/Profit Margin (Skirmish)",
         "type": "Vidar Reactor Mk Iii",
         "chance": 7.23,
@@ -101749,18 +101773,6 @@
       },
       {
         "location": "Pluto/Seven Sirens (Skirmish)",
-        "type": "Vidar Reactor Mk Iii",
-        "chance": 7.23,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Veil Proxima/Calabash (Skirmish)",
-        "type": "Vidar Reactor Mk Iii",
-        "chance": 7.23,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Veil Proxima/Numina (Skirmish)",
         "type": "Vidar Reactor Mk Iii",
         "chance": 7.23,
         "rarity": "Rare"
@@ -102036,6 +102048,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Veil Proxima/Calabash (Skirmish)",
+        "type": "Vidar Shield Array Mk Iii",
+        "chance": 7.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Veil Proxima/Numina (Skirmish)",
+        "type": "Vidar Shield Array Mk Iii",
+        "chance": 7.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Pluto/Profit Margin (Skirmish)",
         "type": "Vidar Shield Array Mk Iii",
         "chance": 7.23,
@@ -102043,18 +102067,6 @@
       },
       {
         "location": "Pluto/Seven Sirens (Skirmish)",
-        "type": "Vidar Shield Array Mk Iii",
-        "chance": 7.23,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Veil Proxima/Calabash (Skirmish)",
-        "type": "Vidar Shield Array Mk Iii",
-        "chance": 7.23,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Veil Proxima/Numina (Skirmish)",
         "type": "Vidar Shield Array Mk Iii",
         "chance": 7.23,
         "rarity": "Rare"
@@ -109440,13 +109452,13 @@
       {
         "location": "Veil Proxima/Calabash (Skirmish)",
         "type": "Zetki Engines Mk Iii",
-        "chance": 7.23,
+        "chance": 7.06,
         "rarity": "Rare"
       },
       {
         "location": "Veil Proxima/Numina (Skirmish)",
         "type": "Zetki Engines Mk Iii",
-        "chance": 7.23,
+        "chance": 7.06,
         "rarity": "Rare"
       },
       {
@@ -109602,13 +109614,13 @@
       {
         "location": "Veil Proxima/Calabash (Skirmish)",
         "type": "Zetki Plating Mk Iii",
-        "chance": 7.23,
+        "chance": 7.06,
         "rarity": "Rare"
       },
       {
         "location": "Veil Proxima/Numina (Skirmish)",
         "type": "Zetki Plating Mk Iii",
-        "chance": 7.23,
+        "chance": 7.06,
         "rarity": "Rare"
       },
       {
@@ -109775,13 +109787,13 @@
       {
         "location": "Veil Proxima/Calabash (Skirmish)",
         "type": "Zetki Reactor Mk Iii",
-        "chance": 7.23,
+        "chance": 7.06,
         "rarity": "Rare"
       },
       {
         "location": "Veil Proxima/Numina (Skirmish)",
         "type": "Zetki Reactor Mk Iii",
-        "chance": 7.23,
+        "chance": 7.06,
         "rarity": "Rare"
       },
       {
@@ -109937,13 +109949,13 @@
       {
         "location": "Veil Proxima/Calabash (Skirmish)",
         "type": "Zetki Shield Array Mk Iii",
-        "chance": 7.23,
+        "chance": 7.06,
         "rarity": "Rare"
       },
       {
         "location": "Veil Proxima/Numina (Skirmish)",
         "type": "Zetki Shield Array Mk Iii",
-        "chance": 7.23,
+        "chance": 7.06,
         "rarity": "Rare"
       },
       {

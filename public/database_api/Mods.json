@@ -448,17 +448,17 @@
     "levelStats": [
       {
         "stats": [
-          "Enemies explode on death, dealing 75 <DT_CORROSIVE_COLOR>Corrosive Damage (+8% Enemy Max Health) in a 2.5m radius."
+          "Enemies explode on death, dealing 75 <DT_CORROSIVE_COLOR>Corrosive Damage (+8% Enemy Max Health) in a 10m radius."
         ]
       },
       {
         "stats": [
-          "Enemies explode on death, dealing 150 <DT_CORROSIVE_COLOR>Corrosive Damage (+15% Enemy Max Health) in a 5m radius."
+          "Enemies explode on death, dealing 150 <DT_CORROSIVE_COLOR>Corrosive Damage (+15% Enemy Max Health) in a 10m radius."
         ]
       },
       {
         "stats": [
-          "Enemies explode on death, dealing 225 <DT_CORROSIVE_COLOR>Corrosive Damage (+23% Enemy Max Health) in a 7.5m radius."
+          "Enemies explode on death, dealing 225 <DT_CORROSIVE_COLOR>Corrosive Damage (+23% Enemy Max Health) in a 10m radius."
         ]
       },
       {
@@ -468,12 +468,12 @@
       },
       {
         "stats": [
-          "Enemies explode on death, dealing 375 <DT_CORROSIVE_COLOR>Corrosive Damage (+38% Enemy Max Health) in a 12.5m radius."
+          "Enemies explode on death, dealing 375 <DT_CORROSIVE_COLOR>Corrosive Damage (+38% Enemy Max Health) in a 10m radius."
         ]
       },
       {
         "stats": [
-          "Enemies explode on death, dealing 450 <DT_CORROSIVE_COLOR>Corrosive Damage (+45% Enemy Max Health) in a 15m radius."
+          "Enemies explode on death, dealing 450 <DT_CORROSIVE_COLOR>Corrosive Damage (+45% Enemy Max Health) in a 10m radius."
         ]
       }
     ],
@@ -1322,8 +1322,8 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Aero Agility",
-        "chance": 10,
-        "rarity": "Uncommon"
+        "chance": 9.52,
+        "rarity": "Rare"
       }
     ],
     "tradable": true,
@@ -2670,32 +2670,38 @@
     "levelStats": [
       {
         "stats": [
-          "+2.5s Combo Duration\\n+8% Fire Rate for Secondary Weapons\\n<LINE_SEPARATOR>\\nMelee kills <DT_EXPLOSION_COLOR>Blast and stagger enemies in 2.5m"
+          "+2.5s Combo Duration\\n+8% Fire Rate for Secondary Weapons\\n<LINE_SEPARATOR>",
+          "Melee kills <DT_EXPLOSION_COLOR> Blast and stagger enemies in 15m"
         ]
       },
       {
         "stats": [
-          "+5s Combo Duration\\n+15% Fire Rate for Secondary Weapons\\n<LINE_SEPARATOR>\\nMelee kills <DT_EXPLOSION_COLOR>Blast and stagger enemies in 5m"
+          "+5s Combo Duration\\n+15% Fire Rate for Secondary Weapons\\n<LINE_SEPARATOR>",
+          "Melee kills <DT_EXPLOSION_COLOR> Blast and stagger enemies in 15m"
         ]
       },
       {
         "stats": [
-          "+7.5s Combo Duration\\n+23% Fire Rate for Secondary Weapons\\n<LINE_SEPARATOR>\\nMelee kills <DT_EXPLOSION_COLOR>Blast and stagger enemies in 7.5m"
+          "+7.5s Combo Duration\\n+23% Fire Rate for Secondary Weapons\\n<LINE_SEPARATOR>",
+          "Melee kills <DT_EXPLOSION_COLOR> Blast and stagger enemies in 15m"
         ]
       },
       {
         "stats": [
-          "+10s Combo Duration\\n+30% Fire Rate for Secondary Weapons\\n<LINE_SEPARATOR>\\nMelee kills <DT_EXPLOSION_COLOR>Blast and stagger enemies in 10m"
+          "+10s Combo Duration\\n+30% Fire Rate for Secondary Weapons\\n<LINE_SEPARATOR>",
+          "Melee kills <DT_EXPLOSION_COLOR> Blast and stagger enemies in 15m"
         ]
       },
       {
         "stats": [
-          "+12.5s Combo Duration\\n+38% Fire Rate for Secondary Weapons\\n<LINE_SEPARATOR>\\nMelee kills <DT_EXPLOSION_COLOR>Blast and stagger enemies in 12.5m"
+          "+12.5s Combo Duration\\n+38% Fire Rate for Secondary Weapons\\n<LINE_SEPARATOR>",
+          "Melee kills <DT_EXPLOSION_COLOR> Blast and stagger enemies in 15m"
         ]
       },
       {
         "stats": [
-          "+15s Combo Duration\\n+45% Fire Rate for Secondary Weapons\\n<LINE_SEPARATOR>\\nMelee kills <DT_EXPLOSION_COLOR>Blast and stagger enemies in 15m"
+          "+15s Combo Duration\\n+45% Fire Rate for Secondary Weapons\\n<LINE_SEPARATOR>",
+          "Melee kills <DT_EXPLOSION_COLOR> Blast and stagger enemies in 15m"
         ]
       }
     ],
@@ -7828,8 +7834,7 @@
         "upgradeValues": [
           {
             "value": -0.0049999999,
-            "locTag": "|val|% Ammo Efficiency",
-            "reverseValueSymbol": true
+            "locTag": "|val|% Ammo Efficiency"
           }
         ]
       },
@@ -9309,6 +9314,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
+        "type": "Arrow Mutation",
+        "chance": 3.7,
+        "rarity": "Rare"
+      },
+      {
         "location": "Ceres/Draco (Survival), Rotation C",
         "type": "Arrow Mutation",
         "chance": 3.76,
@@ -9480,12 +9491,6 @@
         "location": "Venus/V Prime (Survival), Rotation C",
         "type": "Arrow Mutation",
         "chance": 3.76,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
-        "type": "Arrow Mutation",
-        "chance": 4,
         "rarity": "Rare"
       }
     ],
@@ -9573,6 +9578,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
+        "type": "Arrow Mutation",
+        "chance": 3.7,
+        "rarity": "Rare"
+      },
+      {
         "location": "Ceres/Draco (Survival), Rotation C",
         "type": "Arrow Mutation",
         "chance": 3.76,
@@ -9744,12 +9755,6 @@
         "location": "Venus/V Prime (Survival), Rotation C",
         "type": "Arrow Mutation",
         "chance": 3.76,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
-        "type": "Arrow Mutation",
-        "chance": 4,
         "rarity": "Rare"
       }
     ],
@@ -9837,6 +9842,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
+        "type": "Arrow Mutation",
+        "chance": 3.7,
+        "rarity": "Rare"
+      },
+      {
         "location": "Ceres/Draco (Survival), Rotation C",
         "type": "Arrow Mutation",
         "chance": 3.76,
@@ -10008,12 +10019,6 @@
         "location": "Venus/V Prime (Survival), Rotation C",
         "type": "Arrow Mutation",
         "chance": 3.76,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
-        "type": "Arrow Mutation",
-        "chance": 4,
         "rarity": "Rare"
       }
     ],
@@ -19974,22 +19979,22 @@
     "levelStats": [
       {
         "stats": [
-          "On Headshot:\\n+25% Ammo Efficiency for 0.125s"
+          "On Headshot:\\n10% chance for Infinite Ammo for 0.5s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+50% Ammo Efficiency for 0.25s"
+          "On Headshot:\\n20% chance for Infinite Ammo for 1s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+75% Ammo Efficiency for 0.375s"
+          "On Headshot:\\n30% chance for Infinite Ammo for 2s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+100% Ammo Efficiency for 0.5s"
+          "On Headshot:\\n40% chance for Infinite Ammo for 2s"
         ]
       }
     ],
@@ -38885,6 +38890,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Ixodes (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Kala-Azar (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Europa/Paimon (Defense), Rotation B",
         "type": "Deep Freeze",
         "chance": 6.25,
@@ -38892,6 +38909,30 @@
       },
       {
         "location": "Jupiter/Io (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/StöFler (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Neptune/Proteus (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Deep Freeze",
         "chance": 6.25,
         "rarity": "Rare"
@@ -38909,63 +38950,27 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eris/Ixodes (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Kala-Azar (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Lua/StöFler (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Neptune/Proteus (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Pluto/Outer Terminus (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "Deep Freeze",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Bianca (Defense), Rotation B",
         "type": "Deep Freeze",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Deep Freeze",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Stephano (Defense), Rotation B",
         "type": "Deep Freeze",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
@@ -39174,6 +39179,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Ixodes (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Kala-Azar (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Europa/Paimon (Defense), Rotation B",
         "type": "Deep Freeze",
         "chance": 6.25,
@@ -39181,6 +39198,30 @@
       },
       {
         "location": "Jupiter/Io (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/StöFler (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Neptune/Proteus (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Deep Freeze",
         "chance": 6.25,
         "rarity": "Rare"
@@ -39198,63 +39239,27 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eris/Ixodes (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Kala-Azar (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Lua/StöFler (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Neptune/Proteus (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Pluto/Outer Terminus (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "Deep Freeze",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Bianca (Defense), Rotation B",
         "type": "Deep Freeze",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Deep Freeze",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Stephano (Defense), Rotation B",
         "type": "Deep Freeze",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
@@ -39437,6 +39442,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Ixodes (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Kala-Azar (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Europa/Paimon (Defense), Rotation B",
         "type": "Deep Freeze",
         "chance": 6.25,
@@ -39444,6 +39461,30 @@
       },
       {
         "location": "Jupiter/Io (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/StöFler (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Neptune/Proteus (Defense), Rotation B",
+        "type": "Deep Freeze",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Deep Freeze",
         "chance": 6.25,
         "rarity": "Rare"
@@ -39461,63 +39502,27 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eris/Ixodes (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Kala-Azar (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Lua/StöFler (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Neptune/Proteus (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Pluto/Outer Terminus (Defense), Rotation B",
-        "type": "Deep Freeze",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "Deep Freeze",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Bianca (Defense), Rotation B",
         "type": "Deep Freeze",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Deep Freeze",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Stephano (Defense), Rotation B",
         "type": "Deep Freeze",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
@@ -48239,7 +48244,7 @@
         "stats": [
           "Lethal ground attacks cause enemies to explode dealing +250",
           "(+5% Enemy Max Health) <DT_EXPLOSION_COLOR>Blast Damage",
-          "in a +2.5m radius.",
+          "in a 10m radius.",
           "+0.3 'Entropy'"
         ]
       },
@@ -48247,7 +48252,7 @@
         "stats": [
           "Lethal ground attacks cause enemies to explode dealing +500",
           "(+10% Enemy Max Health) <DT_EXPLOSION_COLOR>Blast Damage",
-          "in a +5m radius.",
+          "in a 10m radius.",
           "+0.5 'Entropy'"
         ]
       },
@@ -48255,7 +48260,7 @@
         "stats": [
           "Lethal ground attacks cause enemies to explode dealing +750",
           "(+15% Enemy Max Health) <DT_EXPLOSION_COLOR>Blast Damage",
-          "in a +7.5m radius.",
+          "in a 10m radius.",
           "+0.8 'Entropy'"
         ]
       },
@@ -48263,7 +48268,7 @@
         "stats": [
           "Lethal ground attacks cause enemies to explode dealing +1,000",
           "(+20% Enemy Max Health) <DT_EXPLOSION_COLOR>Blast Damage",
-          "in a +10m radius.",
+          "in a 10m radius.",
           "+1 'Entropy'"
         ]
       }
@@ -60631,12 +60636,6 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Lua/Circulus (Survival), Rotation C",
-        "type": "Primary Frostbite",
-        "chance": 10.2,
-        "rarity": "Uncommon"
-      },
-      {
         "location": "Nokko: Corporate Restructuring Rewards, Rotation B",
         "type": "Primary Frostbite",
         "chance": 4,
@@ -60730,6 +60729,12 @@
         "location": "Uranus/Rosalind (Spy), Rotation C",
         "type": "Frostbite",
         "chance": 8.6,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/Circulus (Survival), Rotation C",
+        "type": "Primary Frostbite",
+        "chance": 9.62,
         "rarity": "Rare"
       }
     ],
@@ -74783,6 +74788,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Ixodes (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Kala-Azar (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Europa/Paimon (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.25,
@@ -74790,6 +74807,30 @@
       },
       {
         "location": "Jupiter/Io (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/StöFler (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Neptune/Proteus (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.25,
         "rarity": "Rare"
@@ -74807,19 +74848,31 @@
         "rarity": "Rare"
       },
       {
+        "location": "Sedna/Hydron (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Bianca (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Miranda (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Stephano (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Eris/Hymeno (Survival), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Ixodes (Defense), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Kala-Azar (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.67,
         "rarity": "Rare"
@@ -74837,19 +74890,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Kuva Fortress/Taveuni (Survival), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Lua/StöFler (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.67,
         "rarity": "Rare"
@@ -74873,19 +74914,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Neptune/Proteus (Defense), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Pluto/Hieracon (Excavation), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.67,
         "rarity": "Rare"
@@ -74898,12 +74927,6 @@
       },
       {
         "location": "Sedna/Amarna (Survival), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.67,
         "rarity": "Rare"
@@ -74933,19 +74956,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Uranus/Bianca (Defense), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Uranus/Cupid (Survival), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.67,
         "rarity": "Rare"
@@ -74957,9 +74968,9 @@
         "rarity": "Rare"
       },
       {
-        "location": "Uranus/Stephano (Defense), Rotation B",
+        "location": "Eris/Oestrus (Infested Salvage), Rotation B",
         "type": "Hell's Chamber",
-        "chance": 6.67,
+        "chance": 7.14,
         "rarity": "Rare"
       },
       {
@@ -75012,12 +75023,6 @@
       },
       {
         "location": "Earth/Lith (Defense), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 7.69,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Oestrus (Infested Salvage), Rotation B",
         "type": "Hell's Chamber",
         "chance": 7.69,
         "rarity": "Rare"
@@ -75348,6 +75353,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Ixodes (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Kala-Azar (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Europa/Paimon (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.25,
@@ -75355,6 +75372,30 @@
       },
       {
         "location": "Jupiter/Io (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/StöFler (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Neptune/Proteus (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.25,
         "rarity": "Rare"
@@ -75372,19 +75413,31 @@
         "rarity": "Rare"
       },
       {
+        "location": "Sedna/Hydron (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Bianca (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Miranda (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Stephano (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Eris/Hymeno (Survival), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Ixodes (Defense), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Kala-Azar (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.67,
         "rarity": "Rare"
@@ -75402,19 +75455,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Kuva Fortress/Taveuni (Survival), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Lua/StöFler (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.67,
         "rarity": "Rare"
@@ -75438,19 +75479,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Neptune/Proteus (Defense), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Pluto/Hieracon (Excavation), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.67,
         "rarity": "Rare"
@@ -75463,12 +75492,6 @@
       },
       {
         "location": "Sedna/Amarna (Survival), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.67,
         "rarity": "Rare"
@@ -75498,19 +75521,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Uranus/Bianca (Defense), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Uranus/Cupid (Survival), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.67,
         "rarity": "Rare"
@@ -75522,9 +75533,9 @@
         "rarity": "Rare"
       },
       {
-        "location": "Uranus/Stephano (Defense), Rotation B",
+        "location": "Eris/Oestrus (Infested Salvage), Rotation B",
         "type": "Hell's Chamber",
-        "chance": 6.67,
+        "chance": 7.14,
         "rarity": "Rare"
       },
       {
@@ -75577,12 +75588,6 @@
       },
       {
         "location": "Earth/Lith (Defense), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 7.69,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Oestrus (Infested Salvage), Rotation B",
         "type": "Hell's Chamber",
         "chance": 7.69,
         "rarity": "Rare"
@@ -75887,6 +75892,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Ixodes (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Kala-Azar (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Europa/Paimon (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.25,
@@ -75894,6 +75911,30 @@
       },
       {
         "location": "Jupiter/Io (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/StöFler (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Neptune/Proteus (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.25,
         "rarity": "Rare"
@@ -75911,19 +75952,31 @@
         "rarity": "Rare"
       },
       {
+        "location": "Sedna/Hydron (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Bianca (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Miranda (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Stephano (Defense), Rotation B",
+        "type": "Hell's Chamber",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Eris/Hymeno (Survival), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Ixodes (Defense), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Kala-Azar (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.67,
         "rarity": "Rare"
@@ -75941,19 +75994,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Kuva Fortress/Taveuni (Survival), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Lua/StöFler (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.67,
         "rarity": "Rare"
@@ -75977,19 +76018,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Neptune/Proteus (Defense), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Pluto/Hieracon (Excavation), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.67,
         "rarity": "Rare"
@@ -76002,12 +76031,6 @@
       },
       {
         "location": "Sedna/Amarna (Survival), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.67,
         "rarity": "Rare"
@@ -76037,19 +76060,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Uranus/Bianca (Defense), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Uranus/Cupid (Survival), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Hell's Chamber",
         "chance": 6.67,
         "rarity": "Rare"
@@ -76061,9 +76072,9 @@
         "rarity": "Rare"
       },
       {
-        "location": "Uranus/Stephano (Defense), Rotation B",
+        "location": "Eris/Oestrus (Infested Salvage), Rotation B",
         "type": "Hell's Chamber",
-        "chance": 6.67,
+        "chance": 7.14,
         "rarity": "Rare"
       },
       {
@@ -76116,12 +76127,6 @@
       },
       {
         "location": "Earth/Lith (Defense), Rotation B",
-        "type": "Hell's Chamber",
-        "chance": 7.69,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Oestrus (Infested Salvage), Rotation B",
         "type": "Hell's Chamber",
         "chance": 7.69,
         "rarity": "Rare"
@@ -78034,6 +78039,66 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Ixodes (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Kala-Azar (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/StöFler (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Neptune/Proteus (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Outer Terminus (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Sedna/Hydron (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Bianca (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Miranda (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Stephano (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Ceres/Draco (Survival), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
@@ -78041,18 +78106,6 @@
       },
       {
         "location": "Eris/Hymeno (Survival), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Ixodes (Defense), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Kala-Azar (Defense), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
         "rarity": "Rare"
@@ -78100,19 +78153,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Kuva Fortress/Taveuni (Survival), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Lua/StöFler (Defense), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
         "rarity": "Rare"
@@ -78142,12 +78183,6 @@
         "rarity": "Rare"
       },
       {
-        "location": "Neptune/Proteus (Defense), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Phobos/Zeugma (Survival), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
@@ -78155,12 +78190,6 @@
       },
       {
         "location": "Pluto/Hieracon (Excavation), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
         "rarity": "Rare"
@@ -78190,12 +78219,6 @@
         "rarity": "Rare"
       },
       {
-        "location": "Sedna/Hydron (Defense), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Sedna/Scylla (Survival), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
@@ -78220,19 +78243,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Uranus/Bianca (Defense), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Uranus/Cupid (Survival), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
         "rarity": "Rare"
@@ -78244,9 +78255,9 @@
         "rarity": "Rare"
       },
       {
-        "location": "Uranus/Stephano (Defense), Rotation B",
+        "location": "Eris/Oestrus (Infested Salvage), Rotation B",
         "type": "Hornet Strike",
-        "chance": 6.67,
+        "chance": 7.14,
         "rarity": "Rare"
       },
       {
@@ -78311,12 +78322,6 @@
       },
       {
         "location": "Earth/Tikal (Excavation), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 7.69,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Oestrus (Infested Salvage), Rotation B",
         "type": "Hornet Strike",
         "chance": 7.69,
         "rarity": "Rare"
@@ -78694,6 +78699,66 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Ixodes (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Kala-Azar (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/StöFler (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Neptune/Proteus (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Outer Terminus (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Sedna/Hydron (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Bianca (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Miranda (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Stephano (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Ceres/Draco (Survival), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
@@ -78701,18 +78766,6 @@
       },
       {
         "location": "Eris/Hymeno (Survival), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Ixodes (Defense), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Kala-Azar (Defense), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
         "rarity": "Rare"
@@ -78760,19 +78813,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Kuva Fortress/Taveuni (Survival), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Lua/StöFler (Defense), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
         "rarity": "Rare"
@@ -78802,12 +78843,6 @@
         "rarity": "Rare"
       },
       {
-        "location": "Neptune/Proteus (Defense), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Phobos/Zeugma (Survival), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
@@ -78815,12 +78850,6 @@
       },
       {
         "location": "Pluto/Hieracon (Excavation), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
         "rarity": "Rare"
@@ -78850,12 +78879,6 @@
         "rarity": "Rare"
       },
       {
-        "location": "Sedna/Hydron (Defense), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Sedna/Scylla (Survival), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
@@ -78880,19 +78903,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Uranus/Bianca (Defense), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Uranus/Cupid (Survival), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
         "rarity": "Rare"
@@ -78904,9 +78915,9 @@
         "rarity": "Rare"
       },
       {
-        "location": "Uranus/Stephano (Defense), Rotation B",
+        "location": "Eris/Oestrus (Infested Salvage), Rotation B",
         "type": "Hornet Strike",
-        "chance": 6.67,
+        "chance": 7.14,
         "rarity": "Rare"
       },
       {
@@ -78971,12 +78982,6 @@
       },
       {
         "location": "Earth/Tikal (Excavation), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 7.69,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Oestrus (Infested Salvage), Rotation B",
         "type": "Hornet Strike",
         "chance": 7.69,
         "rarity": "Rare"
@@ -79378,6 +79383,66 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Ixodes (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Kala-Azar (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/StöFler (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Neptune/Proteus (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Outer Terminus (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Sedna/Hydron (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Bianca (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Miranda (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Uranus/Stephano (Defense), Rotation B",
+        "type": "Hornet Strike",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Ceres/Draco (Survival), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
@@ -79385,18 +79450,6 @@
       },
       {
         "location": "Eris/Hymeno (Survival), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Ixodes (Defense), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Kala-Azar (Defense), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
         "rarity": "Rare"
@@ -79444,19 +79497,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Kuva Fortress/Taveuni (Survival), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Lua/StöFler (Defense), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
         "rarity": "Rare"
@@ -79486,12 +79527,6 @@
         "rarity": "Rare"
       },
       {
-        "location": "Neptune/Proteus (Defense), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Phobos/Zeugma (Survival), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
@@ -79499,12 +79534,6 @@
       },
       {
         "location": "Pluto/Hieracon (Excavation), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
         "rarity": "Rare"
@@ -79534,12 +79563,6 @@
         "rarity": "Rare"
       },
       {
-        "location": "Sedna/Hydron (Defense), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Sedna/Scylla (Survival), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
@@ -79564,19 +79587,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Uranus/Bianca (Defense), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Uranus/Cupid (Survival), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Hornet Strike",
         "chance": 6.67,
         "rarity": "Rare"
@@ -79588,9 +79599,9 @@
         "rarity": "Rare"
       },
       {
-        "location": "Uranus/Stephano (Defense), Rotation B",
+        "location": "Eris/Oestrus (Infested Salvage), Rotation B",
         "type": "Hornet Strike",
-        "chance": 6.67,
+        "chance": 7.14,
         "rarity": "Rare"
       },
       {
@@ -79655,12 +79666,6 @@
       },
       {
         "location": "Earth/Tikal (Excavation), Rotation B",
-        "type": "Hornet Strike",
-        "chance": 7.69,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Oestrus (Infested Salvage), Rotation B",
         "type": "Hornet Strike",
         "chance": 7.69,
         "rarity": "Rare"
@@ -93878,8 +93883,7 @@
         "upgradeValues": [
           {
             "value": -0.0049999999,
-            "locTag": "|val|% Ammo Efficiency",
-            "reverseValueSymbol": true
+            "locTag": "|val|% Ammo Efficiency"
           }
         ]
       },
@@ -105478,6 +105482,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Zabala (Survival), Rotation C",
+        "type": "Life Strike",
+        "chance": 11.11,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Neptune/Kelashin (Survival), Rotation C",
         "type": "Life Strike",
         "chance": 11.28,
@@ -105496,15 +105506,9 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Eris/Zabala (Survival), Rotation C",
-        "type": "Life Strike",
-        "chance": 12.5,
-        "rarity": "Uncommon"
-      },
-      {
         "location": "Neptune/Yursa (Defection), Rotation C",
         "type": "Life Strike",
-        "chance": 15,
+        "chance": 13.64,
         "rarity": "Uncommon"
       }
     ],
@@ -133170,8 +133174,8 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Motus Setup",
-        "chance": 10,
-        "rarity": "Uncommon"
+        "chance": 9.52,
+        "rarity": "Rare"
       }
     ],
     "tradable": true,
@@ -141710,6 +141714,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Ixodes (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Kala-Azar (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Europa/Paimon (Defense), Rotation B",
         "type": "North Wind",
         "chance": 6.25,
@@ -141717,6 +141733,30 @@
       },
       {
         "location": "Jupiter/Io (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/StöFler (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Neptune/Proteus (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "North Wind",
         "chance": 6.25,
         "rarity": "Rare"
@@ -141734,63 +141774,27 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eris/Ixodes (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Kala-Azar (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Lua/StöFler (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Neptune/Proteus (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Pluto/Outer Terminus (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "North Wind",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Bianca (Defense), Rotation B",
         "type": "North Wind",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "North Wind",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Stephano (Defense), Rotation B",
         "type": "North Wind",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
@@ -142557,6 +142561,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Ixodes (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Kala-Azar (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Europa/Paimon (Defense), Rotation B",
         "type": "North Wind",
         "chance": 6.25,
@@ -142564,6 +142580,30 @@
       },
       {
         "location": "Jupiter/Io (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/StöFler (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Neptune/Proteus (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "North Wind",
         "chance": 6.25,
         "rarity": "Rare"
@@ -142581,63 +142621,27 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eris/Ixodes (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Kala-Azar (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Lua/StöFler (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Neptune/Proteus (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Pluto/Outer Terminus (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "North Wind",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Bianca (Defense), Rotation B",
         "type": "North Wind",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "North Wind",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Stephano (Defense), Rotation B",
         "type": "North Wind",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
@@ -143378,6 +143382,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Ixodes (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Kala-Azar (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Europa/Paimon (Defense), Rotation B",
         "type": "North Wind",
         "chance": 6.25,
@@ -143385,6 +143401,30 @@
       },
       {
         "location": "Jupiter/Io (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/StöFler (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Neptune/Proteus (Defense), Rotation B",
+        "type": "North Wind",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "North Wind",
         "chance": 6.25,
         "rarity": "Rare"
@@ -143402,63 +143442,27 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eris/Ixodes (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Kala-Azar (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Lua/StöFler (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Neptune/Proteus (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Pluto/Outer Terminus (Defense), Rotation B",
-        "type": "North Wind",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "North Wind",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Bianca (Defense), Rotation B",
         "type": "North Wind",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "North Wind",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Stephano (Defense), Rotation B",
         "type": "North Wind",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
@@ -152024,6 +152028,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
+        "type": "Pistol Ammo Mutation",
+        "chance": 3.7,
+        "rarity": "Rare"
+      },
+      {
         "location": "Ceres/Draco (Survival), Rotation C",
         "type": "Pistol Ammo Mutation",
         "chance": 3.76,
@@ -152195,12 +152205,6 @@
         "location": "Venus/V Prime (Survival), Rotation C",
         "type": "Pistol Ammo Mutation",
         "chance": 3.76,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
-        "type": "Pistol Ammo Mutation",
-        "chance": 4,
         "rarity": "Rare"
       }
     ],
@@ -152282,6 +152286,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
+        "type": "Pistol Ammo Mutation",
+        "chance": 3.7,
+        "rarity": "Rare"
+      },
+      {
         "location": "Ceres/Draco (Survival), Rotation C",
         "type": "Pistol Ammo Mutation",
         "chance": 3.76,
@@ -152453,12 +152463,6 @@
         "location": "Venus/V Prime (Survival), Rotation C",
         "type": "Pistol Ammo Mutation",
         "chance": 3.76,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
-        "type": "Pistol Ammo Mutation",
-        "chance": 4,
         "rarity": "Rare"
       }
     ],
@@ -154007,8 +154011,7 @@
         "upgradeValues": [
           {
             "value": -0.0049999999,
-            "locTag": "|val|% Ammo Efficiency",
-            "reverseValueSymbol": true
+            "locTag": "|val|% Ammo Efficiency"
           }
         ]
       },
@@ -179642,8 +179645,8 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Proton Snap",
-        "chance": 10,
-        "rarity": "Uncommon"
+        "chance": 9.52,
+        "rarity": "Rare"
       }
     ],
     "tradable": true,
@@ -190038,6 +190041,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Ixodes (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Kala-Azar (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Europa/Paimon (Defense), Rotation B",
         "type": "Reflex Coil",
         "chance": 6.25,
@@ -190045,6 +190060,30 @@
       },
       {
         "location": "Jupiter/Io (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/StöFler (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Neptune/Proteus (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Reflex Coil",
         "chance": 6.25,
         "rarity": "Rare"
@@ -190062,63 +190101,27 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eris/Ixodes (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Kala-Azar (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Lua/StöFler (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Neptune/Proteus (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Pluto/Outer Terminus (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "Reflex Coil",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Bianca (Defense), Rotation B",
         "type": "Reflex Coil",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Reflex Coil",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Stephano (Defense), Rotation B",
         "type": "Reflex Coil",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
@@ -190836,6 +190839,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Ixodes (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Kala-Azar (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Europa/Paimon (Defense), Rotation B",
         "type": "Reflex Coil",
         "chance": 6.25,
@@ -190843,6 +190858,30 @@
       },
       {
         "location": "Jupiter/Io (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/StöFler (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Neptune/Proteus (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Reflex Coil",
         "chance": 6.25,
         "rarity": "Rare"
@@ -190860,63 +190899,27 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eris/Ixodes (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Kala-Azar (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Lua/StöFler (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Neptune/Proteus (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Pluto/Outer Terminus (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "Reflex Coil",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Bianca (Defense), Rotation B",
         "type": "Reflex Coil",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Reflex Coil",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Stephano (Defense), Rotation B",
         "type": "Reflex Coil",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
@@ -191609,6 +191612,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Ixodes (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Kala-Azar (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Europa/Paimon (Defense), Rotation B",
         "type": "Reflex Coil",
         "chance": 6.25,
@@ -191616,6 +191631,30 @@
       },
       {
         "location": "Jupiter/Io (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/StöFler (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Neptune/Proteus (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Reflex Coil",
         "chance": 6.25,
         "rarity": "Rare"
@@ -191633,63 +191672,27 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eris/Ixodes (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Kala-Azar (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Lua/StöFler (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Neptune/Proteus (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Pluto/Outer Terminus (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "Reflex Coil",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Bianca (Defense), Rotation B",
         "type": "Reflex Coil",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Reflex Coil",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Stephano (Defense), Rotation B",
         "type": "Reflex Coil",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
@@ -192382,6 +192385,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Eris/Ixodes (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Kala-Azar (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
         "location": "Europa/Paimon (Defense), Rotation B",
         "type": "Reflex Coil",
         "chance": 6.25,
@@ -192389,6 +192404,30 @@
       },
       {
         "location": "Jupiter/Io (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Lua/StöFler (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Neptune/Proteus (Defense), Rotation B",
+        "type": "Reflex Coil",
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Reflex Coil",
         "chance": 6.25,
         "rarity": "Rare"
@@ -192406,63 +192445,27 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eris/Ixodes (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Kala-Azar (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Lua/StöFler (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Neptune/Proteus (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Pluto/Outer Terminus (Defense), Rotation B",
-        "type": "Reflex Coil",
-        "chance": 6.67,
-        "rarity": "Rare"
-      },
-      {
         "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "Reflex Coil",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Bianca (Defense), Rotation B",
         "type": "Reflex Coil",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Reflex Coil",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Stephano (Defense), Rotation B",
         "type": "Reflex Coil",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
@@ -195535,6 +195538,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
+        "type": "Rifle Ammo Mutation",
+        "chance": 3.7,
+        "rarity": "Rare"
+      },
+      {
         "location": "Ceres/Draco (Survival), Rotation C",
         "type": "Rifle Ammo Mutation",
         "chance": 3.76,
@@ -195706,12 +195715,6 @@
         "location": "Venus/V Prime (Survival), Rotation C",
         "type": "Rifle Ammo Mutation",
         "chance": 3.76,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
-        "type": "Rifle Ammo Mutation",
-        "chance": 4,
         "rarity": "Rare"
       }
     ],
@@ -195793,6 +195796,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
+        "type": "Rifle Ammo Mutation",
+        "chance": 3.7,
+        "rarity": "Rare"
+      },
+      {
         "location": "Ceres/Draco (Survival), Rotation C",
         "type": "Rifle Ammo Mutation",
         "chance": 3.76,
@@ -195964,12 +195973,6 @@
         "location": "Venus/V Prime (Survival), Rotation C",
         "type": "Rifle Ammo Mutation",
         "chance": 3.76,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
-        "type": "Rifle Ammo Mutation",
-        "chance": 4,
         "rarity": "Rare"
       }
     ],
@@ -196973,8 +196976,7 @@
         "upgradeValues": [
           {
             "value": -0.0049999999,
-            "locTag": "|val|% Ammo Efficiency",
-            "reverseValueSymbol": true
+            "locTag": "|val|% Ammo Efficiency"
           }
         ]
       },
@@ -221585,61 +221587,61 @@
       {
         "location": "Eris/Ixodes (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Eris/Kala-Azar (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Lua/StöFler (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Neptune/Proteus (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Bianca (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Stephano (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
@@ -222360,61 +222362,61 @@
       {
         "location": "Eris/Ixodes (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Eris/Kala-Azar (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Lua/StöFler (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Neptune/Proteus (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Bianca (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Stephano (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
@@ -223109,61 +223111,61 @@
       {
         "location": "Eris/Ixodes (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Eris/Kala-Azar (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Lua/StöFler (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Neptune/Proteus (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Bianca (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Stephano (Defense), Rotation B",
         "type": "Shocking Touch",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
@@ -223431,6 +223433,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
+        "type": "Shotgun Ammo Mutation",
+        "chance": 3.7,
+        "rarity": "Rare"
+      },
+      {
         "location": "Ceres/Draco (Survival), Rotation C",
         "type": "Shotgun Ammo Mutation",
         "chance": 3.76,
@@ -223602,12 +223610,6 @@
         "location": "Venus/V Prime (Survival), Rotation C",
         "type": "Shotgun Ammo Mutation",
         "chance": 3.76,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
-        "type": "Shotgun Ammo Mutation",
-        "chance": 4,
         "rarity": "Rare"
       }
     ],
@@ -223695,6 +223697,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
+        "type": "Shotgun Ammo Mutation",
+        "chance": 3.7,
+        "rarity": "Rare"
+      },
+      {
         "location": "Ceres/Draco (Survival), Rotation C",
         "type": "Shotgun Ammo Mutation",
         "chance": 3.76,
@@ -223866,12 +223874,6 @@
         "location": "Venus/V Prime (Survival), Rotation C",
         "type": "Shotgun Ammo Mutation",
         "chance": 3.76,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
-        "type": "Shotgun Ammo Mutation",
-        "chance": 4,
         "rarity": "Rare"
       }
     ],
@@ -225047,8 +225049,7 @@
         "upgradeValues": [
           {
             "value": -0.0049999999,
-            "locTag": "|val|% Ammo Efficiency",
-            "reverseValueSymbol": true
+            "locTag": "|val|% Ammo Efficiency"
           }
         ]
       },
@@ -238146,22 +238147,22 @@
     "levelStats": [
       {
         "stats": [
-          "On Headshot:\\n+25% Ammo Efficiency for 0.5s"
+          "On Headshot:\\n10% chance for Infinite Ammo for 0.5s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+50% Ammo Efficiency for 1s"
+          "On Headshot:\\n20% chance for Infinite Ammo for 1s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+75% Ammo Efficiency for 2s"
+          "On Headshot:\\n30% chance for Infinite Ammo for 2s"
         ]
       },
       {
         "stats": [
-          "On Headshot:\\n+100% Ammo Efficiency for 2s"
+          "On Headshot:\\n40% chance for Infinite Ammo for 2s"
         ]
       }
     ],
@@ -240425,6 +240426,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
+        "type": "Sniper Ammo Mutation",
+        "chance": 3.7,
+        "rarity": "Rare"
+      },
+      {
         "location": "Ceres/Draco (Survival), Rotation C",
         "type": "Sniper Ammo Mutation",
         "chance": 3.76,
@@ -240596,12 +240603,6 @@
         "location": "Venus/V Prime (Survival), Rotation C",
         "type": "Sniper Ammo Mutation",
         "chance": 3.76,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
-        "type": "Sniper Ammo Mutation",
-        "chance": 4,
         "rarity": "Rare"
       }
     ],
@@ -240689,6 +240690,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
+        "type": "Sniper Ammo Mutation",
+        "chance": 3.7,
+        "rarity": "Rare"
+      },
+      {
         "location": "Ceres/Draco (Survival), Rotation C",
         "type": "Sniper Ammo Mutation",
         "chance": 3.76,
@@ -240860,12 +240867,6 @@
         "location": "Venus/V Prime (Survival), Rotation C",
         "type": "Sniper Ammo Mutation",
         "chance": 3.76,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Kuva Fortress/Taveuni (Survival), Rotation C",
-        "type": "Sniper Ammo Mutation",
-        "chance": 4,
         "rarity": "Rare"
       }
     ],
@@ -250324,61 +250325,67 @@
       {
         "location": "Eris/Ixodes (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Eris/Kala-Azar (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Lua/StöFler (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Neptune/Proteus (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Bianca (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Stephano (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Oestrus (Infested Salvage), Rotation B",
+        "type": "Streamline",
+        "chance": 7.14,
         "rarity": "Rare"
       },
       {
@@ -250397,12 +250404,6 @@
         "location": "Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation A",
         "type": "Streamline",
         "chance": 7.52,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Oestrus (Infested Salvage), Rotation B",
-        "type": "Streamline",
-        "chance": 7.69,
         "rarity": "Rare"
       },
       {
@@ -250812,61 +250813,67 @@
       {
         "location": "Eris/Ixodes (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Eris/Kala-Azar (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Kuva Fortress/Nabuk (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Lua/StöFler (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Neptune/Proteus (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Pluto/Outer Terminus (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Sedna/Hydron (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Bianca (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Miranda (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
         "rarity": "Rare"
       },
       {
         "location": "Uranus/Stephano (Defense), Rotation B",
         "type": "Streamline",
-        "chance": 6.67,
+        "chance": 6.25,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eris/Oestrus (Infested Salvage), Rotation B",
+        "type": "Streamline",
+        "chance": 7.14,
         "rarity": "Rare"
       },
       {
@@ -250885,12 +250892,6 @@
         "location": "Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation A",
         "type": "Streamline",
         "chance": 7.52,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eris/Oestrus (Infested Salvage), Rotation B",
-        "type": "Streamline",
-        "chance": 7.69,
         "rarity": "Rare"
       },
       {
@@ -261897,17 +261898,17 @@
     "levelStats": [
       {
         "stats": [
-          "Enemies explode on death, dealing 20 <DT_MAGNETIC_COLOR>Magnetic Damage (+10% Enemy Max Health) in a 1.5m radius."
+          "Enemies explode on death, dealing 20 <DT_MAGNETIC_COLOR>Magnetic Damage (+10% Enemy Max Health) in a 6m radius."
         ]
       },
       {
         "stats": [
-          "Enemies explode on death, dealing 40 <DT_MAGNETIC_COLOR>Magnetic Damage (+20% Enemy Max Health) in a 3m radius."
+          "Enemies explode on death, dealing 40 <DT_MAGNETIC_COLOR>Magnetic Damage (+20% Enemy Max Health) in a 6m radius."
         ]
       },
       {
         "stats": [
-          "Enemies explode on death, dealing 60 <DT_MAGNETIC_COLOR>Magnetic Damage (+30% Enemy Max Health) in a 4.5m radius."
+          "Enemies explode on death, dealing 60 <DT_MAGNETIC_COLOR>Magnetic Damage (+30% Enemy Max Health) in a 6m radius."
         ]
       },
       {
@@ -280507,27 +280508,27 @@
     "levelStats": [
       {
         "stats": [
-          "Enemies explode on death, dealing 50 <DT_EXPLOSION_COLOR>Blast Damage (+10% Enemy Max Health) in a 1m radius."
+          "Enemies explode on death, dealing 50 <DT_EXPLOSION_COLOR>Blast Damage (+10% Enemy Max Health) in a 6m radius."
         ]
       },
       {
         "stats": [
-          "Enemies explode on death, dealing 100 <DT_EXPLOSION_COLOR>Blast Damage (+20% Enemy Max Health) in a 2m radius."
+          "Enemies explode on death, dealing 100 <DT_EXPLOSION_COLOR>Blast Damage (+20% Enemy Max Health) in a 6m radius."
         ]
       },
       {
         "stats": [
-          "Enemies explode on death, dealing 150 <DT_EXPLOSION_COLOR>Blast Damage (+30% Enemy Max Health) in a 3m radius."
+          "Enemies explode on death, dealing 150 <DT_EXPLOSION_COLOR>Blast Damage (+30% Enemy Max Health) in a 6m radius."
         ]
       },
       {
         "stats": [
-          "Enemies explode on death, dealing 200 <DT_EXPLOSION_COLOR>Blast Damage (+40% Enemy Max Health) in a 4m radius."
+          "Enemies explode on death, dealing 200 <DT_EXPLOSION_COLOR>Blast Damage (+40% Enemy Max Health) in a 6m radius."
         ]
       },
       {
         "stats": [
-          "Enemies explode on death, dealing 250 <DT_EXPLOSION_COLOR>Blast Damage (+50% Enemy Max Health) in a 5m radius."
+          "Enemies explode on death, dealing 250 <DT_EXPLOSION_COLOR>Blast Damage (+50% Enemy Max Health) in a 6m radius."
         ]
       },
       {

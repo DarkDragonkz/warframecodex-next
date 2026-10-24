@@ -35,7 +35,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 12.5,
-    "omegaAttenuation": 0.69999999,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Auto",
     "magazineSize": 6,
@@ -310,7 +310,7 @@
       "parent": "40.0",
       "date": "2025-10-15"
     },
-    "disposition": 1,
+    "disposition": 4,
     "releaseDate": "2025-10-15",
     "isPrime": false,
     "masterable": true
@@ -351,7 +351,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 100,
-    "omegaAttenuation": 1,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Held",
     "magazineSize": 100,
@@ -463,7 +463,7 @@
       "parent": "29.0",
       "date": "2020-08-25"
     },
-    "disposition": 3,
+    "disposition": 4,
     "releaseDate": "2020-08-25",
     "isPrime": false,
     "masterable": true
@@ -663,7 +663,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 100,
-    "omegaAttenuation": 1,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Charge",
     "magazineSize": 20,
@@ -779,7 +779,7 @@
       "parent": "31.0",
       "date": "2022-03-28"
     },
-    "disposition": 3,
+    "disposition": 4,
     "releaseDate": "2022-03-28",
     "isPrime": true,
     "vaulted": true,
@@ -823,7 +823,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 25,
-    "omegaAttenuation": 1.3,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Burst",
     "magazineSize": 30,
@@ -965,7 +965,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 12.5,
-    "omegaAttenuation": 1.3,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Auto",
     "magazineSize": 64,
@@ -1102,7 +1102,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 100,
-    "omegaAttenuation": 1.1,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Semi",
     "magazineSize": 40,
@@ -1205,7 +1205,7 @@
       "parent": "15.7",
       "date": "2014-12-19"
     },
-    "disposition": 3,
+    "disposition": 4,
     "releaseDate": "2014-12-19",
     "isPrime": false,
     "masterable": true
@@ -1246,7 +1246,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 16.666666,
-    "omegaAttenuation": 1.1,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Auto",
     "magazineSize": 30,
@@ -1365,7 +1365,7 @@
       "parent": "17.0",
       "date": "2015-07-31"
     },
-    "disposition": 3,
+    "disposition": 4,
     "releaseDate": "2015-07-31",
     "isPrime": false,
     "masterable": true
@@ -1406,7 +1406,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 50,
-    "omegaAttenuation": 1.1,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Auto",
     "magazineSize": 200,
@@ -1509,7 +1509,7 @@
       "parent": "15.0",
       "date": "2014-10-24"
     },
-    "disposition": 3,
+    "disposition": 4,
     "releaseDate": "2014-10-24",
     "isPrime": false,
     "masterable": true
@@ -1550,7 +1550,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 50,
-    "omegaAttenuation": 0.94999999,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Auto",
     "magazineSize": 300,
@@ -1648,7 +1648,7 @@
       "parent": "15.8",
       "date": "2014-12-19"
     },
-    "disposition": 3,
+    "disposition": 4,
     "releaseDate": "2014-12-19",
     "isPrime": false,
     "masterable": true
@@ -1689,7 +1689,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 25,
-    "omegaAttenuation": 0.94999999,
+    "omegaAttenuation": 1.2,
     "maxLevelCap": 40,
     "noise": "Alarming",
     "trigger": "Auto",
@@ -1790,7 +1790,7 @@
       "parent": "26.0",
       "date": "2019-10-31"
     },
-    "disposition": 3,
+    "disposition": 4,
     "releaseDate": "2019-10-31",
     "isPrime": false,
     "masterable": true
@@ -1831,7 +1831,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 16.666666,
-    "omegaAttenuation": 0.69999999,
+    "omegaAttenuation": 1.2,
     "maxLevelCap": 40,
     "noise": "Alarming",
     "trigger": "Auto",
@@ -1934,7 +1934,7 @@
       "parent": "30.5",
       "date": "2021-07-06"
     },
-    "disposition": 1,
+    "disposition": 4,
     "releaseDate": "2021-07-06",
     "isPrime": false,
     "masterable": true
@@ -1975,7 +1975,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 8.333333,
-    "omegaAttenuation": 1.05,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Held",
     "magazineSize": 100,
@@ -2103,7 +2103,7 @@
       "parent": "24.4",
       "date": "2019-03-08"
     },
-    "disposition": 3,
+    "disposition": 4,
     "releaseDate": "2019-03-08",
     "isPrime": false,
     "masterable": true
@@ -2144,7 +2144,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 8.333333,
-    "omegaAttenuation": 0.80000001,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Held",
     "magazineSize": 100,
@@ -2271,7 +2271,7 @@
       "parent": "32.0",
       "date": "2023-03-15"
     },
-    "disposition": 2,
+    "disposition": 4,
     "releaseDate": "2023-03-15",
     "isPrime": true,
     "vaulted": true,
@@ -2315,7 +2315,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 1.4285715,
-    "omegaAttenuation": 1.1,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Charge",
     "magazineSize": 30,
@@ -2427,7 +2427,7 @@
       "parent": "35.0",
       "date": "2023-12-13"
     },
-    "disposition": 3,
+    "disposition": 4,
     "releaseDate": "2023-12-13",
     "isPrime": false,
     "masterable": true
@@ -2468,7 +2468,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 80,
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Auto",
     "magazineSize": 300,
@@ -2587,7 +2587,7 @@
       "parent": "29.0",
       "date": "2020-08-25"
     },
-    "disposition": 1,
+    "disposition": 4,
     "releaseDate": "2020-08-25",
     "isPrime": false,
     "masterable": true
@@ -2628,7 +2628,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 6.6666665,
-    "omegaAttenuation": 1,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Auto Burst",
     "magazineSize": 100,
@@ -2763,7 +2763,7 @@
       "parent": "29.5",
       "date": "2020-11-19"
     },
-    "disposition": 3,
+    "disposition": 4,
     "releaseDate": "2020-11-19",
     "isPrime": false,
     "masterable": true
@@ -2804,7 +2804,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 25,
-    "omegaAttenuation": 1.25,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Auto",
     "magazineSize": 240,
@@ -2948,7 +2948,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 16,
-    "omegaAttenuation": 1.25,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Auto",
     "magazineSize": 64,
@@ -3065,7 +3065,7 @@
     "productCategory": "SpaceGuns",
     "slot": 1,
     "accuracy": 28.571428,
-    "omegaAttenuation": 1.1,
+    "omegaAttenuation": 1.2,
     "noise": "Alarming",
     "trigger": "Charge",
     "magazineSize": 10,
@@ -3178,7 +3178,7 @@
       "parent": "15.2",
       "date": "2014-11-13"
     },
-    "disposition": 3,
+    "disposition": 4,
     "releaseDate": "2014-11-13",
     "isPrime": false,
     "masterable": true
