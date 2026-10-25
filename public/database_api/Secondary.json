@@ -15036,6 +15036,14 @@
     },
     "imageName": "RaktaBallistica.png",
     "category": "Secondary",
+    "drops": [
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Rakta Ballistica",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [
@@ -15467,6 +15475,14 @@
     },
     "imageName": "SanctiCastanas.png",
     "category": "Secondary",
+    "drops": [
+      {
+        "location": "New Loka, Flawless",
+        "type": "Sancti Castanas",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [
@@ -15743,6 +15759,14 @@
     },
     "imageName": "SecuraDualCestra.png",
     "category": "Secondary",
+    "drops": [
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Secura Dual Cestra",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [
@@ -17664,6 +17688,14 @@
     },
     "imageName": "SynoidGammacor.png",
     "category": "Secondary",
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Synoid Gammacor",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [
@@ -17964,6 +17996,14 @@
     },
     "imageName": "TelosAkbolto.png",
     "category": "Secondary",
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Telos Akbolto",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [
@@ -20076,6 +20116,14 @@
     },
     "imageName": "VaykorMarelok.png",
     "category": "Secondary",
+    "drops": [
+      {
+        "location": "Steel Meridian, General",
+        "type": "Vaykor Marelok",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [

@@ -273,6 +273,14 @@
     "type": "Gear",
     "imageName": "LureChipInfestedMergoo.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Entrati (Son), Acquaintance",
+        "type": "Avichaea Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -284,6 +292,14 @@
     "type": "Gear",
     "imageName": "RarityBoostInfestedMergoo.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Entrati (Son), Acquaintance",
+        "type": "Avichaea Pheromone Gland",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -373,6 +389,14 @@
     "type": "Gear",
     "imageName": "ThemeLureChipSnowArmadillo.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Bolarola Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -384,6 +408,14 @@
     "type": "Gear",
     "imageName": "RarityBoostSnowArmadillo.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Bolarola Pheromone Synthesizer",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -395,6 +427,14 @@
     "type": "Fish",
     "imageName": "ContaminantGeneric.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Neutral",
+        "type": "Broad-Spectrum Bait",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -455,6 +495,14 @@
     "type": "Fish",
     "imageName": "ContaminantCaveTierB.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Charamote Bait",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -643,6 +691,14 @@
     "type": "Gear",
     "imageName": "ThemeLureChipCondroc.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Ostron (Master Teasonai), Offworlder",
+        "type": "Condroc Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -654,6 +710,14 @@
     "type": "Gear",
     "imageName": "RarityBoostCondroc.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Ostron (Master Teasonai), Offworlder",
+        "type": "Condroc Pheromone Oota",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -793,6 +857,14 @@
     "type": "Gear",
     "imageName": "LureChipInfestedMaggot.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Entrati (Son), Neutral",
+        "type": "Cryptilex Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -804,6 +876,14 @@
     "type": "Gear",
     "imageName": "RarityBoostInfestedMaggot.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Entrati (Son), Neutral",
+        "type": "Cryptilex Pheromone Gland",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -905,6 +985,14 @@
     "type": "Gear",
     "imageName": "InfestedFishingSpearB.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Associate",
+        "type": "Ebisu Spear",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -916,6 +1004,104 @@
     "type": "Gear",
     "imageName": "AnimalLure.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Entrati (Son), Acquaintance",
+        "type": "Avichaea Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Entrati (Son), Associate",
+        "type": "Undazoa Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Entrati (Son), Neutral",
+        "type": "Cryptilex Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Entrati (Son), Stranger",
+        "type": "Vulpaphyla Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Entrati (Son), Stranger",
+        "type": "Predasite Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Master Teasonai), Neutral",
+        "type": "Kuaka Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Master Teasonai), Offworlder",
+        "type": "Condroc Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Master Teasonai), Trusted",
+        "type": "Vasca Kavat Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Master Teasonai), Visitor",
+        "type": "Mergoo Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Horrasque Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Stover Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Bolarola Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Neutral",
+        "type": "Pobbers Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Old Mate",
+        "type": "Kubrodon Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Virmink Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Sawgaw Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -999,6 +1185,12 @@
     "imageName": "WyrmBaitInfested.png",
     "category": "Gear",
     "drops": [
+      {
+        "location": "Entrati (Daughter), Associate",
+        "type": "Processed Fass Residue",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation A",
         "type": "5X Fass Residue",
@@ -1417,6 +1609,14 @@
     "type": "Gear",
     "imageName": "ThemeLureChipSnowPredator.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Horrasque Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -1428,6 +1628,14 @@
     "type": "Gear",
     "imageName": "RarityBoostSnowPredator.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Horrasque Pheromone Synthesizer",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -1524,6 +1732,14 @@
     "type": "Fish",
     "imageName": "ContaminantLakeTierA.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Kriller Bait",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -1535,6 +1751,14 @@
     "type": "Gear",
     "imageName": "ThemeLureChipKuaka.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Ostron (Master Teasonai), Neutral",
+        "type": "Kuaka Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -1546,6 +1770,14 @@
     "type": "Gear",
     "imageName": "RarityBoostKuaka.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Ostron (Master Teasonai), Neutral",
+        "type": "Kuaka Pheromone Oota",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -1557,6 +1789,14 @@
     "type": "Gear",
     "imageName": "ThemeLureChipLegendaryKubrow.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Old Mate",
+        "type": "Kubrodon Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -1568,6 +1808,14 @@
     "type": "Gear",
     "imageName": "RarityBoostLegendaryKubrow.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Old Mate",
+        "type": "Kubrodon Pheromone Synthesizer",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -1685,6 +1933,14 @@
     "type": "Fish",
     "imageName": "ContaminantLakeTierB.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Longwinder Bait",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -1737,6 +1993,14 @@
     "type": "Gear",
     "imageName": "ThemeLureChipMergoo.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Ostron (Master Teasonai), Visitor",
+        "type": "Mergoo Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -1748,6 +2012,14 @@
     "type": "Gear",
     "imageName": "RarityBoostMergoo.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Ostron (Master Teasonai), Visitor",
+        "type": "Mergoo Pheromone Oota",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -1759,6 +2031,14 @@
     "type": "Fish",
     "imageName": "ContaminantCaveTierA.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Mirewinder Bait",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -1853,6 +2133,14 @@
     "type": "Fish",
     "imageName": "ContaminantPondTierA.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Narrow-Spectrum Bait",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -2638,6 +2926,14 @@
     "type": "Gear",
     "imageName": "ThemeLureChipSnowRodent.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Neutral",
+        "type": "Pobbers Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -2649,6 +2945,14 @@
     "type": "Gear",
     "imageName": "RarityBoostSnowRodent.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Neutral",
+        "type": "Pobbers Pheromone Synthesizer",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -2690,6 +2994,14 @@
     "type": "Gear",
     "imageName": "LureChipInfestedPredator.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Entrati (Son), Stranger",
+        "type": "Predasite Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -2701,6 +3013,14 @@
     "type": "Gear",
     "imageName": "RarityBoostInfestedPredator.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Entrati (Son), Stranger",
+        "type": "Predasite Pheromone Gland",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -2925,6 +3245,14 @@
     "type": "Gear",
     "imageName": "ThemeLureChipSnowBird.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Sawgaw Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -2936,6 +3264,14 @@
     "type": "Gear",
     "imageName": "RarityBoostSnowBird.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Sawgaw Pheromone Synthesizer",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -3085,6 +3421,14 @@
     "type": "Gear",
     "imageName": "InfestedFishingSpearA.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Neutral",
+        "type": "Spari Spear",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -3541,6 +3885,14 @@
     "type": "Gear",
     "imageName": "ThemeLureChipOrokinKubrow.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Stover Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -3552,6 +3904,14 @@
     "type": "Gear",
     "imageName": "RarityBoostOrokinKubrow.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Stover Pheromone Synthesizer",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -3711,6 +4071,14 @@
     "type": "Fish",
     "imageName": "ContaminantCaveTierC.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Synathid Bait",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -3774,6 +4142,20 @@
     "type": "Gear",
     "imageName": "TranqRifle.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Entrati (Son), Neutral",
+        "type": "Tranq Rifle",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Neutral",
+        "type": "Tranq Rifle",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -3785,6 +4167,14 @@
     "type": "Fish",
     "imageName": "ContaminantPondTierB.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Tromyzon Bait",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -3910,6 +4300,14 @@
     "type": "Gear",
     "imageName": "LureChipZongro.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Entrati (Son), Associate",
+        "type": "Undazoa Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -3921,6 +4319,14 @@
     "type": "Gear",
     "imageName": "RarityBoostZongro.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Entrati (Son), Associate",
+        "type": "Undazoa Pheromone Gland",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -4011,6 +4417,14 @@
     "type": "Gear",
     "imageName": "ThemeLureChipVampireKavat.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Ostron (Master Teasonai), Trusted",
+        "type": "Vasca Kavat Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -4022,6 +4436,14 @@
     "type": "Gear",
     "imageName": "RarityBoostVampireKavat.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Ostron (Master Teasonai), Trusted",
+        "type": "Vasca Kavat Pheromone Oota",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -4071,6 +4493,14 @@
     "type": "Gear",
     "imageName": "ThemeLureChipSnowCritter.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Virmink Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -4082,6 +4512,14 @@
     "type": "Gear",
     "imageName": "RarityBoostSnowCritter.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Virmink Pheromone Synthesizer",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -4094,6 +4532,12 @@
     "imageName": "WyrmBaitEntrati.png",
     "category": "Gear",
     "drops": [
+      {
+        "location": "Entrati (Daughter), Friend",
+        "type": "Processed Vome Residue",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation B",
         "type": "5X Vome Residue",
@@ -4334,6 +4778,14 @@
     "type": "Gear",
     "imageName": "LureChipInfestedCritter.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Entrati (Son), Stranger",
+        "type": "Vulpaphyla Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -4345,6 +4797,14 @@
     "type": "Gear",
     "imageName": "RarityBoostInfestedCritter.png",
     "category": "Gear",
+    "drops": [
+      {
+        "location": "Entrati (Son), Stranger",
+        "type": "Vulpaphyla Pheromone Gland",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },

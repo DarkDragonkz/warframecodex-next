@@ -2092,6 +2092,12 @@
     "slot": 5,
     "drops": [
       {
+        "location": "Ostron (Hok), Neutral",
+        "type": "Balla Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Saturn/Variant Team Annihilation (Conclave), Rotation C",
         "type": "Balla Blueprint",
         "chance": 3.57,
@@ -6007,6 +6013,12 @@
     "slot": 5,
     "drops": [
       {
+        "location": "Ostron (Hok), Neutral",
+        "type": "Cyath Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Saturn/Variant Team Annihilation (Conclave), Rotation C",
         "type": "Cyath Blueprint",
         "chance": 3.57,
@@ -6946,6 +6958,12 @@
     "category": "Melee",
     "slot": 5,
     "drops": [
+      {
+        "location": "Ostron (Hok), Neutral",
+        "type": "Dehtat Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Saturn/Variant Team Annihilation (Conclave), Rotation C",
         "type": "Dehtat Blueprint",
@@ -21943,6 +21961,12 @@
     "slot": 5,
     "drops": [
       {
+        "location": "Ostron (Hok), Neutral",
+        "type": "Kronsh Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Saturn/Variant Team Annihilation (Conclave), Rotation C",
         "type": "Kronsh Blueprint",
         "chance": 3.57,
@@ -24170,6 +24194,12 @@
     "category": "Melee",
     "slot": 5,
     "drops": [
+      {
+        "location": "Ostron (Hok), Neutral",
+        "type": "Mewan Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Saturn/Variant Team Annihilation (Conclave), Rotation C",
         "type": "Mewan Blueprint",
@@ -27252,6 +27282,12 @@
     "category": "Melee",
     "slot": 5,
     "drops": [
+      {
+        "location": "Ostron (Hok), Neutral",
+        "type": "Ooltha Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Saturn/Variant Team Annihilation (Conclave), Rotation C",
         "type": "Ooltha Blueprint",
@@ -32306,6 +32342,14 @@
     },
     "imageName": "RaktaDarkDagger.png",
     "category": "Melee",
+    "drops": [
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Rakta Dark Dagger",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [
@@ -33372,6 +33416,14 @@
     },
     "imageName": "DrifterTazer.png",
     "category": "Melee",
+    "drops": [
+      {
+        "location": "Cephalon Simaris, Complete The New War",
+        "type": "Rumblejack",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "wikiAvailable": true,
     "attacks": [
@@ -33861,6 +33913,14 @@
     },
     "imageName": "SanctiMagistar.png",
     "category": "Melee",
+    "drops": [
+      {
+        "location": "New Loka, Flawless",
+        "type": "Sancti Magistar",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [
@@ -35073,6 +35133,14 @@
     },
     "imageName": "SecuraLecta.png",
     "category": "Melee",
+    "drops": [
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Secura Lecta",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [
@@ -38361,6 +38429,14 @@
     },
     "imageName": "Heliocor.png",
     "category": "Melee",
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Synoid Heliocor",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [
@@ -39399,6 +39475,14 @@
     },
     "imageName": "Boltace.png",
     "category": "Melee",
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Telos Boltace",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [
@@ -42157,6 +42241,14 @@
     },
     "imageName": "Sydon.png",
     "category": "Melee",
+    "drops": [
+      {
+        "location": "Steel Meridian, General",
+        "type": "Vaykor Sydon",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "wikiAvailable": true,
     "attacks": [

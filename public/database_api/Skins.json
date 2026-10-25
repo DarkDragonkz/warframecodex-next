@@ -1103,6 +1103,14 @@
     "type": "Ship Decoration",
     "imageName": "LisetPropOroSigilMarker.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Quills, Architect",
+        "type": "Agkani Stone",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -2788,6 +2796,14 @@
     "type": "Emotes",
     "imageName": "ArbitersCombatEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Arbiters Combat Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -2799,6 +2815,14 @@
     "type": "Emotes",
     "imageName": "ArbitersSurvivabilityEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Arbiters Endurance Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -2810,6 +2834,14 @@
     "type": "Emotes",
     "imageName": "ArbitersEngineeringEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Arbiters Engineering Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -2821,6 +2853,14 @@
     "type": "Emotes",
     "imageName": "ArbitersGunneryEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Arbiters Gunnery Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -2833,6 +2873,14 @@
     "type": "Ship Decoration",
     "imageName": "SyndicateAHWallpaper.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Arbiters of Hexis Stencil",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -2844,6 +2892,14 @@
     "type": "Emotes",
     "imageName": "ArbitersPilotingEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Arbiters Piloting Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -4973,6 +5029,14 @@
     "type": "Skin",
     "imageName": "AsitaRakta.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Asita Rakta Syandana",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -5982,6 +6046,14 @@
     "type": "Skin",
     "imageName": "SilkFabric.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Ayatan Elegance",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -8074,6 +8146,14 @@
     "type": "Ship Decoration",
     "imageName": "LisetPropCetusStallSignA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Kin",
+        "type": "Blue Cetus Sign",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -8098,6 +8178,14 @@
     "type": "Ship Decoration",
     "imageName": "LisetPropCetusPigmentBasketLarge.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Kin",
+        "type": "Blue Spices",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -8524,6 +8612,14 @@
     "type": "Ship Decoration",
     "imageName": "LisetPropCetusVegBasketC.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Surah",
+        "type": "Bountiful Fruit Basket",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -10413,6 +10509,14 @@
     "type": "Skin",
     "imageName": "SkirtAdultE.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Quills, Mote",
+        "type": "Ceno Apparel Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -10501,6 +10605,14 @@
     "type": "Skin",
     "imageName": "BodySuitAdultE.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Quills, Mote",
+        "type": "Ceno Cuirass Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -10551,6 +10663,14 @@
     "type": "Skin",
     "imageName": "LeggingsAdultE.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Quills, Adherent",
+        "type": "Ceno Greaves Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -10601,6 +10721,14 @@
     "type": "Skin",
     "imageName": "HoodAdultE.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Quills, Instrument",
+        "type": "Ceno Helmet Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -10651,6 +10779,14 @@
     "type": "Skin",
     "imageName": "SleevesAdultE.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Quills, Observer",
+        "type": "Ceno Pauldrons Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -10707,6 +10843,14 @@
     "type": "Skin",
     "imageName": "PatternWrapped.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Cephalon Adornment",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -10741,6 +10885,14 @@
     "type": "Emotes",
     "imageName": "CephalonSudaCombatEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Cephalon Suda Combat Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -10752,6 +10904,14 @@
     "type": "Emotes",
     "imageName": "CephalonSudaSurvivabilityEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Cephalon Suda Endurance Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -10763,6 +10923,14 @@
     "type": "Emotes",
     "imageName": "CephalonSudaEngineeringEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Cephalon Suda Engineering Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -10774,6 +10942,14 @@
     "type": "Emotes",
     "imageName": "CephalonSudaGunneryEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Cephalon Suda Gunnery Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -10785,6 +10961,14 @@
     "type": "Emotes",
     "imageName": "CephalonSudaPilotingEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Cephalon Suda Piloting Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -10797,6 +10981,14 @@
     "type": "Ship Decoration",
     "imageName": "SyndicateCSWallpaper.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Cephalon Suda Stencil",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -16255,6 +16447,18 @@
         "rarity": "Legendary"
       },
       {
+        "location": "Cephalon Suda, Genius",
+        "type": "Corpus Ice Planet Wreckage Scene",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Corpus Gas City Conduit Scene",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Extended Granum Void, Rotation B",
         "type": "Corpus Ship Hangar Scene",
         "chance": 16.67,
@@ -16577,6 +16781,14 @@
     "type": "Ship Decoration",
     "imageName": "LisetPropCetusJug.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Surah",
+        "type": "Cracked Jug",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -18325,6 +18537,14 @@
     "type": "Ship Decoration",
     "imageName": "OrnamentCephalonSuda.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Cephalon Suda, Wise",
+        "type": "Datum Sculpture",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -24007,6 +24227,14 @@
     "type": "Ship Decoration",
     "imageName": "LisetPropEidolonShard.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Quills, Instrument",
+        "type": "Eidolon Relic",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -29993,6 +30221,14 @@
     "type": "Ship Decoration",
     "imageName": "LisetPropFishingBoot.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Kin",
+        "type": "Fishing Boot",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -30221,6 +30457,14 @@
     "type": "Skin",
     "imageName": "SmokeEphemera.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Kahl's Garrison (Chipper), Home",
+        "type": "Fog Of War Ephemera",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -33132,6 +33376,14 @@
     "type": "Emotes",
     "imageName": "EmoteDanceOneHandHipLookLeftRight.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Solaris United (Rude Zuud), Neutral",
+        "type": "Gaze Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -34712,6 +34964,14 @@
     "type": "Ship Decoration",
     "imageName": "LisetPropCetusStallSignC.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Kin",
+        "type": "Green Cetus Sign",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -34746,6 +35006,14 @@
     "type": "Skin",
     "imageName": "InfestedKDriveGrotto.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Entrati (Son), Neutral",
+        "type": "Green Velocipod K-Drive Skin",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -35900,6 +36168,30 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "New Loka, Flawless",
+        "type": "Grineer Shipyards Manufactory Scene",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Steel Meridian, General",
+        "type": "Grineer Settlement Reactor Scene",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Steel Meridian, General",
+        "type": "Grineer Asteroid Simulacrum",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Steel Meridian, General",
+        "type": "Liberated Grineer",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Demolisher Bailiff",
         "type": "Cleanse Grineer",
         "chance": 3.75,
@@ -36459,6 +36751,14 @@
     "type": "Ship Decoration",
     "imageName": "GrokdrulContainer.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Surah",
+        "type": "Grokdrul Drum Decoration",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -37764,6 +38064,14 @@
     "type": "Arcade Minigame Unlock",
     "imageName": "LisetArcadeGameHappyTheme.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Cephalon Simaris",
+        "type": "Happy Zephyr",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -38977,6 +39285,14 @@
     "type": "Skin",
     "imageName": "SkirtAdultJ.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Neutral",
+        "type": "Haztech Apparel Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -39065,6 +39381,14 @@
     "type": "Skin",
     "imageName": "BodySuitAdultJ.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Neutral",
+        "type": "Haztech Cuirass Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -39115,6 +39439,14 @@
     "type": "Skin",
     "imageName": "LeggingsAdultJ.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Neutral",
+        "type": "Haztech Greaves Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -39165,6 +39497,14 @@
     "type": "Skin",
     "imageName": "HoodAdultJ.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Neutral",
+        "type": "Haztech Mask Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -39215,6 +39555,14 @@
     "type": "Skin",
     "imageName": "SleevesAdultJ.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Neutral",
+        "type": "Haztech Pauldrons Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -39744,6 +40092,14 @@
     "type": "Skin",
     "imageName": "HeliosSimarisSkin.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Cephalon Simaris",
+        "type": "Helios Simaris Skin",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -40433,6 +40789,14 @@
     "type": "Skin",
     "imageName": "Canvas.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Homestead Twill",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -41377,8 +41741,20 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Cephalon Suda, Genius",
+        "type": "Ice Wave Impedance (Frost)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Conclave, Tempest",
         "type": "Ice Wave Impedance",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Steel Meridian, General",
+        "type": "Ice Wave Impedance (Frost)",
         "chance": 100,
         "rarity": "Common"
       },
@@ -42612,6 +42988,12 @@
         "rarity": "Legendary"
       },
       {
+        "location": "Red Veil, Exalted",
+        "type": "Infested Ship Bridge Scene",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "J3 Jordas Golem",
         "type": "Bane Of Infested",
         "chance": 11.06,
@@ -42949,6 +43331,14 @@
     "type": "Ship Decoration",
     "imageName": "OrnamentSteelMeridian.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Steel Meridian, Protector",
+        "type": "Insignia Sculpture",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -43050,6 +43440,14 @@
     "type": "Ship Decoration",
     "imageName": "IraditeContainer.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Surah",
+        "type": "Iradite Formation Decoration",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -43061,6 +43459,14 @@
     "type": "Ship Decoration",
     "imageName": "ResourceDecoItemIradite.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Surah",
+        "type": "Iradite Nugget",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -44781,6 +45187,12 @@
         "type": "Blind Justice",
         "chance": 0.5,
         "rarity": "Legendary"
+      },
+      {
+        "location": "Steel Meridian, Protector",
+        "type": "Justice Blades (Dual Cleavers)",
+        "chance": 100,
+        "rarity": "Common"
       },
       {
         "location": "Neptune/Cephalon Capture (Conclave), Rotation A",
@@ -51727,6 +52139,14 @@
     "type": "Ship Decoration",
     "imageName": "LASxLockerSingleA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Foot Locker",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -53280,6 +53700,14 @@
     "type": "Ship Decoration",
     "imageName": "LisetArcadeThemeIcon.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Cephalon Simaris",
+        "type": "Ludoplex",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -53800,6 +54228,12 @@
         "type": "Madurai Lens",
         "chance": 10.29,
         "rarity": "Uncommon"
+      },
+      {
+        "location": "Cephalon Simaris",
+        "type": "Madurai Transmute Core",
+        "chance": 100,
+        "rarity": "Common"
       },
       {
         "location": "Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation A",
@@ -55439,6 +55873,14 @@
     "type": "Ship Decoration",
     "imageName": "OrnamentRedVeil.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Red Veil, Revered",
+        "type": "Mark Sculpture",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -56304,6 +56746,14 @@
     "type": "Ship Decoration",
     "imageName": "OrnamentArbitersHexis.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Crusader",
+        "type": "Medallion Sculpture",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -56426,6 +56876,20 @@
     "type": "Skin",
     "imageName": "YareliBoard.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Merulina Guardian (Yareli)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "New Loka, Flawless",
+        "type": "Merulina Guardian (Yareli)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -56468,7 +56932,7 @@
     "codexSecret": false,
     "excludeFromCodex": true,
     "type": "Skin",
-    "imageName": "MerulinaPrimeSkins.png",
+    "imageName": "MerulinaPrime.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -56479,7 +56943,7 @@
     "description": "Merulina’s tiny spawn are used to foraging on the sea bed, and adapt easily to nibbling up dirt from an Orbiter floor.",
     "codexSecret": false,
     "type": "Ship Decoration",
-    "imageName": "MerulinaPrimeSkins.png",
+    "imageName": "MerulinaPrime.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -56490,7 +56954,7 @@
     "codexSecret": false,
     "description": "Yareli Prime’s faithful water-glider is happy to adorn her body as an additional ornament.",
     "type": "Skin",
-    "imageName": "MerulinaPrime.png",
+    "imageName": "MerulinaPrimeSkins.png",
     "category": "Skins",
     "tradable": false,
     "masterable": false
@@ -58111,6 +58575,14 @@
     "type": "Ship Decoration",
     "imageName": "LisetPropCetusVegBasketB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Surah",
+        "type": "Modest Fruit Basket",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -59279,6 +59751,12 @@
         "type": "Naramon Lens",
         "chance": 10.29,
         "rarity": "Uncommon"
+      },
+      {
+        "location": "Cephalon Simaris",
+        "type": "Naramon Transmute Core",
+        "chance": 100,
+        "rarity": "Common"
       },
       {
         "location": "Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation C",
@@ -61329,6 +61807,14 @@
     "type": "Emotes",
     "imageName": "NewLokaCombatEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "New Loka, Flawless",
+        "type": "New Loka Combat Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -61340,6 +61826,14 @@
     "type": "Emotes",
     "imageName": "NewLokaSurvivabilityEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "New Loka, Flawless",
+        "type": "New Loka Endurance Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -61351,6 +61845,14 @@
     "type": "Emotes",
     "imageName": "NewLokaEngineeringEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "New Loka, Flawless",
+        "type": "New Loka Engineering Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -61362,6 +61864,14 @@
     "type": "Emotes",
     "imageName": "NewLokaPilotingEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "New Loka, Flawless",
+        "type": "New Loka Piloting Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -61374,6 +61884,14 @@
     "type": "Ship Decoration",
     "imageName": "SyndicateNLWallpaper.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "New Loka, Flawless",
+        "type": "New Loka Stencil",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -62521,6 +63039,14 @@
     "type": "Ship Decoration",
     "imageName": "NistlepodContainer.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Surah",
+        "type": "Nistlebrush Decoration",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -69888,6 +70414,18 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Cephalon Simaris",
+        "type": "Orokin Derelict Plaza Scene",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Orokin Derelict Simulacrum",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Neptune/Halimede (Caches), Rotation C",
         "type": "Orokin Cell",
         "chance": 12.58,
@@ -70947,6 +71485,14 @@
     "type": "Skin",
     "imageName": "BodySuitAdultI.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Operative",
+        "type": "Outrider Cuirass Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -70997,6 +71543,14 @@
     "type": "Skin",
     "imageName": "LeggingsAdultI.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Operative",
+        "type": "Outrider Greaves Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -71047,6 +71601,14 @@
     "type": "Skin",
     "imageName": "HoodAdultI.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Operative",
+        "type": "Outrider Mask Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -71097,6 +71659,14 @@
     "type": "Skin",
     "imageName": "SleevesAdultI.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Operative",
+        "type": "Outrider Pauldrons Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -71424,6 +71994,14 @@
     "type": "Ship Decoration",
     "imageName": "BallasSwordSheath.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Cephalon Simaris, Complete Chimera Prologue",
+        "type": "Paracesis Sheath",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -71953,6 +72531,14 @@
     "type": "Emotes",
     "imageName": "PerrinSequenceSurvivabilityEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Perrin Endurance Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -71975,6 +72561,14 @@
     "type": "Emotes",
     "imageName": "PerrinSequencePilotingEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Perrin Piloting Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -71987,6 +72581,14 @@
     "type": "Ship Decoration",
     "imageName": "SyndicatePSWallpaper.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "The Perrin Sequence Stencil",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -75386,6 +75988,14 @@
     "type": "Skin",
     "imageName": "InfestedKDriveSwamp.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Entrati (Son), Neutral",
+        "type": "Purple Velocipod K-Drive Skin",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -75825,6 +76435,14 @@
     "type": "Ship Decoration",
     "imageName": "OrnamentPerrinSequence.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Perrin Sequence, Senior Executive",
+        "type": "Quittance Sculpture",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -75936,6 +76554,14 @@
     "type": "Skin",
     "imageName": "Rakta.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Asita Rakta Syandana",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -76306,6 +76932,14 @@
     "type": "Ship Decoration",
     "imageName": "LisetPropCetusStallSignB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Kin",
+        "type": "Red Cetus Sign",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -76318,6 +76952,14 @@
     "type": "Ship Decoration",
     "imageName": "LisetPropCetusPigmentBasketSmall.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Surah",
+        "type": "Red Spices",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -76351,6 +76993,14 @@
     "type": "Emotes",
     "imageName": "RedVeilEngineeringEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Red Veil Engineering Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -76373,6 +77023,14 @@
     "type": "Emotes",
     "imageName": "RedVeilPilotingEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Red Veil Piloting Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -76385,6 +77043,14 @@
     "type": "Ship Decoration",
     "imageName": "SyndicateRVWallpaper.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Red Veil Stencil",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -80039,6 +80705,14 @@
     "type": "Skin",
     "imageName": "Sancti.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "New Loka, Flawless",
+        "type": "Sancti Syandana",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -81735,6 +82409,14 @@
     "type": "Skin",
     "imageName": "Secura.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Perrin Sequence, Partner",
+        "type": "Secura Syandana",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -81758,6 +82440,14 @@
     "type": "Ship Decoration",
     "imageName": "OrnamentNewLoka.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "New Loka, Pure",
+        "type": "Seed Sculpture",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -82741,6 +83431,14 @@
     "type": "Skin",
     "imageName": "ArchonShardEphemeraB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Kahl's Garrison (Chipper), Home",
+        "type": "Shard Bane Ephemera",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -82752,6 +83450,14 @@
     "type": "Skin",
     "imageName": "ArchonShardEphemera.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Kahl's Garrison (Chipper), Home",
+        "type": "Shard Hex Ephemera",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -84373,6 +85079,14 @@
     "type": "Skin",
     "imageName": "SkirtAdultK.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Neutral",
+        "type": "Smelter Apparel Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -84461,6 +85175,14 @@
     "type": "Skin",
     "imageName": "BodySuitAdultK.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Neutral",
+        "type": "Smelter Cuirass Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -84511,6 +85233,14 @@
     "type": "Skin",
     "imageName": "LeggingsAdultK.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Neutral",
+        "type": "Smelter Greaves Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -84561,6 +85291,14 @@
     "type": "Skin",
     "imageName": "HoodAdultK.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Neutral",
+        "type": "Smelter Mask Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -84611,6 +85349,14 @@
     "type": "Skin",
     "imageName": "SleevesAdultK.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Neutral",
+        "type": "Smelter Pauldrons Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -84894,6 +85640,20 @@
     "type": "Color Palette",
     "imageName": "ColorPickerSmoke.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Smoke Shadow (Ash)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Smoke Shadow (Ash)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -86946,6 +87706,14 @@
     "type": "Emotes",
     "imageName": "SteelMeridianCombatEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Steel Meridian, General",
+        "type": "Steel Meridian Combat Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -86957,6 +87725,14 @@
     "type": "Emotes",
     "imageName": "SteelMeridianSurvivabilityEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Steel Meridian, General",
+        "type": "Steel Meridian Endurance Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -86968,6 +87744,14 @@
     "type": "Emotes",
     "imageName": "SteelMeridianGunneryEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Steel Meridian, General",
+        "type": "Steel Meridian Gunnery Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -86979,6 +87763,14 @@
     "type": "Emotes",
     "imageName": "SteelMeridianPilotingEmote.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Steel Meridian, General",
+        "type": "Steel Meridian Piloting Emote",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -86991,6 +87783,14 @@
     "type": "Ship Decoration",
     "imageName": "SyndicateSMWallpaper.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Steel Meridian, General",
+        "type": "Steel Meridian Stencil",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -88791,6 +89591,14 @@
     "type": "Skin",
     "imageName": "Synoid.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Cephalon Suda, Genius",
+        "type": "Synoid Syandana",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -89133,6 +89941,14 @@
     "type": "Skin",
     "imageName": "RoughMetal.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Tarnished Morphics",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -89612,6 +90428,14 @@
     "type": "Skin",
     "imageName": "Telos.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Arbiters of Hexis, Maxim",
+        "type": "Telos Syandana",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -91970,6 +92794,14 @@
     "type": "Ship Decoration",
     "imageName": "VenusTreeContainer.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Solaris United (Smokefinger), Cove",
+        "type": "Tepa Decoration",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -93102,6 +93934,14 @@
     "type": "Ship Decoration",
     "imageName": "CoolantContainer.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Solaris United (Smokefinger), Cove",
+        "type": "Thermal Sludge Cannister Decoration",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -95309,6 +96149,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Ostron (Fisher Hai-Luk), Offworlder",
+        "type": "Twilight Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Mimic",
         "type": "Astral Twilight",
         "chance": 2.14,
@@ -97000,6 +97846,14 @@
     "type": "Skin",
     "imageName": "SkirtAdultF.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Quills, Mote",
+        "type": "Vahd Apparel Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -97088,6 +97942,14 @@
     "type": "Skin",
     "imageName": "BodySuitAdultF.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Quills, Mote",
+        "type": "Vahd Cuirass Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -97138,6 +98000,14 @@
     "type": "Skin",
     "imageName": "LeggingsAdultF.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Quills, Adherent",
+        "type": "Vahd Greaves Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -97188,6 +98058,14 @@
     "type": "Skin",
     "imageName": "HoodAdultF.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Quills, Instrument",
+        "type": "Vahd Mask Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -97238,6 +98116,14 @@
     "type": "Skin",
     "imageName": "SleevesAdultF.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Quills, Observer",
+        "type": "Vahd Pauldrons Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -99430,6 +100316,14 @@
     "type": "Skin",
     "imageName": "Vaykor.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Steel Meridian, General",
+        "type": "Vaykor Syandana",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -99458,6 +100352,12 @@
         "type": "Vazarin Lens",
         "chance": 10.29,
         "rarity": "Uncommon"
+      },
+      {
+        "location": "Cephalon Simaris",
+        "type": "Vazarin Transmute Core",
+        "chance": 100,
+        "rarity": "Common"
       },
       {
         "location": "Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation B",
@@ -100227,6 +101127,14 @@
     "type": "Skin",
     "imageName": "BodySuitAdultL.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Operative",
+        "type": "Vent Rat Cuirass Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -100277,6 +101185,14 @@
     "type": "Skin",
     "imageName": "LeggingsAdultL.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Operative",
+        "type": "Vent Rat Greaves Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -100327,6 +101243,14 @@
     "type": "Skin",
     "imageName": "HoodAdultL.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Operative",
+        "type": "Vent Rat Mask Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -100377,6 +101301,14 @@
     "type": "Skin",
     "imageName": "SleevesAdultL.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Vox Solaris, Operative",
+        "type": "Vent Rat Pauldrons Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -100434,6 +101366,14 @@
     "type": "Skin",
     "imageName": "GardenerMask.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Angel",
+        "type": "Verd-Ie Sentinel Mask",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -100445,6 +101385,14 @@
     "type": "Skin",
     "imageName": "DethcubeGardenerSkin.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Angel",
+        "type": "Verd-Ie Sentinel Skin",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -100456,6 +101404,14 @@
     "type": "Skin",
     "imageName": "GardenerTail.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Angel",
+        "type": "Verd-Ie Sentinel Tail",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -100467,6 +101423,14 @@
     "type": "Skin",
     "imageName": "GardenerWings.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Angel",
+        "type": "Verd-Ie Sentinel Wings",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -100479,6 +101443,14 @@
     "type": "Skin",
     "imageName": "GardenerWings.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Angel",
+        "type": "Verd-Ie Sentinel Wings",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -100491,6 +101463,14 @@
     "type": "Skin",
     "imageName": "GardenerWings.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Angel",
+        "type": "Verd-Ie Sentinel Wings",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -100503,6 +101483,14 @@
     "type": "Skin",
     "imageName": "GardenerWings.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Angel",
+        "type": "Verd-Ie Sentinel Wings",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -104557,6 +105545,14 @@
     "type": "Skin",
     "imageName": "Ivory.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "White Sun Veneer",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -104579,6 +105575,14 @@
     "type": "Skin",
     "imageName": "InfestedKDriveHighlands.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Entrati (Son), Neutral",
+        "type": "White Velocipod K-Drive Skin",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -104602,6 +105606,14 @@
     "type": "Ship Decoration",
     "imageName": "LisetPropCetusVegBasketA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Ostron (Old Man Suumbaat), Surah",
+        "type": "Wide Fruit Basket",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -105624,6 +106636,14 @@
     "type": "Arcade Minigame Unlock",
     "imageName": "LisetArcadeGameWyrmiusTheme.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "Cephalon Simaris",
+        "type": "Wyrmius",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106570,6 +107590,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPortraitFrameAlbrecht.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Angel",
+        "type": "Zariman Albrecht Entrati Painting",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106581,6 +107609,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPortraitFrame.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Angel",
+        "type": "Zariman Ballas Portrait",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106592,6 +107628,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpLabSetB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Beaker Set",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106603,6 +107647,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureBenchA90A.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Bench (Curved Inward, 90 Degrees)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106614,6 +107666,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureBenchB60A.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Bench (Curved Inward, Long, 60 Degrees)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106625,6 +107685,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureBenchB90A.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Bench (Curved Inward, Long, 90 Degrees)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106636,6 +107704,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureBenchB20A.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Bench (Curved Inward, Long)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106647,6 +107723,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureBenchA60A.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Bench (Curved Inward)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106658,6 +107742,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureBenchA90B.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Bench (Curved Outward, 90 Degrees)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106669,6 +107761,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureBenchB60B.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Bench (Curved Outward, Long, 60 Degrees)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106680,6 +107780,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureBenchB90B.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Bench (Curved Outward, Long, 90 Degrees)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106691,6 +107799,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureBenchA60B.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Bench (Curved Outward)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106702,6 +107818,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureBenchASingle.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Bench (Single)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106713,6 +107837,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureBenchB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Bench (Straight, Long)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106724,6 +107856,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpDrinkDispenser.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Beverage Dispenser",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106735,6 +107875,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpClassRoomPostersAb.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman Biology Class Crafts",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106746,6 +107894,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpLabSetC.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Boiling Flask",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106757,6 +107913,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFoodDrinkC.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Bottle",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106780,6 +107944,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureGroundLockerLongB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Cabinet (Low, Long)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106791,6 +107963,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureGroundLockerShortB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Cabinet (Low, Short)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106802,6 +107982,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureChairA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Chair",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106813,6 +108001,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpClassRoomPostersAd.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman Classroom Helix Artwork",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106824,6 +108020,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpBarrelPlastic.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Container (Small)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106847,6 +108051,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFoodDrinkB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Cup",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106858,6 +108070,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureClassRoomDeskA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Desk",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106869,6 +108089,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateSmallB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Extractor Unit",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106880,6 +108108,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFloorSealPadA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Floor Pad",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106891,6 +108127,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxFlowerBouquetC.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Flowers",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106902,6 +108146,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxCeilingLightA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Flushmount Light",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106913,6 +108165,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFoodCanB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Food Can",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106924,6 +108184,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFoodCanA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Food Container",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106935,6 +108203,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFoodPouchA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Food Pouch",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106946,6 +108222,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenMiscTrayA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Food Tray",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106957,6 +108241,26 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateStackingMediumA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Foot Locker",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Foot Locker (Open)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Foot Locker Lid",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106968,6 +108272,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateStackingMediumAOpen.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Foot Locker (Open)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106979,6 +108291,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateStackingMediumAOpenTop.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Foot Locker Lid",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -106990,6 +108310,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenPanA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Fry Pan",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107001,6 +108329,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateTankMediumA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Fuel Cylinder",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107012,6 +108348,20 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateMediumD.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Gas Cylinder Storage",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Gas Cylinder Storage (Empty)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107023,6 +108373,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateMediumDEmpty.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Gas Cylinder Storage (Empty)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107034,6 +108392,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpEngineGeneratorALight.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Generator Light",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107045,6 +108411,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFloatingGlobeBase.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Globe Base",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107056,6 +108430,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxGlobeLightOrbJustOrb.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Globe Light",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107067,6 +108449,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpPlanterClipOnSmlAFoliageB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Green Plant",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107078,6 +108468,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpHallwayCenterDivideA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Hallway Divider",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107101,6 +108499,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpClassRoomPostersAc.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman Horse Poster",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107112,6 +108518,20 @@
     "type": "Ship Decoration",
     "imageName": "ZARxHydroPlantStationA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Hydro Planter",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Hydro Planter Door Panel",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107123,6 +108543,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxHydroponicsDoor.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Hydro Planter Door Panel",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107134,6 +108562,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpClassRoomPostersAf.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman Illustration",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107145,6 +108581,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenBoiler.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Kitchen Boiler",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107156,6 +108600,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFoodKnifeA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Kitchen Knife",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107179,6 +108631,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureGroundLockerLongA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Locker (Low, Long)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107201,6 +108661,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxLunaroCourtBannerMediumA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Lunaro Hanging Banner (Long)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107212,6 +108680,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxLunaroCourtBannerLargeA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Lunaro Hanging Banner (Short)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107223,6 +108699,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFoodTrayA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Lunch Tray",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107246,6 +108730,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCubeStationary.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Monitoring Cube",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107269,6 +108761,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenFoodRationA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Nutrition Brick (Protein)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107280,6 +108780,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenFoodRationB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Nutrition Cube (Carbohydrate)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107291,6 +108799,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenFoodRationD.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Nutrition Cube (Fat)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107302,6 +108818,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenFoodRationC.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Nutrition Cube (Fiber)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107313,6 +108837,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenFoodRationE.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Nutrition Cube (Vitamins)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107324,6 +108856,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenMiscApplianceC.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Nutrition Cube Blender",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107335,6 +108875,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenMiscApplianceD.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Nutrition Cube Hydrator",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107346,6 +108894,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenMiscApplianceF.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Nutrition Cube Maker",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107357,6 +108913,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenMixer.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Nutrition Cube Processor",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107368,6 +108932,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenMiscApplianceB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Nutrition Cube Steamer",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107379,6 +108951,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenMiscApplianceA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Nutrition Cube Warmer",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107390,6 +108970,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpClassRoomPostersAe.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman Origin System Poster",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107413,6 +109001,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxParkSignMapA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Park Sign",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107436,6 +109032,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpHangingPlanetsB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Planets Mobile (Jupiter)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107447,6 +109051,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpHangingPlanets.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Planets Mobile (Saturn)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107458,6 +109070,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpPlanterClipOnLargeA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Planter (Hanging)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107469,6 +109089,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpPlanterMedC.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Planter (High-Rise, Small)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107480,6 +109108,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpPlanterTroughStraight.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Planter (Straight)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107491,6 +109127,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpPlanterWallMountedA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Planter (Wall Mounted)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107502,6 +109146,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpStatuePlinthA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Plinth",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107513,6 +109165,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpEngineGeneratorA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Portable Generator",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107535,6 +109195,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFloatingGlobe.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Pre-Orokin Lua Globe",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107546,6 +109214,20 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpBannerFloorA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Rug",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Rug (Wrinkled)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107557,6 +109239,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpBannerFloorB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Rug (Wrinkled)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107568,6 +109258,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenSaladSpinner.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Salad Spinner",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107579,6 +109277,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpClassRoomPostersAi.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman School Art Display",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107602,6 +109308,20 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpClassRoomPostersAa.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman School Crafts",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman School Crafts Collage",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107613,6 +109333,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpClassRoomPostersAg.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman School Crafts Collage",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107636,6 +109364,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpShoes.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Angel",
+        "type": "Zariman Shoes",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107647,6 +109383,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxCineCabinTableA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Side Table",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107682,6 +109426,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFoodSpoonA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Spoon",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107693,6 +109445,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateStackingMediumC.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Stacking Locker (Large)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107704,6 +109464,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateStackingMediumB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Stacking Locker (Small)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107715,6 +109483,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxGlobeLightOrb.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Stationary Globe Light",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107726,6 +109502,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxStatueMaleHeroicB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman Statue (Athlete)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107737,6 +109521,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxStatueChildHeroicA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman Statue (Child)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107748,6 +109540,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxStatueMaleHeroicA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman Statue (Colonist Man)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107759,6 +109559,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxStatueFemaleHeroicA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman Statue (Colonist Woman)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107770,6 +109578,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxStatueMaleHeroicDrummerA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman Statue (Drummer)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107781,6 +109597,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxStatueOrokinB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman Statue (Executor Tuvul)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107792,6 +109616,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxStatueChildHeroicB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman Statue (Lunaro Child)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107803,6 +109635,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxStatueMaleHeroicKneelA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman Statue (Meditating)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107814,6 +109654,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxStatuePlatformA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman Statue Plinth",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107825,6 +109673,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenSterilizer.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Sterilizer",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107848,6 +109704,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateMediumCOpen.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Box (Slim, Open)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107859,6 +109723,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateMediumC.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Box (Slim)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107870,6 +109742,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateMediumCOpenTop.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Box Lid (Slim)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107881,6 +109761,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateMediumBOpen.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Container (Tall, Open)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107892,6 +109780,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateMediumB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Container (Tall)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107903,6 +109799,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateMediumBOpenTop.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Container Lid",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107914,6 +109818,44 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateMediumA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Crate (Large)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Crate (Large, Open)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Crate Lid (Large)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Crate",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Crate (Open)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Crate Lid",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107925,6 +109867,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateLargeAOpen.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Crate (Large, Open)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107936,6 +109886,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateLargeA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Crate (Large)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107947,6 +109905,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateMediumAOpen.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Crate (Open)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107958,6 +109924,20 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateMediumAOpenTop.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Crate Lid (Large)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Crate Lid",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107969,6 +109949,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateLargeAOpenTop.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Storage Crate Lid (Large)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -107993,6 +109981,14 @@
     "type": "Ship Decoration",
     "imageName": "CabinTable.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Table (Large)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108004,6 +110000,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureTableA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Table (Large)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108027,6 +110031,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpKitchenMiscApplianceE.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Tea Steeper",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108038,6 +110050,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpLabSetA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Test Tube Station",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108049,6 +110069,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpToolBoxStandingNew.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Tool Case",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108060,6 +110088,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxTrophyC.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Angel",
+        "type": "Zariman Trophy (Lunaro Ball)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108071,6 +110107,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxTrophyB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Angel",
+        "type": "Zariman Trophy (Lunaro Goal)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108082,6 +110126,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxTrophyA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Angel",
+        "type": "Zariman Trophy (Lunaro)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108093,6 +110145,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxGlowStickLightA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Tube Light",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108104,6 +110164,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFoodDrinkA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Tumbler Cup",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108115,6 +110183,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureWallLockerSmallB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Wall Cabinet (Short)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108126,6 +110202,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureWallLockerTallB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Wall Cabinet (Tall)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108137,6 +110221,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureWallLockerLongA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Wall Locker (Long)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108148,6 +110240,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureWallLockerSmallA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Wall Locker (Short)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108159,6 +110259,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpFurnitureWallLockerTallA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Wall Locker (Tall)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108170,6 +110278,32 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpHallwayCenterDivideAPannelA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Wall Panel (Double)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Wall Panel (Quintuple)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Wall Panel (Large, Single)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Wall Panel",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108181,6 +110315,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpWoodPanelWallSingleA16mA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Wall Panel (Double)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108192,6 +110334,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpWoodPanelWallSingleEndCapB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Wall Panel (Large, Single)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108203,6 +110353,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpWoodPanelWallSingleEndCapA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Guardian",
+        "type": "Zariman Wall Panel (Quintuple)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108214,6 +110372,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpPlanterClipOnSmlA.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Fallen",
+        "type": "Zariman Wall Planter",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108237,6 +110403,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpGarbageBinB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Watcher",
+        "type": "Zariman Waste Extractors (3)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108248,6 +110422,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPrpCrateTankMediumB.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Neutral",
+        "type": "Zariman Waste Receptacle (Standing)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
@@ -108259,6 +110441,14 @@
     "type": "Ship Decoration",
     "imageName": "ZARxPortraitFrameFemale.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Angel",
+        "type": "Zariman Yonta Portrait",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },

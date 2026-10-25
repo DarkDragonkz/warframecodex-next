@@ -4062,6 +4062,20 @@
     ],
     "type": "Warframe",
     "category": "Warframes",
+    "drops": [
+      {
+        "location": "Entrati (Son), Associate",
+        "type": "Helminth Segment Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Entrati (Son), Family",
+        "type": "Helminth Invigoration Segment Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "isPrime": false,
     "masterable": false

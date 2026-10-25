@@ -4760,6 +4760,20 @@
     "type": "Pets",
     "imageName": "KavatBreedVasca.png",
     "category": "Pets",
+    "drops": [
+      {
+        "location": "Ostron (Master Teasonai), Trusted",
+        "type": "Vasca Kavat Echo-Lure",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Master Teasonai), Trusted",
+        "type": "Vasca Kavat Pheromone Oota",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "wikiAvailable": true,
     "introduced": {
@@ -4799,6 +4813,20 @@
     "type": "Warframe",
     "imageName": "KavatBreedKhora.png",
     "category": "Pets",
+    "drops": [
+      {
+        "location": "Red Veil, Exalted",
+        "type": "Venari Bodyguard (Khora)",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Steel Meridian, General",
+        "type": "Venari Bodyguard (Khora)",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "wikiAvailable": true,
     "introduced": {

@@ -7,6 +7,14 @@
     "type": "Fish",
     "imageName": "InfestedCommonD.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Stranger",
+        "type": "Amniophysi Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -18,6 +26,14 @@
     "type": "Fish",
     "imageName": "InfestedCommonD.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Stranger",
+        "type": "Amniophysi Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -32,6 +48,14 @@
     "type": "Fish",
     "imageName": "InfestedCommonD.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Stranger",
+        "type": "Amniophysi Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -43,6 +67,14 @@
     "type": "Fish",
     "imageName": "HybridRareA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Friend",
+        "type": "Aquapulmo Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -54,6 +86,14 @@
     "type": "Fish",
     "imageName": "HybridRareA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Friend",
+        "type": "Aquapulmo Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -68,6 +108,14 @@
     "type": "Fish",
     "imageName": "HybridRareA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Friend",
+        "type": "Aquapulmo Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -79,6 +127,14 @@
     "type": "Fish",
     "imageName": "InfestedCommonB.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Stranger",
+        "type": "Barbisteo Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -90,6 +146,14 @@
     "type": "Fish",
     "imageName": "InfestedCommonB.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Stranger",
+        "type": "Barbisteo Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -104,6 +168,14 @@
     "type": "Fish",
     "imageName": "InfestedCommonB.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Stranger",
+        "type": "Barbisteo Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -127,6 +199,24 @@
         "type": "Boot",
         "chance": 1.01,
         "rarity": "Rare"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Surah",
+        "type": "Boot Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Old Man Suumbaat), Kin",
+        "type": "Fishing Boot",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Boot Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
       },
       {
         "location": "Axi A12 Relic (Radiant)",
@@ -311,6 +401,14 @@
     "type": "Fish",
     "imageName": "CorpusClearUncommonFishA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Brickie Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -322,6 +420,14 @@
     "type": "Fish",
     "imageName": "CorpusClearUncommonFishALarge.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Brickie Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -336,6 +442,14 @@
     "type": "Fish",
     "imageName": "CorpusClearUncommonFishAMedium.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Brickie Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -348,6 +462,18 @@
     "imageName": "OrokinBothRareFishA.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Charamote Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Charamote Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Exploiter Orb",
         "type": "Charamote Sagan Module",
@@ -367,6 +493,18 @@
     "imageName": "OrokinBothRareFishALarge.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Charamote Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Charamote Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Exploiter Orb",
         "type": "Charamote Sagan Module",
@@ -390,6 +528,18 @@
     "category": "Fish",
     "drops": [
       {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Charamote Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Charamote Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Exploiter Orb",
         "type": "Charamote Sagan Module",
         "chance": 50.01,
@@ -407,6 +557,14 @@
     "type": "Fish",
     "imageName": "FishItemBothCommonA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Offworlder",
+        "type": "Charc Eel Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -418,6 +576,14 @@
     "type": "Fish",
     "imageName": "FishItemBothCommonA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Offworlder",
+        "type": "Charc Eel Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -432,6 +598,14 @@
     "type": "Fish",
     "imageName": "FishItemBothCommonA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Offworlder",
+        "type": "Charc Eel Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -443,6 +617,14 @@
     "type": "Fish",
     "imageName": "OrokinUncommonA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Associate",
+        "type": "Chondricord Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -454,6 +636,14 @@
     "type": "Fish",
     "imageName": "OrokinUncommonA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Associate",
+        "type": "Chondricord Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -468,6 +658,14 @@
     "type": "Fish",
     "imageName": "OrokinUncommonA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Associate",
+        "type": "Chondricord Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -506,6 +704,14 @@
     "type": "Fish",
     "imageName": "InfestedCommonA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Stranger",
+        "type": "Cryptosuctus Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -517,6 +723,14 @@
     "type": "Fish",
     "imageName": "InfestedCommonA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Stranger",
+        "type": "Cryptosuctus Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -531,6 +745,14 @@
     "type": "Fish",
     "imageName": "InfestedCommonA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Stranger",
+        "type": "Cryptosuctus Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -546,6 +768,18 @@
       {
         "location": "Operational Supply, Neutral",
         "type": "Cuthol Tendrils",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Surah",
+        "type": "Cuthol Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Surah",
+        "type": "Cuthol Trophy Blueprint",
         "chance": 100,
         "rarity": "Common"
       },
@@ -601,6 +835,18 @@
       {
         "location": "Operational Supply, Neutral",
         "type": "Cuthol Tendrils",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Surah",
+        "type": "Cuthol Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Surah",
+        "type": "Cuthol Trophy Blueprint",
         "chance": 100,
         "rarity": "Common"
       },
@@ -663,6 +909,18 @@
         "rarity": "Common"
       },
       {
+        "location": "Ostron (Fisher Hai-Luk), Surah",
+        "type": "Cuthol Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Surah",
+        "type": "Cuthol Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Narmer Thumper",
         "type": "Cuthol Tendrils",
         "chance": 16.68,
@@ -710,6 +968,14 @@
     "type": "Fish",
     "imageName": "OrokinRareA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Associate",
+        "type": "Duroid Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -721,6 +987,14 @@
     "type": "Fish",
     "imageName": "OrokinRareA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Associate",
+        "type": "Duroid Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -735,6 +1009,14 @@
     "type": "Fish",
     "imageName": "OrokinRareA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Associate",
+        "type": "Duroid Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -746,6 +1028,14 @@
     "type": "Fish",
     "imageName": "CorpusWarmCommonFishA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Echowinder Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -757,6 +1047,14 @@
     "type": "Fish",
     "imageName": "CorpusWarmCommonFishALarge.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Echowinder Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -771,6 +1069,14 @@
     "type": "Fish",
     "imageName": "CorpusWarmCommonFishAMedium.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Echowinder Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -782,6 +1088,14 @@
     "type": "Fish",
     "imageName": "CorpusClearCommonFishA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Eye-Eye Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -793,6 +1107,14 @@
     "type": "Fish",
     "imageName": "CorpusCoolUncommonFishALarge.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Eye-Eye Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -807,6 +1129,14 @@
     "type": "Fish",
     "imageName": "CorpusClearCommonFishAMedium.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Eye-Eye Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -818,6 +1148,14 @@
     "type": "Fish",
     "imageName": "InfestedRareA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Friend",
+        "type": "Flagellocanth Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -829,6 +1167,14 @@
     "type": "Fish",
     "imageName": "InfestedRareA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Friend",
+        "type": "Flagellocanth Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -843,6 +1189,14 @@
     "type": "Fish",
     "imageName": "InfestedRareA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Friend",
+        "type": "Flagellocanth Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -854,6 +1208,20 @@
     "type": "Fish",
     "imageName": "FishItemNightLegendaryFishA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Kin",
+        "type": "Glappid Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Kin",
+        "type": "Glappid Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -865,6 +1233,20 @@
     "type": "Fish",
     "imageName": "FishItemNightLegendaryFishA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Kin",
+        "type": "Glappid Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Kin",
+        "type": "Glappid Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -879,6 +1261,20 @@
     "type": "Fish",
     "imageName": "FishItemNightLegendaryFishA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Kin",
+        "type": "Glappid Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Kin",
+        "type": "Glappid Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -890,6 +1286,14 @@
     "type": "Fish",
     "imageName": "InfestedUncommonA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Acquaintance",
+        "type": "Glutinox Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -901,6 +1305,14 @@
     "type": "Fish",
     "imageName": "InfestedUncommonA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Acquaintance",
+        "type": "Glutinox Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -915,6 +1327,14 @@
     "type": "Fish",
     "imageName": "InfestedUncommonA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Acquaintance",
+        "type": "Glutinox Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -927,6 +1347,18 @@
     "imageName": "FishItemBothCommonB.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Kin",
+        "type": "Goopolla Glyph",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Offworlder",
+        "type": "Goopolla Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Narmer Thumper",
         "type": "Goopolla Spleen",
@@ -976,6 +1408,18 @@
     "imageName": "FishItemBothCommonB.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Kin",
+        "type": "Goopolla Glyph",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Offworlder",
+        "type": "Goopolla Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Narmer Thumper",
         "type": "Goopolla Spleen",
@@ -1028,6 +1472,18 @@
     "imageName": "FishItemBothCommonB.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Kin",
+        "type": "Goopolla Glyph",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Offworlder",
+        "type": "Goopolla Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Narmer Thumper",
         "type": "Goopolla Spleen",
@@ -1102,6 +1558,12 @@
     "category": "Fish",
     "drops": [
       {
+        "location": "Ostron (Fisher Hai-Luk), Trusted",
+        "type": "Karkina Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Narmer Thumper",
         "type": "Karkina Antenna",
         "chance": 16.68,
@@ -1150,6 +1612,12 @@
     "imageName": "FishItemBothUncommonB.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Trusted",
+        "type": "Karkina Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Narmer Thumper",
         "type": "Karkina Antenna",
@@ -1203,6 +1671,12 @@
     "category": "Fish",
     "drops": [
       {
+        "location": "Ostron (Fisher Hai-Luk), Trusted",
+        "type": "Karkina Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Narmer Thumper",
         "type": "Karkina Antenna",
         "chance": 16.68,
@@ -1252,6 +1726,12 @@
     "category": "Fish",
     "drops": [
       {
+        "location": "Ostron (Fisher Hai-Luk), Offworlder",
+        "type": "Khut-Khut Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Narmer Thumper",
         "type": "Khut-Khut Venom Sac",
         "chance": 16.68,
@@ -1300,6 +1780,12 @@
     "imageName": "FishItemDayCommonB.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Offworlder",
+        "type": "Khut-Khut Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Narmer Thumper",
         "type": "Khut-Khut Venom Sac",
@@ -1353,6 +1839,12 @@
     "category": "Fish",
     "drops": [
       {
+        "location": "Ostron (Fisher Hai-Luk), Offworlder",
+        "type": "Khut-Khut Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Narmer Thumper",
         "type": "Khut-Khut Venom Sac",
         "chance": 16.68,
@@ -1400,6 +1892,20 @@
     "type": "Fish",
     "imageName": "CorpusStormUncommonFishA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Kriller Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Kriller Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -1411,6 +1917,20 @@
     "type": "Fish",
     "imageName": "CorpusStormUncommonFishALarge.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Kriller Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Kriller Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -1425,6 +1945,20 @@
     "type": "Fish",
     "imageName": "CorpusStormUncommonFishAMedium.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Kriller Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Kriller Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -1436,6 +1970,14 @@
     "type": "Fish",
     "imageName": "InfestedCommonC.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Stranger",
+        "type": "Kymaeros Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -1447,6 +1989,14 @@
     "type": "Fish",
     "imageName": "InfestedCommonC.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Stranger",
+        "type": "Kymaeros Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -1461,6 +2011,14 @@
     "type": "Fish",
     "imageName": "InfestedCommonC.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Stranger",
+        "type": "Kymaeros Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -1472,6 +2030,14 @@
     "type": "Fish",
     "imageName": "InfestedCommonE.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Stranger",
+        "type": "Lobotriscid Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -1483,6 +2049,14 @@
     "type": "Fish",
     "imageName": "InfestedCommonE.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Stranger",
+        "type": "Lobotriscid Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -1497,6 +2071,14 @@
     "type": "Fish",
     "imageName": "InfestedCommonE.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Stranger",
+        "type": "Lobotriscid Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -1509,6 +2091,18 @@
     "imageName": "SolarisWarmRareFishA.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Longwinder Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Longwinder Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Exploiter Orb",
         "type": "Longwinder Lathe Coagulant",
@@ -1528,6 +2122,18 @@
     "imageName": "SolarisWarmRareFishALarge.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Longwinder Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Longwinder Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Exploiter Orb",
         "type": "Longwinder Lathe Coagulant",
@@ -1551,6 +2157,18 @@
     "category": "Fish",
     "drops": [
       {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Longwinder Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Longwinder Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Exploiter Orb",
         "type": "Longwinder Lathe Coagulant",
         "chance": 50.01,
@@ -1569,6 +2187,12 @@
     "imageName": "FishItemDayCommonA.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Offworlder",
+        "type": "Mawfish Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Narmer Thumper",
         "type": "Mawfish Bones",
@@ -1618,6 +2242,12 @@
     "imageName": "FishItemDayCommonA.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Offworlder",
+        "type": "Mawfish Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Narmer Thumper",
         "type": "Mawfish Bones",
@@ -1671,6 +2301,12 @@
     "category": "Fish",
     "drops": [
       {
+        "location": "Ostron (Fisher Hai-Luk), Offworlder",
+        "type": "Mawfish Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Narmer Thumper",
         "type": "Mawfish Bones",
         "chance": 16.68,
@@ -1718,6 +2354,20 @@
     "type": "Fish",
     "imageName": "CorpusBothUncommonFishA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Mirewinder Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Mirewinder Bait",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -1729,6 +2379,20 @@
     "type": "Fish",
     "imageName": "CorpusBothUncommonFishALarge.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Mirewinder Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Mirewinder Bait",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -1743,6 +2407,20 @@
     "type": "Fish",
     "imageName": "CorpusBothUncommonFishAMedium.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Mirewinder Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Mirewinder Bait",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -1754,6 +2432,14 @@
     "type": "Fish",
     "imageName": "FishItemDayUncommonB.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Visitor",
+        "type": "Mortus Lungfish Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -1765,6 +2451,14 @@
     "type": "Fish",
     "imageName": "FishItemDayUncommonB.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Visitor",
+        "type": "Mortus Lungfish Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -1779,6 +2473,14 @@
     "type": "Fish",
     "imageName": "FishItemDayUncommonB.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Visitor",
+        "type": "Mortus Lungfish Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -1794,6 +2496,18 @@
       {
         "location": "Operational Supply, Neutral",
         "type": "Murkray Liver",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Surah",
+        "type": "Murkray Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Visitor",
+        "type": "Murkray Bait",
         "chance": 100,
         "rarity": "Common"
       },
@@ -1849,6 +2563,18 @@
       {
         "location": "Operational Supply, Neutral",
         "type": "Murkray Liver",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Surah",
+        "type": "Murkray Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Visitor",
+        "type": "Murkray Bait",
         "chance": 100,
         "rarity": "Common"
       },
@@ -1911,6 +2637,18 @@
         "rarity": "Common"
       },
       {
+        "location": "Ostron (Fisher Hai-Luk), Surah",
+        "type": "Murkray Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Visitor",
+        "type": "Murkray Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Narmer Thumper",
         "type": "Murkray Liver",
         "chance": 16.68,
@@ -1958,6 +2696,14 @@
     "type": "Fish",
     "imageName": "OrokinLegendaryA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Family",
+        "type": "Myxostomata Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -1969,6 +2715,14 @@
     "type": "Fish",
     "imageName": "OrokinLegendaryA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Family",
+        "type": "Myxostomata Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -1983,6 +2737,14 @@
     "type": "Fish",
     "imageName": "OrokinLegendaryA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Family",
+        "type": "Myxostomata Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -2022,6 +2784,18 @@
       {
         "location": "Operational Supply, Neutral",
         "type": "Norg Brain",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Surah",
+        "type": "Norg Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Trusted",
+        "type": "Norg Bait",
         "chance": 100,
         "rarity": "Common"
       },
@@ -2089,6 +2863,18 @@
       {
         "location": "Operational Supply, Neutral",
         "type": "Norg Brain",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Surah",
+        "type": "Norg Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Trusted",
+        "type": "Norg Bait",
         "chance": 100,
         "rarity": "Common"
       },
@@ -2163,6 +2949,18 @@
         "rarity": "Common"
       },
       {
+        "location": "Ostron (Fisher Hai-Luk), Surah",
+        "type": "Norg Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ostron (Fisher Hai-Luk), Trusted",
+        "type": "Norg Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Narmer Thumper",
         "type": "Norg Brain",
         "chance": 16.68,
@@ -2210,6 +3008,14 @@
     "type": "Fish",
     "imageName": "HybridUncommonA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Acquaintance",
+        "type": "Ostimyr Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -2221,6 +3027,14 @@
     "type": "Fish",
     "imageName": "HybridUncommonA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Acquaintance",
+        "type": "Ostimyr Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -2235,6 +3049,14 @@
     "type": "Fish",
     "imageName": "HybridUncommonA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Acquaintance",
+        "type": "Ostimyr Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -2246,6 +3068,14 @@
     "type": "Fish",
     "imageName": "SolarisClearRareFishA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Recaster Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -2257,6 +3087,14 @@
     "type": "Fish",
     "imageName": "SolarisClearRareFishALarge.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Recaster Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -2271,6 +3109,14 @@
     "type": "Fish",
     "imageName": "SolarisClearRareFishAMedium.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Rapscallion",
+        "type": "Recaster Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -2282,6 +3128,20 @@
     "type": "Fish",
     "imageName": "CorpusCoolCommonFishA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Old Mate",
+        "type": "Sapcaddy Glyph",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Sapcaddy Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -2293,6 +3153,20 @@
     "type": "Fish",
     "imageName": "CorpusCoolCommonFishALarge.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Old Mate",
+        "type": "Sapcaddy Glyph",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Sapcaddy Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -2307,6 +3181,20 @@
     "type": "Fish",
     "imageName": "CorpusCoolCommonFishAMedium.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Old Mate",
+        "type": "Sapcaddy Glyph",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Sapcaddy Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -2318,6 +3206,14 @@
     "type": "Fish",
     "imageName": "SolarisBothCommonFishA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Scrubber Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -2329,6 +3225,14 @@
     "type": "Fish",
     "imageName": "CorpusStormCommonFishALarge.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Scrubber Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -2343,6 +3247,14 @@
     "type": "Fish",
     "imageName": "CorpusStormCommonFishAMedium.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Scrubber Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -2367,6 +3279,12 @@
     "imageName": "FishItemBothUncommonA.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Trusted",
+        "type": "Sharrac Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Narmer Thumper",
         "type": "Sharrac Teeth",
@@ -2416,6 +3334,12 @@
     "imageName": "FishItemBothUncommonA.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Trusted",
+        "type": "Sharrac Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Narmer Thumper",
         "type": "Sharrac Teeth",
@@ -2468,6 +3392,12 @@
     "imageName": "FishItemBothUncommonA.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Trusted",
+        "type": "Sharrac Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Narmer Thumper",
         "type": "Sharrac Teeth",
@@ -2530,6 +3460,18 @@
     "category": "Fish",
     "drops": [
       {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Synathid Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Old Mate",
+        "type": "Synathid Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Exploiter Orb",
         "type": "Synathid Ecosynth Analyzer",
         "chance": 50.01,
@@ -2548,6 +3490,18 @@
     "imageName": "OrokinClearLegendaryFishALarge.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Synathid Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Old Mate",
+        "type": "Synathid Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Exploiter Orb",
         "type": "Synathid Ecosynth Analyzer",
@@ -2571,6 +3525,18 @@
     "category": "Fish",
     "drops": [
       {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Synathid Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Old Mate",
+        "type": "Synathid Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Exploiter Orb",
         "type": "Synathid Ecosynth Analyzer",
         "chance": 50.01,
@@ -2588,6 +3554,14 @@
     "type": "Fish",
     "imageName": "SolarisCoolCommonFishA.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Tink Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -2599,6 +3573,14 @@
     "type": "Fish",
     "imageName": "SolarisStormUncommonFishALarge.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Tink Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -2613,6 +3595,14 @@
     "type": "Fish",
     "imageName": "SolarisStormUncommonFishAMedium.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Solaris United (The Business), Outworlder",
+        "type": "Tink Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -2625,6 +3615,12 @@
     "imageName": "FishItemDayUncommonA.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Visitor",
+        "type": "Tralok Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Narmer Thumper",
         "type": "Tralok Eyes",
@@ -2674,6 +3670,12 @@
     "imageName": "FishItemDayUncommonA.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Visitor",
+        "type": "Tralok Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Narmer Thumper",
         "type": "Tralok Eyes",
@@ -2727,6 +3729,12 @@
     "category": "Fish",
     "drops": [
       {
+        "location": "Ostron (Fisher Hai-Luk), Visitor",
+        "type": "Tralok Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Narmer Thumper",
         "type": "Tralok Eyes",
         "chance": 16.68,
@@ -2776,6 +3784,18 @@
     "category": "Fish",
     "drops": [
       {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Tromyzon Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Tromyzon Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Exploiter Orb",
         "type": "Tromyzon Entroplasma",
         "chance": 50.01,
@@ -2794,6 +3814,18 @@
     "imageName": "OrokinCoolRareFishALarge.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Tromyzon Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Tromyzon Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Exploiter Orb",
         "type": "Tromyzon Entroplasma",
@@ -2817,6 +3849,18 @@
     "category": "Fish",
     "drops": [
       {
+        "location": "Solaris United (The Business), Cove",
+        "type": "Tromyzon Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Solaris United (The Business), Doer",
+        "type": "Tromyzon Bait",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
         "location": "Exploiter Orb",
         "type": "Tromyzon Entroplasma",
         "chance": 50.01,
@@ -2834,6 +3878,14 @@
     "type": "Fish",
     "imageName": "HybridUncommonB.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Acquaintance",
+        "type": "Vitreospina Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -2845,6 +3897,14 @@
     "type": "Fish",
     "imageName": "HybridUncommonB.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Acquaintance",
+        "type": "Vitreospina Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false,
     "parentUniqueNames": [
@@ -2859,6 +3919,14 @@
     "type": "Fish",
     "imageName": "HybridUncommonB.png",
     "category": "Fish",
+    "drops": [
+      {
+        "location": "Entrati (Daughter), Acquaintance",
+        "type": "Vitreospina Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": true,
     "masterable": false
   },
@@ -2883,6 +3951,12 @@
     "imageName": "FishItemDayCommonC.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Offworlder",
+        "type": "Yogwun Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Narmer Thumper",
         "type": "Yogwun Stomach",
@@ -2932,6 +4006,12 @@
     "imageName": "FishItemDayCommonC.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Offworlder",
+        "type": "Yogwun Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Narmer Thumper",
         "type": "Yogwun Stomach",
@@ -2984,6 +4064,12 @@
     "imageName": "FishItemDayCommonC.png",
     "category": "Fish",
     "drops": [
+      {
+        "location": "Ostron (Fisher Hai-Luk), Offworlder",
+        "type": "Yogwun Trophy Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
       {
         "location": "Narmer Thumper",
         "type": "Yogwun Stomach",
