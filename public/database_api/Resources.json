@@ -75,7 +75,8 @@
     "codexSecret": false,
     "itemCount": 20,
     "parents": [
-      "Adramal Alloy"
+      "Adramal Alloy",
+      "Xaku Kintsu Helmet"
     ],
     "type": "Gem",
     "imageName": "DeimosCommonOreA.png",
@@ -1232,6 +1233,19 @@
     "name": "Calda Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Calda Toroids from enemies located at the Enrichment Labs in the Orb Vallis and from Scyto Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
     "codexSecret": false,
+    "itemCount": 2,
+    "parents": [
+      "Haztech Apparel",
+      "Haztech Cuirass",
+      "Kubrodon Ventkid Apparel",
+      "Kubrodon Ventkid Cuirass",
+      "Outrider Cuirass",
+      "Smelter Apparel",
+      "Smelter Cuirass",
+      "Vent Pobber Ventkid Apparel",
+      "Vent Pobber Ventkid Cuirass",
+      "Vent Rat Cuirass"
+    ],
     "type": "Resource",
     "imageName": "CrpArachnoidPowerCoreHunger.png",
     "category": "Resources",
@@ -1285,6 +1299,10 @@
     "name": "Carbides",
     "description": "Resilient components used to reinforce the plated sheets of metal strapped to Grineer Ships.\n\nLocation: Eximus units in the Grineer Shipyard Tileset, and Railjack missions in Earth, Saturn, and Veil Proximas",
     "codexSecret": false,
+    "itemCount": 2000,
+    "parents": [
+      "Protea Telema Helmet"
+    ],
     "buildPrice": 1000,
     "buildTime": 120,
     "skipBuildTimePrice": 5,
@@ -1345,6 +1363,14 @@
     "name": "Cetus Wisp",
     "description": "Most common at night, these stone lifeforms are drawn to shorelines touched by the Eidolon. They linger around lakes on the Plains of Eidolon at all hours. Their origin remains mysterious.\n\nLocation: Plains of Eidolon on Earth",
     "codexSecret": false,
+    "itemCount": 5,
+    "parents": [
+      "Zauba Apparel",
+      "Zauba Cuirass",
+      "Zauba Greaves",
+      "Zauba Mask",
+      "Zauba Pauldrons"
+    ],
     "type": "Resource",
     "imageName": "CetusWisp.png",
     "category": "Resources",
@@ -1673,6 +1699,10 @@
     "name": "Condroc Wing",
     "description": "The talon on a condroc's wing is sharp enough to tear through bone.\n\nLocation: Plains of Eidolon on Earth",
     "codexSecret": false,
+    "itemCount": 5,
+    "parents": [
+      "Naberus Ephemera"
+    ],
     "type": "Resource",
     "imageName": "BirdOfPreyPartItem.png",
     "category": "Resources",
@@ -2229,6 +2259,13 @@
     "name": "Damaged Necramech Pod",
     "description": "A modular component for a Necramech. It's damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
     "codexSecret": false,
+    "itemCount": 1,
+    "parents": [
+      "Loid Sentinel Mask",
+      "Loid Sentinel Skin",
+      "Loid Sentinel Tail",
+      "Loid Sentinel Wing"
+    ],
     "type": "Resource",
     "imageName": "DamagedMechPartSystems.png",
     "category": "Resources",
@@ -3061,6 +3098,11 @@
     "name": "Entrati Lanthorn",
     "description": "A ceremonial beacon used to map Void locations on to real space.\n\nLocation: Albrecht's Laboratories (Deimos) and Zariman",
     "codexSecret": false,
+    "itemCount": 5,
+    "parents": [
+      "Raptwing Ephemera",
+      "Seraphayre Ephemera"
+    ],
     "type": "Resource",
     "imageName": "ZarimanMiscItemB.png",
     "category": "Resources",
@@ -3896,6 +3938,10 @@
     "name": "Gorgaricus Spore",
     "description": "The reproductive spore of the giant Vallis fungi is highly coveted for the complex chemical compounds it contains.\n\nLocation: Orb Vallis on Venus",
     "codexSecret": false,
+    "itemCount": 60,
+    "parents": [
+      "Puppeteer"
+    ],
     "type": "Resource",
     "imageName": "VenusCoconut.png",
     "category": "Resources",
@@ -4203,7 +4249,13 @@
     "codexSecret": false,
     "itemCount": 1,
     "parents": [
-      "Exceptional Sentient Core"
+      "Caliban Cranion Helmet",
+      "Exceptional Sentient Core",
+      "Vahd Apparel",
+      "Vahd Cuirass",
+      "Vahd Greaves",
+      "Vahd Mask",
+      "Vahd Pauldrons"
     ],
     "buildPrice": 10000,
     "buildTime": 60,
@@ -4259,6 +4311,22 @@
     "name": "Hespazym Alloy",
     "description": "A compound formed from Hesperon.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "codexSecret": false,
+    "itemCount": 50,
+    "parents": [
+      "Haztech Greaves",
+      "Haztech Mask",
+      "Kubrodon Ventkid Greaves",
+      "Kubrodon Ventkid Mask",
+      "Outrider Greaves",
+      "Outrider Mask",
+      "Smelter Greaves",
+      "Smelter Mask",
+      "Styanax Gerousic Helmet",
+      "Vent Pobber Ventkid Greaves",
+      "Vent Pobber Ventkid Mask",
+      "Vent Rat Greaves",
+      "Vent Rat Mask"
+    ],
     "buildPrice": 1000,
     "buildTime": 60,
     "skipBuildTimePrice": 5,
@@ -4760,6 +4828,10 @@
     "name": "Komms",
     "description": "A component used in secure Grineer communication networks.\n\nLocation: Railjack missions in Earth, Saturn, and Veil Proximas",
     "codexSecret": false,
+    "itemCount": 4,
+    "parents": [
+      "Protea Telema Helmet"
+    ],
     "buildPrice": 1000,
     "buildTime": 120,
     "skipBuildTimePrice": 5,
@@ -5176,6 +5248,10 @@
     "name": "Lunar Pitcher",
     "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
     "codexSecret": false,
+    "itemCount": 50,
+    "parents": [
+      "Seeding Step Ephemera"
+    ],
     "type": "Plant",
     "imageName": "ZenPitcher.png",
     "category": "Resources",
@@ -5346,6 +5422,13 @@
     "name": "Marquise Veridos",
     "description": "Polished and cut to perfection.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
     "codexSecret": false,
+    "itemCount": 20,
+    "parents": [
+      "Loid Sentinel Mask",
+      "Loid Sentinel Skin",
+      "Loid Sentinel Tail",
+      "Loid Sentinel Wing"
+    ],
     "buildPrice": 2500,
     "buildTime": 60,
     "skipBuildTimePrice": 5,
@@ -5782,6 +5865,10 @@
     "name": "Mytocardia Spore",
     "description": "A fungal body prized for its varied uses.\n\nLocation: Orb Vallis on Venus",
     "codexSecret": false,
+    "itemCount": 120,
+    "parents": [
+      "Hang Tenno"
+    ],
     "type": "Resource",
     "imageName": "FungusHeart.png",
     "category": "Resources",
@@ -6091,6 +6178,10 @@
     "name": "Nullstones",
     "description": "Nullstones do not conform to several laws of physics, making them highly prized for optimizing sensitive components.\n\nLocation: Railjack Missions",
     "codexSecret": false,
+    "itemCount": 2,
+    "parents": [
+      "Protea Mavv Helmet"
+    ],
     "type": "Resource",
     "imageName": "RailjackComponentNullstones.png",
     "category": "Resources",
@@ -7278,6 +7369,12 @@
     "codexSecret": false,
     "itemCount": 1,
     "parents": [
+      "Ceno Apparel",
+      "Ceno Cuirass",
+      "Ceno Greaves",
+      "Ceno Helmet",
+      "Ceno Pauldrons",
+      "Eidolon Ephemera",
       "Exceptional Sentient Core"
     ],
     "buildPrice": 10000,
@@ -7548,7 +7645,11 @@
     "codexSecret": false,
     "itemCount": 4,
     "parents": [
-      "Bonewidow Capsule"
+      "Bonewidow Capsule",
+      "Loid Sentinel Mask",
+      "Loid Sentinel Skin",
+      "Loid Sentinel Tail",
+      "Loid Sentinel Wing"
     ],
     "type": "Resource",
     "imageName": "EntratiWisp.png",
@@ -8043,6 +8144,15 @@
     "name": "Sola Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Sola Toroids from enemies located at the Temple of Profit in the Orb Vallis and from Kyta Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
     "codexSecret": false,
+    "itemCount": 5,
+    "parents": [
+      "Haztech Greaves",
+      "Kubrodon Ventkid Greaves",
+      "Outrider Greaves",
+      "Smelter Greaves",
+      "Vent Pobber Ventkid Greaves",
+      "Vent Rat Greaves"
+    ],
     "type": "Resource",
     "imageName": "CrpArachnoidPowerCoreWraith.png",
     "category": "Resources",
@@ -8099,7 +8209,8 @@
     "codexSecret": false,
     "itemCount": 6,
     "parents": [
-      "Bonewidow Capsule"
+      "Bonewidow Capsule",
+      "Styanax Agogean Helmet"
     ],
     "buildPrice": 5000,
     "buildTime": 60,
@@ -8813,6 +8924,11 @@
     "name": "Thermal Sludge",
     "description": "A by-product from the Weeping Towers terraforming processes.\n\nLocation: Orb Vallis on Venus",
     "codexSecret": false,
+    "itemCount": 75,
+    "parents": [
+      "Greedy Milk",
+      "Puppeteer"
+    ],
     "type": "Resource",
     "imageName": "Coolant.png",
     "category": "Resources",
@@ -8900,6 +9016,13 @@
     "name": "Thrax Plasm",
     "description": "Found in the remnants of Thrax Void manifestations, this plasm has several surprisingly practical applications.\n\nLocation: Zariman",
     "codexSecret": false,
+    "itemCount": 300,
+    "parents": [
+      "Gyre Automaton Helmet",
+      "Raptwing Ephemera",
+      "Seraphayre Ephemera",
+      "Styanax Gerousic Helmet"
+    ],
     "type": "Resource",
     "imageName": "VoidWraithItem.png",
     "category": "Resources",
@@ -9555,7 +9678,8 @@
     "codexSecret": false,
     "itemCount": 750,
     "parents": [
-      "Bonewidow Engine"
+      "Bonewidow Engine",
+      "Protea Mavv Helmet"
     ],
     "type": "Resource",
     "imageName": "RailjackComponentTitanium.png",
@@ -10203,6 +10327,15 @@
     "name": "Vega Toroid",
     "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Vega Toroids from enemies located at the Spaceport in the Orb Vallis and from Mite Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
     "codexSecret": false,
+    "itemCount": 5,
+    "parents": [
+      "Haztech Pauldrons",
+      "Kubrodon Ventkid Pauldrons",
+      "Outrider Pauldrons",
+      "Smelter Pauldrons",
+      "Vent Pobber Ventkid Pauldrons",
+      "Vent Rat Pauldrons"
+    ],
     "type": "Resource",
     "imageName": "CrpArachnoidPowerCoreMicroid.png",
     "category": "Resources",
@@ -10252,6 +10385,25 @@
     "name": "Venerdo Alloy",
     "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
     "codexSecret": false,
+    "itemCount": 40,
+    "parents": [
+      "Haztech Apparel",
+      "Haztech Cuirass",
+      "Haztech Pauldrons",
+      "Kubrodon Ventkid Apparel",
+      "Kubrodon Ventkid Cuirass",
+      "Kubrodon Ventkid Pauldrons",
+      "Outrider Cuirass",
+      "Outrider Pauldrons",
+      "Smelter Apparel",
+      "Smelter Cuirass",
+      "Smelter Pauldrons",
+      "Vent Pobber Ventkid Apparel",
+      "Vent Pobber Ventkid Cuirass",
+      "Vent Pobber Ventkid Pauldrons",
+      "Vent Rat Cuirass",
+      "Vent Rat Pauldrons"
+    ],
     "buildPrice": 1000,
     "buildTime": 60,
     "skipBuildTimePrice": 5,
@@ -10457,6 +10609,12 @@
     "name": "Voidgel Orb",
     "description": "A sample of ambient Void energy distilled into a neutral state.\n\nLocation: Zariman",
     "codexSecret": false,
+    "itemCount": 45,
+    "parents": [
+      "Gyre Automaton Helmet",
+      "Raptwing Ephemera",
+      "Seraphayre Ephemera"
+    ],
     "type": "Resource",
     "imageName": "ZarimanMiscItemA.png",
     "category": "Resources",
@@ -10551,6 +10709,11 @@
     "name": "Voidplume Pinion",
     "description": "A Void Angel's living feather, ripped out in combat.\n\nLocation: Zariman",
     "codexSecret": false,
+    "itemCount": 5,
+    "parents": [
+      "Raptwing Ephemera",
+      "Seraphayre Ephemera"
+    ],
     "type": "Resource",
     "imageName": "VoidAngelItem.png",
     "category": "Resources",
