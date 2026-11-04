@@ -8317,8 +8317,8 @@
         "crit_mult": 2.2,
         "status_chance": 38,
         "shot_type": "Projectile",
-        "shot_speed": 85,
-        "flight": 85,
+        "shot_speed": 95,
+        "flight": 95,
         "damage": {
           "slash": 227.5,
           "puncture": 97.5
@@ -8332,8 +8332,8 @@
         "status_chance": 38,
         "charge_time": 1.2,
         "shot_type": "Projectile",
-        "shot_speed": 100,
-        "flight": 100,
+        "shot_speed": 110,
+        "flight": 110,
         "damage": {
           "slash": 350,
           "puncture": 150

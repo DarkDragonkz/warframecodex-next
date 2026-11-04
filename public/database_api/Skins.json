@@ -5868,7 +5868,7 @@
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Plants/Nokko/LisetPropZARxTreeNaturalSapling",
-    "name": "Autumn Tuvul Sapling ",
+    "name": "Autumn Tuvul Sapling",
     "description": "A sapling of a Tuvul tree. ",
     "codexSecret": false,
     "type": "Ship Decoration",
@@ -25644,7 +25644,7 @@
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/MoaPet/MoaPetPersonalityA",
-    "name": "Emotion Module: Sensitive ",
+    "name": "Emotion Module: Sensitive",
     "codexSecret": false,
     "excludeFromCodex": true,
     "description": "Overrides the default operating system with a caring empath-agent.",
@@ -87894,7 +87894,7 @@
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/WraithQuestRewardDeco",
-    "name": "Statuette - Sevagoth ",
+    "name": "Statuette - Sevagoth",
     "description": "Pay homage to the helmsman of The Tempestarii with this Orbiter decoration.",
     "codexSecret": false,
     "excludeFromCodex": true,
@@ -87906,7 +87906,7 @@
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropOstStoneFish",
-    "name": "Statuette - Thousand-Year Fish ",
+    "name": "Statuette - Thousand-Year Fish",
     "description": "A glass carving depicting the colossal Thousand-Year Fish of Ostron legend.",
     "codexSecret": false,
     "type": "Ship Decoration",
@@ -109461,12 +109461,20 @@
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpClassRoomPostersAh",
-    "name": "Zariman Poster Arrangement ",
+    "name": "Zariman Poster Arrangement",
     "description": "A large set of posters depicting various space scenes.",
     "codexSecret": false,
     "type": "Ship Decoration",
     "imageName": "ZARxPrpClassRoomPostersAh.png",
     "category": "Skins",
+    "drops": [
+      {
+        "location": "The Holdfasts (Hombask), Seraph",
+        "type": "Zariman Poster Arrangement",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
     "tradable": false,
     "masterable": false
   },
