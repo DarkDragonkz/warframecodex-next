@@ -83006,7 +83006,7 @@
     ],
     "tradable": true,
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/HystericalAssaultMod.png?c65b8",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/HystericalAssaultMod.png?99b48",
     "wikiaUrl": "https://wiki.warframe.com/w/Hysterical_Assault",
     "transmutable": false,
     "introduced": {
@@ -180209,6 +180209,19 @@
     "wikiaThumbnail": "https://wiki.warframe.com/images/PrimedStreamlineMod.png?6706a",
     "wikiaUrl": "https://wiki.warframe.com/w/Primed_Streamline",
     "transmutable": false,
+    "introduced": {
+      "name": "TBA",
+      "url": "https://wiki.warframe.com/w/Upcoming_Features",
+      "aliases": [
+        "TBA",
+        "999",
+        "999.0",
+        "999.0.0"
+      ],
+      "parent": "0.0",
+      "date": "0000-00-00"
+    },
+    "releaseDate": "0000-00-00",
     "isPrime": true,
     "masterable": false
   },
@@ -244350,21 +244363,20 @@
     ],
     "tradable": true,
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/SonicSiphonMod.png?a5b3b",
-    "wikiaUrl": "https://wiki.warframe.com/w/Sonic_Siphon",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SonicFractureMod.png?e74f0",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sonic_Fracture",
     "transmutable": false,
     "introduced": {
-      "name": "Update 44.0",
-      "url": "https://wiki.warframe.com/w/Update_44%3A_Iceblade_of_Narin",
+      "name": "Update 16.6",
+      "url": "https://wiki.warframe.com/w/Update_16%23Update_16.6",
       "aliases": [
-        "44",
-        "44.0",
-        "Iceblade of Narin"
+        "16.6.0",
+        "16.6"
       ],
-      "parent": "44.0",
-      "date": "2026-09-23"
+      "parent": "16.6",
+      "date": "2015-05-27"
     },
-    "releaseDate": "2026-09-23",
+    "releaseDate": "2015-05-27",
     "isPrime": false,
     "masterable": false
   },
@@ -259745,7 +259757,7 @@
     ],
     "tradable": true,
     "wikiAvailable": true,
-    "wikiaThumbnail": "https://wiki.warframe.com/images/SwingLineMod.png?7591c",
+    "wikiaThumbnail": "https://wiki.warframe.com/images/SwingLineMod.png?6a655",
     "wikiaUrl": "https://wiki.warframe.com/w/Swing_Line",
     "transmutable": false,
     "introduced": {
